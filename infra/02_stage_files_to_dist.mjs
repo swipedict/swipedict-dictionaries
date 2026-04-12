@@ -14,7 +14,10 @@ const DICTIONARIES_ROOT = path.resolve(SWIPEDICT_ROOT, 'swipedict-dictionaries')
 const PACKAGES_DIR = path.join(DICTIONARIES_ROOT, 'packages'); // Correct path to packages
 
 const DIST_DIR = path.join(DICTIONARIES_ROOT, 'dist');         // Correct path to dist
-const MEDIA_SOURCE_DIR = path.join(SWIPEDICT_ROOT, 'swipedict-dictionaries-media'); // Correct path to media source
+// Override with MEDIA_SOURCE env var to point at any local clone of swipedict-dictionaries-media
+const MEDIA_SOURCE_DIR = process.env.MEDIA_SOURCE
+    ? path.resolve(process.env.MEDIA_SOURCE)
+    : path.join(SWIPEDICT_ROOT, 'swipedict-dictionaries-media');
 const MEDIA_DEST_DIR = path.join(DIST_DIR, 'media');        // Correct path to media destination
 
 const PROPERTIES_FILENAME = '_dictionary.properties';

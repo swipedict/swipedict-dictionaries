@@ -5,9 +5,9 @@
 /index-*
 
 
-# Environment / credentials
-env/
-*.env
+# Environment / credentials (keep *.env.example files for documentation)
+**/*.env
+!**/*.env.example
 
 # Dependencies
 node_modules/
