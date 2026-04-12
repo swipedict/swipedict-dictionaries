@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-different",
+  "parent": "ms-ro-altfel-da21d5d8@7ec95e49e26b9fc682d1cd5a8ff2d3d1",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "different",
+    "definition": "not the same as something else; distinct or unlike",
+    "pronunciation": "/ˈdɪfərənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"different\" comes from the Latin 'different-', the present participle of 'differre', meaning 'to carry apart' or 'to be unlike'. It entered English through Old French and has been used since the Middle Ages to describe something that is not the same as another.",
+        "targetText": "Cuvântul englezesc „different” provine din latină, de la participiul prezent „different-” al verbului „differre”, care înseamnă „a purta separat” sau „a fi diferit”. A intrat în limba engleză prin franceza veche și este folosit din Evul Mediu pentru a descrie ceva care nu este la fel cu altceva."
+      },
+      "source": "AI"
+    },
+    "additional": "It is used to indicate distinctions or deviations from something else."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "altfel",
+    "definition": "diferit de ceva, nu la fel",
+    "pronunciation": "/ˈaltfel/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"altfel\" is an internal formation from \"alt\" (from Latin \"altus\") and \"fel\" (meaning: kind, manner), considered a native compound.",
+        "targetText": "Cuvântul „altfel” este format intern în română din „alt” (din latină „altus”) și „fel” (sens: mod, fel), fiind o compunere autohtonă."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Oft in Vergleichen verwendet, um zu zeigen, wie etwas sich unterscheidet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "deviant",
+      "targetText": "deviat"
+    },
+    {
+      "sourceText": "unique",
+      "targetText": "unic"
+    },
+    {
+      "sourceText": "foreign",
+      "targetText": "străin"
+    },
+    {
+      "sourceText": "variable",
+      "targetText": "variabil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "same",
+      "targetText": "la fel"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "That is different from what I expected.",
+      "targetText": "Asta este altfel decât mă așteptam."
+    },
+    {
+      "sourceText": "We have to do it differently.",
+      "targetText": "Trebuie să facem altfel."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'altfel' means 'in another way'—think of it as doing things differently, like taking a new path."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'altfel' to the English word 'alter' which means to change, helping you recall the idea of difference."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'altfel' as 'all-fell'—everything fell into a new way, highlighting difference."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'different' and 'altfel' both expressing uniqueness or deviation from the usual."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-bruising",
+  "parent": "ms-ro-vanataie-cad3375f@3743c89e259f2b587dd25265c4e16195",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bruising",
+    "genus": "feminine",
+    "definition": "An injury where tissue is damaged by a blow or impact without breaking the skin, often causing discoloration due to bleeding under the skin.",
+    "pronunciation": "/ˈbruːzɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'bruise' comes from the Old English 'brūsen', meaning to crush or injure by a blow. It is related to similar words in other Germanic languages and reflects the effect of a blow causing tissue damage.",
+        "targetText": "Cuvântul englezesc „bruise” provine din engleza veche „brūsen”, care înseamnă a zdrobi sau a răni printr-o lovitură. Este legat de cuvinte similare din alte limbi germanice și reflectă efectul unei lovituri care cauzează leziuni ale țesuturilor."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânătaie",
+    "genus": "feminine",
+    "definition": "O leziune a țesutului cauzată de o lovitură sau un șoc, fără a deteriora pielea, caracterizată prin decolorarea pielii datorită sângerării subcutanate.",
+    "pronunciation": "/vəˈnəta.je/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'vânătaie' derives from 'vânăt', meaning 'bluish' or 'blue', and comes from the Latin adjective 'vannatus', which meant 'colored' or 'spotted'.",
+        "targetText": "Cuvântul românesc „vânătaie“ derivă din „vânăt“, care înseamnă „albastru“ sau „învinețit“, provenind din adjectivul latin 'vannatus', care însemna „colorat“ sau „petețit“."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bruise",
+      "targetText": "hematom"
+    },
+    {
+      "sourceText": "blow",
+      "targetText": "lovitură"
+    },
+    {
+      "sourceText": "swelling",
+      "targetText": "umflare"
+    },
+    {
+      "sourceText": "injury",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "After the fall, he had a large bruise on his leg.",
+      "targetText": "După căzătură, a avut o vânătaie mare pe picior."
+    },
+    {
+      "sourceText": "The bruising hurts, but the skin is not broken.",
+      "targetText": "Vânătaia doare, dar pielea nu este rănită."
+    },
+    {
+      "sourceText": "He got a bruise from the heavy blow.",
+      "targetText": "A primit o vânătaie din cauza loviturii puternice."
+    },
+    {
+      "sourceText": "A bruise usually heals without leaving scars.",
+      "targetText": "O vânătaie se vindecă de obicei fără cicatrici."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'bruise' as the skin's way of showing it got 'bruised' or hurt by a bump or hit."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'vânătaie' comes from 'vânăt', meaning 'bluish'—just like the typical color of a bruise."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the ending '-aie' in 'vânătaie' is common in Romanian nouns that describe conditions or results, here the result of a hit."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a blue 'van' (vehicle) getting attacked ('ataie' sounds like 'attack') causing a blue bruise: vânătaie."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

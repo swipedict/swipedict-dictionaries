@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-minus",
+  "parent": "ms-ro-minus-38a3b777@8bba6f5c9d27df9829c48af5fa1dae97",
+  "part_of_speech": "preposition",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "minus",
+    "definition": "A symbol or term used to indicate subtraction or a negative value.",
+    "pronunciation": "/ˈmaɪnəs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"minus\" comes from Latin \"minus\", meaning 'less' or 'smaller'. It entered English through mathematical and scholarly use to denote subtraction or negative quantities.",
+        "targetText": "Cuvântul englezesc „minus” provine din latină „minus”, care înseamnă 'mai puțin' sau 'mai mic'. A intrat în limba engleză prin utilizarea matematică și academică pentru a desemna scăderea sau cantități negative."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "minus",
+    "definition": "Semn sau termen care indică scăderea sau o valoare negativă.",
+    "pronunciation": "/ˈminus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"minus\" was directly borrowed from the Latin word \"minus\", meaning 'less' or 'smaller', and is used in mathematics as a symbol for negative values.",
+        "targetText": "Cuvântul românesc „minus” este împrumutat direct din latină, unde „minus” înseamnă 'mai puțin' sau 'mai mic' și este folosit în matematică pentru a indica valori negative."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mathematics",
+      "targetText": "matematică"
+    },
+    {
+      "sourceText": "negative",
+      "targetText": "negativ"
+    },
+    {
+      "sourceText": "plus",
+      "targetText": "plus"
+    },
+    {
+      "sourceText": "subtraction",
+      "targetText": "scădere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "plus",
+      "targetText": "plus"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The temperature today is minus five degrees.",
+      "targetText": "Temperatura este astăzi de minus cinci grade."
+    },
+    {
+      "sourceText": "Five minus three is two.",
+      "targetText": "Cinci minus trei este doi."
+    },
+    {
+      "sourceText": "The result is minus ten.",
+      "targetText": "Rezultatul este minus zece."
+    },
+    {
+      "sourceText": "Minus one is less than zero.",
+      "targetText": "Minus unu este mai mic decât zero."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'minus' means 'less' or 'smaller' and is commonly used in math to indicate subtraction or negative numbers."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'minus' sounds almost the same as the English word, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the minus sign as a small dash that means 'take away' or 'less', just like the word 'minus' itself."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'minus' with the English word 'minus'—both share the same meaning and help reinforce your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

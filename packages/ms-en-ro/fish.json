@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-fish",
+  "parent": "ms-ro-peste-1334efcf@ac39df3929e5910a46335e549c4c0c46",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fish",
+    "genus": "masculine",
+    "definition": "An aquatic animal with gills and fins that lives in fresh or salt water.",
+    "pronunciation": "/fɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'fish' originates from Old English 'fisc', which derives from the Proto-Germanic root *fiskaz.",
+        "targetText": "Cuvântul englezesc „fish” provine din engleza veche 'fisc', care derivă din rădăcina proto-germanică *fiskaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pește",
+    "genus": "masculine",
+    "definition": "Un animal acvatic cu branhii și înotătoare, care trăiește în apă dulce sau sărată.",
+    "pronunciation": "/peˈʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pește' comes from the Latin 'piscis', meaning 'fish'.",
+        "targetText": "Cuvântul românesc „pește” provine din latină, din 'piscis', care înseamnă 'pește'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fishing",
+      "targetText": "pescuit"
+    },
+    {
+      "sourceText": "Fin",
+      "targetText": "înotătoare"
+    },
+    {
+      "sourceText": "Sea",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "Water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The fish swims in the water.",
+      "targetText": "Peștele înoată în apă."
+    },
+    {
+      "sourceText": "I like to eat fish for dinner.",
+      "targetText": "Îmi place să mănânc pește la cină."
+    },
+    {
+      "sourceText": "Fish live in rivers and seas.",
+      "targetText": "Peștii trăiesc în râuri și mări."
+    },
+    {
+      "sourceText": "The fisherman caught many fish.",
+      "targetText": "Pescarul a prins mulți pești."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'pește' sounds like 'pest', so imagine a fish avoiding a pest to remember it."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pește' ending with an 'e', similar to many masculine Romanian nouns ending in -e."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'pește' with water and swimming to keep the word vivid in your mind."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'pește' comes from Latin 'piscis', which is also the root of the English word 'piscatorial' related to fishing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

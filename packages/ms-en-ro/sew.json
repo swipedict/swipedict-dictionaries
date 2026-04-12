@@ -1,0 +1,147 @@
+{
+  "id": "ms-en-ro-sew",
+  "parent": "ms-ro-a-coase-7a096924@8acf2041fa7eb7b4a8760d17e33294e1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sew",
+    "definition": "to join pieces of fabric or other materials together using a needle and thread",
+    "pronunciation": "/soʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word 'sew' comes from an Indo-European root and refers to the activity of joining fabrics with thread.",
+        "targetText": "Cuvântul „nähen“ are rădăcini indo-europene și desemnează activitatea de a uni materiale cu ață."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "'Sew' traditionally includes both hand sewing and industrial textile processing."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a coase",
+    "definition": "a uni țesături sau alte materiale cu un ac și fir",
+    "pronunciation": "/a ˈko.ase/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a coase' derives from the Latin 'coctare', meaning 'to sew' or 'to join', describing the art of joining fabrics.",
+        "targetText": "Verbul românesc „a coase“ derivă din latinul „coctare“, care înseamnă „a coase“ sau „a uni“ materiale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Sewing has a long tradition in Romanian culture, encompassing both practical and artistic aspects."
+  },
+  "senses": [
+    {
+      "gloss": "joining threads",
+      "explanation": {
+        "sourceText": "This means to stitch fabrics together.",
+        "targetText": "Înseamnă a coase materiale împreună."
+      },
+      "examples": [
+        {
+          "sourceText": "I am sewing a coat.",
+          "targetText": "Eu coase un palton."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "thread",
+      "targetText": "fir"
+    },
+    {
+      "sourceText": "needle",
+      "targetText": "ac"
+    },
+    {
+      "sourceText": "tailor",
+      "targetText": "croitor"
+    },
+    {
+      "sourceText": "fabric",
+      "targetText": "material"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "tear",
+      "targetText": "a rupe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I sew.",
+      "targetText": "Eu cos."
+    },
+    {
+      "sourceText": "Do you sew?",
+      "targetText": "Cosi?"
+    },
+    {
+      "sourceText": "He/She sews.",
+      "targetText": "El/Ea coase."
+    },
+    {
+      "sourceText": "We sew.",
+      "targetText": "Noi coasem."
+    },
+    {
+      "sourceText": "You (plural) sew.",
+      "targetText": "Voi coaseți."
+    },
+    {
+      "sourceText": "They sew.",
+      "targetText": "Ei coasează."
+    },
+    {
+      "sourceText": "I have sewn.",
+      "targetText": "Am cusut."
+    },
+    {
+      "sourceText": "I will sew.",
+      "targetText": "Voi coase."
+    },
+    {
+      "sourceText": "Sew!",
+      "targetText": "Coase!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'sew' sounding like 'so', as in 'so stitch it up!' to remember 'a coase'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'a coase' starts with 'co-', like 'coat', something you might sew."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a tailor saying 'I sew' to fix your clothes, linking 'sew' with 'a coase'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'coase' sounds like 'cozy', and sewing makes clothes cozy and warm."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

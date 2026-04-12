@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-lawyer",
+  "parent": "ms-ro-avocat-06a215dc@ee87640133383383a538a38e4be3fdd8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lawyer",
+    "genus": "masculine",
+    "definition": "A person who provides legal advice and represents clients in court.",
+    "pronunciation": "/ˈlɔːjər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"lawyer\" derives from the word \"law\" combined with the agent suffix \"-yer\", indicating someone who practices or is concerned with law.",
+        "targetText": "Cuvântul englezesc „lawyer” derivă din cuvântul „law” combinat cu sufixul agent „-yer”, indicând o persoană care practică sau se ocupă de drept."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avocat",
+    "genus": "masculine",
+    "definition": "Persoană care oferă consultanță juridică și reprezintă clienți în instanță.",
+    "pronunciation": "/avoˈkat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"avocat\" comes from the Latin 'advocatus', meaning 'one called to aid', originally a person who assisted in court.",
+        "targetText": "Cuvântul românesc „avocat” provine din latină, din 'advocatus', care înseamnă 'apropiat chemat', inițial o persoană care asista în instanță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "court",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "client",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "attorney",
+      "targetText": "avocat"
+    },
+    {
+      "sourceText": "defender",
+      "targetText": "apărător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "plaintiff",
+      "targetText": "reclamant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The lawyer advises his client before the trial.",
+      "targetText": "Avocatul își sfătuiește clientul înainte de proces."
+    },
+    {
+      "sourceText": "A good lawyer knows the laws very well.",
+      "targetText": "Un avocat bun cunoaște legile foarte bine."
+    },
+    {
+      "sourceText": "The lawyer represents his client's interests in court.",
+      "targetText": "Avocatul reprezintă interesele clientului său în instanță."
+    },
+    {
+      "sourceText": "She hired an experienced lawyer.",
+      "targetText": "Ea a angajat un avocat cu experiență."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'lawyer' contains 'law', making it easy to associate with legal matters and someone who practices law."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'avocat' sounds like the English 'advocate', which also means someone who supports or defends, helping you link the meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a lawyer as your legal 'advocate' in court—this connection helps you recall the Romanian 'avocat'."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'lawyer' and 'avocat' relate to helping and defending in legal situations, so associating them with 'advocate' can strengthen your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

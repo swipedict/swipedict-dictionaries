@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-roundabout",
+  "parent": "ms-ro-sens-giratoriu-5e5c0c19@c720b0c37eb8edb7e9e859e715f9d4dc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "roundabout",
+    "genus": "masculine",
+    "definition": "A type of road junction where traffic moves in one direction around a central island to improve safety and traffic flow.",
+    "pronunciation": "/ˈraʊndəˌbaʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'roundabout' is a compound of 'round', meaning circular or revolving, and 'about', indicating movement around something. It originally described something indirect or circuitous before being used for circular traffic junctions.",
+        "targetText": "Cuvântul englezesc „roundabout” este un compus din „round”, care înseamnă circular sau rotativ, și „about”, indicând mișcarea în jurul unui obiect. Inițial a descris ceva indirect sau ocolit, înainte de a fi folosit pentru intersecțiile rutiere circulare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Fixed phrase commonly used in road traffic contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sens giratoriu",
+    "genus": "neuter",
+    "definition": "O intersecție rutieră în care traficul circulă în jurul unui cerc, pentru a fluidiza și a crește siguranța circulației.",
+    "pronunciation": "/sens ʒiraˈto.riu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term „sens giratoriu” is a calque from the French „sens giratoire”, where „sens” comes from the Latin „sensus” (direction) and „giratoire” derives from „gyrer” (to turn), itself from the Latin „gyrāre”.",
+        "targetText": "Termenul românesc „sens giratoriu” este un calchiu după francezul „sens giratoire”, unde „sens” provine din latinul „sensus” (direcție), iar „giratoire” derivă din „gyrer” (a se învârti), la rândul său din latinul „gyrāre”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feste Wendung, die im Straßenverkehr verwendet wird."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Traffic light",
+      "targetText": "semafor"
+    },
+    {
+      "sourceText": "Intersection",
+      "targetText": "intersecție"
+    },
+    {
+      "sourceText": "Street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Traffic",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Traffic light intersection",
+      "targetText": "intersecție cu semafor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The roundabout ensures smoother traffic flow.",
+      "targetText": "Sensul giratoriu asigură un trafic mai fluid."
+    },
+    {
+      "sourceText": "In the roundabout, traffic from the left has the right of way.",
+      "targetText": "În sensul giratoriu, traficul din stânga are prioritate."
+    },
+    {
+      "sourceText": "Please drive slowly in the roundabout and watch out for pedestrians.",
+      "targetText": "Vă rugăm să circulați încet în sensul giratoriu și să aveți grijă de pietoni."
+    },
+    {
+      "sourceText": "The new roundabout was built last year.",
+      "targetText": "Sensul giratoriu nou a fost construit anul trecut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'roundabout' by thinking of cars going 'round' a 'bout' or circle—just like the Romanian 'sens giratoriu' means a circular direction."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'giratoriu' sounds like 'giraffe' with 'tor'—imagine a giraffe spinning around in a circle to recall the turning motion."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the French origin 'giratoire' meaning 'to turn'—vehicles turn around the roundabout, just like in 'sens giratoriu'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'sens' to 'sense' or 'direction' in English to remember that 'sens giratoriu' relates to the direction of traffic flow."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

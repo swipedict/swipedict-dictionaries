@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-hallway",
+  "parent": "ms-ro-hol-1fe41991@7f35f370fc5c664fbb3ad4c1f86a78b0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hallway",
+    "genus": "masculine",
+    "definition": "A long, narrow space inside a building that connects different rooms, often used as a corridor or passage.",
+    "pronunciation": "/ˈhɔːl.weɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'hallway' combines 'hall', from Old English 'heall' meaning a large room or building, with 'way', meaning a path or route, referring to a passage within a building.",
+        "targetText": "Cuvântul englezesc „hallway” combină „hall”, din engleza veche „heall” care însemna o cameră mare sau clădire, cu „way”, care înseamnă cale sau drum, referindu-se la un pasaj într-o clădire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "hol",
+    "genus": "neuter",
+    "definition": "Un spațiu lung și îngust într-o casă, care leagă alte camere, adesea un coridor sau o sală.",
+    "pronunciation": "/hol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'hol' comes from the German word 'Hohl', meaning 'hollow' or 'empty space', and was adopted as a loanword.",
+        "targetText": "Cuvântul românesc „hol” provine din germană, din 'Hohl', care înseamnă 'gol' sau 'spațiu gol', fiind un împrumut."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "corridor",
+      "targetText": "coridor"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    },
+    {
+      "sourceText": "room",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The hallway is very wide.",
+      "targetText": "Holul este foarte lat."
+    },
+    {
+      "sourceText": "Many pictures hang in the hallway.",
+      "targetText": "În hol sunt agățate multe poze."
+    },
+    {
+      "sourceText": "The hallway connects the rooms.",
+      "targetText": "Holul leagă camerele."
+    },
+    {
+      "sourceText": "Please wait in the hallway.",
+      "targetText": "Te rog să aștepți în hol."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'hol' sounds like 'hole', which can help you think of an empty passage or space inside a house."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'hol' is borrowed from a word meaning 'hollow', so think of a hollow space connecting rooms."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'hallway' as a path inside a house, and 'hol' is the Romanian equivalent for that connecting space."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine walking through a 'hol' seeing doors to different rooms, just like walking down a hallway."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

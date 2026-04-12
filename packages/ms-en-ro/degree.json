@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-degree",
+  "parent": "ms-ro-grad-e6f9533f@5f34e77bf7fd301290c08b62a984316b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "lexicographer-ai",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "degree",
+    "definition": "A unit of measurement used to quantify temperature or angles, representing a specific portion on a scale.",
+    "pronunciation": "/dɪˈɡriː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'degree' originates from the Latin 'gradus', meaning 'step' or 'stage'.",
+        "targetText": "Cuvântul englezesc „degree“ provine din latină, din 'gradus', care înseamnă 'pas' sau 'treaptă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "grad",
+    "genus": "neuter",
+    "definition": "Unitate de măsură pentru temperatură sau unghi, indicând o anumită porțiune pe o scară.",
+    "pronunciation": "/ɡrad/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'grad' derives directly from the Latin 'gradus', meaning 'step' or 'stage'.",
+        "targetText": "Cuvântul românesc „grad“ provine direct din latină, din 'gradus', cu sensul de 'pas' sau 'treaptă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "measurement",
+      "targetText": "măsurare"
+    },
+    {
+      "sourceText": "scale",
+      "targetText": "scară"
+    },
+    {
+      "sourceText": "temperature",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "angle",
+      "targetText": "unghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The temperature is 20 degrees Celsius.",
+      "targetText": "Temperatura este de 20 de grade Celsius."
+    },
+    {
+      "sourceText": "A right angle has 90 degrees.",
+      "targetText": "Un unghi drept are 90 de grade."
+    },
+    {
+      "sourceText": "The scale is divided into degrees.",
+      "targetText": "Scala este împărțită în grade."
+    },
+    {
+      "sourceText": "The outside temperature today is 15 degrees.",
+      "targetText": "Temperatura exterioară este astăzi de 15 grade."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'degree' comes from the Latin word for 'step', so think of it as a step on a scale."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'grad' sounds like 'grad' in English, making it easier to recall its meaning related to measurement."
+    },
+    {
+      "lang": "en",
+      "text": "In English, 'degree' is used for both temperature and angles, just like 'grad' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a staircase with many 'degrees' (steps) to remember that a degree represents a unit of measurement."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

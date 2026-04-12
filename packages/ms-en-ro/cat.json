@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-cat",
+  "parent": "ms-ro-pisica-c7972f5d@8bb2209fcac3e0666deaa72758303729",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cat",
+    "genus": "feminine",
+    "definition": "A small domesticated carnivorous mammal with soft fur, commonly kept as a pet.",
+    "pronunciation": "/kæt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'cat' originates from the Late Latin 'cattus', which referred to the domesticated feline, and was adopted into English through various European languages.",
+        "targetText": "Cuvântul englezesc „cat” provine din latina târzie 'cattus', care desemna felina domestică, fiind preluat în engleză prin diverse limbi europene."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pisică",
+    "genus": "feminine",
+    "definition": "Un animal mic, de obicei domesticit, cu blană moale, ținut adesea ca animal de companie.",
+    "pronunciation": "/piˈsi.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian word 'pisică' is unclear; it is most likely an onomatopoeic or internally formed word, possibly influenced by Slavic or other unknown sources.",
+        "targetText": "Originea cuvântului românesc „pisică” este incertă; cel mai probabil este un cuvânt onomatopeic sau format intern, posibil sub influență slavă sau din alte surse necunoscute."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "pet",
+      "targetText": "animal de companie"
+    },
+    {
+      "sourceText": "tomcat",
+      "targetText": "motan"
+    },
+    {
+      "sourceText": "cat food",
+      "targetText": "hrană pentru pisici"
+    },
+    {
+      "sourceText": "kitty",
+      "targetText": "pisicuță"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The cat sleeps all day.",
+      "targetText": "Pisica doarme toată ziua."
+    },
+    {
+      "sourceText": "My cat is very playful.",
+      "targetText": "Pisica mea este foarte jucăușă."
+    },
+    {
+      "sourceText": "The cat is chasing a mouse.",
+      "targetText": "Pisica aleargă după un șoarece."
+    },
+    {
+      "sourceText": "I saw a black cat.",
+      "targetText": "Am văzut o pisică neagră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'cat' which is short and simple, just like the Romanian 'pisică' is a common pet name."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'pisică' sounds a bit like 'pussycat', a cute English term for a cat, helping you link the words easily."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ică' in Romanian often makes words sound smaller or cuter, perfect for a little cat, similar to English diminutives like 'kitty'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a cat balancing on the Leaning Tower of Pisa to connect 'pisică' with the famous Italian city Pisa."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

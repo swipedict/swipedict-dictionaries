@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-episode",
+  "parent": "ms-ro-episod-a80a632c@667bbe3530436125df5da402bec61b34",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:greek",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "episode",
+    "genus": "neuter",
+    "definition": "A single part of a series, especially a television or radio program installment.",
+    "pronunciation": "/ˈɛpɪsoʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"episode\" comes from the Greek word \"epísodos,\" meaning 'entrance' or 'incident,' originally referring to a part of a play or story.",
+        "targetText": "Cuvântul englezesc „episode” provine din cuvântul grecesc „epísodos”, care înseamnă „intrare” sau „eveniment”, referindu-se inițial la o parte a unei piese sau povești."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "episod",
+    "genus": "neuter",
+    "definition": "O parte individuală a unei serii, în special a unui program de televiziune sau radio.",
+    "pronunciation": "/e.piˈsod/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"episod\" was borrowed from the French \"épisode,\" which in turn comes from the Greek \"epísodos\" (\"entrance, intermediate event\").",
+        "targetText": "Cuvântul românesc „episod” a fost preluat din francezul „épisode”, care provine din grecescul „epísodos” („intrare, eveniment intermediar”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "program",
+      "targetText": "emisiune"
+    },
+    {
+      "sourceText": "series",
+      "targetText": "serial"
+    },
+    {
+      "sourceText": "season",
+      "targetText": "sezon"
+    },
+    {
+      "sourceText": "part",
+      "targetText": "parte"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The new episode of the series will be released next week.",
+      "targetText": "Noul episod al serialului apare săptămâna viitoare."
+    },
+    {
+      "sourceText": "I did not watch the last episode.",
+      "targetText": "Nu am văzut ultimul episod."
+    },
+    {
+      "sourceText": "Each episode lasts about 45 minutes.",
+      "targetText": "Fiecare episod durează aproximativ 45 de minute."
+    },
+    {
+      "sourceText": "The episode was broadcast on television.",
+      "targetText": "Episodul a fost difuzat la televizor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'episode' as a part of a story, like a chapter in a book or a scene in a TV show."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'episod' sounds very similar to the English 'episode,' making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'episode' as an 'event' or 'incident' within a larger narrative, which helps connect to its Greek origin."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a TV series as a chain of events—each 'episode' is a link in that chain."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

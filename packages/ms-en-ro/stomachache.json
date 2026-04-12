@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-stomachache",
+  "parent": "ms-ro-durere-de-burta-b8ca67fd@d9e743f8e487bd5221d59cc0a3564fb5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stomachache",
+    "genus": "masculine",
+    "definition": "Pain located in the abdominal area, often caused by various reasons.",
+    "pronunciation": "/ˈstʌməkˌeɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"stomachache\" is a compound of \"stomach\" and \"ache\", where \"ache\" comes from Old English 'æce', meaning 'pain' or 'suffering'.",
+        "targetText": "Cuvântul englezesc „stomachache” este o compunere din „stomach” și „ache”, unde „ache” provine din engleza veche 'æce', care înseamnă 'durere' sau 'suferință'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "durere de burtă",
+    "genus": "feminine",
+    "definition": "Durere localizată în zona abdominală, cauzată de diverse motive.",
+    "pronunciation": "/duˈre.re de bur.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase \"durere de burtă\" is an internal formation from the words \"durere\" (pain) and \"burtă\" (belly), where \"durere\" derives from Latin 'dolor'.",
+        "targetText": "Expresia românească „durere de burtă” este o construcție internă din cuvintele „durere” (durere) și „burtă” (burtă), unde „durere” provine din latină, din 'dolor'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "stomach",
+      "targetText": "burtă"
+    },
+    {
+      "sourceText": "headache",
+      "targetText": "durere de cap"
+    },
+    {
+      "sourceText": "stomach pain",
+      "targetText": "durere de stomac"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have had a stomachache since yesterday.",
+      "targetText": "Am durere de burtă de ieri."
+    },
+    {
+      "sourceText": "Stomachaches can have many causes.",
+      "targetText": "Durerea de burtă poate avea multe cauze."
+    },
+    {
+      "sourceText": "If you have severe stomachache, you should see a doctor.",
+      "targetText": "La dureri puternice de burtă trebuie să mergi la doctor."
+    },
+    {
+      "sourceText": "Sometimes warmth and rest help against stomachaches.",
+      "targetText": "Uneori căldura și odihna ajută la durerile de burtă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"stomachache\" is a compound word combining \"stomach\" (belly) and \"ache\" (pain), making it easy to guess the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian phrase \"durere de burtă\" literally means \"pain of belly\", similar to the English structure."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"ache\" as a common term for pain, which helps you connect it to \"durere\" in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "To remember \"burtă\", imagine a bear (sounds like 'bur') holding its belly because it has a stomachache."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

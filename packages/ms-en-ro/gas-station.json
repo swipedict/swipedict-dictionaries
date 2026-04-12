@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-gas-station",
+  "parent": "ms-ro-benzinarie-68cb846b@ad5dc3c5b4ff534094a17c5065811403",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "gas station",
+    "genus": "feminine",
+    "definition": "A place where vehicles can refuel with gasoline or other fuels.",
+    "pronunciation": "/ˈɡæs ˌsteɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'gas station' combines 'gas', short for gasoline, derived from 'gasoline' which originated from the Latin root related to 'gas', and 'station', meaning a designated place.",
+        "targetText": "Cuvântul englezesc „gas station” combină „gas”, prescurtare pentru benzină, derivată din „gasoline” care provine din rădăcina latină legată de „gas”, și „station”, care înseamnă un loc desemnat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "benzinărie",
+    "genus": "feminine",
+    "definition": "Loc unde vehiculele pot fi alimentate cu combustibil.",
+    "pronunciation": "/benziˈnəri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'benzinărie' comes from the French 'benzinerie', which in turn derives from 'benzine', a term for flammable hydrocarbons originally borrowed from the Latin 'benzinum'.",
+        "targetText": "Cuvântul românesc „benzinărie” provine din franceza 'benzinerie', care la rândul său derivă din 'benzine', un termen pentru hidrocarburi ușor inflamabile, împrumutat inițial din latină 'benzinum'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Fuel",
+      "targetText": "combustibil"
+    },
+    {
+      "sourceText": "Tank",
+      "targetText": "rezervor"
+    },
+    {
+      "sourceText": "Fuel pump",
+      "targetText": "pompa de benzină"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I need to refuel at the gas station.",
+      "targetText": "Trebuie să alimentez la benzinărie."
+    },
+    {
+      "sourceText": "The gas station is open 24 hours.",
+      "targetText": "Benzinăria este deschisă non-stop."
+    },
+    {
+      "sourceText": "There is also a small shop at the gas station.",
+      "targetText": "La benzinărie există și un magazin mic."
+    },
+    {
+      "sourceText": "Prices at the gas station have increased today.",
+      "targetText": "Prețurile la benzinărie au crescut astăzi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'benzinărie' by linking it to the English word 'benzine', a type of fuel, which sounds very similar and relates directly to gasoline."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-ărie' in Romanian often indicates a place or establishment, like 'patiserie' (bakery), so think of 'benzinărie' as a place for 'benzină' (gasoline)."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'benzinărie' as a 'gas oasis' for your car, where you go to refuel, similar to how 'gas station' works in English."
+    },
+    {
+      "lang": "en",
+      "text": "The word starts with 'benz-', similar to 'benzene' or 'benzine', both related to fuel, helping you remember it’s about gasoline."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

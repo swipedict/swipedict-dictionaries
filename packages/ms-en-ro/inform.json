@@ -1,0 +1,200 @@
+{
+  "id": "ms-en-ro-inform",
+  "parent": "ms-ro-a-informa-b01319a1@1dcbb413808abdcb0dcad7167d2bf9e2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inform",
+    "definition": "to give someone facts or knowledge about something",
+    "pronunciation": "/ɪnˈfɔːrm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"inform\" comes from the Latin verb \"informare,\" meaning \"to shape\" or \"to give form or idea.\"",
+        "targetText": "Cuvântul englezesc „inform” provine din verbul latin „informare”, care înseamnă „a da formă” sau „a da o idee”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used to convey knowledge or news."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a informa",
+    "definition": "a da informații cu privire la ceva",
+    "pronunciation": "/a inˈfor.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a informa\" was borrowed in the 19th century from the French \"informer,\" which in turn derives from the Latin \"informare.\"",
+        "targetText": "Verbul românesc „a informa” a fost împrumutat în secolul al XIX-lea din franceză, „informer”, care la rândul său provine din latină, „informare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Commonly used in both formal and informal contexts."
+  },
+  "senses": [
+    {
+      "gloss": "Explanation",
+      "explanation": {
+        "sourceText": "\"Explanation\" can also be used as \"explicație.\"",
+        "targetText": "'Explicație' oferită cuiva."
+      },
+      "examples": [
+        {
+          "sourceText": "The explanation was clear.",
+          "targetText": "Explicația a fost clară."
+        }
+      ]
+    },
+    {
+      "gloss": "Message",
+      "explanation": {
+        "sourceText": "\"Message\" can also be translated as \"informație.\"",
+        "targetText": "'Mesaj' sau 'informație' transmisă."
+      },
+      "examples": [
+        {
+          "sourceText": "I have good news.",
+          "targetText": "Am o veste bună."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "explanation",
+      "targetText": "explicație"
+    },
+    {
+      "sourceText": "news",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "knowledge",
+      "targetText": "cunoaștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "conceal",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I inform my friends about the event.",
+      "targetText": "Eu informez prietenii mei despre eveniment."
+    },
+    {
+      "sourceText": "Do you inform me about the latest news?",
+      "targetText": "Mă informezi despre cele mai recente știri?"
+    },
+    {
+      "sourceText": "He informs the participants about the program.",
+      "targetText": "El informează participanții despre program."
+    },
+    {
+      "sourceText": "We inform everyone in time.",
+      "targetText": "Noi informăm pe toată lumea la timp."
+    },
+    {
+      "sourceText": "Do you inform the others about the changes?",
+      "targetText": "Informați-i pe ceilalți despre modificări?"
+    },
+    {
+      "sourceText": "They inform the group about the progress.",
+      "targetText": "Ei informează grupul despre progres."
+    },
+    {
+      "sourceText": "I have already informed you.",
+      "targetText": "Te-am informat deja."
+    },
+    {
+      "sourceText": "They have informed the participants.",
+      "targetText": "Ei au informat participanții."
+    },
+    {
+      "sourceText": "He informed the viewers about the topic.",
+      "targetText": "El informa spectatorii despre subiect."
+    },
+    {
+      "sourceText": "I had informed you before you arrived.",
+      "targetText": "V-am informat înainte să ajungeți."
+    },
+    {
+      "sourceText": "I will inform the data as soon as possible.",
+      "targetText": "Voi informa datele cât mai curând posibil."
+    },
+    {
+      "sourceText": "He will inform the results later.",
+      "targetText": "El o să informeze rezultatele mai târziu."
+    },
+    {
+      "sourceText": "I would inform you if I could.",
+      "targetText": "Te-aș informa dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you also inform the others.",
+      "targetText": "Este important să-i informezi și pe ceilalți."
+    },
+    {
+      "sourceText": "Inform your colleagues!",
+      "targetText": "Informează-ți colegii!"
+    },
+    {
+      "sourceText": "Please inform all participants!",
+      "targetText": "Informați toți participanții, vă rog!"
+    },
+    {
+      "sourceText": "The informed persons know.",
+      "targetText": "Persoanele informate știu."
+    },
+    {
+      "sourceText": "The data is now informed.",
+      "targetText": "Datele sunt acum informate."
+    },
+    {
+      "sourceText": "While I informed the group, I asked many questions.",
+      "targetText": "Informând grupul, am pus multe întrebări."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"inform\" and the Romanian \"a informa\" are cognates, making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you are informing a group of friends about a new movie—this helps link the word to sharing news."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the root \"form\" in \"inform\" relates to shaping or giving an idea, which connects to giving information."
+    },
+    {
+      "lang": "en",
+      "text": "Practice sentences where you inform someone, like \"I inform my colleagues,\" to solidify usage."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

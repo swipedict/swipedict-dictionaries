@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-drop",
+  "parent": "ms-ro-picatura-2cfb9755@d062081373604d52a3b755abcbcdd076",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "drop",
+    "genus": "masculine",
+    "definition": "A small, round-shaped amount of liquid that falls slowly from something.",
+    "pronunciation": "/drɒp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'drop' comes from Old English 'dropa', related to the verb 'drip', meaning to fall in small amounts of liquid.",
+        "targetText": "Cuvântul englezesc „drop” provine din engleza veche 'dropa', legat de verbul 'drip', care înseamnă a cădea în cantități mici de lichid."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "Commonly used in everyday English to describe small amounts of liquid."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "picătură",
+    "genus": "feminine",
+    "definition": "O cantitate mică de lichid, rotundă, care cade încet de pe ceva.",
+    "pronunciation": "/piˈkə.tu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'picătură' derives from the Latin 'pictura', which originally meant 'painting', but in Romanian it semantically evolved to mean 'small drop', possibly influenced by the verb 'a picura' (to drip).",
+        "targetText": "Cuvântul românesc „picătură” provine din latină, din 'pictura' care inițial însemna 'pictură', dar în română a evoluat semantic spre 'picătură mică', probabil influențat de verbul 'a picura' (a picura)."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Substantiv feminin, plural: picături."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "liquid",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "tear",
+      "targetText": "lacrimă"
+    },
+    {
+      "sourceText": "to drip (verb)",
+      "targetText": "a picura"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "A drop of water fell on the floor.",
+      "targetText": "O picătură de apă a căzut pe podea."
+    },
+    {
+      "sourceText": "The drops of rain tapped on the window.",
+      "targetText": "Picăturile ploii băteau în geam."
+    },
+    {
+      "sourceText": "Please give me a few drops of medicine.",
+      "targetText": "Te rog, dă-mi câteva picături de medicament."
+    },
+    {
+      "sourceText": "The drops of tears sparkled in the light.",
+      "targetText": "Picăturile lacrimilor străluceau în lumină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'drop' as a tiny bit of liquid falling, just like a raindrop or a drop of water from a faucet."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'picătură' sounds like 'picture'—imagine a small 'picture' or dot of liquid falling."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the verb 'to drip' in English is related to 'drop'; similarly, 'a picura' means 'to drip' in Romanian, linking the words."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ură' in Romanian often forms nouns indicating results or small things, so 'picătură' means a small drop."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-gas",
+  "parent": "ms-ro-gaz-7eefc673@11e3486e550759eb6014fd1429fd8ae1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "gas",
+    "genus": "neuter",
+    "definition": "A state of matter without a fixed shape or volume that expands freely to fill any space.",
+    "pronunciation": "/ɡæs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word 'gas' was coined in the 17th century by chemist Jan Baptist van Helmont and derives from the Greek word 'chaos', meaning 'void' or 'primordial state'.",
+        "targetText": "Cuvântul „gas” a fost creat în secolul al XVII-lea de chimistul Jan Baptist van Helmont și provine din cuvântul grecesc 'chaos', care înseamnă 'vid' sau 'stare primordială'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gaz",
+    "genus": "neuter",
+    "definition": "O stare a materiei fără formă fixă și volum fix, care se extinde liber.",
+    "pronunciation": "/ɡaz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'gaz' comes from the French 'gaz', which in turn was coined from the Greek 'chaos' by the chemist Jan Baptist van Helmont.",
+        "targetText": "Cuvântul românesc „gaz” provine din franceza 'gaz', care la rândul său a fost creat din grecescul 'chaos' de către chimistul Jan Baptist van Helmont."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "steam",
+      "targetText": "abur"
+    },
+    {
+      "sourceText": "liquid",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "air",
+      "targetText": "aer"
+    },
+    {
+      "sourceText": "combustion",
+      "targetText": "ardere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "solid",
+      "targetText": "solid"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The gas fills the entire room.",
+      "targetText": "Gazul umple toată camera."
+    },
+    {
+      "sourceText": "We use gas for cooking.",
+      "targetText": "Folosim gazul pentru gătit."
+    },
+    {
+      "sourceText": "Gas can be invisible and odorless.",
+      "targetText": "Gazul poate fi invizibil și inodor."
+    },
+    {
+      "sourceText": "The car runs on gas.",
+      "targetText": "Mașina merge pe gaz."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'gaz' sounds almost like the English 'gas'—easy to remember!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'gaz' coming from French 'gaz', which traces back to Greek 'chaos'—just like how gas particles move chaotically."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a gas balloon floating in the air—'gaz' is light and invisible, just like gas."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'gaz' with 'gas stove'—both share the same root and are common in everyday life."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

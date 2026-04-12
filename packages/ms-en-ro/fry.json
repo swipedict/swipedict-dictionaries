@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-fry",
+  "parent": "ms-ro-a-praji-26dff149@bc87041088b806dc9c638b9885b5864f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fry",
+    "definition": "To cook food in hot fat or oil until it becomes crispy and golden brown.",
+    "pronunciation": "/fraɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'fry' comes from the Old French 'frire', which itself derives from the Latin 'frigere', meaning 'to roast or fry'.",
+        "targetText": "Cuvântul englezesc „fry” provine din francezul vechi 'frire', care la rândul său derivă din latinul 'frigere', însemnând 'a prăji sau a rumeni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a prăji",
+    "definition": "A găti alimente în ulei sau grăsime fierbinte până devin crocante și aurii.",
+    "pronunciation": "/a prəˈʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a prăji' is an inherited word from Latin, probably from 'perfrigere' ('to roast, to fry'), or possibly from a pre-Roman (Dacian) source.",
+        "targetText": "Verbul românesc „a prăji” este moștenit din latină, probabil din 'perfrigere' ('a prăji, a rumeni'), sau posibil dintr-o sursă preromană (dacă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb, regular forms."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "baking",
+      "targetText": "a coace"
+    },
+    {
+      "sourceText": "roasting",
+      "targetText": "a frige"
+    },
+    {
+      "sourceText": "fat",
+      "targetText": "grăsime"
+    },
+    {
+      "sourceText": "cooking",
+      "targetText": "a găti"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "steaming",
+      "targetText": "a găti la abur"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I fry the fries until they are golden brown.",
+      "targetText": "Prăjesc cartofii până devin aurii."
+    },
+    {
+      "sourceText": "You should not heat the oil too much when frying.",
+      "targetText": "Nu trebuie să încălzești uleiul prea tare când prăjești."
+    },
+    {
+      "sourceText": "Fried foods are often very crispy.",
+      "targetText": "Mâncărurile prăjite sunt adesea foarte crocante."
+    },
+    {
+      "sourceText": "Can you please fry the onions?",
+      "targetText": "Poți, te rog, să prăjești ceapa?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a prăji' sounds like 'pry' with a 'zh' sound—imagine prying open a hot pan to fry something delicious."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'prăji' starting with 'pr' like 'prepare'—you prepare food by frying it."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'prăji' with the sizzling sound of frying oil—'pr' like the crackling noise."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'prăji' to the English word 'pressure'—frying uses hot oil under pressure to cook food quickly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

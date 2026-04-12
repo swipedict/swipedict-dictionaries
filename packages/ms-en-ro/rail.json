@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-rail",
+  "parent": "ms-ro-sina-29242035@a1d52fefcb8baaf309568b2d92f311eb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "rail",
+    "definition": "A metal bar or track on which trains run.",
+    "pronunciation": "/reɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"rail\" originates from the Old French 'reille', meaning a bar or rod, which itself comes from the Latin 'regula', meaning a straight stick or ruler. Over time, it came to refer specifically to the metal bars forming train tracks.",
+        "targetText": "Cuvântul englezesc „rail” provine din franceza veche 'reille', care înseamnă bară sau tijă, la rândul său derivat din latină 'regula', care înseamnă o tijă dreaptă sau riglă. În timp, a ajuns să desemneze în mod specific barele metalice care formează șinele de cale ferată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șină",
+    "genus": "neuter",
+    "definition": "O bucată metalică pe care circulă trenurile.",
+    "pronunciation": "/ʃiˈnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"șină\" is an internal formation originally referring to a metal bar or strip. Its exact origin is uncertain, but there is no direct connection to the Latin \"scena\".",
+        "targetText": "Cuvântul românesc „șină” este o formare internă, desemnând inițial o bară sau o bandă metalică. Originea exactă este incertă, fără legătură directă cu latinescul „scena”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "station",
+      "targetText": "gară"
+    },
+    {
+      "sourceText": "timetable",
+      "targetText": "orariu"
+    },
+    {
+      "sourceText": "rail",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "train",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The train departs from rail 5.",
+      "targetText": "Trenul pleacă de pe șina 5."
+    },
+    {
+      "sourceText": "The rail is clearly marked at the station.",
+      "targetText": "Șina este bine marcată în gară."
+    },
+    {
+      "sourceText": "Please wait on the rail for the train.",
+      "targetText": "Vă rugăm să așteptați trenul pe șină."
+    },
+    {
+      "sourceText": "The rails are made of steel.",
+      "targetText": "Șinele sunt făcute din oțel."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'șină' sounds like 'sheena'—imagine Sheena standing on the rail to help you recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian letter 'ș' sounds like 'sh' in English, just like the 'sh' in 'sheep' or 'ship'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'scene' on a stage where trains run on rails—'șină' sounds a bit like 'scene' but means rail."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'rail' with Romanian 'șină' through their shared meaning related to train tracks."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

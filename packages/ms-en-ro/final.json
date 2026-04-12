@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-final",
+  "parent": "ms-ro-definitiv-869df85a@eb8404d84f439947f7ccbbf903c4bfd5",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "final",
+    "definition": "Irrevocable, conclusive, and ultimately decided or settled.",
+    "pronunciation": "/ˈfaɪnəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective “final” comes from the Latin word 'finalis', meaning 'pertaining to an end or boundary'. It entered English through Old French, carrying the sense of something that marks the end or conclusion.",
+        "targetText": "Cuvântul englezesc „final” provine din latină, din cuvântul 'finalis', care înseamnă 'referitor la un sfârșit sau o limită'. A intrat în limba engleză prin franceza veche, păstrând sensul a ceva care marchează sfârșitul sau concluzia."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "definitiv",
+    "definition": "Care este irevocabil, final și stabilit definitiv.",
+    "pronunciation": "/definiˈtiv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “definitiv” comes from Latin 'definitivus', meaning 'completed' or 'determined'.",
+        "targetText": "Cuvântul românesc „definitiv” provine din latină 'definitivus', care înseamnă 'finalizat' sau 'precizat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "conclusive",
+      "targetText": "final"
+    },
+    {
+      "sourceText": "end",
+      "targetText": "sfârșit"
+    },
+    {
+      "sourceText": "valid",
+      "targetText": "valabil"
+    },
+    {
+      "sourceText": "irrevocable",
+      "targetText": "irevocabil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "provisional",
+      "targetText": "provizoriu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The decision is final.",
+      "targetText": "Decizia este definitivă."
+    },
+    {
+      "sourceText": "The result is final and cannot be changed.",
+      "targetText": "Rezultatul este definitiv și nu poate fi schimbat."
+    },
+    {
+      "sourceText": "Final agreements are binding.",
+      "targetText": "Acordurile definitive sunt obligatorii."
+    },
+    {
+      "sourceText": "The contract is finally signed.",
+      "targetText": "Contractul este semnat definitiv."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'definitiv' in Romanian sounds like 'definitive' in English, both meaning something that is final and settled."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'final' as the English equivalent of 'endgültig'—something that marks the end with no possibility to change."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'definitiv' is often used in legal or official contexts, just like 'final' or 'definitive' in English."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'definitiv', think of a 'definite' decision—clear, certain, and irreversible."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

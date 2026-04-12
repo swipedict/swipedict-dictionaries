@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-sell",
+  "parent": "ms-ro-a-vinde-f9bdeda1@1f7e33e841b6357749e1ea15b5d184e0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sell",
+    "definition": "to give something in exchange for money",
+    "pronunciation": "/sɛl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'sell' originates from Old English 'sellan', meaning to give or deliver. It is related to similar words in other Germanic languages and has evolved to mean exchanging goods or services for money.",
+        "targetText": "Verbul englezesc „sell“ provine din engleza veche „sellan“, care înseamnă a da sau a livra. Este înrudit cu cuvinte similare din alte limbi germanice și a evoluat pentru a desemna schimbul de bunuri sau servicii contra banilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in business contexts to describe the exchange of goods or services for money."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vinde",
+    "definition": "a preda ceva în schimbul banilor",
+    "pronunciation": "/a ˈvinde/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a vinde' derives from the Latin 'vendere', meaning 'to sell'. It reflects the cultural influence of trade on the language.",
+        "targetText": "Verbul român „a vinde“ provine din latină, din „vendere“, însemnând „a vinde“. Reflectă influența culturală a comerțului asupra limbii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-e). Frequently used in everyday language for all kinds of selling scenarios, from market sales to online commerce."
+  },
+  "senses": [
+    {
+      "gloss": "Equivalent to the English 'sell'",
+      "explanation": {
+        "sourceText": "This means to give a product in exchange for money.",
+        "targetText": "Înseamnă a preda un bun în schimbul banilor."
+      },
+      "examples": [
+        {
+          "sourceText": "I sell fresh vegetables.",
+          "targetText": "Vând legume proaspete."
+        }
+      ]
+    },
+    {
+      "gloss": "Price markup",
+      "explanation": {
+        "sourceText": "The price at which something is sold can vary.",
+        "targetText": "Prețul la care se vinde ceva poate varia."
+      },
+      "examples": [
+        {
+          "sourceText": "I increased the price of the product.",
+          "targetText": "Am crescut prețul produsului."
+        }
+      ]
+    },
+    {
+      "gloss": "Selling services",
+      "explanation": {
+        "sourceText": "Selling in the sense of offering services.",
+        "targetText": "Vânzarea serviciilor oferite."
+      },
+      "examples": [
+        {
+          "sourceText": "He sells software.",
+          "targetText": "El vinde software."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "customer",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "market",
+      "targetText": "piață"
+    },
+    {
+      "sourceText": "price",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "seller",
+      "targetText": "vânzător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "buy",
+      "targetText": "a cumpăra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I sell my car.",
+      "targetText": "Vând mașina mea."
+    },
+    {
+      "sourceText": "Do you sell the books?",
+      "targetText": "Vinzi cărțile?"
+    },
+    {
+      "sourceText": "He sells his old CDs.",
+      "targetText": "El vinde CD-urile lui vechi."
+    },
+    {
+      "sourceText": "We sell many products.",
+      "targetText": "Vândem multe produse."
+    },
+    {
+      "sourceText": "Do you sell this furniture?",
+      "targetText": "Vindeți aceste mobilier?"
+    },
+    {
+      "sourceText": "They sell the newest toys.",
+      "targetText": "Ei vând cele mai recente jucării."
+    },
+    {
+      "sourceText": "I have sold the house.",
+      "targetText": "Am vândut casa."
+    },
+    {
+      "sourceText": "They have sold the kitchen.",
+      "targetText": "Ei au vândut bucătăria."
+    },
+    {
+      "sourceText": "He sold ice cream every summer.",
+      "targetText": "El vindea înghețată în fiecare vară."
+    },
+    {
+      "sourceText": "I had already sold the table when he arrived.",
+      "targetText": "Vândusem deja masa când a sosit."
+    },
+    {
+      "sourceText": "I will sell my bicycle.",
+      "targetText": "Voi vinde bicicleta mea."
+    },
+    {
+      "sourceText": "She will sell the old camera.",
+      "targetText": "Ea o să vândă camera veche."
+    },
+    {
+      "sourceText": "I would sell it if I could.",
+      "targetText": "Aș vinde dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you sell the product.",
+      "targetText": "Este necesar să vinzi produsul."
+    },
+    {
+      "sourceText": "Sell your old things!",
+      "targetText": "Vinde-ți lucrurile vechi!"
+    },
+    {
+      "sourceText": "Sell the reservations!",
+      "targetText": "Vindeți rezervările!"
+    },
+    {
+      "sourceText": "The sold product was very popular.",
+      "targetText": "Produsul vândut a fost foarte popular."
+    },
+    {
+      "sourceText": "The ticket is sold.",
+      "targetText": "Biletul este vândut."
+    },
+    {
+      "sourceText": "By advertising, he sold many products.",
+      "targetText": "Vânzând, el a vândut multe produse."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'sell' and Romanian 'a vinde' are cognates—both relate to exchanging goods for money, making it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "The past participle 'vândut' sounds similar to English 'vend' or 'vendue', helping you link it to selling."
+    },
+    {
+      "lang": "en",
+      "text": "Focus on the conjugation: 'vând' (I sell), 'vindeți' (you sell) — typical Romanian verb endings that help you recognize the verb form."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a market stall where you 'sell' fresh vegetables—this image connects the English word with the Romanian 'a vinde'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

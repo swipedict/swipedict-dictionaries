@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-prison",
+  "parent": "ms-ro-inchisoare-2335a634@ffdb89cd666d0220eb58974e2c0628aa",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prison",
+    "definition": "A place where people are confined as a punishment for crimes they have committed.",
+    "pronunciation": "/ˈprɪzən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'prison' comes from the Old French 'prison', which derives from the Latin 'prensio', meaning 'a taking or grasping', related to the verb 'prehendere' meaning 'to seize'.",
+        "targetText": "Cuvântul englezesc „prison” provine din franceza veche „prison”, care derivă din latina „prensio”, însemnând „a lua sau a apuca”, legat de verbul „prehendere” care înseamnă „a prinde”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "închisoare",
+    "genus": "feminine",
+    "definition": "Loc unde sunt ținuți oamenii ca pedeapsă pentru infracțiuni comise.",
+    "pronunciation": "/ɨn.kiˈʃo.a.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „închisoare” is an internal derivation from the verb „a închide” (meaning 'to close, to lock up') with the suffix „-oare” used to form nouns.",
+        "targetText": "Cuvântul românesc „închisoare” este format intern, derivat din verbul „a închide” cu sufixul „-oare” pentru a forma substantive."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "prisoner",
+      "targetText": "deținut"
+    },
+    {
+      "sourceText": "detention",
+      "targetText": "aresta"
+    },
+    {
+      "sourceText": "police",
+      "targetText": "poliție"
+    },
+    {
+      "sourceText": "punishment",
+      "targetText": "pedeapsă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freedom",
+      "targetText": "libertate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The prison is located on the outskirts of the city.",
+      "targetText": "Închisoarea se află la marginea orașului."
+    },
+    {
+      "sourceText": "He was sentenced to five years in prison.",
+      "targetText": "A fost condamnat la cinci ani de închisoare."
+    },
+    {
+      "sourceText": "Many prisoners hope for early release.",
+      "targetText": "Mulți deținuți speră la eliberare anticipată."
+    },
+    {
+      "sourceText": "The prison is well guarded.",
+      "targetText": "Închisoarea este bine păzită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word „închisoare” by linking it to the English verb 'to enclose'—both involve the idea of locking or closing in."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-oare' in Romanian often forms nouns indicating places or instruments, similar to how '-ory' or '-ery' works in English."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'închide' (to close) as the root of 'închisoare', just like 'prison' relates to the concept of seizing or holding someone."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize locking someone inside a place—that's how the word for prison is formed in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

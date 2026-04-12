@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-random",
+  "parent": "ms-ro-aleatoriu-9c41c339@ed8b6eb55c0df394054da3494dc79030",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "random",
+    "definition": "happening without definite aim, reason, or pattern; unpredictable",
+    "pronunciation": "/ˈrændəm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"random\" originates from the Old French word \"randon\" meaning 'speed, haste, or impetuosity', which itself derives from a Germanic root. It evolved to describe actions done without definite aim or pattern.",
+        "targetText": "Cuvântul englezesc „random” provine din vechiul francez „randon”, care însemna „viteză, grabă sau impulsivitate”, derivat dintr-o rădăcină germanică. A evoluat pentru a descrie acțiuni făcute fără scop sau model precis."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is commonly used to describe events or selections made without planning or predictability."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aleatoriu",
+    "genus": "masculine",
+    "definition": "fără planificare sau intenție, neprevăzut",
+    "pronunciation": "/ale.aˈto.ri.u/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"aleatoriu\" comes from the Latin \"aleatorius\", meaning \"related to dice\", expressing the random nature of events.",
+        "targetText": "Cuvântul românesc „aleatoriu” provine din latină „aleatorius”, însemnând „legate de zaruri”, exprimând caracterul întâmplător al evenimentelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "random",
+      "explanation": {
+        "sourceText": "English loanword used with a similar meaning.",
+        "targetText": "Împrumut din engleză, folosit cu sens similar."
+      },
+      "examples": [
+        {
+          "sourceText": "The random selection of participants was important.",
+          "targetText": "Selecția aleatorie a participanților a fost importantă."
+        }
+      ]
+    },
+    {
+      "gloss": "randomness",
+      "explanation": {
+        "sourceText": "The noun form derived from the adjective 'random'.",
+        "targetText": "Substantiv derivat din adjectivul „aleatoriu”."
+      },
+      "examples": [
+        {
+          "sourceText": "The randomness of the result was surprising.",
+          "targetText": "Aleatoriul rezultat a fost surprinzător."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "chance",
+      "targetText": "șansă"
+    },
+    {
+      "sourceText": "event",
+      "targetText": "eveniment"
+    },
+    {
+      "sourceText": "accident",
+      "targetText": "accident"
+    },
+    {
+      "sourceText": "satisfaction",
+      "targetText": "satisfacție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "intentional",
+      "targetText": "intenționat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "It was a random meeting at the café.",
+      "targetText": "A fost o întâlnire aleatorie în cafenea."
+    },
+    {
+      "sourceText": "They came across this information randomly.",
+      "targetText": "Ei au dat peste această informație aleatorie."
+    },
+    {
+      "sourceText": "The random numbers made the survey exciting.",
+      "targetText": "Numerele aleatorii au făcut sondajul interesant."
+    },
+    {
+      "sourceText": "Random events can often create the best memories.",
+      "targetText": "Evenimentele aleatorii pot crea adesea cele mai bune amintiri."
+    },
+    {
+      "sourceText": "I found this picture by chance.",
+      "targetText": "Am găsit din întâmplare această imagine."
+    },
+    {
+      "sourceText": "They accidentally found the correct solution.",
+      "targetText": "Ei au găsit din întâmplare soluția corectă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of rolling dice when you hear \"aleatoriu\"—it helps link the word to randomness."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a game player shouting \"aleatoriu\" every time they roll the dice—this makes the word memorable."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"aleatoriu\" with the English word \"aleatory,\" which also relates to chance and randomness."
+    },
+    {
+      "lang": "en",
+      "text": "Use \"aleatoriu\" when talking about unexpected or unplanned events to reinforce its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

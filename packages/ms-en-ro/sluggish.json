@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-sluggish",
+  "parent": "ms-ro-lenes-a8b0bb68@0ccc4ce7cf4fbede321254a2701fc627",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sluggish",
+    "definition": "moving or acting slowly, lacking energy or alertness",
+    "pronunciation": "/ˈslʌɡɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"sluggish\" derives from \"slug,\" a slow-moving mollusk, combined with the suffix \"-ish\" to describe something slow or inactive.",
+        "targetText": "Cuvântul englezesc „sluggish” provine de la „slug” (melc), un molusc lent, combinat cu sufixul „-ish” pentru a descrie ceva lent sau inactiv."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "\"Sluggish\" can describe both physical slowness and mental lethargy."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "leneș",
+    "genus": "masculine",
+    "definition": "care evită efortul, este lipsit de energie sau activitate",
+    "pronunciation": "/le'neʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"leneș\" comes from the noun \"lene\" (laziness), possibly derived from the Latin \"lenis\" (mild, soft). The exact origin is uncertain.",
+        "targetText": "Cuvântul „leneș” provine din substantivul „lene” (lenevie), posibil derivat din latinescul „lenis” (blând, moale). Originea exactă este incertă."
+      },
+      "source": "Dicționarul Etimologic Român, linguistic sources"
+    },
+    "additional": "\"Leneș\" poate descrie atât o stare temporară de pasivitate, cât și o trăsătură de caracter."
+  },
+  "senses": [
+    {
+      "gloss": "sluggish / slow",
+      "explanation": {
+        "sourceText": "\"Sluggish\" can also mean \"slow\" or \"inactive in movement.\"",
+        "targetText": "„Träge” poate însemna și „lent” sau „greoi în mișcare”."
+      },
+      "examples": [
+        {
+          "sourceText": "I feel quite sluggish today.",
+          "targetText": "Mă simt destul de leneș astăzi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "lazy",
+      "targetText": "leneș"
+    },
+    {
+      "sourceText": "slow",
+      "targetText": "încet"
+    },
+    {
+      "sourceText": "sluggish movement",
+      "targetText": "mișcare leneșă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "active",
+      "targetText": "activ"
+    },
+    {
+      "sourceText": "diligent",
+      "targetText": "sârguincios"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "On sluggish days, I can never be truly productive.",
+      "targetText": "În zilele leneșe nu sunt niciodată cu adevărat productiv."
+    },
+    {
+      "sourceText": "She felt exhausted and tired on this sluggish day.",
+      "targetText": "Se simțea epuizată și obosită în această zi leneșă."
+    },
+    {
+      "sourceText": "He left a sluggish impression.",
+      "targetText": "A lăsat o impresie leneșă."
+    },
+    {
+      "sourceText": "The sluggish movement of the plan was noticed by everyone.",
+      "targetText": "Mișcarea leneșă a planului a fost observată de toți."
+    },
+    {
+      "sourceText": "I am often sluggish when it rains outside.",
+      "targetText": "Sunt adesea leneș când plouă afară."
+    },
+    {
+      "sourceText": "He showed sluggishness at work.",
+      "targetText": "S-a arătat leneș la muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a slug moving slowly—this helps remember that \"leneș\" means slow or lazy."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the English word \"sluggish\" sounds like \"leneș\" and both describe low energy."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"leneș\" with the English word \"languid,\" which also means lacking energy."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine yourself feeling sluggish on a rainy day, just like the Romanian \"leneș.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

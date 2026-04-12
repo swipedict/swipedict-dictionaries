@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-departure",
+  "parent": "ms-ro-plecare-1fb74f10@5ab48d41f9d850f92c5c54be0ce3afcf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "departure",
+    "genus": "feminine",
+    "definition": "The act or time when a vehicle, especially a train or car, begins its journey.",
+    "pronunciation": "/dɪˈpɑːrtʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'departure' comes from the verb 'depart', which originates from Old French 'departir', meaning 'to divide or separate', ultimately derived from Latin 'departire'. It refers to the action of leaving or setting out.",
+        "targetText": "Cuvântul englezesc „departure” provine din verbul „depart”, care are originea în vechea limbă franceză „departir”, însemnând „a separa” sau „a împărți”, derivat din latină „departire”. Se referă la acțiunea de a pleca sau a porni la drum."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plecare",
+    "genus": "feminine",
+    "definition": "Momentul sau acțiunea când un vehicul pornește la drum.",
+    "pronunciation": "/pleˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun „plecare” derives from the Latin verb 'plicare' meaning 'to fold', but in Romanian it has semantically expanded to mean 'departure' or 'setting out'.",
+        "targetText": "Substantivul românesc „plecare” provine din verbul latin 'plicare' (a plia), dar în română a căpătat sensul de 'plecare' sau 'pornire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "takeoff",
+      "targetText": "decolare"
+    },
+    {
+      "sourceText": "arrival",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "start",
+      "targetText": "start"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "arrival",
+      "targetText": "sosire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The departure of the train is at 3 p.m.",
+      "targetText": "Plecare trenului este la ora 15."
+    },
+    {
+      "sourceText": "We must not miss the departure.",
+      "targetText": "Nu trebuie să ratăm plecarea."
+    },
+    {
+      "sourceText": "The departure from the airport is delayed.",
+      "targetText": "Plecare de la aeroport întârzie."
+    },
+    {
+      "sourceText": "The departure is scheduled for tomorrow morning.",
+      "targetText": "Plecare este planificată pentru mâine dimineață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'plecare' sounds like 'play car'—imagine playing with a toy car before it departs."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'plecare' as 'plea car'—a car making a plea to leave, helping you recall it means departure."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'plecare' to 'leave' by imagining folding (like the Latin root 'plicare') your things before you leave."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'departure' with 'plecare' because both describe the moment when you start a journey or leave a place."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

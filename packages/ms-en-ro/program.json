@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-program",
+  "parent": "ms-ro-program-92ed7784@9d34b630ffa62c6541fc0c78531468bc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "program",
+    "genus": "neuter",
+    "definition": "A planned sequence of broadcasts on television or radio.",
+    "pronunciation": "/ˈproʊɡræm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'program' comes from the Greek 'programma', meaning 'public notice', through French, and was adopted into English in the 17th century.",
+        "targetText": "Cuvântul englezesc „program” provine din grecescul 'programma', care înseamnă 'anunț public', prin franceză, fiind preluat în engleză în secolul al XVII-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "program",
+    "genus": "neuter",
+    "definition": "O succesiune planificată de emisiuni la televizor sau radio.",
+    "pronunciation": "/proˈɡram/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Cuvântul românesc „program” provine din limba latină târzie, prin intermediul francezului „programme”, care la rândul său derivă din grecescul 'programma', însemnând 'anunț public' sau 'plan'.",
+        "targetText": "Das rumänische Wort „program” stammt aus dem spätlateinischen über das Französische „programme“, das vom griechischen 'programma' abstammt und 'öffentliche Bekanntmachung' oder 'Plan' bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "television",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "radio",
+      "targetText": "radio"
+    },
+    {
+      "sourceText": "broadcast",
+      "targetText": "emisiune"
+    },
+    {
+      "sourceText": "schedule",
+      "targetText": "orar"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The TV program starts at 8 p.m.",
+      "targetText": "Programul de televiziune începe la ora 20."
+    },
+    {
+      "sourceText": "I watched the program for tonight.",
+      "targetText": "Am văzut programul pentru această seară."
+    },
+    {
+      "sourceText": "The radio has an interesting program today.",
+      "targetText": "Radio-ul are un program interesant astăzi."
+    },
+    {
+      "sourceText": "There is a movie scheduled at 10 p.m.",
+      "targetText": "În program este un film la ora 22."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'program' sounds almost exactly like the English 'program' – this makes it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'program' comes from the Greek 'programma', meaning 'public notice' – think of a TV guide announcing shows."
+    },
+    {
+      "lang": "en",
+      "text": "In Romanian, 'program' is pronounced similarly to English but with a softer 'g' sound – making it easy to say."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine planning your day with a 'PROGRAM' – just like a TV schedule, everything is neatly organized and planned."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

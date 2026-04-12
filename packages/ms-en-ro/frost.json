@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-frost",
+  "parent": "ms-ro-inghet-c9541151@0a5c141b177643340e0b0f1ecbc4545d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "frost",
+    "genus": "masculine",
+    "definition": "A weather condition where the temperature drops below freezing, causing ice to form on surfaces.",
+    "pronunciation": "/frɒst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"frost\" originates from Old English 'forst', related to the Proto-Indo-European root *preus- meaning 'to freeze'.",
+        "targetText": "Cuvântul englezesc „frost” provine din engleza veche 'forst', înrudit cu rădăcina proto-indo-europeană *preus- care înseamnă 'a îngheța'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "îngheț",
+    "genus": "neuter",
+    "definition": "Fenomen meteorologic când temperatura scade sub punctul de îngheț și se formează gheață.",
+    "pronunciation": "/ɨnˈɡe̯t͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"îngheț\" is an internal formation, created from the prefix 'în-' and the noun 'gheață' (derived from Latin 'glacies' meaning 'ice').",
+        "targetText": "Cuvântul românesc „îngheț” este format intern, din prefixul 'în-' și substantivul 'gheață' (moștenit din latinul 'glacies' – 'gheață')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ice",
+      "targetText": "gheață"
+    },
+    {
+      "sourceText": "freezing point",
+      "targetText": "punct de îngheț"
+    },
+    {
+      "sourceText": "cold",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "winter",
+      "targetText": "iarna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "heat",
+      "targetText": "căldură"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "In winter, frost often occurs at night.",
+      "targetText": "Iarna apare adesea îngheț noaptea."
+    },
+    {
+      "sourceText": "The frost damaged the plants.",
+      "targetText": "Înghețul a deteriorat plantele."
+    },
+    {
+      "sourceText": "You should drive carefully when there is frost.",
+      "targetText": "La îngheț trebuie să conduci cu grijă."
+    },
+    {
+      "sourceText": "Frost forms beautiful ice crystals.",
+      "targetText": "Înghețul formează cristale frumoase de gheață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'îngheț' by thinking of 'in' + 'get' — like water 'getting into' ice, helping you connect it to freezing."
+    },
+    {
+      "lang": "en",
+      "text": "The 'gheț' part of 'îngheț' sounds like 'get' but relates to 'gheață' meaning ice, so think of 'getting ice' to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'îngheț' with the English word 'frost'—both describe freezing weather, so linking them helps remember the Romanian term."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine winter frost 'getting in' everywhere — 'în' means 'in' in Romanian, making 'îngheț' a handy word to remember for freezing conditions."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

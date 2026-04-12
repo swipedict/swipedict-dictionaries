@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-request",
+  "parent": "ms-ro-a-solicita-f418b087@04a12f7491e1c6f28e8b9fc6767c8a14",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "request",
+    "definition": "to formally or politely ask someone to do something",
+    "pronunciation": "/rɪˈkwɛst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'request' comes from the Old French 'requester', which derives from Latin 'requaerere', meaning 'to seek again' or 'to ask'. It is used to express a polite or formal demand or invitation.",
+        "targetText": "Cuvântul englezesc „request” provine din franceza veche „requester”, care derivă din latină „requaerere”, însemnând „a căuta din nou” sau „a cere”. Este folosit pentru a exprima o cerere politicoasă sau formală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is often used in formal contexts to ask someone to perform an action or to make a polite demand."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a solicita",
+    "definition": "a solicita cuiva să facă ceva",
+    "pronunciation": "/a sɔliˈcita/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'a solicita' comes from the Latin 'sollicitare', meaning 'to urge' or 'to request'.",
+        "targetText": "Românescul „a solicita” derivă din latină, din „sollicitare”, însemnând „a cere“ sau „a solicita“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Este folosit frecvent pentru a exprima cereri sau solicitări formale."
+  },
+  "senses": [
+    {
+      "gloss": "Instruction",
+      "explanation": {
+        "sourceText": "To give instructions to a person.",
+        "targetText": "Pentru a da instrucțiuni unei persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "I give you an instruction.",
+          "targetText": "Îți dau o instrucțiune."
+        }
+      ]
+    },
+    {
+      "gloss": "Call",
+      "explanation": {
+        "sourceText": "For a formal or official call.",
+        "targetText": "Pentru un apel formal sau oficial."
+      },
+      "examples": [
+        {
+          "sourceText": "The call for the meeting was published.",
+          "targetText": "Apelul pentru întâlnire a fost publicat."
+        }
+      ]
+    },
+    {
+      "gloss": "Invitation",
+      "explanation": {
+        "sourceText": "For inviting a person to an event.",
+        "targetText": "Pentru invitarea unei persoane la un eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "I send you an invitation.",
+          "targetText": "Îți trimit o invitație."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Instruction",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "Call",
+      "targetText": "apel"
+    },
+    {
+      "sourceText": "Request",
+      "targetText": "rugăminte"
+    },
+    {
+      "sourceText": "Invitation",
+      "targetText": "invitație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "prevent",
+      "targetText": "interzice"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I request you to be honest.",
+      "targetText": "Te solicit să fii sincer."
+    },
+    {
+      "sourceText": "I requested him to solve the problem.",
+      "targetText": "L-am solicitat să rezolve problema."
+    },
+    {
+      "sourceText": "I will request you tomorrow to give the presentation.",
+      "targetText": "Te voi solicita mâine să susții prezentarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'request' sounds like 're-quest'—think of sending a formal quest or mission to ask for something."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'solicita' sounds like 'solicit' in English, which means to ask for something formally."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'request' as politely knocking on a door to ask for help or action."
+    },
+    {
+      "lang": "en",
+      "text": "When you 'request' something, you are making a formal or polite demand, similar to how 'a solicita' is used in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

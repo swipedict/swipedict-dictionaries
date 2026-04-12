@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-bed",
+  "parent": "ms-ro-pat-803e5e81@bd6baa68c06a8d120502dda1d96b7785",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bed",
+    "genus": "neuter",
+    "definition": "A piece of furniture designed for lying down and sleeping, typically consisting of a frame and a mattress.",
+    "pronunciation": "/bɛd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bed\" originates from the Old English 'bedd', which traces back to the Proto-Germanic root *badi-, originally meaning a place to lie or sleep.",
+        "targetText": "Cuvântul englezesc „bed” provine din vechiul englez 'bedd', care își are rădăcinile în proto-germanicul *badi-, desemnând inițial un loc pentru a sta sau a dormi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pat",
+    "genus": "neuter",
+    "definition": "Un obiect de mobilier folosit pentru a dormi sau a te odihni, de obicei format dintr-un cadru și o saltea.",
+    "pronunciation": "/pat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"pat\" is inherited from the Latin \"patum\" (bed, resting place), which in classical Latin referred to a sleeping place.",
+        "targetText": "Cuvântul românesc „pat” provine din latinescul „patum” (pat, loc de dormit), moștenit direct în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "blanket",
+      "targetText": "pătură"
+    },
+    {
+      "sourceText": "pillow",
+      "targetText": "pernă"
+    },
+    {
+      "sourceText": "mattress",
+      "targetText": "saltea"
+    },
+    {
+      "sourceText": "bedroom",
+      "targetText": "dormitor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "chair",
+      "targetText": "scaun"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The bed is comfortable and big enough for two people.",
+      "targetText": "Patul este confortabil și suficient de mare pentru două persoane."
+    },
+    {
+      "sourceText": "I am going to bed now because I am tired.",
+      "targetText": "Mă duc acum la pat pentru că sunt obosit."
+    },
+    {
+      "sourceText": "The baby sleeps in a small bed.",
+      "targetText": "Bebelușul doarme într-un pat mic."
+    },
+    {
+      "sourceText": "She has freshly made the bed.",
+      "targetText": "Ea a schimbat așternuturile de pe pat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “pat” sounds short and simple, just like the English word “bed,” making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word “pat” (a light tap) — imagine gently patting your bed to make it cozy, linking it to the Romanian “pat.”"
+    },
+    {
+      "lang": "en",
+      "text": "Remember: a bed is a place to rest in English, and “pat” is the concise Romanian equivalent, both representing a place to sleep."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize spreading out a mat on the floor — the Latin root 'patulus' means 'spread out,' just like a bed’s surface."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-calm",
+  "parent": "ms-ro-linistit-c72aa5ef@5fcbb066fcf4365a014a414076673134",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "calm",
+    "definition": "Describes a state free from noise, disturbance, or excitement; peaceful and quiet.",
+    "pronunciation": "/kɑːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'calm' originates from the Old French 'calme', which itself comes from Latin 'cauma', meaning 'heat of the day' or 'heat-induced rest', later evolving to mean 'quiet' or 'still'.",
+        "targetText": "Adjectivul englezesc „calm” provine din vechea franceză „calme”, care la rândul său derivă din latină „cauma”, însemnând „căldura zilei” sau „odihnă cauzată de căldură”, evoluând ulterior pentru a desemna „liniște” sau „lipsă de mișcare”."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "liniștit",
+    "definition": "Descrie o stare fără zgomot, agitație sau tulburare; calm, pașnic.",
+    "pronunciation": "/liˈniʃtit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'liniștit' derives from the Latin verb 'lenire', meaning 'to soothe' or 'to calm', evolving through the adjective 'linistit' with the suffix '-it'.",
+        "targetText": "Adjectivul românesc „liniștit” derivă din verbul latin 'lenire', care înseamnă 'a calma' sau 'a liniști', evoluând prin adjectivul 'linistit' cu sufixul '-it'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "peaceful",
+      "targetText": "pașnic"
+    },
+    {
+      "sourceText": "serenity",
+      "targetText": "calm"
+    },
+    {
+      "sourceText": "to calm down",
+      "targetText": "a calma"
+    },
+    {
+      "sourceText": "silence",
+      "targetText": "liniște"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loud",
+      "targetText": "zgomotos"
+    },
+    {
+      "sourceText": "restless",
+      "targetText": "neliniștit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The child is very calm today.",
+      "targetText": "Copilul este foarte liniștit astăzi."
+    },
+    {
+      "sourceText": "Please be calm, I need to concentrate.",
+      "targetText": "Te rog, fii liniștit, trebuie să mă concentrez."
+    },
+    {
+      "sourceText": "The lake lies calm and peaceful in the valley.",
+      "targetText": "Lacul este liniștit și pașnic în vale."
+    },
+    {
+      "sourceText": "At night it is usually calm.",
+      "targetText": "Noaptea este de obicei liniștită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'liniștit' sounds like 'line' + 'sheet'—imagine a smooth, calm line on a sheet of water."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'liniștit' ending with '-it', a common Romanian adjective suffix often derived from verbs, here from 'lenire' meaning 'to soothe'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'liniștit' to the English word 'line' to recall the idea of something steady and calm, like a straight line without waves."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'liniștit' with the Latin root 'lenire' (to calm). If you think of 'lenient' in English, it also relates to soothing or gentleness."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

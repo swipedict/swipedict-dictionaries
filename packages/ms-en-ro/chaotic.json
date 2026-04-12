@@ -1,0 +1,148 @@
+{
+  "id": "ms-en-ro-chaotic",
+  "parent": "ms-ro-haotic-a10eb5bc@ccf1c3a6904917e1527d858027efc421",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "chaotic",
+    "definition": "characterized by complete disorder and confusion; lacking organization or order",
+    "pronunciation": "/keɪˈɒtɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective \"chaotic\" derives from the French word \"chaotique,\" which ultimately comes from the Greek \"chaos,\" meaning a state of complete disorder or confusion.",
+        "targetText": "Cuvântul englezesc „chaotic” provine din francezul „chaotique”, care la rândul său derivă din grecescul „chaos”, semnificând o stare de dezordine completă sau confuzie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Chaotic situations can often be overwhelming and usually require special measures to resolve."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "haotic",
+    "definition": "neordonați și confuzi; neorganizat",
+    "pronunciation": "/haˈotic/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"haotic\" is borrowed from the French \"chaotique,\" which in turn comes from the Greek \"chaos.\"",
+        "targetText": "Termenul românesc „haotic” provine din franceză „chaotique”, derivat din grecescul „chaos”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "chaotic (disorder)",
+      "explanation": {
+        "sourceText": "refers to disorder or confusion.",
+        "targetText": "Se referă la lipsa de ordine sau confuzie."
+      },
+      "examples": [
+        {
+          "sourceText": "The playroom was chaotic.",
+          "targetText": "Camera de joacă era haotică."
+        }
+      ]
+    },
+    {
+      "gloss": "chaotic (confusion)",
+      "explanation": {
+        "sourceText": "means confused or unclear.",
+        "targetText": "Înseamnă confuz sau neclar."
+      },
+      "examples": [
+        {
+          "sourceText": "The chaotic situation was confusing for everyone.",
+          "targetText": "Situația haotică a fost confuză pentru toți."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Chaos",
+      "targetText": "haos"
+    },
+    {
+      "sourceText": "Plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "Disorder",
+      "targetText": "dezordine"
+    },
+    {
+      "sourceText": "Confusion",
+      "targetText": "confuzie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "organized",
+      "targetText": "organizată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The chaotic conditions made it difficult to develop a clear plan.",
+      "targetText": "Condițiile haotice au făcut dificilă dezvoltarea unui plan clar."
+    },
+    {
+      "sourceText": "In chaotic education, it is hard to learn effectively.",
+      "targetText": "În învățământul haotic este greu să înveți eficient."
+    },
+    {
+      "sourceText": "The room always looks chaotic when he leaves it.",
+      "targetText": "Camera arată întotdeauna haotic când el o părăsește."
+    },
+    {
+      "sourceText": "Chaotic events can overwhelm participants.",
+      "targetText": "Evenimentele haotice pot supraaglomera participanții."
+    },
+    {
+      "sourceText": "The chaotic situation requires immediate measures.",
+      "targetText": "Situația haotică necesită măsuri imediate."
+    },
+    {
+      "sourceText": "He always brings chaotic ideas to meetings.",
+      "targetText": "El întotdeauna aduce idei haotice în întâlniri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a chaotic classroom where papers and books are everywhere — it helps to remember the word!"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a chaotic traffic jam with cars honking and no order to recall the meaning of \"haotic.\""
+    },
+    {
+      "lang": "en",
+      "text": "Link \"chaotic\" with the English word \"chaos,\" which sounds similar and means disorder."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"haotic\" by associating it with the English word \"chaotic\" — they share the same root and meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

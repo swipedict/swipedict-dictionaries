@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-inheritance-tax",
+  "parent": "ms-ro-impozit-pe-mostenire-c69bac97@dafef242438b177063ca4952be23fb4b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inheritance tax",
+    "genus": "feminine",
+    "definition": "A tax imposed on assets received from a deceased person's estate.",
+    "pronunciation": "/ɪnˈhɛrɪtəns tæks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"inheritance tax\" combines \"inheritance,\" from the verb 'to inherit' meaning to receive property from someone after their death, and \"tax,\" which derives from Old French 'taxer' meaning to assess or impose a charge.",
+        "targetText": "Cuvântul englezesc „inheritance tax” combină „inheritance”, derivat din verbul 'to inherit' care înseamnă a primi proprietate de la cineva după moartea sa, și „tax”, care provine din franceza veche 'taxer', însemnând a evalua sau a impune o taxă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "impozit pe moștenire",
+    "genus": "neuter",
+    "definition": "Un impozit aplicat asupra bunurilor primite prin moștenire.",
+    "pronunciation": "/impoˈzit pe moʃteˈnirʲe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „impozit pe moștenire” consists of „impozit” (from French 'impôt', originally from Latin 'impositum') and „moștenire” (from Church Slavonic 'moštenije').",
+        "targetText": "Expresia românească „impozit pe moștenire” este formată din „impozit” (din franceza 'impôt', la rândul său din latină 'impositum') și „moștenire” (din slavonă 'moštenije')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "inheritance",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "estate",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "tax",
+      "targetText": "impozit"
+    },
+    {
+      "sourceText": "assets",
+      "targetText": "avere"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The inheritance tax must be paid at the tax office.",
+      "targetText": "Impozitul pe moștenire trebuie plătit la administrația financiară."
+    },
+    {
+      "sourceText": "Many countries have different inheritance taxes.",
+      "targetText": "Multe țări au impozite pe moștenire diferite."
+    },
+    {
+      "sourceText": "The inheritance tax only affects large estates.",
+      "targetText": "Impozitul pe moștenire se aplică doar averilor mari."
+    },
+    {
+      "sourceText": "He informed himself about the inheritance tax in Romania.",
+      "targetText": "S-a informat despre impozitul pe moștenire în România."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"inheritance\" means what you receive from someone after they pass away, so \"inheritance tax\" is the tax on that property."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"impozit\" sounds like the English \"impose\" which helps you recall it relates to taxes or charges."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"moștenire\" as similar to the English \"most\" + \"inherit\" to remind you it relates to inheritance."
+    },
+    {
+      "lang": "en",
+      "text": "The phrase \"impozit pe moștenire\" literally means \"tax on inheritance\" where \"pe\" functions like the English preposition \"on.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-feelings",
+  "parent": "ms-ro-sentiment-4372fd2b@8c133003ddef2ae475c36d16edc8031f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "feelings",
+    "genus": "neuter",
+    "definition": "Inner sensations or emotional states experienced by people.",
+    "pronunciation": "/ˈfiːlɪŋz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"feeling\" comes from the Old English verb \"fēlan\" meaning 'to perceive or touch', which is related to the Proto-Germanic root *fōlijaną.",
+        "targetText": "Cuvântul englezesc „feeling” provine din verbul englez vechi „fēlan”, care înseamnă „a percepe sau a atinge”, și este legat de rădăcina proto-germanică *fōlijaną."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sentiment",
+    "genus": "neuter",
+    "definition": "O stare emoțională sau o senzație interioară pe care o experimentează o persoană.",
+    "pronunciation": "/senˈtimɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „sentiment” was borrowed from the French „sentiment”, which in turn derives from the Latin „sentire” (to feel).",
+        "targetText": "Cuvântul românesc „sentiment” este împrumutat din franceza „sentiment”, care provine la rândul său din latină „sentire” (a simți)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "emotion",
+      "targetText": "emoție"
+    },
+    {
+      "sourceText": "sensation",
+      "targetText": "senzație"
+    },
+    {
+      "sourceText": "to have feelings",
+      "targetText": "a avea sentiment"
+    },
+    {
+      "sourceText": "mood",
+      "targetText": "dispoziție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "insensitivity",
+      "targetText": "insensibilitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "She showed her feelings openly.",
+      "targetText": "Ea și-a arătat sentimentele deschis."
+    },
+    {
+      "sourceText": "Feelings can be very different.",
+      "targetText": "Sentimentele pot fi foarte diferite."
+    },
+    {
+      "sourceText": "Sometimes one does not understand their own feelings.",
+      "targetText": "Uneori nu înțelegi propriile sentimente."
+    },
+    {
+      "sourceText": "Feelings influence our behavior.",
+      "targetText": "Sentimentele ne influențează comportamentul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'feeling' relates to sensing or touching, which helps you remember it connects to emotions."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'sentiment' sounds like the English 'sentiment', both coming from Latin roots meaning 'to feel'."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the '-ment' ending in 'sentiment'—a common suffix for abstract nouns in English and Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sentiment' as your mind 'sent' a message about your emotions—this helps link the word to feelings."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

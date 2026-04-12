@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-condition",
+  "parent": "ms-ro-conditie-c74e4abb@04ac5b9688ed138515e34b7dc0a21a18",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "condition",
+    "genus": "feminine",
+    "definition": "A requirement or circumstance that must be met for something else to happen or be valid.",
+    "pronunciation": "/kənˈdɪʃ.ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'condition' comes from the Latin 'conditio', meaning an agreement or stipulation, which passed into Old French before entering English.",
+        "targetText": "Cuvântul englezesc „condition“ provine din latină „conditio“, care înseamnă o înțelegere sau o stipulație, și a intrat în limba engleză prin vechea limbă franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "condiție",
+    "genus": "feminine",
+    "definition": "O cerință sau circumstanță care trebuie îndeplinită pentru ca ceva să se întâmple sau să fie valabil.",
+    "pronunciation": "/konˈdi.t͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'condiție' derives from the Latin 'conditio', meaning 'agreement' or 'state'.",
+        "targetText": "Cuvântul românesc „condiție“ provine din latină „conditio“, care înseamnă „înțelegere“ sau „stare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "requirement",
+      "targetText": "cerință"
+    },
+    {
+      "sourceText": "unconditional",
+      "targetText": "necondiționat"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    },
+    {
+      "sourceText": "prerequisite",
+      "targetText": "precondiție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freedom",
+      "targetText": "libertate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The condition for the contract is the payment.",
+      "targetText": "Condiția pentru contract este plata."
+    },
+    {
+      "sourceText": "Under this condition, I accept the offer.",
+      "targetText": "Sub această condiție accept oferta."
+    },
+    {
+      "sourceText": "The condition must be fulfilled.",
+      "targetText": "Condiția trebuie îndeplinită."
+    },
+    {
+      "sourceText": "He works only under certain conditions.",
+      "targetText": "El lucrează doar în anumite condiții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'condition' sounds like 'condition' in English, meaning a requirement or state that must be met."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'condiție' shares roots with the English 'condition' from Latin, so they are cognates."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'condition' as a clause in a contract or rule, just like 'condiție' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'condiție', imagine a checklist of 'conditions' you must fulfill to get something."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

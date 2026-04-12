@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-single-family-house",
+  "parent": "ms-ro-casa-unifamiliala-c02486c5@470b53322dab960c808ff7168a76d9cd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "single-family house",
+    "genus": "neuter",
+    "definition": "A house designed to accommodate one family, as opposed to multi-family residential buildings.",
+    "pronunciation": "/ˌsɪŋɡəl ˈfæmɪli haʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'single-family house' combines 'single' meaning one, 'family' derived from Latin 'familia', and 'house', referring to a dwelling intended for one family unit.",
+        "targetText": "Cuvântul englezesc „single-family house” combină „single” care înseamnă unul, „family” derivat din latină 'familia' și „house”, referindu-se la o locuință destinată unei singure familii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "casă unifamilială",
+    "genus": "feminine",
+    "definition": "O casă destinată unei singure familii, spre deosebire de blocurile cu mai multe familii.",
+    "pronunciation": "/ˈka.sə uni.famiˈlja.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „unifamilială” comes from the Latin prefix 'uni-' (one) and 'familia' (family), indicating a single family.",
+        "targetText": "Cuvântul românesc „unifamilială” provine din prefixul latin 'uni-' (unu) și 'familia' (familie), indicând o singură familie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "garden",
+      "targetText": "grădină"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "apartment building",
+      "targetText": "bloc de locuințe"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "apartment building",
+      "targetText": "bloc de locuințe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The single-family house has a large garden.",
+      "targetText": "Casa unifamilială are o grădină mare."
+    },
+    {
+      "sourceText": "Many families dream of owning their own single-family house.",
+      "targetText": "Multe familii visează la o casă unifamilială proprie."
+    },
+    {
+      "sourceText": "A single-family house offers more privacy than an apartment.",
+      "targetText": "O casă unifamilială oferă mai multă intimitate decât un apartament."
+    },
+    {
+      "sourceText": "The single-family house is located in a quiet residential area.",
+      "targetText": "Casa unifamilială se află într-o zonă rezidențială liniștită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English phrase 'single-family house' clearly indicates a house meant for one family, just like the Romanian 'casă unifamilială'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'family' in English and Romanian both come from the Latin 'familia', helping you link the words easily."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'uni-' in Romanian means 'one', similar to 'universe' or 'unify' in English, which can help you recall 'unifamilială' means one family."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'single' house as a unique home for one family, which matches the meaning of 'unifamilială'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "ms-en-ro-discuss",
+  "parent": "ms-ro-a-discuta-b058500e@03362b0b1f75555bdaf1d53f7b6cbb05",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "discuss",
+    "definition": "to talk about a topic by exchanging ideas or opinions",
+    "pronunciation": "/dɪˈskʌs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"discuss\" comes from the Latin verb \"discutere,\" meaning \"to shake apart, examine thoroughly.\" It originally referred to analyzing or examining a subject through conversation.",
+        "targetText": "Cuvântul englezesc „discuss“ provine din verbul latin „discutere“, care înseamnă „a scutura, a examina în profunzime“. Inițial se referea la analizarea sau examinarea unui subiect prin conversație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts such as meetings, debates, or conversations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a discuta",
+    "definition": "a schimba opinii despre un subiect sau a vorbi despre el",
+    "pronunciation": "/a dis.kuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a discuta“ also derives from the Latin „discutere“ and is used in the sense of exchanging opinions or talking about a subject.",
+        "targetText": "Verbul românesc „a discuta“ derivă din latină „discutere“ și înseamnă a schimba opinii sau a vorbi despre un subiect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb hat eine ähnliche Bedeutung wie im Deutschen und wird oft in akademischen oder formellen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Debate",
+      "explanation": {
+        "sourceText": "A debate about a specific point.",
+        "targetText": "O dezbatere asupra unui punct anume."
+      },
+      "examples": [
+        {
+          "sourceText": "We should have a debate about the new rules.",
+          "targetText": "Ar trebui să purtăm dezbaterea asupra noilor reguli."
+        }
+      ]
+    },
+    {
+      "gloss": "Conversation",
+      "explanation": {
+        "sourceText": "\"Discussion\" as a formal conversation.",
+        "targetText": "\"Discuție\" ca un dialog formal."
+      },
+      "examples": [
+        {
+          "sourceText": "I had a discussion with him.",
+          "targetText": "Am avut o discuție cu el."
+        }
+      ]
+    },
+    {
+      "gloss": "Exchange of opinions",
+      "explanation": {
+        "sourceText": "The exchange of opinions on a topic.",
+        "targetText": "Schimbul de opinii despre un subiect."
+      },
+      "examples": [
+        {
+          "sourceText": "There was a lively exchange of opinions during the discussion.",
+          "targetText": "În discuție a fost un schimb viu de opinii."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Debate",
+      "targetText": "dezbatere"
+    },
+    {
+      "sourceText": "Conversation",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "Opinion",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Topic",
+      "targetText": "temă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "be silent",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I discuss the topic.",
+      "targetText": "Eu discut tema."
+    },
+    {
+      "sourceText": "Are you discussing with me?",
+      "targetText": "Discuți cu mine?"
+    },
+    {
+      "sourceText": "He discusses the problems.",
+      "targetText": "El discută problemele."
+    },
+    {
+      "sourceText": "We discuss the results.",
+      "targetText": "Noi discutăm rezultatele."
+    },
+    {
+      "sourceText": "Are you discussing the proposal?",
+      "targetText": "Discutați despre propunere?"
+    },
+    {
+      "sourceText": "They discuss important topics.",
+      "targetText": "Ei discută subiecte importante."
+    },
+    {
+      "sourceText": "I discussed the problem with you.",
+      "targetText": "Am discutat problema cu tine."
+    },
+    {
+      "sourceText": "They discussed the change.",
+      "targetText": "Au discutat schimbarea."
+    },
+    {
+      "sourceText": "He often discussed politics.",
+      "targetText": "El discuta adesea despre politică."
+    },
+    {
+      "sourceText": "I had already discussed the topic.",
+      "targetText": "Discutasem deja tema."
+    },
+    {
+      "sourceText": "I will discuss the topic tomorrow.",
+      "targetText": "Voi discuta tema mâine."
+    },
+    {
+      "sourceText": "He will discuss the details later.",
+      "targetText": "El o să discute detaliile mai târziu."
+    },
+    {
+      "sourceText": "I would like to discuss it.",
+      "targetText": "Aș dori să discut."
+    },
+    {
+      "sourceText": "It is important that you discuss it.",
+      "targetText": "Este important să discuți despre asta."
+    },
+    {
+      "sourceText": "Don't discuss so much!",
+      "targetText": "Nu discuta atât de mult!"
+    },
+    {
+      "sourceText": "Discuss the topic!",
+      "targetText": "Discutați subiectul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"discuss\" sounds like \"discus,\" a sport where ideas are thrown around—just like in a discussion!"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"a discuta\" is very close to the English \"discuss,\" making it easy to remember their meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"discuss\" as breaking down a topic into parts, similar to how the Latin root means 'to shake apart' or 'examine thoroughly.'"
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"Let's discuss\" to practice the verb and connect it with everyday conversations."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

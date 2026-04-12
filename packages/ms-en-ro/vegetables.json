@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-vegetables",
+  "parent": "ms-ro-legume-86667383@7e5fe0adb7bc11cbcd4d8e34ae0818a1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "vegetables",
+    "genus": "neuter",
+    "definition": "Edible plants or parts of plants that are consumed as food.",
+    "pronunciation": "/ˈvɛdʒtəblz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"vegetables\" originates from the Latin 'vegetabilis', meaning 'animating' or 'enlivening', which evolved through Old French into English to describe edible plants.",
+        "targetText": "Cuvântul englezesc „vegetables” provine din latină, din 'vegetabilis', care înseamnă 'animant' sau 'înviind', evoluând prin franceza veche în engleză pentru a desemna plante comestibile."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "legume",
+    "genus": "feminine",
+    "definition": "Plante comestibile sau părți ale plantelor folosite ca hrană.",
+    "pronunciation": "/leˈɡume/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"legume\" comes directly from the Latin 'legumen', which referred to legumes or vegetables.",
+        "targetText": "Cuvântul românesc „legume” provine direct din latină, din 'legumen', care desemna leguminoase sau legume."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "carrot",
+      "targetText": "morcov"
+    },
+    {
+      "sourceText": "cabbage",
+      "targetText": "varză"
+    },
+    {
+      "sourceText": "lettuce",
+      "targetText": "salată"
+    },
+    {
+      "sourceText": "tomato",
+      "targetText": "roșie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I eat fresh vegetables every day.",
+      "targetText": "Mănânc legume proaspete în fiecare zi."
+    },
+    {
+      "sourceText": "Vegetables are healthy and tasty.",
+      "targetText": "Legumele sunt sănătoase și gustoase."
+    },
+    {
+      "sourceText": "Many different kinds of vegetables grow in the garden.",
+      "targetText": "În grădină cresc multe feluri diferite de legume."
+    },
+    {
+      "sourceText": "Can you cut the vegetables?",
+      "targetText": "Poți să tai legumele?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'legume' sounds like 'legume' in English, which refers to beans and peas—many vegetables are legumes!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'legume' as related to the English word 'legal'—just like laws organize society, legumes organize your healthy diet."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'vegetables' comes from Latin meaning 'to enliven'—think of eating vegetables to energize your body."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize placing ('laying') vegetables on your plate to remember 'legume'—it sounds like 'lay-gume'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

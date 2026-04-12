@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-remote-control",
+  "parent": "ms-ro-telecomanda-4bfb5298@1a4344915dbc7c07699bba24f78ab02f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "remote control",
+    "genus": "feminine",
+    "definition": "A device used to operate electronic equipment from a distance without direct physical contact.",
+    "pronunciation": "/rɪˈmoʊt kənˈtroʊl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'remote control' combines 'remote', meaning 'far away', and 'control', meaning 'to direct or manage'. 'Control' derives from the Latin 'contrarotulare', meaning 'to check against a duplicate register'.",
+        "targetText": "Cuvântul englezesc „remote control” combină „remote”, care înseamnă „departe”, și „control”, care înseamnă „a direcționa sau a gestiona”. „Control” provine din latină, din „contrarotulare”, care înseamnă „a verifica după un registru duplicat”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "telecomandă",
+    "genus": "feminine",
+    "definition": "Un dispozitiv folosit pentru a controla aparate electronice de la distanță.",
+    "pronunciation": "/telekoˈmandə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'telecomandă' is a loanword from the French 'télécommande', which is composed of the Greek 'télé' (far) and the French 'commande' (command).",
+        "targetText": "Cuvântul românesc „telecomandă” este un împrumut din franceză, din 'télécommande', format din grecescul 'télé' (departe) și francezul 'commande' (comandă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "television",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "device",
+      "targetText": "aparat"
+    },
+    {
+      "sourceText": "button",
+      "targetText": "buton"
+    },
+    {
+      "sourceText": "control",
+      "targetText": "control"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I lost the remote control.",
+      "targetText": "Am pierdut telecomanda."
+    },
+    {
+      "sourceText": "You can turn the TV on and off with the remote control.",
+      "targetText": "Cu telecomanda poți porni și opri televizorul."
+    },
+    {
+      "sourceText": "The remote control no longer works.",
+      "targetText": "Telecomanda nu mai funcționează."
+    },
+    {
+      "sourceText": "Please give me the remote control.",
+      "targetText": "Te rog, dă-mi telecomanda."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'telecomandă' sounds like 'tele' (far) + 'command', which helps you remember it means a device to control something from a distance."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'telecomandă' as a 'tele-command'—a command you send remotely, just like a remote control."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-mandă' resembles the English word 'command', reinforcing the idea of issuing instructions."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine giving a 'command' from far away ('tele'), which is exactly what a remote control does."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

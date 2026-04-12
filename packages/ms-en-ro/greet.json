@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-greet",
+  "parent": "ms-ro-a-saluta-cd16687e@f4f0b0c985fa90c6f16dc914fdb9eb50",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "greet",
+    "definition": "to address someone in a friendly manner or to welcome them",
+    "pronunciation": "/ɡriːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"greet\" originates from Old English \"grētan\", meaning to approach and address someone, often with a gesture of goodwill or welcome. It is related to other Germanic language forms that convey similar meanings.",
+        "targetText": "Cuvântul englezesc „greet” provine din engleza veche „grētan”, care înseamnă a aborda și a se adresa cuiva, adesea cu un gest de bunăvoință sau primire. Este înrudit cu forme din alte limbi germanice care exprimă sensuri similare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is a regular verb commonly used in both formal and informal greetings."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a saluta",
+    "definition": "a vorbi prietenos cu o persoană sau a o întâmpina",
+    "pronunciation": "/a sa.luˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a saluta\" derives from the Latin \"salutare\", meaning \"to greet\" or \"to welcome\", related to \"salus\" for health or well-being.",
+        "targetText": "Verbul românesc „a saluta” provine din latină „salutare”, care înseamnă „a saluta”, legat de „salus” – sănătate, bine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb used in both formal and informal contexts."
+  },
+  "senses": [
+    {
+      "gloss": "Greeting",
+      "explanation": {
+        "sourceText": "Can also refer to the form of a greeting phrase.",
+        "targetText": "Se poate referi și la o formulă de salut."
+      },
+      "examples": [
+        {
+          "sourceText": "A friendly greeting is important.",
+          "targetText": "O salutare prietenoasă este importantă."
+        }
+      ]
+    },
+    {
+      "gloss": "To greet",
+      "explanation": {
+        "sourceText": "The verb is also used in the context of greeting formulas.",
+        "targetText": "Verbul este folosit și în formule de salut."
+      },
+      "examples": [
+        {
+          "sourceText": "I greet you warmly.",
+          "targetText": "Te salut cu căldură."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Goodbye",
+      "targetText": "La revedere"
+    },
+    {
+      "sourceText": "Friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Hello",
+      "targetText": "Bună"
+    },
+    {
+      "sourceText": "Message",
+      "targetText": "mesaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to say goodbye",
+      "targetText": "a se despărți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I greet my neighbors.",
+      "targetText": "Eu salut vecinii mei."
+    },
+    {
+      "sourceText": "Do you greet your friends?",
+      "targetText": "Saluti prietenii tăi?"
+    },
+    {
+      "sourceText": "He greets the guests.",
+      "targetText": "El salută oaspeții."
+    },
+    {
+      "sourceText": "We greet all visitors.",
+      "targetText": "Noi salutăm toți vizitatorii."
+    },
+    {
+      "sourceText": "Do you greet the teachers?",
+      "targetText": "Salutați profesorii?"
+    },
+    {
+      "sourceText": "They greet the passersby.",
+      "targetText": "Ei salută trecătorii."
+    },
+    {
+      "sourceText": "I greeted him kindly.",
+      "targetText": "L-am salutat prietenos."
+    },
+    {
+      "sourceText": "I will greet my parents.",
+      "targetText": "Voi saluta părinții mei."
+    },
+    {
+      "sourceText": "Greet your brother!",
+      "targetText": "Salută-ți fratele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'greet' as a friendly wave or a warm smile you give when meeting someone."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Romanian 'a saluta' sounds like 'salute' in English, which also means to greet or show respect."
+    },
+    {
+      "lang": "en",
+      "text": "Practice common phrases like 'I greet you' = 'Eu salut' to get comfortable with social interactions."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine greeting as a mental handshake, a simple way to connect with others warmly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

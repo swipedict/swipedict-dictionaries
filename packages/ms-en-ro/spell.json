@@ -1,0 +1,200 @@
+{
+  "id": "ms-en-ro-spell",
+  "parent": "ms-ro-a-imparti-92d8c3a8@4f56d1912d75d628880976e7ad4745a2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "spell",
+    "definition": "to name or write the letters of a word in the correct order",
+    "pronunciation": "/spɛl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'spell' comes from Old English 'spellian', meaning 'to tell, relate, speak', which is related to the noun 'spell' meaning 'story' or 'tale'. Over time, it evolved to mean naming letters in order.",
+        "targetText": "Cuvântul englezesc „spell” provine din engleza veche „spellian”, care înseamnă „a spune, relata, vorbi”, legat de substantivul „spell” care înseamnă „poveste” sau „basm”. În timp, a evoluat să însemne rostirea literelor în ordine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in education and everyday situations to explain how to spell words."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împărți",
+    "definition": "a da seama de fiecare literă a unui cuvânt",
+    "pronunciation": "/a ɨm.pərˈtsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a împărți” comes from the Latin 'impartire', meaning 'to divide' or 'to distribute'.",
+        "targetText": "Verbul românesc „a împărți” provine din latinescul 'impartire', care înseamnă 'a împărți' sau 'a distribui'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Used to describe spelling words or names."
+  },
+  "senses": [
+    {
+      "gloss": "spelling",
+      "explanation": {
+        "sourceText": "Naming each letter of a word.",
+        "targetText": "Indicarea fiecărei litere dintr-un cuvânt."
+      },
+      "examples": [
+        {
+          "sourceText": "I spell 'dog'.",
+          "targetText": "Eu împart 'câine'."
+        }
+      ]
+    },
+    {
+      "gloss": "spelling the alphabet",
+      "explanation": {
+        "sourceText": "Learning or saying the letters of the alphabet.",
+        "targetText": "Învățarea sau rostirea literelor alfabetului."
+      },
+      "examples": [
+        {
+          "sourceText": "Can you spell the alphabet?",
+          "targetText": "Poți să împărți alfabetul?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "letter",
+      "targetText": "literă"
+    },
+    {
+      "sourceText": "reading",
+      "targetText": "a citi"
+    },
+    {
+      "sourceText": "speaking",
+      "targetText": "a vorbi"
+    },
+    {
+      "sourceText": "word",
+      "targetText": "cuvânt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "simplify",
+      "targetText": "simplifica"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I spell my name.",
+      "targetText": "Eu împart numele meu."
+    },
+    {
+      "sourceText": "Can you spell the sentence, please?",
+      "targetText": "Împărțiți, vă rog, propoziția?"
+    },
+    {
+      "sourceText": "He spells his last name.",
+      "targetText": "El împarte numele de familie."
+    },
+    {
+      "sourceText": "We spell the word together.",
+      "targetText": "Noi împărțim cuvântul împreună."
+    },
+    {
+      "sourceText": "Do you spell the address?",
+      "targetText": "Împărțiți adresa?"
+    },
+    {
+      "sourceText": "They spell everything exactly.",
+      "targetText": "Ei împart totul exact."
+    },
+    {
+      "sourceText": "I spelled the name.",
+      "targetText": "Am împărțit numele."
+    },
+    {
+      "sourceText": "They spelled the words.",
+      "targetText": "Au împărțit cuvintele."
+    },
+    {
+      "sourceText": "He always spelled the difficult words.",
+      "targetText": "El împărțea întotdeauna cuvintele dificile."
+    },
+    {
+      "sourceText": "I had already spelled the name.",
+      "targetText": "Împărțisem deja numele."
+    },
+    {
+      "sourceText": "I will spell the word.",
+      "targetText": "Voi împărți cuvântul."
+    },
+    {
+      "sourceText": "She will spell the sentence.",
+      "targetText": "Ea o să împartă propoziția."
+    },
+    {
+      "sourceText": "I would spell it for you.",
+      "targetText": "V-aș împărți."
+    },
+    {
+      "sourceText": "It is necessary that you spell.",
+      "targetText": "Este necesar să împărți."
+    },
+    {
+      "sourceText": "Spell your name!",
+      "targetText": "Împarte numele tău!"
+    },
+    {
+      "sourceText": "Please spell the words!",
+      "targetText": "Împărțiți, vă rog, cuvintele!"
+    },
+    {
+      "sourceText": "The spelled word sounds nice.",
+      "targetText": "Cuvântul împărțit sună frumos."
+    },
+    {
+      "sourceText": "The words are already spelled.",
+      "targetText": "Cuvintele sunt deja împărțite."
+    },
+    {
+      "sourceText": "By spelling the name, he learns a lot.",
+      "targetText": "Împărțind numele, învață multe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'spell' as casting a magic spell that arranges letters in order—just like magic words!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'spell' as 'telling a story' letter by letter, helping you remember the Romanian 'a împărți' which means 'to divide/share'."
+    },
+    {
+      "lang": "en",
+      "text": "Practice spelling your own name aloud to connect the English verb 'spell' with the Romanian 'a împărți'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine dividing a word into pieces (letters) to 'share' it, linking the meaning of 'a împărți' with spelling."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

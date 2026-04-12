@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-link",
+  "parent": "ms-ro-link-36ac99f1@3f884f71c63306f2d05bb4901c97d81f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "link",
+    "genus": "masculine",
+    "definition": "A connection or reference, especially on the internet, that directs to another webpage or resource.",
+    "pronunciation": "/lɪŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"link\" originally meant a connection or a bond and comes from the Old English word 'hlinc', which referred to a ridge or an edge.",
+        "targetText": "Cuvântul englezesc „link” însemna inițial o legătură sau o conexiune și provine din vechiul englez 'hlinc', care desemna o creastă sau o muchie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The term is widely used in technology and internet contexts to denote a clickable connection between digital resources."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "link",
+    "genus": "neuter",
+    "definition": "Legătură sau referință, în special pe internet, care indică o altă pagină web sau resursă.",
+    "pronunciation": "/link/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"link\" was directly borrowed from English, as it is a technical term used in the internet and computer fields.",
+        "targetText": "Cuvântul românesc „link” este preluat direct din engleză, fiind un termen tehnic folosit în domeniul internetului și al calculatoarelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is mostly used unchanged in Romanian and is masculine."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hyperlink",
+      "targetText": "hiperlink"
+    },
+    {
+      "sourceText": "internet",
+      "targetText": "internet"
+    },
+    {
+      "sourceText": "connection",
+      "targetText": "conexiune"
+    },
+    {
+      "sourceText": "webpage",
+      "targetText": "pagină web"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Click on the link to open the webpage.",
+      "targetText": "Dă clic pe link pentru a deschide pagina web."
+    },
+    {
+      "sourceText": "The link leads to an external resource.",
+      "targetText": "Linkul duce către o resursă externă."
+    },
+    {
+      "sourceText": "I sent you the link by email.",
+      "targetText": "Ți-am trimis linkul prin e-mail."
+    },
+    {
+      "sourceText": "The link is no longer valid.",
+      "targetText": "Linkul nu mai este valabil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'link' sounds like 'link' in Romanian, making it easy to remember as a connection or chain between things."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'link' as a chain link that connects two parts together, just like a link connects webpages on the internet."
+    },
+    {
+      "lang": "en",
+      "text": "When you click a 'link' online, you jump from one page to another—this helps you understand its function as a connector."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'link' comes from Old English meaning ridge or edge, so imagine it as a bridge or edge connecting two points."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

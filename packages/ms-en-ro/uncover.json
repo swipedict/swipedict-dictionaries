@@ -1,0 +1,217 @@
+{
+  "id": "ms-en-ro-uncover",
+  "parent": "ms-ro-a-descoperi-68c2b9b2@2da47e9966611cb9564e4a14c8346ced",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "uncover",
+    "definition": "to reveal or make something visible that was hidden",
+    "pronunciation": "/ʌnˈkʌvər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"uncover\" is formed from the prefix \"un-\" meaning 'reverse' or 'remove' and the verb \"cover\" meaning 'to put something over or on top of'. \"Cover\" comes from Old English \"coferian\", meaning 'to cover or protect'.",
+        "targetText": "Cuvântul englezesc „uncover” este format din prefixul „un-” care înseamnă „a inversa” sau „a îndepărta” și verbul „cover” care înseamnă „a acoperi sau a pune ceva deasupra”. „Cover” provine din engleza veche „coferian”, însemnând „a acoperi sau a proteja”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is often used figuratively, for example in the context of revealing information or truths."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a descoperi",
+    "definition": "a face ceva vizibil sau a dezvălui",
+    "pronunciation": "/a des.koˈpe.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a descoperi” comes from the Latin „discooperire”, composed of „dis-” (to remove) and „cooperire” (to cover), meaning 'to reveal something'.",
+        "targetText": "Românescul „a descoperi” derivă din latină, din „discooperire”, compus din „dis-“ (a separa) și „cooperire“ (a acoperi), însemnând „a dezvălui“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Oft verwendet, wenn es um das Entdecken von Geheimnissen oder die Aufklärung von Situationen geht."
+  },
+  "senses": [
+    {
+      "gloss": "Revealing information",
+      "explanation": {
+        "sourceText": "Specifically used for revealing in a journalistic context.",
+        "targetText": "În special pentru dezvăluiri în context jurnalistic."
+      },
+      "examples": [
+        {
+          "sourceText": "The uncovering of the truth was necessary.",
+          "targetText": "Dezvăluirea adevărului a fost necesară."
+        }
+      ]
+    },
+    {
+      "gloss": "Discovery",
+      "explanation": {
+        "sourceText": "Used for the discovery of new information.",
+        "targetText": "Pentru descoperirea unor informații noi."
+      },
+      "examples": [
+        {
+          "sourceText": "The discovery of new facts changed the situation.",
+          "targetText": "Descoperirea de noi fapte a schimbat situația."
+        }
+      ]
+    },
+    {
+      "gloss": "Revelation",
+      "explanation": {
+        "sourceText": "Used for revealing secrets.",
+        "targetText": "Ca în germană, pentru dezvăluirea secretelor."
+      },
+      "examples": [
+        {
+          "sourceText": "The revelation of the secret was shocking.",
+          "targetText": "Dezvăluirea secretului a fost șocantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "revelation",
+      "targetText": "dezvăluire"
+    },
+    {
+      "sourceText": "development",
+      "targetText": "dezvoltare"
+    },
+    {
+      "sourceText": "disclosure",
+      "targetText": "revelare"
+    },
+    {
+      "sourceText": "view",
+      "targetText": "vedere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cover",
+      "targetText": "a acoperi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I uncover the secret.",
+      "targetText": "Eu descopăr secretul."
+    },
+    {
+      "sourceText": "Do you uncover the puzzle?",
+      "targetText": "Descoperi tu enigma?"
+    },
+    {
+      "sourceText": "He uncovers the truth.",
+      "targetText": "El descoperă adevărul."
+    },
+    {
+      "sourceText": "We uncover the problem.",
+      "targetText": "Noi descoperim problema."
+    },
+    {
+      "sourceText": "Do you (plural) uncover the lie?",
+      "targetText": "Descoperiți minciuna?"
+    },
+    {
+      "sourceText": "They uncover the facts.",
+      "targetText": "Ei descoperă faptele."
+    },
+    {
+      "sourceText": "I have uncovered the secret.",
+      "targetText": "Am descoperit secretul."
+    },
+    {
+      "sourceText": "They have uncovered the truth.",
+      "targetText": "Au descoperit adevărul."
+    },
+    {
+      "sourceText": "He always uncovered the facts.",
+      "targetText": "El descoperea întotdeauna faptele."
+    },
+    {
+      "sourceText": "I had already uncovered the lie.",
+      "targetText": "Descoperisem deja minciuna."
+    },
+    {
+      "sourceText": "I will uncover the secret.",
+      "targetText": "Voi descoperi secretul."
+    },
+    {
+      "sourceText": "She will uncover the truth.",
+      "targetText": "Ea o să descopere adevărul."
+    },
+    {
+      "sourceText": "I would uncover the secret if I could.",
+      "targetText": "Aș descoperi secretul dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you uncover the puzzle.",
+      "targetText": "Este necesar să descoperi enigma."
+    },
+    {
+      "sourceText": "Uncover the secret!",
+      "targetText": "Descoperă secretul!"
+    },
+    {
+      "sourceText": "Uncover the truth!",
+      "targetText": "Descoperiți adevărul!"
+    },
+    {
+      "sourceText": "The uncovered secret is interesting.",
+      "targetText": "Secretul descoperit este interesant."
+    },
+    {
+      "sourceText": "The truth is now uncovered.",
+      "targetText": "Adevărul este acum descoperit."
+    },
+    {
+      "sourceText": "By uncovering the secret, I created clarity.",
+      "targetText": "Descoperind secretul, am creat claritate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"uncover\" as literally removing a cover to reveal something hidden, just like the Romanian \"a descoperi\"."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"descoperi\" sounds like \"discover,\" which also means to find or reveal something new."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine uncovering a treasure chest to link the English and Romanian words in your mind."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"uncover the truth\" to connect the English verb with the Romanian usage in revealing secrets."
+    },
+    {
+      "lang": "en",
+      "text": "Practice saying \"a descoperi\" aloud whenever you learn something new to reinforce the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

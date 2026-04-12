@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-lane",
+  "parent": "ms-ro-banda-7c9b5a65@61401a8bb25b3511d03472a5826dea3d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lane",
+    "genus": "feminine",
+    "definition": "A designated narrow section of a road intended for a single line of vehicles to travel on.",
+    "pronunciation": "/leɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"lane\" originates from Old English 'lanu', meaning a narrow way or passage, related to the concept of a track or path for travel.",
+        "targetText": "Cuvântul englezesc „lane” provine din engleza veche 'lanu', care înseamnă o cale îngustă sau un pasaj, legat de conceptul de potecă sau traseu pentru călătorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bandă",
+    "genus": "feminine",
+    "definition": "O porțiune delimitată pe un drum destinată circulației unui vehicul.",
+    "pronunciation": "/ˈbandə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bandă\" is a loanword from French 'bande', which itself comes from Frankish (Germanic) 'band' meaning 'strip' or 'band'.",
+        "targetText": "Cuvântul românesc „bandă” este un împrumut din franceza 'bande', care provine din fr. veche și din fr. 'bande', la rândul său din fr. frânc 'band' (germanic), cu sensul de 'fâșie' sau 'bandă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "carriageway",
+      "targetText": "carosabil"
+    },
+    {
+      "sourceText": "track",
+      "targetText": "urmă"
+    },
+    {
+      "sourceText": "road",
+      "targetText": "drum"
+    },
+    {
+      "sourceText": "traffic",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The lane is marked by white lines.",
+      "targetText": "Banda este marcată prin linii albe."
+    },
+    {
+      "sourceText": "Please stay in your lane to avoid accidents.",
+      "targetText": "Te rog să rămâi pe banda ta pentru a evita accidentele."
+    },
+    {
+      "sourceText": "There are often several lanes on the highway.",
+      "targetText": "Pe autostradă există adesea mai multe benzi."
+    },
+    {
+      "sourceText": "The lane was narrowed due to construction work.",
+      "targetText": "Banda a fost îngustată din cauza lucrărilor de construcție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'lane' as a narrow path on a road, similar to a 'lane' in a swimming pool guiding swimmers—this helps remember 'bandă' as a vehicle lane."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'bandă' sounds like 'band', which in English means a strip or ribbon, just like a lane is a strip on the road."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine cars driving on different 'bands' or ribbons on the road to recall that 'bandă' means lane."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'bandă' comes from French 'bande', related to the English word 'band', both meaning a strip—this connection helps link the meaning to 'lane'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

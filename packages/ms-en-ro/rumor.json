@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-rumor",
+  "parent": "ms-ro-zvon-3dd5b031@28b127aa9cf2cf99b29fc3cf7baf89f1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "rumor",
+    "definition": "An unverified piece of information or story that spreads among people.",
+    "pronunciation": "/ˈruːmər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"rumor\" comes from the Latin 'rumor', meaning 'noise' or 'common talk', which evolved to mean unconfirmed information spread by word of mouth.",
+        "targetText": "Cuvântul englezesc „rumor” provine din latină, din termenul 'rumor', care înseamnă 'zgomot' sau 'vorbă comună', evoluând pentru a desemna informații neconfirmate răspândite oral."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zvon",
+    "genus": "neuter",
+    "definition": "O informație neconfirmată care se răspândește unter oameni.",
+    "pronunciation": "/zvon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"zvon\" originates from Slavic, related to Old Slavic 'zvъnŭ', meaning 'sound' or 'bell', used metaphorically for a widely spread message.",
+        "targetText": "Cuvântul românesc „zvon” provine din slavă, legat de vechiul slav 'zvъnŭ', care înseamnă 'sunet' sau 'clopot', folosit metaforic pentru o veste răspândită."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "false report",
+      "targetText": "știre falsă"
+    },
+    {
+      "sourceText": "to spread a rumor",
+      "targetText": "a răspândi zvonuri"
+    },
+    {
+      "sourceText": "gossip",
+      "targetText": "bârfa"
+    },
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fact",
+      "targetText": "fapt"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The rumor spread quickly throughout the city.",
+      "targetText": "Zvonul s-a răspândit rapid în oraș."
+    },
+    {
+      "sourceText": "I only heard a rumor, not a confirmed piece of information.",
+      "targetText": "Am auzit doar un zvon, nu o informație confirmată."
+    },
+    {
+      "sourceText": "Rumors can often cause harm.",
+      "targetText": "Zvonurile pot face adesea rău."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"zvon\" sounds like 'zone' with a 'v'—imagine a 'zone' where rumors spread quickly."
+    },
+    {
+      "lang": "en",
+      "text": "The word comes from Slavic roots meaning 'sound' or 'bell', so think of a bell ringing to spread news, just like a rumor."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"zvon\" as a sound that travels but may not be clear or confirmed, just like a rumor."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a bell (zvon) ringing to announce news—this helps link the word to the idea of spreading information."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

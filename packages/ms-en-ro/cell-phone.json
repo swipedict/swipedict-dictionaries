@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-cell-phone",
+  "parent": "ms-ro-telefon-mobil-ebd04e8e@9ed990a2de524b61874cdd473ddd5bbf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:english",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cell phone",
+    "genus": "neuter",
+    "definition": "A portable telephone device used for voice and data communication.",
+    "pronunciation": "/ˈsɛl foʊn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'cell phone' originated in the mid-20th century, referring to a mobile telephone that operates through a network of small geographic areas called 'cells'. The word 'cell' here relates to the cellular network technology that enables wireless communication.",
+        "targetText": "Termenul englezesc „cell phone” a apărut la mijlocul secolului al XX-lea și se referă la un telefon mobil care funcționează printr-o rețea de mici zone geografice numite „celule”. Cuvântul „cell” se referă la tehnologia rețelei celulare care permite comunicarea wireless."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "telefon mobil",
+    "genus": "neuter",
+    "definition": "Un telefon portabil folosit pentru comunicare vocală și de date.",
+    "pronunciation": "/teˈlefon moˈbil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term „telefon mobil” is composed of the Greek-derived word 'telefon' (far + voice) and the Latin adjective 'mobilis' (movable), meaning a 'mobile communication device'.",
+        "targetText": "Termenul românesc „telefon mobil” este compus din cuvântul de origine greacă 'telefon' (departe + voce) și adjectivul latin 'mobilis' (mobil), însemnând un 'dispozitiv de comunicare mobil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "call",
+      "targetText": "apel"
+    },
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "smartphone",
+      "targetText": "smartphone"
+    },
+    {
+      "sourceText": "telephone",
+      "targetText": "telefon"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I forgot my cell phone at home.",
+      "targetText": "Mi-am uitat telefonul mobil acasă."
+    },
+    {
+      "sourceText": "The cell phone keeps ringing.",
+      "targetText": "Telefonul mobil sună mereu."
+    },
+    {
+      "sourceText": "Can you give me your cell phone number?",
+      "targetText": "Îmi poți da numărul tău de telefon mobil?"
+    },
+    {
+      "sourceText": "I charge my cell phone every evening.",
+      "targetText": "Îmi încarc telefonul mobil în fiecare seară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'cell phone' by thinking of the 'cells' in a honeycomb—small units working together to keep you connected anywhere."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'telefon mobil' literally means 'mobile phone'—just like in English, 'mobil' comes from Latin 'mobilis', meaning movable."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'telefon' as 'tele' (far) + 'phone' (voice), so 'telefon mobil' means a phone you can carry far and wide."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'mobil' in Romanian, link it to the English word 'mobile', which means movable or portable."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

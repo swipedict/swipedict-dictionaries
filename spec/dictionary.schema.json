@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Dictionary Metadata Schema",
+  "description": "Schema for an individual dictionary object within the main 'dictionaries.json' file.",
+  "type": "object",
+  "properties": {
+    "dictId": {
+      "type": "string",
+      "description": "Unique identifier for the dictionary (e.g., ms-de-ro)."
+    },
+    "author": {
+      "type": "string",
+      "description": "Author of the dictionary."
+    },
+    "version": {
+      "type": "string",
+      "description": "Version of the dictionary content (e.g., 1.0).",
+      "pattern": "^\\d+\\.\\d+(\\.\\d+)?$"
+    },
+    "buildVersion": {
+      "type": "string",
+      "description": "The unique build version string, combining the public version and a build ID (e.g., v1.0-A4T7H).",
+      "pattern": "^v\\d+\\.\\d+(\\.\\d+)?-[\\w-]+$"
+    },
+    "schemaVersion": {
+      "type": "string",
+      "description": "Version of the entry schema this dictionary's entries adhere to (e.g., 1.0).",
+      "pattern": "^\\d+\\.\\d+$"
+    },
+    "feedback": {
+      "type": "string",
+      "description": "URL for feedback (e.g., Discord link)."
+    },
+    "message": {
+      "type": "string",
+      "description": "A descriptive message or title for the dictionary."
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of dictionary, often language pair (e.g., de-ro)."
+    },
+    "path": {
+      "type": "string",
+      "description": "The directory name where this dictionary resides. Should match the folder name."
+    }
+  },
+  "required": [
+    "dictId",
+    "author",
+    "version",
+    "buildVersion",
+    "schemaVersion",
+    "feedback",
+    "message",
+    "type",
+    "path"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-eighty",
+  "parent": "ms-ro-optzeci-d7c20017@545f507f9bef8ccb975f79251adeb0aa",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "eighty",
+    "definition": "The number 80, which is eight times ten.",
+    "pronunciation": "/ˈeɪti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"eighty\" is formed from \"eight\" plus the suffix \"-y,\" which is used to form multiples of ten.",
+        "targetText": "Cuvântul englezesc „eighty” este format din „eight” și sufixul „-y”, folosit pentru a forma multipli de zece."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "optzeci",
+    "definition": "Numărul 80, un multiplu de zece.",
+    "pronunciation": "/optˈt͡seʧʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „optzeci” is a compound of 'opt' (eight) and 'zeci' (tens), where 'zeci' derives from the Latin 'decem' (ten).",
+        "targetText": "Cuvântul românesc „optzeci” este o compoziție din „opt” și „zeci”, unde „zeci” provine din latină, de la 'decem' (zece)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "eight",
+      "targetText": "opt"
+    },
+    {
+      "sourceText": "ninety",
+      "targetText": "nouăzeci"
+    },
+    {
+      "sourceText": "seventy",
+      "targetText": "șaptezeci"
+    },
+    {
+      "sourceText": "ten",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "He is eighty years old.",
+      "targetText": "El are optzeci de ani."
+    },
+    {
+      "sourceText": "The street is eighty meters long.",
+      "targetText": "Strada are optzeci de metri lungime."
+    },
+    {
+      "sourceText": "Eighty percent of the students passed.",
+      "targetText": "Optzeci la sută dintre elevi au promovat."
+    },
+    {
+      "sourceText": "The car is driving at eighty kilometers per hour.",
+      "targetText": "Mașina merge cu optzeci de kilometri pe oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'optzeci' combines 'opt' (eight) and 'zeci' (tens), just like 'eighty' combines 'eight' and '-y' to form multiples of ten."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'optzeci' as 'eight tens'—this helps you connect the Romanian number to its English equivalent."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-y' in English numbers like 'eighty' signals multiples of ten, similar to how 'zeci' works in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'optzeci,' imagine you have eight groups of ten apples—this visual helps link the word to the number 80."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

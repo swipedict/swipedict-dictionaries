@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-population",
+  "parent": "ms-ro-populatie-ee2a2ab7@63dbe094baedb8bdb61320b551b98287",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "population",
+    "genus": "feminine",
+    "definition": "The total number of people living in a specific area or region.",
+    "pronunciation": "/ˌpɒp.jʊˈleɪ.ʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"population\" comes from the Latin word 'populatio', which derives from 'populus', meaning 'people' or 'nation'.",
+        "targetText": "Cuvântul englezesc „population” provine din cuvântul latin 'populatio', care derivă din 'populus', însemnând 'popor' sau 'națiune'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "populație",
+    "genus": "feminine",
+    "definition": "Totalitatea oamenilor care locuiesc într-un teritoriu.",
+    "pronunciation": "/popuˈlat͡sje/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"populație\" comes from the Latin 'populatio', derived from 'populus' meaning 'people'.",
+        "targetText": "Cuvântul românesc „populație” provine din latină, de la 'populatio', derivat din 'populus' care înseamnă 'popor'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "inhabitant",
+      "targetText": "locuitor"
+    },
+    {
+      "sourceText": "country",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    },
+    {
+      "sourceText": "people",
+      "targetText": "popor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "emptiness",
+      "targetText": "gol"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The population of the city is growing rapidly.",
+      "targetText": "Populația orașului crește rapid."
+    },
+    {
+      "sourceText": "The population is very diverse.",
+      "targetText": "Populația este foarte diversă."
+    },
+    {
+      "sourceText": "The government takes care of the population.",
+      "targetText": "Guvernul are grijă de populație."
+    },
+    {
+      "sourceText": "The population decreased last year.",
+      "targetText": "Populația a scăzut anul trecut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word 'population' sounds very similar to the Romanian 'populație', both meaning the people living in an area."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'populus', the Latin root meaning 'people', which is the origin of both 'population' and 'populație'."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'population' contains 'pop', like a 'pop' music crowd, which can help you remember it relates to groups of people."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'population' to 'populace', another English word meaning people living in a place, to reinforce the meaning of 'populație'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

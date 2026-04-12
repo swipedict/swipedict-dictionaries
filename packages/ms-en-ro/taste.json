@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-taste",
+  "parent": "ms-ro-a-gusta-e7a35ddf@cd1833d4efd399486d042abe0c9582f3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "taste",
+    "definition": "to perceive or experience the flavor of something, especially food or drink, whether pleasant or unpleasant",
+    "pronunciation": "/teɪst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Middle English 'tasten', meaning 'to touch, try, or test', related to Old French 'taster' and ultimately from Latin 'taxare' meaning 'to touch, handle, assess'.",
+        "targetText": "Cuvântul englezesc „taste“ provine din engleza mijlocie „tasten“, care însemna „a atinge, încerca sau testa“, fiind înrudit cu franceza veche „taster“ și, în cele din urmă, din latină „taxare“, care înseamnă „a atinge, a manipula, a evalua“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is commonly used in culinary contexts to describe the act of sampling or experiencing flavors."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a gusta",
+    "definition": "a avea un gust; a fi bun sau rău la gust",
+    "pronunciation": "/ɨˈɡsta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "\"A gusta\" is derived from the Latin \"gustare\", meaning \"to taste, to sample\". It directly relates to the sensory perception, especially in the context of food.",
+        "targetText": "Verbul românesc „a gusta“ derivă din latinul „gustare“, care înseamnă „a gusta“ sau „a simți gustul“. Se referă la percepția gustului, mai ales în context culinar."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "\"A gusta\" is often used in gastronomy and is a fundamental part of culinary language."
+  },
+  "senses": [
+    {
+      "gloss": "Flavor perception",
+      "explanation": {
+        "sourceText": "The verb describes the perception of flavor.",
+        "targetText": "Verbul descrie percepția gustului."
+      },
+      "examples": [
+        {
+          "sourceText": "I taste the difference.",
+          "targetText": "Eu gust diferența."
+        }
+      ]
+    },
+    {
+      "gloss": "Sensing in food",
+      "explanation": {
+        "sourceText": "It refers to the sensation of flavor in food.",
+        "targetText": "Se referă la senzația gustativă a alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "The dish tastes excellent.",
+          "targetText": "Preparatul gustă excelent."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "pleasure",
+      "targetText": "plăcere"
+    },
+    {
+      "sourceText": "kitchen",
+      "targetText": "bucătărie"
+    },
+    {
+      "sourceText": "drink",
+      "targetText": "a bea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "smell",
+      "targetText": "a mirosi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I taste the spices.",
+      "targetText": "Eu gust condimentele."
+    },
+    {
+      "sourceText": "Do you taste the sweetness?",
+      "targetText": "Gusti dulceața?"
+    },
+    {
+      "sourceText": "The chef tastes the soup.",
+      "targetText": "Bucătarul gustă supa."
+    },
+    {
+      "sourceText": "We taste the dish.",
+      "targetText": "Noi gustăm mâncarea."
+    },
+    {
+      "sourceText": "Do you taste the wine?",
+      "targetText": "Gustați vinul?"
+    },
+    {
+      "sourceText": "They taste the ingredients.",
+      "targetText": "Ei gustă ingredientele."
+    },
+    {
+      "sourceText": "I tried and tasted the food.",
+      "targetText": "Am gustat mâncarea."
+    },
+    {
+      "sourceText": "He tasted the fruit every day.",
+      "targetText": "El gusta fructul în fiecare zi."
+    },
+    {
+      "sourceText": "I will try the cake.",
+      "targetText": "Voi gusta prăjitura."
+    },
+    {
+      "sourceText": "I would try the dessert if I could.",
+      "targetText": "Aș gusta desertul dacă aș putea."
+    },
+    {
+      "sourceText": "The tasted dish really tastes good.",
+      "targetText": "Mâncarea gustată este delicioasă."
+    },
+    {
+      "sourceText": "By tasting the food, I realized how good it was.",
+      "targetText": "Gustând mâncarea, am realizat cât de bună este."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'taste' sounds like 'taste' in English—think of tasting delicious food to anchor the Romanian word 'a gusta'."
+    },
+    {
+      "lang": "en",
+      "text": "Every bite is a mini adventure for your palate—use 'a gusta' when exploring new flavors!"
+    },
+    {
+      "lang": "en",
+      "text": "The verb 'a gusta' is regular and easy to conjugate, making it simple to learn."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'gust' in English (meaning a sudden burst) to remember 'a gusta' relates to a burst of flavor."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

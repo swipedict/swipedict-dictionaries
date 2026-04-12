@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-sick-note",
+  "parent": "ms-ro-adeverinta-medicala-f2f5369e@0dc58ac1a89acc2cb69bf2ff79f6af40",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sick note",
+    "genus": "feminine",
+    "definition": "A written or verbal notification that someone is ill and therefore unable to attend work or school.",
+    "pronunciation": "/sɪk noʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"sick note\" combines \"sick,\" meaning ill or unwell, with \"note,\" which derives from the Latin 'nota' meaning a mark or written message.",
+        "targetText": "Termenul englezesc „sick note” combină „sick”, care înseamnă bolnav sau rău, cu „note”, care provine din latină, 'nota', însemnând o marcă sau un mesaj scris."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "The word \"medical\" is an adjective relating to medicine or health."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "adeverință medicală",
+    "genus": "feminine",
+    "definition": "Un document oficial care atestă că o persoană este bolnavă și nu poate merge la muncă sau la școală.",
+    "pronunciation": "/adeveˈrint͡sə mediˈkalə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"adeverință\" comes from Latin 'ad-' + 'verus' (true), meaning a certification or official document.",
+        "targetText": "Cuvântul românesc „adeverință” provine din latină, compus din 'ad-' și 'verus' (adevărat), însemnând o certificare sau un document oficial."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Das Wort „medicală“ ist ein Adjektiv, das sich auf Medizin oder Gesundheit bezieht."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "incapacity for work",
+      "targetText": "incapacitate de muncă"
+    },
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "medical certificate",
+      "targetText": "certificat medical"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I sent the employer a sick note.",
+      "targetText": "Am trimis angajatorului o adeverință medicală."
+    },
+    {
+      "sourceText": "The sick note must be issued by the doctor.",
+      "targetText": "Adeverința medicală trebuie emisă de medic."
+    },
+    {
+      "sourceText": "You are not allowed to stay home without a sick note.",
+      "targetText": "Fără adeverință medicală nu ai voie să stai acasă."
+    },
+    {
+      "sourceText": "The sick note is valid for one week.",
+      "targetText": "Adeverința medicală este valabilă o săptămână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"adeverință\" as a formal 'ad-VERINȚĂ'—like getting a 'true' confirmation from your doctor that you are really sick."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"adeverință\" is an official document, similar to a 'note' or 'certificate' in English that confirms something important."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine sending your boss a 'true' (adeverință) message that you are ill, helping you recall the meaning of the word."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"adeverință medicală\" with the English word \"medical\"—the adjective \"medicală\" indicates the health-related context."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ms-en-ro-move-in",
+  "parent": "ms-ro-a-muta-593b3a01@314cb90c57c83e56885e2d8ebab8464d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "move in",
+    "definition": "to begin living in a new house or apartment",
+    "pronunciation": "/muːv ɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase 'move in' combines the verb 'move', which comes from the Latin 'movere' meaning 'to move', with the preposition 'in', indicating entering or starting residence.",
+        "targetText": "Expresia engleză „move in“ combină verbul „move“, care provine din latinul „movere“ însemnând „a mișca“, cu prepoziția „in“, indicând intrarea sau începerea locuirii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb phrase. Commonly used when referring to starting to live in a new home or room."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a muta",
+    "definition": "a intra într-o locuință sau o casă",
+    "pronunciation": "/a muˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a muta“ derives from the Latin „movere“, meaning „to move“. It is used to describe changing residence to a new home.",
+        "targetText": "Verbul românesc „a muta“ derivă din latinescul „movere“, care înseamnă „a mișca“, fiind folosit pentru a exprima schimbarea locuinței."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Mainly used in everyday language to describe moving house."
+  },
+  "senses": [
+    {
+      "gloss": "move in (to an apartment)",
+      "explanation": {
+        "sourceText": "The verb describes moving into a new apartment.",
+        "targetText": "Verbul descrie mutarea într-un nou apartament."
+      },
+      "examples": [
+        {
+          "sourceText": "I am moving next week.",
+          "targetText": "Eu mă mut săptămâna viitoare."
+        },
+        {
+          "sourceText": "I have moved into the new apartment.",
+          "targetText": "M-am mutat în noul apartament."
+        }
+      ]
+    },
+    {
+      "gloss": "move in (to a room)",
+      "explanation": {
+        "sourceText": "The word is also used to describe entering a new room.",
+        "targetText": "Cuvântul este folosit și pentru a descrie intrarea într-o încăpere nouă."
+      },
+      "examples": [
+        {
+          "sourceText": "I would move in immediately if the room were free.",
+          "targetText": "M-aș muta imediat, dacă ar fi liber."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "tenant",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "neighbor",
+      "targetText": "vecin"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "move out",
+      "targetText": "a se muta din"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am moving next week.",
+      "targetText": "Eu mă mut săptămâna viitoare."
+    },
+    {
+      "sourceText": "I have moved into the new apartment.",
+      "targetText": "M-am mutat în noul apartament."
+    },
+    {
+      "sourceText": "I will move in next week.",
+      "targetText": "Voi mă muta săptămâna viitoare."
+    },
+    {
+      "sourceText": "I would move in immediately if the room were free.",
+      "targetText": "M-aș muta imediat, dacă ar fi liber."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'move in' means starting to live somewhere new—think of 'move' as changing place and 'in' as entering your new home."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a muta' sounds like 'mutate' in English, which means to change—so 'a muta' means to change your living place."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase 'Eu mă mut!' meaning 'I move!'—it's a simple way to remember 'a muta' relates to moving house."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'move in' with 'muta' by focusing on the shared idea of moving and starting fresh in a new place."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

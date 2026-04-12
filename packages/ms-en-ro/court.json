@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-court",
+  "parent": "ms-ro-curte-65af3f35@7fe0868ccf660889a8731db19921a6ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "court",
+    "definition": "An institution where legal cases are heard and justice is administered; it can also refer to a prepared dish in some contexts.",
+    "pronunciation": "/kɔːrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"court\" originates from the Old French 'cort' or 'court', which itself comes from the Latin 'cohors, cohortis', meaning an enclosed yard or retinue. Over time, it came to denote a place where justice is administered or where a sovereign holds sessions.",
+        "targetText": "Cuvântul englezesc „court” provine din vechiul francez 'cort' sau 'court', care la rândul său derivă din latină 'cohors, cohortis', însemnând o curte închisă sau o suită. În timp, a ajuns să desemneze un loc unde se administrează justiția sau unde un suveran ține audiențe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curte",
+    "genus": "feminine",
+    "definition": "Instituția care administrează justiția; de asemenea, poate însemna o mâncare pregătită.",
+    "pronunciation": "/ˈkur.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"curte\" derives from the Latin 'cohors, cohortis', originally a military term referring to an enclosed yard or courtyard, which later took on the meaning of a place of judgment.",
+        "targetText": "Cuvântul românesc „curte” provine din latină, de la 'cohors, cohortis', inițial un termen militar pentru un spațiu închis, care ulterior a căpătat sensul de loc al judecății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "lawyer",
+      "targetText": "avocat"
+    },
+    {
+      "sourceText": "law",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "dish",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "judgment",
+      "targetText": "sentință"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The court acquitted the defendant.",
+      "targetText": "Curtea a achitat inculpatul."
+    },
+    {
+      "sourceText": "The dish was delicious and well seasoned.",
+      "targetText": "Mâncarea a fost delicioasă și bine condimentată."
+    },
+    {
+      "sourceText": "There was a tense atmosphere in the courtroom.",
+      "targetText": "În sala de judecată domnea o atmosferă tensionată."
+    },
+    {
+      "sourceText": "The court holds sessions daily except Sundays.",
+      "targetText": "Curtea ține ședințe zilnic, cu excepția duminicii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"curte\" sounds like the English word \"court\", which also means a place where justice is served."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a royal court where a king or queen holds sessions—this helps link \"curte\" to a place of judgment."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'cohors' relates to an enclosed yard or group, which helps explain the meaning of \"curte\" as a courtyard or court."
+    },
+    {
+      "lang": "en",
+      "text": "Although \"court\" in English can mean a place for legal matters or sports, in Romanian \"curte\" mainly refers to the legal institution or a courtyard, so keep the contexts in mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-cold",
+  "parent": "ms-ro-rece-dd661373@3843f90798b2a14ae7fa84f8184e891b",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:english",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cold",
+    "definition": "Having a low temperature or causing the sensation of chilliness.",
+    "pronunciation": "/koʊld/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"cold\" originates from Old English 'cald', which comes from the Proto-Germanic root *kaldaz, meaning low in temperature.",
+        "targetText": "Cuvântul englezesc „cold” provine din engleza veche 'cald', care derivă din rădăcina proto-germanică *kaldaz, însemnând temperatură scăzută."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rece",
+    "definition": "Care are o temperatură scăzută sau provoacă senzația de frig.",
+    "pronunciation": "/ˈretʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"rece\" comes from the Latin adjective 'frigidus', meaning 'cold' or 'cool'.",
+        "targetText": "Cuvântul românesc „rece” provine din latinescul 'frigidus', care înseamnă 'rece' sau 'răcoros'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "frost",
+      "targetText": "îngheț"
+    },
+    {
+      "sourceText": "to cool",
+      "targetText": "a răci"
+    },
+    {
+      "sourceText": "temperature",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "warm",
+      "targetText": "cald"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "warm",
+      "targetText": "cald"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The water is cold.",
+      "targetText": "Apa este rece."
+    },
+    {
+      "sourceText": "I am cold, I need a jacket.",
+      "targetText": "Îmi este rece, am nevoie de o geacă."
+    },
+    {
+      "sourceText": "In winter, it is often very cold.",
+      "targetText": "Iarna este adesea foarte rece."
+    },
+    {
+      "sourceText": "Cold air can be refreshing.",
+      "targetText": "Aerul rece poate fi revigorant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'rece' sounds like 'retch' but means cold; think of shivering when you 'retch' from cold."
+    },
+    {
+      "lang": "en",
+      "text": "Pair 'rece' with 'cald' (warm) as opposites to easily recall their meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'rece' as 'resist cold' to remember it means cold."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying 'Ray, see!' while feeling cold air to help remember 'rece'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

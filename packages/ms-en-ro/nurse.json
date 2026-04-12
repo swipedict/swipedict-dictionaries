@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-nurse",
+  "parent": "ms-ro-asistenta-8cef2b3f@904a762e9977105a0b0668d18e78b511",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "nurse",
+    "genus": "feminine",
+    "definition": "A female person who provides care and assistance to patients in hospitals or other medical facilities.",
+    "pronunciation": "/nɜːrs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"nurse\" originates from the Old French word \"nourice\" or \"nourisse,\" meaning a nurse or wet nurse, which itself comes from the Latin verb \"nutrire,\" meaning to nourish or suckle. Over time, it came to refer to a person who cares for the sick.",
+        "targetText": "Cuvântul englezesc „nurse” provine din vechea franceză „nourice” sau „nourisse”, care însemna o menajeră sau o bonă, derivat din verbul latin „nutrire”, care înseamnă a hrăni sau a alăpta. În timp, a ajuns să desemneze o persoană care are grijă de bolnavi."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "Feminine form commonly used in medical contexts to refer to female nurses."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asistentă",
+    "genus": "feminine",
+    "definition": "O persoană de sex feminin care oferă îngrijire și asistență pacienților în spitale sau alte instituții medicale.",
+    "pronunciation": "/a.siˈsten.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"asistentă\" was borrowed from the French \"assistante,\" which derives from the Latin verb \"assistere\" meaning \"to stand by\" or \"to help.\"",
+        "targetText": "Cuvântul românesc „asistentă” a fost împrumutat din franceza „assistante”, provenind din verbul latin „assistere” („a sta alături”, „a ajuta”)."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Weibliche Form von 'asistent', wird im medizinischen Kontext für Krankenschwestern verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "assistant",
+      "targetText": "asistent"
+    },
+    {
+      "sourceText": "patient",
+      "targetText": "pacient"
+    },
+    {
+      "sourceText": "care",
+      "targetText": "îngrijire"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The nurse helps the patient to get up.",
+      "targetText": "Asistenta îl ajută pe pacient să se ridice."
+    },
+    {
+      "sourceText": "A nurse often works in shifts.",
+      "targetText": "O asistentă lucrează adesea în ture."
+    },
+    {
+      "sourceText": "The nurse measures the patient's temperature.",
+      "targetText": "Asistenta măsoară temperatura pacientului."
+    },
+    {
+      "sourceText": "Nurses are important members of the healthcare system.",
+      "targetText": "Asistentele sunt membri importanți ai sistemului de sănătate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'nurse' comes from Latin 'nutrire' meaning 'to nourish'—think of a nurse as someone who nourishes and cares for patients."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'asistentă' sounds like 'assistant' in English, which helps you remember that a nurse assists doctors and patients."
+    },
+    {
+      "lang": "en",
+      "text": "The '-ă' ending in Romanian often marks feminine nouns, so 'asistentă' is the female form of 'asistent' (assistant)."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a nurse as always 'assisting'—the English word 'nurse' and Romanian 'asistentă' both relate to helping and supporting others."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

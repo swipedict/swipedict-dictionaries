@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-discount",
+  "parent": "ms-ro-reducere-b7d0d7b0@77511ec6526e3844696e47907b8b0a5e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "discount",
+    "genus": "masculine",
+    "definition": "A reduction in the usual price of goods or services offered at the time of purchase.",
+    "pronunciation": "/ˈdɪskaʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'discount' originates from the Old French 'descompter', meaning 'to deduct' or 'to subtract', which itself comes from Latin roots. It entered English in the late Middle Ages.",
+        "targetText": "Cuvântul englezesc „discount” provine din vechiul francez „descompter”, care înseamnă „a deduce” sau „a scădea”, având rădăcini latine. A intrat în limba engleză în Evul Mediu târziu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "reducere",
+    "genus": "neuter",
+    "definition": "O scădere a prețului acordată la cumpărarea unui bun sau serviciu.",
+    "pronunciation": "/reduˈt͡ʃere/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'reducere' derives from the Latin verb 'reducere', meaning 'to lead back' or 'to reduce', and has come to mean 'price reduction' in Romanian.",
+        "targetText": "Cuvântul românesc „reducere” provine din verbul latin 'reducere', care înseamnă „a conduce înapoi” sau „a reduce“, dobândind în română sensul de „scădere a prețului“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "voucher",
+      "targetText": "cupon"
+    },
+    {
+      "sourceText": "price reduction",
+      "targetText": "reducere de preț"
+    },
+    {
+      "sourceText": "discount campaign",
+      "targetText": "campanie de reducere"
+    },
+    {
+      "sourceText": "special offer",
+      "targetText": "ofertă specială"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "surcharge",
+      "targetText": "supliment de preț"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The retailer offers a 10% discount on all products.",
+      "targetText": "Comerciantul acordă o reducere de 10% la toate produsele."
+    },
+    {
+      "sourceText": "There is often a discount for larger orders.",
+      "targetText": "La comenzile mai mari există adesea o reducere."
+    },
+    {
+      "sourceText": "The discount is deducted directly from the total price.",
+      "targetText": "Reducerea se scade direct din prețul total."
+    },
+    {
+      "sourceText": "I received a discount code for the online shop.",
+      "targetText": "Am primit un cod de reducere pentru magazinul online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'discount' sounds like 'dis-count' — think of counting less money to pay, which helps you recall 'reducere' means a price reduction."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'reducere' is related to the English 'reduce' — both mean to lower or decrease, making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a store 'reducing' prices during sales — 'reducere' is the Romanian word for that price cut."
+    },
+    {
+      "lang": "en",
+      "text": "When you get a 'discount' in English, you pay less — in Romanian, 'reducere' means the same, so link the two words in your mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

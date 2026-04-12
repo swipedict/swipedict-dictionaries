@@ -1,0 +1,177 @@
+{
+  "id": "ms-en-ro-refer",
+  "parent": "ms-ro-a-se-referi-4516a4fc@2600c778926cab3bd647f3a5b410f2f9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "refer",
+    "definition": "to direct someone to a source for information or help, or to mention or relate to something",
+    "pronunciation": "/rɪˈfɜːr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"refer\" comes from the Latin verb \"referre,\" meaning \"to carry back\" or \"to bring back.\" It entered English through Old French and has developed the meaning of directing attention to something or mentioning it.",
+        "targetText": "Cuvântul englezesc „refer” provine din verbul latin „referre”, care înseamnă „a aduce înapoi” sau „a transporta înapoi”. A intrat în limba engleză prin vechea limbă franceză și a căpătat sensul de a direcționa atenția către ceva sau a menționa ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is commonly used in various contexts, such as referring to information sources or obtaining supplies."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se referi",
+    "definition": "a primi sau a primi ceva, în special în mod regulat",
+    "pronunciation": "/a se reˈfe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a se referi” derives from the Latin „referre,” meaning \"to carry back\" or \"to refer to.\" In Romanian, it has taken on the meaning \"to relate to\" or \"to refer to.\"",
+        "targetText": "Verbul românesc „a se referi“ provine din latină, din „referre“, care înseamnă „a aduce înapoi“ sau „a face referire“, și a căpătat sensul de „a se raporta la“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verbul este reflexiv și este folosit pentru a clarifica relații sau conexiuni."
+  },
+  "senses": [
+    {
+      "gloss": "refer",
+      "explanation": {
+        "sourceText": "In a broader sense, it can also mean to transfer or convey.",
+        "targetText": "Într-un sens mai larg, poate însemna și a transmite sau a transfera."
+      },
+      "examples": [
+        {
+          "sourceText": "He refers his ideas to several sources.",
+          "targetText": "El se referă la ideile sale din mai multe surse."
+        }
+      ]
+    },
+    {
+      "gloss": "to receive something",
+      "explanation": {
+        "sourceText": "Indicates receiving information or goods.",
+        "targetText": "Se referă la primirea de informații sau bunuri."
+      },
+      "examples": [
+        {
+          "sourceText": "I refer to the information from this source.",
+          "targetText": "Mă refer la informațiile din această sursă."
+        }
+      ]
+    },
+    {
+      "gloss": "to relate to",
+      "explanation": {
+        "sourceText": "The verb is often used in contexts to indicate reference to information or discussions.",
+        "targetText": "Verbul este folosit frecvent pentru a face referire la informații sau discuții."
+      },
+      "examples": [
+        {
+          "sourceText": "I refer to our last conversation.",
+          "targetText": "Mă refer la discuția noastră anterioară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "offer",
+      "targetText": "ofertă"
+    },
+    {
+      "sourceText": "customer",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "delivery",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "turn away",
+      "targetText": "a se abate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I refer my information from various sources.",
+      "targetText": "Mă refer la informațiile provenite din diverse surse."
+    },
+    {
+      "sourceText": "Do you refer the goods directly from the supplier?",
+      "targetText": "Te referi la produsele pe care le obții direct de la furnizor?"
+    },
+    {
+      "sourceText": "He refers his thoughts from the latest studies.",
+      "targetText": "El se referă la gândurile sale bazate pe cele mai recente studii."
+    },
+    {
+      "sourceText": "We refer to the previous discussion.",
+      "targetText": "Ne referim la discuția anterioară."
+    },
+    {
+      "sourceText": "Do you refer your ideas from the experts?",
+      "targetText": "Vă referiți la ideile experților?"
+    },
+    {
+      "sourceText": "They refer their services from an external provider.",
+      "targetText": "Ei se referă la serviciile oferite de un furnizor extern."
+    },
+    {
+      "sourceText": "I referred to the new guidelines.",
+      "targetText": "M-am referit la noile linii directoare."
+    },
+    {
+      "sourceText": "He often referred to historical events.",
+      "targetText": "El se referea adesea la evenimente istorice."
+    },
+    {
+      "sourceText": "I will refer to the results.",
+      "targetText": "Mă voi referi la rezultate."
+    },
+    {
+      "sourceText": "Refer to the necessary information!",
+      "targetText": "Referă-te la informațiile necesare!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"refer\" as pointing someone to a reference or source, just like the Romanian \"a se referi\" means to relate or point to something."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"refer\" sounds like \"referee,\" who points out rules or decisions, similar to how \"a se referi\" means to point or relate to information."
+    },
+    {
+      "lang": "en",
+      "text": "The root \"fer\" in \"refer\" is related to 'carry' or 'bring,' so think of \"a se referi\" as carrying your attention back to a source."
+    },
+    {
+      "lang": "en",
+      "text": "When you \"refer\" to something in English, you are making a connection, just like \"a se referi\" in Romanian, so linking the two helps you remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

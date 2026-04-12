@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-insurance",
+  "parent": "ms-ro-asigurare-1dd109f2@b63e0bf979765ece82f8a8b4c4d9bfe4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "insurance",
+    "genus": "feminine",
+    "definition": "A contract or arrangement that provides financial protection by compensating for losses or damages.",
+    "pronunciation": "/ɪnˈʃʊərəns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'insurance' comes from the verb 'insure', which derives from Old French 'enseurer', meaning 'to make sure or secure', originally from Latin 'securus' meaning 'secure'.",
+        "targetText": "Cuvântul englezesc „insurance” provine de la verbul „insure”, care derivă din franceza veche „enseurer”, însemnând „a face sigur sau a asigura”, provenind inițial din latină „securus” care înseamnă „sigur”."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asigurare",
+    "genus": "feminine",
+    "definition": "Un contract sau o instituție care oferă protecție împotriva riscurilor financiare, plătind o despăgubire în caz de daună.",
+    "pronunciation": "/a.si.guˈra.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'asigurare' comes from the Latin verb 'assicurare', which was borrowed through Italian 'assicurare' and means 'to make safe'.",
+        "targetText": "Cuvântul românesc „asigurare” provine din verbul latin 'assicurare', preluat prin italiană 'assicurare', care înseamnă „a face sigur”."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "insurer",
+      "targetText": "asigurător"
+    },
+    {
+      "sourceText": "insurance premium",
+      "targetText": "primă de asigurare"
+    },
+    {
+      "sourceText": "policyholder",
+      "targetText": "asigurat"
+    },
+    {
+      "sourceText": "insurance policy",
+      "targetText": "polită de asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "risk",
+      "targetText": "risc"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The insurance pays for the damage after the accident.",
+      "targetText": "Asigurarea plătește dauna după accident."
+    },
+    {
+      "sourceText": "I have taken out liability insurance.",
+      "targetText": "Am încheiat o asigurare de răspundere civilă."
+    },
+    {
+      "sourceText": "Insurance protects against financial losses.",
+      "targetText": "Asigurarea protejează împotriva pierderilor financiare."
+    },
+    {
+      "sourceText": "Many people take out life insurance.",
+      "targetText": "Mulți oameni încheie o asigurare de viață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'insurance' as 'in sure'—something that makes you sure or safe, just like 'asigurare' means in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'asigurare' sounds like 'assure' in English, which means to guarantee or make safe, helping you remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'insurance' and 'asigurare' both relate to protection and safety, so they share a similar root concept."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself 'assuring' your safety—that 'a' at the start of 'asigurare' can remind you of 'assure' and 'insurance'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

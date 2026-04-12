@@ -1,0 +1,154 @@
+{
+  "id": "ms-en-ro-glass",
+  "parent": "ms-ro-sticla-6cd82022@b9da5dca978a318d5705e7a2c1386afe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "Etymological Dictionaries, Linguistic Analysis",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "glass",
+    "genus": "neuter",
+    "definition": "A hard, brittle substance, typically transparent or translucent, used for making containers, windows, and drinking vessels.",
+    "pronunciation": "/ɡlæs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"glass\" comes from Old English \"glæs\", meaning a transparent or translucent material. It is related to words meaning to shine or glitter, reflecting the shiny nature of glass.",
+        "targetText": "Cuvântul englezesc „glass” provine din engleza veche „glæs”, care înseamnă un material transparent sau translucid. Este legat de cuvinte care înseamnă a străluci sau a scânteia, reflectând natura strălucitoare a sticlei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Glass is commonly used to make drinking vessels."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sticlă",
+    "genus": "feminine",
+    "definition": "Un recipient din sticlă, adesea folosit pentru a bea sau a păstra lichide.",
+    "pronunciation": "/ˈstɪklə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"sticlă\" has an uncertain etymology; it does not derive from Latin \"vitrum\" but likely comes from a Slavic or Balkan language.",
+        "targetText": "Originea cuvântului românesc „sticlă” este incertă; nu provine din latină („vitrum”), ci probabil dintr-o limbă slavă sau balcanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Sticlă este folosită adesea pentru a crea obiecte decorative și recipiente pentru băuturi."
+  },
+  "senses": [
+    {
+      "gloss": "Glass (container)",
+      "explanation": {
+        "sourceText": "In the sense of a container for liquids.",
+        "targetText": "În sensul de recipient pentru lichide."
+      },
+      "examples": [
+        {
+          "sourceText": "The glass on the table is very light.",
+          "targetText": "Sticla de pe masă este foarte ușoară."
+        },
+        {
+          "sourceText": "I drank a glass of water.",
+          "targetText": "Am băut un pahar cu apă."
+        }
+      ]
+    },
+    {
+      "gloss": "Bench (seat)",
+      "explanation": {
+        "sourceText": "Also in the context of a bench in the park.",
+        "targetText": "De asemenea, în contextul unei bănci pentru șezut în parc."
+      },
+      "examples": [
+        {
+          "sourceText": "Let's sit on the bench.",
+          "targetText": "Să ne așezăm pe bancă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "cup",
+      "targetText": "pahar"
+    },
+    {
+      "sourceText": "window",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "bottle",
+      "targetText": "sticlă"
+    },
+    {
+      "sourceText": "glassworks",
+      "targetText": "sticlărie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ceramics",
+      "targetText": "porțelan"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The glass on the table is very light.",
+      "targetText": "Sticla de pe masă este foarte ușoară."
+    },
+    {
+      "sourceText": "I drank a glass of water.",
+      "targetText": "Am băut un pahar cu apă."
+    },
+    {
+      "sourceText": "The glass is broken.",
+      "targetText": "Sticla s-a spart."
+    },
+    {
+      "sourceText": "Glass can be recycled.",
+      "targetText": "Sticla poate fi reciclată."
+    },
+    {
+      "sourceText": "He has a collection of glass containers.",
+      "targetText": "El are o colecție de recipiente din sticlă."
+    },
+    {
+      "sourceText": "The glasses are prepared for the guests.",
+      "targetText": "Paharele sunt pregătite pentru oaspeți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"sticlă\" by thinking of the English word \"stick\" plus \"la\"—imagine a glass stick to help you recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"sticlă\" sounding like \"stee-clah\"—imagine a stylish glass vase to link the sound and meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"sticlă\" with \"stick\" and \"clear\"—glass is clear, and the word sounds similar to 'stick-la'."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize breaking a glass to remember \"sticlă\"—the sharp sound of breaking glass helps fix the word in your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

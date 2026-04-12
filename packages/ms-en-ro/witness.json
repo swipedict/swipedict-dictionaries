@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-witness",
+  "parent": "ms-ro-martor-6f5a2c39@605ca659591aa8a8a4a54290ea69e3f8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "witness",
+    "definition": "A person who has seen or heard something and can provide a statement about it, especially in a legal context.",
+    "pronunciation": "/ˈwɪtnəs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'witness' comes from Old English 'witnes', meaning 'knowledge' or 'testimony', derived from 'wit' meaning 'knowledge'.",
+        "targetText": "Cuvântul englezesc „witness” provine din engleza veche 'witnes', care însemna 'cunoaștere' sau 'mărturie', derivat din 'wit' care înseamnă 'cunoaștere'."
+      },
+      "source": "Etymological dictionaries, historical linguistics studies"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "martor",
+    "genus": "masculine",
+    "definition": "Persoană care a văzut sau a auzit ceva și poate relata acest lucru, mai ales în fața instanței.",
+    "pronunciation": "/marˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'martor' derives from Latin 'martor' or 'marturus', borrowed from the Greek 'martys' (μάρτυς) meaning 'witness'.",
+        "targetText": "Cuvântul românesc „martor” derivă din latină 'martor' sau 'marturus', împrumutat din grecescul 'martys' (μάρτυς), care înseamnă 'martor'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "accuser",
+      "targetText": "acuzator"
+    },
+    {
+      "sourceText": "statement",
+      "targetText": "declarație"
+    },
+    {
+      "sourceText": "evidence",
+      "targetText": "dovadă"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "instanță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "perpetrator",
+      "targetText": "făptuitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The witness gave an important statement in court.",
+      "targetText": "Martorul a dat o declarație importantă în fața instanței."
+    },
+    {
+      "sourceText": "Without witnesses, it is hard to clarify the case.",
+      "targetText": "Fără martori, este greu să se lămurească cazul."
+    },
+    {
+      "sourceText": "The witness observed the accident carefully.",
+      "targetText": "Martorul a observat cu atenție accidentul."
+    },
+    {
+      "sourceText": "Witnesses are often questioned in court.",
+      "targetText": "Martorii sunt adesea interogați în instanță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'martor' sounds like 'martyr'—both come from Greek roots related to 'witness'. Think of a martyr as someone who 'witnesses' their faith."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-or' in 'martor' is common in Romanian for people nouns, like 'actor' or 'doctor'. It helps you recognize it as a person."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a witness at a market ('market' sounds like 'martor') observing events—this can help you recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'martor' to the English word 'martyr' and Greek 'martys' meaning witness, to remember its origin and meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

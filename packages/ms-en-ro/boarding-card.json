@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-boarding-card",
+  "parent": "ms-ro-carte-de-imbarcare-11a7013d@1a740daf5c93012cc4c461756f83859c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "boarding card",
+    "genus": "feminine",
+    "definition": "A document that allows a passenger to board an airplane.",
+    "pronunciation": "/ˈbɔːrdɪŋ kɑːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'boarding card' combines 'boarding', derived from the verb 'to board' meaning to get on a ship or aircraft, and 'card', referring to a flat piece of material used for identification or access.",
+        "targetText": "Cuvântul englezesc „boarding card” combină „boarding”, derivat din verbul „to board” care înseamnă a urca la bordul unei nave sau aeronave, și „card”, referindu-se la o bucată plată de material folosită pentru identificare sau acces."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "carte de îmbarcare",
+    "genus": "feminine",
+    "definition": "Un document care permite unui pasager să urce la bordul unui avion.",
+    "pronunciation": "/ˈkarte de ɨmbarˈkare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'carte de îmbarcare' is a modern compound in Romanian, formed from 'carte' (from Latin 'charta') and 'îmbarcare' (from Italian 'imbarcare'), modeled after the English 'boarding card'.",
+        "targetText": "Expresia românească „carte de îmbarcare” este o compunere modernă formată în limba română, din 'carte' (din latină 'charta') și 'îmbarcare' (din italiană 'imbarcare'), după modelul englezesc 'boarding card'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "plane ticket",
+      "targetText": "bilet de avion"
+    },
+    {
+      "sourceText": "airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "passenger",
+      "targetText": "pasager"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Please show your boarding card at the gate.",
+      "targetText": "Vă rugăm să prezentați cartea de îmbarcare la poartă."
+    },
+    {
+      "sourceText": "The boarding card was issued at the counter.",
+      "targetText": "Cartea de îmbarcare a fost emisă la ghișeu."
+    },
+    {
+      "sourceText": "Without a boarding card, you are not allowed to board the plane.",
+      "targetText": "Fără carte de îmbarcare nu ai voie să urci în avion."
+    },
+    {
+      "sourceText": "I lost my boarding card.",
+      "targetText": "Mi-am pierdut cartea de îmbarcare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'boarding card' as the ticket that lets you 'board' a plane—think of 'board' as getting on a ship or plane."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'carte' means 'book' or 'card', similar to the English 'card' in 'boarding card'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'îmbarcare' sounds like the Italian 'imbarcare', both meaning 'to board' or 'to embark'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture holding your 'carte de îmbarcare' as your pass to get on board—this helps link the Romanian phrase to its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

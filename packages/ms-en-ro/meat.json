@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-meat",
+  "parent": "ms-ro-carne-0af90526@a930684adc3dfbeb46808582bbf3485a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "meat",
+    "definition": "The edible flesh of animals used as food.",
+    "pronunciation": "/miːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"meat\" originates from the Old English 'mete', which referred to food in general, and later specialized to mean the flesh of animals used for eating.",
+        "targetText": "Cuvântul englezesc „meat” provine din engleza veche 'mete', care inițial însemna mâncare în general, iar mai târziu s-a specializat să desemneze carnea animalelor folosită ca aliment."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "carne",
+    "genus": "feminine",
+    "definition": "Țesutul muscular comestibil al animalelor, folosit ca aliment.",
+    "pronunciation": "/ˈkar.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"carne\" derives from the Latin 'caro, carnis', meaning 'flesh' or 'meat'.",
+        "targetText": "Cuvântul românesc „carne” provine din latină, din 'caro, carnis', care înseamnă 'carne'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "butcher's shop",
+      "targetText": "măcelărie"
+    },
+    {
+      "sourceText": "meat eater",
+      "targetText": "carnivor"
+    },
+    {
+      "sourceText": "meat dish",
+      "targetText": "fel de mâncare cu carne"
+    },
+    {
+      "sourceText": "piece of meat",
+      "targetText": "bucată de carne"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I like to eat meat for lunch.",
+      "targetText": "Îmi place să mănânc carne la prânz."
+    },
+    {
+      "sourceText": "Meat is an important source of protein.",
+      "targetText": "Carnea este o sursă importantă de proteine."
+    },
+    {
+      "sourceText": "The butcher's shop sells fresh meat.",
+      "targetText": "Măcelăria vinde carne proaspătă."
+    },
+    {
+      "sourceText": "Some people do not eat meat.",
+      "targetText": "Unii oameni nu mănâncă carne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'carne' by linking it to the English word 'carnivore', which means meat-eater and shares the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-e' in 'carne' is typical for many feminine nouns in Romanian, helping you identify its gender."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'carne' as similar to the English word 'carnal', which relates to flesh or the body, sharing the same Latin origin."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine enjoying a delicious meat dish and saying 'carne' to remember the Romanian word for meat."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

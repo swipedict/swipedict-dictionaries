@@ -1,0 +1,163 @@
+{
+  "id": "ms-en-ro-target",
+  "parent": "ms-ro-tinta-072fe265@361ec2b6268d39e69f36e5a3c08a1665",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "target",
+    "genus": "neuter",
+    "definition": "something that one aims to achieve or reach",
+    "pronunciation": "/ˈtɑːrɡɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'target' comes from Old French 'targette', a diminutive of 'targe' meaning 'shield', which itself derives from a Germanic root related to 'shield' or 'buckler'. Over time, it came to mean a mark or object aimed at.",
+        "targetText": "Cuvântul englezesc „target” provine din franceza veche „targette”, diminutiv al lui „targe” însemnând „scut”, care la rândul său derivă dintr-o rădăcină germanică legată de „scut” sau „apărătoare”. În timp, a ajuns să însemne o țintă sau un obiect spre care se țintește."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Targets are often associated with plans and ambitions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "țintă",
+    "genus": "feminine",
+    "definition": "un obiectiv sau scop care trebuie atins",
+    "pronunciation": "/ˈt͡sɨntə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'țintă' derives from Latin 'centra', meaning 'center', and is related to the verb 'a ținti', meaning 'to aim'. It denotes a goal or central point one is directed towards.",
+        "targetText": "Cuvântul românesc „țintă” derivă din latină „centra”, însemnând „mijloc”, și este legat de verbul „a ținti”, care înseamnă „a ținti”, desemnând un scop sau punct central."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cuvântul este folosit frecvent în contexte sportive, cum ar fi tirul cu arcul."
+  },
+  "senses": [
+    {
+      "gloss": "sports target",
+      "explanation": {
+        "sourceText": "Specifically in sports: something one aims to achieve.",
+        "targetText": "În sport: un obiectiv pe care vrei să-l atingi."
+      },
+      "examples": [
+        {
+          "sourceText": "The team has a clear target for the season.",
+          "targetText": "Echipa are o țintă clară pentru sezon."
+        }
+      ]
+    },
+    {
+      "gloss": "general target",
+      "explanation": {
+        "sourceText": "General meaning: something to be reached or accomplished.",
+        "targetText": "Sens general: ceva ce trebuie atins."
+      },
+      "examples": [
+        {
+          "sourceText": "My target is to pass the exam.",
+          "targetText": "Ținta mea este să trec examenul."
+        }
+      ]
+    },
+    {
+      "gloss": "direction of aim",
+      "explanation": {
+        "sourceText": "The direction one strives toward.",
+        "targetText": "Direcția spre care se tinde."
+      },
+      "examples": [
+        {
+          "sourceText": "The company has clearly defined its targets.",
+          "targetText": "Compania și-a definit clar țintele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "give",
+      "targetText": "a da"
+    },
+    {
+      "sourceText": "deliver",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "donate",
+      "targetText": "a dona"
+    },
+    {
+      "sourceText": "handover",
+      "targetText": "predare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "receive",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My target is to pass the exam.",
+      "targetText": "Ținta mea este să trec examenul."
+    },
+    {
+      "sourceText": "We should set realistic targets.",
+      "targetText": "Trebuie să ne stabilim ținte realiste."
+    },
+    {
+      "sourceText": "Do you have a target for this year?",
+      "targetText": "Ai o țintă pentru acest an?"
+    },
+    {
+      "sourceText": "Targets give life direction.",
+      "targetText": "Țintele dau direcție vieții."
+    },
+    {
+      "sourceText": "Sometimes you have to adjust your target.",
+      "targetText": "Uneori trebuie să-ți ajustezi ținta."
+    },
+    {
+      "sourceText": "Having a target is crucial for success.",
+      "targetText": "A avea o țintă este esențial pentru succes."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'țintă' sounds like 'tint' with a 'tsa' sound at the start—imagine aiming to hit the exact 'tint' of color you want as your target!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'țintă' as 'target' with a Romanian twist; both mean a goal or something you aim for."
+    },
+    {
+      "lang": "en",
+      "text": "The verb 'a ținti' means 'to aim'—so 'țintă' is what you aim at, your target."
+    },
+    {
+      "lang": "en",
+      "text": "Picture an archer focusing on the 'țintă' (target) to remember the word easily, since it's often used in sports like archery."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

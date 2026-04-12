@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-stupid",
+  "parent": "ms-ro-prostanac-fc64673a@89cec9eb4adfd622b453b0b7210c2a7a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:informal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stupid",
+    "definition": "Informal term used to describe someone or something as lacking intelligence or acting foolishly, often in a humorous or slightly derogatory way.",
+    "pronunciation": "/ˈstjuːpɪd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'stupid' comes from the Latin 'stupidus', meaning stunned or amazed, which evolved to mean dull or slow to understand.",
+        "targetText": "Cuvântul englezesc „stupid” provine din latină, din „stupidus”, care însemna uimit sau stupefiat, și a evoluat să însemne încet la minte sau lipsit de inteligență."
+      },
+      "source": "Etymological Dictionaries, Linguistic Research"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prostănac",
+    "definition": "Coloquial pentru 'prost' sau 'nebun', folosit adesea în mod glumeț sau ușor jignitor.",
+    "pronunciation": "/prostaˈnak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „prostănac” derives from the adjective 'prost', borrowed from Slavic meaning 'stupid', with the derivational suffix '-ănac'.",
+        "targetText": "Cuvântul românesc „prostănac” derivă din adjectivul 'prost', împrumutat din slavă, însemnând 'prost', cu sufixul de derivare '-ănac'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "silly",
+      "targetText": "caraghios"
+    },
+    {
+      "sourceText": "stupid",
+      "targetText": "prostănac"
+    },
+    {
+      "sourceText": "dumb",
+      "targetText": "prost"
+    },
+    {
+      "sourceText": "crazy",
+      "targetText": "nebun"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "smart",
+      "targetText": "deștept"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "That is totally stupid!",
+      "targetText": "Asta e chiar prostănacește!"
+    },
+    {
+      "sourceText": "Why did you do that stupidly?",
+      "targetText": "De ce ai făcut asta așa prostănăcește?"
+    },
+    {
+      "sourceText": "He sometimes behaves stupidly.",
+      "targetText": "Se comportă uneori prostănăcește."
+    },
+    {
+      "sourceText": "That was a stupid idea.",
+      "targetText": "A fost o idee prostănacească."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Both 'stupid' and 'prostănac' are informal words used to describe someone acting foolishly or lacking intelligence, often in a playful or teasing way."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'stupid' by thinking of someone who 'stumbles' over simple things—both start with 'st'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'prostănac' comes from 'prost', which sounds like 'prost' in English 'prosthetic'—but here it means 'foolish'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'stupid' as 'stupefied'—someone so surprised they can't think clearly, which helps recall its Latin roots."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

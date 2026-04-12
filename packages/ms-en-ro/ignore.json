@@ -1,0 +1,181 @@
+{
+  "id": "ms-en-ro-ignore",
+  "parent": "ms-ro-a-ignora-0df9f588@3407e1333f466c1b5edca622c142d794",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ignore",
+    "definition": "to deliberately pay no attention to someone or something",
+    "pronunciation": "/ɪɡˈnɔːr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'ignore' comes from the Latin 'ignorare', meaning 'to not know' or 'to disregard'. It entered English through Old French and has been used to express intentional neglect or disregard.",
+        "targetText": "Cuvântul englezesc „ignore“ provine din latină, de la „ignorare“, care înseamnă „a nu ști“ sau „a nu lua în seamă“. A intrat în limba engleză prin franceza veche și este folosit pentru a exprima neglijența sau neglijarea intenționată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in social or digital contexts, such as ignoring messages or requests."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ignora",
+    "definition": "a nu lua în seamă sau a nu acorda atenție cuiva sau ceva",
+    "pronunciation": "/a iɡˈnora/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb „a ignora“ comes from Latin, from „ignorare“, meaning to not observe or to disregard someone or something.",
+        "targetText": "Verbul „a ignora“ provine din latină, de la „ignorare“, însemnând a nu observa sau a nu lua în considerare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Used when someone intentionally does not perceive something or someone."
+  },
+  "senses": [
+    {
+      "gloss": "Not pay attention",
+      "explanation": {
+        "sourceText": "Used when someone deliberately overlooks or does not pay attention to something.",
+        "targetText": "Se folosește când cineva trece intenționat cu vederea sau nu ia în seamă ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I ignore the noise.",
+          "targetText": "Eu ignor zgomotul."
+        }
+      ]
+    },
+    {
+      "gloss": "Not listen",
+      "explanation": {
+        "sourceText": "Means not reacting to sounds or voices.",
+        "targetText": "Înseamnă a nu reacționa la sunete sau voci."
+      },
+      "examples": [
+        {
+          "sourceText": "Are you ignoring me today?",
+          "targetText": "Mă ignori azi?"
+        }
+      ]
+    },
+    {
+      "gloss": "Neglect",
+      "explanation": {
+        "sourceText": "Means intentionally not paying attention to or neglecting something.",
+        "targetText": "Înseamnă a nu acorda atenție sau a neglija ceva intenționat."
+      },
+      "examples": [
+        {
+          "sourceText": "She ignores the questions.",
+          "targetText": "Ea ignoră întrebările."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "deliver",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "give",
+      "targetText": "a oferi"
+    },
+    {
+      "sourceText": "donate",
+      "targetText": "a dona"
+    },
+    {
+      "sourceText": "hand over",
+      "targetText": "a înmâna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "accept",
+      "targetText": "a accepta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I ignore the noise.",
+      "targetText": "Eu ignor zgomotul."
+    },
+    {
+      "sourceText": "Are you ignoring me today?",
+      "targetText": "Mă ignori azi?"
+    },
+    {
+      "sourceText": "She ignores the questions.",
+      "targetText": "Ea ignoră întrebările."
+    },
+    {
+      "sourceText": "We ignore the problems.",
+      "targetText": "Noi ignorăm problemele."
+    },
+    {
+      "sourceText": "Do you ignore the messages?",
+      "targetText": "Îi ignorați pe cei din jur?"
+    },
+    {
+      "sourceText": "They ignore the warning.",
+      "targetText": "Ei ignoră avertizarea."
+    },
+    {
+      "sourceText": "I ignored the comments.",
+      "targetText": "Am ignorat comentariile."
+    },
+    {
+      "sourceText": "He constantly ignored the warnings.",
+      "targetText": "El ignora constant avertizările."
+    },
+    {
+      "sourceText": "I will ignore the message.",
+      "targetText": "Voi ignora mesajul."
+    },
+    {
+      "sourceText": "I would ignore you if you keep talking like that.",
+      "targetText": "Te-aș ignora dacă ai continua să vorbești așa."
+    },
+    {
+      "sourceText": "Don't ignore the important facts!",
+      "targetText": "Nu ignora faptele importante!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ignore' sounds like 'ignore' in English, meaning to deliberately not pay attention."
+    },
+    {
+      "lang": "en",
+      "text": "Think of ignoring a text message on your phone to recall 'a ignora' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'ignore' and Romanian 'a ignora' both come from Latin 'ignorare', meaning to not know or disregard."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'ignore' with the phrase 'I ignore' to remember the pronunciation and meaning easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

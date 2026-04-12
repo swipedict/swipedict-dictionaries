@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-ant",
+  "parent": "ms-ro-furnica-e6d1903d@5450b28a4a3d6ee40fcce9cdebf3d719",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ant",
+    "genus": "feminine",
+    "definition": "A small social insect that lives in colonies and is often considered hardworking.",
+    "pronunciation": "/ænt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"ant\" originates from the Old English 'æmette', which ultimately derives from the Latin word 'formica', meaning 'ant'.",
+        "targetText": "Cuvântul englezesc „ant” provine din engleza veche 'æmette', care la rândul său derivă din cuvântul latin 'formica', însemnând 'furnică'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "furnică",
+    "genus": "feminine",
+    "definition": "Un insect mic, social, care trăiește în colonii și este adesea considerat harnic.",
+    "pronunciation": "/furˈnikə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"furnică\" comes directly from the Latin 'formica', which means 'ant'.",
+        "targetText": "Cuvântul românesc „furnică” provine direct din latină, din termenul 'formica', care înseamnă 'furnică'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bee",
+      "targetText": "albina"
+    },
+    {
+      "sourceText": "insect",
+      "targetText": "insectă"
+    },
+    {
+      "sourceText": "beetle",
+      "targetText": "gândac"
+    },
+    {
+      "sourceText": "colony",
+      "targetText": "colonii"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The ant carries a leaf much larger than itself.",
+      "targetText": "Furnica poartă o frunză mult mai mare decât ea."
+    },
+    {
+      "sourceText": "Ants live in large colonies underground.",
+      "targetText": "Furnicile trăiesc în colonii mari sub pământ."
+    },
+    {
+      "sourceText": "It is said that ants are very hardworking.",
+      "targetText": "Se spune că furnicile sunt foarte harnice."
+    },
+    {
+      "sourceText": "The ant is an insect with six legs.",
+      "targetText": "Furnica este un insect cu șase picioare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"furnică\" sounds a bit like \"furnace\" in English, which gives off heat and energy—just like ants bring energy to their colony."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"furnică\" comes from Latin 'formica', similar to the English word 'form'—think of ants as tiny natural forms shaping their environment."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"ant\" as short and quick, just like the small, busy ant in Romanian: \"furnică\"."
+    },
+    {
+      "lang": "en",
+      "text": "Ants live in colonies, and the Romanian word for colony is \"colonii\", which sounds very similar to the English word 'colony'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

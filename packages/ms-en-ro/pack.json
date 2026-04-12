@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-pack",
+  "parent": "ms-ro-a-impacheta-3ca02e85@bf116abd7fb1fc5ce7f9649525c2a6bf",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pack",
+    "definition": "to put items into a container such as a bag or box for storage or transport",
+    "pronunciation": "/pæk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"pack\" comes from the Old French word \"pacquet\", meaning a bundle or package, which itself derives from the Late Latin \"paccus\". It refers to the action of placing things together tightly for carrying or storing.",
+        "targetText": "Cuvântul englezesc „pack” provine din franceza veche „pacquet”, care înseamnă un pachet sau o legătură, derivat din latina târzie „paccus”. Se referă la acțiunea de a pune lucruri împreună strâns pentru a le transporta sau depozita."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts such as travel or moving to indicate placing items into bags or suitcases."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împacheta",
+    "definition": "a pune ceva într-un pachet sau într-o geantă",
+    "pronunciation": "/a ɨm.paˈke.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a împacheta\" is borrowed from the French \"emballer\", meaning \"to pack\" or \"to wrap\". It denotes the action of wrapping or placing objects into packaging.",
+        "targetText": "Verbul românesc „a împacheta” provine din franceză „emballer” („a împacheta”, „a ambala”). Se referă la acțiunea de a înveli sau a pune obiecte într-un ambalaj."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used in connection with packing food, gifts, or travel items."
+  },
+  "senses": [
+    {
+      "gloss": "Gift wrapping",
+      "explanation": {
+        "sourceText": "Often used to describe wrapping gifts festively.",
+        "targetText": "Folosit adesea pentru împachetarea cadourilor festiv."
+      },
+      "examples": [
+        {
+          "sourceText": "I wrapped the gifts nicely.",
+          "targetText": "Am împachetat frumos cadourile."
+        }
+      ]
+    },
+    {
+      "gloss": "Packing food",
+      "explanation": {
+        "sourceText": "Also used for packing food items.",
+        "targetText": "Folosit și pentru împachetarea alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am packing the lunch.",
+          "targetText": "Împachetez prânzul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "package",
+      "targetText": "pachet"
+    },
+    {
+      "sourceText": "travel",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "bag",
+      "targetText": "geantă"
+    },
+    {
+      "sourceText": "packaging",
+      "targetText": "ambalare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unpack",
+      "targetText": "a despacheta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am packing the things.",
+      "targetText": "Eu împachetez lucrurile."
+    },
+    {
+      "sourceText": "I have packed the gifts.",
+      "targetText": "Am împachetat cadourile."
+    },
+    {
+      "sourceText": "I will pack everything tomorrow.",
+      "targetText": "Voi împacheta totul mâine."
+    },
+    {
+      "sourceText": "I would pack it if I had time.",
+      "targetText": "Aș împacheta, dacă aș avea timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"pack\" as in \"pack a suitcase\" to connect it with the Romanian \"a împacheta\"."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb ends with \"-a\", typical for first conjugation verbs, making it easier to conjugate."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"a împacheta\" as the opposite of \"a despacheta\" (to unpack), so you learn two related verbs together."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"impacheta\" with the English word \"impact\" to remember the idea of putting things tightly together."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

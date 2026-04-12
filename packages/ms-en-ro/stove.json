@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-stove",
+  "parent": "ms-ro-aragaz-f34c41f4@2b1f6d08c3d0b1e880caad184f3253a1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stove",
+    "definition": "A household appliance used for cooking or heating, typically featuring burners on top and often an oven below.",
+    "pronunciation": "/stoʊv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'stove' originates from the Old English 'stofa', meaning a heated room or chamber, which evolved to refer to a device used for heating or cooking. It is related to the concept of a heated enclosure.",
+        "targetText": "Cuvântul englezesc „stove” provine din vechiul englezesc 'stofa', care însemna o cameră încălzită sau un spațiu închis încălzit, evoluând pentru a desemna un dispozitiv folosit pentru încălzire sau gătit. Este legat de conceptul de spațiu încălzit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aragaz",
+    "genus": "neuter",
+    "definition": "Un aparat folosit pentru gătit, care funcționează cu gaz și are plite și uneori cuptor.",
+    "pronunciation": "/araˈɡaz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'aragaz' comes from the French phrase 'à gaz', meaning 'with gas', adopted to designate a gas-powered cooking stove.",
+        "targetText": "Cuvântul românesc „aragaz” provine din expresia franceză 'à gaz', care înseamnă 'cu gaz', fiind preluat pentru a desemna aragazul, un aparat de gătit pe gaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oven",
+      "targetText": "cuptor"
+    },
+    {
+      "sourceText": "burner",
+      "targetText": "plită"
+    },
+    {
+      "sourceText": "kitchen",
+      "targetText": "bucătărie"
+    },
+    {
+      "sourceText": "heater",
+      "targetText": "cuptor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The stove in the kitchen is new and modern.",
+      "targetText": "Aragazul din bucătărie este nou și modern."
+    },
+    {
+      "sourceText": "I cook the food on the stove.",
+      "targetText": "Gătesc mâncarea pe aragaz."
+    },
+    {
+      "sourceText": "The stove has four burners and an oven.",
+      "targetText": "Aragazul are patru plite și un cuptor."
+    },
+    {
+      "sourceText": "Please turn off the stove when you are done.",
+      "targetText": "Te rog să oprești aragazul când termini."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'aragaz' sounds like 'a gas'—this helps you recall it’s a gas stove."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the French phrase 'à gaz' meaning 'with gas'—this is where 'aragaz' comes from."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'stove' relates to heating, so 'aragaz' is a specific type of stove powered by gas."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine cooking on a 'stove' fueled by 'gas'—this links the English and Romanian terms."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

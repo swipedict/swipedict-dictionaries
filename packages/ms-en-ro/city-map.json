@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-city-map",
+  "parent": "ms-ro-planul-orasului-04908fd2@6512c3b0ca983b6d312c0f774e73d4d4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "city map",
+    "genus": "masculine",
+    "definition": "A map that shows the streets and important locations within a city.",
+    "pronunciation": "/ˈsɪti mæp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'city map' combines 'city', from Latin 'civitas' meaning 'citizenship' or 'community', and 'map', which comes from the Medieval Latin 'mappa' meaning 'cloth' or 'napkin', later used to denote a representation of geographical features.",
+        "targetText": "Termenul englezesc „city map“ combină „city“, derivat din latină „civitas“ care înseamnă „cetățenie“ sau „comunitate“, și „map“, care provine din latina medievală „mappa“, însemnând „pânză“ sau „șervet“, folosit ulterior pentru a desemna o reprezentare a caracteristicilor geografice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Compound noun combining 'city' and 'map'."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "planul orașului",
+    "genus": "neuter",
+    "definition": "O hartă care arată străzile și locurile importante dintr-un oraș.",
+    "pronunciation": "/plaˈnul oˈraʃului/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'plan' comes directly from the Latin 'planum', meaning 'flat surface' or 'level area'. 'Oraș' derives from the Slavic 'gradŭ', meaning 'fortress' or 'city'.",
+        "targetText": "Cuvântul românesc „plan“ provine direct din latinul „planum“, care înseamnă „plan, suprafață plană“. „Oraș“ provine din slavona veche „gradŭ“, însemnând „cetate“ sau „oraș“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Zusammengesetztes Substantiv, bestehend aus ‚plan‘ (Plan) und ‚oraș‘ (Stadt) im Genitiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "map",
+      "targetText": "hartă"
+    },
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "directions",
+      "targetText": "indicație"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I used the city map to find my way.",
+      "targetText": "Am folosit planul orașului ca să mă orientez."
+    },
+    {
+      "sourceText": "The city map shows all the important sights.",
+      "targetText": "Planul orașului arată toate obiectivele turistice importante."
+    },
+    {
+      "sourceText": "Can you give me a city map?",
+      "targetText": "Îmi poți da un plan al orașului?"
+    },
+    {
+      "sourceText": "The city map is very detailed and clear.",
+      "targetText": "Planul orașului este foarte detaliat și clar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'planul orașului' by thinking of 'plan' as the English word 'plan'—both relate to a layout or design, making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'oraș' sounds like 'o-rush'—imagine rushing through a city to remember it means 'city'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of having a 'plan' for your 'oraș' trip—this links the two words as 'city map'."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'plan' in Romanian also means 'map', picture a flat 'plan' surface representing a map of the city."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ms-en-ro-noon",
+  "parent": "ms-ro-pranz-1f0ea500@d4e8bba41efb0fcee351def6b77d3639",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "noon",
+    "genus": "masculine",
+    "definition": "the time of day that is exactly in the middle of the day, typically around 12 o’clock",
+    "pronunciation": "/nuːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"noon\" originates from the Latin word \"nona hora,\" meaning the ninth hour after sunrise, which was traditionally around midday. Over time, the meaning shifted to refer to midday itself.",
+        "targetText": "Cuvântul englezesc „noon“ provine din latinescul „nona hora“, care însemna a noua oră după răsărit, tradițional în jurul prânzului. În timp, sensul s-a schimbat pentru a desemna chiar mijlocul zilei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Noon is often associated with lunchtime, an important tradition in many cultures."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prânz",
+    "genus": "masculine",
+    "definition": "timpul din zi care se află între dimineață și după-amiază",
+    "pronunciation": "/ˈprɨn(z)/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"prânz\" derives from the Latin \"prandium,\" meaning 'midday meal' and referring to the main meal eaten around noon.",
+        "targetText": "Cuvântul românesc „prânz“ provine din latinescul „prandium“, care înseamnă „masa de prânz“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In Romania, lunch is often eaten at home and can be very hearty."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "dinner",
+      "targetText": "cină"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "breakfast",
+      "targetText": "mic dejun"
+    },
+    {
+      "sourceText": "snack",
+      "targetText": "gustare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "evening",
+      "targetText": "seară"
+    },
+    {
+      "sourceText": "morning",
+      "targetText": "dimineață"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "We meet at twelve o’clock for lunch.",
+      "targetText": "Ne întâlnim la ora douăsprezece pentru prânz."
+    },
+    {
+      "sourceText": "Noon is the time for a short break.",
+      "targetText": "Prânzul este timpul pentru o pauză scurtă."
+    },
+    {
+      "sourceText": "I take a walk at noon.",
+      "targetText": "Fac o plimbare la prânz."
+    },
+    {
+      "sourceText": "Lunch is my favorite meal.",
+      "targetText": "Prânzul este masa mea preferată."
+    },
+    {
+      "sourceText": "He eats lunch at the office every day.",
+      "targetText": "El mănâncă în fiecare prânz la birou."
+    },
+    {
+      "sourceText": "I cooked lunch today.",
+      "targetText": "Am gătit astăzi la prânz."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"prânz\" as the Romanian word for lunch, which sounds a bit like \"prance\" — imagine prancing happily after a good midday meal!"
+    },
+    {
+      "lang": "en",
+      "text": "Remember \"prânz\" by linking it to the English word \"prance\" — after lunch, you might feel energized enough to prance around."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"prânz\" starts with 'pr' like 'proud' — be proud to enjoy a hearty Romanian lunch!"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine painting (Romanian \"pânză\") a picture of your lunch — this helps connect \"prânz\" with a pleasant midday moment."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-tap-water",
+  "parent": "ms-ro-apa-de-la-robinet-9563d7c4@eb20757134d8d4bc07fc81e3e1904ae9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tap water",
+    "definition": "Water supplied through pipes into a building or location, typically used for drinking or household purposes.",
+    "pronunciation": "/ˈtæp ˌwɔːtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'tap water' combines 'tap', referring to a device controlling the flow of liquid, and 'water', the essential liquid for life.",
+        "targetText": "Cuvântul englezesc „tap water” combină „tap”, care desemnează un dispozitiv pentru controlul fluxului de lichid, și „water”, lichidul esențial pentru viață."
+      },
+      "source": "English Etymological Dictionaries"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "apă de la robinet",
+    "genus": "feminine",
+    "definition": "Apă furnizată prin conducte, care curge din robinet, folosită pentru băut sau uz casnic.",
+    "pronunciation": "/aˈpə de la roˈbinet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „apă de la robinet” contains the word „robinet”, borrowed from the French „robinet” (small valve, faucet). „Apă” comes from the Latin „aqua”.",
+        "targetText": "Expresia românească „apă de la robinet” conține cuvântul „robinet”, împrumutat din franceza „robinet” (robinet, ventil mic). „Apă” provine din latinescul „aqua”."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "pipeline",
+      "targetText": "conductă"
+    },
+    {
+      "sourceText": "drinking water",
+      "targetText": "apă potabilă"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    },
+    {
+      "sourceText": "faucet",
+      "targetText": "robinet"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "spring water",
+      "targetText": "apă de izvor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The tap water in this city is drinkable.",
+      "targetText": "Apa de la robinet este potabilă în acest oraș."
+    },
+    {
+      "sourceText": "I drink a glass of tap water every morning.",
+      "targetText": "Beau în fiecare dimineață un pahar cu apă de la robinet."
+    },
+    {
+      "sourceText": "Please let the tap water run before drinking.",
+      "targetText": "Te rog să lași apa de la robinet să curgă înainte de a o bea."
+    },
+    {
+      "sourceText": "The tap water is regularly tested for contaminants.",
+      "targetText": "Apa de la robinet este verificată regulat pentru substanțe nocive."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'robinet' sounds just like the French 'robinet', meaning a small valve or faucet. This helps you remember its origin easily."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'apă' comes from Latin 'aqua', just like the English scientific term 'aqua' related to water, making it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine water flowing through a 'pipeline' and coming out of the 'robinet' (faucet) — this visual helps you remember 'apă de la robinet'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'pipeline' with 'conductă' and 'water' with 'apă' to better understand the meaning of 'apă de la robinet'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

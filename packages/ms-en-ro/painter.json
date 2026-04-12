@@ -1,0 +1,167 @@
+{
+  "id": "ms-en-ro-painter",
+  "parent": "ms-ro-pictor-08c74647@a9baf2abb1dacf8c923452929b00a100",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "painter",
+    "genus": "masculine",
+    "definition": "a person who applies paint to walls, ceilings, or other surfaces",
+    "pronunciation": "/ˈpeɪn.tər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “painter” comes from the verb “paint,” which derives from the Old French “peintier,” itself from the Latin “pingere,” meaning “to paint.”",
+        "targetText": "Cuvântul englezesc „painter” provine din verbul „paint”, care derivă din vechiul francez „peintier”, la rândul său din latină „pingere”, care înseamnă „a picta”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A painter is an artist who decorates walls, furniture, or canvases with colors."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pictor",
+    "genus": "masculine",
+    "definition": "o persoană care aplică vopsea pe pereți, plafon sau alte suprafețe",
+    "pronunciation": "/ˈpik.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Pictor“ comes from the Latin word „pictor“, meaning „painter“, derived from „pingere“ (to paint).",
+        "targetText": "„Pictor“ provine din latină, din „pictor“, care înseamnă „pictor“, derivat din „pingere“ („a picta“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Un „pictor“ poate folosi diverse tehnici de pictură, cum ar fi culorile în ulei sau acuarela."
+  },
+  "senses": [
+    {
+      "gloss": "Painter (profession)",
+      "explanation": {
+        "sourceText": "A person who applies paint.",
+        "targetText": "Persoană care aplică vopsea."
+      },
+      "examples": [
+        {
+          "sourceText": "The painter finished the picture in a few hours.",
+          "targetText": "Pictorul a terminat tabloul în câteva ore."
+        },
+        {
+          "sourceText": "Every painter has their own style.",
+          "targetText": "Fiecare pictor are propriul său stil."
+        }
+      ]
+    },
+    {
+      "gloss": "Painter (artist)",
+      "explanation": {
+        "sourceText": "Description of artistic creation.",
+        "targetText": "Descriere a activității artistice."
+      },
+      "examples": [
+        {
+          "sourceText": "A famous painter will have an exhibition.",
+          "targetText": "Un pictor celebru va avea o expoziție."
+        }
+      ]
+    },
+    {
+      "gloss": "Mural painter",
+      "explanation": {
+        "sourceText": "Specialized in painting walls.",
+        "targetText": "Specializat în pictura pe pereți."
+      },
+      "examples": [
+        {
+          "sourceText": "The mural painter decorates the school.",
+          "targetText": "Pictorul de pereți împodobește școala."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "paint",
+      "targetText": "culoare"
+    },
+    {
+      "sourceText": "canvas",
+      "targetText": "pânză"
+    },
+    {
+      "sourceText": "mixture",
+      "targetText": "amestec"
+    },
+    {
+      "sourceText": "brush",
+      "targetText": "pensulă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "tailor",
+      "targetText": "croitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The painter finished the picture in a few hours.",
+      "targetText": "Pictorul a terminat tabloul în câteva ore."
+    },
+    {
+      "sourceText": "Every painter has their own style.",
+      "targetText": "Fiecare pictor are propriul său stil."
+    },
+    {
+      "sourceText": "He works as a painter in a large company.",
+      "targetText": "El lucrează ca pictor într-o companie mare."
+    },
+    {
+      "sourceText": "The painter uses many different colors.",
+      "targetText": "Pictorul folosește multe culori diferite."
+    },
+    {
+      "sourceText": "Painters and artists are often very creative.",
+      "targetText": "Pictorii și artiștii sunt adesea foarte creativi."
+    },
+    {
+      "sourceText": "A famous painter will have an exhibition.",
+      "targetText": "Un pictor celebru va avea o expoziție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pictor' by linking it to 'picture'—a painter creates pictures, making it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a painter as someone who 'paints' the world colorful, just like the English word 'paint'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'pictor' sounds like 'picture' with an 'or' ending, helping you remember it means painter."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'pictor' with famous painters like Picasso to remember it relates to artistic painting."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-cousin",
+  "parent": "ms-ro-verisoara-bda4cb28@8984e5fa05bfdc2e97db49517c3930f3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cousin",
+    "genus": "feminine",
+    "definition": "A female relative who is the daughter of an uncle or aunt.",
+    "pronunciation": "/ˈkʌzɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cousin\" comes from Old French \"cosin\", which derives from Latin 'consobrina', meaning a maternal cousin.",
+        "targetText": "Cuvântul englezesc „cousin” provine din franceza veche „cosin”, care derivă din latină 'consobrina', însemnând verişoară pe linie maternă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "verişoară",
+    "genus": "feminine",
+    "definition": "Rudă weiblichen Geschlechts, Tochter eines Onkels oder einer Tante.",
+    "pronunciation": "/veriˈʃo̯arə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"verişoară\" is derived from \"văr\" (from Latin \"varius\") with the diminutive suffix \"-işoară\", indicating a female relative.",
+        "targetText": "Cuvântul românesc „verişoară” este derivat din „văr” (din latină „varius”) cu sufixul diminutiv „-işoară”, indicând o rudă de sex feminin."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cousin",
+      "targetText": "văr"
+    },
+    {
+      "sourceText": "family",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "uncle",
+      "targetText": "unchi"
+    },
+    {
+      "sourceText": "aunt",
+      "targetText": "mătușă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "My cousin is visiting us next week.",
+      "targetText": "Verişoara mea ne vizitează săptămâna viitoare."
+    },
+    {
+      "sourceText": "The cousin is very friendly.",
+      "targetText": "Verişoara este foarte prietenoasă."
+    },
+    {
+      "sourceText": "I have a cousin in Munich.",
+      "targetText": "Am o verişoară în München."
+    },
+    {
+      "sourceText": "The cousin plays the piano.",
+      "targetText": "Verişoara cântă la pian."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"cousin\" and the Romanian \"verişoară\" both come from Latin roots but sound quite different."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian suffix '-işoară' is a diminutive that often indicates a smaller or younger female relative."
+    },
+    {
+      "lang": "en",
+      "text": "\"Verişoară\" is feminine, matching the female form of cousin in English."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: \"verişoară\" sounds like 'very' + 'shore' – imagine your little female cousin visiting the shore."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

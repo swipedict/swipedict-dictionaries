@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-danger",
+  "parent": "ms-ro-pericol-00f1b5f8@649c626f29f57ad31341d1264580b310",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "danger",
+    "genus": "feminine",
+    "definition": "A situation or condition that poses a risk of harm or injury.",
+    "pronunciation": "/ˈdeɪndʒər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"danger\" comes from Old French 'dangier', originally meaning 'power, control, jurisdiction', which later evolved to mean 'risk or peril'. It ultimately derives from Latin 'dominium' meaning 'ownership' or 'control'.",
+        "targetText": "Cuvântul englezesc „danger” provine din franceza veche 'dangier', care inițial însemna 'putere, control, jurisdicție', și a evoluat ulterior pentru a desemna 'risc sau pericol'. În cele din urmă derivă din latină 'dominium', care înseamnă 'proprietate' sau 'control'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pericol",
+    "genus": "neuter",
+    "definition": "O stare sau situație care implică risc sau posibilitate de vătămare.",
+    "pronunciation": "/pe.riˈkol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"pericol\" derives from the Latin 'periculum', meaning 'danger' or 'risk'.",
+        "targetText": "Cuvântul românesc „pericol” provine din latină, de la 'periculum', care înseamnă 'pericol' sau 'risc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "risk",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "protection",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "safety",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "warning",
+      "targetText": "avertisment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "safety",
+      "targetText": "siguranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "There is danger due to the storm.",
+      "targetText": "Există pericol din cauza furtunii."
+    },
+    {
+      "sourceText": "Recognized danger is avoided danger.",
+      "targetText": "Pericolul recunoscut este pericolul evitat."
+    },
+    {
+      "sourceText": "The danger is great.",
+      "targetText": "Pericolul este mare."
+    },
+    {
+      "sourceText": "One must avoid the danger.",
+      "targetText": "Trebuie să eviți pericolul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pericol' sounds like 'peril', a common English word meaning danger, which helps link the meanings."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'peri-' in 'pericol' is similar to 'perimeter', which relates to boundaries and potential risks around an area."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pericol' as related to 'perilous', an English adjective describing something full of danger."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'pericol' comes from Latin 'periculum', it shares roots with English words like 'peril' and 'imperil', making it easier to remember."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-punctual",
+  "parent": "ms-ro-punctual-15cb3827@740d96f2d6ce72ad571e19099b61b869",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "punctual",
+    "definition": "Describes someone or something that arrives or happens exactly at the agreed or scheduled time without delay.",
+    "pronunciation": "/ˈpʌŋktʃuəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'punctual' comes from the Latin word 'punctum' meaning 'point'. It entered English through Old French 'ponctuel' and describes the quality of being exactly on time.",
+        "targetText": "Adjectivul englezesc „punctual” provine din cuvântul latin „punctum”, care înseamnă „punct”. A intrat în limba engleză prin vechea franceză „ponctuel” și descrie calitatea de a fi exact la timp."
+      },
+      "source": "Etymological dictionaries, historical linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "punctual",
+    "definition": "Care apare sau se întâmplă exact la timpul stabilit, fără întârziere.",
+    "pronunciation": "/punkˈtual/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'punctual' derives directly from the Latin word 'punctum' meaning 'point'. It was adopted into Romanian through the French 'ponctuel' and describes the quality of being exactly at the agreed time.",
+        "targetText": "Adjectivul românesc „punctual” provine direct din cuvântul latin 'punctum', care înseamnă 'punct'. A fost preluat prin franceza 'ponctuel' și descrie calitatea de a fi exact la timpul stabilit."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "point",
+      "targetText": "punct"
+    },
+    {
+      "sourceText": "on time",
+      "targetText": "la timp"
+    },
+    {
+      "sourceText": "deadline adherence",
+      "targetText": "respectarea termenelor"
+    },
+    {
+      "sourceText": "delay",
+      "targetText": "întârziere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unpunctual",
+      "targetText": "nepunctual"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He is always punctual for work.",
+      "targetText": "El este întotdeauna punctual la serviciu."
+    },
+    {
+      "sourceText": "Please be punctual for the meeting.",
+      "targetText": "Te rog să fii punctual la întâlnire."
+    },
+    {
+      "sourceText": "The train arrived punctual.",
+      "targetText": "Trenul a sosit punctual."
+    },
+    {
+      "sourceText": "Punctuality is highly valued in this company.",
+      "targetText": "Punctualitatea este foarte apreciată în această companie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'punctual' comes from 'point'—think of hitting the exact point in time, like a bullseye on a clock."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'punctual' sounds very similar to English 'punctual'—this cognate helps you recall it means being exactly on time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a tiny dot (point) on a timeline marking the exact moment you need to be there—this dot makes you 'punctual'."
+    },
+    {
+      "lang": "en",
+      "text": "If you're 'punctual', you never miss the 'point' of the schedule—no delays, just perfect timing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

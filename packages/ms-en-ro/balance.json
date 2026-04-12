@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-balance",
+  "parent": "ms-ro-a-echilibra-1cb1b356@d14a390de882040da267d78fa7a658c6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "balance",
+    "definition": "to bring something into a state of equilibrium or to offset a difference",
+    "pronunciation": "/ˈbæl.əns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"balance\" comes from the noun \"balance,\" which derives from Old French 'balance,' from Latin 'bilanx' meaning 'having two scales,' referring to the act of weighing or equalizing. It signifies making things equal or stable.",
+        "targetText": "Cuvântul englezesc „balance“ provine din substantivul „balance“, care derivă din franceza veche „balance“, la rândul său din latină „bilanx“, însemnând „având două cântare“, referindu-se la actul de a cântări sau a egaliza. Înseamnă a face lucrurile egale sau stabile."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used to describe how to remove inequalities or discrepancies."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a echilibra",
+    "definition": "a aduce ceva într-o stare de echilibru sau a soluționa o diferență",
+    "pronunciation": "/a ekiˈli.bra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a echilibra“ comes from the noun „echilibru“, which is borrowed from the Latin „aequilibrium“ meaning \"equilibrium\". It means to bring into balance or to equalize.",
+        "targetText": "Verbul român „a echilibra“ derivă din „echilibru“, provenit din lat. „aequilibrium“, însemnând a aduce în echilibru."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regular first conjugation verb (-a). Often used in contexts of physical or metaphorical balance."
+  },
+  "senses": [
+    {
+      "gloss": "balance (physical)",
+      "explanation": {
+        "sourceText": "In the physical sense, to bring things into balance.",
+        "targetText": "În sens fizic, a aduce lucrurile în echilibru."
+      },
+      "examples": [
+        {
+          "sourceText": "He balances the weight.",
+          "targetText": "El echilibrează greutatea."
+        }
+      ]
+    },
+    {
+      "gloss": "balance (financial)",
+      "explanation": {
+        "sourceText": "In the financial sense, to offset income and expenses.",
+        "targetText": "În sens financiar, a compensa veniturile și cheltuielile."
+      },
+      "examples": [
+        {
+          "sourceText": "We need to balance the losses.",
+          "targetText": "Trebuie să compensăm pierderile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "balance",
+      "targetText": "compensare"
+    },
+    {
+      "sourceText": "difference",
+      "targetText": "diferență"
+    },
+    {
+      "sourceText": "equilibrium",
+      "targetText": "echilibru"
+    },
+    {
+      "sourceText": "compensate",
+      "targetText": "a compensa"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unequal",
+      "targetText": "diferit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I balance the costs.",
+      "targetText": "Eu echilibrez costurile."
+    },
+    {
+      "sourceText": "Are you still balancing the bills?",
+      "targetText": "Echilibrezi încă facturile?"
+    },
+    {
+      "sourceText": "He balances the differences.",
+      "targetText": "El echilibrează diferențele."
+    },
+    {
+      "sourceText": "We balance the services.",
+      "targetText": "Noi echilibrăm serviciile."
+    },
+    {
+      "sourceText": "Do you balance the costs?",
+      "targetText": "Echilibrați costurile?"
+    },
+    {
+      "sourceText": "They balance the tax burdens.",
+      "targetText": "Ei echilibrează povara fiscală."
+    },
+    {
+      "sourceText": "I have balanced the accounts.",
+      "targetText": "Am echilibrat conturile."
+    },
+    {
+      "sourceText": "I will balance the differences.",
+      "targetText": "Voi echilibra diferențele."
+    },
+    {
+      "sourceText": "Balance the numbers!",
+      "targetText": "Echilibrează cifrele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"balance\" as the act of keeping things steady, just like the Romanian \"a echilibra\" means to bring into equilibrium."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a balance scale used in science or markets to weigh items equally—this helps link the English \"balance\" with the Romanian \"echilibra.\""
+    },
+    {
+      "lang": "en",
+      "text": "The root \"equil\" in \"equilibrium\" and \"echilibra\" both relate to equality and stability, making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine balancing your budget or balancing a seesaw; these everyday images help anchor the meaning of \"a echilibra\" in your mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

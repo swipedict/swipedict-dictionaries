@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-yet",
+  "parent": "ms-ro-totusi-231ae37c@16c2578672c1a349cfd5eb0ed02397b5",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "yet",
+    "definition": "an adverb used to express contrast or to contradict a previous statement, often indicating that something is true despite what was said before",
+    "pronunciation": "/jɛt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"yet\" originates from Old English \"giet\" or \"geat\", meaning 'still' or 'up to now'. It has been used historically to indicate continuation or contrast, often to introduce a statement that opposes or qualifies what was previously said.",
+        "targetText": "Cuvântul englezesc „yet” provine din engleza veche „giet” sau „geat”, însemnând „încă” sau „până acum”. A fost folosit istoric pentru a indica continuitate sau opoziție, adesea pentru a introduce o afirmație care contrazice sau califică ceea ce a fost spus anterior."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In everyday speech, it is often used to express agreement or to emphasize questions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "totuși",
+    "genus": "adverb",
+    "definition": "o conjuncție care exprimă o contradicție sau se opune unei afirmații",
+    "pronunciation": "/ˈto.tu.ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"totuși\" is an internal formation from \"tot\" (meaning 'all' or 'whole') and the suffix \"-uși\", meaning 'nevertheless' or 'however'. It is not a loanword.",
+        "targetText": "Cuvântul românesc „totuși” este format intern din „tot” și sufixul „-uși”, nefiind un împrumut, și înseamnă „cu toate acestea” sau „totuși”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Totuși“ poate fi folosit și în întrebări pentru a exprima contrariul."
+  },
+  "senses": [
+    {
+      "gloss": "yet",
+      "explanation": {
+        "sourceText": "In colloquial speech, 'yet' can also be used to express mild agreement.",
+        "targetText": "În limbajul colocvial, „doch“ poate exprima și o ușoară aprobare."
+      },
+      "examples": [
+        {
+          "sourceText": "Come yet with me!",
+          "targetText": "Vino, totuși!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "but",
+      "targetText": "dar"
+    },
+    {
+      "sourceText": "on the one hand",
+      "targetText": "pe de o parte"
+    },
+    {
+      "sourceText": "however",
+      "targetText": "cu toate acestea"
+    },
+    {
+      "sourceText": "nevertheless",
+      "targetText": "totuși"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "not yet",
+      "targetText": "nu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I don't like chocolate, yet I eat it anyway.",
+      "targetText": "Nu-mi plac ciocolatele, totuși le mănânc."
+    },
+    {
+      "sourceText": "The weather is bad, yet we go outside.",
+      "targetText": "Vremea este rea, totuși ieșim afară."
+    },
+    {
+      "sourceText": "He says he has no time, yet I know he can.",
+      "targetText": "Spune că nu are timp, totuși știu că poate."
+    },
+    {
+      "sourceText": "It is dangerous, yet one should try it.",
+      "targetText": "Este periculos, totuși ar trebui să încerci."
+    },
+    {
+      "sourceText": "She didn't see it, yet she is smart.",
+      "targetText": "Nu a văzut asta, totuși este deșteaptă."
+    },
+    {
+      "sourceText": "I haven't surfed, yet I love the sea.",
+      "targetText": "Nu am făcut surf, totuși iubesc marea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'yet' as the word that often means 'still' or 'nevertheless'—like when you say, 'I haven't finished yet.'"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'totuși' as the Romanian way to say 'yet' or 'however' when you want to contradict or soften a previous statement."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'totuși' to the English word 'total' to remember it comes from 'tot' meaning 'all'—so 'totuși' means 'after all' or 'nevertheless.'"
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'Come yet with me!' to recall how 'doch'/'yet' can be used to encourage or insist gently."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

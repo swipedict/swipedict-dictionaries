@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-mention",
+  "parent": "ms-ro-a-mentiona-2c9eb879@cba4ecab4251aca2174676a1b75ab62d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mention",
+    "definition": "To briefly refer to or speak about something in passing.",
+    "pronunciation": "/ˈmɛnʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'mention' comes from the Old French 'mentioner', which derives from the Latin 'mentio', meaning 'a calling to mind' or 'remembrance'.",
+        "targetText": "Cuvântul englezesc „mention” provine din francezul vechi „mentioner”, care derivă din latinescul „mentio”, însemnând „a aminti” sau „a evoca”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a menționa",
+    "definition": "A spune scurt și pe scurt ceva, a face o referire.",
+    "pronunciation": "/a men.t͡siˈo.na/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a menționa' was borrowed from the French 'mentionner', which in turn comes from the Latin 'mentio' ('mention').",
+        "targetText": "Verbul românesc „a menționa” este un împrumut din francezul „mentionner”, care derivă la rândul său din latinescul „mentio” cu sensul de „mențiune” sau „amintire”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to remark",
+      "targetText": "a observa"
+    },
+    {
+      "sourceText": "the mention",
+      "targetText": "mențiunea"
+    },
+    {
+      "sourceText": "to discuss",
+      "targetText": "a discuta"
+    },
+    {
+      "sourceText": "to point out",
+      "targetText": "a indica"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to keep silent",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I mention the topic briefly.",
+      "targetText": "Menționez pe scurt subiectul."
+    },
+    {
+      "sourceText": "He did not mention the mistake.",
+      "targetText": "El nu a menționat greșeala."
+    },
+    {
+      "sourceText": "She often mentioned her plans.",
+      "targetText": "Ea menționa des planurile sale."
+    },
+    {
+      "sourceText": "I will mention that later.",
+      "targetText": "Voi menționa asta mai târziu."
+    },
+    {
+      "sourceText": "Please do not mention that!",
+      "targetText": "Te rog, nu menționa asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'mention' sounds similar to the Romanian 'menționa', making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mention' as making a quick note or 'mentioning' something briefly in conversation."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'ment' in 'mention' relates to memory and mind, like 'mental' or 'remember'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'mention' something to bring it to someone's mind, just like the Romanian 'a menționa'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

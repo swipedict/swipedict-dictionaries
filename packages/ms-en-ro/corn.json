@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-corn",
+  "parent": "ms-ro-porumb-41619bcc@4d7580f175804bc6a6974876e1b8c030",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "corn",
+    "genus": "masculine",
+    "definition": "A cereal plant with large yellow kernels commonly used as food.",
+    "pronunciation": "/kɔːrn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"corn\" originally referred to any type of grain or cereal, but in modern usage, especially in North America, it specifically denotes maize. The term comes from Old English \"corn\", meaning grain or seed, and has roots in Proto-Germanic *kurnam.",
+        "targetText": "Cuvântul englezesc „corn” inițial se referea la orice tip de cereală sau grăunț, dar în utilizarea modernă, în special în America de Nord, desemnează în mod specific porumbul. Termenul provine din engleza veche „corn”, care înseamnă grăunț sau sămânță, având rădăcini în proto-germanicul *kurnam."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "porumb",
+    "genus": "neuter",
+    "definition": "O plantă cerealieră cu boabe galbene, folosită ca aliment.",
+    "pronunciation": "/poˈrumb/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian word \"porumb\" is uncertain; there are hypotheses including a possible derivation from an unknown substrate word or folk etymology, but no confirmed Latin or Slavic origin.",
+        "targetText": "Originea cuvântului românesc „porumb” este incertă; există ipoteze privind un posibil substrat dacic sau o formare internă, dar nu există o etimologie sigură din latină sau slavă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "grain",
+      "targetText": "cereală"
+    },
+    {
+      "sourceText": "kernel",
+      "targetText": "bob"
+    },
+    {
+      "sourceText": "corncob",
+      "targetText": "măciucă de porumb"
+    },
+    {
+      "sourceText": "cornmeal",
+      "targetText": "mălai"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The corn grows in the field.",
+      "targetText": "Porumbul crește pe câmp."
+    },
+    {
+      "sourceText": "I like to eat popcorn made from corn.",
+      "targetText": "Îmi place să mănânc floricele de porumb."
+    },
+    {
+      "sourceText": "Corn is often used as animal feed.",
+      "targetText": "Porumbul este adesea folosit ca hrană pentru animale."
+    },
+    {
+      "sourceText": "Cornmeal is an ingredient for many traditional dishes.",
+      "targetText": "Mălaiul este un ingredient pentru multe feluri tradiționale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"corn\" can help you remember \"porumb\" because both relate to grain; think of corn on the cob to link the words."
+    },
+    {
+      "lang": "en",
+      "text": "Remember \"porumb\" by associating it with \"pore\" and \"thumb\"—imagine a thumb poking a corn kernel."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"popcorn\" to recall \"porumb\", since popcorn is made from corn (porumb)."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'por' in \"porumb\" is like 'pour' in English; imagine pouring corn kernels into a bowl."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

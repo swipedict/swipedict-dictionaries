@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-file",
+  "parent": "ms-ro-fisier-37db3f90@d3dd9a253c7f738875c13a5a3fa62cde",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "file",
+    "genus": "feminine",
+    "definition": "A collection of data or information stored electronically as a single unit.",
+    "pronunciation": "/faɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'file' originates from the Old French 'fil', meaning 'a thread' or 'line', which evolved to mean a line of documents or papers. Over time, it came to refer to a collection of documents stored together, and later to digital data collections.",
+        "targetText": "Cuvântul englezesc „file” provine din franceza veche 'fil', care înseamnă 'un fir' sau 'linie', și a evoluat pentru a desemna o linie de documente sau hârtii. În timp, a ajuns să însemne o colecție de documente păstrate împreună și, ulterior, colecții de date digitale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fișier",
+    "genus": "neuter",
+    "definition": "O colecție de date stocate electronic.",
+    "pronunciation": "/fiˈʃjer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'fișier' was directly borrowed from the French 'fichier' (meaning 'file' or 'folder').",
+        "targetText": "Cuvântul românesc „fișier” este un împrumut direct din franceza 'fichier', care înseamnă 'fișier' sau 'dosar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "computer",
+      "targetText": "calculator"
+    },
+    {
+      "sourceText": "data",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "folder",
+      "targetText": "dosar"
+    },
+    {
+      "sourceText": "to save",
+      "targetText": "a salva"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I saved the file on my computer.",
+      "targetText": "Am salvat fișierul pe calculatorul meu."
+    },
+    {
+      "sourceText": "Can you send me the file by email?",
+      "targetText": "Poți să-mi trimiți fișierul prin e-mail?"
+    },
+    {
+      "sourceText": "The file is too large to send.",
+      "targetText": "Fișierul este prea mare pentru a fi trimis."
+    },
+    {
+      "sourceText": "Open the file with the program.",
+      "targetText": "Deschide fișierul cu programul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fișier' sounds like 'fish-yair'—imagine a fish carrying a file underwater to help recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'file' and Romanian 'fișier' both relate to collections of data, making them easy to connect."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'fișier' as similar to the French 'fichier', which English speakers might recognize from computing terms."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a computer folder full of files; 'fișier' is the Romanian word for each individual file inside."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

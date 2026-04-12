@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-subscribe",
+  "parent": "ms-ro-a-abonare-95c54507@6d1300ffb6f433bf8c86e2ac81a278b3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "subscribe",
+    "definition": "To sign up for the regular delivery or use of goods or services.",
+    "pronunciation": "/səbˈskraɪb/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"subscribe\" comes from the noun \"subscription,\" which originates from French and ultimately from the Latin 'subscribere', meaning 'to write underneath' or 'to agree to'.",
+        "targetText": "Cuvântul englezesc „subscribe” provine din substantivul „subscription”, care are origini în franceză și, în cele din urmă, în latină, din 'subscribere', însemnând 'a scrie dedesubt' sau 'a fi de acord'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, conjugated in the usual English manner."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a abonare",
+    "definition": "A se înscrie pentru livrarea sau utilizarea regulată a unor bunuri sau servicii.",
+    "pronunciation": "/a aboˈnare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a abona” was borrowed from the French „abonner”, which in turn comes from the Latin „abonnare”.",
+        "targetText": "Verbul românesc „a abona” este împrumutat din francezul „abonner”, provenit din latinescul „abonnare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, Konjugation nach -a."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "subscription",
+      "targetText": "abonament"
+    },
+    {
+      "sourceText": "order",
+      "targetText": "a comanda"
+    },
+    {
+      "sourceText": "cancel",
+      "targetText": "a anula"
+    },
+    {
+      "sourceText": "register",
+      "targetText": "a se înregistra"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cancel",
+      "targetText": "a anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I subscribe to the newspaper every month.",
+      "targetText": "Eu abonarez ziarul în fiecare lună."
+    },
+    {
+      "sourceText": "She subscribed to the newsletter.",
+      "targetText": "Ea a abonat newsletter-ul."
+    },
+    {
+      "sourceText": "We subscribe to a streaming service.",
+      "targetText": "Noi abonăm un serviciu de streaming."
+    },
+    {
+      "sourceText": "You can subscribe or cancel the service at any time.",
+      "targetText": "Poți să abonezi sau să anulezi serviciul oricând."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a abonare' sounds very similar to the English 'subscribe' and shares the same meaning, making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'subscribe' as signing up regularly for something, which matches the Romanian 'a abonare' meaning to enroll for regular delivery or use."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'subscription' is closely related to 'subscribe', just like the Romanian 'abonament' relates to 'a abonare'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the phrase 'subscribe to a channel' on YouTube to connect the action with the Romanian verb 'a abonare'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

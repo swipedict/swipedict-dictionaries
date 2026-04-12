@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-boarding-pass",
+  "parent": "ms-ro-carte-de-imbarcare-11a7013d@1a740daf5c93012cc4c461756f83859c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "boarding pass",
+    "genus": "feminine",
+    "definition": "A document that allows a passenger to board an airplane.",
+    "pronunciation": "/ˈbɔːrdɪŋ pæs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'boarding pass' combines 'board', from Old English 'bord' meaning 'plank' or 'table', with 'pass', referring to a permit or ticket.",
+        "targetText": "Termenul englezesc „boarding pass” combină „board”, din engleza veche „bord” care însemna „scândură” sau „masă”, cu „pass”, care se referă la un permis sau bilet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "carte de îmbarcare",
+    "genus": "feminine",
+    "definition": "Un document care permite unui pasager să urce la bordul unui avion.",
+    "pronunciation": "/ˈkarte de ɨmbarˈkare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'carte de îmbarcare' is composed of 'carte' (from Latin 'charta') and 'îmbarcare' (borrowed from Italian 'imbarcare'), meaning 'to board'.",
+        "targetText": "Termenul românesc „carte de îmbarcare” este compus din 'carte' (din latină 'charta') și 'îmbarcare' (împrumutat din italiană 'imbarcare'), care înseamnă 'a urca la bord'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "plane ticket",
+      "targetText": "bilet de avion"
+    },
+    {
+      "sourceText": "airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "passenger",
+      "targetText": "pasager"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Please show your boarding pass at the gate.",
+      "targetText": "Vă rugăm să prezentați cartea de îmbarcare la poartă."
+    },
+    {
+      "sourceText": "The boarding pass was issued at the counter.",
+      "targetText": "Cartea de îmbarcare a fost emisă la ghișeu."
+    },
+    {
+      "sourceText": "You are not allowed to board the plane without a boarding pass.",
+      "targetText": "Fără carte de îmbarcare nu ai voie să urci în avion."
+    },
+    {
+      "sourceText": "I lost my boarding pass.",
+      "targetText": "Mi-am pierdut cartea de îmbarcare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'boarding pass' as your ticket to 'board' the plane—think of 'board' as getting on a ship or plane."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'carte' means 'book' or 'card', similar to 'cart' in English, helping you recall the first part of 'carte de îmbarcare'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'îmbarcare' as related to the Italian 'imbarcare', meaning 'to embark' or 'to get on board'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture holding your 'carte de îmbarcare' as your personal 'boarding pass' that lets you step onto the plane."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

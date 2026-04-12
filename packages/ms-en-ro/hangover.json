@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-hangover",
+  "parent": "ms-ro-mahmureala-a8b51890@906edf2cd7209c91102924f0cf79d49a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:turkish",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hangover",
+    "genus": "masculine",
+    "definition": "The unpleasant physical condition following excessive alcohol consumption, often including headache, nausea, and general discomfort.",
+    "pronunciation": "/ˈhæŋˌoʊvər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hangover\" originally referred to something left over or remaining from a previous event. In the context of alcohol, it came to describe the lingering unpleasant effects experienced after drinking too much.",
+        "targetText": "Cuvântul englezesc „hangover” se referea inițial la ceva rămas sau care persistă după un eveniment anterior. În contextul alcoolului, a ajuns să descrie efectele neplăcute care persistă după consumul excesiv."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mahmureală",
+    "genus": "feminine",
+    "definition": "Starea fizică neplăcută care apare după consumul excesiv de alcool, caracterizată prin dureri de cap, greață și stare generală de rău.",
+    "pronunciation": "/mahmureaˈlə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „mahmureală” derives from the Turkish word „mahmur”, meaning 'dazed' or 'hungover', adopted into Romanian as a noun for the state after alcohol consumption.",
+        "targetText": "Cuvântul românesc „mahmureală” provine din turcescul „mahmur”, care înseamnă 'amețit' sau 'mahmur', fiind preluat în română ca substantiv pentru starea de după consumul de alcool."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alcohol",
+      "targetText": "alcool"
+    },
+    {
+      "sourceText": "headache",
+      "targetText": "durere de cap"
+    },
+    {
+      "sourceText": "to drink",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "nausea",
+      "targetText": "greață"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "clear head",
+      "targetText": "minte limpede"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "After the party, he had a terrible hangover.",
+      "targetText": "După petrecere, a avut o mahmureală groaznică."
+    },
+    {
+      "sourceText": "A hangover can cause headaches and nausea.",
+      "targetText": "O mahmureală poate provoca dureri de cap și greață."
+    },
+    {
+      "sourceText": "Many drink water to ease the hangover.",
+      "targetText": "Mulți beau apă pentru a ameliora mahmureala."
+    },
+    {
+      "sourceText": "The hangover after too much alcohol is unpleasant.",
+      "targetText": "Mahmureala după prea mult alcool este neplăcută."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'hangover' as the 'hang' that 'over' stays with you after drinking too much."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mahmureală' sounding like 'mahmur' which means dazed in Turkish, just like how you feel with a hangover."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'mahmureală' with 'mahmur' and imagine Mahmoud feeling dizzy after a party."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'mahmureală' to the English word 'muddle' since a hangover muddles your head."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

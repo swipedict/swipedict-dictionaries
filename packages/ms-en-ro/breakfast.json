@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-breakfast",
+  "parent": "ms-ro-micul-dejun-ca991dfd@6fd5aed3fe10a68bb96426f8f3258c3e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "breakfast",
+    "genus": "neuter",
+    "definition": "The first meal of the day, usually eaten in the morning to break the overnight fast.",
+    "pronunciation": "/ˈbrɛkfəst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"breakfast\" comes from the combination of 'break' and 'fast', meaning to break the fasting period after sleeping. It originated in Middle English.",
+        "targetText": "Cuvântul englezesc „breakfast” provine din combinarea cuvintelor 'break' (a întrerupe) și 'fast' (post), desemnând masa care întrerupe postul de noapte, având origini în engleza mijlocie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "micul dejun",
+    "genus": "neuter",
+    "definition": "Prima masă a zilei, consumată dimineața.",
+    "pronunciation": "/ˈmikut deˈʒun/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „micul dejun” is an internal formation meaning literally 'the small breaking of the fast'; it is composed of „mic” (small, from Latin „mīcus”) and „dejun” (from Latin „ieiunium”, fasting).",
+        "targetText": "Expresia românească „micul dejun” este o creație internă, formată din „mic” (din latină „mīcus”) și „dejun” (din latină „ieiunium” – post), desemnând prima masă a zilei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dinner",
+      "targetText": "cina"
+    },
+    {
+      "sourceText": "bread",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "meal",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "lunch",
+      "targetText": "prânz"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dinner",
+      "targetText": "cina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have breakfast every morning at 7 o'clock.",
+      "targetText": "Eu iau micul dejun în fiecare dimineață la ora 7."
+    },
+    {
+      "sourceText": "For breakfast, I eat bread with jam.",
+      "targetText": "La micul dejun mănânc pâine cu gem."
+    },
+    {
+      "sourceText": "Breakfast is the most important meal of the day.",
+      "targetText": "Micul dejun este cea mai importantă masă a zilei."
+    },
+    {
+      "sourceText": "We meet for breakfast at the café.",
+      "targetText": "Ne întâlnim la micul dejun la cafenea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'micul dejun' by thinking of 'mic' as 'small' and 'dejun' as 'breaking the fast'—the small meal that breaks your overnight fast."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'breakfast' as the meal that 'breaks the fast' after sleeping, just like 'dejun' relates to fasting in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'dejun' sounds a bit like 'jungle'—imagine a small jungle of delicious breakfast foods to remember 'micul dejun'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'dejun' to the Latin root 'ieiunium' meaning fasting, since breakfast ends the night’s fast."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

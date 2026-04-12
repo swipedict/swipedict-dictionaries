@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-tired",
+  "parent": "ms-ro-obosit-7d376c96@5aa8b4fda3725282d00a147fab6dd552",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tired",
+    "definition": "Feeling a state of exhaustion or needing rest.",
+    "pronunciation": "/ˈtaɪərd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"tired\" comes from the Old English 'tēorian', meaning to grow weary or become exhausted, tracing back to Proto-Germanic roots related to fatigue and weariness.",
+        "targetText": "Cuvântul englezesc „tired” provine din engleza veche 'tēorian', care însemna a deveni obosit sau epuizat, având rădăcini proto-germanice legate de oboseală și slăbiciune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "obosit",
+    "definition": "Starea de a fi epuizat sau a avea nevoie de odihnă.",
+    "pronunciation": "/o.boˈsit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „obosit” comes from Slavic, probably from Bulgarian „обеса” or Serbian „obesiti” meaning 'to become tired'.",
+        "targetText": "Cuvântul românesc „obosit” provine din slavă, probabil din bulgara „обеса” sau sârba „obesiti”, cu sensul de „a obosi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "exhaustion",
+      "targetText": "epuizare"
+    },
+    {
+      "sourceText": "to be tired",
+      "targetText": "a fi obosit"
+    },
+    {
+      "sourceText": "rest",
+      "targetText": "odihnă"
+    },
+    {
+      "sourceText": "sleep",
+      "targetText": "somn"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "awake",
+      "targetText": "treaz"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am tired after work.",
+      "targetText": "Sunt obosit după muncă."
+    },
+    {
+      "sourceText": "She looks tired.",
+      "targetText": "Ea pare obosită."
+    },
+    {
+      "sourceText": "After the long run, I was very tired.",
+      "targetText": "După alergarea lungă am fost foarte obosit."
+    },
+    {
+      "sourceText": "Tired children need sleep.",
+      "targetText": "Copiii obosiți au nevoie de somn."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'obosit' sounds like 'oh, boss it!' Imagine telling your boss you’re too tired to work."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'obosit' as 'oh, be seated' because when you’re tired, you just want to sit down and rest."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'tired' with 'obosit' by thinking of being 'out of steam'—both mean feeling exhausted."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'obosit' comes from Slavic roots meaning 'to get tired'—think of it as 'oh, be so tired!'"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

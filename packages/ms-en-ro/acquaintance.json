@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-acquaintance",
+  "parent": "ms-ro-cunostinta-c7220ec5@e7555807e79b99173686c57575fe077d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "acquaintance",
+    "genus": "feminine",
+    "definition": "A person one knows, but who is not necessarily a close friend.",
+    "pronunciation": "/əˈkweɪntəns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"acquaintance\" comes from the verb \"acquaint,\" which means to make someone aware or familiar with something or someone. It originates from the Old French 'acointier', meaning 'to make known'.",
+        "targetText": "Cuvântul englezesc „acquaintance” provine din verbul „acquaint”, care înseamnă a face pe cineva conștient sau familiarizat cu ceva sau cu cineva. Originea sa este din vechea limbă franceză 'acointier', care înseamnă 'a face cunoscut'."
+      },
+      "source": "Etymological Dictionaries English"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cunoștință",
+    "genus": "feminine",
+    "definition": "O persoană pe care o cunoști, dar cu care nu ești neapărat prieten apropiat.",
+    "pronunciation": "/ku.noʃˈtin.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cunoștință\" derives from the Latin verb 'cognoscere', meaning 'to recognize' or 'to get to know'.",
+        "targetText": "Cuvântul românesc „cunoștință” provine din verbul latin 'cognoscere', care înseamnă 'a recunoaște' sau 'a cunoaște'."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "acquaintanceship",
+      "targetText": "cunoștință"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "colleague",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "neighbor",
+      "targetText": "vecin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stranger",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have many acquaintances in the city.",
+      "targetText": "Am multe cunoștințe în oraș."
+    },
+    {
+      "sourceText": "She is an acquaintance of my sister.",
+      "targetText": "Ea este o cunoștință a surorii mele."
+    },
+    {
+      "sourceText": "We are not friends, just acquaintances.",
+      "targetText": "Nu suntem prieteni, doar cunoștințe."
+    },
+    {
+      "sourceText": "He has many acquaintances from work.",
+      "targetText": "Are multe cunoștințe de la serviciu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"acquaintance\" shares the root with \"acquire\"—both involve gaining knowledge or familiarity, just like \"cunoștință\" relates to knowing someone."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"cunoștință\" contains \"cunoș\", which sounds like \"know\" in English, helping you link it to knowledge and familiarity."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the ending '-tință' in \"cunoștință\"—it’s a common Romanian noun suffix that often forms abstract or concrete nouns, similar to '-ance' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine meeting someone new and saying, \"I have a new cunoștință!\" to help remember it means an acquaintance, not a close friend."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

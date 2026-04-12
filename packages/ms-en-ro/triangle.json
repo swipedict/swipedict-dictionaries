@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-triangle",
+  "parent": "ms-ro-triunghi-272dd5ea@c8b9fd2a6ad4f5641f055ba2f5ab632d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "triangle",
+    "definition": "A geometric shape with three corners and three sides.",
+    "pronunciation": "/ˈtraɪ.æŋ.ɡəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"triangle\" comes from the Latin 'triangulus', which combines 'tri-' meaning 'three' and 'angulus' meaning 'angle' or 'corner'.",
+        "targetText": "Cuvântul englezesc „triangle” provine din latină, din 'triangulus', care combină 'tri-' însemnând 'trei' și 'angulus' însemnând 'unghi' sau 'colț'."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "triunghi",
+    "genus": "neuter",
+    "definition": "O figură geometrică cu trei colțuri și trei laturi.",
+    "pronunciation": "/triˈunɡi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"triunghi\" derives from the Latin 'triangulus', composed of 'tri-' (three) and 'angulus' (angle, corner).",
+        "targetText": "Cuvântul românesc „triunghi” provine din latină, din 'triangulus', compus din 'tri-' (trei) și 'angulus' (unghi, colț)."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Geometry",
+      "targetText": "geometrie"
+    },
+    {
+      "sourceText": "Circle",
+      "targetText": "cerc"
+    },
+    {
+      "sourceText": "Quadrilateral",
+      "targetText": "patrulater"
+    },
+    {
+      "sourceText": "Angle",
+      "targetText": "unghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The triangle has three sides.",
+      "targetText": "Triunghiul are trei laturi."
+    },
+    {
+      "sourceText": "In geometry, you learn about different triangles.",
+      "targetText": "La geometrie înveți despre diferite tipuri de triunghiuri."
+    },
+    {
+      "sourceText": "An equilateral triangle has three sides of equal length.",
+      "targetText": "Un triunghi echilateral are trei laturi de aceeași lungime."
+    },
+    {
+      "sourceText": "The triangle is one of the basic shapes in mathematics.",
+      "targetText": "Triunghiul este una dintre formele de bază în matematică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'triunghi' starts with 'tri-', just like the English prefix meaning 'three', helping you remember it relates to three corners."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'unghi' in Romanian meaning 'angle'—so 'triunghi' literally means 'three angles', just like a triangle."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'triangle' and 'triunghi' are compound words that describe a shape with three parts, making them easy to connect."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a triathlon with three parts—similarly, a 'triunghi' has three corners."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

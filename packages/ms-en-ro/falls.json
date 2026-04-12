@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-falls",
+  "parent": "ms-ro-daca-0bcc7781@9946f244e1dceed13e9268b932427740",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "falls",
+    "definition": "A conjunction used to introduce a condition or possibility, similar to 'if'.",
+    "pronunciation": "/fɔːlz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'falls' originates from the Old English 'feallan', related to the noun 'fall', indicating a condition or event.",
+        "targetText": "Cuvântul englezesc „falls” provine din engleza veche „feallan”, legat de substantivul „fall”, indicând o condiție sau un eveniment."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dacă",
+    "definition": "O conjuncție care exprimă o condiție sau o posibilitate, echivalentă cu 'wenn' în germană.",
+    "pronunciation": "/ˈdaka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'dacă' comes from Old Bulgarian 'dokŭ', meaning 'if' or 'in case'.",
+        "targetText": "Cuvântul românesc 'dacă' provine din vechiul bulgar 'dokŭ', care înseamnă 'dacă' sau 'în cazul în care'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "whether",
+      "targetText": "dacă"
+    },
+    {
+      "sourceText": "provided that",
+      "targetText": "atâta timp cât"
+    },
+    {
+      "sourceText": "provided",
+      "targetText": "cu condiția"
+    },
+    {
+      "sourceText": "if",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "If it rains, we will stay at home.",
+      "targetText": "Dacă plouă, rămânem acasă."
+    },
+    {
+      "sourceText": "If you need help, let me know.",
+      "targetText": "Dacă ai nevoie de ajutor, spune-mi."
+    },
+    {
+      "sourceText": "If he comes, we will start.",
+      "targetText": "Dacă vine, începem."
+    },
+    {
+      "sourceText": "If you have time, we can meet.",
+      "targetText": "Dacă ai timp, ne putem întâlni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dacă' sounds like 'duh-kah' — think of it as saying 'duh, if' something happens under a condition."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'falls' relates to 'fall' as in a case or event, helping you link it to conditions or possibilities."
+    },
+    {
+      "lang": "en",
+      "text": "'Dacă' is used like 'if' in English to introduce hypothetical or conditional situations."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'falls' with 'if' in English since both express conditions, making it easier to remember their usage."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

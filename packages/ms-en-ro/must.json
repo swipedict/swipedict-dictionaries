@@ -1,0 +1,155 @@
+{
+  "id": "ms-en-ro-must",
+  "parent": "ms-ro-a-trebui-84f2f698@af52b1bbcd1f4655a4b3474c3f0d5a85",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "must",
+    "definition": "to be required or necessary to do something",
+    "pronunciation": "/mʌst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'must' comes from Old English 'moste', originally expressing obligation or necessity, with roots in Germanic languages.",
+        "targetText": "Verbul englezesc „must“ provine din engleza veche „moste“, exprimând inițial obligație sau necesitate, cu rădăcini în limbile germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb with different conjugation forms in the present tense."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trebui",
+    "definition": "a fi necesar sau obligatoriu",
+    "pronunciation": "/a treˈbu.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'a trebui' derives from the Latin 'debere', meaning 'to have to' or 'to be obliged'.",
+        "targetText": "Verbul românesc „a trebui“ provine din latinescul „debere“, care înseamnă „a trebui“ sau „a fi obligat“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular verb, commonly used in everyday language to express necessity."
+  },
+  "senses": [
+    {
+      "gloss": "necessity",
+      "explanation": {
+        "sourceText": "The word expresses that something is unavoidable.",
+        "targetText": "Cuvântul exprimă faptul că ceva este inevitabil."
+      },
+      "examples": [
+        {
+          "sourceText": "I must do this.",
+          "targetText": "Trebuie să fac asta."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "necessity",
+      "targetText": "necesitate"
+    },
+    {
+      "sourceText": "duty",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "obligation",
+      "targetText": "obligație"
+    },
+    {
+      "sourceText": "compulsion",
+      "targetText": "constrângere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "can",
+      "targetText": "a putea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I must do the homework.",
+      "targetText": "Trebuie să fac temele."
+    },
+    {
+      "sourceText": "Must you come tomorrow?",
+      "targetText": "Trebuie să vii mâine?"
+    },
+    {
+      "sourceText": "He must finish his work.",
+      "targetText": "El trebuie să își termine munca."
+    },
+    {
+      "sourceText": "We must follow the rules.",
+      "targetText": "Trebuie să respectăm regulile."
+    },
+    {
+      "sourceText": "Do you all have to do that too?",
+      "targetText": "Trebuie să o rezolvați și voi?"
+    },
+    {
+      "sourceText": "They must overcome their difficulties.",
+      "targetText": "Ei trebuie să depășească dificultățile."
+    },
+    {
+      "sourceText": "I had to do it.",
+      "targetText": "A trebuit să o fac."
+    },
+    {
+      "sourceText": "He had to be punctual always.",
+      "targetText": "El trebuia să fie întotdeauna la timp."
+    },
+    {
+      "sourceText": "I will have to do that.",
+      "targetText": "Va trebui să o fac."
+    },
+    {
+      "sourceText": "I would have to go.",
+      "targetText": "Ar trebui să plec."
+    },
+    {
+      "sourceText": "Must it really be so!",
+      "targetText": "Trebuie neapărat!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'must' means something you have to do, just like 'a trebui' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'must' as a strong necessity, similar to the Romanian 'trebuie'."
+    },
+    {
+      "lang": "en",
+      "text": "The English 'must' sounds like 'must' in 'mustard'—imagine you must have mustard on your sandwich!"
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'I must' to practice the present tense, just like 'Eu trebuie' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

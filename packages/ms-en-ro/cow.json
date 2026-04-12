@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-cow",
+  "parent": "ms-ro-vaca-f1dce895@67698d268c929b9c3d8d31e660ec76bd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cow",
+    "genus": "feminine",
+    "definition": "A female bovine animal commonly kept for milk production.",
+    "pronunciation": "/kaʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cow\" originates from Old English 'cū', which traces back to the Proto-Germanic root *kwōn, meaning 'female bovine'.",
+        "targetText": "Cuvântul englezesc „cow” provine din engleza veche 'cū', care derivă din rădăcina proto-germanică *kwōn, ce înseamnă 'bovin femel'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vacă",
+    "genus": "feminine",
+    "definition": "Un animal femel din specia bovină, folosit în special pentru lapte.",
+    "pronunciation": "/vaˈkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"vacă\" comes from the Latin 'vacca', which also means 'cow' and was borrowed from Classical Latin.",
+        "targetText": "Cuvântul românesc „vacă” provine din latinescul 'vacca', care însemna 'vacă' și a fost preluat din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "farmer",
+      "targetText": "țăran"
+    },
+    {
+      "sourceText": "calf",
+      "targetText": "vițel"
+    },
+    {
+      "sourceText": "milk",
+      "targetText": "lapte"
+    },
+    {
+      "sourceText": "cattle",
+      "targetText": "bovin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bull",
+      "targetText": "taur"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The cow gives milk every day.",
+      "targetText": "Vaca dă lapte în fiecare zi."
+    },
+    {
+      "sourceText": "There are many cows on the farm.",
+      "targetText": "La fermă sunt multe vaci."
+    },
+    {
+      "sourceText": "The cow is an important farm animal.",
+      "targetText": "Vaca este un animal domestic important."
+    },
+    {
+      "sourceText": "The calf runs next to the cow.",
+      "targetText": "Vițelul aleargă lângă vacă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'vacă' sounds like 'vacay' – imagine a cow on vacation to help recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ă' is common in Romanian feminine nouns, similar to how many English feminine words end with an 'a' sound."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the two syllables 'va-ca' as a short song to make the word easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'vacă' with the English word 'vaccine' to remember it relates to cows, since vaccines were historically developed using cowpox."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

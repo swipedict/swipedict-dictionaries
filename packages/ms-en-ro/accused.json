@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-accused",
+  "parent": "ms-ro-acuzat-82f1222a@12d049786b8db0585bf24bed0b7587b5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "accused",
+    "genus": "masculine",
+    "definition": "A person who is formally charged with a crime in a court of law.",
+    "pronunciation": "/əˈkjuːzd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'accused' comes from the Latin verb 'accusare', meaning 'to charge or blame'. It entered English through Old French, evolving to denote someone formally charged with a crime.",
+        "targetText": "Cuvântul englezesc „accused” provine din verbul latin 'accusare', care înseamnă 'a acuza sau a învinui'. A intrat în limba engleză prin franceza veche, evoluând pentru a desemna o persoană acuzată oficial de o infracțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acuzat",
+    "genus": "masculine",
+    "definition": "O persoană care este învinuită într-un proces penal de comiterea unei infracțiuni.",
+    "pronunciation": "/akuˈzat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'acuzat' comes from the Latin 'accusatus', the past participle of 'accusare', meaning 'to accuse'.",
+        "targetText": "Cuvântul românesc „acuzat” provine din latinescul 'accusatus', participiul trecut al verbului 'accusare', care înseamnă 'a acuza'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "accusation",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "tribunal"
+    },
+    {
+      "sourceText": "complaint",
+      "targetText": "plângere"
+    },
+    {
+      "sourceText": "defense attorney",
+      "targetText": "avocat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "innocent",
+      "targetText": "nevinovat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The accused was brought before the court.",
+      "targetText": "Acuzatul a fost adus în fața tribunalului."
+    },
+    {
+      "sourceText": "The accused denied the charges.",
+      "targetText": "Acuzatul a negat acuzațiile."
+    },
+    {
+      "sourceText": "The lawyer defends the accused.",
+      "targetText": "Avocatul apără acuzatul."
+    },
+    {
+      "sourceText": "The accused is waiting for the verdict.",
+      "targetText": "Acuzatul așteaptă verdictul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'acuzat' sounds like 'accused' in English, both meaning someone charged with a crime."
+    },
+    {
+      "lang": "en",
+      "text": "The '-at' ending in Romanian often marks past participles, helping you identify 'acuzat' as a person who has been accused."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English verb 'accuse' to recall the meaning of 'acuzat' easily."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a courtroom scene where the 'accused' stands — this visual links the English and Romanian words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ms-en-ro-king",
+  "parent": "ms-ro-rege-b90ad677@736bd5e93ccb43de8dacaca51df14ba1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "king",
+    "genus": "masculine",
+    "definition": "a male ruler of a kingdom, either reigning in reality or symbolically",
+    "pronunciation": "/kɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"king\" originates from the Old English \"cyning\", meaning 'leader' or 'ruler'. It originally referred to the chief of a tribe or people.",
+        "targetText": "Cuvântul englezesc „king“ provine din vechiul englez „cyning“, care însemna „conducător“ sau „stăpân“. Inițial desemna șeful unui trib sau popor."
+      },
+      "source": "Etymological Dictionary of English"
+    },
+    "additional": "The word is often used in mythological and literary contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rege",
+    "genus": "masculine",
+    "definition": "un membru masculin al unei case regale, care conduce sau reglează simbolic",
+    "pronunciation": "/ˈre.ɡe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „rege“ has its roots in the Latin „rex“, which also means 'king' or 'ruler'.",
+        "targetText": "Cuvântul românesc „rege“ provine din latină „rex“, însemnând „rege“ sau „conducător“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Rege“ is frequently used in relation to monarchies or historical contexts."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "ruler",
+      "targetText": "stăpân"
+    },
+    {
+      "sourceText": "kingdom",
+      "targetText": "regat"
+    },
+    {
+      "sourceText": "crown",
+      "targetText": "coroană"
+    },
+    {
+      "sourceText": "throne",
+      "targetText": "tron"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "queen",
+      "targetText": "regina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The king rules his country with wisdom.",
+      "targetText": "Regele își conduce țara cu înțelepciune."
+    },
+    {
+      "sourceText": "The stories about the king are very exciting.",
+      "targetText": "Poveștile despre rege sunt foarte fascinante."
+    },
+    {
+      "sourceText": "The king often wears a magnificent cloak.",
+      "targetText": "Regele poartă adesea o mantie splendidă."
+    },
+    {
+      "sourceText": "In the fairy tale, the king was very wise.",
+      "targetText": "În basm, regele era foarte înțelept."
+    },
+    {
+      "sourceText": "Every king needs his own crown.",
+      "targetText": "Fiecare rege are nevoie de o coroană proprie."
+    },
+    {
+      "sourceText": "The king invites his subjects to the feast.",
+      "targetText": "Regele își invită supușii la festă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word „rege“ by thinking of the English word \"regal\" – both relate to kings and royalty."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you are a king giving a \"regal\" command – this helps link „rege“ with leadership and authority."
+    },
+    {
+      "lang": "en",
+      "text": "The sound \"rege\" is close to \"regent\", a word for someone who rules – this connection can help you remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"King’s reign\" to recall that „rege“ means king and is connected to ruling."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

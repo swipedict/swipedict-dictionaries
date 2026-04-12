@@ -1,0 +1,127 @@
+{
+  "id": "ms-en-ro-rent",
+  "parent": "ms-ro-a-inchiria-aa7e419f@0bd7329b6b1e97b6d5e2ba701c4f1024",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "rent",
+    "definition": "to pay for the temporary use of something, such as property or equipment",
+    "pronunciation": "/rɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"rent\" originates from Old French \"rente\", meaning 'a payment' or 'income', which itself derives from Latin \"reddita\", meaning 'things returned'. Over time, it came to mean paying for temporary use of property or goods.",
+        "targetText": "Cuvântul englezesc „rent” provine din franceza veche „rente”, care înseamnă „plată” sau „venit”, derivat din latină „reddita”, adică „lucruri returnate”. În timp, a ajuns să însemne plata pentru folosirea temporară a unei proprietăți sau bunuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, commonly used in contexts involving apartments, vehicles, or equipment."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a închiria",
+    "definition": "a folosi ceva contra unei plăți pe o perioada determinată",
+    "pronunciation": "/a ɨnkiˈria/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a închiria” is derived from „chirie”, which comes from the modern Greek „kiriá” (rent) through Turkish „kira”.",
+        "targetText": "Verbul românesc „a închiria” este derivat din „chirie”, care provine din grecescul modern „kiriá” prin intermediul turcului „kira”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular 4th conjugation verb (-i), used for apartments, cars, or equipment."
+  },
+  "senses": [
+    {
+      "gloss": "Borrowing",
+      "explanation": {
+        "sourceText": "Used for the temporary use of objects.",
+        "targetText": "Folosit pentru utilizarea temporară a obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Can I rent my tools to you?",
+          "targetText": "Pot să-ți închiriez uneltele?"
+        }
+      ]
+    },
+    {
+      "gloss": "Renting (Financial context)",
+      "explanation": {
+        "sourceText": "Used for rental agreements concerning apartments or vehicles.",
+        "targetText": "Folosit pentru contracte de închiriere a locuințelor sau vehiculelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am renting a new apartment.",
+          "targetText": "Închiriez un apartament nou."
+        },
+        {
+          "sourceText": "I need to rent my car.",
+          "targetText": "Trebuie să-mi închiriez mașina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "rent",
+      "targetText": "chiria"
+    },
+    {
+      "sourceText": "tenant",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sell",
+      "targetText": "a vinde"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a închiria\" means to rent or lease, just like when you rent an apartment or a car in English."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"chirie\" as similar to \"cherry\"—something you pay for regularly, like rent is a regular payment."
+    },
+    {
+      "lang": "en",
+      "text": "Practice saying \"Eu închiriez\" + object to get comfortable with expressing renting actions."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine renting as a temporary 'in-chair' situation—you're 'in' the chair for a while, just like 'închiria' means to use something temporarily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

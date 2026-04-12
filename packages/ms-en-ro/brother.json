@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-brother",
+  "parent": "ms-ro-frate-2ef895d5@738856eae2ae08d49bf5ce30e42931c3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "brother",
+    "genus": "masculine",
+    "definition": "A male sibling who shares the same parents.",
+    "pronunciation": "/ˈbrʌðər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"brother\" originates from the Old English 'brōþor', which comes from the Proto-Germanic root *brōþēr, related to the Latin 'frater' and Greek 'phrátēr'.",
+        "targetText": "Cuvântul englezesc „brother” provine din vechiul englez 'brōþor', care la rândul său derivă din rădăcina proto-germanică *brōþēr, înrudit cu latinescul 'frater' și grecescul 'phrátēr'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "frate",
+    "genus": "masculine",
+    "definition": "Un copil de sex masculin care are aceiași părinți.",
+    "pronunciation": "/ˈfrate/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"frate\" derives directly from the Latin 'frater', meaning 'brother', and has an Indo-European root *bhrāter.",
+        "targetText": "Cuvântul românesc „frate” provine direct din latinescul 'frater', care înseamnă 'frate' și are o rădăcină indo-europeană *bhrāter."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "parents",
+      "targetText": "părinți"
+    },
+    {
+      "sourceText": "family",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "siblings",
+      "targetText": "frați și surori"
+    },
+    {
+      "sourceText": "sister",
+      "targetText": "soră"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sister",
+      "targetText": "soră"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My brother is older than me.",
+      "targetText": "Fratele meu este mai mare decât mine."
+    },
+    {
+      "sourceText": "The brother helps his sister with the homework.",
+      "targetText": "Fratele o ajută pe sora lui cu temele."
+    },
+    {
+      "sourceText": "I have two brothers and one sister.",
+      "targetText": "Am doi frați și o soră."
+    },
+    {
+      "sourceText": "Brothers support each other.",
+      "targetText": "Frații se sprijină unul pe celălalt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"frate\" sounds like 'frat', which in English refers to brotherhoods in college – easy to remember as 'frate' means brother."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'frate' as similar to 'fraternity', both related to brotherhood and coming from the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'frate' ends with an -e, just like many Romanian masculine nouns, and it means a male sibling, a brother."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine two brothers sitting together in a 'frat' house – this helps link the sound 'frate' with the meaning brother."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

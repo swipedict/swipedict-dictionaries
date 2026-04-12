@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-turn-off",
+  "parent": "ms-ro-a-opri-ad781fd5@2f7999628fd177523fa872dbf3af7ce9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "turn off",
+    "definition": "to cause something to stop operating or to become inactive",
+    "pronunciation": "/tɜrn ɔf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrasal verb \"turn off\" combines \"turn,\" meaning to rotate or change direction, with \"off,\" indicating cessation or disconnection. Together, they describe the action of stopping a device or function.",
+        "targetText": "Cuvântul englezesc „turn off“ combină „turn“ (a roti sau a schimba direcția) cu „off“ (oprire sau deconectare), indicând acțiunea de a opri un dispozitiv sau o funcție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular phrasal verb. Commonly used in the context of electronic devices."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a opri",
+    "definition": "a face ca ceva să nu mai funcționeze sau să nu mai fie activ",
+    "pronunciation": "/a oˈpri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a opri“ comes from the Slavic „oprìti“, meaning to stop or halt. It is used to describe turning off or stopping a device or process.",
+        "targetText": "Verbul român „a opri“ provine din slavonă „oprìti“, însemnând a opri sau a întrerupe funcționarea."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regular verb of the 1st conjugation (-i). Often used in technical contexts."
+  },
+  "senses": [
+    {
+      "gloss": "a opri (to turn off a device)",
+      "explanation": {
+        "sourceText": "To put a device into an inactive state.",
+        "targetText": "A face un aparat să nu mai funcționeze."
+      },
+      "examples": [
+        {
+          "sourceText": "I turn off the light.",
+          "targetText": "Eu opresc lumina."
+        },
+        {
+          "sourceText": "Do you turn off the TV?",
+          "targetText": "Oprești televizorul?"
+        }
+      ]
+    },
+    {
+      "gloss": "a opri (to stop a process)",
+      "explanation": {
+        "sourceText": "To halt a procedure or process.",
+        "targetText": "A întrerupe un proces."
+      },
+      "examples": [
+        {
+          "sourceText": "We are turning off the system now.",
+          "targetText": "Noi oprim acum sistemul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "remote control",
+      "targetText": "telecomandă"
+    },
+    {
+      "sourceText": "device",
+      "targetText": "aparat"
+    },
+    {
+      "sourceText": "light",
+      "targetText": "lumină"
+    },
+    {
+      "sourceText": "electricity",
+      "targetText": "curent"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "turn on",
+      "targetText": "a porni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I turn off the light.",
+      "targetText": "Eu opresc lumina."
+    },
+    {
+      "sourceText": "Do you turn off the TV?",
+      "targetText": "Oprești televizorul?"
+    },
+    {
+      "sourceText": "He turns off the computer.",
+      "targetText": "El oprește calculatorul."
+    },
+    {
+      "sourceText": "We are turning off the system now.",
+      "targetText": "Noi oprim acum sistemul."
+    },
+    {
+      "sourceText": "Do you (plural) turn off the devices?",
+      "targetText": "Opriți aparatele?"
+    },
+    {
+      "sourceText": "They turn off the lights.",
+      "targetText": "Ei opresc luminile."
+    },
+    {
+      "sourceText": "I have turned off the computer.",
+      "targetText": "Am oprit calculatorul."
+    },
+    {
+      "sourceText": "He used to turn off the radio every evening.",
+      "targetText": "El oprea radioul în fiecare seară."
+    },
+    {
+      "sourceText": "I will turn off the heating.",
+      "targetText": "Voi opri încălzirea."
+    },
+    {
+      "sourceText": "I would turn off the light.",
+      "targetText": "Aș opri lumina."
+    },
+    {
+      "sourceText": "Turn off the device!",
+      "targetText": "Oprește aparatul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'turn off' as literally turning a switch or knob to stop something from working."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'a opri' sounds like 'a open' but means the opposite—stop or shut down."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine pressing the power button on your phone to 'turn off' and say 'a opri' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'turn off' with 'stop'—both mean to make something inactive or end its function."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-report-damage",
+  "parent": "ms-ro-a-raporta-un-prejudiciu-d44a8a54@398ec66d130dac47824c2238764771ae",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "report damage",
+    "definition": "To officially notify about damage, such as an accident or defect.",
+    "pronunciation": "/rɪˈpɔːrt ˈdæmɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'damage' originates from the Old French 'damage', meaning 'loss' or 'harm', which in turn comes from Latin 'damnum' meaning 'loss' or 'injury'.",
+        "targetText": "Cuvântul englezesc „damage” provine din franceza veche „damage”, care înseamnă „pierdere” sau „vătămare”, și derivă din latină „damnum”, însemnând „pierdere” sau „rănire”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a raporta un prejudiciu",
+    "definition": "A anunța oficial un prejudiciu sau o pagubă.",
+    "pronunciation": "/a raˈporta un preʒuˈdʒiku/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'prejudiciu' derives from the Latin 'praejudicium', meaning 'prejudice' or 'damage'.",
+        "targetText": "Cuvântul românesc „prejudiciu” provine din latină „praejudicium”, însemnând „prejudecată” sau „pagubă”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb 'a raporta' means 'to report' or 'to notify'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "report",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "compensation",
+      "targetText": "despăgubire"
+    },
+    {
+      "sourceText": "accident",
+      "targetText": "accident"
+    },
+    {
+      "sourceText": "insurance",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignore",
+      "targetText": "a ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Please report any damage to your insurance immediately.",
+      "targetText": "Vă rugăm să raportați orice prejudiciu imediat asigurătorului dumneavoastră."
+    },
+    {
+      "sourceText": "He reported the damage after the accident.",
+      "targetText": "El a raportat prejudiciul după accident."
+    },
+    {
+      "sourceText": "Reporting damage is important for the claims process.",
+      "targetText": "Este important să raportezi un prejudiciu pentru despăgubiri."
+    },
+    {
+      "sourceText": "You should always report damages to avoid problems.",
+      "targetText": "Ar trebui să raportezi întotdeauna prejudiciile pentru a evita problemele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'prejudiciu' sounds like 'prejudice', which helps you remember it relates to harm or damage."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a raporta' as 'to report' in English, making it easy to recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "When you 'report damage', you officially notify someone about a problem, just like 'a raporta un prejudiciu'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: 'prejudiciu' comes from Latin roots similar to English legal terms, so it’s linked to formal harm or loss."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

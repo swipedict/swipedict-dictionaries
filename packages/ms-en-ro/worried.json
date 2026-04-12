@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-worried",
+  "parent": "ms-ro-ingrijorat-1c1ee2f4@3a88e1b57627d434de52f8582bc74be9",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "worried",
+    "definition": "Feeling anxious or concerned about something or someone.",
+    "pronunciation": "/ˈwʌrid/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"worried\" derives from the verb 'worry', which originally meant to cause distress or trouble, coming from Old English roots related to straining or choking.",
+        "targetText": "Cuvântul englezesc „worried” derivă din verbul „worry”, care inițial însemna a provoca suferință sau necaz, având rădăcini în engleza veche legate de a strânge sau a sufoca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "îngrijorat",
+    "definition": "Care exprimă o stare de grijă sau neliniște față de ceva sau cineva.",
+    "pronunciation": "/ɨn.ɡri.ʒoˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „îngrijorat” is an internal derivation from the Romanian verb „a îngriji” (to take care), formed with the suffix „-orat”. The verb „a îngriji” comes from Slavic origin (\"grija\" = care), not directly from Latin.",
+        "targetText": "Cuvântul românesc „îngrijorat” este derivat intern din verbul „a îngriji” și sufixul „-orat”. Verbul „a îngriji” provine din slavonă („grija” = grijă), nu direct din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fear",
+      "targetText": "frică"
+    },
+    {
+      "sourceText": "concern",
+      "targetText": "neliniște"
+    },
+    {
+      "sourceText": "to care",
+      "targetText": "a se îngriji"
+    },
+    {
+      "sourceText": "care",
+      "targetText": "grijă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "carefree",
+      "targetText": "liniștit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "She is worried about her child's health.",
+      "targetText": "Ea este îngrijorată pentru sănătatea copilului ei."
+    },
+    {
+      "sourceText": "He looks worried because he failed the exam.",
+      "targetText": "El pare îngrijorat pentru că nu a trecut examenul."
+    },
+    {
+      "sourceText": "Worried, she asked about the patient's condition.",
+      "targetText": "Îngrijorată, a întrebat despre starea pacientului."
+    },
+    {
+      "sourceText": "The parents are worried about their children's future.",
+      "targetText": "Părinții sunt îngrijorați în legătură cu viitorul copiilor lor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The prefix 'în-' in Romanian often intensifies meaning, similar to how 'wor-' in English words like 'worry' conveys concern."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'îngrijorat' contains 'grijă', meaning 'care' or 'concern', which helps you remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'îngrijorat' is an adjective expressing feelings, just like 'worried' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone carrying 'grijă' (care) in their heart—that's a good way to connect 'îngrijorat' with being worried."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

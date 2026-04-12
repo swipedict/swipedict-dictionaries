@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-proof",
+  "parent": "ms-ro-dovada-a61cad3d@8752dbf45b1c83857fb403d118fa9596",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "proof",
+    "genus": "masculine",
+    "definition": "A fact or piece of evidence that establishes the truth of a statement or claim.",
+    "pronunciation": "/pruːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"proof\" comes from the Old French 'proef', which itself derives from the Latin 'probare', meaning 'to test' or 'to prove'. The term evolved to signify evidence that confirms the truth of something.",
+        "targetText": "Cuvântul englezesc „proof” provine din franceza veche 'proef', care la rândul său derivă din latină 'probare', însemnând 'a testa' sau 'a demonstra'. Termenul a evoluat pentru a desemna o dovadă care confirmă adevărul unui lucru."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dovadă",
+    "genus": "feminine",
+    "definition": "Un fapt sau argument care confirmă adevărul unei afirmații.",
+    "pronunciation": "/doˈvadə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"dovadă\" comes from a Slavic language, probably from Old Church Slavonic \"dovodu\" (proof, reason), related to Russian \"dovod\".",
+        "targetText": "Cuvântul românesc „dovadă” provine din slavonă, probabil din „dovodu” (dovadă, motiv), înrudit cu rus. „dovod”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "argument",
+      "targetText": "argument"
+    },
+    {
+      "sourceText": "to prove",
+      "targetText": "a demonstra"
+    },
+    {
+      "sourceText": "piece of evidence",
+      "targetText": "probă"
+    },
+    {
+      "sourceText": "fact",
+      "targetText": "fapt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "doubt",
+      "targetText": "îndoială"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The proof of his innocence was provided.",
+      "targetText": "S-a adus dovada nevinovăției sale."
+    },
+    {
+      "sourceText": "Without proof, you cannot claim anything.",
+      "targetText": "Fără dovadă, nu poți susține nimic."
+    },
+    {
+      "sourceText": "The court requires clear proof.",
+      "targetText": "Instanța cere o dovadă clară."
+    },
+    {
+      "sourceText": "His proof convinced everyone present.",
+      "targetText": "Dovada lui a convins pe toți cei prezenți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'proof' sounds like 'prove'—both relate to showing something is true, just like 'dovadă' confirms a claim."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'dovadă' as 'do' + 'vadă' (I see in Romanian) — something you 'do' to 'see' the truth."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'proof' comes from testing or trying something, which helps you remember 'dovadă' is the evidence that confirms a fact."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'dovadă' with 'do' (action) and 'vadă' (see), so it’s like taking action to see the truth, just like proof in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

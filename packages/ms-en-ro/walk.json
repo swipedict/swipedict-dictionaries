@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-walk",
+  "parent": "ms-ro-plimbare-33d6953a@8755cecc303450a4cd72fb511c64ec12",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "walk",
+    "genus": "masculine",
+    "definition": "A leisurely and usually relaxed movement on foot outdoors, often for pleasure or recreation.",
+    "pronunciation": "/wɔːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'walk' comes from Old English 'wealcan', meaning 'to roll or toss', which evolved to mean moving on foot at a moderate pace.",
+        "targetText": "Cuvântul englezesc „walk” provine din engleza veche „wealcan”, care însemna „a rostogoli sau arunca”, evoluând pentru a desemna mersul pe jos într-un ritm moderat."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plimbare",
+    "genus": "feminine",
+    "definition": "O mersă relaxantă în aer liber, făcută de obicei pentru plăcere sau recreere.",
+    "pronunciation": "/plimˈba.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'plimbare' derives from the Latin verb 'plumbare', which comes from 'plumbum' (lead), originally meaning 'to lead or guide', later extended to walking and strolling.",
+        "targetText": "Cuvântul românesc „plimbare” provine din verbul latin 'plumbare', derivat din 'plumbum' (plumb), inițial cu sensul de 'a conduce, a ghida', extins ulterior la mers și plimbare."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "recovery",
+      "targetText": "relaxare"
+    },
+    {
+      "sourceText": "leisure",
+      "targetText": "timp liber"
+    },
+    {
+      "sourceText": "to walk",
+      "targetText": "a se plimba"
+    },
+    {
+      "sourceText": "path",
+      "targetText": "drum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to run",
+      "targetText": "a alerga"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "We are going for a walk in the park today.",
+      "targetText": "Astăzi facem o plimbare în parc."
+    },
+    {
+      "sourceText": "A walk in the fresh air is good for you.",
+      "targetText": "O plimbare în aer liber face bine."
+    },
+    {
+      "sourceText": "After eating, we often go for a walk.",
+      "targetText": "După masă, mergem adesea la plimbare."
+    },
+    {
+      "sourceText": "The walk lasted about an hour.",
+      "targetText": "Plimbarea a durat aproximativ o oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'plimbare' sounds like 'plim-bare' — imagine yourself walking barefoot on a soft path, feeling free and relaxed."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'plimbare' as related to 'limb' — when you walk, you move your limbs, so 'plimbare' is a movement of your limbs."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-are' in 'plimbare' is common in Romanian nouns, similar to English '-ing' in 'walking', helping you link the word to the action of walking."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'plimbare' with 'plump' — imagine gently plumping down on a bench after a pleasant walk, reinforcing the relaxed feeling of a stroll."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

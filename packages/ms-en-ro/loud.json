@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-loud",
+  "parent": "ms-ro-tare-acddc763@ca391e8e023b5586eb38c5e9a156eb26",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "loud",
+    "definition": "Describes a high volume or strong intensity of sound.",
+    "pronunciation": "/laʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"loud\" originates from Old English \"hlūd\", related to the Proto-Germanic word for 'sound' or 'noise'.",
+        "targetText": "Cuvântul englezesc „loud” provine din engleza veche „hlūd”, legat de cuvântul proto-germanic pentru „sunet” sau „zgomot”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tare",
+    "definition": "Care descrie un nivel ridicat de zgomot sau intensitate a sunetului.",
+    "pronunciation": "/ˈtare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective \"tare\" derives from the Latin \"tardus\", which originally meant \"slow\", but in Romanian underwent a semantic shift to mean \"strong, firm\".",
+        "targetText": "Adjectivul românesc „tare” provine din latinul „tardus”, care inițial însemna „lent”, dar în română a suferit o schimbare semantică spre sensul de „puternic, solid”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "noise",
+      "targetText": "zgomot"
+    },
+    {
+      "sourceText": "sound",
+      "targetText": "sunet"
+    },
+    {
+      "sourceText": "quiet",
+      "targetText": "încet"
+    },
+    {
+      "sourceText": "strong",
+      "targetText": "puternic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "quiet",
+      "targetText": "încet"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The music is very loud.",
+      "targetText": "Muzica este foarte tare."
+    },
+    {
+      "sourceText": "Don't speak so loud!",
+      "targetText": "Nu vorbi atât de tare!"
+    },
+    {
+      "sourceText": "A loud bang.",
+      "targetText": "Un zgomot tare."
+    },
+    {
+      "sourceText": "The baby sleeps despite the loud noise.",
+      "targetText": "Bebelușul doarme în ciuda zgomotului tare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'tare' sounds like 'tarry' but means strong or loud—think of a loud tar truck rumbling down the street."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'loud' and Romanian 'tare' both describe strong sound intensity, so linking them helps recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of shouting 'TARE!' loudly to remember it means loud or strong in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'tare' with 'sturdy' or 'tough'—both suggest strength, which connects to the idea of loudness or intensity."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-chair",
+  "parent": "ms-ro-scaun-e0945514@cc550c1974a879e0b3f3e98ebdd7e11d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "chair",
+    "definition": "A piece of furniture designed for one person to sit on, typically having a back and four legs.",
+    "pronunciation": "/tʃɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'chair' comes from the Old French 'chaiere', which derives from the Latin 'cathedra', meaning 'seat' or 'throne'.",
+        "targetText": "Cuvântul englezesc „chair” provine din franceza veche 'chaiere', derivat din latinescul 'cathedra', care înseamnă 'scaun' sau 'tron'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scaun",
+    "genus": "neuter",
+    "definition": "Un obiect de mobilier pentru șezut, de obicei cu spătar și patru picioare.",
+    "pronunciation": "/ˈska.un/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'scaun' derives from the Latin 'scamnum', meaning 'stool' or 'seat', adopted into Romanian from Latin.",
+        "targetText": "Cuvântul românesc „scaun” provine din latinescul 'scamnum', care însemna 'taburet' sau 'scaun', preluat în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "stool",
+      "targetText": "taburet"
+    },
+    {
+      "sourceText": "seat",
+      "targetText": "șezut"
+    },
+    {
+      "sourceText": "sofa",
+      "targetText": "canapea"
+    },
+    {
+      "sourceText": "table",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stand",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Please sit on the chair.",
+      "targetText": "Te rog, așază-te pe scaun."
+    },
+    {
+      "sourceText": "The chair is made of wood.",
+      "targetText": "Scaunul este din lemn."
+    },
+    {
+      "sourceText": "I bought a comfortable chair.",
+      "targetText": "Am cumpărat un scaun confortabil."
+    },
+    {
+      "sourceText": "The chair is next to the table.",
+      "targetText": "Scaunul este lângă masă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'scaun' sounds like 'skown'—think of 'sc' as 'sh' in English, similar to 'sh' in 'shoe'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'scaun' comes from Latin 'scamnum', meaning stool or seat—imagine a small stool to remember it."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'chair' and Romanian 'scaun' both referring to something you sit on, but 'scaun' has a sharper 'sk' sound."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize sitting comfortably on a 'scaun'—it’s your everyday chair in Romanian homes."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

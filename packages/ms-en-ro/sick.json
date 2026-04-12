@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-sick",
+  "parent": "ms-ro-bolnav-19a5cf10@d94148931f4eaaa6baa217d191128483",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sick",
+    "definition": "Not feeling well or affected by illness; unwell.",
+    "pronunciation": "/sɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"sick\" originates from Old English 'sēoc', meaning 'ill' or 'diseased', and traces back to a Germanic root related to weakness or illness.",
+        "targetText": "Cuvântul englezesc „sick” provine din engleza veche 'sēoc', care însemna 'bolnav' sau 'bolnav de boală', având o rădăcină germanică legată de slăbiciune sau boală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bolnav",
+    "definition": "A nu fi sănătos; afectat de o boală.",
+    "pronunciation": "/bolˈnav/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bolnav\" comes from the Slavic 'bolenŭ', meaning 'sick', which was borrowed into Romanian.",
+        "targetText": "Cuvântul românesc „bolnav” provine din slavona 'bolenŭ', care înseamnă 'bolnav', fiind împrumutat în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "healthy",
+      "targetText": "sănătos"
+    },
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "healthy",
+      "targetText": "sănătos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He is sick and stays at home.",
+      "targetText": "El este bolnav și stă acasă."
+    },
+    {
+      "sourceText": "She feels sick and tired.",
+      "targetText": "Ea se simte bolnavă și obosită."
+    },
+    {
+      "sourceText": "The sick man needs rest.",
+      "targetText": "Bărbatul bolnav are nevoie de odihnă."
+    },
+    {
+      "sourceText": "Being sick means the body is not healthy.",
+      "targetText": "A fi bolnav înseamnă că trupul nu este sănătos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'sick' sounds like 'sick' in English, which means unwell—just like the Romanian 'bolnav' means ill."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'sick' and the Romanian 'bolnav' both describing someone who needs care and rest."
+    },
+    {
+      "lang": "en",
+      "text": "The 'b' in 'bolnav' can remind you of 'bed', where sick people often stay."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'sick' and 'bolnav' relate to health, so linking them helps you remember the meaning easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

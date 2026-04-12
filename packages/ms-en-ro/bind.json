@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-bind",
+  "parent": "ms-ro-a-lega-9c4ebf86@4eefb1347f11795d405b9867944afdec",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bind",
+    "definition": "to tie or fasten something securely with a cord, rope, or band",
+    "pronunciation": "/baɪnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"bind\" originates from Old English \"bindan\", meaning to tie or fasten something tightly.",
+        "targetText": "Cuvântul englezesc „bind\" provine din engleza veche „bindan\", care înseamnă a lega sau a fixa ceva strâns."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is often used both in physical contexts, such as tying objects together, and metaphorically, such as forming connections or obligations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lega",
+    "definition": "a aduna sau a fixa ceva cu un band sau o sfoară",
+    "pronunciation": "/a leˈɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a lega\" comes from the Latin \"ligare\", meaning to connect or fasten. It has produced many related terms in Romance languages.",
+        "targetText": "Verbul românesc „a lega“ provine din latină, din „ligare“, care înseamnă „a lega“ sau „a fixa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is frequently used in various contexts, from physical bindings to metaphorical bonds between people."
+  },
+  "senses": [
+    {
+      "gloss": "bind (fasten)",
+      "explanation": {
+        "sourceText": "Can be used to create a physical connection.",
+        "targetText": "Poate fi folosit pentru a crea o legătură fizică."
+      },
+      "examples": [
+        {
+          "sourceText": "I bind the gift tightly.",
+          "targetText": "Îmi leg cadoul bine."
+        }
+      ]
+    },
+    {
+      "gloss": "bind (connect)",
+      "explanation": {
+        "sourceText": "Means to link things or people together.",
+        "targetText": "Înseamnă a conecta lucruri sau oameni între ei."
+      },
+      "examples": [
+        {
+          "sourceText": "We bind ourselves in the community.",
+          "targetText": "Ne legăm în comunitate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "band",
+      "targetText": "bandă"
+    },
+    {
+      "sourceText": "collar",
+      "targetText": "zgardă"
+    },
+    {
+      "sourceText": "knot",
+      "targetText": "nod"
+    },
+    {
+      "sourceText": "cord",
+      "targetText": "sfoară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loosen",
+      "targetText": "a desfășura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I bind the cord tightly.",
+      "targetText": "Îmi leg sfoara bine."
+    },
+    {
+      "sourceText": "Do you bind the package for me?",
+      "targetText": "Legești tu pachetul pentru mine?"
+    },
+    {
+      "sourceText": "He binds the books with a cord.",
+      "targetText": "El leagă cărțile cu o sfoară."
+    },
+    {
+      "sourceText": "We bind ourselves to the agreement.",
+      "targetText": "Ne legăm de acord."
+    },
+    {
+      "sourceText": "Do you bind the materials together?",
+      "targetText": "Legeați voi materialele împreună?"
+    },
+    {
+      "sourceText": "They bind a close friendship.",
+      "targetText": "Ei leagă o prietenie strânsă."
+    },
+    {
+      "sourceText": "I have successfully bound the project.",
+      "targetText": "Am legat proiectul cu succes."
+    },
+    {
+      "sourceText": "He bound the hands together.",
+      "targetText": "El lega mâinile împreună."
+    },
+    {
+      "sourceText": "I will bind the gift.",
+      "targetText": "Voi lega cadoul."
+    },
+    {
+      "sourceText": "Bind the rope!",
+      "targetText": "Legați frânghia!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"bind\" sounds like \"bind\" in \"bind a book\"—think of tying pages together, just like \"a lega\" means to tie or fasten."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"a lega\" comes from Latin \"ligare\", similar to English \"ligament\" which connects bones—both involve joining or binding."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"bind and tie\"—both words start with 'b' and relate to fastening, helping you recall \"a lega\" means to tie."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine binding a friendship or a promise—\"a lega\" is used both physically and metaphorically, just like the English \"bind\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

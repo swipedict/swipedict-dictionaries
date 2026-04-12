@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-windshield-wiper",
+  "parent": "ms-ro-stergator-de-parbriz-2d314c3f@7f564ee0fd7103b0ce8f91e9d9aae489",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "windshield wiper",
+    "definition": "A mechanical device attached to a vehicle that clears rain, snow, or dirt from the windshield to improve visibility.",
+    "pronunciation": "/ˈwɪndˌʃiːld ˈwaɪpər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'windshield wiper' combines 'windshield', referring to the front window of a vehicle that protects from wind and weather, and 'wiper', meaning something that wipes or cleans. 'Windshield' is a compound of 'wind' and 'shield', indicating protection against wind.",
+        "targetText": "Termenul englezesc „windshield wiper” combină „windshield”, care se referă la geamul frontal al unui vehicul ce protejează de vânt și intemperii, și „wiper”, care înseamnă ceva care șterge sau curăță. „Windshield” este un compus din „wind” și „shield”, indicând protecția împotriva vântului."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "Compound word commonly used in automotive contexts.",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ștergător de parbriz",
+    "genus": "neuter",
+    "definition": "Un dispozitiv mecanic montat pe mașină, folosit pentru a curăța parbrizul de ploaie, zăpadă sau murdărie.",
+    "pronunciation": "/ʃterɡaˈto̯r de parˈbriz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „ștergător de parbriz“ is a descriptive compound: „ștergător“ comes from the verb „a șterge“ (to wipe, to clean) with a suffix indicating a device, and „parbriz“ is a loanword from the French „pare-brise“, composed of „parer“ (to protect) and „brise“ (breeze).",
+        "targetText": "Expresia românească „ștergător de parbriz” este o compunere descriptivă: „ștergător” derivă din verbul „a șterge” (a șterge, a curăța) cu sufixul care indică un dispozitiv, iar „parbriz” este un împrumut din franceza „pare-brise”, format din „parer” (a apăra) și „brise” (adieri)."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Kompositum, gebräuchlich im Automobilbereich."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "window pane",
+      "targetText": "geam"
+    },
+    {
+      "sourceText": "windshield",
+      "targetText": "parbriz"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The windshield wiper does not work properly in heavy rain.",
+      "targetText": "Ștergătorul de parbriz nu funcționează bine la ploaie puternică."
+    },
+    {
+      "sourceText": "Please turn on the windshield wipers, it is raining outside.",
+      "targetText": "Te rog, pornește ștergătorul de parbriz, plouă afară."
+    },
+    {
+      "sourceText": "The windshield wipers need to be checked regularly.",
+      "targetText": "Ștergătoarele de parbriz trebuie verificate regulat."
+    },
+    {
+      "sourceText": "Good windshield wipers are especially important in winter.",
+      "targetText": "Iarna, ștergătoarele de parbriz bune sunt deosebit de importante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'windshield' as a shield against the wind, just like a shield protects you in battle. The 'wiper' wipes away rain or snow from this shield."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ștergător' comes from 'a șterge' meaning 'to wipe'. Imagine wiping a window clean to see clearly."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the compound 'ștergător de parbriz' literally means 'wiper of windshield', just like in English."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'parbriz' is borrowed from French 'pare-brise' meaning 'to protect from breeze'. Think of it as the glass that protects you from wind and rain."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

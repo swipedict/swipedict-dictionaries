@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-thirsty",
+  "parent": "ms-ro-insetat-36f1de7f@6e1a36b7d8bedb89ef6834a6c2d99633",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "thirsty",
+    "definition": "Having the need or desire to drink fluids.",
+    "pronunciation": "/ˈθɜːrsti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"thirsty\" derives from Old English \"þurstig\", related to the noun \"thirst\", which traces back to the Proto-Indo-European root *ters- meaning 'dry'.",
+        "targetText": "Cuvântul englezesc „thirsty” provine din engleza veche „þurstig”, legat de substantivul „thirst” și rădăcina proto-indo-europeană *ters- care înseamnă „uscat”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "însetat",
+    "definition": "Care are nevoie să bea apă sau alt lichid.",
+    "pronunciation": "/ɨn.seˈtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „însetat” is derived from the verb „a înseta” (to become thirsty), which is formed from the prefix „în-” and the noun „sete” (from Latin „sitis”).",
+        "targetText": "Cuvântul românesc „însetat” este derivat intern din verbul „a înseta” (a simți sete), format din prefixul „în-” și substantivul „sete” (din latină „sitis”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "thirst",
+      "targetText": "sete"
+    },
+    {
+      "sourceText": "to be thirsty",
+      "targetText": "a fi însetat"
+    },
+    {
+      "sourceText": "to drink",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "full",
+      "targetText": "sătul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am thirsty after sports.",
+      "targetText": "Sunt însetat după sport."
+    },
+    {
+      "sourceText": "The thirsty child drinks water.",
+      "targetText": "Copilul însetat bea apă."
+    },
+    {
+      "sourceText": "He feels thirsty and tired.",
+      "targetText": "Se simte însetat și obosit."
+    },
+    {
+      "sourceText": "After the hike, I was very thirsty.",
+      "targetText": "După drumeție am fost foarte însetat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'însetat' by thinking of 'in' + 'setat'—like being 'in' a state of 'set' (ready) but actually needing a drink, so thirsty."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'thirsty' comes from a root meaning 'dry', which helps link it to the Romanian 'însetat' meaning needing to drink."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'însetat' as 'in' + 'set' (like 'set' to drink), so you’re in the state of needing a drink—thirsty."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'însetat', associate it with 'set' in English meaning fixed or ready, but here it means you’re ready for a drink because you’re thirsty."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

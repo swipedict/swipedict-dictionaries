@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-fulfill",
+  "parent": "ms-ro-a-indeplini-a5e12225@1a4812e2f9ecee972ef2f034a5f10926",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fulfill",
+    "definition": "to successfully complete a task or meet a requirement",
+    "pronunciation": "/fʊlˈfɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the combination of \"full\" and \"fill.\" The word implies satisfying a need or carrying out a duty or task completely.",
+        "targetText": "Cuvântul englezesc „fulfill” provine din combinarea cuvintelor „full” și „fill”. Acesta sugerează satisfacerea unei nevoi sau îndeplinirea completă a unei datorii sau sarcini."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts where requirements or expectations are met. Example: \"to fulfill the conditions.\""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îndeplini",
+    "definition": "a executa cu succes o sarcină sau o cerință",
+    "pronunciation": "/a ɨndɛlˈini/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a îndeplini” is formed from the prefix „în-” (from Latin „in-”) and „deplini” (from Latin „deplenus”), meaning \"to make complete\" or \"to fulfill.\" It ultimately has Latin origins.",
+        "targetText": "Verbul românesc „a îndeplini” este format din prefixul „în-” (din latină „in-”) și „deplini” (din latină „deplenus”), având sensul de „a face deplin”, „a împlini” sau „a realiza pe deplin”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb regulat de conjugarea a 4-a (-i). Este folosit pentru a descrie îndeplinirea condițiilor sau cerințelor."
+  },
+  "senses": [
+    {
+      "gloss": "successfully carry out a task",
+      "explanation": {
+        "sourceText": "Means to successfully complete a task.",
+        "targetText": "A realiza cu succes o sarcină."
+      },
+      "examples": [
+        {
+          "sourceText": "I have to fulfill my task.",
+          "targetText": "Trebuie să îndeplinesc sarcina."
+        }
+      ]
+    },
+    {
+      "gloss": "meet conditions",
+      "explanation": {
+        "sourceText": "Can also be used in contexts where certain conditions are successfully met.",
+        "targetText": "Se poate folosi când anumite condiții sunt îndeplinite cu succes."
+      },
+      "examples": [
+        {
+          "sourceText": "The quality requirements were fulfilled.",
+          "targetText": "Cerințele de calitate au fost îndeplinite."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "requirement",
+      "targetText": "cerință"
+    },
+    {
+      "sourceText": "task",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "obligation",
+      "targetText": "obligație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "not fulfill",
+      "targetText": "să nu îndeplinească"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I fulfill the requirements.",
+      "targetText": "Eu îndeplinesc cerințele."
+    },
+    {
+      "sourceText": "I have already fulfilled the form.",
+      "targetText": "Am îndeplinit deja formularul."
+    },
+    {
+      "sourceText": "I will fulfill the task tomorrow.",
+      "targetText": "Voi îndeplini sarcina mâine."
+    },
+    {
+      "sourceText": "Fulfill your duties!",
+      "targetText": "Îndeplinește-ți obligațiile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fulfill' by thinking of filling something completely, like filling a glass to the brim—just like completing a task fully."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'ful-' in 'fulfill' relates to 'full,' helping you recall that it means to complete or satisfy something entirely."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'fulfill' with the Romanian 'a îndeplini' by imagining finishing a checklist—each item fully done."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'fulfill' as 'full fill'—to fill up a requirement or duty until it’s completely done."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

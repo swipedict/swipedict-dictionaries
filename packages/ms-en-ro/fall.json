@@ -1,0 +1,181 @@
+{
+  "id": "ms-en-ro-fall",
+  "parent": "ms-ro-a-cadea-16c792ba@0c4465a70f85af2c883429a5c48ba408",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fall",
+    "definition": "to move downward from a higher position to a lower one, often by losing balance or support",
+    "pronunciation": "/fɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"fall\" originates from Old English \"feallan\", meaning to drop or descend. Its meaning has remained consistent throughout the centuries.",
+        "targetText": "Cuvântul englezesc „fall“ provine din engleza veche „feallan“, care însemna a cădea sau a coborî. Sensul său a rămas constant de-a lungul secolelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is used in many contexts, both physical and metaphorical, e.g., \"to fall behind in a test.\""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cădea",
+    "definition": "a veni dintr-o poziție mai înaltă; a ajunge într-o poziție inferioară",
+    "pronunciation": "/a kæˈdea/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a cădea\" derives from Latin \"cadere\", meaning \"to fall.\" It is used both physically and metaphorically.",
+        "targetText": "Verbul românesc „a cădea“ derivă din latină, din „cadere“, care înseamnă „a cădea“, folosit atât fizic, cât și metaforic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "There are many common expressions with \"a cădea\", e.g., \"a cădea în capcană\" (to fall into a trap)."
+  },
+  "senses": [
+    {
+      "gloss": "fall (to move downward physically)",
+      "explanation": {
+        "sourceText": "Used for the physical act of dropping or descending.",
+        "targetText": "Folosit pentru acțiunea fizică de a cădea."
+      },
+      "examples": [
+        {
+          "sourceText": "The leaves fall in autumn.",
+          "targetText": "Frunzele cad toamna."
+        }
+      ]
+    },
+    {
+      "gloss": "fail an exam",
+      "explanation": {
+        "sourceText": "Metaphor for failing a test or situation.",
+        "targetText": "Metaforă pentru eșecul la un examen sau într-o situație."
+      },
+      "examples": [
+        {
+          "sourceText": "He failed the exam.",
+          "targetText": "El a căzut la examen."
+        }
+      ]
+    },
+    {
+      "gloss": "fall in love (with someone)",
+      "explanation": {
+        "sourceText": "Metaphor for becoming romantically attracted to someone.",
+        "targetText": "Metaforă pentru a te îndrăgosti de cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "I fell in love with you.",
+          "targetText": "Am căzut în dragoste cu tine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "leaf",
+      "targetText": "frunză"
+    },
+    {
+      "sourceText": "case",
+      "targetText": "caz"
+    },
+    {
+      "sourceText": "object",
+      "targetText": "obiect"
+    },
+    {
+      "sourceText": "tear",
+      "targetText": "lacrimă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rise",
+      "targetText": "a urca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I often fall down.",
+      "targetText": "Eu cad des."
+    },
+    {
+      "sourceText": "Are you falling today?",
+      "targetText": "Cazi azi?"
+    },
+    {
+      "sourceText": "He falls from the tree.",
+      "targetText": "El cade din copac."
+    },
+    {
+      "sourceText": "We fall into the pit.",
+      "targetText": "Noi cădem în groapă."
+    },
+    {
+      "sourceText": "Do you fail the exam?",
+      "targetText": "Cadeți la examen?"
+    },
+    {
+      "sourceText": "They don't fall for the trick.",
+      "targetText": "Ei nu cad în capcană."
+    },
+    {
+      "sourceText": "I have fallen.",
+      "targetText": "Am căzut."
+    },
+    {
+      "sourceText": "He fell off the chair.",
+      "targetText": "El cădea de pe scaun."
+    },
+    {
+      "sourceText": "I will fall.",
+      "targetText": "Voi cădea."
+    },
+    {
+      "sourceText": "I would fall if not.",
+      "targetText": "Aș cădea, dacă nu."
+    },
+    {
+      "sourceText": "Don't fall!",
+      "targetText": "Nu cădea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"fall\" and the Romanian \"a cădea\" are cognates. Imagine leaves falling in autumn to remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"a cădea\" is used in many expressions, like \"a cădea în capcană\" (to fall into a trap). Learning these phrases helps you sound natural."
+    },
+    {
+      "lang": "en",
+      "text": "Practice conditional forms like \"I would fall\" (Eu aș cădea) and \"He would fall\" (El ar cădea) to master grammar."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"fall\" as the season 'fall' (autumn), which helps link the concept of dropping or descending."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

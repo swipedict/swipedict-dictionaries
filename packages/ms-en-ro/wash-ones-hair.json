@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-wash-ones-hair",
+  "parent": "ms-ro-a-se-spala-pe-cap-35685975@8fc83da5852433ebcc3dda35f994ba5f",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "wash one's hair",
+    "definition": "To clean the hair using water and shampoo.",
+    "pronunciation": "/wɒʃ wʌnz hɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase includes the reflexive verb 'wash', which comes from Old English 'wascan', and the noun 'hair', derived from the Germanic root for hair.",
+        "targetText": "Expresia este formată din verbul reflexiv „a spăla”, derivat din latină vulgară 'lavare', și substantivul „păr”, moștenit din latină clasică 'capillus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Reflexive verb phrase indicating the action of cleaning a specific body part."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se spăla pe cap",
+    "definition": "A curăța părul cu apă și șampon.",
+    "pronunciation": "/a se spəˈla pe kap/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a spăla' comes from the Latin 'spalare', meaning 'to wash'. The preposition 'pe' is used to mark the body part, here 'cap' meaning head.",
+        "targetText": "Verbul românesc „a spăla” provine din latinescul 'spalare', care înseamnă 'a spăla'. Prepoziția 'pe' marchează partea corpului, aici 'cap' pentru cap."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb reflexiv cu prepoziție pentru a indica partea corpului."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hair",
+      "targetText": "păr"
+    },
+    {
+      "sourceText": "body care",
+      "targetText": "igienă corporală"
+    },
+    {
+      "sourceText": "shampoo",
+      "targetText": "șampon"
+    },
+    {
+      "sourceText": "to wash",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I wash my hair every morning.",
+      "targetText": "Mă spăl pe cap în fiecare dimineață."
+    },
+    {
+      "sourceText": "She washes her hair with a new shampoo.",
+      "targetText": "Ea se spală pe cap cu un șampon nou."
+    },
+    {
+      "sourceText": "After sports, you should wash your hair.",
+      "targetText": "După sport, ar trebui să te speli pe cap."
+    },
+    {
+      "sourceText": "Can you wash your hair before we leave?",
+      "targetText": "Poți să te speli pe cap înainte să plecăm?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a spăla' sounds like 'to spill', but it means 'to wash'—imagine spilling water to clean something."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'a se spăla' is reflexive, similar to 'to wash oneself' in English, so the 'se' shows the action is done to oneself."
+    },
+    {
+      "lang": "en",
+      "text": "The preposition 'pe' is used to specify the body part in Romanian, like 'pe cap' means 'on the head'—think of 'pe' as 'on' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Think of washing your hair as 'spăla pe cap'—'spăla' sounds like 'spa-la', like a spa treatment for your head!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

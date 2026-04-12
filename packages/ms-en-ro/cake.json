@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-cake",
+  "parent": "ms-ro-tort-ccf3ca9b@247b30fa1070a6c44b1ca8e7baf70e10",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cake",
+    "genus": "masculine",
+    "definition": "a sweet baked dessert usually made from flour, sugar, eggs, and often decorated or filled with fruit, chocolate, or cream",
+    "pronunciation": "/keɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cake\" originates from Old Norse \"kaka\", referring to a baked sweet bread or pastry.",
+        "targetText": "Cuvântul englezesc „cake” provine din vechiul norvegian „kaka”, referindu-se la un produs de patiserie dulce copt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Often served at celebrations, birthdays, and special occasions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tort",
+    "genus": "neuter",
+    "definition": "o mâncare dulce, care este preparată din aluat și de obicei cu zahăr, fructe sau ciocolată",
+    "pronunciation": "/tort/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the French word \"tarte\", it refers to a sweet baked good for special occasions.",
+        "targetText": "Vom französischen „tarte“ abgeleitet, bezeichnet es ein süßes Backwerk für besondere Anlässe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im Rumänischen wird „tort“ oft mit Geburtstagsfeiern assoziiert."
+  },
+  "senses": [
+    {
+      "gloss": "layer cake",
+      "explanation": {
+        "sourceText": "A cake made up of several layers.",
+        "targetText": "Un tort format din mai multe straturi."
+      },
+      "examples": [
+        {
+          "sourceText": "I love layer cakes.",
+          "targetText": "Îmi place tortul cu straturi."
+        }
+      ]
+    },
+    {
+      "gloss": "slice of cake",
+      "explanation": {
+        "sourceText": "A piece of cake or tart.",
+        "targetText": "O felie dintr-un tort."
+      },
+      "examples": [
+        {
+          "sourceText": "I’ll have a slice of cake.",
+          "targetText": "Ia o felie de tort."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "baking",
+      "targetText": "a coace"
+    },
+    {
+      "sourceText": "fruit",
+      "targetText": "fructe"
+    },
+    {
+      "sourceText": "chocolate",
+      "targetText": "ciocolată"
+    },
+    {
+      "sourceText": "sugar",
+      "targetText": "zahăr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "salt",
+      "targetText": "sare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The cake looks delicious.",
+      "targetText": "Tortul arată delicios."
+    },
+    {
+      "sourceText": "Did you bake the cake?",
+      "targetText": "Ai făcut tortul?"
+    },
+    {
+      "sourceText": "We eat cake at the party.",
+      "targetText": "Mâncăm tort la petrecere."
+    },
+    {
+      "sourceText": "The cake tastes like chocolate.",
+      "targetText": "Tortul are gust de ciocolată."
+    },
+    {
+      "sourceText": "I have a piece of cake for you.",
+      "targetText": "Am făcut o felie de tort pentru tine."
+    },
+    {
+      "sourceText": "The cake is freshly baked.",
+      "targetText": "Tortul este proaspăt copt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"tort\" by thinking of the English word \"torte,\" which is a type of rich cake, making it easy to connect the words."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying \"tort\" at a birthday party when you see a fancy cake—this links the word to celebrations."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"tort\" sounds like \"torte,\" a cake you might find in European bakeries, helping you recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"tort\" with the English word \"tart\" since both come from French and relate to sweet baked goods."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "ms-en-ro-break-in",
+  "parent": "ms-ro-a-sparge-01319d9f@5728785e341a5b0f9e7cfeeb1c2f3da9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "break in",
+    "definition": "to forcibly enter a building or room, usually to steal something",
+    "pronunciation": "/ˈbreɪk ɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrase \"break in\" combines \"break,\" meaning to separate into pieces or force open, with the preposition \"in,\" indicating entry. \"Break\" originates from Old English \"brecan,\" meaning to shatter or smash.",
+        "targetText": "Cuvântul englezesc „break in” combină „break”, care înseamnă a sparge sau a forța deschiderea, cu prepoziția „in”, care indică intrarea. „Break” provine din engleza veche „brecan”, care înseamnă a zdrobi sau a sparge."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Used to describe the illegal act of forcibly entering a space or building. Commonly used in criminal or security contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sparge",
+    "definition": "a pătrunde cu violență într-o clădire sau încăpere pentru a fura ceva",
+    "pronunciation": "/a ˈspar.dʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a sparge\" derives from the Latin \"spargere,\" meaning to scatter or break, and is used to describe forced entry.",
+        "targetText": "Verbul românesc „a sparge” provine din latină, din „spargere”, care înseamnă a sparge sau a rupe, folosit pentru a descrie intrarea forțată."
+      },
+      "source": "AI, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Often used in criminal contexts to describe unauthorized entry."
+  },
+  "senses": [
+    {
+      "gloss": "burglary",
+      "explanation": {
+        "sourceText": "\"Burglary\" refers to the unauthorized, forceful entry with intent to steal.",
+        "targetText": "Termenul desemnează pătrunderea ilegală și violentă cu intenția de a fura."
+      },
+      "examples": [
+        {
+          "sourceText": "The burglary at the bank was spectacular.",
+          "targetText": "Spargerea băncii a fost spectaculoasă."
+        }
+      ]
+    },
+    {
+      "gloss": "to forcibly enter",
+      "explanation": {
+        "sourceText": "Describes the act of forcefully entering a place.",
+        "targetText": "Descrie pătrunderea forțată într-un loc."
+      },
+      "examples": [
+        {
+          "sourceText": "They broke into the hotel room.",
+          "targetText": "Au spart în camera de hotel."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "theft",
+      "targetText": "furt"
+    },
+    {
+      "sourceText": "burglar",
+      "targetText": "spargător"
+    },
+    {
+      "sourceText": "police",
+      "targetText": "poliție"
+    },
+    {
+      "sourceText": "security",
+      "targetText": "securitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "break out",
+      "targetText": "a evada"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I break into the house.",
+      "targetText": "Eu sparg în casă."
+    },
+    {
+      "sourceText": "Do you break into the apartment?",
+      "targetText": "Spargi în apartament?"
+    },
+    {
+      "sourceText": "The thief breaks into the shop.",
+      "targetText": "Hoțul sparge în magazin."
+    },
+    {
+      "sourceText": "We break into the car.",
+      "targetText": "Noi spargem în mașină."
+    },
+    {
+      "sourceText": "Do you break into the office?",
+      "targetText": "Spargeți în birou?"
+    },
+    {
+      "sourceText": "They break into the garage.",
+      "targetText": "Ei sparg în garaj."
+    },
+    {
+      "sourceText": "I have broken into the house.",
+      "targetText": "Am spart în casă."
+    },
+    {
+      "sourceText": "They have broken into the apartment.",
+      "targetText": "Au spart în apartament."
+    },
+    {
+      "sourceText": "He broke into the car.",
+      "targetText": "El sparge în mașină."
+    },
+    {
+      "sourceText": "I will break into the office.",
+      "targetText": "Voi sparge în birou."
+    },
+    {
+      "sourceText": "I would break in if I had access.",
+      "targetText": "Aș sparge, dacă aș avea acces."
+    },
+    {
+      "sourceText": "Break in!",
+      "targetText": "Sparge!"
+    },
+    {
+      "sourceText": "The broken valuable item is missing.",
+      "targetText": "Obiectul spart lipsește."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"break in\" as forcibly entering a place, like breaking a window to get inside."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"sparge\" sounds like \"spark\" but means to break or smash, so think of a spark breaking glass."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"break in\" as breaking into a story or conversation, just like breaking into a building."
+    },
+    {
+      "lang": "en",
+      "text": "To remember \"a sparge,\" imagine a burglar 'sparking' a break-in by smashing a lock."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

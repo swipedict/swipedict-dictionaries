@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-today",
+  "parent": "ms-ro-astazi-cbbd2651@186492ed92c66b263e170ab9c610278a",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "today",
+    "definition": "The current day, the day on which one is present.",
+    "pronunciation": "/təˈdeɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"today\" comes from the Old English phrase 'to dæg', meaning 'on (the) day', referring to the present day.",
+        "targetText": "Cuvântul englezesc „today” provine din expresia engleză veche 'to dæg', care înseamnă 'în ziua (aceasta)', referindu-se la ziua prezentă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "astăzi",
+    "definition": "Ziua curentă, ziua în care ne aflăm.",
+    "pronunciation": "/əsˈtɨd͡zi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „astăzi” derives from the Latin expression 'ad istam diem', meaning 'on this day'.",
+        "targetText": "Cuvântul românesc „astăzi” provine din expresia latină 'ad istam diem', care înseamnă 'în această zi'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "yesterday",
+      "targetText": "ieri"
+    },
+    {
+      "sourceText": "now",
+      "targetText": "acum"
+    },
+    {
+      "sourceText": "tomorrow",
+      "targetText": "mâine"
+    },
+    {
+      "sourceText": "day",
+      "targetText": "zi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "yesterday",
+      "targetText": "ieri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Today is a beautiful day.",
+      "targetText": "Astăzi este o zi frumoasă."
+    },
+    {
+      "sourceText": "I have a lot to do today.",
+      "targetText": "Am multe de făcut astăzi."
+    },
+    {
+      "sourceText": "It is raining today.",
+      "targetText": "Astăzi plouă."
+    },
+    {
+      "sourceText": "Today I am going to the cinema.",
+      "targetText": "Astăzi merg la cinema."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'astăzi' as 'a stay day'—imagine staying home all day today."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-zi' sounds like 'zi', which means 'day' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'astăzi' comes from the Latin phrase 'ad istam diem', meaning 'on this day'."
+    },
+    {
+      "lang": "en",
+      "text": "Link English 'today' and Romanian 'astăzi' as both refer to the current day."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

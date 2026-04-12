@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-hospital",
+  "parent": "ms-ro-spital-e8923193@a3412c8aaaab40ba6e9f05f51805c752",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hospital",
+    "definition": "A building where sick or injured people receive medical care and treatment.",
+    "pronunciation": "/ˈhɒspɪtl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'hospital' originates from the Old French 'hospital', which itself derives from the Latin 'hospitalis', meaning 'pertaining to guests or hospitality'.",
+        "targetText": "Cuvântul englezesc „hospital” provine din francezul vechi „hospital”, care la rândul său derivă din latinul „hospitalis”, însemnând „aparținând oaspeților sau ospitalității”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "spital",
+    "genus": "neuter",
+    "definition": "O clădire în care oamenii bolnavi primesc îngrijiri medicale.",
+    "pronunciation": "/spiˈtal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'spital' was borrowed from the French 'hôpital', which in turn comes from the Latin 'hospitalis' meaning 'pertaining to guests'.",
+        "targetText": "Cuvântul românesc „spital” a fost împrumutat din franceza „hôpital”, care provine din latinul „hospitalis” („aparținând oaspeților”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "nursing",
+      "targetText": "îngrijire medicală"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "emergency room",
+      "targetText": "urgență"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The hospital is open around the clock.",
+      "targetText": "Spitalul este deschis non-stop."
+    },
+    {
+      "sourceText": "She works as a doctor in the hospital.",
+      "targetText": "Ea lucrează ca doctoriță în spital."
+    },
+    {
+      "sourceText": "Patients are treated in the hospital.",
+      "targetText": "În spital se tratează pacienții."
+    },
+    {
+      "sourceText": "The hospital has modern equipment.",
+      "targetText": "Spitalul are echipamente moderne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'hospital' shares roots with the Romanian 'spital', both coming from Latin 'hospitalis', meaning a place for guests—think of patients as guests needing care."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'hospital' by associating it with 'hospitality'—both come from the same Latin root, emphasizing care and shelter."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'spital' sounds very similar to 'hospital', making it easy to remember as a cognate."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a hospital as a welcoming place where guests (patients) receive help, linking the word to its Latin origin 'hospitalis'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

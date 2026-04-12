@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-hairdresser",
+  "parent": "ms-ro-frizer-55b424b6@f88ed8ca87e0c76607d124ca9c0ffc3d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hairdresser",
+    "genus": "masculine",
+    "definition": "A person who cuts and styles hair.",
+    "pronunciation": "/ˈhɛərˌdrɛsər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hairdresser\" comes from the combination of \"hair\" and \"dresser\", where \"dresser\" refers to someone who arranges or styles. The term developed in English to describe a person who cuts and styles hair.",
+        "targetText": "Cuvântul englezesc „hairdresser” provine din combinarea cuvintelor „hair” și „dresser”, unde „dresser” se referă la cineva care aranjează sau coafează. Termenul s-a dezvoltat în limba engleză pentru a desemna o persoană care taie și coafează părul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "frizer",
+    "genus": "masculine",
+    "definition": "Persoană care taie și coafează părul.",
+    "pronunciation": "/friˈzer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"frizer\" comes from the French 'friseur', which in turn derives from the verb 'friser' (to curl).",
+        "targetText": "Cuvântul românesc „frizer” provine din franceza 'friseur', care la rândul său derivă din verbul 'friser' (a ondula)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hairstyle",
+      "targetText": "coafură"
+    },
+    {
+      "sourceText": "to cut hair",
+      "targetText": "a tăia părul"
+    },
+    {
+      "sourceText": "salon",
+      "targetText": "salon"
+    },
+    {
+      "sourceText": "stylist",
+      "targetText": "stilist"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The hairdresser cuts my hair.",
+      "targetText": "Frizerul îmi taie părul."
+    },
+    {
+      "sourceText": "I have an appointment with the hairdresser tomorrow.",
+      "targetText": "Am mâine o programare la frizer."
+    },
+    {
+      "sourceText": "The hairdresser gave me a new hairstyle.",
+      "targetText": "Frizerul mi-a făcut o coafură nouă."
+    },
+    {
+      "sourceText": "Hairdressers often work in salons.",
+      "targetText": "Frizerii lucrează adesea în saloane."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'frizer' sounds very similar to the English 'frizz', which relates to hair texture—this can help you remember it."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a hairdresser as someone who 'dresses' your hair, just like you dress yourself."
+    },
+    {
+      "lang": "en",
+      "text": "Both English 'hairdresser' and Romanian 'frizer' come from French roots, so they share a cultural connection."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the hairdresser curling or styling your hair to link the word 'frizer' with 'friser' (to curl)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

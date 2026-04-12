@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-order",
+  "parent": "ms-ro-comanda-e6790e20@8ac88f73c019f34a1b159e0cdbd60669",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:italian",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "order",
+    "genus": "feminine",
+    "definition": "The act of requesting or arranging to receive goods or services.",
+    "pronunciation": "/ˈɔːrdər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"order\" comes from the Old French \"ordre\", which in turn derives from the Latin \"ordo\", meaning arrangement or command.",
+        "targetText": "Cuvântul englezesc „order” provine din franceza veche „ordre”, care la rândul său derivă din latină „ordo”, însemnând aranjament sau comandă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "comandă",
+    "genus": "feminine",
+    "definition": "Cererea sau solicitarea de bunuri sau servicii.",
+    "pronunciation": "/koˈmandə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „comandă“ was borrowed from the Italian „comanda“, which itself comes from the Latin „commandare“ meaning \"to entrust, to order.\"",
+        "targetText": "Cuvântul românesc „comandă” este împrumutat din italianul „comanda”, care provine din latină „commandare”, cu sensul de „a încredința, a porunci”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to order",
+      "targetText": "a comanda"
+    },
+    {
+      "sourceText": "customer",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "delivery",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "invoice",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I placed an order in the online shop.",
+      "targetText": "Am făcut o comandă în magazinul online."
+    },
+    {
+      "sourceText": "The order will be delivered tomorrow.",
+      "targetText": "Comanda va fi livrată mâine."
+    },
+    {
+      "sourceText": "Please check your order before submitting it.",
+      "targetText": "Vă rugăm să verificați comanda înainte de a o trimite."
+    },
+    {
+      "sourceText": "The order has not arrived yet.",
+      "targetText": "Comanda încă nu a sosit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word „comandă” sounds like the English word \"command,\" which helps you recall its meaning related to ordering or requesting."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"comandă\" as similar to \"command\" but used in everyday life for placing orders, not just giving commands."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ă' is typical for feminine nouns in Romanian, so you can associate it with feminine words like \"comandă.\""
+    },
+    {
+      "lang": "en",
+      "text": "Link \"comandă\" to the Italian \"comandare\" to remember its origin and meaning related to entrusting or ordering."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

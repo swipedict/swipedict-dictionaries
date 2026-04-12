@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-surgeon",
+  "parent": "ms-ro-chirurg-0a643c2e@1e98a8fb84132fcaad9c48ad961761ed",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "surgeon",
+    "genus": "masculine",
+    "definition": "A medical doctor who performs surgical operations.",
+    "pronunciation": "/ˈsɜːrdʒən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'surgeon' originates from the Old French 'cirurgien', which comes from the Latin 'chirurgus', derived from the Greek 'cheirourgos', meaning 'hand worker'.",
+        "targetText": "Cuvântul englezesc „surgeon” provine din francezul vechi „cirurgien”, care vine din latină „chirurgus”, derivat din grecescul „cheirourgos”, însemnând „lucrător cu mâinile”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "chirurg",
+    "genus": "masculine",
+    "definition": "Un medic care efectuează intervenții chirurgicale.",
+    "pronunciation": "/kiˈrurg/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'chirurg' is a loanword from the French 'chirurgien', which comes through Latin 'chirurgus' from the Greek 'cheirourgos'.",
+        "targetText": "Cuvântul românesc „chirurg” este un împrumut din franceza „chirurgien”, provenit prin latină „chirurgus” din grecescul „cheirourgos”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "operation",
+      "targetText": "operație"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The surgeon performs the operation.",
+      "targetText": "Chirurgul efectuează operația."
+    },
+    {
+      "sourceText": "A surgeon must work very precisely.",
+      "targetText": "Un chirurg trebuie să lucreze foarte precis."
+    },
+    {
+      "sourceText": "The surgeon has a lot of experience in the hospital.",
+      "targetText": "Chirurgul are multă experiență în spital."
+    },
+    {
+      "sourceText": "The female surgeon specializes in heart surgeries.",
+      "targetText": "Chirurga este specializată în operații pe inimă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'surgeon' by thinking of 'surgery'—both share the root related to working with hands."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'surgeon' sounds like 'search on'—imagine a surgeon carefully searching on the body during an operation."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'chirurg' is very close to 'surgeon', making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a surgeon as a skilled craftsman who uses hands precisely, just like the word's Greek origin meaning 'hand worker'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

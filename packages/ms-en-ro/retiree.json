@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-retiree",
+  "parent": "ms-ro-pensionar-af5d6fc6@c0e328e8948eb53dc64f2919b69d36c6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "retiree",
+    "genus": "masculine",
+    "definition": "A person who has stopped working after reaching retirement age or due to health reasons and receives a pension.",
+    "pronunciation": "/rɪˈtaɪəri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'retiree' comes from the verb 'retire', which originates from the French 'retirer', meaning 'to withdraw'. It entered English in the 18th century referring to someone who withdraws from active working life.",
+        "targetText": "Cuvântul englezesc „retiree” provine de la verbul „retire”, care are originea în francezul „retirer”, însemnând „a se retrage”. A intrat în limba engleză în secolul al XVIII-lea, referindu-se la cineva care se retrage din viața activă de muncă."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pensionar",
+    "genus": "masculine",
+    "definition": "O persoană care primește o pensie după ce a ieșit la pensie, adică nu mai lucrează din cauza vârstei sau a unor motive de sănătate.",
+    "pronunciation": "/pen.si.oˈnar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pensionar' derives from the French 'pensionnaire', which in turn comes from the Latin 'pensio', meaning 'payment' or 'pension'.",
+        "targetText": "Cuvântul românesc „pensionar” provine din francezul 'pensionnaire', care la rândul său derivă din latinescul 'pensio', însemnând 'plată' sau 'pensie'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Age",
+      "targetText": "vârstă"
+    },
+    {
+      "sourceText": "Pension",
+      "targetText": "pensie"
+    },
+    {
+      "sourceText": "Annuity",
+      "targetText": "pensie"
+    },
+    {
+      "sourceText": "Senior",
+      "targetText": "senior"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Employee",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The retiree enjoys his retirement by the sea.",
+      "targetText": "Pensionarul se bucură de pensie la mare."
+    },
+    {
+      "sourceText": "Many retirees like to travel in the summer.",
+      "targetText": "Mulți pensionari călătoresc cu plăcere vara."
+    },
+    {
+      "sourceText": "My grandfather is a retiree and reads a lot.",
+      "targetText": "Bunicul meu este pensionar și citește mult."
+    },
+    {
+      "sourceText": "Retirees receive their pension monthly by bank transfer.",
+      "targetText": "Pensionarii primesc pensia lunar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'retiree' as someone who 'retires'—they 'retire' from work and receive a pension, just like 'pensionar' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'pensionar' sounds like 'pensioner' in English, both meaning a person who receives a pension after stopping work."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pensionar' as related to 'pension', which is the money paid regularly after retirement—this helps link the word to its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ar' in Romanian often indicates a person related to a role or status, similar to '-er' in English words like 'worker' or 'teacher'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

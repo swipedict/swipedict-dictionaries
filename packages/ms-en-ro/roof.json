@@ -1,0 +1,163 @@
+{
+  "id": "ms-en-ro-roof",
+  "parent": "ms-ro-acoperis-4894b755@42402a0c26836d40f1bfadcc22a0939d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "roof",
+    "genus": "neuter",
+    "definition": "the top covering of a building that protects it from weather",
+    "pronunciation": "/ruːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"roof\" originates from the Old English \"rōf\", meaning the covering or top of a building, related to similar words in other Germanic languages. It denotes the protective upper layer of a structure.",
+        "targetText": "Cuvântul englezesc „roof“ provine din vechea engleză „rōf“, care înseamnă acoperișul sau partea superioară a unei clădiri, fiind înrudit cu termeni similari din alte limbi germanice. Denotă stratul superior protector al unei construcții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A roof protects people and objects from weather conditions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acoperiș",
+    "genus": "neuter",
+    "definition": "partea superioară a unei clădiri care o protejează",
+    "pronunciation": "/akoˈpeɾiʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"acoperiș\" derives from the Latin verb \"cooperire\" (to cover together) and refers to the protective upper layer of a building.",
+        "targetText": "Cuvântul românesc „acoperiș“ provine din latinescul „cooperire“, care înseamnă „a acoperi împreună“, desemnând stratul superior protector al unei clădiri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein gut gebautes „acoperiș“ ist entscheidend für die Langlebigkeit eines Gebäudes in Rumänien."
+  },
+  "senses": [
+    {
+      "gloss": "roof (building)",
+      "explanation": {
+        "sourceText": "The roof protects the building from external influences.",
+        "targetText": "Acoperișul protejează clădirea de influențele exterioare."
+      },
+      "examples": [
+        {
+          "sourceText": "The roof is leaking.",
+          "targetText": "Acoperișul este defect."
+        }
+      ]
+    },
+    {
+      "gloss": "roof (protection)",
+      "explanation": {
+        "sourceText": "The roof provides protection for people and objects.",
+        "targetText": "Acoperișul oferă protecție oamenilor și obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "The roof protects against rain.",
+          "targetText": "Acoperișul protejează de ploaie."
+        }
+      ]
+    },
+    {
+      "gloss": "roof (structure)",
+      "explanation": {
+        "sourceText": "The roof is an essential structure of a house.",
+        "targetText": "Acoperișul este o structură esențială a unei case."
+      },
+      "examples": [
+        {
+          "sourceText": "The last roof was built ten years ago.",
+          "targetText": "Ultimul acoperiș a fost construit acum zece ani."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "window",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "stairs",
+      "targetText": "scări"
+    },
+    {
+      "sourceText": "wall",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "floor",
+      "targetText": "pământ"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The roof is leaking.",
+      "targetText": "Acoperișul este defect."
+    },
+    {
+      "sourceText": "We need to repair the roof.",
+      "targetText": "Trebuie să reparăm acoperișul."
+    },
+    {
+      "sourceText": "The roof protects against rain.",
+      "targetText": "Acoperișul protejează de ploaie."
+    },
+    {
+      "sourceText": "The last roof was built ten years ago.",
+      "targetText": "Ultimul acoperiș a fost construit acum zece ani."
+    },
+    {
+      "sourceText": "The roof has a chimney.",
+      "targetText": "Acoperișul are un coș."
+    },
+    {
+      "sourceText": "The color of the roof needs to be repainted.",
+      "targetText": "Culoarea acoperișului trebuie să fie vopsită din nou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"acoperiș\" sounds like \"a cover-ish\" — think of it as the cover that protects your house."
+    },
+    {
+      "lang": "en",
+      "text": "The middle part \"cop\" in \"acoperiș\" can remind you of a cop protecting something, just like a roof protects a home."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root \"cooperire\" meaning 'to cover together' — just like a roof covers a building."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a house with a big \"acoperiș\" on top, holding everything safe and dry!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

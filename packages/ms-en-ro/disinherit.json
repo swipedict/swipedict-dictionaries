@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-disinherit",
+  "parent": "ms-ro-a-dezmosteni-a6b440ea@2aef21d9ce17e72ae3d49f9a38fa7901",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:c1",
+    "etymology:internal",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "disinherit",
+    "definition": "To take away someone's legal right to receive an inheritance.",
+    "pronunciation": "/ˌdɪsɪnˈhɛrɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'disinherit' is formed from the prefix 'dis-' meaning 'do the opposite of' and the root 'inherit', which comes from Latin 'inhereditare', meaning 'to receive as an heir'.",
+        "targetText": "Cuvântul englezesc „disinherit” este format din prefixul „dis-”, care indică opoziția sau anularea, și rădăcina „inherit”, care provine din latină „inhereditare”, însemnând „a primi ca moștenitor”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb of the 4th conjugation, reflexive."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a dezmoșteni",
+    "definition": "A lua cuiva dreptul de a fi luat în considerare ca moștenitor.",
+    "pronunciation": "/a dezmoʃˈteni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a dezmoșteni' is a Romanian neologism formed by adding the prefix 'dez-' (from Latin 'dis-') to the verb 'moșteni' (to inherit).",
+        "targetText": "Verbul românesc „a dezmoșteni” este format în limba română prin adăugarea prefixului „dez-” la verbul „a moșteni” (a moșteni), ambele de origine latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation, reflexiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "inheritance",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "estate",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "will",
+      "targetText": "testament"
+    },
+    {
+      "sourceText": "to bequeath",
+      "targetText": "a moșteni"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to inherit",
+      "targetText": "a moșteni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He disinherited his son.",
+      "targetText": "El și-a dezmoștenit fiul."
+    },
+    {
+      "sourceText": "You cannot simply disinherit someone.",
+      "targetText": "Nu poți pur și simplu să dezmoștenești pe cineva."
+    },
+    {
+      "sourceText": "The parents disinherited him.",
+      "targetText": "Părinții l-au dezmoștenit."
+    },
+    {
+      "sourceText": "To disinherit means to take away the right to inherit.",
+      "targetText": "A dezmoșteni înseamnă a lua dreptul la moștenire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'disinherit' by thinking of 'dis-' as a prefix meaning 'not' or 'reverse', so it means to reverse the act of inheriting."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'dezmoșteni' also uses 'dez-' which is similar to the English 'dis-', both meaning to undo or remove."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'moșteni' as 'to inherit' and 'dezmoșteni' as 'to disinherit' — the prefix changes the meaning to the opposite."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone being 'de-' (away) 'moșteni' (inherited) — so they are disinherited."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

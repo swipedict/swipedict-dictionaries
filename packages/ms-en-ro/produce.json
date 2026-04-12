@@ -1,0 +1,144 @@
+{
+  "id": "ms-en-ro-produce",
+  "parent": "ms-ro-a-produce-70f1183e@c28bfda6816d40c0996f73d717b48f37",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "produce",
+    "definition": "to make or create something, especially in large quantities",
+    "pronunciation": "/prəˈdjuːs/ or /ˈproʊdus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'produce' comes from the Latin 'producere', meaning 'to lead forward' or 'to bring forth'. It is formed from 'pro' meaning 'forward' and 'ducere' meaning 'to lead'.",
+        "targetText": "Cuvântul englezesc „produce“ provine din latină, de la „producere“, care înseamnă „a conduce înainte“ sau „a aduce înainte“. Este format din „pro“ (înainte) și „ducere“ (a conduce)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in economic and industrial contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a produce",
+    "definition": "a produce sau a crea ceva",
+    "pronunciation": "/a proˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "From Latin 'producere', meaning 'to lead forward' or 'to produce'. It consists of 'pro' (forward) and 'ducere' (to lead).",
+        "targetText": "Verbul românesc „a produce“ provine din latină, de la „producere“, format din „pro“ (înainte) și „ducere“ (a conduce)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular verb of the 3rd conjugation (-e). Frequently used in economic and industrial contexts."
+  },
+  "senses": [
+    {
+      "gloss": "to create",
+      "explanation": {
+        "sourceText": "A common context means to create something new.",
+        "targetText": "Se referă și la crearea a ceva nou."
+      },
+      "examples": [
+        {
+          "sourceText": "I create new designs.",
+          "targetText": "Creez designuri noi."
+        }
+      ]
+    },
+    {
+      "gloss": "to manufacture",
+      "explanation": {
+        "sourceText": "The word 'produce' is also used in the context of making something in large quantities.",
+        "targetText": "„A produce“ se folosește și pentru a descrie fabricarea în cantități mari."
+      },
+      "examples": [
+        {
+          "sourceText": "The factory produces cars.",
+          "targetText": "Fabrica produce mașini."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "factory",
+      "targetText": "fabrică"
+    },
+    {
+      "sourceText": "craft",
+      "targetText": "meșteșug"
+    },
+    {
+      "sourceText": "product",
+      "targetText": "produs"
+    },
+    {
+      "sourceText": "production",
+      "targetText": "producție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "destroy",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I produce the product.",
+      "targetText": "Eu produc produsul."
+    },
+    {
+      "sourceText": "I have produced the car.",
+      "targetText": "Am produs mașina."
+    },
+    {
+      "sourceText": "I will produce furniture.",
+      "targetText": "Voi produce mobilier."
+    },
+    {
+      "sourceText": "I would produce it if I had the materials.",
+      "targetText": "L-aș produce dacă aș avea materialele."
+    },
+    {
+      "sourceText": "Produce the product!",
+      "targetText": "Produ-l!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'produce' sounds like 'product'—both relate to making or creating things."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'producer' in movies or music who creates something new, just like 'a produce' means to create."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'produs' means 'product', which helps link 'a produce' with making goods."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a factory producing goods to connect 'a produce' with manufacturing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

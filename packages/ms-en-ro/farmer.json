@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-farmer",
+  "parent": "ms-ro-taran-423e54e7@41152b49cd1a2eb8b5b50f9f6341bbfa",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "farmer",
+    "genus": "masculine",
+    "definition": "A person who cultivates land or raises animals, especially for agriculture.",
+    "pronunciation": "/ˈfɑːrmər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'farmer' originates from the Old French 'fermier', meaning one who rents or cultivates land, derived from Latin 'firmare' meaning to fix or settle. Over time, it came to specifically denote a person engaged in agriculture.",
+        "targetText": "Cuvântul englezesc „farmer” provine din franceza veche „fermier”, care însemna persoana care închiria sau cultiva teren, derivat din latină „firmare”, însemnând a fixa sau a stabili. În timp, a ajuns să desemneze în mod specific o persoană care se ocupă cu agricultura."
+      },
+      "source": "Etymological dictionaries English"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "țăran",
+    "genus": "masculine",
+    "definition": "Persoană care se ocupă cu agricultura și creșterea animalelor.",
+    "pronunciation": "/t͡səˈran/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „țăran” comes from Slavic, probably from Old Church Slavonic „цѣрь” (tser, land) or „село” (selo, village), referring to a villager or peasant.",
+        "targetText": "Cuvântul românesc „țăran” provine din slavonă, probabil din „цѣрь” (țăr, pământ) sau „село” (selo, sat), desemnând locuitorul satului, țăranul."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "farm",
+      "targetText": "fermă"
+    },
+    {
+      "sourceText": "harvest",
+      "targetText": "recoltă"
+    },
+    {
+      "sourceText": "field",
+      "targetText": "câmp"
+    },
+    {
+      "sourceText": "agriculturist",
+      "targetText": "agricultor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "city dweller",
+      "targetText": "orașean"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The farmer works in the field.",
+      "targetText": "Țăranul lucrează pe câmp."
+    },
+    {
+      "sourceText": "Many farmers live off crop cultivation.",
+      "targetText": "Mulți țărani trăiesc din agricultură."
+    },
+    {
+      "sourceText": "The farmer has many animals on his farm.",
+      "targetText": "Țăranul are multe animale la ferma sa."
+    },
+    {
+      "sourceText": "In the past, most people were farmers.",
+      "targetText": "În trecut, majoritatea oamenilor erau țărani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'farmer' by thinking of 'farm'—a place where crops and animals are raised."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'țăran' sounds like 'tsar-an'—imagine a tsar ruling over a rural village."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'terra', the Latin word for earth, to connect the idea of a farmer working the land."
+    },
+    {
+      "lang": "en",
+      "text": "'Țăran' is central to Romanian culture, representing the traditional rural lifestyle."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

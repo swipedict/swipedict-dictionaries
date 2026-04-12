@@ -1,0 +1,181 @@
+{
+  "id": "ms-en-ro-delete",
+  "parent": "ms-ro-a-sterge-d2bc8034@ffcef38d5950e968614e75f9fb7955fc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "delete",
+    "definition": "to remove or erase something, especially data or written content, or to extinguish fire",
+    "pronunciation": "/dɪˈliːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"delete\" comes from the Latin 'delēre', meaning 'to wipe out' or 'to erase'. It entered English through Old French during the Middle Ages.",
+        "targetText": "Cuvântul englezesc „delete” provine din latină, din verbul „delēre”, care înseamnă „a șterge” sau „a elimina”. A intrat în limba engleză prin franceza veche în Evul Mediu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in technical contexts and metaphorically, such as deleting files or erasing memories."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a șterge",
+    "definition": "a elimina, a șterge sau a stinge, în special în legătură cu datele sau focul",
+    "pronunciation": "/a ˈʃterʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a șterge” originates from a Slavic language, probably Bulgarian „ščerja” or Serbian „ščerati”, meaning 'to wipe' or 'to clean'.",
+        "targetText": "Verbul românesc „a șterge” provine dintr-o limbă slavă, probabil bulgară „ščerja” sau sârbă „ščerati”, cu sensul de „a șterge” sau „a curăța”."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb (-a). Often used figuratively and in computing contexts, such as deleting files or concepts."
+  },
+  "senses": [
+    {
+      "gloss": "erase",
+      "explanation": {
+        "sourceText": "Also in the sense of erasing memories.",
+        "targetText": "De asemenea, în sensul de a șterge amintiri."
+      },
+      "examples": [
+        {
+          "sourceText": "I deleted the memories.",
+          "targetText": "Am șters amintirile."
+        }
+      ]
+    },
+    {
+      "gloss": "delete (data)",
+      "explanation": {
+        "sourceText": "As in English: for deleting data.",
+        "targetText": "Ca în germană: pentru ștergerea datelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I delete the file.",
+          "targetText": "Eu șterg fișierul."
+        }
+      ]
+    },
+    {
+      "gloss": "remove silently",
+      "explanation": {
+        "sourceText": "Refers to removing something without visibility.",
+        "targetText": "Se referă la eliminarea fără a fi observată."
+      },
+      "examples": [
+        {
+          "sourceText": "I deleted the information silently.",
+          "targetText": "Am șters informațiile fără a le menționa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "data",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "fire",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "deletion",
+      "targetText": "ștergere"
+    },
+    {
+      "sourceText": "note",
+      "targetText": "notă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "turn on",
+      "targetText": "a activa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I delete the file.",
+      "targetText": "Eu șterg fișierul."
+    },
+    {
+      "sourceText": "Are you deleting the message?",
+      "targetText": "Ștergi mesajul?"
+    },
+    {
+      "sourceText": "The teacher erases the board.",
+      "targetText": "Învățătoarea șterge tabla."
+    },
+    {
+      "sourceText": "We delete the old data.",
+      "targetText": "Noi ștergem datele vechi."
+    },
+    {
+      "sourceText": "Do you delete the pictures?",
+      "targetText": "Ștergeți voi pozele?"
+    },
+    {
+      "sourceText": "They delete the information.",
+      "targetText": "Ei șterg informațiile."
+    },
+    {
+      "sourceText": "I have deleted the data.",
+      "targetText": "Am șters datele."
+    },
+    {
+      "sourceText": "He deleted the files regularly.",
+      "targetText": "El ștergea fișierele regulat."
+    },
+    {
+      "sourceText": "I will delete the old files.",
+      "targetText": "Voi șterge fișierele vechi."
+    },
+    {
+      "sourceText": "I would delete the pictures if I could.",
+      "targetText": "Aș șterge pozele, dacă aș putea."
+    },
+    {
+      "sourceText": "Delete the last entries!",
+      "targetText": "Șterge ultimele înregistrări!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'delete' as the action you take when you want to erase something permanently, like deleting files on your computer."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'a șterge' is a regular verb in Romanian, making it easier to conjugate compared to some irregular English verbs."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine using an eraser (Romanian: 'radieră') to wipe away pencil marks—that's similar to the meaning of 'a șterge'."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'delete' comes from Latin, so if you know other Latin-based words, it might help you remember its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

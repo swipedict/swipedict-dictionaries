@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-since",
+  "parent": "ms-ro-ca-96007b21@43448b7b74dfadd1cf03a19fb53ca54d",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:unknown",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "since",
+    "definition": "A conjunction used to indicate a reason or cause, similar to 'because' or 'as'.",
+    "pronunciation": "/sɪns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English conjunction \"since\" originates from Old English 'siththan', which conveyed a temporal or causal meaning.",
+        "targetText": "Cuvântul englezesc „since” provine din engleza veche 'siththan', care avea un sens temporal sau cauzal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "că",
+    "definition": "Eine Konjunktion, die einen Grund oder eine Ursache angibt, entspricht dem deutschen 'da' oder 'weil'.",
+    "pronunciation": "/kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian word „că” is uncertain; it is often considered to come from an unknown source, possibly from an old demonstrative pronoun.",
+        "targetText": "Originea cuvântului românesc „că” este incertă; este adesea considerat ca provenind dintr-o sursă necunoscută, posibil dintr-un vechi pronume demonstrativ."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "that",
+      "targetText": "că"
+    },
+    {
+      "sourceText": "although",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "because",
+      "targetText": "pentru că"
+    },
+    {
+      "sourceText": "if",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Since it is raining, we are staying at home.",
+      "targetText": "Că plouă, stăm acasă."
+    },
+    {
+      "sourceText": "I cannot come since I am sick.",
+      "targetText": "Nu pot veni, că sunt bolnav."
+    },
+    {
+      "sourceText": "Since he was tired, he went to bed early.",
+      "targetText": "Că era obosit, s-a culcat devreme."
+    },
+    {
+      "sourceText": "Since you asked, I will answer you.",
+      "targetText": "Că ai întrebat, îți răspund."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"since\" and the Romanian \"că\" both serve as small connectors that explain reasons between clauses."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"că\" as a short, simple word that often introduces causes or reasons, just like \"since\" in English."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: \"că\" is the most common Romanian conjunction for reasons, similar to \"because\" or \"since\" in English."
+    },
+    {
+      "lang": "en",
+      "text": "To recall \"că\", imagine saying 'car' quickly without the 'r'—this sound can help you remember the Romanian conjunction."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

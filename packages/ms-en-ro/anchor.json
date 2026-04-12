@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-anchor",
+  "parent": "ms-ro-ancora-ba702a4e@e72a65140c47d80eecceca574a412bcc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "anchor",
+    "genus": "masculine",
+    "definition": "A heavy device used to secure a ship to the sea bottom to keep it in place.",
+    "pronunciation": "/ˈæŋkər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"anchor\" comes from Old English 'ancor', borrowed from Latin 'ancora', which in turn derives from the Greek 'ánkura'.",
+        "targetText": "Cuvântul englezesc „anchor” provine din vechea engleză 'ancor', împrumutat din latinul 'ancora', care la rândul său derivă din grecescul 'ánkura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ancoră",
+    "genus": "feminine",
+    "definition": "Un dispozitiv greu folosit pentru a fixa o navă pe fundul apei.",
+    "pronunciation": "/anˈko.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"ancoră\" comes directly from Latin 'ancora', borrowed from Greek 'ánkura'.",
+        "targetText": "Cuvântul românesc „ancoră” provine direct din latinul 'ancora', împrumutat din grecescul 'ánkura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mooring",
+      "targetText": "ancorare"
+    },
+    {
+      "sourceText": "harbor",
+      "targetText": "port"
+    },
+    {
+      "sourceText": "ship",
+      "targetText": "navă"
+    },
+    {
+      "sourceText": "rope",
+      "targetText": "frânghie groasă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The anchor holds the ship securely in the harbor.",
+      "targetText": "Ancora ține nava sigur în port."
+    },
+    {
+      "sourceText": "We drop the anchor.",
+      "targetText": "Aruncăm ancora."
+    },
+    {
+      "sourceText": "The anchor is made of metal.",
+      "targetText": "Ancora este făcută din metal."
+    },
+    {
+      "sourceText": "Without an anchor, the ship cannot stay in place.",
+      "targetText": "Fără ancoră, nava nu poate sta pe loc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'anchor' by thinking of the phrase 'anchor down' to keep a ship steady."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ancoră' sounds similar to 'anchor', making it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the 'ank' in 'anchor' as the strong part that holds a ship firmly."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a heavy anchor dropping deep underwater to keep a boat from drifting."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

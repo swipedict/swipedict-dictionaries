@@ -1,0 +1,117 @@
+{
+  "id": "ms-en-ro-click",
+  "parent": "ms-ro-a-da-clic-212df2b7@aefb10dde610342413859bff740bdf85",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:english",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "click",
+    "definition": "To press a button quickly or to produce a short, sharp sound, often related to pressing a mouse button or a mechanical device.",
+    "pronunciation": "/klɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb “click” is an onomatopoeic word that imitates the short, sharp sound made by mechanical or electronic devices when pressed or activated.",
+        "targetText": "Cuvântul englezesc „click” este un termen onomatopeic care imită sunetul scurt și ascuțit produs de dispozitive mecanice sau electronice atunci când sunt apăsate sau activate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Formed from the imitation of the sound made by pressing a button or switch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a da clic",
+    "definition": "A apăsa rapid un buton al mouse-ului sau a produce un sunet scurt, ascuțit.",
+    "pronunciation": "/a da klik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression “a da clic” is a calque from the English “to click,” which originates from the onomatopoeic root of the word.",
+        "targetText": "Expresia românească „a da clic” este o traducere calchiată din englezescul „to click”, care provine dintr-o origine onomatopeică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Construction with the verb 'a da' (to give) and the noun 'clic'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "double click",
+      "targetText": "dublu clic"
+    },
+    {
+      "sourceText": "click sound",
+      "targetText": "sunet de clic"
+    },
+    {
+      "sourceText": "mouse",
+      "targetText": "mouse"
+    },
+    {
+      "sourceText": "button",
+      "targetText": "buton"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "press",
+      "targetText": "a apăsa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I click on the icon to open the program.",
+      "targetText": "Dau clic pe simbol pentru a deschide programul."
+    },
+    {
+      "sourceText": "If you double click, the window opens.",
+      "targetText": "Dacă dai dublu clic, se deschide fereastra."
+    },
+    {
+      "sourceText": "The computer makes a clicking sound when I press the button.",
+      "targetText": "Calculatorul face un sunet de clic când apăs butonul."
+    },
+    {
+      "sourceText": "Don't click too fast, otherwise it won't work.",
+      "targetText": "Nu da clic prea repede, altfel nu funcționează."
+    },
+    {
+      "sourceText": "Please click here to continue.",
+      "targetText": "Te rog, dă clic aici pentru a continua."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'a da clic' literally means 'to give a click'—think of giving a quick tap on a mouse button."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'clic' sounds almost exactly like the English 'click', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the sharp sound a mouse makes when you click it—that sound helps you recall the Romanian 'clic'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the action of clicking with the sound 'click' which is the same in both English and Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

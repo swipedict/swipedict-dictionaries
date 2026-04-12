@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-emergency",
+  "parent": "ms-ro-urgenta-304a5c5e@9a2a8ec6b02eb57b557718f0ddc8d15f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "emergency",
+    "definition": "A sudden, unexpected situation that requires immediate action to prevent harm or danger.",
+    "pronunciation": "/ɪˈmɜːrdʒənsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'emergency' comes from the Latin 'emergere', meaning 'to arise' or 'to come forth suddenly'.",
+        "targetText": "Cuvântul englezesc „emergency” provine din latină, de la 'emergere', care înseamnă 'a apărea' sau 'a ieși brusc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null",
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "urgență",
+    "genus": "feminine",
+    "definition": "O situație care necesită acțiune imediată pentru a preveni un pericol sau un prejudiciu.",
+    "pronunciation": "/urˈdʒen.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'urgență' derives from the Latin 'urgentia', from the verb 'urgere', meaning 'to press' or 'to force'.",
+        "targetText": "Cuvântul românesc „urgență” provine din latină, de la 'urgentia', derivat din verbul 'urgere', care înseamnă 'a presa' sau 'a obliga'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alarm",
+      "targetText": "alarmă"
+    },
+    {
+      "sourceText": "catastrophe",
+      "targetText": "catastrofă"
+    },
+    {
+      "sourceText": "need",
+      "targetText": "nevoie"
+    },
+    {
+      "sourceText": "rescue",
+      "targetText": "salvare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "routine",
+      "targetText": "rutină"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "In an emergency, please call the fire department.",
+      "targetText": "În caz de urgență, vă rugăm să sunați la pompieri."
+    },
+    {
+      "sourceText": "The hospital has an emergency room.",
+      "targetText": "Spitalul are o secție de urgență."
+    },
+    {
+      "sourceText": "Every second counts in an emergency.",
+      "targetText": "Într-o urgență, fiecare secundă contează."
+    },
+    {
+      "sourceText": "Emergencies require quick action.",
+      "targetText": "Urgențele necesită acțiuni rapide."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'emergency' as a sudden event that 'emerges' unexpectedly, just like 'urgență' means an urgent situation."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'urgență' sounds like the English 'urgent', which helps you remember it relates to something needing immediate attention."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'urgență' comes from Latin 'urgere' meaning 'to press' or 'to force'—imagine someone pressing you to act quickly in an emergency."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'urgență', think of the English word 'urgent' which is used in many languages to express urgency and importance."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

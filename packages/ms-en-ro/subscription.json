@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-subscription",
+  "parent": "ms-ro-abonament-ffcbff4d@ee523792f440b491f0344c38cf74717d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "subscription",
+    "genus": "neuter",
+    "definition": "A contract or arrangement that allows regular delivery or access to goods or services in exchange for payment.",
+    "pronunciation": "/səbˈskrɪpʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"subscription\" comes from the Latin 'subscribere', meaning 'to write underneath' or 'to sign', reflecting the act of signing a contract or agreement.",
+        "targetText": "Cuvântul englezesc „subscription” provine din latină, din termenul 'subscribere', care înseamnă 'a scrie dedesubt' sau 'a semna', reflectând actul de a semna un contract sau un acord."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "abonament",
+    "genus": "neuter",
+    "definition": "Un contract care permite livrarea sau utilizarea regulată a bunurilor sau serviciilor contra cost.",
+    "pronunciation": "/aboˈnament/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „abonament” was directly borrowed from the French „abonnement”, which in turn comes from the Latin „abonnare”.",
+        "targetText": "Cuvântul românesc „abonament” este împrumutat direct din francezul „abonnement”, care la rândul său provine din latinescul „abonnare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "order",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "membership",
+      "targetText": "calitate de membru"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    },
+    {
+      "sourceText": "magazine",
+      "targetText": "revistă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "one-time purchase",
+      "targetText": "cumpărare unică"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have a subscription to the newspaper.",
+      "targetText": "Am făcut un abonament la ziar."
+    },
+    {
+      "sourceText": "The subscription is renewed annually.",
+      "targetText": "Abonamentul se reînnoiește anual."
+    },
+    {
+      "sourceText": "Many people use a subscription for streaming services.",
+      "targetText": "Mulți folosesc un abonament pentru servicii de streaming."
+    },
+    {
+      "sourceText": "The subscription can be canceled at any time.",
+      "targetText": "Abonamentul poate fi anulat oricând."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'subscription' which sounds similar to 'abonament' and means a regular payment for a service or product."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'subscription' comes from Latin roots meaning 'to sign underneath', just like you sign a contract to get a subscription."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'abonament' and English 'subscription' both relate to regular access or delivery, so associating them helps you remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Picture signing up for a magazine or streaming service—this act is a 'subscription', which matches the Romanian 'abonament'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

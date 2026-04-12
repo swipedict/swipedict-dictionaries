@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-station",
+  "parent": "ms-ro-gara-4aa0fb7f@e012d236f672d0665ae2ae7f454a6396",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "station",
+    "genus": "neuter",
+    "definition": "A place where trains stop to allow passengers to board or leave.",
+    "pronunciation": "/ˈsteɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'station' comes from the Latin 'statio', meaning 'a standing place' or 'position', originally referring to a place where troops were stationed or a stopping place along a route.",
+        "targetText": "Cuvântul englezesc „station” provine din latină, din „statio”, care înseamnă „un loc de staționare” sau „poziție”, referindu-se inițial la un loc unde erau staționați soldați sau o oprire pe traseu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gară",
+    "genus": "feminine",
+    "definition": "Un loc unde trenurile opresc pentru a permite pasagerilor să urce sau să coboare.",
+    "pronunciation": "/ɡaˈrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „gară” is directly borrowed from the French „gare”, meaning 'train station' or 'stop'. The French term comes from Old French „gare” (station, stop), possibly related to „guarde” (guard).",
+        "targetText": "Cuvântul românesc „gară” este împrumutat direct din franceza „gare”, care înseamnă „stație de tren” sau „oprire”. Termenul francez provine din franceza veche „gare” (stație, oprire), posibil înrudit cu „guarde” (pază)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "station hall",
+      "targetText": "holul gării"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "rail",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "train",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The train arrives at the station.",
+      "targetText": "Trenul sosește la gară."
+    },
+    {
+      "sourceText": "I am waiting for you at the station.",
+      "targetText": "Te aștept la gară."
+    },
+    {
+      "sourceText": "The station clock shows the exact time.",
+      "targetText": "Ceasul din gară arată ora exactă."
+    },
+    {
+      "sourceText": "There is a kiosk at the station.",
+      "targetText": "La gară este un chioșc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'station' as a place where trains 'stand' or stop—think of a 'stationary' point on a journey."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'gară' comes from French 'gare', which sounds like 'guard'—imagine a guard watching over the trains."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'station' as a central hub where many journeys begin or end, just like a 'station' in a TV series is a key setting."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'gară', picture yourself waiting at the 'gare' (French for station) before boarding your train."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "ms-en-ro-give",
+  "parent": "ms-ro-a-da-a1b7f6f7@bf0252358ad7bf4f87bb6374c5371d1d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "give",
+    "definition": "to present or hand over something to someone",
+    "pronunciation": "/ɡɪv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"give\" originates from Old English \"giefan\" or \"gifan\", meaning to bestow or hand over.",
+        "targetText": "Cuvântul englezesc „give“ provine din engleza veche „giefan“ sau „gifan“, care înseamnă a oferi sau a înmâna."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A regular verb commonly used in social contexts, such as giving gifts or information."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a da",
+    "definition": "a oferi sau a lăsa ceva",
+    "pronunciation": "/a da/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a da“ derives from the Latin „dare“, meaning to give. It denotes the act of handing over or offering something.",
+        "targetText": "Verbul românesc „a da“ provine din latină, din verbul „dare“, care înseamnă „a da“ sau „a oferi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es ist ein sehr häufiges Verb im Rumänischen und hat viele Anwendungsformen."
+  },
+  "senses": [
+    {
+      "gloss": "to hand over something (gift)",
+      "explanation": {
+        "sourceText": "To hand something over, especially in the context of a gift.",
+        "targetText": "A preda ceva, în special în contextul unui cadou."
+      },
+      "examples": [
+        {
+          "sourceText": "I give you the gift.",
+          "targetText": "Îți dau cadoul."
+        }
+      ]
+    },
+    {
+      "gloss": "to give help",
+      "explanation": {
+        "sourceText": "Providing support.",
+        "targetText": "A oferi sprijin sau ajutor."
+      },
+      "examples": [
+        {
+          "sourceText": "I give you help.",
+          "targetText": "Îți dau ajutor."
+        }
+      ]
+    },
+    {
+      "gloss": "to give information",
+      "explanation": {
+        "sourceText": "To offer information to someone.",
+        "targetText": "A oferi informații cuiva."
+      },
+      "examples": [
+        {
+          "sourceText": "I give you the information.",
+          "targetText": "Îți dau informațiile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "gift",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "help",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "knowledge",
+      "targetText": "cunoștințe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "take",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I give you the book.",
+      "targetText": "Îți dau cartea."
+    },
+    {
+      "sourceText": "Do you give me the pen?",
+      "targetText": "Îmi dai stiloul?"
+    },
+    {
+      "sourceText": "He gives me advice.",
+      "targetText": "Îmi dă un sfat."
+    },
+    {
+      "sourceText": "We give our best.",
+      "targetText": "Noi dăm tot ce avem mai bun."
+    },
+    {
+      "sourceText": "Do you give me the answer?",
+      "targetText": "Îmi dați răspunsul?"
+    },
+    {
+      "sourceText": "They give us important information.",
+      "targetText": "Ei ne dau informații importante."
+    },
+    {
+      "sourceText": "I have given you the gift.",
+      "targetText": "Ți-am dat cadoul."
+    },
+    {
+      "sourceText": "He always gave the book away.",
+      "targetText": "El dădea mereu cartea altora."
+    },
+    {
+      "sourceText": "I will help you and give you something.",
+      "targetText": "Te voi ajuta și îți voi da ceva."
+    },
+    {
+      "sourceText": "Give me that!",
+      "targetText": "Dă-mi asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian verb „a da“ sounds like the English word \"da\" (yes in some languages). Imagine saying \"da!\" as you hand something over to someone."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the conjugation: \"Eu dau\" (I give), \"Tu dai\" (you give) – this helps you remember the forms easily."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"give\" with everyday situations: \"I give gifts\" = \"Îi dau cadouri\" – this keeps the word alive in your mind."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English phrase \"give and take\" to remember the meaning of \"a da\" as giving something to someone."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

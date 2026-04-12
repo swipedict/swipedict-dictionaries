@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-ingredient",
+  "parent": "ms-ro-ingredient-6baf7870@989d5ef62c3c32fdef38bfc829882b72",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ingredient",
+    "genus": "neuter",
+    "definition": "A component or element added to a recipe or mixture to affect its flavor or composition.",
+    "pronunciation": "/ɪnˈɡriːdiənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'ingredient' comes from the Latin present participle 'ingredientem' of the verb 'ingredi', meaning 'to go into' or 'to enter'. It was adopted in the Middle Ages to refer to components of recipes.",
+        "targetText": "Cuvântul românesc „ingredient“ provine direct din participiul prezent latin „ingredientem“ al verbului „ingredi“, care înseamnă „a intra“ sau „a pătrunde“, fiind preluat în Evul Mediu pentru a desemna componentele unei rețete."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ingredient",
+    "genus": "neuter",
+    "definition": "Un element sau componentă adăugată într-o rețetă sau amestec pentru a influența gustul sau compoziția.",
+    "pronunciation": "/inɡreˈdjent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'ingredient' comes directly from the Latin present participle 'ingredientem' of the verb 'ingredi', meaning 'to enter' or 'to go into', adopted in the Middle Ages to denote recipe components.",
+        "targetText": "Cuvântul românesc „ingredient“ provine direct din participiul prezent latin „ingredientem“ al verbului „ingredi“, care înseamnă „a intra“ sau „a pătrunde“, fiind preluat în Evul Mediu pentru a desemna componentele unei rețete."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "spice",
+      "targetText": "condiment"
+    },
+    {
+      "sourceText": "mixture",
+      "targetText": "amestec"
+    },
+    {
+      "sourceText": "recipe",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "preparation",
+      "targetText": "preparare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The main ingredients for the cake are flour, sugar, and eggs.",
+      "targetText": "Ingredientele principale pentru prăjitură sunt făina, zahărul și ouăle."
+    },
+    {
+      "sourceText": "Add the ingredients in the specified order.",
+      "targetText": "Adaugă ingredientele în ordinea indicată."
+    },
+    {
+      "sourceText": "Without fresh ingredients, the food doesn't taste as good.",
+      "targetText": "Fără ingrediente proaspete, mâncarea nu are un gust la fel de bun."
+    },
+    {
+      "sourceText": "Each ingredient contributes to the flavor of the dish.",
+      "targetText": "Fiecare ingredient contribuie la gustul preparatului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ingredient' contains 'in-' meaning 'inside' and '-gredient' related to 'go' or 'step'—so it’s something that 'goes into' a recipe."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ingredient' sounds almost identical to English, making it easy to remember and recognize."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'ingredient' as the building blocks of any dish—like pieces that come together to create a flavor."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ent' often signals a Latin participle, helping you connect the word to its Latin roots and meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

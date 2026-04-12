@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-no-idea",
+  "parent": "ms-ro-nu-stiu-3672d674@b2f8dc7adf3f9f9b573cd6afcb0916a8",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "no idea",
+    "definition": "A phrase used to express lack of knowledge or uncertainty about something.",
+    "pronunciation": "/noʊ aɪˈdiːə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase \"no idea\" combines the negation \"no\" with the noun \"idea,\" which comes from the Greek word 'idea' meaning 'form' or 'concept', later adopted into Latin and then English.",
+        "targetText": "Expresia engleză „no idea” combină negația „no” cu substantivul „idea”, care provine din cuvântul grecesc 'idea', însemnând 'formă' sau 'concept', preluat ulterior în latină și apoi în engleză."
+      },
+      "source": "English Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nu știu",
+    "definition": "Expresie folosită pentru a indica lipsa de cunoștințe sau necunoașterea unui lucru.",
+    "pronunciation": "/nu ˈʃti.u/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase \"nu știu\" consists of the negation \"nu\" and the verb \"știu\" (I know), which derives from the Latin 'scire', meaning 'to know'.",
+        "targetText": "Expresia românească „nu știu” este formată din negația „nu” și verbul „știu” (eu știu), care provine din latină, din verbul 'scire', ce înseamnă 'a ști'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "know",
+      "targetText": "a cunoaște"
+    },
+    {
+      "sourceText": "ignorance",
+      "targetText": "necunoaștere"
+    },
+    {
+      "sourceText": "understand",
+      "targetText": "a înțelege"
+    },
+    {
+      "sourceText": "knowledge",
+      "targetText": "a ști"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "know",
+      "targetText": "a ști"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have no idea where he is.",
+      "targetText": "Nu știu unde este el."
+    },
+    {
+      "sourceText": "No idea how that works.",
+      "targetText": "Nu știu cum funcționează asta."
+    },
+    {
+      "sourceText": "Do you have any idea about math? – No, no idea.",
+      "targetText": "Ai idee despre matematică? – Nu, nu știu."
+    },
+    {
+      "sourceText": "She asked me, but I had no idea.",
+      "targetText": "M-a întrebat, dar eu nu știam."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'știu' sounds like 'stew'—just like a stew mixes ingredients, knowing mixes facts in your mind."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English phrase 'I don't know'—'nu știu' is the direct Romanian equivalent, simple and commonly used."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'nu' means 'no' or 'not', similar to English 'no', so 'nu știu' literally means 'not know'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you're clueless and say 'nu știu'—it sounds a bit like 'new stew', which can help you remember it means 'I don't know'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

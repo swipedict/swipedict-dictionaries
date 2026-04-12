@@ -1,0 +1,181 @@
+{
+  "id": "ms-en-ro-inquire",
+  "parent": "ms-ro-a-intreba-db002f47@c6d5b8dd31279c275dd46270c8356327",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inquire",
+    "definition": "to ask for information or make a formal request",
+    "pronunciation": "/ɪnˈkwaɪər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'inquire' comes from the Latin 'inquirere', meaning 'to seek or ask for information'. It is often used in formal contexts when requesting details or clarification.",
+        "targetText": "Cuvântul englezesc „inquire” provine din latină, din „inquirere”, care înseamnă „a căuta sau a cere informații”. Este folosit frecvent în contexte formale pentru a solicita detalii sau clarificări."
+      },
+      "source": "AI"
+    },
+    "additional": "Regular verb. Commonly used in business and formal communication to request information or assistance."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întreba",
+    "definition": "a solicita informații sau a face o cerere",
+    "pronunciation": "/ɨnˈtre.ba/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin 'interrogare', meaning 'to ask'. It is a common form used to pose questions or request information.",
+        "targetText": "Provine din latinescul „interrogare”, care înseamnă „a întreba”."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb (-a). Frequently used in formal contexts to make inquiries."
+  },
+  "senses": [
+    {
+      "gloss": "request information",
+      "explanation": {
+        "sourceText": "Used in official contexts.",
+        "targetText": "Folosit în contexte oficiale pentru a solicita informații."
+      },
+      "examples": [
+        {
+          "sourceText": "I request information.",
+          "targetText": "Cer informații."
+        }
+      ]
+    },
+    {
+      "gloss": "ask",
+      "explanation": {
+        "sourceText": "Used when seeking information.",
+        "targetText": "Folosit pentru a cere informații."
+      },
+      "examples": [
+        {
+          "sourceText": "I ask for information.",
+          "targetText": "Eu întreb despre informații."
+        }
+      ]
+    },
+    {
+      "gloss": "send a message",
+      "explanation": {
+        "sourceText": "Used in communication to request information.",
+        "targetText": "Folosit în comunicare pentru a solicita informații."
+      },
+      "examples": [
+        {
+          "sourceText": "I send an inquiry.",
+          "targetText": "Trimit o întrebare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "answer",
+      "targetText": "a răspunde"
+    },
+    {
+      "sourceText": "call",
+      "targetText": "apelul"
+    },
+    {
+      "sourceText": "information exchange",
+      "targetText": "schimbul de informații"
+    },
+    {
+      "sourceText": "question",
+      "targetText": "întrebarea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "answer",
+      "targetText": "a răspunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I ask about the invoice.",
+      "targetText": "Eu întreb de factură."
+    },
+    {
+      "sourceText": "Are you asking about the appointment?",
+      "targetText": "Întrebi de întâlnire?"
+    },
+    {
+      "sourceText": "She asks about the results.",
+      "targetText": "Ea întreabă despre rezultate."
+    },
+    {
+      "sourceText": "We ask for information.",
+      "targetText": "Noi întrebăm despre informații."
+    },
+    {
+      "sourceText": "Are you asking for a solution?",
+      "targetText": "Întrebați de o soluție?"
+    },
+    {
+      "sourceText": "They ask for support.",
+      "targetText": "Ei întreabă de sprijin."
+    },
+    {
+      "sourceText": "I asked about the price.",
+      "targetText": "Am întrebat de preț."
+    },
+    {
+      "sourceText": "He often asked for help.",
+      "targetText": "El întreba adesea de ajutor."
+    },
+    {
+      "sourceText": "I will ask about the details.",
+      "targetText": "Voi întreba despre detalii."
+    },
+    {
+      "sourceText": "I would ask for advice.",
+      "targetText": "Aș întreba despre sfaturi."
+    },
+    {
+      "sourceText": "Ask!",
+      "targetText": "Întreabă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'inquire' as 'in quest'—you are on a quest to find information."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a întreba' sounds like 'in-tre-ba'—imagine someone 'entering' a room to ask a question."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'inquire' is formal; use it when you want to sound polite or professional."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'a întreba' with the English word 'interrogate'—both involve asking questions."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

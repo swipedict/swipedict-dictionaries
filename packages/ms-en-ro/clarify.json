@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-clarify",
+  "parent": "ms-ro-a-clarifica-850d3c2c@448a032f9ef50a19662b08fd578dd00a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "clarify",
+    "definition": "to make something clear or easier to understand, often by providing more information or explanation",
+    "pronunciation": "/ˈklærɪfaɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"clarify\" comes from the Latin root \"clarificare\", meaning \"to make clear\" or \"to brighten.\" It entered English through Old French and has been used since the late Middle Ages.",
+        "targetText": "Cuvântul englezesc „clarify” provine din rădăcina latină „clarificare”, care înseamnă „a face clar” sau „a lumina”. A intrat în limba engleză prin franceza veche și este folosit din Evul Mediu târziu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in educational, legal, and everyday contexts to explain or make information understandable."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a clarifica",
+    "definition": "a informa pe cineva despre ceva sau a face ceva mai clar",
+    "pronunciation": "/a klarifiˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb „a clarifica” comes from the Latin „clarificare”, meaning „to make clear”.",
+        "targetText": "Verbul românesc „a clarifica“ provine din latină, de la „clarificare“, care înseamnă „a face clar“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb. Often used in legal, academic, or educational contexts to explain information."
+  },
+  "senses": [
+    {
+      "gloss": "Clarification / Explanation of information",
+      "explanation": {
+        "sourceText": "In the context of conveying information.",
+        "targetText": "În contextul transmiterii informațiilor."
+      },
+      "examples": [
+        {
+          "sourceText": "The teachers clarify the topics.",
+          "targetText": "Profesorii clarifică subiectele."
+        }
+      ]
+    },
+    {
+      "gloss": "Explanation of misunderstandings",
+      "explanation": {
+        "sourceText": "To make misunderstandings clear.",
+        "targetText": "Pentru clarificarea neînțelegerilor."
+      },
+      "examples": [
+        {
+          "sourceText": "We clarify the situation.",
+          "targetText": "Noi clarificăm situația."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "explain",
+      "targetText": "explicare"
+    },
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "education",
+      "targetText": "învățământ"
+    },
+    {
+      "sourceText": "knowledge",
+      "targetText": "cunoștințe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "confuse",
+      "targetText": "a confunda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I clarify the situation.",
+      "targetText": "Eu clarific situația."
+    },
+    {
+      "sourceText": "Do you clarify the misunderstanding?",
+      "targetText": "Clarifici neînțelegerea?"
+    },
+    {
+      "sourceText": "She clarifies everything quickly.",
+      "targetText": "Ea clarifică totul repede."
+    },
+    {
+      "sourceText": "We clarify the situation.",
+      "targetText": "Noi clarificăm situația."
+    },
+    {
+      "sourceText": "Please clarify the facts!",
+      "targetText": "Clarificați, vă rog, faptele!"
+    },
+    {
+      "sourceText": "The teachers clarify the topics.",
+      "targetText": "Profesorii clarifică subiectele."
+    },
+    {
+      "sourceText": "I have clarified the problem.",
+      "targetText": "Am clarificat problema."
+    },
+    {
+      "sourceText": "The commission clarified all questions.",
+      "targetText": "Comisia clarificase toate întrebările."
+    },
+    {
+      "sourceText": "I will clarify the data.",
+      "targetText": "Voi clarifica datele."
+    },
+    {
+      "sourceText": "I would clarify the matter if I had time.",
+      "targetText": "Aș clarifica situația, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Please clarify this!",
+      "targetText": "Clarifică, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"clarify\" sounds like \"clear\" and means to make something clear or understandable, just like the Romanian \"a clarifica\"."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"clarify\" as adding light (from Latin \"clarus\" meaning clear or bright) to a confusing situation, similar to how \"a clarifica\" means to make clear."
+    },
+    {
+      "lang": "en",
+      "text": "Both \"clarify\" and \"a clarifica\" share the Latin root \"clar-\" which relates to clarity and brightness, helping you link the words easily."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"to clarify\" when you want to explain or remove confusion, just like \"a clarifica\" in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

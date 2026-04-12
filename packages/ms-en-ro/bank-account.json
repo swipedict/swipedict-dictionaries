@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-bank-account",
+  "parent": "ms-ro-cont-bancar-43b0adfb@5a90b31bdf8b9158f8a4a30d32ab45b6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:home-living",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bank account",
+    "genus": "neuter",
+    "definition": "an arrangement with a bank to hold and manage money for a customer",
+    "pronunciation": "/ˈbæŋk əˌkaʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"bank account\" combines \"bank,\" derived from the Italian word \"banca\" meaning a bench or moneylender's table, and \"account,\" which comes from the Latin \"computus,\" meaning a calculation or reckoning. Together, they refer to a financial record held at a bank.",
+        "targetText": "Cuvântul englezesc „bank account” combină „bank”, derivat din cuvântul italian „banca” care înseamnă o bancă sau masa unui schimbător de bani, și „account”, care provine din latină „computus”, însemnând un calcul sau o socoteală. Împreună, se referă la un registru financiar ținut la o bancă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A bank account is a place where money is kept and financial transactions can be conducted."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cont bancar",
+    "genus": "neuter",
+    "definition": "un cont la o bancă, pe care se gestionează bani",
+    "pronunciation": "/kont banˈkar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The expression \"cont bancar\" is a modern Romanian compound formed from \"cont\" (from French \"compte\", ultimately from Latin \"computus\") and \"bancar\" (from Italian \"bancario\", derived from \"banca\").",
+        "targetText": "Expresia „cont bancar” este o compunere modernă în limba română, formată din „cont” (din francezul „compte”, provenit din latină „computus”) și „bancar” (din italianul „bancario”, de la „banca”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Bankkonto ermöglicht den Nutzern, Geld zu sparen und zu verwalten."
+  },
+  "senses": [
+    {
+      "gloss": "financial account",
+      "explanation": {
+        "sourceText": "A specific type of account used for managing finances.",
+        "targetText": "Un tip special de cont folosit pentru gestionarea finanțelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I have a financial account for my business.",
+          "targetText": "Am un cont financiar pentru afacerile mele."
+        }
+      ]
+    },
+    {
+      "gloss": "account",
+      "explanation": {
+        "sourceText": "\"Account\" generally refers to a financial record, similar to the Romanian meaning.",
+        "targetText": "„Cont“ desemnează în general un cont financiar, similar cu sensul din germană."
+      },
+      "examples": [
+        {
+          "sourceText": "How much money is in your account?",
+          "targetText": "Câți bani ai în contul tău?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "credit card",
+      "targetText": "card de credit"
+    },
+    {
+      "sourceText": "savings book",
+      "targetText": "carte de economii"
+    },
+    {
+      "sourceText": "transfer",
+      "targetText": "transfer"
+    },
+    {
+      "sourceText": "interest",
+      "targetText": "dobânzi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cash",
+      "targetText": "numerar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I opened a new bank account.",
+      "targetText": "Am deschis un cont bancar nou."
+    },
+    {
+      "sourceText": "The money will be transferred to my bank account.",
+      "targetText": "Banii vor fi transferați în contul meu bancar."
+    },
+    {
+      "sourceText": "I regularly check my bank account online.",
+      "targetText": "Îmi verific regulat contul bancar online."
+    },
+    {
+      "sourceText": "He opened his bank account at a branch.",
+      "targetText": "El și-a deschis contul bancar într-o filială."
+    },
+    {
+      "sourceText": "Please give me the details of my bank account.",
+      "targetText": "Te rog să-mi dai detaliile contului meu bancar."
+    },
+    {
+      "sourceText": "The bank account offers many advantages.",
+      "targetText": "Contul bancar oferă multe avantaje."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"cont\" means account and \"bancar\" relates to bank, so \"cont bancar\" literally means bank account."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"bancar\" as similar to the English word \"banker,\" which helps link the term to banking."
+    },
+    {
+      "lang": "en",
+      "text": "Use your own bank account experience to connect with the Romanian term and make it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a banker counting money at a desk — this image ties together \"cont\" (account) and \"bancar\" (bank)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

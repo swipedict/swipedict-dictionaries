@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-maybe",
+  "parent": "ms-ro-poate-632b78b5@01a8ec3a33d7fbda4ecc3e41b7ab78d3",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "maybe",
+    "definition": "An adverb used to express possibility or uncertainty, similar to 'possibly' or 'perhaps'.",
+    "pronunciation": "/ˈmeɪ.bi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'maybe' originated from the combination of 'may', expressing possibility, and 'be', used here as an auxiliary, forming an adverb indicating uncertainty or possibility.",
+        "targetText": "Cuvântul englezesc „maybe” provine din combinarea lui „may”, care exprimă posibilitatea, și „be”, folosit ca auxiliar, formând un adverb care indică incertitudine sau posibilitate."
+      },
+      "source": "English Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "poate",
+    "definition": "Adverb care exprimă posibilitatea sau incertitudinea, echivalent cu 'eventual' sau 'posibil'.",
+    "pronunciation": "/poˈa.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'poate' derives from the Latin verb 'potere', meaning 'to be able to', and evolved into an expression of possibility.",
+        "targetText": "Cuvântul românesc „poate” derivă din verbul latin 'potere', care înseamnă „a putea”, evoluând spre exprimarea posibilității."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "possibly",
+      "targetText": "eventual"
+    },
+    {
+      "sourceText": "perhaps",
+      "targetText": "posibil"
+    },
+    {
+      "sourceText": "maybe not",
+      "targetText": "poate nu"
+    },
+    {
+      "sourceText": "probably",
+      "targetText": "probabil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "certainly",
+      "targetText": "sigur"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Maybe I'll come by tomorrow.",
+      "targetText": "Poate vin mâine pe la tine."
+    },
+    {
+      "sourceText": "Maybe it will rain today.",
+      "targetText": "Poate plouă astăzi."
+    },
+    {
+      "sourceText": "He is maybe already at home.",
+      "targetText": "El este poate deja acasă."
+    },
+    {
+      "sourceText": "Maybe you are right.",
+      "targetText": "Poate ai dreptate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'maybe' as 'may be' — something that may be true or possible, just like 'poate' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'poate' sounds like 'pot' + 'ate' — imagine a pot that might have food, so it’s possible!"
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'maybe' expresses uncertainty or possibility, just like 'poate' helps you express doubt or chance."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'maybe' with the English modal verb 'may' which shows possibility, similar to how 'poate' comes from 'potere' meaning 'to be able to'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

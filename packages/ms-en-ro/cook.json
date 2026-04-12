@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-cook",
+  "parent": "ms-ro-a-gati-682146b5@c55f7c995d1cdf076d3269aec3dc9e40",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cook",
+    "definition": "To prepare food by applying heat.",
+    "pronunciation": "/kʊk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"cook\" originates from Old English \"coc\", which comes from Latin \"coquere\", meaning to prepare food by heating. It has been used in English since early medieval times to describe the process of making food ready to eat.",
+        "targetText": "Cuvântul englezesc „cook” provine din engleza veche „coc”, care la rândul său derivă din latină „coquere”, însemnând a pregăti mâncarea prin încălzire. Este folosit în limba engleză încă din Evul Mediu pentru a desemna procesul de preparare a alimentelor."
+      },
+      "source": "Oxford English Dictionary"
+    },
+    "additional": "\"Cook\" is used both for the literal preparation of food and figuratively, for example, \"to cook up a plan\" or \"emotions cooking over\"."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a găti",
+    "definition": "a pregăti alimente prin aplicarea căldurii",
+    "pronunciation": "/a ɡəˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"găti\" is a loanword from South Slavic, related to Serbian \"gotoviti\" or Bulgarian \"gotvja\", both meaning \"to cook\" or \"to prepare (food)\".",
+        "targetText": "Cuvântul românesc „găti” este un împrumut din slavă, înrudit cu sârbescul „gotoviti” sau bulgărescul „gotvja”, ambele însemnând „a găti” sau „a prepara (mâncare)” ."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "\"A găti\" is used in many culinary contexts, ranging from preparing simple dishes to complex recipes."
+  },
+  "senses": [
+    {
+      "gloss": "Emotions cooking",
+      "explanation": {
+        "sourceText": "Used figuratively to describe strong emotions.",
+        "targetText": "Folosit metaforic pentru emoții puternice."
+      },
+      "examples": [
+        {
+          "sourceText": "Tempers are cooking over.",
+          "targetText": "Emoțiile fierb."
+        }
+      ]
+    },
+    {
+      "gloss": "Cooking as food preparation",
+      "explanation": {
+        "sourceText": "Used when preparing food.",
+        "targetText": "Folosit pentru pregătirea alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am cooking a soup.",
+          "targetText": "Gătesc o supă."
+        },
+        {
+          "sourceText": "Are you cooking dinner?",
+          "targetText": "Găteşti cina?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "cook",
+      "targetText": "bucătar"
+    },
+    {
+      "sourceText": "pan",
+      "targetText": "tigaie"
+    },
+    {
+      "sourceText": "recipe",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "ingredients",
+      "targetText": "ingrediente"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "eat",
+      "targetText": "a mânca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am cooking a soup.",
+      "targetText": "Gătesc o supă."
+    },
+    {
+      "sourceText": "Are you cooking dinner?",
+      "targetText": "Găteşti cina?"
+    },
+    {
+      "sourceText": "He is cooking a new recipe.",
+      "targetText": "El găteşte o reţetă nouă."
+    },
+    {
+      "sourceText": "We are cooking together.",
+      "targetText": "Gătim împreună."
+    },
+    {
+      "sourceText": "Do you cook often?",
+      "targetText": "Gătiţi des?"
+    },
+    {
+      "sourceText": "They cook for the whole family.",
+      "targetText": "Ei gătesc pentru toată familia."
+    },
+    {
+      "sourceText": "I cooked delicious pasta.",
+      "targetText": "Am gătit paste delicioase."
+    },
+    {
+      "sourceText": "She used to cook often for everyone.",
+      "targetText": "În trecut, ea gătea adesea pentru toți."
+    },
+    {
+      "sourceText": "Tomorrow I will cook again.",
+      "targetText": "Mâine voi găti din nou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"a găti\" by imagining you 'gate' (like a gate) to a kitchen where delicious food is prepared."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"găti\" sounding like 'got tea'—you 'got tea' ready by cooking it."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"găti\" with 'gather'—you gather ingredients to cook a meal."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a chef 'gating' the kitchen door to start cooking, linking the sound to the action."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

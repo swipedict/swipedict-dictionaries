@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-building",
+  "parent": "ms-ro-cladire-cc3722af@111f87c23e18d181af8a2723c1e35664",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "building",
+    "genus": "neuter",
+    "definition": "A structure with a roof and walls, such as a house or factory.",
+    "pronunciation": "/ˈbɪldɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"building\" comes from the verb \"to build,\" which traces back to Old English 'byldan', meaning to construct or erect a structure.",
+        "targetText": "Cuvântul englezesc „building” provine din verbul „to build”, care are rădăcini în engleza veche 'byldan', însemnând a construi sau a ridica o structură."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "clădire",
+    "genus": "feminine",
+    "definition": "O construcție folosită ca locuință sau pentru alte scopuri.",
+    "pronunciation": "/kləˈdi.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"clădire\" is derived from the Romanian verb \"a clădi\", which comes from the Slavic \"kladiti\" (to lay, to build). \"Clădire\" is thus an internal Romanian formation.",
+        "targetText": "Cuvântul românesc „clădire” este derivat din verbul „a clădi”, care provine din slavonul „kladiti” (a pune, a construi). „Clădire” este o formare internă în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "architecture",
+      "targetText": "arhitectură"
+    },
+    {
+      "sourceText": "construction",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The building is very old.",
+      "targetText": "Clădirea este foarte veche."
+    },
+    {
+      "sourceText": "We enter the building through the main entrance.",
+      "targetText": "Intrăm în clădire prin intrarea principală."
+    },
+    {
+      "sourceText": "The new building has many windows.",
+      "targetText": "Clădirea nouă are multe ferestre."
+    },
+    {
+      "sourceText": "The building is being renovated.",
+      "targetText": "Clădirea este renovată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"building\" relates to the verb \"to build\"—think of constructing something solid like a house."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"clădire\" sounds like \"clear\"—imagine a building as a clearly defined space."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ire' in Romanian often marks nouns derived from verbs, just like \"clădire\" comes from \"a clădi\" (to build)."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a building as a concrete object you can enter and use, which helps link the word \"clădire\" to a physical structure."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

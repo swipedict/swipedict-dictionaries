@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-citizen",
+  "parent": "ms-ro-cetatean-2a33e198@e91652b81646488ffa29cf33a3760435",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "citizen",
+    "genus": "masculine",
+    "definition": "A person who legally belongs to a city or country and has rights and responsibilities there.",
+    "pronunciation": "/ˈsɪtɪzən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"citizen\" originates from the Old French 'citeien', which derives from Latin 'civitas' meaning 'city' or 'community'. It historically referred to an inhabitant of a city with certain rights.",
+        "targetText": "Cuvântul englezesc „citizen” provine din franceza veche 'citeien', derivat din latinescul 'civitas', care înseamnă 'oraș' sau 'comunitate'. Inițial desemna un locuitor al unui oraș cu anumite drepturi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cetățean",
+    "genus": "masculine",
+    "definition": "Un locuitor al unui oraș sau stat, cu drepturi și obligații.",
+    "pronunciation": "/t͡ʃetaˈt͡se̯an/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cetățean\" is derived internally from 'cetate' (from the Latin 'civitas' meaning city) with the Romanian suffix '-ean' indicating belonging.",
+        "targetText": "Cuvântul românesc „cetățean” este format intern din „cetate” (din latinescul 'civitas') și sufixul românesc '-ean', care indică apartenența."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "citizenship",
+      "targetText": "cetățenie"
+    },
+    {
+      "sourceText": "duties",
+      "targetText": "obligații"
+    },
+    {
+      "sourceText": "rights",
+      "targetText": "drepturi"
+    },
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "foreigner",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The citizen has the right to vote.",
+      "targetText": "Cetățeanul are dreptul să voteze."
+    },
+    {
+      "sourceText": "All citizens must respect the laws.",
+      "targetText": "Toți cetățenii trebuie să respecte legile."
+    },
+    {
+      "sourceText": "The citizens of the city met for an assembly.",
+      "targetText": "Cetățenii orașului s-au întâlnit la adunare."
+    },
+    {
+      "sourceText": "A citizen pays taxes and has duties.",
+      "targetText": "Un cetățean plătește taxe și are obligații."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'citizen' by thinking of 'city'—a citizen is someone who belongs to a city or country."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'cetățean' ends with '-ean', a common suffix for people-related nouns, similar to English '-ian' as in 'Canadian'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'cetate' meaning fortress or city in Romanian, related to Latin 'civitas'—just like 'citizen' comes from 'civitas'."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'cetățean', imagine a citizen standing proudly in front of a fortress ('cetate')."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

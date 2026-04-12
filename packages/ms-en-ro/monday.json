@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-monday",
+  "parent": "ms-ro-luni-cd9ea2c9@d808f58cb5b63420e00ec5aad0467f75",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "Monday",
+    "genus": "masculine",
+    "definition": "The first day of the week, named after the Moon.",
+    "pronunciation": "/ˈmʌn.deɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'Monday' comes from Old English 'Monandæg', meaning 'day of the Moon', reflecting the tradition of naming days after celestial bodies.",
+        "targetText": "Cuvântul englezesc „Monday” provine din engleza veche 'Monandæg', care înseamnă 'ziua Lunii', reflectând tradiția de a denumi zilele după corpuri cerești."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "luni",
+    "genus": "feminine",
+    "definition": "Prima zi a săptămânii, numită după Lună.",
+    "pronunciation": "/ˈluni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'luni' derives from the Latin 'Luna', meaning 'Moon', and designates the day dedicated to the Moon.",
+        "targetText": "Cuvântul românesc „luni” provine din latinescul 'Luna', care înseamnă 'lună', desemnând ziua dedicată lunii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Monday morning",
+      "targetText": "luni dimineața"
+    },
+    {
+      "sourceText": "Sunday",
+      "targetText": "duminică"
+    },
+    {
+      "sourceText": "day",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "week",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Monday is the first day of the workweek.",
+      "targetText": "Luni este prima zi a săptămânii de lucru."
+    },
+    {
+      "sourceText": "I have a doctor's appointment on Monday.",
+      "targetText": "Luni am o programare la doctor."
+    },
+    {
+      "sourceText": "On Mondays, I always go to the gym.",
+      "targetText": "Luni merg întotdeauna la sport."
+    },
+    {
+      "sourceText": "The Monday after the holiday is often stressful.",
+      "targetText": "Luni după sărbătoare este adesea stresant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'Monday' is linked to the Moon, just like the Romanian 'luni' comes from 'Luna'. Think of the moon lighting up the start of your week."
+    },
+    {
+      "lang": "en",
+      "text": "The 'Mon-' in Monday sounds like 'moon', helping you connect it to the Romanian 'luni' which also relates to the Moon."
+    },
+    {
+      "lang": "en",
+      "text": "Monday = Moon day, luni = day of Luna (Moon). Both words share the same celestial origin."
+    },
+    {
+      "lang": "en",
+      "text": "Picture the Moon shining brightly at the beginning of the week to remember that Monday and luni both honor the Moon."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

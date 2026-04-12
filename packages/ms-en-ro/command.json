@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-command",
+  "parent": "ms-ro-a-porunci-a6a96a08@b08e6e1b64959453f39677c284e01fbe",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "command",
+    "definition": "to give an authoritative order or instruction to someone",
+    "pronunciation": "/kəˈmænd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"command\" originates from the Latin 'commandare', meaning 'to entrust' or 'to order'. It entered English through Old French, carrying the sense of giving authoritative instructions.",
+        "targetText": "Cuvântul englezesc „command” provine din latină, de la „commandare”, care înseamnă „a încredința” sau „a ordona”. A intrat în limba engleză prin franceza veche, păstrând sensul de a da instrucțiuni autoritare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb. Often used in contexts involving authority, such as military or formal business environments."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a porunci",
+    "definition": "a da o instrucțiune sau un ordin cuiva",
+    "pronunciation": "/pɔ.runˈtʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a porunci” comes from Slavic, from the verb „poručiti” meaning „to command” or „to order”. It is the standard word for giving commands.",
+        "targetText": "Verbul românesc „a porunci” provine din slavonă, de la „poručiti”, care înseamnă „a porunci” sau „a ordona“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Frequently used in military, formal, and authoritative scenarios."
+  },
+  "senses": [
+    {
+      "gloss": "Instruction",
+      "explanation": {
+        "sourceText": "Used for clear instructions.",
+        "targetText": "Folosit pentru instrucțiuni clare."
+      },
+      "examples": [
+        {
+          "sourceText": "He gives an instruction.",
+          "targetText": "El dă o instrucțiune."
+        }
+      ]
+    },
+    {
+      "gloss": "Order",
+      "explanation": {
+        "sourceText": "Used for giving orders.",
+        "targetText": "Folosit pentru a da ordine."
+      },
+      "examples": [
+        {
+          "sourceText": "He commands his troops.",
+          "targetText": "El dă ordin trupelor sale."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "instruction",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "order",
+      "targetText": "ordin"
+    },
+    {
+      "sourceText": "leader",
+      "targetText": "lider"
+    },
+    {
+      "sourceText": "commander",
+      "targetText": "comandant"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "obey",
+      "targetText": "a asculta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I command you to come.",
+      "targetText": "Îți poruncesc să vii."
+    },
+    {
+      "sourceText": "Do you command the students to be quiet?",
+      "targetText": "Le poruncești elevilor să fie liniștiți?"
+    },
+    {
+      "sourceText": "He commands his men to attack.",
+      "targetText": "El le poruncește bărbaților să atace."
+    },
+    {
+      "sourceText": "We command the troops to advance.",
+      "targetText": "Noi poruncim trupelor să înainteze."
+    },
+    {
+      "sourceText": "Do you command the team to start?",
+      "targetText": "Porunciți echipei să înceapă?"
+    },
+    {
+      "sourceText": "They command the operation.",
+      "targetText": "Ei poruncesc operațiunea."
+    },
+    {
+      "sourceText": "I commanded him to leave.",
+      "targetText": "I-am poruncit să plece."
+    },
+    {
+      "sourceText": "He commanded the soldiers to stay calm.",
+      "targetText": "El le poruncea soldaților să stea liniștiți."
+    },
+    {
+      "sourceText": "I will command him to wait.",
+      "targetText": "Îi voi porunci să aștepte."
+    },
+    {
+      "sourceText": "Command the children to listen!",
+      "targetText": "Poruncește copiilor să asculte!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"command\" is often used in military or formal contexts, just like the Romanian \"a porunci\"."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"command\" as giving a strong order, which matches the Romanian \"a porunci\" meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb conjugates regularly: Eu poruncesc (I command), Am poruncit (I commanded), Voi porunci (I will command)."
+    },
+    {
+      "lang": "en",
+      "text": "Link the sound 'porun-' in Romanian with 'command' by imagining a commanding officer saying 'Porun!' to give orders."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

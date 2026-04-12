@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-sidewalk",
+  "parent": "ms-ro-trotuar-ac49b096@07b45b0486a65dcf4033b234bf30260d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sidewalk",
+    "genus": "masculine",
+    "definition": "A paved path alongside a street designated for pedestrians.",
+    "pronunciation": "/ˈsaɪdwɔːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'sidewalk' is a compound of 'side' and 'walk', referring to a path beside a road for walking.",
+        "targetText": "Cuvântul englezesc „sidewalk” este compus din 'side' (lateral) și 'walk' (a merge), desemnând o cale de mers pe lângă o stradă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "trotuar",
+    "genus": "neuter",
+    "definition": "Ein befestigter Weg am Straßenrand, der für Fußgänger bestimmt ist.",
+    "pronunciation": "/troˈtwar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'trotuar' comes from the French 'trottoir', which means sidewalk or pedestrian path.",
+        "targetText": "Cuvântul românesc „trotuar” provine din franceza 'trottoir', care înseamnă trotuar sau alee pentru pietoni."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sidewalk",
+      "targetText": "trotuar"
+    },
+    {
+      "sourceText": "pedestrian",
+      "targetText": "pieton"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "path",
+      "targetText": "cale"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The sidewalk is reserved for pedestrians.",
+      "targetText": "Trotuarul este rezervat pietonilor."
+    },
+    {
+      "sourceText": "Please use the sidewalk, not the street.",
+      "targetText": "Te rog folosește trotuarul, nu strada."
+    },
+    {
+      "sourceText": "The sidewalk is clean and well-lit.",
+      "targetText": "Trotuarul este curat și bine luminat."
+    },
+    {
+      "sourceText": "Children walk safely on the sidewalk to school.",
+      "targetText": "Copiii merg în siguranță pe trotuar la școală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'trotuar' sounds very similar to the French 'trottoir', which means sidewalk—think of a French sidewalk to remember it."
+    },
+    {
+      "lang": "en",
+      "text": "Notice that 'trotuar' ends with '-ar', a common ending for Romanian nouns naming places or objects."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'trot' safely along the 'trotuar', keeping clear of traffic—this helps link the word to walking paths."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'sidewalk' with 'trotuar' as the safe pedestrian path beside the street."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

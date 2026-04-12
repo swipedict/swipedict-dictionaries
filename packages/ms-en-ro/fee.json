@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-fee",
+  "parent": "ms-ro-taxa-f2e3eb84@617802274106b08384fe7edfef6318a5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fee",
+    "genus": "feminine",
+    "definition": "A fixed amount of money charged for a service or official procedure.",
+    "pronunciation": "/fiː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"fee\" originates from Old English 'feoh', meaning cattle or property, which later evolved to signify a payment or charge for services.",
+        "targetText": "Cuvântul englezesc „fee” provine din engleza veche 'feoh', care însemna vite sau proprietate, și a evoluat ulterior pentru a desemna o plată sau o taxă pentru servicii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "taxă",
+    "genus": "feminine",
+    "definition": "O sumă fixă de bani care trebuie plătită pentru un serviciu sau o acțiune oficială.",
+    "pronunciation": "/ˈtak.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"taxă\" comes from the Latin 'taxa', meaning 'assessment' or 'charge', borrowed from Latin.",
+        "targetText": "Cuvântul românesc „taxă” provine din latină 'taxa', care însemna 'evaluare' sau 'taxă', împrumutat din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to pay a fee",
+      "targetText": "a plăti taxa"
+    },
+    {
+      "sourceText": "fee schedule",
+      "targetText": "tarif"
+    },
+    {
+      "sourceText": "costs",
+      "targetText": "costuri"
+    },
+    {
+      "sourceText": "penalty",
+      "targetText": "amendă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "free of charge",
+      "targetText": "gratuit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The fee for issuing the passport is 50 euros.",
+      "targetText": "Taxa pentru eliberarea pașaportului este de 50 de euro."
+    },
+    {
+      "sourceText": "You have to pay a fee to use the swimming pool.",
+      "targetText": "Trebuie să plătești o taxă pentru utilizarea piscinei."
+    },
+    {
+      "sourceText": "The fee is charged annually.",
+      "targetText": "Taxa se percepe anual."
+    },
+    {
+      "sourceText": "Entry is not possible without a fee.",
+      "targetText": "Intrarea nu este posibilă fără taxă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fee' sounds like 'fee' in English, which is a common term for a payment or charge."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'taxă' is related to the English word 'tax', both referring to charges or payments."
+    },
+    {
+      "lang": "en",
+      "text": "Think of paying a 'fee' as paying a fixed 'taxă' for a service, both involve money for official purposes."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'taxa' means assessment, which helps link 'taxă' with the idea of a set charge or fee."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-main-course",
+  "parent": "ms-ro-fel-principal-c2a9c7c3@8791ba37517f0e2b70eb6fa231129c5b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "main course",
+    "definition": "The primary or central dish of a meal, usually served after the appetizer.",
+    "pronunciation": "/meɪn kɔːrs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'main course' combines 'main', meaning principal or most important, derived from Old English 'mægen' meaning strength or power, and 'course', referring to a part of a meal served in sequence, from Old French 'cours' meaning a running or a course of a meal.",
+        "targetText": "Cuvântul englezesc „main course” combină „main”, care înseamnă principal sau cel mai important, derivat din engleza veche „mægen” ce înseamnă putere sau forță, și „course”, referindu-se la o parte a unei mese servite în succesiune, provenit din franceza veche „cours” care înseamnă o cursă sau o etapă a mesei."
+      },
+      "source": "Etymological Dictionaries English"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fel principal",
+    "genus": "neuter",
+    "definition": "Felul de mâncare cel mai important sau central al unei mese, servit de obicei după aperitiv.",
+    "pronunciation": "/fel prin.tsiˈpal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „fel principal” consists of 'fel', derived from the Latin 'filum' (thread), which evolved in Romanian to mean 'kind' or 'type', and 'principal', from Latin 'principalis' meaning 'main' or 'important'.",
+        "targetText": "Expresia românească „fel principal” este formată din 'fel', provenit din latinescul 'filum' (ață, fir), cu sens evoluat spre 'tip' sau 'sortă', și 'principal', din latinescul 'principalis' ('principal', 'important')."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "menu",
+      "targetText": "meniu"
+    },
+    {
+      "sourceText": "dessert",
+      "targetText": "desert"
+    },
+    {
+      "sourceText": "dish",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "appetizer",
+      "targetText": "aperitiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "appetizer",
+      "targetText": "aperitiv"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The main course today consists of grilled fish with vegetables.",
+      "targetText": "Felul principal de astăzi este pește la grătar cu legume."
+    },
+    {
+      "sourceText": "After the appetizer comes the main course.",
+      "targetText": "După aperitiv urmează felul principal."
+    },
+    {
+      "sourceText": "At the restaurant, I ordered the main course with beef.",
+      "targetText": "La restaurant am comandat felul principal cu carne de vită."
+    },
+    {
+      "sourceText": "The main course is often the most elaborate part of a menu.",
+      "targetText": "Felul principal este adesea cea mai elaborată parte a unui meniu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'main course' as the 'main event' of your meal – the dish that takes center stage after the appetizer."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'fel' sounds like 'fell' in English; imagine you 'fell' in love with a type (fel) of food – it means 'kind' or 'type'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'principal' in Romanian is like 'principal' in English meaning 'main' or 'most important', so 'fel principal' means main kind or main dish."
+    },
+    {
+      "lang": "en",
+      "text": "Picture ordering the 'fel principal' as asking for the 'principal' or 'head' dish, the star of the meal."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

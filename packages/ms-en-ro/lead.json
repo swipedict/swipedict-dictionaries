@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-lead",
+  "parent": "ms-ro-a-conduce-a4efa698@cd6806e7b27b0f5b4a0f5a939c9015a5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lead",
+    "definition": "to guide or direct something or someone along a path or in a process",
+    "pronunciation": "/liːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"lead\" originates from Old English \"lǣdan\", meaning to guide or bring forth, related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „lead” provine din engleza veche „lǣdan”, însemnând a ghida sau a conduce, fiind înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb often used in organizational or figurative contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a conduce",
+    "definition": "a îndruma sau a oferi o direcție",
+    "pronunciation": "/a 'kondu.tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a conduce\" derives from the Latin \"conducere\" (to bring together, to lead).",
+        "targetText": "Verbul românesc „a conduce“ provine din latină, din „conducere“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 3rd conjugation (-e). Often used in connection with leading projects or groups."
+  },
+  "senses": [
+    {
+      "gloss": "instruct",
+      "explanation": {
+        "sourceText": "Also means to help someone learn something.",
+        "targetText": "Înseamnă a ajuta pe cineva să învețe ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I lead the students in mathematics.",
+          "targetText": "Eu îndrum elevii în matematică."
+        }
+      ]
+    },
+    {
+      "gloss": "conduct",
+      "explanation": {
+        "sourceText": "In music, also refers to directing an orchestra.",
+        "targetText": "În muzică, a conduce o orchestră."
+      },
+      "examples": [
+        {
+          "sourceText": "The conductor leads the orchestra.",
+          "targetText": "Dirijorul conduce orchestra."
+        }
+      ]
+    },
+    {
+      "gloss": "guide",
+      "explanation": {
+        "sourceText": "Means to guide or direct something or someone.",
+        "targetText": "Înseamnă a conduce ceva sau pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "I lead the car.",
+          "targetText": "Eu conduc mașina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "group",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "teacher",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "project",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "school",
+      "targetText": "școală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "follow",
+      "targetText": "a urma"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I lead the team.",
+      "targetText": "Eu conduc echipa."
+    },
+    {
+      "sourceText": "Do you lead the meeting?",
+      "targetText": "Conduci ședința?"
+    },
+    {
+      "sourceText": "He leads the course.",
+      "targetText": "El conduce cursul."
+    },
+    {
+      "sourceText": "We lead the project together.",
+      "targetText": "Noi conducem proiectul împreună."
+    },
+    {
+      "sourceText": "Do you (plural) lead the meeting?",
+      "targetText": "Conduceți întâlnirea?"
+    },
+    {
+      "sourceText": "They lead the discussion.",
+      "targetText": "Ei conduc discuția."
+    },
+    {
+      "sourceText": "I have led the meeting.",
+      "targetText": "Am condus întâlnirea."
+    },
+    {
+      "sourceText": "They have led the seminar.",
+      "targetText": "Au condus seminarul."
+    },
+    {
+      "sourceText": "She always led the school with heart.",
+      "targetText": "Ea conducea întotdeauna școala cu inima."
+    },
+    {
+      "sourceText": "We had successfully led the project.",
+      "targetText": "Noi condusesem proiectul cu succes."
+    },
+    {
+      "sourceText": "I will lead the seminar.",
+      "targetText": "Voi conduce seminarul."
+    },
+    {
+      "sourceText": "He will lead the event.",
+      "targetText": "El o să conducă evenimentul."
+    },
+    {
+      "sourceText": "I would lead marketing if I got the job.",
+      "targetText": "Aș conduce marketingul dacă aș primi jobul."
+    },
+    {
+      "sourceText": "It is important that you lead the team.",
+      "targetText": "Este important să conduci echipa."
+    },
+    {
+      "sourceText": "Lead the discussion!",
+      "targetText": "Condu discuția!"
+    },
+    {
+      "sourceText": "Lead the project!",
+      "targetText": "Conduceți proiectul!"
+    },
+    {
+      "sourceText": "The led course was informative.",
+      "targetText": "Cursul condus a fost informativ."
+    },
+    {
+      "sourceText": "The project is now led.",
+      "targetText": "Proiectul este acum condus."
+    },
+    {
+      "sourceText": "By leading the meeting, I clarify the questions.",
+      "targetText": "Conducând întâlnirea, clarific întrebările."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"lead\" can mean both to guide people and to be in charge, similar to how \"a conduce\" means to direct or drive."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English noun \"leadership\" to connect with the Romanian \"conducere\", which means leadership or guidance."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the present tense forms of \"a conduce\": conduc (I lead), conduci (you lead), conduce (he/she leads), conducem (we lead), conduceți (you plural lead), conduc (they lead). Saying them aloud helps memorization!"
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"conduce\" with the English word \"conduct\" to remember it can mean to direct or guide, especially in contexts like music or projects."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

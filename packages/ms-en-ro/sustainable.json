@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-sustainable",
+  "parent": "ms-ro-durabil-029aeae0@23741c5bc768cd26952c71263e99986a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:c1",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sustainable",
+    "definition": "Describes something that can be maintained over time without depleting resources or causing harm.",
+    "pronunciation": "/səˈsteɪnəbəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'sustainable' comes from the Latin 'sustinere' meaning 'to hold up' or 'to support', and was adopted into English to describe the ability to maintain or endure over time.",
+        "targetText": "Cuvântul englezesc „sustainable” provine din latină, din 'sustinere', care înseamnă 'a susține' sau 'a sprijini', și a fost preluat în engleză pentru a descrie capacitatea de a menține sau rezista în timp."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "durabil",
+    "definition": "Care are un efect pe termen lung și protejează resursele.",
+    "pronunciation": "/duˈrabil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'durabil' derives from the Latin 'durabilis', meaning 'resistant' or 'durable'.",
+        "targetText": "Cuvântul românesc „durabil” provine din latinescul 'durabilis', care înseamnă 'rezistent' sau 'durabil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sustainable development",
+      "targetText": "dezvoltare durabilă"
+    },
+    {
+      "sourceText": "resources",
+      "targetText": "resurse"
+    },
+    {
+      "sourceText": "protection",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "environment",
+      "targetText": "mediu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "short-term",
+      "targetText": "pe termen scurt"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "We need sustainable solutions for environmental protection.",
+      "targetText": "Avem nevoie de soluții durabile pentru protecția mediului."
+    },
+    {
+      "sourceText": "Sustainable energy sources are important for the future.",
+      "targetText": "Sursele de energie durabile sunt importante pentru viitor."
+    },
+    {
+      "sourceText": "The company relies on sustainable production.",
+      "targetText": "Compania se bazează pe producție durabilă."
+    },
+    {
+      "sourceText": "Sustainable actions protect nature.",
+      "targetText": "Acțiunile durabile protejează natura."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'durabil' sounds like 'durable' in English, both meaning long-lasting and strong."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'durabil' as related to 'endure' or 'duration'—words that imply lasting over time."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'sustainable' helps you recall 'durabil' because both relate to lasting without harm."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a durable product that lasts long and protects resources—this is 'durabil' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

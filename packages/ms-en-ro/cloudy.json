@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-cloudy",
+  "parent": "ms-ro-innorat-c5b1119a@84d9e7539a6075a3a3af51b84cadac72",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cloudy",
+    "definition": "Covered with or characterized by clouds, especially referring to the sky when it is overcast.",
+    "pronunciation": "/ˈklaʊ.di/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"cloudy\" comes from the noun \"cloud,\" which originates from Old English \"clud\" meaning 'mass of rock or hill' and later 'mass of vapor or cloud.' The suffix '-y' is added to form an adjective indicating 'full of or characterized by clouds.'",
+        "targetText": "Cuvântul englezesc „cloudy” provine de la substantivul „cloud”, care își are originea în engleza veche „clud” însemnând 'masă de piatră sau deal' și ulterior 'masă de vapori sau nor'. Sufixul „-y” este adăugat pentru a forma un adjectiv care indică „plin de sau caracterizat prin nori”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "înnorat",
+    "definition": "Cer acoperit cu nori, fără soare vizibil.",
+    "pronunciation": "/ɨnnoˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"înnorat\" derives from the noun \"nor,\" which comes from the Latin \"nubes\" (cloud). The prefix \"în-\" is used to form the adjective meaning \"covered with clouds.\"",
+        "targetText": "Cuvântul românesc „înnorat” provine de la substantivul „nor”, derivat din latinescul „nubes” (nor). Prefixul „în-” este folosit pentru a forma adjectivul cu sensul de „acoperit de nori”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sky",
+      "targetText": "cer"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "sun",
+      "targetText": "soare"
+    },
+    {
+      "sourceText": "cloud",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sunny",
+      "targetText": "senin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Today it is cloudy and it might rain.",
+      "targetText": "Astăzi este înnorat și ar putea ploua."
+    },
+    {
+      "sourceText": "The sky is cloudy, but it is still warm.",
+      "targetText": "Cerul este înnorat, dar încă este cald."
+    },
+    {
+      "sourceText": "Tomorrow will be cloudy with isolated showers.",
+      "targetText": "Mâine va fi înnorat cu averse izolate."
+    },
+    {
+      "sourceText": "Cloudy days are often cooler than sunny ones.",
+      "targetText": "Zilele înnorate sunt adesea mai răcoroase decât cele senine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'cloudy' as the sky being full of 'clouds'—the '-y' ending means 'full of' or 'characterized by.'"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'înnorat' starts with 'în-', similar to the English 'in-', indicating something is 'in a state of' clouds."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'nor' means 'cloud' in Romanian, so 'înnorat' literally means 'clouded' or 'covered with clouds.'"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the clouds 'wrapping' the sky, which helps you recall the prefix 'în-' in 'înnorat.'"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

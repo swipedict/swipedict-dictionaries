@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Dictionary Tag Array Schema",
+  "description": "Defines the structure and allowed values for the 'tags' array in a dictionary entry. For specific count rules per namespace, the processing script's custom validator is used.",
+  "type": "array",
+  "items": {
+    "type": "string",
+    "enum": [
+      "level:a1", "level:a2", "level:b1", "level:b2", "level:c1", "level:c2",
+      "etymology:latin", "etymology:slavic", "etymology:germanic", "etymology:french", "etymology:italian", "etymology:turkish", "etymology:greek", "etymology:hungarian", "etymology:dacian", "etymology:internal", "etymology:unknown",
+      "topic:people-society", "topic:body-health", "topic:emotions-character", "topic:food-drink", "topic:home-living", "topic:objects-clothing", "topic:nature-environment", "topic:animals", "topic:work-education", "topic:leisure-culture", "topic:places-geography", "topic:transport-movement", "topic:concepts-abstract", "topic:time-numbers", "topic:actions-verbs",
+      "register:neutral", "register:formal", "register:informal", "register:technical", "register:slang", "register:poetic",
+      "property:concrete", "property:abstract", "property:action", "property:state", "property:quality"
+    ]
+  },
+  "minItems": 5,
+  "maxItems": 6,
+  "uniqueItems": true
+}

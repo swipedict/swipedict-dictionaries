@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-execute",
+  "parent": "ms-ro-a-executa-3105e8a6@23b6415e276d31aab0ef6150c7d0416d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "execute",
+    "definition": "to carry out or perform a task, order, or plan",
+    "pronunciation": "/ˈɛksɪkjuːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'execute' comes from the Latin 'exsequi', meaning to carry out or follow through with an action or order.",
+        "targetText": "Cuvântul englezesc „execute“ provine din latină, din termenul „exsequi“, care înseamnă a duce la îndeplinire sau a urma o acțiune ori o poruncă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Refers to the implementation of plans or instructions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a executa",
+    "definition": "a îndeplini o sarcină sau o instrucțiune",
+    "pronunciation": "/a eksɛkuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a executa“ comes from the Latin „exsequi“, meaning to carry out or follow through. It is used to describe the fulfillment of tasks.",
+        "targetText": "Verbul românesc „a executa“ derivă din latinescul „exsequi“, care înseamnă „a urma“ sau „a realiza“. Este folosit pentru a descrie îndeplinirea sarcinilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in rechtlichen, technischen und praktischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Execution",
+      "explanation": {
+        "sourceText": "Means the carrying out of a plan or task.",
+        "targetText": "Înseamnă realizarea unui plan sau a unei sarcini."
+      },
+      "examples": [
+        {
+          "sourceText": "The execution of the plan was flawed.",
+          "targetText": "Executarea planului a fost defectuoasă."
+        }
+      ]
+    },
+    {
+      "gloss": "Realization",
+      "explanation": {
+        "sourceText": "Closely related to the concept of 'execute'.",
+        "targetText": "Este strâns legat de conceptul de „a realiza“."
+      },
+      "examples": [
+        {
+          "sourceText": "He wants to realize his ideas.",
+          "targetText": "El vrea să-și pună ideile în aplicare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "instruction",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "task",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "command",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "implementation",
+      "targetText": "executare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "refuse",
+      "targetText": "a refuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I execute the instruction.",
+      "targetText": "Eu execut instrucțiunile."
+    },
+    {
+      "sourceText": "He successfully executed the task.",
+      "targetText": "El a executat cu succes sarcina."
+    },
+    {
+      "sourceText": "We will execute the project.",
+      "targetText": "Noi vom executa proiectul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'execute' sounds like 'a executa'—both mean to carry out or perform something."
+    },
+    {
+      "lang": "en",
+      "text": "Think of executing a computer program to remember 'a executa' means to carry out a task."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'execute' is often used in legal and technical contexts, just like 'a executa' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'execute' with 'execution'—both share the root and relate to completing actions."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

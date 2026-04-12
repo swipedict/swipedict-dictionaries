@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-body",
+  "parent": "ms-ro-corp-065061a4@aa45a769bd73693bcf2a9bf026f05cba",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "body",
+    "genus": "masculine",
+    "definition": "The physical structure of a person or an animal.",
+    "pronunciation": "/ˈbɒdi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"body\" originates from the Old English 'bodig', which referred to a trunk or chest, and is related to the Latin 'bodica', meaning a container or box, reflecting the concept of the physical frame or structure.",
+        "targetText": "Cuvântul englezesc „body” provine din engleza veche 'bodig', care se referea la trunchi sau piept, și este legat de latinul 'bodica', care înseamnă un recipient sau cutie, reflectând conceptul de structură fizică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "corp",
+    "genus": "neuter",
+    "definition": "Trupul fizic al unei persoane sau al unui animal.",
+    "pronunciation": "/korp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"corp\" derives directly from the Latin 'corpus', meaning 'body' or 'flesh'.",
+        "targetText": "Cuvântul românesc „corp” provine direct din latinul 'corpus', care înseamnă 'trup' sau 'corp'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "leg",
+      "targetText": "picior"
+    },
+    {
+      "sourceText": "hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "heart",
+      "targetText": "inimă"
+    },
+    {
+      "sourceText": "head",
+      "targetText": "cap"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The body needs movement and rest.",
+      "targetText": "Corpul are nevoie de mișcare și odihnă."
+    },
+    {
+      "sourceText": "He has a strong body.",
+      "targetText": "El are un corp puternic."
+    },
+    {
+      "sourceText": "The human body is complex.",
+      "targetText": "Corpul uman este complex."
+    },
+    {
+      "sourceText": "The body consists of many organs.",
+      "targetText": "Corpul este format din multe organe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word “corp” comes from Latin 'corpus', just like the English word 'corpse', which means a dead body."
+    },
+    {
+      "lang": "en",
+      "text": "Think of “corp” as sounding like 'core'—the core of a person is their body."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'body' and Romanian 'corp' both relate to the physical structure, so linking them helps memorization."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine your body as a 'corporation' of organs working together—'corp' is the root of both words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

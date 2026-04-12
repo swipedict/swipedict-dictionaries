@@ -1,0 +1,176 @@
+{
+  "id": "ms-en-ro-director",
+  "parent": "ms-ro-director-1e90d3f0@bd308e4b634abd7704e6e71411f7a954",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "director",
+    "genus": "masculine",
+    "definition": "a person who manages or leads an educational institution, company, or organization",
+    "pronunciation": "/dəˈrɛktər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"director\" comes from the Latin \"director\", meaning \"one who directs or guides.\" It derives from the verb \"dirigere,\" which means \"to direct or steer.\"",
+        "targetText": "Cuvântul englezesc „director“ provine din latină „director“, care înseamnă „conducător“ și derivă din „dirigere“ („a conduce, a îndruma“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A director is typically the person responsible for leading an educational institution, a company, or a department."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "director",
+    "genus": "masculine",
+    "definition": "o persoană care conduce o instituție de învățământ, o companie sau o organizație",
+    "pronunciation": "/diˈrekt͡sor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "In Romanian, \"director\" also derives from the Latin \"director\" and carries the same meaning as a leader or manager in various institutions.",
+        "targetText": "Cuvântul românesc „director“ provine din latină „director“ și desemnează o persoană care conduce o instituție sau organizație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Direcții joacă un rol important în conducerea strategică și administrativă."
+  },
+  "senses": [
+    {
+      "gloss": "director (educational institution)",
+      "explanation": {
+        "sourceText": "A person who leads an educational institution.",
+        "targetText": "O persoană care conduce o instituție de învățământ."
+      },
+      "examples": [
+        {
+          "sourceText": "He is the director of the university.",
+          "targetText": "El este directorul universității."
+        }
+      ]
+    },
+    {
+      "gloss": "director (company)",
+      "explanation": {
+        "sourceText": "A person who manages a company.",
+        "targetText": "O persoană care conduce o companie."
+      },
+      "examples": [
+        {
+          "sourceText": "The director introduced new business ideas.",
+          "targetText": "Directorul a prezentat idei de afaceri noi."
+        }
+      ]
+    },
+    {
+      "gloss": "film director",
+      "explanation": {
+        "sourceText": "A director who leads films or theatrical productions.",
+        "targetText": "Un director care conduce filme sau piese de teatru."
+      },
+      "examples": [
+        {
+          "sourceText": "The film director has won many awards.",
+          "targetText": "Directorul filmului a câștigat multe premii."
+        }
+      ]
+    },
+    {
+      "gloss": "school principal",
+      "explanation": {
+        "sourceText": "A specific role within a school.",
+        "targetText": "O funcție specifică într-o școală."
+      },
+      "examples": [
+        {
+          "sourceText": "The principal is responsible for school organization.",
+          "targetText": "Directorul de școală este responsabil de organizarea școlii."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "leader",
+      "targetText": "șef"
+    },
+    {
+      "sourceText": "manager",
+      "targetText": "manager"
+    },
+    {
+      "sourceText": "superior",
+      "targetText": "superior"
+    },
+    {
+      "sourceText": "board",
+      "targetText": "consiliu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "subordinate",
+      "targetText": "subordonat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The director approved the new project.",
+      "targetText": "Directorul a aprobat noul proiect."
+    },
+    {
+      "sourceText": "I work closely with the school director.",
+      "targetText": "Colaborez îndeaproape cu directorul școlii."
+    },
+    {
+      "sourceText": "The director holds regular meetings with the team.",
+      "targetText": "Directorul organizează întâlniri regulate cu echipa."
+    },
+    {
+      "sourceText": "The director's decision was very strategic.",
+      "targetText": "Decizia directorului a fost foarte strategică."
+    },
+    {
+      "sourceText": "He will be the new director of the company.",
+      "targetText": "El va fi noul director al firmei."
+    },
+    {
+      "sourceText": "The director plays an important role in the organization.",
+      "targetText": "Directorul joacă un rol important în organizație."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"director\" as someone who 'directs' or guides a company or school, just like a movie director guides a film."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the word \"direct\" inside \"director\" to recall that this person shows the direct way forward."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a director wearing a suit and holding a clipboard, managing everything smoothly—that image helps you remember the role."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"director\" with leadership and decision-making, like a CEO or principal, to connect the meaning easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

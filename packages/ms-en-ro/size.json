@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-size",
+  "parent": "ms-ro-marime-29b3df72@46a342a8e191582a82a9bf860ac1668b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "size",
+    "genus": "feminine",
+    "definition": "The measurement or extent of an object or person; also used figuratively to indicate importance or magnitude.",
+    "pronunciation": "/saɪz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'size' originates from the Old French 'sis' or 'size', which came from the Latin 'situs', meaning 'position' or 'site'. Over time, it evolved to mean the measurement or dimension of something.",
+        "targetText": "Cuvântul englezesc „size” provine din vechiul francez 'sis' sau 'size', care la rândul său derivă din latină 'situs', însemnând 'poziție' sau 'loc'. În timp, a evoluat să însemne măsura sau dimensiunea unui obiect."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mărime",
+    "genus": "feminine",
+    "definition": "Măsura sau dimensiunea unui obiect sau a unei persoane; folosit și în sens figurat pentru importanță sau amploare.",
+    "pronunciation": "/məˈri.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'mărime' comes from the Latin noun 'magnitātem' (accusative of 'magnitās'), meaning 'size' or 'extent', evolving in Romanian to mean measure or dimension.",
+        "targetText": "Cuvântul românesc „mărime” provine din substantivul latin 'magnitātem' (acusativul lui 'magnitās'), care înseamnă 'mărime' sau 'extindere', evoluând în română cu sensul de măsură sau dimensiune."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "width",
+      "targetText": "lățime"
+    },
+    {
+      "sourceText": "height",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "length",
+      "targetText": "lungime"
+    },
+    {
+      "sourceText": "measure",
+      "targetText": "măsură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "smallness",
+      "targetText": "micime"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The size of the house is impressive.",
+      "targetText": "Mărimea casei este impresionantă."
+    },
+    {
+      "sourceText": "What size do you wear for this shirt?",
+      "targetText": "Ce mărime porți la această cămașă?"
+    },
+    {
+      "sourceText": "The size of the problem was underestimated.",
+      "targetText": "Mărimea problemei a fost subestimată."
+    },
+    {
+      "sourceText": "The size of the tree is about 20 meters.",
+      "targetText": "Înălțimea copacului este de aproximativ 20 de metri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'size' sounds like 'sighs'—imagine sighing when something is too big or too small to remember the word."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'mărime' starts with 'm' like 'measure', which helps link it to the concept of size."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mărime' as related to 'magnitude'—both start with 'm' and relate to dimensions or importance."
+    },
+    {
+      "lang": "en",
+      "text": "Picture measuring something with a tape measure to recall 'mărime' as the size or dimension."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

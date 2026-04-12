@@ -1,0 +1,139 @@
+{
+  "id": "ms-en-ro-angry",
+  "parent": "ms-ro-furios-f304ed0d@d4ebfbc22a1f9a22c750b44d086b0cca",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "angry",
+    "definition": "feeling or showing strong displeasure or annoyance",
+    "pronunciation": "/ˈæŋɡri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"angry\" comes from Old Norse \"angr\" meaning grief or sorrow, evolving to describe a state of strong displeasure or wrath.",
+        "targetText": "Cuvântul englez „angry” provine din vechiul norvegian „angr”, care înseamnă durere sau tristețe, evoluând pentru a descrie o stare de supărare puternică sau mânie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "\"Angry\" is commonly used to express a strong emotional state of displeasure or rage."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "furios",
+    "genus": "masculine",
+    "definition": "a fi foarte supărat sau deranjat",
+    "pronunciation": "/fuˈri.os/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"furios\" derives from Latin \"furiosus\", meaning \"furious\" or \"wild\", from \"furere\" meaning \"to rage\". It expresses intense anger.",
+        "targetText": "Cuvântul românesc „furios” derivă din latină „furiosus”, însemnând „furios” sau „sălbatic”, provenind de la „furere” („a se înfuria“), exprimând mânie intensă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "annoyed",
+      "explanation": {
+        "sourceText": "A milder state than angry, sometimes used like 'furious' especially in severe situations.",
+        "targetText": "O stare mai blândă decât „zornig“, folosită uneori pentru a descrie supărare puternică."
+      },
+      "examples": []
+    },
+    {
+      "gloss": "furious",
+      "explanation": {
+        "sourceText": "In a state of intense anger.",
+        "targetText": "Într-o stare de mânie."
+      },
+      "examples": []
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "anger",
+      "targetText": "mânie"
+    },
+    {
+      "sourceText": "disappointment",
+      "targetText": "dezamăgire"
+    },
+    {
+      "sourceText": "frustration",
+      "targetText": "frustrare"
+    },
+    {
+      "sourceText": "rage",
+      "targetText": "furie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "peaceful",
+      "targetText": "liniștit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He became angry about the injustice.",
+      "targetText": "El a devenit furios din cauza nedreptății."
+    },
+    {
+      "sourceText": "Don't be angry, it was not intentional.",
+      "targetText": "Nu fi furios, nu a fost intenționat."
+    },
+    {
+      "sourceText": "Her angry face revealed her emotions.",
+      "targetText": "Fața ei furioasă a trădat emoțiile sale."
+    },
+    {
+      "sourceText": "He did not control the angry reaction.",
+      "targetText": "El nu a controlat reacția sa furioasă."
+    },
+    {
+      "sourceText": "Angrily, he turned away.",
+      "targetText": "Furios, el s-a întors."
+    },
+    {
+      "sourceText": "Her angry behavior was disproportionate.",
+      "targetText": "Comportamentul ei furios a fost disproporționat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'furios' sounds like 'furious' in English, both meaning very angry."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a furious storm to recall 'furios' as intense anger."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'furios' to the English word 'fury' which shares the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a furious lion roaring to remember the strong emotion behind 'furios'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

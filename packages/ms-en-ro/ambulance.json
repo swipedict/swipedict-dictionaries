@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-ambulance",
+  "parent": "ms-ro-ambulanta-0c1783bd@217dc5237136f008df4aacb4b2dc614f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ambulance",
+    "genus": "masculine",
+    "definition": "A vehicle equipped to transport sick or injured people to a hospital or medical facility.",
+    "pronunciation": "/ˈæmbjələns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'ambulance' comes from the Latin verb 'ambulare', meaning 'to walk' or 'to move about'. It was originally used to describe mobile field hospitals and later came to refer to vehicles transporting patients.",
+        "targetText": "Cuvântul englezesc „ambulance” provine din verbul latin 'ambulare', care înseamnă 'a merge' sau 'a se mișca'. Inițial desemna spitalele mobile de campanie și ulterior a ajuns să desemneze vehiculele care transportă pacienți."
+      },
+      "source": "Etymological dictionaries, historical sources"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ambulanță",
+    "genus": "feminine",
+    "definition": "Vehicul destinat transportului persoanelor bolnave sau rănite către spital.",
+    "pronunciation": "/ambuˈlant͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'ambulanță' derives from the Latin verb 'ambulare', meaning 'to walk' or 'to move', and was adopted through the French 'ambulance', originally referring to mobile field hospitals.",
+        "targetText": "Cuvântul românesc „ambulanță” provine din verbul latin 'ambulare', care înseamnă 'a merge' sau 'a se mișca', și a fost preluat prin franceza 'ambulance', inițial denumind spitalele mobile de campanie."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "emergency",
+      "targetText": "urgență"
+    },
+    {
+      "sourceText": "rescue",
+      "targetText": "salvare"
+    },
+    {
+      "sourceText": "paramedic",
+      "targetText": "paramedic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The ambulance arrived quickly at the accident site.",
+      "targetText": "Ambulanța a sosit rapid la locul accidentului."
+    },
+    {
+      "sourceText": "The patient is medically cared for inside the ambulance.",
+      "targetText": "În ambulanță pacientul este îngrijit medical."
+    },
+    {
+      "sourceText": "The ambulance transports injured people to the hospital.",
+      "targetText": "Ambulanța transportă răniții la spital."
+    },
+    {
+      "sourceText": "You should only call an ambulance in an emergency.",
+      "targetText": "Trebuie să suni ambulanța doar în caz de urgență."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ambulance' comes from 'ambulare', Latin for 'to walk' or 'to move'—think of it as a vehicle that moves patients to help."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ambulanță' sounds like 'ambulance' in English, making it easy to recall their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'ambulance' as 'ambulant'—mobile and moving—just like the vehicle that transports the sick."
+    },
+    {
+      "lang": "en",
+      "text": "The '-anță' ending in 'ambulanță' is common in Romanian nouns, similar to English '-ance' in words like 'ambulance' or 'tolerance'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

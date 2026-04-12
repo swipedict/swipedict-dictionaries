@@ -1,0 +1,153 @@
+{
+  "id": "ms-en-ro-accept",
+  "parent": "ms-ro-a-accepta-00bb567a@87eedf8afd0624df5b5c521bdab432ed",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "accept",
+    "definition": "to receive or agree to something offered",
+    "pronunciation": "/əkˈsɛpt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'accept' comes from the Latin 'acceptare', a frequentative form of 'accipere', meaning 'to take or receive'. It is formed from 'ad-' meaning 'to' and 'capere' meaning 'to take'.",
+        "targetText": "Cuvântul englezesc „accept“ provine din latină, din „acceptare“, o formă frecventativă a lui „accipere“, care înseamnă „a lua sau a primi“. Este format din „ad-“ care înseamnă „către“ și „capere“ care înseamnă „a lua“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used in various contexts, such as accepting an offer or agreeing to terms."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a accepta",
+    "definition": "a primi sau a accepta ceva",
+    "pronunciation": "/a ak.cepˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb derives from the Latin 'acceptare', composed of 'ad' (to) and 'capere' (to take), meaning 'to accept' or 'to receive'.",
+        "targetText": "Verbul provine din latină, din „acceptare“, format din „ad“ (către) și „capere“ (a prinde), și înseamnă „a accepta“ sau „a primi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Commonly used to accept offers or gifts."
+  },
+  "senses": [
+    {
+      "gloss": "To agree",
+      "explanation": {
+        "sourceText": "Used to express agreement or consent.",
+        "targetText": "Folosit pentru a exprima acordul."
+      },
+      "examples": [
+        {
+          "sourceText": "I accept the terms.",
+          "targetText": "Accept condițiile."
+        }
+      ]
+    },
+    {
+      "gloss": "To accept an offer",
+      "explanation": {
+        "sourceText": "Used for accepting an offer.",
+        "targetText": "Folosit pentru a accepta o ofertă."
+      },
+      "examples": [
+        {
+          "sourceText": "I accept the offer.",
+          "targetText": "Accept oferta."
+        }
+      ]
+    },
+    {
+      "gloss": "To receive a gift",
+      "explanation": {
+        "sourceText": "Used in the context of receiving gifts.",
+        "targetText": "Folosit în contextul cadourilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Accept the gift!",
+          "targetText": "Acceptă cadoul!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "invitation",
+      "targetText": "invitație"
+    },
+    {
+      "sourceText": "gift",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "surprise",
+      "targetText": "surpriză"
+    },
+    {
+      "sourceText": "approval",
+      "targetText": "aprobare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "decline",
+      "targetText": "a renunța la"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I accept the offer.",
+      "targetText": "Accept oferta."
+    },
+    {
+      "sourceText": "I have accepted the offer.",
+      "targetText": "Am acceptat oferta."
+    },
+    {
+      "sourceText": "I will accept it.",
+      "targetText": "Voi accepta."
+    },
+    {
+      "sourceText": "Accept the gift!",
+      "targetText": "Acceptă cadoul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'accept' and Romanian 'accepta' look and sound very similar, making it easy to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'accept' as 'ac-' (towards) + 'cept' (take), so it means to 'take towards you' or agree to something."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'I accept the offer' to practice the verb in a common context."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a accepta' is a regular verb ending in '-a', so conjugation follows a familiar pattern for English speakers learning Romance languages."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

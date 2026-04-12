@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-fate",
+  "parent": "ms-ro-soarta-21a3ff40@8f9d10c28c934ea14d99701f9ecffa49",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fate",
+    "definition": "The development of events beyond a person's control, often regarded as predetermined or inevitable.",
+    "pronunciation": "/feɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'fate' comes from the Latin 'fatum', meaning 'that which has been spoken' or 'oracle', referring to a divine decree or destiny.",
+        "targetText": "Cuvântul englezesc „fate” provine din latină, de la 'fatum', care înseamnă 'ceea ce a fost spus' sau 'oracol', referindu-se la un decret divin sau destin."
+      },
+      "source": "Etymological dictionaries, linguistic studies"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "soartă",
+    "genus": "neuter",
+    "definition": "Totalitatea evenimentelor care determină viața unei persoane și sunt adesea considerate predeterminate.",
+    "pronunciation": "/soˈartə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'soartă' derives from the Latin 'sortem' (accusative of 'sors'), meaning 'lot' or 'fate', which entered Romanian through Vulgar Latin.",
+        "targetText": "Cuvântul românesc „soartă” provine din latină, de la 'sortem' (acusativul lui 'sors'), care înseamnă 'soartă' sau 'tragere la sorți', pătrunzând în limba română prin latina vulgară."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "destiny",
+      "targetText": "întâmplare"
+    },
+    {
+      "sourceText": "lot",
+      "targetText": "soartă"
+    },
+    {
+      "sourceText": "blow of fate",
+      "targetText": "lovitură a sorții"
+    },
+    {
+      "sourceText": "predestination",
+      "targetText": "predestinare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "chance",
+      "targetText": "întâmplare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Fate brought her back to the same place.",
+      "targetText": "Soarta a adus-o înapoi în același loc."
+    },
+    {
+      "sourceText": "Sometimes you cannot change your fate.",
+      "targetText": "Uneori nu poți schimba soarta ta."
+    },
+    {
+      "sourceText": "He accepted his fate calmly.",
+      "targetText": "El și-a acceptat soarta cu liniște."
+    },
+    {
+      "sourceText": "Fate is often unpredictable.",
+      "targetText": "Soarta este adesea imprevizibilă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'soartă' sounds like 'sort' in English. Think of fate as the 'sort' of events that shape your life."
+    },
+    {
+      "lang": "en",
+      "text": "The '-tă' ending in 'soartă' is common for Romanian abstract nouns, similar to 'libertate' (freedom). So 'soartă' is an abstract concept: fate."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'soartă' comes from Latin 'sors', like the English word 'sort' and Italian 'sorta', all related to fate or lot."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine drawing a 'sors' (lot) from a hat—that's your 'soartă', the fate assigned to you."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

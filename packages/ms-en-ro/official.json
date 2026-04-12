@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-official",
+  "parent": "ms-ro-functionar-e4aad2c7@c0e3264be50e0aa816a33342d373d043",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "official",
+    "genus": "masculine",
+    "definition": "A person employed by the government or public sector who performs authorized administrative duties.",
+    "pronunciation": "/əˈfɪʃəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"official\" comes from the Old French \"official\", which derives from the Latin \"officialis\", meaning a person holding a public office or performing duties.",
+        "targetText": "Cuvântul englezesc „official“ provine din francezul vechi „official“, care derivă din latinul „officialis“, însemnând o persoană care deține o funcție publică sau îndeplinește atribuții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "funcționar",
+    "genus": "masculine",
+    "definition": "O persoană angajată în serviciul public care îndeplinește sarcini oficiale.",
+    "pronunciation": "/funk.t͡si.oˈnar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"funcționar\" was borrowed from the French \"fonctionnaire\", which in turn comes from the Latin \"functionarius\" (\"someone who performs a function\").",
+        "targetText": "Cuvântul românesc „funcționar“ a fost împrumutat din francezul „fonctionnaire“, care provine din latinul „functionarius“ („persoană care îndeplinește o funcție“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "office",
+      "targetText": "oficiu"
+    },
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "authority",
+      "targetText": "autoritate"
+    },
+    {
+      "sourceText": "service",
+      "targetText": "serviciu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The official works at the town hall.",
+      "targetText": "Funcționarul lucrează la primărie."
+    },
+    {
+      "sourceText": "Officials often have secure employment.",
+      "targetText": "Funcționarii au adesea un loc de muncă sigur."
+    },
+    {
+      "sourceText": "The official processes the applications.",
+      "targetText": "Funcționarul procesează cererile."
+    },
+    {
+      "sourceText": "Many officials work in the public sector.",
+      "targetText": "Mulți funcționari lucrează în sectorul public."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"funcționar\" sounds like \"functionary\", which means someone who performs an official function."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an \"official\" as a person who holds an office or position, similar to \"funcționar\" in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The ending \"-ar\" in Romanian words often corresponds to English \"-ary\" or \"-er\", helping you link \"funcționar\" with \"functionary\" or \"official\"."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a government official carrying out their duties — this helps you remember \"funcționar\" as a public servant."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

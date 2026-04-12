@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-painkiller",
+  "parent": "ms-ro-analgezic-248f1a56@6d3d58d63b87afc4a2121cb9d6fafabe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "painkiller",
+    "genus": "neuter",
+    "definition": "A medicine or substance that reduces or eliminates pain.",
+    "pronunciation": "/ˈpeɪnˌkɪlər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'painkiller' is a compound of 'pain' (from Old French 'paine', from Latin 'poena' meaning punishment or penalty) and 'killer' (from Old English 'cwellan', meaning to cause death or destroy).",
+        "targetText": "Cuvântul englezesc „painkiller” este un compus din „pain” (durere), provenit din franceza veche 'paine', din latină 'poena' care înseamnă pedeapsă, și „killer” (ucigaș), derivat din engleza veche 'cwellan', care înseamnă a cauza moartea sau a distruge."
+      },
+      "source": "Etymological Dictionaries English"
+    },
+    "additional": "Neuter noun, plural: painkillers."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "analgezic",
+    "genus": "neuter",
+    "definition": "Un medicament care reduce sau elimină durerea.",
+    "pronunciation": "/anaˈldʒezik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'analgezic' derives from the Greek 'an-' (without) and 'algos' (pain), through the Latin 'analgesicus', meaning 'pain-relieving'.",
+        "targetText": "Cuvântul românesc „analgezic” provine din grecescul 'an-' (fără) și 'algos' (durere), prin latinescul 'analgesicus', care înseamnă 'care oprește durerea'."
+      },
+      "source": "Dicționare etimologice, analiza lingvistică"
+    },
+    "additional": "Substantiv neutru, Plural: analgezice."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "inflammation",
+      "targetText": "inflamație"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "tablet",
+      "targetText": "comprimat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "pain enhancer",
+      "targetText": "intensificator de durere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The painkiller works quickly against headaches.",
+      "targetText": "Analgezicul ajută rapid împotriva durerilor de cap."
+    },
+    {
+      "sourceText": "After the surgery, he received a strong painkiller.",
+      "targetText": "După operație, a primit un analgezic puternic."
+    },
+    {
+      "sourceText": "Many painkillers are available over the counter at the pharmacy.",
+      "targetText": "Multe analgezice sunt disponibile fără rețetă la farmacie."
+    },
+    {
+      "sourceText": "The painkiller should only be taken as directed.",
+      "targetText": "Analgezicul trebuie luat doar conform indicațiilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'painkiller' as a word that literally 'kills pain'—easy to link to 'analgezic', which also means pain-relieving."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'analgezic' starts with 'anal-', like 'analysis', but here it means 'without pain' (an- = without, algos = pain)."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the ending '-gezic' sounding a bit like 'magic'—the 'magic' medicine that removes pain."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine an 'angel' ('analge') taking away your pain—that's how 'analgezic' helps you."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

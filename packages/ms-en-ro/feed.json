@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-feed",
+  "parent": "ms-ro-a-hrani-1223e80e@788741b2294d84fed006cab0d248787e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "feed",
+    "definition": "to provide food to sustain life or growth",
+    "pronunciation": "/fiːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"feed\" originates from Old English \"fēdan\", which is related to the Proto-Germanic root *fōdijan, meaning to supply food.",
+        "targetText": "Cuvântul englezesc „feed“ provine din engleza veche „fēdan“, care este legat de rădăcina proto-germanică *fōdijan, ce înseamnă a furniza hrană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used both in the literal sense of giving food and in figurative contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a hrăni",
+    "definition": "a asigura hrana pentru a trai",
+    "pronunciation": "/a hɾəˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a hrăni“ derives from the Slavic „xraniti“, meaning \"to nourish, to feed.\"",
+        "targetText": "Verbul românesc „a hrăni“ provine din slavă, de la „xraniti“, care înseamnă „a hrăni, a da de mâncare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-i). Commonly used in everyday conversations, especially regarding care for children or animals."
+  },
+  "senses": [
+    {
+      "gloss": "intake of food",
+      "explanation": {
+        "sourceText": "Also means to consume a meal.",
+        "targetText": "Înseamnă și a lua o masă."
+      },
+      "examples": [
+        {
+          "sourceText": "I will now have dinner.",
+          "targetText": "Acum voi lua cina."
+        }
+      ]
+    },
+    {
+      "gloss": "care of living beings",
+      "explanation": {
+        "sourceText": "Specifically refers to caring for animals or children.",
+        "targetText": "Se referă la îngrijirea animalelor sau copiilor."
+      },
+      "examples": [
+        {
+          "sourceText": "The family takes good care of their pets.",
+          "targetText": "Familia are grijă bună de animalele lor de companie."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "nutrition",
+      "targetText": "alimentatie"
+    },
+    {
+      "sourceText": "meal preparation",
+      "targetText": "prepararea mesei"
+    },
+    {
+      "sourceText": "cook",
+      "targetText": "bucătar"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "hrană"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "starve",
+      "targetText": "a muri de foame"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I eat healthily.",
+      "targetText": "Eu mă hrănesc sănătos."
+    },
+    {
+      "sourceText": "I fed my child well.",
+      "targetText": "Am hrănit bine copilul meu."
+    },
+    {
+      "sourceText": "I will feed the animals.",
+      "targetText": "Voi hrăni animalele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'feed' sounds like 'feed' on social media—just like you feed your followers, you feed your body with food."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a hrăni' as 'a hearty' meal that nourishes you—both start with 'h' and relate to food."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'hrăni' with 'harmony'—feeding brings harmony to life by providing energy."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'hrăni' as 'herb knee'—kneeling to feed animals or plants, helping you remember the caring aspect."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-large",
+  "parent": "ms-ro-mare-81ccdf76@7ae9fd4f97efbadd4068a4f8ebff80c4",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "large",
+    "definition": "Describes something of considerable size, height, or amount; opposite of small.",
+    "pronunciation": "/lɑːrdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'large' comes from the Old French 'large', which derives from Latin 'largus' meaning 'abundant' or 'generous'. Over time, it came to mean 'big' or 'spacious' in English.",
+        "targetText": "Adjectivul englezesc „large” provine din vechiul francez „large”, derivat din latină „largus”, care înseamnă „abundent” sau „generos”. În timp, a ajuns să însemne „mare” sau „spațios” în engleză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mare",
+    "definition": "Descrie o dimensiune, înălțime sau cantitate considerabilă; opusul lui mic.",
+    "pronunciation": "/ˈmare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'mare' comes directly from the Latin word 'magnus', meaning 'large'. Over time, 'magnus' evolved into 'mare' in Romanian, retaining the original meaning.",
+        "targetText": "Adjectivul românesc „mare” provine direct din cuvântul latin 'magnus', care înseamnă 'mare'. În timp, 'magnus' a evoluat în 'mare' în limba română, păstrând sensul original."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "broad",
+      "targetText": "lat"
+    },
+    {
+      "sourceText": "high",
+      "targetText": "înalt"
+    },
+    {
+      "sourceText": "small",
+      "targetText": "mic"
+    },
+    {
+      "sourceText": "long",
+      "targetText": "lung"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "small",
+      "targetText": "mic"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The house is large and spacious.",
+      "targetText": "Casa este mare și spațioasă."
+    },
+    {
+      "sourceText": "He has large hands.",
+      "targetText": "El are mâini mari."
+    },
+    {
+      "sourceText": "We need a large table.",
+      "targetText": "Avem nevoie de o masă mare."
+    },
+    {
+      "sourceText": "The dog is larger than the cat.",
+      "targetText": "Câinele este mai mare decât pisica."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'mare' by linking it to the English word 'marathon'—both suggest something big and long-lasting."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mare' sounding like 'more'—more size, more space, more everything."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'mare' with the Latin root 'magnus' which also gives us 'magnificent'—something impressively large or great."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'mare' as a big sea (Italian 'mare' means sea), vast and large, to remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

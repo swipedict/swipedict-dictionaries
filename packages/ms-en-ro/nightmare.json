@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-nightmare",
+  "parent": "ms-ro-cosmar-8b33365b@24ef44060082d620fbc664c147346426",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "nightmare",
+    "genus": "masculine",
+    "definition": "A distressing or frightening dream that causes feelings of fear or anxiety upon waking.",
+    "pronunciation": "/ˈnaɪtˌmɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “nightmare” originally referred to a mythological demon or goblin believed to sit on a sleeper’s chest, causing bad dreams. The term combines “night” with “mare,” an old word for an evil spirit or goblin.",
+        "targetText": "Cuvântul englezesc „nightmare” se referea inițial la un demon sau spiriduș mitologic care apărea în timpul somnului și provoca vise rele. Termenul combină „night” (noapte) cu „mare”, un cuvânt vechi pentru un spirit rău sau spiriduș."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "coșmar",
+    "genus": "neuter",
+    "definition": "Un vis neplăcut, adesea înfricoșător, care provoacă teamă sau neliniște la trezire.",
+    "pronunciation": "/koʃˈmar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “coșmar” derives from the Slavic 'košmarŭ', meaning 'nightmare' or 'bad dream'.",
+        "targetText": "Cuvântul românesc „coșmar” provine din slavonă, din termenul 'košmarŭ', care înseamnă 'vis rău' sau 'coșmar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fear",
+      "targetText": "teamă"
+    },
+    {
+      "sourceText": "night",
+      "targetText": "noapte"
+    },
+    {
+      "sourceText": "fright",
+      "targetText": "spaimă"
+    },
+    {
+      "sourceText": "dream",
+      "targetText": "vis"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dream",
+      "targetText": "vis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I had a terrible nightmare last night.",
+      "targetText": "Am avut un coșmar urât noaptea trecută."
+    },
+    {
+      "sourceText": "The nightmare woke him up drenched in sweat.",
+      "targetText": "Coșmarul l-a trezit transpirat."
+    },
+    {
+      "sourceText": "Many children sometimes have nightmares.",
+      "targetText": "Mulți copii au uneori coșmaruri."
+    },
+    {
+      "sourceText": "After the nightmare, she couldn’t fall asleep again.",
+      "targetText": "După coșmar, nu a mai putut să adoarmă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember “coșmar” sounds like “cosmic” but means nightmare — imagine a cosmic nightmare to recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "Think of “coș” meaning basket in Romanian — picture a basket full of bad dreams to remember “coșmar.”"
+    },
+    {
+      "lang": "en",
+      "text": "Link “coșmar” with the English word “scary” — both relate to fear and frightening dreams."
+    },
+    {
+      "lang": "en",
+      "text": "When you think of a nightmare, imagine a harsh, sharp sound like “coșmar” to help memorize the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

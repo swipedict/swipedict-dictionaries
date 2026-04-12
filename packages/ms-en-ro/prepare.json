@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-prepare",
+  "parent": "ms-ro-a-pregati-74bd732e@0fb0bb508616b4be77ef3e1dffd81dd3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prepare",
+    "definition": "to make ready or to put something in a suitable state for use or consideration",
+    "pronunciation": "/prɪˈpɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"prepare\" comes from the Latin 'praeparare', meaning 'to make ready beforehand', formed from 'prae-' (before) and 'parare' (to make ready).",
+        "targetText": "Cuvântul englezesc „prepare” provine din latină, din termenul „praeparare”, care înseamnă „a face pregătiri înainte”, format din „prae-” (înainte) și „parare” (a pregăti)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used to describe making arrangements or getting something ready."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pregăti",
+    "definition": "a face pregătiri sau a produce ceva",
+    "pronunciation": "/a preɡəˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a pregăti\" comes from the Bulgarian \"prigotvja\", meaning \"to prepare\". It is a Slavic loanword.",
+        "targetText": "Verbul românesc „a pregăti” provine din bulgarul „prigotvja”, cu sensul de „a pregăti” sau „a prepara”. Este un împrumut slav."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation. Often used to describe preparations for events or meals."
+  },
+  "senses": [
+    {
+      "gloss": "to produce",
+      "explanation": {
+        "sourceText": "To create or make something, not just to get ready.",
+        "targetText": "A produce sau a crea ceva, nu doar a pregăti."
+      },
+      "examples": [
+        {
+          "sourceText": "I am preparing a report.",
+          "targetText": "Îmi pregătesc un raport."
+        }
+      ]
+    },
+    {
+      "gloss": "to get ready",
+      "explanation": {
+        "sourceText": "To take the necessary steps to make something ready.",
+        "targetText": "A face pașii necesari pentru a pregăti ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I will prepare dinner.",
+          "targetText": "Voi pregăti cina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "cooking",
+      "targetText": "gătit"
+    },
+    {
+      "sourceText": "to serve",
+      "targetText": "a servi"
+    },
+    {
+      "sourceText": "drinking",
+      "targetText": "băut"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to destroy",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"prepare\" sounds like \"pre-pair\" — think of pairing things ahead of time to get ready."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"a pregăti\" starts with 'pre' as well, linking it to the English \"prepare\" to help you remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of preparing a meal: you 'pre-pare' ingredients, just like the Romanian verb suggests."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"I prepare\" = \"Eu pregătesc\" to connect the English and Romanian present tense forms."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ms-en-ro-freeze",
+  "parent": "ms-ro-a-ingheta-3d19b751@52770c836be1a1ae311d2ad4c6e4b1d8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:body-health",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "freeze",
+    "definition": "To become very cold or to feel cold due to low temperature; to undergo the process of turning from liquid to solid due to cold.",
+    "pronunciation": "/friːz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"freeze\" comes from Old English \"frēosan\", meaning 'to become cold, to freeze', related to other Germanic languages with similar roots indicating cold or frost.",
+        "targetText": "Cuvântul englezesc „freeze” provine din engleza veche „frēosan”, care înseamnă „a deveni rece, a îngheța”, fiind legat de alte limbi germanice cu rădăcini similare ce indică frig sau îngheț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb can describe both physical coldness and emotional states, such as feeling scared or tense."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îngheța",
+    "definition": "a avea o senzație de frig; a simți o temperatură rece",
+    "pronunciation": "/a ɨnˈɡe.t͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a îngheța” is derived within Romanian from the prefix „în-” and the noun „gheață” (ice), which comes from Latin „glacies”, not directly from Latin itself.",
+        "targetText": "Verbul românesc „a îngheța” este format în limba română din prefixul „în-” și substantivul „gheață” (provenit din latină „glacies”), nu direct din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb describes the state in which water and other liquids become solid due to cold."
+  },
+  "senses": [
+    {
+      "gloss": "freeze (emotional)",
+      "explanation": {
+        "sourceText": "To 'freeze with fear' means to feel emotionally cold or frightened.",
+        "targetText": "'Ich friere vor Angst' înseamnă a simți frig din cauza fricii."
+      },
+      "examples": [
+        {
+          "sourceText": "I freeze with fear.",
+          "targetText": "Îngheț de frică."
+        }
+      ]
+    },
+    {
+      "gloss": "freeze (to feel cold)",
+      "explanation": {
+        "sourceText": "'To freeze' describes the unpleasant sensation of feeling cold.",
+        "targetText": "'Frieren' descrie senzația neplăcută de frig."
+      },
+      "examples": [
+        {
+          "sourceText": "It freezes at minus 5 degrees.",
+          "targetText": "E frig la minus 5 grade."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "outside",
+      "targetText": "afară"
+    },
+    {
+      "sourceText": "cold",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "to snow",
+      "targetText": "a ninge"
+    },
+    {
+      "sourceText": "winter sports",
+      "targetText": "sporturi de iarnă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to warm",
+      "targetText": "a încălzi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am freezing outside.",
+      "targetText": "Eu îngheț afară."
+    },
+    {
+      "sourceText": "Please don't freeze!",
+      "targetText": "Te rog să nu îngheți!"
+    },
+    {
+      "sourceText": "He freezes because it is cold.",
+      "targetText": "El îngheață, pentru că este frig."
+    },
+    {
+      "sourceText": "We freeze in winter.",
+      "targetText": "Noi înghețăm iarna."
+    },
+    {
+      "sourceText": "Are you freezing in this cold?",
+      "targetText": "Înghețați voi la această frig?"
+    },
+    {
+      "sourceText": "I froze when I was outside.",
+      "targetText": "Am înghețat când am fost afară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'freeze' and how water turns to ice to remember the Romanian verb 'a îngheța'."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'a îngheța' with the cold sensation you feel when stepping outside on a winter day."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'freeze' can also mean feeling emotionally cold or scared, just like 'a îngheța' can describe fear."
+    },
+    {
+      "lang": "en",
+      "text": "Use the image of freezing water turning solid to connect the meaning of 'a îngheța' with the English 'freeze'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

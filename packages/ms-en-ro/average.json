@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-average",
+  "parent": "ms-ro-medie-6d416515@18dd6b86eb12030d9a9720801c3b1cf3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "average",
+    "genus": "masculine",
+    "definition": "the central value or mean of a set of numbers",
+    "pronunciation": "/ˈæv.ər.ɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"average\" comes from the Old French 'averege', originally referring to damage or loss shared proportionally, later evolving to mean the mean value or central tendency of a data set.",
+        "targetText": "Cuvântul descrie valoarea medie ca rezultat al unei împărțiri proporționale a unei cantități."
+      },
+      "source": "Etymological Dictionaries of English"
+    },
+    "additional": "Average is an important concept in statistics."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "medie",
+    "genus": "feminine",
+    "definition": "valoarea medie a unui grup de valori",
+    "pronunciation": "/ˈme.di.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"medie\" derives from the Latin \"medius\", meaning \"middle\" or \"medium\", referring to the mean value.",
+        "targetText": "Cuvântul românesc „medie“ provine din latinescul „medius“, care înseamnă „mijloc“ sau „mediu“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Begriff wird häufig in statistischen Berechnungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "average speed",
+      "explanation": {
+        "sourceText": "Refers to the average speed.",
+        "targetText": "Se referă la viteza medie."
+      },
+      "examples": [
+        {
+          "sourceText": "The average speed was 50 km/h.",
+          "targetText": "Viteza medie a fost de 50 km/h."
+        }
+      ]
+    },
+    {
+      "gloss": "mean value",
+      "explanation": {
+        "sourceText": "The mean value is the average.",
+        "targetText": "Mediul este valoarea medie."
+      },
+      "examples": [
+        {
+          "sourceText": "The mean score is 5.",
+          "targetText": "Mediul punctajului este de 5."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "group",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "mean",
+      "targetText": "mediu"
+    },
+    {
+      "sourceText": "statistics",
+      "targetText": "statistică"
+    },
+    {
+      "sourceText": "value",
+      "targetText": "valoare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "exceptional",
+      "targetText": "excepțional"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The class average was above 2.0.",
+      "targetText": "Media clasei a fost peste 2,0."
+    },
+    {
+      "sourceText": "On average, men are taller than women.",
+      "targetText": "În medie, bărbații sunt mai înalți decât femeile."
+    },
+    {
+      "sourceText": "The average price has increased.",
+      "targetText": "Prețul mediu a crescut."
+    },
+    {
+      "sourceText": "Admissions are on average 80%.",
+      "targetText": "Admiterea este de 80% în medie."
+    },
+    {
+      "sourceText": "The average value was calculated.",
+      "targetText": "Valoarea medie a fost calculată."
+    },
+    {
+      "sourceText": "Average is an important measure for data analysis.",
+      "targetText": "Media este un criteriu important pentru analiza datelor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'medie' as 'medium'—the middle point or average of a set of numbers."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'medie' sounds like 'media'—just like the media often reports average statistics."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'medie' with 'median' and 'medium' in English to recall it means average or middle."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine calculating your average test score; that score is your 'medie' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

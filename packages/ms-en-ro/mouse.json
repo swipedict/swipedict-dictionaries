@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-mouse",
+  "parent": "ms-ro-soarece-cef8297e@22827f8f29f0e4b9250dd9333421861e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mouse",
+    "genus": "feminine",
+    "definition": "A small rodent with a pointed face and a long tail.",
+    "pronunciation": "/maʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"mouse\" comes from Old English 'mūs', which traces back to the Proto-Germanic root *mūs and is related to the Latin 'mus'.",
+        "targetText": "Cuvântul englezesc „mouse” provine din engleza veche 'mūs', care la rândul său vine din rădăcina proto-germanică *mūs și este înrudit cu latinescul 'mus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șoarece",
+    "genus": "masculine",
+    "definition": "Un rozător mic cu față ascuțită și coadă lungă.",
+    "pronunciation": "/ʃo̯aˈret͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"șoarece\" is an inherited term from Latin 'sorex, soricis' ('shrew'), with Slavic influence on its phonetic form.",
+        "targetText": "Cuvântul românesc „șoarece” este moștenit din latină 'sorex, soricis' (‚șoarece de câmp‘), cu influență slavă asupra formei fonetice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mouse hunt",
+      "targetText": "vânătoare de șoareci"
+    },
+    {
+      "sourceText": "mouse trap",
+      "targetText": "capcană pentru șoareci"
+    },
+    {
+      "sourceText": "rodents",
+      "targetText": "rozătoare"
+    },
+    {
+      "sourceText": "rat",
+      "targetText": "șobolan"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The mouse runs quickly through the room.",
+      "targetText": "Șoarecele aleargă repede prin cameră."
+    },
+    {
+      "sourceText": "A mouse hides behind the cupboard.",
+      "targetText": "Un șoarece se ascunde în spatele dulapului."
+    },
+    {
+      "sourceText": "The cat chases the mouse.",
+      "targetText": "Pisica vânează șoarecele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'șoarece' by thinking of 'shore' + 'ache' – imagine a small, quick creature running along the shore."
+    },
+    {
+      "lang": "en",
+      "text": "The word comes from Latin 'sorex' meaning shrew; think of a tiny, fast animal like a mouse to connect the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a cat chasing a 'șoarece' to help remember the word in context."
+    },
+    {
+      "lang": "en",
+      "text": "Link the 'ș' sound at the start to the sharp squeak a mouse might make to recall the word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-reception",
+  "parent": "ms-ro-receptie-7fc0063b@b2bfdb0e4eef888c81d31cabe0dbad63",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:places-geography",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "reception",
+    "genus": "masculine",
+    "definition": "The place or act of receiving and welcoming guests, visitors, or mail; specifically the area in a building where people arrive and are greeted.",
+    "pronunciation": "/rɪˈsɛpʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"reception\" comes from the Old French 'reception', which derives from the Latin 'receptio', meaning 'a receiving or taking in'.",
+        "targetText": "Cuvântul englezesc „reception” provine din franceza veche „reception”, care derivă din latinescul „receptio”, însemnând „primire sau acceptare”."
+      },
+      "source": "Etymological Dictionaries English"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "recepție",
+    "genus": "feminine",
+    "definition": "Locul sau activitatea de a primi și întâmpina oaspeți, vizitatori sau corespondență; zona dintr-o clădire unde se face primirea.",
+    "pronunciation": "/re.tʃepˈt͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „recepție” was borrowed from the French „réception”, which in turn comes from the Latin „receptio” (meaning \"reception, acceptance\").",
+        "targetText": "Cuvântul românesc „recepție” este împrumutat din franceza „réception”, care provine la rândul său din latinescul „receptio” („primire, acceptare”)."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to receive",
+      "targetText": "a primi"
+    },
+    {
+      "sourceText": "mail reception",
+      "targetText": "primire poștală"
+    },
+    {
+      "sourceText": "receptionist",
+      "targetText": "receptionist"
+    },
+    {
+      "sourceText": "welcome",
+      "targetText": "bun venit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "departure",
+      "targetText": "plecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The reception at the hotel is staffed around the clock.",
+      "targetText": "Recepția hotelului este deschisă non-stop."
+    },
+    {
+      "sourceText": "Please check in at the reception when you arrive.",
+      "targetText": "Vă rugăm să vă prezentați la recepție când ajungeți."
+    },
+    {
+      "sourceText": "The reception area is modern and welcoming.",
+      "targetText": "Zona de recepție este modernă și primitoare."
+    },
+    {
+      "sourceText": "You get the keys for the room at the reception.",
+      "targetText": "La recepție primești cheile pentru cameră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word „recepție” sounds very similar to the English word \"reception\", making it easy to remember as the place where guests are welcomed."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"reception\" which includes 'cept' from Latin 'capere' meaning 'to take'—just like at a 'recepție' you take in guests."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that „recepție” can refer not only to people but also to receiving messages or signals, similar to the English usage."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine arriving at a hotel and being greeted at the 'recepție'—the 're-' prefix reminds you of 'response' or 'reaction' to guests."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

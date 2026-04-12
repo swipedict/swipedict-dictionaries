@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-advise",
+  "parent": "ms-ro-a-consilia-7921e117@28a2408df2ff981640eec9378af826d0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "advise",
+    "definition": "to give someone guidance or recommendations to help them make a decision",
+    "pronunciation": "/ədˈvaɪz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'advise' comes from the Latin 'advisare', a frequentative form of 'advisum', meaning 'to consider' or 'to deliberate'. It entered English through Old French, carrying the sense of giving counsel or recommendations.",
+        "targetText": "Cuvântul englezesc „advise“ provine din latină, din „advisare“, o formă frecventativă a lui „advisum“, care înseamnă „a lua în considerare“ sau „a reflecta“. A intrat în limba engleză prin franceza veche, păstrând sensul de a oferi sfaturi sau recomandări."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts involving giving advice or recommendations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a consilia",
+    "definition": "a oferi un sfat sau a ajuta pe cineva să ia o decizie",
+    "pronunciation": "/a kon.siˈli.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Borrowed from Latin 'consilium', meaning 'advice' or 'council'. The verb describes the act of advising or giving counsel.",
+        "targetText": "Derivat din latinescul „consilium“, care înseamnă „sfat“ sau „consiliu“. „A consilia“ exprimă acțiunea de a oferi sfaturi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation. Used to describe the process of advising or giving recommendations."
+  },
+  "senses": [
+    {
+      "gloss": "consultation",
+      "explanation": {
+        "sourceText": "The word is also used to describe formal consultations.",
+        "targetText": "Se folosește și pentru a descrie consultări formale."
+      },
+      "examples": [
+        {
+          "sourceText": "I have a consultation with my advisor.",
+          "targetText": "Am o consiliere cu consilierul meu."
+        }
+      ]
+    },
+    {
+      "gloss": "giving advice",
+      "explanation": {
+        "sourceText": "Can be used in the sense of 'giving advice'.",
+        "targetText": "Poate fi folosit în sensul de a da un sfat."
+      },
+      "examples": [
+        {
+          "sourceText": "I give you a piece of advice.",
+          "targetText": "Îți dau un sfat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "advisor",
+      "targetText": "consilier"
+    },
+    {
+      "sourceText": "decision",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "help",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "advice",
+      "targetText": "sfat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "persuade",
+      "targetText": "a convinge"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'advise' and the Romanian 'a consilia' both relate to giving counsel, making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'advise' as 'add wise words' to help someone make a decision."
+    },
+    {
+      "lang": "en",
+      "text": "Practice sentences like 'I advise you' to get comfortable with the verb and its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'advisor' in English corresponds to 'consilier' in Romanian, both meaning someone who gives advice."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

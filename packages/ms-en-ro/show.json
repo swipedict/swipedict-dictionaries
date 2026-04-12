@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-show",
+  "parent": "ms-ro-a-arata-a1c5f896@ef14ce0ddef9e8a83797eb5e978bcdff",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "show",
+    "definition": "to make something visible or to present it publicly",
+    "pronunciation": "/ʃoʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Old English 'sceawian' meaning 'to look at, see, or observe', which comes from Proto-Germanic roots related to viewing or seeing.",
+        "targetText": "Cuvântul englezesc „show” provine din engleza veche „sceawian”, care înseamnă „a privi, a vedea sau a observa”, având rădăcini proto-germanice legate de actul de a vedea sau a privi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in technical contexts, for example to display information or visually present data."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a arăta",
+    "definition": "a face ceva vizibil sau public",
+    "pronunciation": "/a a.rəˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a arăta' originates from the Latin 'arătare', meaning 'to show' or 'to make visible'.",
+        "targetText": "Verbul românesc 'a arăta' provine din latină, din 'arătare', care înseamnă 'a arăta' sau 'a face vizibil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet in Technik, Kunst und Kommunikation."
+  },
+  "senses": [
+    {
+      "gloss": "illustrate",
+      "explanation": {
+        "sourceText": "Also means to make something understandable or visible.",
+        "targetText": "Înseamnă a face ceva vizibil sau ușor de înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "He shows the advertisement.",
+          "targetText": "El arată reclama."
+        }
+      ]
+    },
+    {
+      "gloss": "display",
+      "explanation": {
+        "sourceText": "The verb is used to show or present something.",
+        "targetText": "Verbul este folosit pentru a arăta sau prezenta ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I show the results.",
+          "targetText": "Eu arăt rezultatele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "announcement",
+      "targetText": "anunț"
+    },
+    {
+      "sourceText": "news",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "advertisement",
+      "targetText": "publicitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hide",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I show the results.",
+      "targetText": "Eu arăt rezultatele."
+    },
+    {
+      "sourceText": "Do you show the information?",
+      "targetText": "Arăți informațiile?"
+    },
+    {
+      "sourceText": "He shows the advertisement.",
+      "targetText": "El arată reclama."
+    },
+    {
+      "sourceText": "We show the new advertisement.",
+      "targetText": "Noi arătăm noua reclamă."
+    },
+    {
+      "sourceText": "Do you (plural) show the results?",
+      "targetText": "Arătați rezultatele?"
+    },
+    {
+      "sourceText": "They show the trends.",
+      "targetText": "Ei arată tendințele."
+    },
+    {
+      "sourceText": "I have shown the data.",
+      "targetText": "Am arătat datele."
+    },
+    {
+      "sourceText": "He showed the results.",
+      "targetText": "El arăta rezultatele."
+    },
+    {
+      "sourceText": "I will show the next slide.",
+      "targetText": "Voi arăta următoarea diapozitiv."
+    },
+    {
+      "sourceText": "I would like to show the graph.",
+      "targetText": "Aș dori să arăt graficul."
+    },
+    {
+      "sourceText": "Show me the information!",
+      "targetText": "Arată-mi informațiile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'show' as in a TV show where things are presented visually, just like 'a arăta' means to make visible."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'show' and 'a arăta' both starting with a vowel sound and involving making something clear or visible."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'show' is short and simple, just like the Romanian 'arăta' which is easy to remember once you associate it with 'to show'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'show' a friend a picture, and in Romanian you say 'Eu arăt o poză' – both mean to display or present something."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

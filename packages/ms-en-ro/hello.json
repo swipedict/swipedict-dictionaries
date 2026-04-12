@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-hello",
+  "parent": "ms-ro-salut-7ee6d8b2@24f3c3e90d332f9402634b58017ba12c",
+  "part_of_speech": "interjection",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hello",
+    "definition": "A greeting used to attract attention or to acknowledge someone's presence.",
+    "pronunciation": "/həˈloʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hello\" originated in the 19th century as an exclamation to greet or attract attention, possibly derived from earlier calls such as 'holla' or 'hollo'.",
+        "targetText": "Cuvântul englezesc „hello” a apărut în secolul al XIX-lea ca exclamație de salut sau pentru a atrage atenția, posibil derivat din exclamații mai vechi precum 'holla' sau 'hollo'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "salut",
+    "definition": "Un salut folosit pentru a atrage atenția sau a saluta pe cineva.",
+    "pronunciation": "/saˈlut/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"salut\" comes from the French 'salut', which in turn derives from the Latin 'salutare', meaning 'to greet'.",
+        "targetText": "Cuvântul românesc „salut” provine din franceza 'salut', care la rândul său vine din latină 'salutare', însemnând 'a saluta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Greeting",
+      "targetText": "salutare"
+    },
+    {
+      "sourceText": "Good day",
+      "targetText": "bună ziua"
+    },
+    {
+      "sourceText": "To say hello",
+      "targetText": "a saluta"
+    },
+    {
+      "sourceText": "Bye",
+      "targetText": "pa"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Hello! How are you?",
+      "targetText": "Salut! Ce mai faci?"
+    },
+    {
+      "sourceText": "She shouted loudly 'Hello!' to get attention.",
+      "targetText": "Ea a strigat tare „Salut!” ca să atragă atenția."
+    },
+    {
+      "sourceText": "Hello, my name is Anna.",
+      "targetText": "Salut, mă numesc Ana."
+    },
+    {
+      "sourceText": "You say 'hello' when you meet someone.",
+      "targetText": "Spui „Salut” când întâlnești pe cineva."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian 'salut' sounds similar to the French 'salut'—both come from the Latin 'salutare', meaning 'to greet'."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ut' is common in Romanian greetings and nouns, making 'salut' easy to recognize."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'salut' as a universal greeting that fits many situations—like 'hello' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying 'salut' with a smile—that helps you remember its friendly meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

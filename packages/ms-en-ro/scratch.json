@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-scratch",
+  "parent": "ms-ro-zgarietura-ccaf0345@1b59cf27ad2aebfe7d5ebbdd3b36ebfb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "scratch",
+    "definition": "A small, usually superficial mark or damage on a surface caused by scraping or rubbing.",
+    "pronunciation": "/skɹætʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"scratch\" comes from the verb \"to scratch,\" which likely originates from imitative sounds describing the action of scraping or scraping roughly.",
+        "targetText": "Cuvântul englezesc „scratch” provine de la verbul „to scratch”, care probabil are o origine onomatopeică, descriind acțiunea de a zgâria sau freca aspru."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zgârietură",
+    "genus": "feminine",
+    "definition": "O mică deteriorare, de obicei superficială, pe o suprafață, cauzată prin frecare sau zgâriere.",
+    "pronunciation": "/zɡɨˈri.e.tu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „zgârietură” derives from the verb „a zgâria”, which is of Slavic origin, meaning 'to scratch' or 'to scrape lightly'.",
+        "targetText": "Cuvântul românesc „zgârietură” derivă din verbul „a zgâria”, de origine slavă, care înseamnă 'a zgâria' sau 'a zgâria ușor'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "damage",
+      "targetText": "deteriorare"
+    },
+    {
+      "sourceText": "to scratch",
+      "targetText": "a zgâria"
+    },
+    {
+      "sourceText": "surface",
+      "targetText": "suprafață"
+    },
+    {
+      "sourceText": "scrape",
+      "targetText": "zgârietură superficială"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "smooth",
+      "targetText": "neted"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The scratch on the car is barely visible.",
+      "targetText": "Zgârietura de pe mașină este abia vizibilă."
+    },
+    {
+      "sourceText": "Be careful not to make scratches on the table.",
+      "targetText": "Ai grijă să nu faci zgârieturi pe masă."
+    },
+    {
+      "sourceText": "After the move, the wardrobe had some scratches.",
+      "targetText": "După mutare, dulapul avea câteva zgârieturi."
+    },
+    {
+      "sourceText": "A small scratch does not affect the function.",
+      "targetText": "O zgârietură mică nu afectează funcționarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'zgârietură' starts with 'zg', which sounds like the scratchy noise you make when scraping something."
+    },
+    {
+      "lang": "en",
+      "text": "Note that 'zgârietură' is feminine and often used with 'o' (a), for example, 'o zgârietură mică' means 'a small scratch.'"
+    },
+    {
+      "lang": "en",
+      "text": "Think of claws scratching a surface leaving a mark—that's 'zgârietură', the trace of scratching."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'scratch' with the Romanian verb 'a zgâria'—both describe the action that causes a 'zgârietură'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

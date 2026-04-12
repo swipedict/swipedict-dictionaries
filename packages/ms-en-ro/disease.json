@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-disease",
+  "parent": "ms-ro-boala-5fc1e063@73b6529aa2936afe793cb7f53b857e9d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "disease",
+    "genus": "feminine",
+    "definition": "a condition in which the body or mind is not functioning normally, often causing symptoms and impairments",
+    "pronunciation": "/dɪˈziːz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “disease” originates from Old French “desaise,” meaning discomfort or lack of ease, and ultimately from Latin roots implying a state of being ill or unwell.",
+        "targetText": "Cuvântul englezesc „disease” provine din franceza veche „desaise”, care înseamnă disconfort sau lipsă de ușurință, și în cele din urmă din rădăcini latine care indică o stare de boală sau rău."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is commonly used in medical and psychological contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "boală",
+    "genus": "feminine",
+    "definition": "o stare în care corpul sau mintea nu funcționează normal",
+    "pronunciation": "/ˈbo.a.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word „boală“ apparently derives from the Slavic „boleně“ and denotes a disease or health disorder.",
+        "targetText": "Cuvântul românesc „boală“ provine probabil din slavona „boleně“ și desemnează o afecțiune a sănătății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig im medizinischen Bereich verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "disease (medical)",
+      "explanation": {
+        "sourceText": "Used in medical contexts for specific diseases.",
+        "targetText": "Folosit în context medical pentru boli specifice."
+      },
+      "examples": [
+        {
+          "sourceText": "Doctors can diagnose many diseases.",
+          "targetText": "Medicii pot diagnostica multe boli."
+        }
+      ]
+    },
+    {
+      "gloss": "disease (condition)",
+      "explanation": {
+        "sourceText": "Generally refers to the state of being ill.",
+        "targetText": "Ca și în germană: starea generală de a fi bolnav."
+      },
+      "examples": [
+        {
+          "sourceText": "A serious disease can greatly affect life.",
+          "targetText": "O boală gravă poate influența puternic viața."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "healing",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "symptom",
+      "targetText": "simptom"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The disease is contagious.",
+      "targetText": "Boala este contagioasă."
+    },
+    {
+      "sourceText": "There are many diseases that can be treated.",
+      "targetText": "Există multe boli care pot fi tratate."
+    },
+    {
+      "sourceText": "His disease was severe.",
+      "targetText": "Boala lui a fost gravă."
+    },
+    {
+      "sourceText": "She suffers from a chronic disease.",
+      "targetText": "Ea suferă de o boală cronică."
+    },
+    {
+      "sourceText": "Doctors examine the disease.",
+      "targetText": "Doctorii examinează boala."
+    },
+    {
+      "sourceText": "The disease can have many causes.",
+      "targetText": "Boala poate avea multe cauze."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'boală' sounds like 'bowl'—imagine a bowl full of medicine to fight disease."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'boală' as 'bawl'—when you're sick, you might cry or 'bawl' because you feel bad."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'boală' with 'bowl' and 'heal'—a bowl of soup helps you recover from disease."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'boală' to 'bother'—disease is something that bothers your body or mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

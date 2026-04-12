@@ -1,0 +1,154 @@
+{
+  "id": "ms-en-ro-cash",
+  "parent": "ms-ro-numerar-e5c836b1@24982522a576dccb9e8af0192c2f79da",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cash",
+    "genus": "neuter",
+    "definition": "physical money in the form of coins and banknotes used for transactions",
+    "pronunciation": "/kæʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cash\" originates from the Old French word \"casse\" meaning a box or money box, which itself comes from Latin \"capsa\" meaning box or container. Over time, \"cash\" came to refer to money in hand, especially physical currency.",
+        "targetText": "Cuvântul englezesc „cash“ provine din cuvântul francez vechi „casse“, care înseamnă cutie sau casetă de bani, derivat din latină „capsa“ care înseamnă cutie sau recipient. În timp, „cash“ a ajuns să desemneze banii în mână, în special moneda fizică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cash is the physical form of money that exists as coins or banknotes."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "numerar",
+    "genus": "neuter",
+    "definition": "bani fizici sub formă de monede și bancnote",
+    "pronunciation": "/nu.meˈrar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"numerar\" derives from the Latin \"numerarium\", meaning \"related to counting\", and refers to physical money.",
+        "targetText": "Cuvântul românesc „numerar“ provine din latinul „numerarium“, care înseamnă „legat de numărare“, desemnând banii fizici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Numerar este folosit pentru a accesa banii în formă fizică sau monede."
+  },
+  "senses": [
+    {
+      "gloss": "cash (money in physical form)",
+      "explanation": {
+        "sourceText": "Cash in the form of coins and banknotes.",
+        "targetText": "Bani în formă fizică, sub formă de monede și bancnote."
+      },
+      "examples": [
+        {
+          "sourceText": "I don't have any cash on me.",
+          "targetText": "Nu am numerar la mine."
+        }
+      ]
+    },
+    {
+      "gloss": "cash (physical money)",
+      "explanation": {
+        "sourceText": "This refers to physical money used for payments.",
+        "targetText": "Se referă la banii fizici folosiți pentru plată."
+      },
+      "examples": [
+        {
+          "sourceText": "I pay with cash.",
+          "targetText": "Plătesc cu numerar."
+        },
+        {
+          "sourceText": "Cash is accepted in many stores.",
+          "targetText": "Numerarul este acceptat în multe magazine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "cash register",
+      "targetText": "casierie"
+    },
+    {
+      "sourceText": "coin",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "banknote",
+      "targetText": "bancnotă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "card payment",
+      "targetText": "plata cu cardul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I pay with cash.",
+      "targetText": "Plătesc cu numerar."
+    },
+    {
+      "sourceText": "Cash is accepted in many stores.",
+      "targetText": "Numerarul este acceptat în multe magazine."
+    },
+    {
+      "sourceText": "I don't have any cash on me.",
+      "targetText": "Nu am numerar la mine."
+    },
+    {
+      "sourceText": "The cash is kept safely.",
+      "targetText": "Numerarul este păstrat în siguranță."
+    },
+    {
+      "sourceText": "Paying with cash is easy.",
+      "targetText": "Plata cu numerar este simplă."
+    },
+    {
+      "sourceText": "He has enough cash for the shopping.",
+      "targetText": "Are suficient numerar pentru a cumpăra."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"numerar\" sounds like \"number\" – think of counting your cash when you pay!"
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"Plătește cu numerar\" which means \"Pay with cash\" to help anchor the word."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine coins jingling in your hand when you say \"numerar\" to remember it better."
+    },
+    {
+      "lang": "en",
+      "text": "When in Romania, practice paying with \"numerar\" to make the word come alive and stick in your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

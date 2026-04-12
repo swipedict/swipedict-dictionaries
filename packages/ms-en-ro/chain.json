@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-chain",
+  "parent": "ms-ro-lant-68bab975@8f99d01b686d57c5532eb727ac40b008",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:unknown",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "chain",
+    "genus": "feminine",
+    "definition": "A series of connected links made of metal or other materials, often used as jewelry or for fastening.",
+    "pronunciation": "/tʃeɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"chain\" originates from the Old French 'chaine', which itself derives from the Latin 'catena', meaning 'chain' or 'fetter'.",
+        "targetText": "Cuvântul englezesc „chain” provine din franceza veche 'chaine', care la rândul său derivă din latină 'catena', însemnând 'lanț' sau 'cătușă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lanț",
+    "genus": "neuter",
+    "definition": "O succesiune de verigi legate între ele, de obicei din metal, folosită ca podoabă sau pentru fixare.",
+    "pronunciation": "/lant͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"lanț\" has an uncertain etymology; it has been previously linked to the Latin 'catena' or a hypothetical Latin '*lantium', but its exact origin remains unknown.",
+        "targetText": "Cuvântul românesc „lanț” are o origine nesigură; a fost asociat cu latinul 'catena' sau cu un posibil '*lantium', însă etimologia exactă rămâne necunoscută."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fetter",
+      "targetText": "cătușă"
+    },
+    {
+      "sourceText": "link",
+      "targetText": "verigă"
+    },
+    {
+      "sourceText": "ring",
+      "targetText": "inel"
+    },
+    {
+      "sourceText": "jewelry",
+      "targetText": "bijuterie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bicycle chain has broken.",
+      "targetText": "Lanțul bicicletei s-a rupt."
+    },
+    {
+      "sourceText": "She is wearing a gold chain around her neck.",
+      "targetText": "Ea poartă un lanț de aur la gât."
+    },
+    {
+      "sourceText": "The chain connects the individual links together.",
+      "targetText": "Lanțul leagă verigile între ele."
+    },
+    {
+      "sourceText": "He attached the chain to the gate.",
+      "targetText": "El a fixat lanțul de poartă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'lanț' sounds like 'lance', which can help you recall the idea of a long, connected object like a chain."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ț' in 'lanț' is common in Romanian nouns and can help you identify it as a concrete object."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a chain as made up of many links; similarly, 'lanț' describes a series of connected parts, just like the English word 'chain'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'chain' as a 'kit' of connected parts; the English word 'chain' sounds a bit like 'chain' in 'kit-chain', helping you remember the connection."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

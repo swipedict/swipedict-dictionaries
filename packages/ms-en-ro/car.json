@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-car",
+  "parent": "ms-ro-masina-a99a1cf3@95f8b6d80d694f700b0b81f5519a76f4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:italian",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "car",
+    "genus": "neuter",
+    "definition": "A motor vehicle designed to transport people or goods on roads.",
+    "pronunciation": "/kɑːr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'car' originates from the Latin 'carrus' or 'carrum', meaning a wheeled vehicle, which itself comes from the Gaulish word for a two-wheeled wagon.",
+        "targetText": "Cuvântul englezesc „car” provine din latinul „carrus” sau „carrum”, care înseamnă un vehicul cu roți, el însuși derivat din cuvântul galic pentru o căruță cu două roți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mașină",
+    "genus": "feminine",
+    "definition": "Un vehicul cu motor folosit pentru transportul persoanelor sau al bunurilor.",
+    "pronunciation": "/maˈʃinə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „mașină“ was borrowed from the Italian „macchina“, which in turn comes from the Latin „machina“.",
+        "targetText": "Cuvântul românesc „mașină” este împrumutat din italianul „macchina”, care provine din latinul „machina”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to drive a car",
+      "targetText": "a conduce o mașină"
+    },
+    {
+      "sourceText": "vehicle",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "engine",
+      "targetText": "motor"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bicycle",
+      "targetText": "bicicletă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The car is parked in front of the house.",
+      "targetText": "Mașina este în fața casei."
+    },
+    {
+      "sourceText": "I am buying a new car.",
+      "targetText": "Îmi cumpăr o mașină nouă."
+    },
+    {
+      "sourceText": "The car drives very fast.",
+      "targetText": "Mașina merge foarte repede."
+    },
+    {
+      "sourceText": "He is repairing his car in the garage.",
+      "targetText": "El își repară mașina în garaj."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'car' comes from Latin roots meaning a wheeled vehicle—think of a carriage or cart to connect the idea."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'mașină' sounds like 'machine' in English, which can help you recall it means a motor vehicle."
+    },
+    {
+      "lang": "en",
+      "text": "'Mașină' in Romanian can refer to various types of motor vehicles, not just cars, so think broadly about machines on wheels."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine driving your 'mașină' (machine) through the city streets to remember the word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

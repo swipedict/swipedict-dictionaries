@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-sweep",
+  "parent": "ms-ro-a-matura-d4cff74e@5fc05c71ef68b72d168dc735447304d4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sweep",
+    "definition": "To clean a floor or surface by brushing away dirt, dust, or debris using a broom or similar tool.",
+    "pronunciation": "/swiːp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'sweep' originates from Old English 'swēopan', meaning to move or brush away, related to other Germanic languages with similar meanings.",
+        "targetText": "Cuvântul englezesc „sweep” provine din engleza veche „swēopan”, care înseamnă a mișca sau a peria, fiind legat de alte limbi germanice cu sensuri similare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mătura",
+    "definition": "A curăța podeaua folosind o mătură pentru a aduna murdăria sau praful.",
+    "pronunciation": "/a məˈtu.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a mătura' is derived from the Romanian noun 'mătură' (broom), whose origin is uncertain, possibly from an internal or autochthonous formation.",
+        "targetText": "Verbul românesc „a mătura” este derivat din substantivul „mătură” (băţ cu care se mătură), de origine internă sau posibil autohtonă, cu etimologie incertă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "broom",
+      "targetText": "mătură"
+    },
+    {
+      "sourceText": "to clean",
+      "targetText": "a curăța"
+    },
+    {
+      "sourceText": "clean",
+      "targetText": "curat"
+    },
+    {
+      "sourceText": "to wipe",
+      "targetText": "a șterge"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I sweep the floor every morning.",
+      "targetText": "Eu mătur podeaua în fiecare dimineață."
+    },
+    {
+      "sourceText": "Can you please sweep the terrace?",
+      "targetText": "Poți să mături terasa, te rog?"
+    },
+    {
+      "sourceText": "After the party, the whole hall had to be swept.",
+      "targetText": "După petrecere, toată sala a trebuit să fie măturată."
+    },
+    {
+      "sourceText": "He sweeps the sidewalk in front of the house.",
+      "targetText": "El mătură trotuarul din fața casei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a mătura' sounds like 'mature'—imagine you’ve matured enough to sweep the floor responsibly."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sweep' as sweeping away dirt finely, similar to the English word 'fine' to help recall 'a mătura'."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the conjugation: eu mătur, tu mături, el/ea mătura—similar to other Romanian verbs ending in -a."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'sweep' with the image of a broom moving across the floor—'a mătura' is the Romanian verb for this action."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

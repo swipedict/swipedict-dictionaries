@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-delay",
+  "parent": "ms-ro-intarziere-3f4e4c93@8403119d46c68b6b5f3a735bd8fb0932",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "delay",
+    "genus": "feminine",
+    "definition": "The state or condition of arriving or starting later than planned or expected.",
+    "pronunciation": "/dɪˈleɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'delay' comes from the Old French 'delaier', which means 'to postpone or defer', originating from Latin 'differre' meaning 'to carry apart, defer'.",
+        "targetText": "Substantivul englezesc „delay” provine din franceza veche „delaier”, care înseamnă „a amâna sau a întârzia”, având originea în latină „differre” care înseamnă „a amâna, a deferi”."
+      },
+      "source": "Etymological dictionaries, historical linguistic analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întârziere",
+    "genus": "feminine",
+    "definition": "Starea de a ajunge sau a începe mai târziu decât era planificat sau așteptat.",
+    "pronunciation": "/ɨn.tɨrˈdzi.e.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun 'întârziere' derives from the verb 'a întârzia', which comes from the Latin 'interdiārium' (from 'inter' = between and 'diēs' = day), originally referring to a delay between days.",
+        "targetText": "Substantivul românesc „întârziere” provine din verbul „a întârzia”, derivat din latinul 'interdiārium' (din 'inter' = între și 'diēs' = zi), inițial indicând o întârziere între zile."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "timetable",
+      "targetText": "orar"
+    },
+    {
+      "sourceText": "punctual",
+      "targetText": "punctual"
+    },
+    {
+      "sourceText": "to be delayed",
+      "targetText": "a întârzia"
+    },
+    {
+      "sourceText": "train",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "punctuality",
+      "targetText": "punctualitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The delay of the train was 20 minutes.",
+      "targetText": "Întârzierea trenului a fost de 20 de minute."
+    },
+    {
+      "sourceText": "Because of the delay, the meeting started later.",
+      "targetText": "Din cauza întârzierii, întâlnirea a început mai târziu."
+    },
+    {
+      "sourceText": "Please excuse the delay.",
+      "targetText": "Vă rugăm să ne scuzați pentru întârziere."
+    },
+    {
+      "sourceText": "Delays in traffic are common today.",
+      "targetText": "Întârzierile în trafic sunt frecvente astăzi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'întârziere' starts with 'în-', similar to the English preposition 'in', helping you remember it relates to being 'in' a state of delay."
+    },
+    {
+      "lang": "en",
+      "text": "The middle part 'târzi' sounds like the French word 'tard', which means 'late', making it easier to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of being 'in time' but actually late—'întârziere' means not being on time, so you are 'in' the delay."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'întârziere' with the English word 'tariff'—if you're late, you might have to pay a penalty or fee, just like a tariff."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "ms-en-ro-arrive",
+  "parent": "ms-ro-a-sosi-b9d622fe@209c4186e03c5277226a3a32c0a89c8f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "arrive",
+    "definition": "to reach a destination or come to a place",
+    "pronunciation": "/əˈraɪv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'arrive' comes from the Old French 'arriver', which means 'to reach the shore' or 'to come to land', originally derived from the Late Latin 'arripare' meaning 'to reach the shore'.",
+        "targetText": "Cuvântul englezesc „arrive“ provine din franceza veche „arriver“, care înseamnă „a ajunge la țărm“ sau „a veni la uscat“, derivat inițial din latina târzie „arripare“, care înseamnă „a ajunge la țărm“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used when someone or something reaches a specific place."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sosi",
+    "definition": "a ajunge la o destinație sau a se prezenta",
+    "pronunciation": "/a soˈsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a sosi“ probably derives from the Latin „surgere“ (to rise, to get up), which evolved in the vernacular to mean 'to arrive'.",
+        "targetText": "Verbul românesc „a sosi” provine probabil din latină, din „surgere” (a se ridica), evoluând în limba română cu sensul de „a ajunge” sau „a sosi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Commonly used to describe arrival at a specific place."
+  },
+  "senses": [
+    {
+      "gloss": "to reach a destination",
+      "explanation": {
+        "sourceText": "'A sosi' describes the process of reaching a goal or destination.",
+        "targetText": "„A sosi“ descrie procesul de a ajunge la o destinație."
+      },
+      "examples": [
+        {
+          "sourceText": "He arrives tomorrow.",
+          "targetText": "El sosește mâine."
+        }
+      ]
+    },
+    {
+      "gloss": "to arrive (arrival)",
+      "explanation": {
+        "sourceText": "'A sosi' means the arrival at a specific place.",
+        "targetText": "„A sosi“ înseamnă sosirea într-un loc specific."
+      },
+      "examples": [
+        {
+          "sourceText": "I arrive on Tuesday.",
+          "targetText": "Eu sosesc marți."
+        }
+      ]
+    },
+    {
+      "gloss": "to present oneself",
+      "explanation": {
+        "sourceText": "'A sosi' can also mean to present oneself at a place.",
+        "targetText": "„A sosi“ poate însemna și a se prezenta într-un loc."
+      },
+      "examples": [
+        {
+          "sourceText": "Do you arrive on time?",
+          "targetText": "Sosești la timp?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "arrival",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "ride",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "destination",
+      "targetText": "destinație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "give away",
+      "targetText": "a da"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I arrive on Tuesday.",
+      "targetText": "Eu sosesc marți."
+    },
+    {
+      "sourceText": "Do you arrive on time?",
+      "targetText": "Sosești la timp?"
+    },
+    {
+      "sourceText": "He arrives tomorrow.",
+      "targetText": "El sosește mâine."
+    },
+    {
+      "sourceText": "We arrive in the evening.",
+      "targetText": "Noi sosim seara."
+    },
+    {
+      "sourceText": "Do you arrive by train?",
+      "targetText": "Sosiți cu trenul?"
+    },
+    {
+      "sourceText": "They arrive immediately.",
+      "targetText": "Ei sosesc imediat."
+    },
+    {
+      "sourceText": "I arrived yesterday.",
+      "targetText": "Am sosit ieri."
+    },
+    {
+      "sourceText": "They always arrived on time.",
+      "targetText": "Ei sosesc întotdeauna la timp."
+    },
+    {
+      "sourceText": "I will arrive at 8 o'clock.",
+      "targetText": "Voi sosii la ora 8."
+    },
+    {
+      "sourceText": "I would arrive if the weather is good.",
+      "targetText": "Aș sosi dacă vremea este bună."
+    },
+    {
+      "sourceText": "Arrive quickly!",
+      "targetText": "Sosește repede!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'arrive' as 'a river' flowing to a destination—just like water reaches the shore, you 'arrive' at a place."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a sosi' sounds like 'so see'—imagine arriving somewhere so you can see new things."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'arrive' by associating it with 'arrival' at airports or train stations, common words in travel contexts."
+    },
+    {
+      "lang": "en",
+      "text": "Practice with phrases like 'I arrive on Tuesday' to connect the English verb with the Romanian 'a sosii'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-wait",
+  "parent": "ms-ro-a-astepta-a1c3da3e@f48abd7ee2eb256a703792024aa7da7a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "wait",
+    "definition": "to stay in place or remain inactive until something expected happens or arrives",
+    "pronunciation": "/weɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"wait\" originates from Old North French \"waitier\" meaning 'to watch' or 'to be vigilant', which itself comes from a Germanic root related to watching or guarding.",
+        "targetText": "Cuvântul englezesc „wait” provine din vechea franceză nordică „waitier” care înseamnă „a veghea” sau „a fi vigilent”, iar aceasta provine dintr-o rădăcină germanică legată de a veghea sau a păzi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used to express anticipation or expectation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aștepta",
+    "definition": "a aștepta sau a presupune că ceva se va întâmpla",
+    "pronunciation": "/a aʃteˈpta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a aștepta” comes from Slavic, cf. Bulgarian „чакати“ (čakati) or Serbian „čekati“, both meaning 'to wait'. The term was adopted in the Middle Ages.",
+        "targetText": "Verbul românesc „a aștepta“ provine din slavă, cf. bulgară „чакати“ (čakati) sau sârbă „čekati“, ambele cu sensul de „a aștepta“. Termenul a fost preluat în Evul Mediu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb regulat de conjugarea I (-a). Folosit frecvent pentru a exprima așteptarea."
+  },
+  "senses": [
+    {
+      "gloss": "to have a premonition",
+      "explanation": {
+        "sourceText": "Means to expect that something specific will happen.",
+        "targetText": "Înseamnă a anticipa că ceva anume se va întâmpla."
+      },
+      "examples": [
+        {
+          "sourceText": "He has a feeling that something big is about to happen.",
+          "targetText": "El are o presimțire că ceva mare se va întâmpla."
+        }
+      ]
+    },
+    {
+      "gloss": "to wait for",
+      "explanation": {
+        "sourceText": "Refers to waiting for the arrival or occurrence of something.",
+        "targetText": "Se referă la așteptarea sosirii sau apariției ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I am waiting for the train.",
+          "targetText": "Eu aștept trenul."
+        },
+        {
+          "sourceText": "They are waiting for their friends.",
+          "targetText": "Ei așteaptă prietenii lor."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "event",
+      "targetText": "eveniment"
+    },
+    {
+      "sourceText": "patience",
+      "targetText": "răbdare"
+    },
+    {
+      "sourceText": "hope",
+      "targetText": "speranță"
+    },
+    {
+      "sourceText": "anticipation",
+      "targetText": "entuziasm"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "surprise",
+      "targetText": "a surprinde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am waiting for your call.",
+      "targetText": "Eu aștept apelul tău."
+    },
+    {
+      "sourceText": "Are you expecting an answer?",
+      "targetText": "Aștepți un răspuns?"
+    },
+    {
+      "sourceText": "She is waiting for a gift.",
+      "targetText": "Ea așteaptă un cadou."
+    },
+    {
+      "sourceText": "We are expecting good news.",
+      "targetText": "Noi așteptăm vești bune."
+    },
+    {
+      "sourceText": "Are you waiting for the delivery?",
+      "targetText": "Așteptați livrarea?"
+    },
+    {
+      "sourceText": "They expect big changes.",
+      "targetText": "Ei așteaptă schimbări mari."
+    },
+    {
+      "sourceText": "I waited for the message.",
+      "targetText": "Am așteptat mesajul."
+    },
+    {
+      "sourceText": "He waited patiently.",
+      "targetText": "El aștepta cu răbdare."
+    },
+    {
+      "sourceText": "I will wait for you tomorrow.",
+      "targetText": "Te voi aștepta mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian verb „a aștepta” by thinking of the English word 'expect'—both involve anticipating something."
+    },
+    {
+      "lang": "en",
+      "text": "The syllable „ștept” in „a aștepta” sounds like 'step' in English, so imagine taking steps while waiting patiently."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase 'I wait at the gate'—the 'aștepta' sound can remind you of 'expect' and 'wait'."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Romanian verb to the English word 'anticipate' to remember it means to wait or expect something."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

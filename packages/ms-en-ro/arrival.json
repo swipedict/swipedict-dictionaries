@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-arrival",
+  "parent": "ms-ro-sosire-394b4f2e@5eddd0d51de9a96cc1545605950302d9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "arrival",
+    "genus": "feminine",
+    "definition": "The act or process of reaching a destination after traveling or moving from another place.",
+    "pronunciation": "/əˈraɪvəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun “arrival” derives from the verb “arrive,” which comes from the Old French 'arriver,' meaning 'to reach the shore' or 'to come to land.' This traces back to the Late Latin 'arripare,' composed of 'ad-' (to) and 'ripa' (shore), originally referring to reaching the shore after a journey.",
+        "targetText": "Cuvântul englezesc „arrival” provine de la verbul „arrive”, care are originea în vechea limbă franceză „arriver”, însemnând „a ajunge la țărm” sau „a veni la uscat”. Aceasta derivă din latina târzie „arripare”, compusă din „ad-” (către) și „ripa” (țărm), referindu-se inițial la atingerea țărmului după o călătorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sosire",
+    "genus": "feminine",
+    "definition": "Acțiunea de a ajunge într-un loc după o călătorie sau deplasare.",
+    "pronunciation": "/soˈsi.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun “sosire” is derived from the verb “a sosi,” which probably originates from the Latin “surgere” (to rise, to get up) and evolved semantically to mean “to arrive” or “to come.”",
+        "targetText": "Substantivul românesc „sosire” este derivat de la verbul „a sosi”, care provine probabil din latină, din „surgere” (a se ridica), cu evoluție semantică spre „a ajunge” sau „a sosi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "departure",
+      "targetText": "plecare"
+    },
+    {
+      "sourceText": "to arrive",
+      "targetText": "a sosi"
+    },
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "departure",
+      "targetText": "plecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The arrival of the train is at 6 p.m.",
+      "targetText": "Sosirea trenului este la ora 18."
+    },
+    {
+      "sourceText": "We are expecting the arrival of our guests.",
+      "targetText": "Așteptăm sosirea oaspeților noștri."
+    },
+    {
+      "sourceText": "After arriving at the airport, we went to the baggage claim.",
+      "targetText": "După sosirea la aeroport, am mers la banda de bagaje."
+    },
+    {
+      "sourceText": "The arrival of the package was confirmed.",
+      "targetText": "Sosirea coletului a fost confirmată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'arrival' by thinking of 'arrive' + '-al' as the noun form meaning the act of coming to a place."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'sosire' sounds like 'so see re' – imagine someone saying 'So, see, they are here!' when someone arrives."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sosire' as related to 'soar' (from Latin 'surgere'), meaning to rise or come up, just like arriving at a new place."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'arrival' with 'airport arrival' to remember 'sosire' as the moment someone reaches their destination."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

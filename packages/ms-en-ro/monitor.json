@@ -1,0 +1,132 @@
+{
+  "id": "ms-en-ro-monitor",
+  "parent": "ms-ro-a-supraveghea-ce347b09@27d2c8d755026fd128978791f561ea45",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "monitor",
+    "definition": "to observe or check something carefully and continuously",
+    "pronunciation": "/ˈmɒnɪtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'monitor' comes from the Latin 'monitor', meaning 'one who warns or reminds', originally referring to someone who watches over or advises.",
+        "targetText": "Verbul „a supraveghea“ provine din latină „supervigiliare“, care înseamnă „a veghea deasupra“, referindu-se la supravegherea atentă a ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in technical, security, or administrative contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a supraveghea",
+    "definition": "a observa sau a controla ceva în mod precis",
+    "pronunciation": "/a suˈpraveɡˈe.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a supraveghea' derives from the Latin 'supervigiliare', meaning 'to watch over', indicating careful supervision of an object or process.",
+        "targetText": "Verbul românesc „a supraveghea“ derivă din latinescul „supervigiliare“, care înseamnă „a veghea deasupra“, indicând supravegherea atentă a unui obiect sau proces."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Relevant in technology and security."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "supervision",
+      "targetText": "supraveghere"
+    },
+    {
+      "sourceText": "observation",
+      "targetText": "observare"
+    },
+    {
+      "sourceText": "control",
+      "targetText": "control"
+    },
+    {
+      "sourceText": "inspection",
+      "targetText": "verificare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignore",
+      "targetText": "ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I monitor the security systems.",
+      "targetText": "Eu supraveghez sistemele de securitate."
+    },
+    {
+      "sourceText": "Do you monitor the surveillance cameras?",
+      "targetText": "Supraveghezi camerele de supraveghere?"
+    },
+    {
+      "sourceText": "She monitors the processes.",
+      "targetText": "Ea supraveghează procesele."
+    },
+    {
+      "sourceText": "We monitor all systems.",
+      "targetText": "Noi supraveghem toate sistemele."
+    },
+    {
+      "sourceText": "Do you monitor the security measures?",
+      "targetText": "Supravegheați măsurile de securitate?"
+    },
+    {
+      "sourceText": "They monitor the employees.",
+      "targetText": "Ei supraveghează angajații."
+    },
+    {
+      "sourceText": "I monitored the project.",
+      "targetText": "Am supravegheat proiectul."
+    },
+    {
+      "sourceText": "He constantly monitored the development.",
+      "targetText": "El supraveghea dezvoltarea constant."
+    },
+    {
+      "sourceText": "I will monitor the system.",
+      "targetText": "Voi supraveghea sistemul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a computer monitor that keeps an eye on your data—just like 'a supraveghea' means to watch over something carefully."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'supra-' means 'above' or 'over' in Latin, so 'supraveghea' literally means 'to watch over'—imagine watching from above."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'veghea' in 'supraveghea' is similar to 'vigil' in English, which means being watchful or alert."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'supervise' in English, which shares the same Latin root 'super-' meaning 'over' and relates to overseeing or monitoring."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

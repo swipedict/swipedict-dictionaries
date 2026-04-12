@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-bathroom",
+  "parent": "ms-ro-baie-709904ba@c000737e30be9e5b369af430b869de2d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bathroom",
+    "genus": "neuter",
+    "definition": "A room in a house equipped for bathing and personal hygiene.",
+    "pronunciation": "/ˈbæθˌruːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'bathroom' is a compound of 'bath', from Old English 'bæth' meaning a washing or bathing, and 'room', from Old English 'rūm' meaning space or chamber.",
+        "targetText": "Cuvântul englezesc „bathroom” este compus din „bath”, provenit din engleza veche „bæth” care însemna spălare sau baie, și „room”, din engleza veche „rūm” care însemna spațiu sau cameră."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "baie",
+    "genus": "feminine",
+    "definition": "O cameră din casă destinată pentru baie și igienă personală.",
+    "pronunciation": "/ˈbaje/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'baie' derives from the Latin 'balneum', meaning bath, which was transmitted through the Greek 'balaneion'.",
+        "targetText": "Cuvântul românesc „baie” provine din latină, din 'balneum', care însemna baie, preluat prin grecescul 'balaneion'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "shower",
+      "targetText": "duș"
+    },
+    {
+      "sourceText": "towel",
+      "targetText": "prosop"
+    },
+    {
+      "sourceText": "toilet",
+      "targetText": "toaletă"
+    },
+    {
+      "sourceText": "sink",
+      "targetText": "chiuvetă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bathroom is clean and modern.",
+      "targetText": "Baia este curată și modernă."
+    },
+    {
+      "sourceText": "I go to the bathroom to wash myself.",
+      "targetText": "Merg în baie să mă spăl."
+    },
+    {
+      "sourceText": "There is a shower and a bathtub in the bathroom.",
+      "targetText": "În baie este un duș și o cadă."
+    },
+    {
+      "sourceText": "The bathroom is next to the bedroom.",
+      "targetText": "Baia se află lângă dormitor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'baie' sounds like 'bye' in English, so imagine saying 'bye' before you leave the bathroom."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'baie' by linking it to the English word 'bath' which is the core meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'balneum' which connects to 'baie' and means bath."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself stepping into the 'baie' to take a bath, helping you recall the word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-fine",
+  "parent": "ms-ro-amenda-c5e1d0a2@951a6a63823f3fd387ba1b74cf0a05b6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fine",
+    "genus": "feminine",
+    "definition": "A monetary penalty imposed as punishment for breaking a law or rule.",
+    "pronunciation": "/faɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"fine\" in the sense of a monetary penalty originates from the Old French 'fin', meaning 'end' or 'payment', which itself comes from Latin 'finis' meaning 'end' or 'limit'. It came to mean a sum paid to settle a matter or penalty.",
+        "targetText": "Cuvântul englezesc „fine” în sensul de penalizare pecuniară provine din vechiul francez 'fin', care înseamnă 'sfârșit' sau 'plată', derivat din latină 'finis', care înseamnă 'sfârșit' sau 'limită'. A ajuns să însemne o sumă plătită pentru a rezolva o problemă sau o sancțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "amendă",
+    "genus": "feminine",
+    "definition": "O pedeapsă constând în plata unei sume de bani impusă pentru încălcarea legii.",
+    "pronunciation": "/aˈmendə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"amendă\" derives from the Latin verb 'emendare', meaning 'to improve' or 'to correct'. In a legal context, it evolved to mean a monetary penalty as a corrective measure.",
+        "targetText": "Cuvântul românesc „amendă” provine din verbul latin 'emendare', care înseamnă 'a îmbunătăți' sau 'a corecta'. În context juridic, a evoluat spre sensul de sancțiune pecuniară ca măsură corectivă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "penalty",
+      "targetText": "amendă"
+    },
+    {
+      "sourceText": "law",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "punishment",
+      "targetText": "pedeapsă"
+    },
+    {
+      "sourceText": "violation",
+      "targetText": "încălcare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reward",
+      "targetText": "recompensă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The fine was imposed for parking in a no-parking zone.",
+      "targetText": "Amenda a fost aplicată pentru parcare în zona interzisă."
+    },
+    {
+      "sourceText": "He had to pay a high fine.",
+      "targetText": "A trebuit să plătească o amendă mare."
+    },
+    {
+      "sourceText": "The fine serves as a deterrent.",
+      "targetText": "Amenda servește ca mijloc de descurajare."
+    },
+    {
+      "sourceText": "The fine can be increased in case of repetition.",
+      "targetText": "La recidivă, amenda poate fi mărită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"amendă\" sounds like the English word \"amend\", which means to improve or correct—just like a fine is meant to correct behavior."
+    },
+    {
+      "lang": "en",
+      "text": "The ending \"-ă\" is common for feminine nouns in Romanian, so \"amendă\" is a feminine noun."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a fine as a way to 'amend' your mistakes by paying money as a penalty."
+    },
+    {
+      "lang": "en",
+      "text": "If you get an \"amendă\", imagine you should have 'amended' your actions to avoid the penalty."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

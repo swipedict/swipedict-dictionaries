@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bow",
+  "parent": "ms-ro-arc-7fe65393@109dae968a2f90dd02e470306b50bce3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bow",
+    "genus": "masculine",
+    "definition": "A weapon made from a curved piece of wood and a stretched string, used to shoot arrows.",
+    "pronunciation": "/baʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bow\" comes from Old English 'boga', meaning 'arch' or 'curve', which traces back to an ancient Indo-European root.",
+        "targetText": "Cuvântul englezesc „bow” provine din engleza veche 'boga', care înseamnă 'arc' sau 'curbură', având o rădăcină indo-europeană veche."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "arc",
+    "genus": "neuter",
+    "definition": "Armă formată dintr-o bucată curbată de lemn și o coardă întinsă pentru a trage săgeți.",
+    "pronunciation": "/ark/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"arc\" derives from the Latin 'arcus', meaning 'bow'.",
+        "targetText": "Cuvântul românesc „arc” provine din latină, de la 'arcus', care înseamnă 'arc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "arrow",
+      "targetText": "săgeată"
+    },
+    {
+      "sourceText": "to shoot",
+      "targetText": "a trage"
+    },
+    {
+      "sourceText": "to stretch",
+      "targetText": "a întinde"
+    },
+    {
+      "sourceText": "weapon",
+      "targetText": "armă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bow is made of wood.",
+      "targetText": "Arc este făcut din lemn."
+    },
+    {
+      "sourceText": "He stretched the bow and shot the arrow.",
+      "targetText": "A întins arcul și a tras săgeata."
+    },
+    {
+      "sourceText": "A bow is used for archery.",
+      "targetText": "Un arc este folosit pentru tir cu arcul."
+    },
+    {
+      "sourceText": "The bow has an elegant curve.",
+      "targetText": "Arcul are o curbură elegantă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"bow\" and the Romanian \"arc\" both relate to curved shapes, making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'bow' as in 'bow and arrow'—this helps link it directly to the Romanian word \"arc\" meaning bow."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"arc\" is short and sharp, just like the shape of a bow, which can help you recall its meaning quickly."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine shooting an arrow with a bow (arc) to remember that \"arc\" means bow in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

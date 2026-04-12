@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-power-socket",
+  "parent": "ms-ro-priza-f5194fac@251ede49719edd53e4c5c67f2ac8f610",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "power socket",
+    "genus": "feminine",
+    "definition": "A device fixed to a wall into which electrical plugs are inserted to provide power to electrical appliances.",
+    "pronunciation": "/ˈpaʊər ˌsɒkɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'socket' comes from the Old French 'soquet', a diminutive of 'soc' meaning 'plowshare' or 'base', originally referring to a hollow into which something fits. The word 'power' relates to the supply of electrical energy.",
+        "targetText": "Termenul englezesc „socket” provine din franceza veche „soquet”, un diminutiv al lui „soc” care înseamnă „lamă de plug” sau „bază”, referindu-se inițial la o cavitate în care ceva se potrivește. Cuvântul „power” se referă la furnizarea de energie electrică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "priză",
+    "genus": "feminine",
+    "definition": "Dispozitiv montat pe perete în care se introduce un cablu electric pentru a alimenta aparate cu energie electrică.",
+    "pronunciation": "/priˈzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'priză' derives from the Latin 'prehendere', meaning 'to grasp' or 'to seize', evolving through Latin and Slavic influences into a term for an electrical connection device.",
+        "targetText": "Cuvântul românesc „priză” provine din latină 'prehendere', care înseamnă 'a apuca' sau 'a prinde', evoluând prin influențe latine și slave către sensul de dispozitiv electric."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "electricity",
+      "targetText": "electricitate"
+    },
+    {
+      "sourceText": "cable",
+      "targetText": "cablu"
+    },
+    {
+      "sourceText": "switch",
+      "targetText": "întrerupător"
+    },
+    {
+      "sourceText": "plug",
+      "targetText": "ștecăr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The lamp is plugged into the power socket.",
+      "targetText": "Lampa este introdusă în priză."
+    },
+    {
+      "sourceText": "Please unplug the plug from the power socket before you repair the device.",
+      "targetText": "Te rog scoate ștecărul din priză înainte să repari aparatul."
+    },
+    {
+      "sourceText": "There are several power sockets in every room.",
+      "targetText": "În fiecare cameră există mai multe prize."
+    },
+    {
+      "sourceText": "The power socket is defective and needs to be replaced.",
+      "targetText": "Priza este defectă și trebuie înlocuită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'priză' as 'prise' in French, which also means socket—this connection can help you remember the Romanian word easily."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'priză' comes from the Latin root meaning 'to grasp' or 'to seize', just like you 'grasp' the plug to insert it into the socket."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'prise' (like 'prise de courant' in French) the plug firmly—this helps link the Romanian 'priză' to the idea of holding or connecting."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'power socket' describes exactly what it does: a socket that supplies power. 'Priză' is the Romanian equivalent, so think of it as the 'power grip' for electricity."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

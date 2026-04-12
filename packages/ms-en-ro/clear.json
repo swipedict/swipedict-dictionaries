@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-clear",
+  "parent": "ms-ro-a-curata-597f1881@60db617b263ce19c77e0a4dcf92112cc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "clear",
+    "definition": "to remove objects or food leftovers from tables or surfaces",
+    "pronunciation": "/klɪər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"clear\" comes from the Old French \"cler\" or \"clere\", meaning \"bright, pure, free from obstruction\", which in turn derives from Latin \"clarus\" meaning \"clear, bright\". It evolved to mean removing obstacles or making a space free.",
+        "targetText": "Cuvântul englezesc „clear“ provine din vechea franceză „cler“ sau „clere“, care înseamnă „luminos, pur, fără obstacole“, derivat din latină „clarus“ care înseamnă „clar, luminos“. A evoluat să însemne a îndepărta obstacole sau a face un spațiu liber."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts related to cleaning or removing clutter."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a curăța",
+    "definition": "a elibera mese sau suprafețe de lucruri sau resturi de mâncare",
+    "pronunciation": "/a kuˈɾəzi.t͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a curăța“ derives from the Latin „purificare“, meaning „to clean or purify“, and is used for cleaning or tidying up.",
+        "targetText": "Verbul românesc „a curăța“ provine din latinescul „purificare“, care înseamnă „a curăța“ sau „a purifica“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). It is often used to describe both physical tidying and metaphorical cleansing."
+  },
+  "senses": [
+    {
+      "gloss": "cleaning the kitchen",
+      "explanation": {
+        "sourceText": "When you say you clear the kitchen, you remove disorder from it.",
+        "targetText": "Când spui să „rămuți bucătăria“, înseamnă să o cureți de dezordine."
+      },
+      "examples": [
+        {
+          "sourceText": "Are you clearing the kitchen?",
+          "targetText": "Curăți bucătăria?"
+        }
+      ]
+    },
+    {
+      "gloss": "clearing the table",
+      "explanation": {
+        "sourceText": "This means removing items from the table.",
+        "targetText": "Înseamnă a elibera masa de obiecte."
+      },
+      "examples": [
+        {
+          "sourceText": "I am clearing the table.",
+          "targetText": "Curăț masa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "dishes",
+      "targetText": "vase"
+    },
+    {
+      "sourceText": "kitchen",
+      "targetText": "bucătărie"
+    },
+    {
+      "sourceText": "trash",
+      "targetText": "gunoi"
+    },
+    {
+      "sourceText": "table",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "set (the table)",
+      "targetText": "a acoperi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am clearing the table.",
+      "targetText": "Curăț masa."
+    },
+    {
+      "sourceText": "Are you clearing the kitchen?",
+      "targetText": "Curăți bucătăria?"
+    },
+    {
+      "sourceText": "He is clearing the desk.",
+      "targetText": "El curăță biroul."
+    },
+    {
+      "sourceText": "We are clearing the apartment.",
+      "targetText": "Noi curățăm apartamentul."
+    },
+    {
+      "sourceText": "Do you clear up after eating?",
+      "targetText": "Curățați după masă?"
+    },
+    {
+      "sourceText": "They are clearing the rooms.",
+      "targetText": "Ei curăță camerele."
+    },
+    {
+      "sourceText": "I cleared the table.",
+      "targetText": "Am curățat masa."
+    },
+    {
+      "sourceText": "She always cleared the room.",
+      "targetText": "Ea curăța mereu camera."
+    },
+    {
+      "sourceText": "I will clear the table.",
+      "targetText": "Voi curăța masa."
+    },
+    {
+      "sourceText": "I would clear if you help me.",
+      "targetText": "Aș curăța dacă mă ajuți."
+    },
+    {
+      "sourceText": "Clear up!",
+      "targetText": "Curăță!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"clear\" as making a space free and clean, just like \"a curăța\" means to clean or clear in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"clear the table\" is a common phrase in English, which matches perfectly with the Romanian \"curăța masa\"."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"clear\" with clearing clutter or obstacles, which helps you recall the meaning of \"a curăța\" as removing mess or dirt."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a clear, bright room after cleaning, linking the English root of \"clear\" (bright, pure) with the Romanian \"a curăța\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-download",
+  "parent": "ms-ro-a-descarca-b0f04010@0fa9adc3a0c7813a6ea0398f8bc2092e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:italian",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "download",
+    "definition": "To transfer data or files from a remote computer or server to one's own device.",
+    "pronunciation": "/ˈdaʊnˌloʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'download' is a compound of 'down' and 'load', where 'load' comes from Old English 'lād', meaning to carry or bring a load.",
+        "targetText": "Cuvântul englezesc „download” este compus din „down” și „load”, unde „load” provine din engleza veche 'lād', însemnând a purta sau a aduce o încărcătură."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a descărca",
+    "definition": "A transfera date sau fișiere de pe un calculator sau server la propriul calculator.",
+    "pronunciation": "/a des.kɨrˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a descărca' is a neologism formed after the Italian model, from the prefix 'de-' and the verb 'caricare' (Italian 'scaricare' = to unload), ultimately derived from the Late Latin 'carricare' (to load).",
+        "targetText": "Verbul românesc „a descărca” este un neologism format după model italian, din prefixul 'de-' și verbul 'caricare' (italiană 'scaricare' = a descărca), provenind în final din latinul târziu 'carricare' (a încărca)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb, regular formation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "file",
+      "targetText": "fișier"
+    },
+    {
+      "sourceText": "upload",
+      "targetText": "a încărca"
+    },
+    {
+      "sourceText": "internet",
+      "targetText": "internet"
+    },
+    {
+      "sourceText": "memory",
+      "targetText": "memorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "upload",
+      "targetText": "a încărca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am downloading the file.",
+      "targetText": "Eu descarc fișierul."
+    },
+    {
+      "sourceText": "Can you download the program?",
+      "targetText": "Poți să descarci programul?"
+    },
+    {
+      "sourceText": "He downloaded many music files yesterday.",
+      "targetText": "El a descărcat multe fișiere muzicale ieri."
+    },
+    {
+      "sourceText": "Please download the updates to update the software.",
+      "targetText": "Te rog să descarci actualizările pentru a actualiza software-ul."
+    },
+    {
+      "sourceText": "I will download the photos from the server.",
+      "targetText": "Voi descărca fotografiile de pe server."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'descărca' by thinking of 'de-' as 'remove' and 'scar' sounding like 'scar' in English, which can remind you of 'unloading' or 'downloading'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'descărca' sounds similar to the English word 'discharge', which also means to unload or release, helping you recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'loading down' a heavy load and then 'descărca' as taking that load off — 'de' meaning 'off' and 'scarca' related to loading."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'download' with 'a descărca' through their shared idea of moving data down or unloading, just in different languages."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

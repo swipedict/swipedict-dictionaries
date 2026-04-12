@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-cemetery",
+  "parent": "ms-ro-cimitir-7689dc93@d239fd03881ce1816ceed775bc609ead",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:greek",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cemetery",
+    "genus": "masculine",
+    "definition": "A designated area of land where deceased people are buried.",
+    "pronunciation": "/ˈsɛmɪˌtɛri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cemetery\" comes from the Greek term 'koimeterion' meaning 'sleeping place', which passed into Latin as 'coemeterium' and then into English, referring to a burial ground.",
+        "targetText": "Cuvântul englezesc „cemetery” provine din termenul grecesc „koimeterion”, care înseamnă „loc de dormit”, preluat prin latină ca „coemeterium” și apoi în engleză, desemnând un loc de îngropare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cimitir",
+    "genus": "neuter",
+    "definition": "Un teren delimitat unde sunt îngropați oamenii după moarte.",
+    "pronunciation": "/t͡ʃimiˈtir/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cimitir\" comes from the Greek \"koimeterion\" (κοίμητήριον, 'sleeping place'), which entered Romanian through the Latin \"coemeterium\".",
+        "targetText": "Cuvântul românesc „cimitir” provine din grecescul „koimeterion” (κοίμητήριον, „loc de dormit”), preluat prin intermediul latinescului „coemeterium”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "burial",
+      "targetText": "înmormântare"
+    },
+    {
+      "sourceText": "cemetery chapel",
+      "targetText": "capelă funerară"
+    },
+    {
+      "sourceText": "grave",
+      "targetText": "mormânt"
+    },
+    {
+      "sourceText": "mourning",
+      "targetText": "doliu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The cemetery is located on the outskirts of the city.",
+      "targetText": "Cimitirul se află la marginea orașului."
+    },
+    {
+      "sourceText": "Many people visit the cemetery on All Saints' Day.",
+      "targetText": "Mulți oameni vizitează cimitirul de Ziua Tuturor Sfinților."
+    },
+    {
+      "sourceText": "The cemetery is a place of peace and remembrance.",
+      "targetText": "Cimitirul este un loc de liniște și amintire."
+    },
+    {
+      "sourceText": "There are many old tombstones in the cemetery.",
+      "targetText": "În cimitir se află multe pietre funerare vechi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'cemetery' sounds like 'semi-terry'—imagine a 'semi' truck carrying 'Terry' to his final resting place."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'cimitir' starts with 'ci', similar to 'city'—think of a 'city' where many people rest peacefully."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'cimitir' as sounding like 'see me tear'—a place where people come to remember and sometimes shed tears."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'cemetery' comes from Greek meaning 'sleeping place'—imagine it as a peaceful place where people 'sleep' eternally."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

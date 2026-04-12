@@ -1,0 +1,121 @@
+{
+  "id": "ms-en-ro-intentional",
+  "parent": "ms-ro-intentionat-964c2ff4@6d6b564db8c4299cef9197c4f7c3e22a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "intentional",
+    "definition": "done with purpose or deliberate aim; not accidental",
+    "pronunciation": "/ɪnˈtɛnʃənəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"intentional\" derives from the Latin \"intentio,\" meaning a stretching out or purpose, reflecting a deliberate or planned action.",
+        "targetText": "Cuvântul englezesc „intentional” provine din latină „intentio”, care înseamnă o întindere sau scop, reflectând o acțiune deliberată sau planificată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in legal and formal contexts to distinguish deliberate actions from accidental ones."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "intenționat",
+    "genus": "adjective",
+    "definition": "cu scop sau obiectiv; nu întâmplător",
+    "pronunciation": "/in.ten.t͡si.oˈnat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Latin \"intentionatus,\" meaning \"intentional\" or \"with purpose.\" Frequently used in legal contexts.",
+        "targetText": "Derivat din latină „intentionatus“, care înseamnă „intenționat“ sau „cu scop“. Folosit frecvent în contexte juridice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A key term to distinguish intentional from negligent behavior."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "intention",
+      "targetText": "intenție"
+    },
+    {
+      "sourceText": "action",
+      "targetText": "acțiune"
+    },
+    {
+      "sourceText": "plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "goal",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unintentional",
+      "targetText": "neintenționat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He acted intentionally and knew what he was doing.",
+      "targetText": "A acționat intenționat și știa ce face."
+    },
+    {
+      "sourceText": "Intentional actions are usually punishable by law.",
+      "targetText": "Acțiunile intenționate sunt de obicei pedepsite de lege."
+    },
+    {
+      "sourceText": "The intentional deception was discovered.",
+      "targetText": "Înșelăciunea intenționată a fost descoperită."
+    },
+    {
+      "sourceText": "He intentionally broke the rules.",
+      "targetText": "A încălcat intenționat regulile."
+    },
+    {
+      "sourceText": "The intentional behavior is under investigation.",
+      "targetText": "Comportamentul intenționat este investigat."
+    },
+    {
+      "sourceText": "Every intentional act has its consequences.",
+      "targetText": "Fiecare acțiune intenționată are consecințele ei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"intentional\" by linking it to \"intention,\" which means a purpose or plan behind an action."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"intenționat\" as similar to \"intentional\" in English, both showing something done on purpose."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix \"in-\" in \"intenționat\" matches the English \"in-\" in \"intentional,\" helping you recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"intenționat\" with legal contexts where distinguishing intentional from accidental acts is important."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-source",
+  "parent": "ms-ro-fiaza-93b2aca8@a1f5eb516e0043fc4568b0a33f8eeab9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "source",
+    "genus": "feminine",
+    "definition": "A place, person, or thing from which something originates or can be obtained; can also mean to provide or deliver something.",
+    "pronunciation": "/sɔːrs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"source\" comes from Old French \"sourse\", derived from Latin \"surgere\" meaning 'to rise' or 'spring up', originally referring to a spring or origin of a stream.",
+        "targetText": "Cuvântul englezesc „source” provine din franceza veche „sourse”, derivat din latină „surgere” care înseamnă „a se ridica” sau „a izvorî”, referindu-se inițial la un izvor sau origine a unui râu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A source can refer both to a geographical origin, such as a spring of water, and to a source of information."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fiază",
+    "genus": "feminine",
+    "definition": "o sursă sau originea unui lucru; poate însemna și a preda sau a livra ceva",
+    "pronunciation": "/ˈfi.a.zə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"fiază\" (also spelled \"fiază\" or \"fiază\") is archaic and means source or origin, derived from Latin.",
+        "targetText": "Cuvântul românesc „fiază“ este un termen vechi care înseamnă izvor sau sursă, provenind din latină."
+      },
+      "source": "AI, DEX"
+    },
+    "additional": "„Fiază“ este astăzi rar folosit, dar poate apărea în contexte literare sau istorice."
+  },
+  "senses": [
+    {
+      "gloss": "Information source",
+      "explanation": {
+        "sourceText": "Used similarly to English: for sources of information.",
+        "targetText": "Similar cu germana, se referă la surse de informații."
+      },
+      "examples": [
+        {
+          "sourceText": "This study is a good source of data.",
+          "targetText": "Acest studiu este o bună fiază pentru date."
+        }
+      ]
+    },
+    {
+      "gloss": "Origin",
+      "explanation": {
+        "sourceText": "Used for the origin of geographical or conceptual ideas.",
+        "targetText": "Folosit pentru a desemna originea unor idei sau locuri."
+      },
+      "examples": [
+        {
+          "sourceText": "The source of the idea is fascinating.",
+          "targetText": "Fiaza ideii este fascinantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "delivery",
+      "targetText": "predare"
+    },
+    {
+      "sourceText": "shipment",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "donation",
+      "targetText": "donație"
+    },
+    {
+      "sourceText": "handover",
+      "targetText": "predare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "receive",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The source of the river is beautiful.",
+      "targetText": "Fiaza râului este frumoasă."
+    },
+    {
+      "sourceText": "Every article must cite the source.",
+      "targetText": "Fiecare articol trebuie să menționeze fiază."
+    },
+    {
+      "sourceText": "We need to find the source of the problem.",
+      "targetText": "Trebuie să găsim fiază problemei."
+    },
+    {
+      "sourceText": "The teacher has a good source of information.",
+      "targetText": "Învățătoarea are o bună fiază pentru informații."
+    },
+    {
+      "sourceText": "The source is important for the project.",
+      "targetText": "Fiază este importantă pentru proiect."
+    },
+    {
+      "sourceText": "We should verify the source of the news.",
+      "targetText": "Ar trebui să verificăm fiază știrii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fiază' sounds a bit like 'fee-aza'—think of paying a 'fee' to access a 'source' of knowledge."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'fiază' with 'fizz'—imagine a sparkling spring as a source of fresh water."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'fiază' as a 'fizzing' source, bubbling up like a natural spring or a fresh idea."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'fiază' to 'fiasco' to remember it’s not a failure but the origin or source of something important."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

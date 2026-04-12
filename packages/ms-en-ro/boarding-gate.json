@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-boarding-gate",
+  "parent": "ms-ro-poarta-de-imbarcare-bc9c1bbc@c32e9e3313301b2a7f5b7156d4a08597",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "boarding gate",
+    "genus": "masculine",
+    "definition": "An area in an airport where passengers board the airplane.",
+    "pronunciation": "/ˈbɔːrdɪŋ ɡeɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"boarding gate\" combines \"boarding,\" from the verb 'to board' meaning to get on a ship or aircraft, and \"gate,\" referring to an entrance or passageway.",
+        "targetText": "Termenul englezesc „boarding gate” combină „boarding”, de la verbul 'to board' care înseamnă a urca într-o navă sau aeronavă, și „gate”, care se referă la o intrare sau pasaj."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "Masculine noun, compound, commonly used in aviation contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "poartă de îmbarcare",
+    "genus": "feminine",
+    "definition": "Zona din aeroport de unde pasagerii urcă în avion.",
+    "pronunciation": "/ˈpo̯artə de ɨmbarˈkare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „poartă de îmbarcare“ is an internally formed compound from „poartă“ (from Latin „porta“) and „îmbarcare“ (derived from „barcă“, from Italian „barca“ < Latin „barca“).",
+        "targetText": "Expresia românească „poartă de îmbarcare” este o formare internă, compusă din „poartă” (din latină „porta”) și „îmbarcare” (derivat modern de la „barcă”, din italiană „barca” < latină „barca”)."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Feminines Substantiv, zusammengesetzt, gebräuchlich im Luftfahrtkontext."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Boarding",
+      "targetText": "îmbarcare"
+    },
+    {
+      "sourceText": "Airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "Airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "Gate",
+      "targetText": "poartă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The boarding gate is at the end of the terminal.",
+      "targetText": "Poarta de îmbarcare este la capătul terminalului."
+    },
+    {
+      "sourceText": "Please proceed to boarding gate 5.",
+      "targetText": "Vă rugăm să vă îndreptați spre poarta de îmbarcare 5."
+    },
+    {
+      "sourceText": "There are many boarding gates at the airport.",
+      "targetText": "La aeroport există multe porți de îmbarcare."
+    },
+    {
+      "sourceText": "The boarding gate is reserved for business class passengers.",
+      "targetText": "Poarta de îmbarcare este rezervată pasagerilor la clasa business."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'boarding gate' as the 'gate' where you 'board' your flight—like stepping onto a ship or plane."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'poartă' sounds like 'portal' in English, which means a gate or entrance."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'îmbarcare' as similar to 'embark' in English, meaning to get on a ship or plane."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself walking through a 'poartă' (gate) to 'îmbarcare' (board) your plane—this links the words to the airport experience."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

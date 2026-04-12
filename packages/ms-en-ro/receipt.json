@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-receipt",
+  "parent": "ms-ro-bon-fiscal-fee88dbe@27b36f71c20bb6a105a94ee565a47bcc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "receipt",
+    "genus": "masculine",
+    "definition": "A document given at the point of sale that confirms payment and records the details of a purchase.",
+    "pronunciation": "/rɪˈsiːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “receipt” comes from the Old French 'receite', meaning 'a receiving' or 'a recipe', which itself derives from the Latin 'recipere', meaning 'to receive' or 'to take back'. Over time, it came to mean a written acknowledgment of having received something, especially payment.",
+        "targetText": "Cuvântul englezesc „receipt” provine din franceza veche 'receite', care însemna 'primire' sau 'rețetă', derivat din latină 'recipere', însemnând 'a primi' sau 'a lua înapoi'. În timp, a ajuns să desemneze o confirmare scrisă a primirii unui lucru, în special a unei plăți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bon fiscal",
+    "genus": "neuter",
+    "definition": "Un document emis la casă care confirmă plata și conține detalii despre cumpărare.",
+    "pronunciation": "/bon fisˈkal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression “bon fiscal” consists of two French loanwords: “bon” (from French 'bon', meaning receipt) and “fiscal” (from French 'fiscal', meaning related to taxes).",
+        "targetText": "Expresia românească „bon fiscal” este formată din două împrumuturi din franceză: „bon” (din franceză 'bon', chitanță) și „fiscal” (din franceză 'fiscal', fiscal)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "document",
+      "targetText": "document justificativ"
+    },
+    {
+      "sourceText": "cash register",
+      "targetText": "casă (de marcat)"
+    },
+    {
+      "sourceText": "receipt",
+      "targetText": "chitanță"
+    },
+    {
+      "sourceText": "invoice",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Please keep the receipt in case you want to return the item.",
+      "targetText": "Vă rugăm să păstrați bonul fiscal în caz că doriți să returnați produsul."
+    },
+    {
+      "sourceText": "The receipt shows the total price and the value-added tax.",
+      "targetText": "Bonul fiscal arată prețul total și taxa pe valoarea adăugată."
+    },
+    {
+      "sourceText": "Without a receipt, returns are often not possible.",
+      "targetText": "Fără bon fiscal, returnarea este adesea imposibilă."
+    },
+    {
+      "sourceText": "The cashier printed the receipt after payment.",
+      "targetText": "Casierul a tipărit bonul fiscal după plata cumpărăturilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'receipt' as a 'receipt' you get after paying—it's your proof of purchase."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'bon' sounds like 'bond' in English, which can remind you of an official document or certificate."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'fiscal' relates to taxes and finance, just like in English 'fiscal policy'—so 'bon fiscal' is an official tax receipt."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'receipt' in English has a silent 'p', so it sounds like 're-seet', similar to how 'bon' is short and simple in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

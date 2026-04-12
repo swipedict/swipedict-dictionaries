@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-context",
+  "parent": "ms-ro-context-e25d857e@04a05f88d0a94cd2c613f0f6c9765319",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "context",
+    "genus": "neuter",
+    "definition": "The circumstances or conditions that form the setting for an event, statement, or idea, and in terms of which it can be fully understood and assessed.",
+    "pronunciation": "/ˈkɒntɛkst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'context' comes from the Latin 'contextus', meaning 'a joining together' or 'connection', derived from 'contexere' which means 'to weave together'.",
+        "targetText": "Cuvântul românesc „context“ provine direct din latină, din „contextus“, care înseamnă „îmbinare“ sau „legătură“, derivat din „contexere“ („a țese împreună“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "context",
+    "genus": "neuter",
+    "definition": "Legătura sau relația dintre diferite lucruri sau situații.",
+    "pronunciation": "/ˈkontekst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'context' comes directly from the Latin 'contextus', meaning 'joining together' or 'connection', derived from 'contexere' ('to weave together').",
+        "targetText": "Cuvântul românesc „context“ provine direct din latină, din „contextus“, care înseamnă „îmbinare“ sau „legătură“, derivat din „contexere“ („a țese împreună“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "relationship",
+      "targetText": "relație"
+    },
+    {
+      "sourceText": "environment",
+      "targetText": "mediu"
+    },
+    {
+      "sourceText": "connection",
+      "targetText": "legătură"
+    },
+    {
+      "sourceText": "contextless",
+      "targetText": "fără context"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "disconnection",
+      "targetText": "incoerență"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The context between cause and effect is clear.",
+      "targetText": "Contextul dintre cauză și efect este clar."
+    },
+    {
+      "sourceText": "Without the right context, you don't understand the text.",
+      "targetText": "Fără contextul corect, nu înțelegi textul."
+    },
+    {
+      "sourceText": "Viewed in historical context, the event is significant.",
+      "targetText": "Privit în context istoric, evenimentul este semnificativ."
+    },
+    {
+      "sourceText": "The connection of the data was analyzed.",
+      "targetText": "Legătura dintre date a fost analizată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'context' sounds almost the same as in English, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'context' as the 'text' that is 'con-'nected together, helping you understand the bigger picture."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'context' comes from Latin 'contexere' meaning 'to weave together' — like threads forming a fabric of meaning."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'context', think of how words and ideas are linked like pieces in a puzzle, creating a full picture."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

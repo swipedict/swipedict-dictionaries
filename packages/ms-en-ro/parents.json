@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-parents",
+  "parent": "ms-ro-parinti-edbd8291@84fb0c9d58907d1b298951a4d350a9e0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "parents",
+    "definition": "A person's mother and father; the people who gave birth to or raised a child.",
+    "pronunciation": "/ˈpɛərənts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"parents\" comes from the Latin word 'parens', meaning 'one who begets or brings forth'. It entered English through Old French and has been used to denote mother and father collectively.",
+        "targetText": "Cuvântul englezesc „parents” provine din cuvântul latin 'parens', care înseamnă 'cel care naște sau aduce pe lume'. A intrat în limba engleză prin vechea limbă franceză și este folosit pentru a desemna mama și tatăl împreună."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "părinți",
+    "genus": "masculine",
+    "definition": "Mama și tatăl unui copil; cei care îl nasc.",
+    "pronunciation": "/pəˈrintsʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „părinți“ derives from the Latin 'parens, parentis', meaning 'progenitor' or 'parent'.",
+        "targetText": "Cuvântul românesc „părinți” provine din latină, de la 'parens, parentis', care înseamnă 'părinte' sau 'cel care naște'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "family",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "child",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "mother",
+      "targetText": "mamă"
+    },
+    {
+      "sourceText": "father",
+      "targetText": "tată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "child",
+      "targetText": "copil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The parents take care of the child.",
+      "targetText": "Părinții au grijă de copil."
+    },
+    {
+      "sourceText": "My parents are very friendly.",
+      "targetText": "Părinții mei sunt foarte prietenoși."
+    },
+    {
+      "sourceText": "Parents should support their children.",
+      "targetText": "Părinții ar trebui să-și susțină copiii."
+    },
+    {
+      "sourceText": "The parents wait in front of the school.",
+      "targetText": "Părinții așteaptă în fața școlii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'parents' comes from Latin 'parens', meaning 'one who brings forth'—think of parents as the originators of life."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'părinți' sounds similar to the English 'parent', making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the '-inți' ending in 'părinți' which often marks plural forms in Romanian, signaling more than one person."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'pair' (sounds like 'părinți') coming together to form a family—this helps link the word to its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

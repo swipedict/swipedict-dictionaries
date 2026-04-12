@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-timetable",
+  "parent": "ms-ro-orariu-de-circulatie-8f9ff03b@8a66162e183bb85edbb7f1cad352bbb7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "timetable",
+    "genus": "masculine",
+    "definition": "A schedule that lists the departure and arrival times of transportation services.",
+    "pronunciation": "/ˈtaɪmˌteɪbəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'timetable' is a compound of 'time' and 'table'. 'Time' comes from Old English 'tīma', meaning a portion of the day or a fixed period, while 'table' derives from Latin 'tabula', meaning a board or list used for displaying information.",
+        "targetText": "Cuvântul englezesc „timetable” este compus din 'time' și 'table'. 'Time' provine din engleza veche 'tīma', însemnând o porțiune a zilei sau o perioadă fixă, iar 'table' derivă din latină 'tabula', însemnând o placă sau o listă folosită pentru afișarea informațiilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "orariu de circulație",
+    "genus": "neuter",
+    "definition": "Un program care indică orele de plecare și sosire ale mijloacelor de transport.",
+    "pronunciation": "/oˈra.ri.u de t͡ʃir.ku.laˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'orariu' derives from the Latin 'horarium', meaning 'schedule', while 'circulație' comes from the Latin 'circulatio', meaning 'movement' or 'traffic'.",
+        "targetText": "Expresia românească „orariu” provine din latină, 'horarium', însemnând 'program de timp', iar 'circulație' vine tot din latină, 'circulatio', semnificând 'mișcare' sau 'trafic'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "departure",
+      "targetText": "plecare"
+    },
+    {
+      "sourceText": "arrival",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "train",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The timetable shows the departure times of the trains.",
+      "targetText": "Orariul de circulație arată orele de plecare ale trenurilor."
+    },
+    {
+      "sourceText": "Please check the timetable before your trip.",
+      "targetText": "Vă rugăm să verificați orariul de circulație înainte de călătorie."
+    },
+    {
+      "sourceText": "The timetable was changed due to construction work.",
+      "targetText": "Orariul de circulație a fost modificat din cauza lucrărilor de construcție."
+    },
+    {
+      "sourceText": "The timetable is available online.",
+      "targetText": "Orariul de circulație este disponibil online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'timetable' by thinking of a 'table' that shows 'time' slots for buses and trains."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'orariu' sounds like 'hour', helping you connect it to schedules and time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'circulație' as related to 'circulation', meaning movement, which fits well with transport."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine planning a trip and needing a 'timetable' to be punctual—this helps you remember 'orariu de circulație'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

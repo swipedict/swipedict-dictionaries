@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-equal",
+  "parent": "ms-ro-egal-58c6721d@e79e313ea99de0b8b1a7775a632f913e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "equal",
+    "definition": "Indicates that something is the same in quantity, value, or status; expresses equality or equivalence.",
+    "pronunciation": "/ˈiːkwəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"equal\" comes from the Old French 'equal', which derives from the Latin 'aequalis', meaning 'level' or 'uniform'.",
+        "targetText": "Cuvântul englezesc „equal” provine din franceza veche 'equal', care derivă din latină 'aequalis', însemnând 'nivelat' sau 'uniform'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "egal",
+    "definition": "Indică faptul că ceva este identic, indiferent sau fără diferență; exprimă egalitate sau lipsa de importanță a unei diferențe.",
+    "pronunciation": "/eˈɡal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"egal\" was borrowed from the French 'égal', which comes from the Latin 'aequalis' meaning 'equal' or 'even'.",
+        "targetText": "Cuvântul românesc „egal” este împrumutat din franceza 'égal', care provine din latină 'aequalis', însemnând 'egal' sau 'uniform'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "similar",
+      "targetText": "asemănător"
+    },
+    {
+      "sourceText": "equivalent",
+      "targetText": "echivalent"
+    },
+    {
+      "sourceText": "identical",
+      "targetText": "identic"
+    },
+    {
+      "sourceText": "indistinguishable",
+      "targetText": "fără diferență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "different",
+      "targetText": "diferit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The result is equal, no matter which method you use.",
+      "targetText": "Rezultatul este egal, indiferent de metoda pe care o folosești."
+    },
+    {
+      "sourceText": "For me, it is completely equal.",
+      "targetText": "Pentru mine este complet egal."
+    },
+    {
+      "sourceText": "The two numbers are equal in size.",
+      "targetText": "Cele două numere sunt de aceeași mărime."
+    },
+    {
+      "sourceText": "It is equal to me whether we go today or tomorrow.",
+      "targetText": "Îmi este egal dacă mergem azi sau mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'egal' comes from French 'égal', which is also the root of the English word 'equal'—this connection helps you remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'egal' sounding like 'equal' in English, so whenever you hear 'egal', remember it means 'the same' or 'no difference'."
+    },
+    {
+      "lang": "en",
+      "text": "Notice that 'egal' ends with '-al', similar to English adjectives like 'normal' or 'optimal', which can help you recall it expresses a quality or state."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying 'It’s all equal to me' in English, which matches the Romanian phrase 'Îmi este egal', both expressing indifference."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

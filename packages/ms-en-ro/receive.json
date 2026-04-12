@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-receive",
+  "parent": "ms-ro-a-primi-2cde2978@52effe885595a7773a3a3beee9a08edd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "receive",
+    "definition": "to get or be given something",
+    "pronunciation": "/rɪˈsiːv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Latin 'recipere', meaning 'to take back' or 'to accept', the English word 'receive' entered Middle English through Old French, carrying the sense of getting or accepting something.",
+        "targetText": "Cuvântul englezesc „receive” provine din latină, din „recipere”, care înseamnă „a lua înapoi” sau „a accepta”, intrând în engleza mijlocie prin franceza veche, având sensul de a obține sau a accepta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Usage: to get or accept something, e.g., 'to receive a gift'."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a primi",
+    "definition": "a obține sau a lua ceva",
+    "pronunciation": "/a priˈmi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a primi” comes from the Latin „primitus” (originally from „primo, primire” – to receive, to accept) and means 'to get or accept something.'",
+        "targetText": "Verbul românesc „a primi” provine din latinul „primitus” (de la „primo, primire” – a primi, a accepta), cu sensul de a obține sau a accepta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation. Used for receiving gifts or information."
+  },
+  "senses": [
+    {
+      "gloss": "receive a gift",
+      "explanation": {
+        "sourceText": "Means to get something as a gift.",
+        "targetText": "A primi ceva ca dar."
+      },
+      "examples": [
+        {
+          "sourceText": "I received a book.",
+          "targetText": "Am primit o carte."
+        }
+      ]
+    },
+    {
+      "gloss": "receive information",
+      "explanation": {
+        "sourceText": "Means to be sent information.",
+        "targetText": "A primi informații."
+      },
+      "examples": [
+        {
+          "sourceText": "I regularly receive information.",
+          "targetText": "Primeasc informații în mod regulat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "letter",
+      "targetText": "scrisoare"
+    },
+    {
+      "sourceText": "gift",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "help",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lose",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I receive the package.",
+      "targetText": "Eu primesc pachetul."
+    },
+    {
+      "sourceText": "I have received the message.",
+      "targetText": "Am primit mesajul."
+    },
+    {
+      "sourceText": "I will receive the money.",
+      "targetText": "Voi primi banii."
+    },
+    {
+      "sourceText": "Receive the gift!",
+      "targetText": "Primește cadoul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'receive' as 're-ceive' — you 'ceive' (take) something back or accept it again."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a primi' sounds like 'primo', which means 'first' in Italian and Spanish; imagine being the first to get something to remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'receive' and 'a primi' both relate to getting or accepting, so link them by thinking of receiving a 'prime' or top-quality item."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize receiving a 'present' (gift) to connect 'receive' with 'a primi' since both involve getting something."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

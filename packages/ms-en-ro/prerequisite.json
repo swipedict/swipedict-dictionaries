@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-prerequisite",
+  "parent": "ms-ro-conditie-c74e4abb@04ac5b9688ed138515e34b7dc0a21a18",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prerequisite",
+    "genus": "feminine",
+    "definition": "A condition or requirement that must be met before something else can happen or be done.",
+    "pronunciation": "/priːˈrɛkwəzɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'prerequisite' comes from the Latin 'praerequisitus', meaning 'required beforehand', formed from 'prae-' (before) and 'requirere' (to seek or demand).",
+        "targetText": "Cuvântul englezesc „prerequisite” provine din latină, din 'praerequisitus', care înseamnă 'cerut înainte', format din 'prae-' (înainte) și 'requirere' (a căuta sau a cere)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "condiție",
+    "genus": "feminine",
+    "definition": "O stare sau circumstanță care trebuie îndeplinită pentru ca ceva să fie posibil.",
+    "pronunciation": "/kon.diˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'condiție' derives from the Latin 'conditio', meaning 'agreement' or 'condition'.",
+        "targetText": "Cuvântul românesc „condiție” provine din latină, din 'conditio', care înseamnă 'înțelegere' sau 'condiție'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "requirement",
+      "targetText": "cerință"
+    },
+    {
+      "sourceText": "condition",
+      "targetText": "condiție"
+    },
+    {
+      "sourceText": "possibility",
+      "targetText": "posibilitate"
+    },
+    {
+      "sourceText": "to assume",
+      "targetText": "a presupune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "A prerequisite for the course is basic knowledge of the language.",
+      "targetText": "O condiție pentru curs este cunoașterea de bază a limbii."
+    },
+    {
+      "sourceText": "The prerequisite for success is hard work.",
+      "targetText": "Condiția pentru succes este munca grea."
+    },
+    {
+      "sourceText": "Without this prerequisite, the project cannot start.",
+      "targetText": "Fără această condiție, proiectul nu poate începe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'condiție' sounds like 'condition', which helps link it to the idea of a necessary requirement."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'condiție' comes from Latin 'conditio', similar to English 'condition' and French 'condition'."
+    },
+    {
+      "lang": "en",
+      "text": "Use 'condiție' in formal contexts when talking about requirements, just like 'prerequisite' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'condition' that must be met before something else happens to remember 'condiție'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-leave-aside",
+  "parent": "ms-ro-a-lasa-deoparte-f68a1840@d5b60871f2dad08f67e62734de683c9a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "leave aside",
+    "definition": "to intentionally not do something or to deliberately not consider something",
+    "pronunciation": "/liːv əˈsaɪd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrase \"leave aside\" combines the verb \"leave,\" which comes from Old English \"lǣfan,\" meaning to allow or let remain, with \"aside,\" meaning to one side or out of consideration. Together, it conveys the idea of intentionally setting something apart or not including it.",
+        "targetText": "Expresia engleză „leave aside“ combină verbul „leave“, care provine din engleza veche „lǣfan“, însemnând a permite sau a lăsa să rămână, cu „aside“, care înseamnă deoparte sau în afara considerației. Împreună exprimă ideea de a pune ceva intenționat deoparte sau a nu-l include."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb phrase. Used in various contexts to describe intentionally omitting or not participating in something."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa deoparte",
+    "definition": "a nu face ceva intenționat sau a nu lua în considerare",
+    "pronunciation": "/a ləˈsa de.oˈparte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The expression \"a lăsa deoparte\" means to deliberately set something aside. The verb \"a lăsa\" comes from the Latin \"laxare,\" meaning to let or loosen.",
+        "targetText": "Expresia română „a lăsa deoparte“ înseamnă a exclude ceva intenționat, derivată din lat. „laxare“ (a lăsa)."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regular verb. Used to describe, for example, ignoring or not considering something."
+  },
+  "senses": [
+    {
+      "gloss": "to leave out a chapter",
+      "explanation": {
+        "sourceText": "This refers to omitting a section in a book or story.",
+        "targetText": "Se referă la omiterea unui capitol dintr-o carte sau poveste."
+      },
+      "examples": [
+        {
+          "sourceText": "We leave out the last chapter.",
+          "targetText": "Noi lăsăm ultimul capitol deoparte."
+        }
+      ]
+    },
+    {
+      "gloss": "to omit a part",
+      "explanation": {
+        "sourceText": "This means intentionally leaving something out.",
+        "targetText": "Înseamnă a omite intenționat o parte."
+      },
+      "examples": [
+        {
+          "sourceText": "My teacher left out many topics.",
+          "targetText": "Profesorul meu a lăsat deoparte multe teme."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "accept",
+      "targetText": "a accepta"
+    },
+    {
+      "sourceText": "leave aside",
+      "targetText": "a lăsa deoparte"
+    },
+    {
+      "sourceText": "contain",
+      "targetText": "a conține"
+    },
+    {
+      "sourceText": "forget",
+      "targetText": "a uita"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "include",
+      "targetText": "a include"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I leave out the chapter.",
+      "targetText": "Eu las capitolul deoparte."
+    },
+    {
+      "sourceText": "Do you leave out a part of the recipe?",
+      "targetText": "Lași o parte a rețetei deoparte?"
+    },
+    {
+      "sourceText": "He leaves out the last steps.",
+      "targetText": "El lasă ultimele etape deoparte."
+    },
+    {
+      "sourceText": "We leave out the unimportant points.",
+      "targetText": "Noi lăsăm punctele neimportante deoparte."
+    },
+    {
+      "sourceText": "Do you leave out the details?",
+      "targetText": "Lăsați voi detaliile deoparte?"
+    },
+    {
+      "sourceText": "They leave out the unimportant information.",
+      "targetText": "Ei lasă informațiile neimportante deoparte."
+    },
+    {
+      "sourceText": "I left out the data yesterday.",
+      "targetText": "Am lăsat datele deoparte ieri."
+    },
+    {
+      "sourceText": "I will leave out the unimportant facts.",
+      "targetText": "Voi lăsa faptele neimportante deoparte."
+    },
+    {
+      "sourceText": "Don't leave that out!",
+      "targetText": "Nu lăsa asta deoparte!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"leave aside\" as putting something on the side intentionally, like setting a book chapter aside to skip it."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian phrase \"a lăsa deoparte\" literally means 'to leave aside'—easy to remember if you think of leaving something out on purpose."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you’re cooking and decide to leave aside an ingredient you don’t want to use—that’s \"a lăsa deoparte.\""
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"leave\" in English means to let remain or not include, which matches the Romanian \"a lăsa\" perfectly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

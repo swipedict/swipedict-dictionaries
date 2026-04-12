@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-acquittal",
+  "parent": "ms-ro-achitare-3e21a940@2540d078c59974f49b83cd8ce1042d16",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "acquittal",
+    "genus": "masculine",
+    "definition": "A legal judgment declaring that someone is not guilty of the charges against them.",
+    "pronunciation": "/əˈkwɪtəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'acquittal' derives from the verb 'acquit', which comes from Old French 'acquiter', meaning 'to free or clear someone of a charge'. The root traces back to Latin 'acquitare', meaning 'to pay off' or 'to release'.",
+        "targetText": "Cuvântul englezesc „acquittal” derivă din verbul „acquit”, care provine din franceza veche „acquiter”, însemnând „a elibera sau a exonera pe cineva de o acuzație”. Rădăcina sa provine din latină „acquitare”, care înseamnă „a plăti” sau „a elibera”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "achitare",
+    "genus": "feminine",
+    "definition": "O hotărâre judecătorească prin care cineva este declarat nevinovat sau este eliberat de acuzații.",
+    "pronunciation": "/akitˈare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „achitare” comes from the Late Latin 'acquitare', meaning 'to free from a debt' or 'to declare innocent', used in a legal context.",
+        "targetText": "Cuvântul românesc „achitare” provine din latină târzie 'acquitare', care înseamnă 'a elibera de o datorie' sau 'a declara nevinovat', fiind folosit în limbajul juridic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "charge",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "judgment",
+      "targetText": "sentință"
+    },
+    {
+      "sourceText": "conviction",
+      "targetText": "condamnare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "conviction",
+      "targetText": "condamnare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The defendant received an acquittal.",
+      "targetText": "Acuzatul a primit o achitare."
+    },
+    {
+      "sourceText": "The acquittal was announced by the court.",
+      "targetText": "Achitarea a fost pronunțată de instanță."
+    },
+    {
+      "sourceText": "An acquittal means that no guilt was established.",
+      "targetText": "O achitare înseamnă că nu s-a constatat vinovăția."
+    },
+    {
+      "sourceText": "After the acquittal, he was able to leave the court.",
+      "targetText": "După achitare, a putut părăsi instanța."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'acquittal' by linking it to 'acquire' but instead of gaining something, you 'acquire' freedom from blame."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'achitare' sounds like 'accept'—think of the court 'accepting' your innocence."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'acquittal' and 'achitare' share Latin roots related to 'freeing' or 'releasing' someone from obligation."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-are' in Romanian often marks nouns; 'achitare' is an abstract noun related to legal release."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

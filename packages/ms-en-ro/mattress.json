@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-mattress",
+  "parent": "ms-ro-saltea-9811c62a@8e2a6685a55db845cf509afb6dac5b80",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:turkish",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mattress",
+    "genus": "feminine",
+    "definition": "A padded, usually rectangular bedding placed on a bed frame, used for lying down and sleeping.",
+    "pronunciation": "/ˈmætrəs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"mattress\" comes from the Italian 'materasso', which derives from the Arabic 'matrah', meaning 'a place where something is thrown'. It entered English through Turkish influence.",
+        "targetText": "Cuvântul englezesc „mattress” provine din italianul 'materasso', care la rândul său derivă din arabă 'matrah', însemnând 'locul unde se aruncă ceva'. A intrat în engleză prin influență turcească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "saltea",
+    "genus": "feminine",
+    "definition": "O suprafață moale și căptușită pe care se doarme, așezată pe pat.",
+    "pronunciation": "/salˈte.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"saltea\" comes from the Turkish 'salta', which in turn derives from the Arabic 'satr' or 'matrah', meaning 'mat' or 'underlay'.",
+        "targetText": "Cuvântul românesc „saltea” provine din turcescul 'salta', la rândul său din arabă 'satr' sau 'matrah', cu sensul de 'covoraș' sau 'saltea'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bed",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "blanket",
+      "targetText": "plapumă"
+    },
+    {
+      "sourceText": "pillow",
+      "targetText": "pernă"
+    },
+    {
+      "sourceText": "bed base",
+      "targetText": "somieră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The mattress is very comfortable and ensures a good night's sleep.",
+      "targetText": "Salteaua este foarte confortabilă și asigură un somn bun."
+    },
+    {
+      "sourceText": "I bought a new mattress for my bed.",
+      "targetText": "Am cumpărat o saltea nouă pentru patul meu."
+    },
+    {
+      "sourceText": "The mattress should be aired regularly.",
+      "targetText": "Salteaua trebuie aerisită regulat."
+    },
+    {
+      "sourceText": "Various types of covers lie on the mattress.",
+      "targetText": "Pe saltea se află diferite tipuri de huse."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'saltea' sounds like 'salty' but imagine a soft mattress, not salty at all, just comfy to sleep on."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'mattress' has roots in Arabic and Turkish, showing how many sleep-related words have traveled far."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'saltea' as a soft 'salad' bed of leaves you lie on—soft and natural, just like the Romanian word."
+    },
+    {
+      "lang": "en",
+      "text": "Picture throwing yourself ('matrah' means 'a place where something is thrown') onto your 'saltea' for a good rest."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

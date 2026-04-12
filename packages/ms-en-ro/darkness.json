@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-darkness",
+  "parent": "ms-ro-intuneric-8f5f063b@ee37deb192c3463edbf35c1b805e4614",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "darkness",
+    "genus": "feminine",
+    "definition": "the state or condition where there is little or no light",
+    "pronunciation": "/ˈdɑːrk.nəs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"darkness\" is formed from the adjective \"dark\" combined with the suffix \"-ness\", which turns adjectives into nouns indicating a state or quality. It refers to the absence or lack of light.",
+        "targetText": "Cuvântul englezesc „darkness“ este format din adjectivul „dark“ combinat cu sufixul „-ness“, care transformă adjectivele în substantive ce indică o stare sau o calitate. Se referă la absența sau lipsa luminii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is often used in poetic and philosophical contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întuneric",
+    "genus": "neuter",
+    "definition": "starea în care nu există sau există foarte puțină lumină",
+    "pronunciation": "/ɨntuˈne.riːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „întuneric“ has Slavic roots and means \"absence of light.\" It is frequently used in literary and philosophical texts.",
+        "targetText": "Cuvântul românesc „întuneric“ provine din slavă și înseamnă „lipsa luminii“. Este folosit frecvent în literatură și filozofie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "As a metaphor, darkness is often used to represent the unknown."
+  },
+  "senses": [
+    {
+      "gloss": "darkness (metaphor)",
+      "explanation": {
+        "sourceText": "Darkness as a symbol for uncertainty.",
+        "targetText": "Întunericul ca simbol al necunoscutului."
+      },
+      "examples": [
+        {
+          "sourceText": "In the darkness of uncertainty.",
+          "targetText": "În întunericul necunoscutului."
+        }
+      ]
+    },
+    {
+      "gloss": "darkness (state)",
+      "explanation": {
+        "sourceText": "As in English: an absence of light.",
+        "targetText": "Ca în germană: lipsa luminii."
+      },
+      "examples": [
+        {
+          "sourceText": "There was darkness in the room.",
+          "targetText": "Era întuneric în cameră."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "twilight",
+      "targetText": "amurg"
+    },
+    {
+      "sourceText": "gloom",
+      "targetText": "întuneric profund"
+    },
+    {
+      "sourceText": "night",
+      "targetText": "noapte"
+    },
+    {
+      "sourceText": "shadow",
+      "targetText": "umbră"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "brightness",
+      "targetText": "lumină"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Darkness enveloped the city like a veil.",
+      "targetText": "Întunericul a învăluit orașul ca un văl."
+    },
+    {
+      "sourceText": "In darkness, you hear the best sounds.",
+      "targetText": "În întuneric, auzi cei mai buni sunete."
+    },
+    {
+      "sourceText": "Darkness can be frightening.",
+      "targetText": "Întunericul poate fi înfricoșător."
+    },
+    {
+      "sourceText": "The darkness of the night is calming.",
+      "targetText": "Întunericul nopții este liniștitor."
+    },
+    {
+      "sourceText": "Darkness brings secrets to light.",
+      "targetText": "Întunericul aduce secretele la lumină."
+    },
+    {
+      "sourceText": "Darkness often causes fear.",
+      "targetText": "Întunericul adesea provoacă frică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the word \"darkness\" as the absence of light, just like a room with no lamps on."
+    },
+    {
+      "lang": "en",
+      "text": "Remember \"întuneric\" by associating it with the English word \"interior\"—imagine the inside of a dark room."
+    },
+    {
+      "lang": "en",
+      "text": "The sound of \"întuneric\" starts like \"in-tune\"—think of tuning into the quiet of the dark night."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a candle flickering in the darkness to help recall the word \"întuneric.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

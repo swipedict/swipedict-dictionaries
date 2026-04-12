@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-trunk",
+  "parent": "ms-ro-portbagaj-085450f7@a145fe148e6cac73c943104452723f28",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:objects-clothing",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "trunk",
+    "genus": "masculine",
+    "definition": "The enclosed storage compartment of a car used for carrying luggage.",
+    "pronunciation": "/trʌŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"trunk\" originally referred to a large box or chest used for storing clothes and belongings, derived from Old French \"tronc\" meaning 'stem' or 'trunk of a tree', which itself comes from Latin \"truncus\" meaning 'cut off' or 'stem'. The automotive use of \"trunk\" for the storage compartment at the rear of a car developed later.",
+        "targetText": "Cuvântul englezesc „trunk” se referea inițial la o cutie mare sau un cufăr folosit pentru depozitarea hainelor și a bunurilor, derivat din franceza veche „tronc” care înseamnă „tulpină” sau „trunchi de copac”, provenind din latină „truncus” care înseamnă „tăiat” sau „tulpină”. Utilizarea termenului „trunk” pentru compartimentul de depozitare din spatele unei mașini a apărut ulterior."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "portbagaj",
+    "genus": "neuter",
+    "definition": "Compartimentul închis al unei mașini destinat transportului bagajelor.",
+    "pronunciation": "/portbaˈɡaʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"portbagaj\" comes from the French 'port' (to carry, transport) and 'bagage' (luggage), both borrowed from Latin.",
+        "targetText": "Cuvântul românesc „portbagaj” provine din franceza 'port' (a purta, transport) și 'bagage' (bagaj), ambele împrumutate din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "luggage",
+      "targetText": "bagaj"
+    },
+    {
+      "sourceText": "suitcase",
+      "targetText": "valiză"
+    },
+    {
+      "sourceText": "cargo space",
+      "targetText": "spațiu de încărcare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The trunk is large enough for our vacation suitcase.",
+      "targetText": "Portbagajul este suficient de mare pentru valiza noastră de vacanță."
+    },
+    {
+      "sourceText": "Please open the trunk, I need to load the luggage.",
+      "targetText": "Te rog, deschide portbagajul, trebuie să încarc bagajul."
+    },
+    {
+      "sourceText": "The shopping bags are in the trunk.",
+      "targetText": "În portbagaj se află pungile cu cumpărături."
+    },
+    {
+      "sourceText": "The trunk is locked.",
+      "targetText": "Portbagajul este încuiat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a \"trunk\" as a big box or chest where you store your luggage in a car, similar to a treasure chest holding your belongings."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"portbagaj\" combines 'port' meaning 'to carry' and 'bagaj' meaning 'luggage'—imagine carrying your bags in the car's trunk."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"trunk\" originally meant a large storage box, so the car's trunk is like a big box at the back of the vehicle."
+    },
+    {
+      "lang": "en",
+      "text": "Link the sound of \"portbagaj\" to 'port' as in a harbor where goods are carried and 'bagaj' as baggage—it's the place where luggage is carried in a car."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "ms-en-ro-choose",
+  "parent": "ms-ro-a-alege-3bdbea23@d8032f8876450fd38e46e49ae8ded752",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "choose",
+    "definition": "to decide on or select from a number of options",
+    "pronunciation": "/tʃuːz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Old English 'ceosan', meaning 'to choose, select'. The word has Germanic roots and has been used in English since early medieval times.",
+        "targetText": "Derivat din engleza veche „ceosan“, care înseamnă „a alege, a selecta“. Cuvânt cu rădăcini germanice, folosit în engleză din perioada medievală timpurie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts involving decisions and selections, both in everyday life and formal situations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a alege",
+    "definition": "a face o alegere sau a selecta ceva",
+    "pronunciation": "/a aˈleʤe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Latin 'eligere', meaning 'to select'. It is used for processes of decision and selection.",
+        "targetText": "Derivat din latină „eligere“, care înseamnă „a alege“. Folosit pentru procese de selecție și decizie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used in contexts of elections and decision-making."
+  },
+  "senses": [
+    {
+      "gloss": "election",
+      "explanation": {
+        "sourceText": "'Choice' also refers to political elections.",
+        "targetText": "'Alegere' se referă și la alegeri politice."
+      },
+      "examples": [
+        {
+          "sourceText": "The election is next week.",
+          "targetText": "Alegerea este săptămâna viitoare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "selection",
+      "targetText": "selecție"
+    },
+    {
+      "sourceText": "decision",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "candidate",
+      "targetText": "candidat"
+    },
+    {
+      "sourceText": "vote",
+      "targetText": "vot"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reject",
+      "targetText": "a respinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I choose the red chair.",
+      "targetText": "Eu aleg scaunul roșu."
+    },
+    {
+      "sourceText": "Do you choose the right option?",
+      "targetText": "Alegi opțiunea corectă?"
+    },
+    {
+      "sourceText": "She chooses the best ingredients.",
+      "targetText": "Ea alege cele mai bune ingrediente."
+    },
+    {
+      "sourceText": "We choose the colors for the design.",
+      "targetText": "Noi alegem culorile pentru design."
+    },
+    {
+      "sourceText": "Do you choose the correct pictures?",
+      "targetText": "Alegeți imaginile corecte?"
+    },
+    {
+      "sourceText": "They choose the best seats.",
+      "targetText": "Ei aleg cele mai bune locuri."
+    },
+    {
+      "sourceText": "I have chosen the appropriate answer.",
+      "targetText": "Am ales răspunsul potrivit."
+    },
+    {
+      "sourceText": "They have chosen their representative.",
+      "targetText": "Ei au ales reprezentantul lor."
+    },
+    {
+      "sourceText": "He chose new recipes every Monday.",
+      "targetText": "El alegea rețete noi în fiecare luni."
+    },
+    {
+      "sourceText": "I had already chosen the color before I saw the design.",
+      "targetText": "Alesesem deja culoarea, înainte să văd designul."
+    },
+    {
+      "sourceText": "I will choose a new path.",
+      "targetText": "Voi alege o nouă cale."
+    },
+    {
+      "sourceText": "She will choose the challenge.",
+      "targetText": "Ea o să aleagă provocarea."
+    },
+    {
+      "sourceText": "I would choose if I could.",
+      "targetText": "Aș alege dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you choose well.",
+      "targetText": "Este important să alegi bine."
+    },
+    {
+      "sourceText": "Choose the best way!",
+      "targetText": "Alege cea mai bună cale!"
+    },
+    {
+      "sourceText": "Choose wisely!",
+      "targetText": "Alegeți cu înțelepciune!"
+    },
+    {
+      "sourceText": "The chosen option was implemented.",
+      "targetText": "Opțiunea aleasă a fost implementată."
+    },
+    {
+      "sourceText": "The answer is chosen.",
+      "targetText": "Răspunsul este ales."
+    },
+    {
+      "sourceText": "By choosing, you could find the best solution.",
+      "targetText": "Alegând, ai putut găsi cea mai bună soluție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'choose' sounds like 'chews'—imagine chewing on options before picking one."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a alege' as 'a leg'—you 'tie' your decision firmly by choosing."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'choose' with 'choice' to remember the meaning easily; 'a alege' is the Romanian verb for making a choice."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the forms 'eu aleg' (I choose), 'am ales' (I chose), and 'voi alege' (I will choose) to master Romanian conjugation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

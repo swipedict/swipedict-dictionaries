@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-coherent",
+  "parent": "ms-ro-coerent-ac7e5e64@72883c9c71851dd804b49b3dd262ba5a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "coherent",
+    "definition": "Logically connected and consistent; making sense as a whole.",
+    "pronunciation": "/koʊˈhɪərənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"coherent\" comes from the Latin \"cohaerens,\" meaning \"sticking together\" or \"connected.\"",
+        "targetText": "Cuvântul „coerent“ provine din latină „cohaerens“, care înseamnă „conectat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Often used to describe clarity in communication or writing."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "coerent",
+    "genus": "masculine",
+    "definition": "interconectat; logic și sensibil",
+    "pronunciation": "/ko.eˈrent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word \"coerent\" comes from the Latin \"cohaerens,\" meaning \"connected.\"",
+        "targetText": "Cuvântul „coerent“ provine din latină „cohaerens“, care înseamnă „conectat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in Literatur und Argumentation verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Coherent",
+      "explanation": {
+        "sourceText": "A state in which different parts fit together logically.",
+        "targetText": "O stare în care părțile diferite se potrivesc logic."
+      },
+      "examples": [
+        {
+          "sourceText": "The ideas in this article are coherent.",
+          "targetText": "Gândurile din acest articol sunt coerente."
+        }
+      ]
+    },
+    {
+      "gloss": "Logical",
+      "explanation": {
+        "sourceText": "A way of thinking or arguing that makes sense.",
+        "targetText": "Un mod de gândire sau argumentare care are sens."
+      },
+      "examples": [
+        {
+          "sourceText": "His arguments are logical.",
+          "targetText": "Argumentele sale sunt logice."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Coherence",
+      "targetText": "coerență"
+    },
+    {
+      "sourceText": "Logic",
+      "targetText": "logică"
+    },
+    {
+      "sourceText": "Connection",
+      "targetText": "conexiune"
+    },
+    {
+      "sourceText": "Context",
+      "targetText": "context"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "detached",
+      "targetText": "separat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The argumentation was clear and coherent.",
+      "targetText": "Argumentarea a fost clară și coerentă."
+    },
+    {
+      "sourceText": "A good text must be coherent.",
+      "targetText": "Un text bun trebuie să fie coerent."
+    },
+    {
+      "sourceText": "Coherent thoughts are key to a good essay.",
+      "targetText": "Gândurile coerente sunt cheia unui eseu bun."
+    },
+    {
+      "sourceText": "The story is not told coherently.",
+      "targetText": "Povestea nu este spusă coerent."
+    },
+    {
+      "sourceText": "We need to clarify the questions, but they should be discussed coherently.",
+      "targetText": "Trebuie să clarificăm întrebările, dar ele ar trebui discutate coerent."
+    },
+    {
+      "sourceText": "A coherent concept helps with understanding.",
+      "targetText": "Un concept coerent ajută la înțelegere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"coherent\" as \"co-here-ent\" — ideas that stick together like glue, just like the Romanian \"coerent.\""
+    },
+    {
+      "lang": "en",
+      "text": "Remember: if your thoughts are coherent, they flow smoothly like a well-organized essay, which is \"coerent\" in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"coherent\" shares Latin roots with Romanian \"coerent,\" both meaning connected or logically joined."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a chain where each link connects perfectly — that’s \"coherent,\" or \"coerent\" in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

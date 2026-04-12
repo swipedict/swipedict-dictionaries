@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-furniture",
+  "parent": "ms-ro-mobila-98a2e78d@0e1d802e1d7dd78af7b1ee34aab61cce",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "furniture",
+    "genus": "neuter",
+    "definition": "Objects such as tables, chairs, and cabinets used to equip and decorate homes or other living spaces.",
+    "pronunciation": "/ˈfɜrnɪtʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'furniture' originates from the Old French 'fourniture', meaning 'a supply or provision', which itself derives from the Latin 'furnire', meaning 'to supply or equip'. Over time, it came to refer specifically to movable articles that furnish a room.",
+        "targetText": "Cuvântul englezesc „furniture” provine din franceza veche 'fourniture', care înseamnă 'o aprovizionare sau dotare', derivat din latină 'furnire', care înseamnă 'a aproviziona sau echipa'. În timp, a ajuns să desemneze în mod specific obiectele mobile care echipează o cameră."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mobilă",
+    "genus": "feminine",
+    "definition": "Obiecte utilizate pentru amenajarea și echiparea locuințelor, cum ar fi mese, scaune, dulapuri etc.",
+    "pronunciation": "/mo.biˈlə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'mobilă' comes directly from the Latin 'mobilia', meaning 'movable things', referring to pieces of furniture.",
+        "targetText": "Cuvântul românesc „mobilă” provine direct din latină, din 'mobilia', care înseamnă 'lucruri mobile' și se referă la obiectele de mobilier."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cabinet",
+      "targetText": "dulap"
+    },
+    {
+      "sourceText": "chair",
+      "targetText": "scaun"
+    },
+    {
+      "sourceText": "table",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "locuință"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The furniture in the living room is modern and comfortable.",
+      "targetText": "Mobilierul din sufragerie este modern și confortabil."
+    },
+    {
+      "sourceText": "We bought new furniture for the kitchen.",
+      "targetText": "Am cumpărat mobilă nouă pentru bucătărie."
+    },
+    {
+      "sourceText": "The furniture is made of wood.",
+      "targetText": "Mobilierul este făcut din lemn."
+    },
+    {
+      "sourceText": "Old furniture can often be restored.",
+      "targetText": "Mobilierul vechi poate fi adesea restaurat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'furniture' by thinking of 'furnish'—both relate to equipping a home with movable items like tables and chairs."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'mobilă' sounds like 'mobile', which helps recall that furniture is movable."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mobilă' as 'mobile' items that you can arrange in your home, making it easier to remember the word."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'furniture' to 'furnishings'—both words share the idea of supplying a space with useful objects."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

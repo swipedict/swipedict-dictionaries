@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-tram",
+  "parent": "ms-ro-tramvai-b64b6157@b97ad93ad3081a6cce4da5e631ae1fe5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tram",
+    "genus": "feminine",
+    "definition": "A public transport vehicle that runs on rails embedded in city streets, commonly used in urban areas.",
+    "pronunciation": "/træm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'tram' comes from the Scottish term 'tram' meaning a beam or shaft, combined with 'way' meaning path or track. It originally referred to the rails or tracks on which such vehicles run.",
+        "targetText": "Cuvântul englez „tram” provine din termenul scoțian „tram”, care înseamnă grindă sau ax, combinat cu „way” care înseamnă cale sau traseu. Inițial se referea la șinele sau traseele pe care circulă astfel de vehicule."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tramvai",
+    "genus": "neuter",
+    "definition": "Un mijloc de transport public care circulă pe șine pe stradă, folosit în special în orașe.",
+    "pronunciation": "/tramˈvaj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'tramvai' comes from the French 'tramway', which itself was borrowed from the English 'tramway'. The English word is composed of 'tram' (rail, from Scottish) and 'way' (path).",
+        "targetText": "Cuvântul românesc „tramvai” provine din franceza „tramway”, care la rândul său este împrumutat din engleza „tramway”. Cuvântul englez este compus din „tram” (șină, din scoțiană) și „way” (cale)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "timetable",
+      "targetText": "orariu"
+    },
+    {
+      "sourceText": "rail",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "subway",
+      "targetText": "metrou"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The tram runs every ten minutes.",
+      "targetText": "Tramvaiul circulă la fiecare zece minute."
+    },
+    {
+      "sourceText": "I take the tram to work.",
+      "targetText": "Eu iau tramvaiul până la serviciu."
+    },
+    {
+      "sourceText": "The tram stops at the next station.",
+      "targetText": "Tramvaiul oprește la următoarea stație."
+    },
+    {
+      "sourceText": "In many cities, the tram is an important means of transport.",
+      "targetText": "În multe orașe, tramvaiul este un mijloc important de transport."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'tram' sounds like 'tramway', which is the English word for a street railway—this helps link the Romanian 'tramvai' to its English roots."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'tram' as a short form of 'tramway'—a track or path for rails—just like the Romanian 'tramvai' runs on rails in the street."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'tramvai' is borrowed from French and English, typical for modern transport terms in Romanian, so it’s easy to spot in contexts about city transport."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'tram' running on a 'way'—a rail path—just like the tramvai runs on rails embedded in city streets."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-measure",
+  "parent": "ms-ro-a-masura-4918cff7@dc66d087bda05555cec7d899e3a10795",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "measure",
+    "definition": "to determine the size, amount, or length of something using a standard unit or instrument",
+    "pronunciation": "/ˈmɛʒər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'measure' originates from the Old French 'mesurer', which comes from Latin 'mensurare', meaning 'to measure'. It entered English through Norman influence and has been used since the Middle Ages to denote determining dimensions or quantities.",
+        "targetText": "Verbul englezesc „measure“ provine din franceza veche „mesurer“, care la rândul său vine din latină „mensurare“, însemnând „a măsura“. A intrat în limba engleză prin influența normandă și este folosit din Evul Mediu pentru a desemna determinarea dimensiunilor sau cantităților."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is regular and commonly used in both scientific and everyday contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a măsura",
+    "definition": "a determina o dimensiune, o cantitate sau o lungime",
+    "pronunciation": "/a məsuˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a măsura' comes from the Latin 'metiri', meaning 'to measure', and is related to the word 'metru' (meter).",
+        "targetText": "Verbul românesc „a măsura“ provine din latină „metiri“, însemnând „a măsura“, legat de cuvântul „metru“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a), used in many contexts."
+  },
+  "senses": [
+    {
+      "gloss": "to measure precisely",
+      "explanation": {
+        "sourceText": "Means to take an exact measurement.",
+        "targetText": "Înseamnă a determina cu precizie o dimensiune."
+      },
+      "examples": [
+        {
+          "sourceText": "We need to measure the room.",
+          "targetText": "Trebuie să măsurăm camera."
+        }
+      ]
+    },
+    {
+      "gloss": "to take measurements",
+      "explanation": {
+        "sourceText": "Also relates to the noun 'measure', a standard of measurement.",
+        "targetText": "Se referă și la substantivul „măsură“, un standard de măsurare."
+      },
+      "examples": [
+        {
+          "sourceText": "I am taking the measurements for the new table.",
+          "targetText": "Ia-mi măsura pentru noua masă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "width",
+      "targetText": "lățime"
+    },
+    {
+      "sourceText": "size",
+      "targetText": "dimensiune"
+    },
+    {
+      "sourceText": "height",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "length",
+      "targetText": "lungime"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "miss",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'measure' sounds like 'measure' in English, and 'a măsura' shares the same root related to 'meter'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a measuring tape when you hear 'a măsura'—both involve determining size."
+    },
+    {
+      "lang": "en",
+      "text": "Practice with phrases like 'I measure the table' = 'Eu măsor masa' to connect the verb with everyday actions."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'measure' and Romanian 'măsura' both come from Latin roots related to 'meter', making them cognates."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

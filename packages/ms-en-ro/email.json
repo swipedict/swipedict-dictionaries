@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-email",
+  "parent": "ms-ro-e-mail-a0c8a7ab@ba7aa2471498b73af5b73cbe76894496",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:english",
+    "topic:concepts-abstract",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "email",
+    "genus": "feminine",
+    "definition": "A message sent electronically via the internet or other computer networks.",
+    "pronunciation": "/ˈiːmeɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'email' is a shortened form of 'electronic mail', referring to messages sent electronically over computer networks.",
+        "targetText": "Cuvântul englezesc „email” este o formă prescurtată a expresiei „electronic mail”, referindu-se la mesajele trimise electronic prin rețele de calculatoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "e-mail",
+    "genus": "neuter",
+    "definition": "Mesaj electronic trimis prin internet sau alte rețele de calculatoare.",
+    "pronunciation": "/ˈiːmeɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „e-mail” was directly borrowed from English, where it is a compound of 'electronic' and 'mail', meaning electronic mail.",
+        "targetText": "Cuvântul românesc „e-mail” a fost preluat direct din engleză, unde reprezintă compunerea dintre 'electronic' și 'mail', desemnând poșta electronică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feminine noun, usually unchanged in the plural: e-mailuri."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "letter",
+      "targetText": "scrisoare"
+    },
+    {
+      "sourceText": "internet",
+      "targetText": "internet"
+    },
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "mail",
+      "targetText": "poștă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I sent you an email.",
+      "targetText": "Ți-am trimis un e-mail."
+    },
+    {
+      "sourceText": "Please check your emails regularly.",
+      "targetText": "Te rog să verifici e-mailurile tale regulat."
+    },
+    {
+      "sourceText": "The email arrived immediately.",
+      "targetText": "E-mailul a ajuns imediat."
+    },
+    {
+      "sourceText": "Can you give me your email address?",
+      "targetText": "Îmi poți da adresa ta de e-mail?"
+    },
+    {
+      "sourceText": "I have many emails in my inbox.",
+      "targetText": "Am multe e-mailuri în căsuța poștală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'email' is a blend of 'electronic' and 'mail', making it easy to connect the word to digital messages."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'e-mail' sounds almost identical to English, so you can easily recognize it in texts and conversations."
+    },
+    {
+      "lang": "en",
+      "text": "In Romanian, the plural of 'e-mail' is formed by adding '-uri', so 'e-mailuri' means multiple emails."
+    },
+    {
+      "lang": "en",
+      "text": "Think of sending an 'electronic letter' through an invisible network to remember the meaning of 'e-mail'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

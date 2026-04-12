@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-inflammation",
+  "parent": "ms-ro-inflamatie-b84f649a@5ef7e6cfa97f0d4a730a8bcf8b9bdd85",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inflammation",
+    "genus": "feminine",
+    "definition": "A bodily response to injury or infection, characterized by redness, swelling, pain, and heat.",
+    "pronunciation": "/ɪnˌflæməˈneɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"inflammation\" comes from the Latin 'inflammatio', derived from 'inflammare' meaning 'to set on fire' or 'to ignite', reflecting the body's fiery response to injury or infection.",
+        "targetText": "Cuvântul englezesc „inflammation” provine din latină, de la 'inflammatio', derivat din 'inflammare' (a aprinde, a inflama), reflectând reacția inflamatorie a corpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "inflamație",
+    "genus": "feminine",
+    "definition": "O reacție a corpului la leziuni sau infecții, caracterizată prin roșeață, umflare, durere și căldură.",
+    "pronunciation": "/inflamaˈt͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"inflamație\" comes from the Latin 'inflammatio', derived from 'inflammare' (to ignite, to inflame), symbolizing the body's inflammatory reaction.",
+        "targetText": "Cuvântul românesc „inflamație” provine din latină, de la 'inflammatio', derivat din 'inflammare' (a aprinde, a inflama), reflectând reacția inflamatorie a corpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to inflame",
+      "targetText": "a inflama"
+    },
+    {
+      "sourceText": "infection",
+      "targetText": "infecție"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "swelling",
+      "targetText": "umflare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "healing",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The inflammation of the skin causes redness and pain.",
+      "targetText": "Inflamația pielii provoacă roșeață și durere."
+    },
+    {
+      "sourceText": "An inflammation can be caused by bacteria or viruses.",
+      "targetText": "O inflamație poate fi cauzată de bacterii sau viruși."
+    },
+    {
+      "sourceText": "Inflammation is a natural part of the healing process.",
+      "targetText": "Inflamația este o parte naturală a procesului de vindecare."
+    },
+    {
+      "sourceText": "In case of inflammation, medical advice should be sought.",
+      "targetText": "În caz de inflamație, trebuie consultat un medic."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The prefix \"in-\" in Romanian often corresponds to the English prefix \"in-\" as in \"inflammation\", indicating a process or condition."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"inflamație\" sounds similar to the English \"inflammation\", making it easier to remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ație' in Romanian is typical for abstract nouns derived from Latin, common in medical terminology."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a flame (from Latin 'flammare') burning inside the body to connect \"inflamație\" with inflammation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

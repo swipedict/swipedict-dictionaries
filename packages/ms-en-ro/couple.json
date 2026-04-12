@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-couple",
+  "parent": "ms-ro-a-cupla-927edd1f@57f81f6ca25eefce0db8547b072004d7",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "couple",
+    "definition": "to join or link two or more things together, often physically or functionally",
+    "pronunciation": "/ˈkʌpəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"couple\" comes from the Old French \"cople\", derived from Latin \"copula\" meaning a bond or connection. It originally referred to linking or joining things together.",
+        "targetText": "Cuvântul englezesc „couple“ provine din francezul vechi „cople“, derivat din latinul „copula“ care înseamnă legătură sau conexiune. Inițial se referea la unirea sau legarea lucrurilor împreună."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in technical contexts or when describing connections between people or devices."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cupla",
+    "definition": "a lega sau a conecta două sau mai multe lucruri între ele",
+    "pronunciation": "/a ˈkupla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Comes from French \"coupler\", which means \"to link\" and itself derives from Latin \"copula\" (connection, bond). It refers to both physical and metaphorical connections.",
+        "targetText": "Verbul românesc „a cupla“ provine din francezul „coupler“, derivat din latinul „copula“ (legătură), referindu-se la conexiuni fizice sau metaforice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used to describe the connection of devices or systems."
+  },
+  "senses": [
+    {
+      "gloss": "Coupling (connecting devices)",
+      "explanation": {
+        "sourceText": "Connects technical devices or systems.",
+        "targetText": "Conectarea dispozitivelor sau sistemelor tehnice."
+      },
+      "examples": [
+        {
+          "sourceText": "Devices are coupled for this purpose.",
+          "targetText": "Dispozitivele sunt cuplate."
+        }
+      ]
+    },
+    {
+      "gloss": "Coupling (metaphorical)",
+      "explanation": {
+        "sourceText": "Also used for interpersonal connections.",
+        "targetText": "De asemenea, pentru legături între oameni."
+      },
+      "examples": [
+        {
+          "sourceText": "We couple our ideas.",
+          "targetText": "Ne cuplăm ideile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "bond",
+      "targetText": "uniune"
+    },
+    {
+      "sourceText": "network",
+      "targetText": "rețea"
+    },
+    {
+      "sourceText": "connection",
+      "targetText": "legătură"
+    },
+    {
+      "sourceText": "collaboration",
+      "targetText": "colaborare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "separate",
+      "targetText": "a despărți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I couple the two systems together.",
+      "targetText": "Eu cuplez cele două sisteme între ele."
+    },
+    {
+      "sourceText": "Do you couple the devices before use?",
+      "targetText": "Cuplezi aparatele înainte de utilizare?"
+    },
+    {
+      "sourceText": "She couples the database to the application.",
+      "targetText": "Ea cuplează baza de date la aplicație."
+    },
+    {
+      "sourceText": "We couple the devices for the experiment.",
+      "targetText": "Noi cuplăm aparatele pentru experiment."
+    },
+    {
+      "sourceText": "Do you couple the cameras correctly?",
+      "targetText": "Cuplați camerele corect?"
+    },
+    {
+      "sourceText": "They couple the systems automatically.",
+      "targetText": "Ei cuplează sistemele automat."
+    },
+    {
+      "sourceText": "I have successfully coupled the modules.",
+      "targetText": "Am cuplat modulele cu succes."
+    },
+    {
+      "sourceText": "He coupled the machines in the factory.",
+      "targetText": "El cupla mașinile în fabrică."
+    },
+    {
+      "sourceText": "I will couple the new systems.",
+      "targetText": "Voi cupla noile sisteme."
+    },
+    {
+      "sourceText": "I would couple the devices if I could.",
+      "targetText": "Aș cupla aparatele, dacă aș putea."
+    },
+    {
+      "sourceText": "Couple the sensors!",
+      "targetText": "Cuplază senzorii!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'couple' as linking two things together, like a couple in a relationship."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a cupla' sounds like 'couple' in English, making it easy to recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'couple' as connecting devices or ideas, just like pairing two people."
+    },
+    {
+      "lang": "en",
+      "text": "When you 'couple' something, you create a bond or link, similar to how couples are connected."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

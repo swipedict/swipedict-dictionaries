@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-pedestrian",
+  "parent": "ms-ro-pieton-39ad45d4@b7d6caa07eee3ecc4c5c0b4521d2e571",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pedestrian",
+    "genus": "masculine",
+    "definition": "A person who is walking, especially in a street or urban area.",
+    "pronunciation": "/pəˈdɛstrɪən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"pedestrian\" comes from the Latin word \"pedester,\" meaning 'on foot' or 'going on foot.' It entered English through Old French, referring to someone who travels by walking.",
+        "targetText": "Cuvântul englezesc „pedestrian” provine din cuvântul latin „pedester”, care înseamnă „pe jos” sau „care merge pe jos”. A intrat în limba engleză prin franceza veche, desemnând pe cineva care se deplasează mergând."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pieton",
+    "genus": "masculine",
+    "definition": "O persoană care se deplasează pe jos, în special în trafic.",
+    "pronunciation": "/pjeˈton/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „pieton” was borrowed from the French „piéton,” which in turn derives from the Latin „pedonem” (accusative of „pes” = foot).",
+        "targetText": "Cuvântul românesc „pieton” a fost împrumutat din franceza „piéton”, care la rândul său provine din latină „pedonem” (acusativul de la „pes” = picior)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "footpath",
+      "targetText": "trotoar"
+    },
+    {
+      "sourceText": "to walk",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "traffic",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The pedestrian is waiting at the traffic light.",
+      "targetText": "Pietonul așteaptă la semafor."
+    },
+    {
+      "sourceText": "Pedestrians have the right of way here.",
+      "targetText": "Pietonii au prioritate aici."
+    },
+    {
+      "sourceText": "Many pedestrians use the crosswalk.",
+      "targetText": "Mulți pietoni folosesc trecerea de pietoni."
+    },
+    {
+      "sourceText": "The pedestrian crossed the street carefully.",
+      "targetText": "Pietonul a traversat strada cu grijă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"pieton\" by linking it to the French \"piéton,\" which also means pedestrian and shares the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"pedestrian\" which sounds like \"pieton\" and both relate to walking on foot."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"pieton\" with the English word \"pedestrian\"—both come from Latin roots related to feet (pes)."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a foot (Latin 'pes') stepping on the street to remember \"pieton\" means pedestrian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

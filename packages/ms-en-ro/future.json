@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-future",
+  "parent": "ms-ro-viitor-b123453e@3918ba4282560d22a7d0d9454807d76a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "future",
+    "genus": "feminine",
+    "definition": "The time that is yet to come; what lies ahead in time.",
+    "pronunciation": "/ˈfjuːtʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'future' comes from the Latin 'futurus', meaning 'about to be', derived from the verb 'esse' (to be).",
+        "targetText": "Cuvântul englezesc „future” provine din latinul 'futurus', care înseamnă 'ce urmează să fie', derivat din verbul 'esse' (a fi)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "viitor",
+    "genus": "masculine",
+    "definition": "Timpul care urmează să vină; ceea ce este în viitor.",
+    "pronunciation": "/viˈitor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'viitor' derives from the Latin 'vitare' meaning 'to avoid', but in Romanian it semantically evolved to mean 'future', 'what is to come'.",
+        "targetText": "Cuvântul românesc „viitor” provine din latinul 'vitare' care înseamnă 'a evita', dar în română a căpătat sensul de 'viitor', 'ce urmează'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "present",
+      "targetText": "prezent"
+    },
+    {
+      "sourceText": "plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "past",
+      "targetText": "trecut"
+    },
+    {
+      "sourceText": "time",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "past",
+      "targetText": "trecut"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The future is uncertain.",
+      "targetText": "Viitorul este incert."
+    },
+    {
+      "sourceText": "We are planning for the future.",
+      "targetText": "Planificăm pentru viitor."
+    },
+    {
+      "sourceText": "In the future, I want to travel.",
+      "targetText": "În viitor vreau să călătoresc."
+    },
+    {
+      "sourceText": "The future belongs to the brave.",
+      "targetText": "Viitorul aparține celor curajoși."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'viitor' ends with '-or', a common ending for masculine nouns in Romanian, often used for abstract concepts."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'viitor' sounding a bit like 'vital'—the future is vital and full of life."
+    },
+    {
+      "lang": "en",
+      "text": "Although 'viitor' comes from Latin 'vitare' meaning 'to avoid', imagine avoiding past mistakes to create a better future."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'viitor' with the English word 'vision'—both relate to looking ahead into the future."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-voluntary",
+  "parent": "ms-ro-voluntar-760bd1a6@4fcd6d3ad49ebb63fe1203a2f752c26d",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "voluntary",
+    "definition": "Done by one's own free will without being forced or compelled.",
+    "pronunciation": "/ˈvɒl.ənˌtɛr.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective \"voluntary\" comes from the Latin root meaning 'willing' or 'of one's own will', indicating an action done by choice rather than obligation.",
+        "targetText": "Cuvântul englezesc „voluntary” provine din rădăcina latină care înseamnă „dornic” sau „din propria voință”, indicând o acțiune făcută prin alegere, nu din obligație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "voluntar",
+    "definition": "Care acționează din proprie voință, fără constrângere.",
+    "pronunciation": "/volunˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective „voluntar” derives from the Latin 'voluntarius', meaning 'voluntary' or 'of free will'.",
+        "targetText": "Adjectivul românesc „voluntar” provine din latinescul 'voluntarius', care înseamnă 'voluntar' sau 'din voință liberă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "honorary office",
+      "targetText": "voluntariat"
+    },
+    {
+      "sourceText": "commitment",
+      "targetText": "implicare"
+    },
+    {
+      "sourceText": "freedom",
+      "targetText": "libertate"
+    },
+    {
+      "sourceText": "will",
+      "targetText": "voință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "forced",
+      "targetText": "forțat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He works voluntarily in the organization.",
+      "targetText": "El lucrează voluntar în organizație."
+    },
+    {
+      "sourceText": "Volunteers often help in emergencies.",
+      "targetText": "Voluntarii ajută adesea în situații de urgență."
+    },
+    {
+      "sourceText": "She volunteered herself.",
+      "targetText": "Ea s-a oferit voluntar."
+    },
+    {
+      "sourceText": "Voluntary participation is encouraged.",
+      "targetText": "Participarea voluntară este dorită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"voluntary\" comes from Latin 'voluntas' meaning 'will'—so \"voluntar\" means acting from your own will."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"voluntar\" sounds like the English \"volunteer\"—someone who helps willingly."
+    },
+    {
+      "lang": "en",
+      "text": "Think of someone volunteering because they have a strong 'will' (voință)—that's \"voluntar\"."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"voluntar\" with the English word \"volunteer\", both meaning to act freely and willingly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

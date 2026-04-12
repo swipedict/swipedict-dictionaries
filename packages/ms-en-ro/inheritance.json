@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-inheritance",
+  "parent": "ms-ro-mostenire-cde75081@8da6cc657a9014eb61be1c44f903acf5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inheritance",
+    "definition": "The assets or rights that a person receives from someone else after their death.",
+    "pronunciation": "/ɪnˈhɛrɪtəns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"inheritance\" comes from the verb \"inherit,\" which derives from the Latin 'inhereditare,' meaning 'to receive as heir.' It entered English through Old French and Latin roots related to possession and succession.",
+        "targetText": "Cuvântul englezesc „inheritance” provine din verbul „inherit”, care derivă din latină 'inhereditare', însemnând 'a primi ca moștenitor'. A intrat în limba engleză prin rădăcini franceze vechi și latine legate de posesie și succesiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "moștenire",
+    "genus": "feminine",
+    "definition": "Bunurile sau drepturile primite de o persoană după decesul altcuiva.",
+    "pronunciation": "/moʃteˈnirʲe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"moștenire\" comes from Church Slavonic, from the word \"moštenije\" (inheritance), which derives from the Slavic root \"mošt-\".",
+        "targetText": "Cuvântul românesc „moștenire” provine din slavonă, de la „moštenije” (moștenire), derivat din rădăcina slavă „mošt-”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to inherit",
+      "targetText": "a moșteni"
+    },
+    {
+      "sourceText": "inheritance",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "estate",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "legacy",
+      "targetText": "legat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loss",
+      "targetText": "pierdere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He received his grandfather's inheritance.",
+      "targetText": "El a primit moștenirea bunicului său."
+    },
+    {
+      "sourceText": "The inheritance includes houses, money, and jewelry.",
+      "targetText": "Moștenirea include case, bani și bijuterii."
+    },
+    {
+      "sourceText": "Many people take care of their inheritance.",
+      "targetText": "Mulți oameni se ocupă de moștenirea lor."
+    },
+    {
+      "sourceText": "The inheritance was fairly divided among the children.",
+      "targetText": "Moștenirea a fost împărțită echitabil între copii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'inheritance' as what you 'inherit' from family, like a legacy passed down through generations."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'moștenire' sounds like 'most' + 'tenure'—imagine holding the most valuable family property."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'moștenire' ending with '-ire', a common noun ending in Romanian, similar to English '-ance' in 'inheritance'."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'inherit' and 'moșteni' start with 'in' and 'mo', helping you link the English and Romanian words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

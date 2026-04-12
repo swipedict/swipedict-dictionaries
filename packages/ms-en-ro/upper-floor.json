@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-upper-floor",
+  "parent": "ms-ro-etaj-afc5ca01@bd05fa9b8a04200af62cca0f97b273c9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "upper floor",
+    "genus": "neuter",
+    "definition": "A floor of a building located above the ground floor.",
+    "pronunciation": "/ˈʌpər flɔːr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'upper floor' combines 'upper', meaning 'above', and 'floor', which originally referred to the surface or level of a building. The word 'floor' comes from Old English 'flōr', meaning the bottom or ground of a room or building.",
+        "targetText": "Termenul englezesc „upper floor” combină „upper”, care înseamnă „deasupra”, și „floor”, care inițial se referea la suprafața sau nivelul unei clădiri. Cuvântul „floor” provine din engleza veche „flōr”, însemnând fundul sau podeaua unei camere sau clădiri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "etaj",
+    "genus": "neuter",
+    "definition": "Un nivel al unei clădiri situat deasupra parterului.",
+    "pronunciation": "/eˈtatʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'etaj' comes from the French 'étage', which in turn derives from the Late Latin 'staticum', meaning 'standing' or 'stationary'.",
+        "targetText": "Cuvântul românesc „etaj” provine din franceza 'étage', care la rândul său derivă din latină târzie 'staticum', însemnând 'stând' sau 'staționar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "attic",
+      "targetText": "mansardă"
+    },
+    {
+      "sourceText": "ground floor",
+      "targetText": "parter"
+    },
+    {
+      "sourceText": "storey",
+      "targetText": "nivel"
+    },
+    {
+      "sourceText": "staircase",
+      "targetText": "casa scării"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "basement",
+      "targetText": "subsol"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The office is located on the upper floor of the building.",
+      "targetText": "Biroul se află la etajul clădirii."
+    },
+    {
+      "sourceText": "We live on the upper floor with a view of the garden.",
+      "targetText": "Locuim la etaj, cu vedere spre grădină."
+    },
+    {
+      "sourceText": "The stairs lead from the ground floor to the upper floor.",
+      "targetText": "Scara duce de la parter la etaj."
+    },
+    {
+      "sourceText": "There are three bedrooms on the upper floor.",
+      "targetText": "La etaj sunt trei dormitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'etaj' sounds like the French 'étage', which means floor or level—this helps you link it to the idea of an upper floor."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'etaj' as 'edge' with a 'j'—you go up to the edge or next level of a building."
+    },
+    {
+      "lang": "en",
+      "text": "When climbing stairs, say 'I’m going to the etaj' to connect the Romanian word with the upper floor."
+    },
+    {
+      "lang": "en",
+      "text": "Pair 'etaj' with 'parter' (ground floor) to remember the two main building levels in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-number",
+  "parent": "ms-ro-numar-69e8753f@c86e0845821bb5a24e21c11bcbd5e3ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "number",
+    "genus": "neuter",
+    "definition": "A symbol or quantity used to represent a value or count.",
+    "pronunciation": "/ˈnʌmbər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'number' comes from the Latin 'numerus', meaning a count or quantity, which passed into English through Old French and Latin.",
+        "targetText": "Cuvântul englezesc „number” provine din latinul 'numerus', care înseamnă o cantitate sau număr, și a intrat în engleză prin franceza veche și latina."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "număr",
+    "genus": "neuter",
+    "definition": "Un simbol sau o cantitate care exprimă o valoare sau o cantitate numerică.",
+    "pronunciation": "/nuˈmər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'număr' comes directly from the Latin 'numerus', meaning 'number' or 'quantity', and has similar forms in many Romance languages.",
+        "targetText": "Cuvântul românesc „număr” provine direct din latinul 'numerus', care înseamnă 'număr' sau 'cantitate' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mathematics",
+      "targetText": "matematică"
+    },
+    {
+      "sourceText": "number (as in a sequence or identifier)",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "to calculate",
+      "targetText": "a calcula"
+    },
+    {
+      "sourceText": "digit",
+      "targetText": "cifră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The number seven is a prime number.",
+      "targetText": "Numărul șapte este un număr prim."
+    },
+    {
+      "sourceText": "Please provide your phone number.",
+      "targetText": "Te rog să dai numărul tău de telefon."
+    },
+    {
+      "sourceText": "The number of participants has increased.",
+      "targetText": "Numărul participanților a crescut."
+    },
+    {
+      "sourceText": "In mathematics, you learn different types of numbers.",
+      "targetText": "La matematică înveți diferite tipuri de numere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'număr' sounds like 'number' in English, making it easy to connect the Romanian word to counting and quantities."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'number' which comes from Latin 'numerus'—the same root as Romanian 'număr'. This shared origin helps you remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a phone number or a house number when you hear 'număr'—both involve numbers, so it’s a handy mental link."
+    },
+    {
+      "lang": "en",
+      "text": "Use the mnemonic: 'număr' starts like 'numeral', which is related to numbers, helping you recall the Romanian word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

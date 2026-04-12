@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-despite",
+  "parent": "ms-ro-cu-toate-acestea-5f428259@8d91e01ef8c00452b10382ea60897873",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "despite",
+    "definition": "used to indicate that something happens even though there are obstacles or opposing conditions",
+    "pronunciation": "/dɪˈspaɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"despite\" comes from Old French 'despit' meaning 'contempt' or 'spite', which itself derives from Latin 'despectus' meaning 'a looking down on'. It expresses the idea of something occurring in defiance of obstacles.",
+        "targetText": "Cuvântul englez „despite” provine din franceza veche „despit” care înseamnă „dispreț” sau „răutate”, la rândul său derivat din latină „despectus” însemnând „a privi de sus”. Exprimă ideea că ceva se întâmplă în ciuda obstacolelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is frequently used to express contrast between two statements."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cu toate acestea",
+    "genus": "phrase",
+    "definition": "în ciuda acestor circumstanțe",
+    "pronunciation": "/ku ˈto.ɑ.te a.t͡se.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase \"cu toate acestea\" literally means \"with all these things\". It is used to emphasize a fact despite other circumstances.",
+        "targetText": "Expresia românească „cu toate acestea“ înseamnă literal „cu toate acestea“. Este folosită pentru a sublinia un fapt în ciuda altor circumstanțe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Poate fi adesea folosită prescurtat ca „totuși“, care are aceeași semnificație."
+  },
+  "senses": [
+    {
+      "gloss": "Despite that",
+      "explanation": {
+        "sourceText": "Used to emphasize a contrasting fact.",
+        "targetText": "Utilizat pentru a sublinia un fapt contrar."
+      },
+      "examples": [
+        {
+          "sourceText": "It is cold, despite that I go swimming.",
+          "targetText": "Este frig, cu toate acestea merg la înot."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "but",
+      "targetText": "dar"
+    },
+    {
+      "sourceText": "nevertheless",
+      "targetText": "totuși"
+    },
+    {
+      "sourceText": "in spite of",
+      "targetText": "în ciuda"
+    },
+    {
+      "sourceText": "therefore",
+      "targetText": "de aceea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "therefore",
+      "targetText": "de aceea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "It rained heavily, despite that we went for a walk.",
+      "targetText": "A plouat puternic, cu toate acestea am ieșit la plimbare."
+    },
+    {
+      "sourceText": "I studied a lot, despite that I did not pass.",
+      "targetText": "Am învățat mult, cu toate acestea nu am trecut."
+    },
+    {
+      "sourceText": "The lecture was long, despite that it was interesting.",
+      "targetText": "Prezentarea a fost lungă, cu toate acestea a fost interesantă."
+    },
+    {
+      "sourceText": "It is cold, despite that I go swimming.",
+      "targetText": "Este frig, cu toate acestea merg la înot."
+    },
+    {
+      "sourceText": "He was tired, despite that he stayed at the meeting.",
+      "targetText": "Era obosit, cu toate acestea a rămas la întâlnire."
+    },
+    {
+      "sourceText": "I had no time, despite that I read the book.",
+      "targetText": "Nu am avut timp, cu toate acestea am citit cartea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"despite\" as 'in defiance of'—like doing something even when conditions are against you."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Romanian phrase \"cu toate acestea\" literally means 'with all these things'—imagine carrying all obstacles but still moving forward."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"despite\" to the phrase \"in spite of\" which has a similar meaning and helps you recall the contrast idea."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"totuși\" (a shorter form of \"cu toate acestea\") with the English word 'tough' to remember it expresses a contrast or concession."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

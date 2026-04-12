@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-prescription-only",
+  "parent": "ms-ro-care-necesita-prescriptie-medicala-f2dc35c7@81419c51391853cf882744439dbafecc",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prescription-only",
+    "definition": "A medication or product that can only be obtained with a doctor's prescription.",
+    "pronunciation": "/prɪˈskrɪpʃən ˈoʊnli/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective 'prescription-only' is formed from 'prescription' (from Latin 'praescriptio' meaning 'a written order or instruction') combined with 'only', indicating exclusivity or necessity.",
+        "targetText": "Adjectivul „prescription-only” este format din „prescription” (din latină 'praescriptio', însemnând 'ordin scris sau instrucțiune') combinat cu „only”, indicând exclusivitate sau necesitate."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "This phrase is used in medical contexts to indicate medications that are available exclusively with a doctor's prescription."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "care necesită prescripție medicală",
+    "definition": "Un medicament sau produs care poate fi obținut doar cu o rețetă medicală.",
+    "pronunciation": "/ˈka.re ne.tse.siˈt͡sə pres.kripˈt͡si.e me.diˈka.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian equivalent is a compound phrase where 'prescripție' derives from Latin 'praescriptio', meaning 'prescription' or 'order'.",
+        "targetText": "Echivalentul românesc este o expresie compusă, unde 'prescripție' provine din latină 'praescriptio', însemnând 'prescripție' sau 'ordonanță'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Diese Phrase wird im medizinischen Kontext verwendet, um Medikamente zu kennzeichnen, die nur auf ärztliche Verordnung erhältlich sind."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Pharmacy",
+      "targetText": "farmacie"
+    },
+    {
+      "sourceText": "Medication",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Prescription",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "prescription-required",
+      "targetText": "care necesită prescripție medicală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "over-the-counter",
+      "targetText": "fără prescripție medicală"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "This medication is prescription-only and may only be purchased with a doctor's prescription.",
+      "targetText": "Acest medicament este care necesită prescripție medicală și poate fi cumpărat doar cu o rețetă de la medic."
+    },
+    {
+      "sourceText": "Many painkillers are prescription-only to prevent misuse.",
+      "targetText": "Multe analgezice sunt care necesită prescripție medicală pentru a preveni abuzul."
+    },
+    {
+      "sourceText": "Prescription-only medications are kept behind the counter at the pharmacy.",
+      "targetText": "Medicamentele care necesită prescripție medicală se găsesc în farmacie, în spatele tejghelei."
+    },
+    {
+      "sourceText": "The doctor issued a prescription for a prescription-only antibiotic.",
+      "targetText": "Doctorul a emis o rețetă pentru un antibiotic care necesită prescripție medicală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'prescription' as a doctor's written order—'prescription-only' means you need that order to get the medicine."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'prescripție' sounds like 'prescription' in English, making it easy to remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'only' in 'prescription-only' emphasizes exclusivity—just like 'care necesită prescripție medicală' means 'requires a prescription'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a pharmacy counter where some medicines are 'prescription-only'—you need a doctor's note to get them, just like in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-dungeon",
+  "parent": "ms-ro-temnita-1010ecec@6a279fe6995f32b9ac7ab3f45379e7be",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "dungeon",
+    "definition": "An underground, usually windowless room used as a prison or cell.",
+    "pronunciation": "/ˈdʌndʒən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'dungeon' originates from the Old French 'donjon', meaning the main tower or keep of a castle, which later came to refer to a prison cell within such a tower.",
+        "targetText": "Cuvântul englezesc „dungeon” provine din franceza veche 'donjon', care însemna turnul principal sau cetatea unui castel, și ulterior a ajuns să desemneze o celulă de închisoare dintr-un astfel de turn."
+      },
+      "source": "Etymological dictionaries, historical linguistics"
+    },
+    "additional": "null",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "temniță",
+    "genus": "feminine",
+    "definition": "O încăpere subterană, de obicei fără ferestre, folosită ca închisoare sau loc de detenție.",
+    "pronunciation": "/temˈnit͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'temniță' comes from the Latin 'terminus', adopted through the Slavic 'temnica', meaning 'prison'.",
+        "targetText": "Cuvântul românesc „temniță” provine din latină, de la 'terminus', preluat prin slavona veche 'temnica', și înseamnă 'închisoare'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "prisoner",
+      "targetText": "prizonier"
+    },
+    {
+      "sourceText": "prison",
+      "targetText": "închisoare"
+    },
+    {
+      "sourceText": "cell",
+      "targetText": "celulă"
+    },
+    {
+      "sourceText": "dungeon",
+      "targetText": "temniță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freedom",
+      "targetText": "libertate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The dungeon was dark and damp.",
+      "targetText": "Temnița era întunecată și umedă."
+    },
+    {
+      "sourceText": "The prisoner was taken to the dungeon.",
+      "targetText": "Prizonierul a fost dus în temniță."
+    },
+    {
+      "sourceText": "In the past, dungeons were often built in castles.",
+      "targetText": "În trecut, temnițele erau adesea construite în castele."
+    },
+    {
+      "sourceText": "The dungeon had no windows and only a heavy door.",
+      "targetText": "Temnița nu avea ferestre și doar o ușă grea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'temniță' by linking it to the English word 'terminal'—a final place, just like a prison cell is the end point for freedom."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'temniță' sounding like 'temple' but instead of a sacred place, it’s a dark prison cell—an ironic twist to help you remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'temniță' as a tiny 'temple' of confinement underground, where prisoners are kept away from the light."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'temniță' with the English word 'terminate'—both share the idea of an ending, as a dungeon is where freedom ends."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

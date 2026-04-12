@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-bake",
+  "parent": "ms-ro-a-coace-30cb7b75@bc928bba1d1eabd600fdad0da6614dc6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bake",
+    "definition": "To cook food by dry heat in an oven, typically bread, cakes, or pastries.",
+    "pronunciation": "/beɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"bake\" originates from Old English \"bacan\", meaning to cook by dry heat, related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „bake“ provine din engleza veche „bacan“, care înseamnă a găti prin căldură uscată, fiind înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used for baking bread, cakes, or sweet baked goods in an oven."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a coace",
+    "definition": "a prepara mâncare în cuptor prin căldură",
+    "pronunciation": "/a ˈko.at͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a coace“ derives from the Latin „coquere“, meaning to cook. Baking is a specific form of cooking using heat in an oven.",
+        "targetText": "Verbul românesc „a coace“ derivă din latină, din „coquere“, care înseamnă „a găti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Often used for baking bread, cakes, and other dough-based foods."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "bread",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "cake",
+      "targetText": "tort"
+    },
+    {
+      "sourceText": "oven",
+      "targetText": "cuptor"
+    },
+    {
+      "sourceText": "dough",
+      "targetText": "aluat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "burn",
+      "targetText": "a arde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am baking a cake.",
+      "targetText": "Eu coc un tort."
+    },
+    {
+      "sourceText": "She bakes bread.",
+      "targetText": "Ea coace pâine."
+    },
+    {
+      "sourceText": "I have baked an apple pie.",
+      "targetText": "Am copt un tort de mere."
+    },
+    {
+      "sourceText": "I will bake a cake.",
+      "targetText": "Voi coace un tort."
+    },
+    {
+      "sourceText": "Bake a cake!",
+      "targetText": "Coace un tort!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a coace\" sounds like \"to cook\" — baking is a special kind of cooking done in the oven."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine baking a cake in the oven as 'cooking' it with heat — this helps you recall \"a coace\"."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"coace\" with delicious memories of bread and cakes to make the word stick better."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"bake\" and the Romanian \"coace\" both involving heat and transformation of dough into tasty treats."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

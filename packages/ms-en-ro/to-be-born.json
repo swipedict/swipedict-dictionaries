@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-to-be-born",
+  "parent": "ms-ro-a-se-naste-63479d0c@286b58bfa747976e6e2a7fb75823857b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "to be born",
+    "definition": "To come into the world as a living being through the process of birth.",
+    "pronunciation": "/tuː bi bɔrn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase 'to be born' uses the past participle 'born' derived from the verb 'bear', which originally meant 'to bring forth' or 'to give birth'. The auxiliary verb 'to be' is used here to form the passive voice.",
+        "targetText": "Expresia „to be born” folosește participiul trecut „born”, derivat din verbul „bear”, care inițial însemna „a aduce pe lume” sau „a naște”. Verb auxiliar „to be” este folosit pentru a forma vocea pasivă."
+      },
+      "source": "English Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se naște",
+    "definition": "A veni pe lume prin naștere ca ființă vie.",
+    "pronunciation": "/a se naˈʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a se naște” derives from the Latin 'nascĕre', meaning 'to be born' or 'to come into existence'.",
+        "targetText": "Verbul românesc „a se naște” provine din latină, din verbul 'nascĕre', care înseamnă 'a se naște' sau 'a lua naștere'."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Reflexive verb, commonly used to describe the process of birth."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to grow up",
+      "targetText": "a crește"
+    },
+    {
+      "sourceText": "birth",
+      "targetText": "naștere"
+    },
+    {
+      "sourceText": "to live",
+      "targetText": "a trăi"
+    },
+    {
+      "sourceText": "to die",
+      "targetText": "a muri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to die",
+      "targetText": "a muri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I was born in Berlin.",
+      "targetText": "M-am născut la Berlin."
+    },
+    {
+      "sourceText": "She will be born tomorrow.",
+      "targetText": "Ea se naște mâine."
+    },
+    {
+      "sourceText": "When were you born?",
+      "targetText": "Când te-ai născut?"
+    },
+    {
+      "sourceText": "The child was born yesterday.",
+      "targetText": "Copilul s-a născut ieri."
+    },
+    {
+      "sourceText": "Many people are born in hospitals.",
+      "targetText": "Mulți oameni se nasc în spitale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Latin root 'nascĕre' also appears in the English word 'nascent', meaning 'just coming into existence', which can help you remember the meaning of 'a se naște'."
+    },
+    {
+      "lang": "en",
+      "text": "The reflexive pronoun 'se' in Romanian shows that the action happens to the subject itself — you 'are born', you don't actively do it."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian phrase 'a se naște' sounds a bit like 'next' in English; imagine being the 'next' person to come into the world."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: 'to be born' is passive in English, and Romanian uses a reflexive verb to express this passive meaning in a different way."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

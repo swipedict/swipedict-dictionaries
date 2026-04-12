@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-bone",
+  "parent": "ms-ro-os-6ab04511@0b30274ebc4cac9a2dfb239d443b4e47",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bone",
+    "genus": "masculine",
+    "definition": "A hard, mineralized tissue that forms the skeleton of vertebrate animals.",
+    "pronunciation": "/boʊn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bone\" originates from the Old English 'bān', which comes from the Proto-Germanic root *bainam, meaning 'bone' or 'tooth'. This root is related to similar words in other Germanic languages and reflects the fundamental biological structure.",
+        "targetText": "Cuvântul englezesc „bone” provine din vechiul englez 'bān', care derivă din rădăcina proto-germanică *bainam, însemnând 'os' sau 'dinte'. Această rădăcină este legată de cuvinte similare din alte limbi germanice și reflectă structura biologică fundamentală."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "Masculine noun in English, plural: bones."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "os",
+    "genus": "neuter",
+    "definition": "Țesut dur, mineralizat, care formează scheletul vertebratelor.",
+    "pronunciation": "/os/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"os\" comes directly from the Latin word 'os, ossis', meaning 'bone'. It is a classic inheritance from Latin within the Romance language family.",
+        "targetText": "Cuvântul românesc „os” provine direct din latinescul 'os, ossis', care înseamnă 'os'. Este o moștenire clasică a limbii latine în familia limbilor romanice."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Substantiv masculin, plural: oase."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hard labor",
+      "targetText": "muncă grea"
+    },
+    {
+      "sourceText": "bone fracture",
+      "targetText": "fractură osoasă"
+    },
+    {
+      "sourceText": "bone marrow",
+      "targetText": "măduvă osoasă"
+    },
+    {
+      "sourceText": "skeleton",
+      "targetText": "schelet"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bone is an important part of the human body.",
+      "targetText": "Osul este o parte importantă a corpului uman."
+    },
+    {
+      "sourceText": "The dog buried the bone.",
+      "targetText": "Câinele a îngropat osul."
+    },
+    {
+      "sourceText": "Bones can break if you fall.",
+      "targetText": "Oasele se pot fractura dacă cazi."
+    },
+    {
+      "sourceText": "The doctor examined the broken bone.",
+      "targetText": "Doctorul a examinat osul fracturat."
+    },
+    {
+      "sourceText": "Bones are hard and provide stability to the body.",
+      "targetText": "Oasele sunt dure și oferă stabilitate corpului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"bone\" sounds like 'own' with a 'b'—think of owning your skeleton to remember the word."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"os\" is short and simple, similar to the start of the English word 'ossify', which means to turn into bone."
+    },
+    {
+      "lang": "en",
+      "text": "The plural of \"os\" is \"oase\", which sounds like 'oasis'—imagine a bone oasis to recall the plural form."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"os\" as a tiny 'O' representing a small, hard bone—short and easy to remember."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

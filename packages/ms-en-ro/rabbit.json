@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-rabbit",
+  "parent": "ms-ro-iepure-d63f8388@f78374027372cedf6ad7e27a6c840371",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "rabbit",
+    "genus": "neuter",
+    "definition": "A small mammal with long ears, often kept as a pet.",
+    "pronunciation": "/ˈræb.ɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'rabbit' originated as a diminutive form of 'rabet', which itself comes from Middle English and ultimately traces back to the Latin word 'cuniculus', meaning a burrowing animal.",
+        "targetText": "Cuvântul englezesc „rabbit” provine ca formă diminutivă a lui „rabet”, care la rândul său derivă din engleza mijlocie și provine din latinul 'cuniculus', care înseamnă un animal care sapă vizuini."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "iepure",
+    "genus": "masculine",
+    "definition": "Un mamifer mic, cu urechi lungi, adesea ținut ca animal de companie.",
+    "pronunciation": "/jeˈpu.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'iepure' derives from the Latin 'lepus, leporis', meaning 'hare'.",
+        "targetText": "Cuvântul românesc „iepure” provine din latină, din 'lepus, leporis', care înseamnă 'iepure'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hare",
+      "targetText": "lipește"
+    },
+    {
+      "sourceText": "pet",
+      "targetText": "animal de companie"
+    },
+    {
+      "sourceText": "ears",
+      "targetText": "urechi"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The rabbit hops in the garden.",
+      "targetText": "Iepurele aleargă prin grădină."
+    },
+    {
+      "sourceText": "I have a rabbit as a pet.",
+      "targetText": "Am un iepure ca animal de companie."
+    },
+    {
+      "sourceText": "Rabbits have long ears.",
+      "targetText": "Iepurii au urechi lungi."
+    },
+    {
+      "sourceText": "The rabbit eats carrots.",
+      "targetText": "Iepurele mănâncă morcovi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'iepure' sounds like 'yeah-poo-reh'—imagine a rabbit saying 'yeah!' as it hops."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'iepure' as 'Iep' + 'pure'—a pure little animal with long ears."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'iepure' with the English word 'leap' since rabbits leap around a lot."
+    },
+    {
+      "lang": "en",
+      "text": "The 'ie' in 'iepure' sounds like 'yeah', so picture a happy rabbit saying 'yeah' while hopping."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

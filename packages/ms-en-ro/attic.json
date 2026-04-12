@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-attic",
+  "parent": "ms-ro-mansarda-c3f60a26@a2fdc7ccc48a3f003a62f7a3e3536006",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "attic",
+    "genus": "neuter",
+    "definition": "The uppermost floor or space in a building, located directly under the roof.",
+    "pronunciation": "/ˈætɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'attic' originates from the Latin 'atticus', meaning 'of Attica', referring to a style of architecture from the Attica region in Greece. It came to describe a small upper story or room just below the roof.",
+        "targetText": "Cuvântul englezesc „attic” provine din latină, din termenul „atticus”, care înseamnă „din Attica”, referindu-se la un stil arhitectural din regiunea Attica din Grecia. A ajuns să desemneze un etaj mic sau o cameră situată chiar sub acoperiș."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mansardă",
+    "genus": "feminine",
+    "definition": "Etajul cel mai de sus al unei clădiri, situat direct sub acoperiș.",
+    "pronunciation": "/manˈsar.də/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „mansardă” comes from the French „mansarde”, which is derived from the name of the architect François Mansart, who popularized this type of roof.",
+        "targetText": "Cuvântul românesc „mansardă” provine din francezul „mansarde”, derivat de la numele arhitectului François Mansart, care a popularizat acest tip de acoperiș."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "roof",
+      "targetText": "acoperiș"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "floor",
+      "targetText": "etaj"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The apartment is located in the attic.",
+      "targetText": "Apartamentul se află la mansardă."
+    },
+    {
+      "sourceText": "It is often warmer in the attic than on the lower floors.",
+      "targetText": "La mansardă este adesea mai cald decât la etajele inferioare."
+    },
+    {
+      "sourceText": "The attic has slanted walls because of the roof.",
+      "targetText": "Mansarda are pereți înclinați din cauza acoperișului."
+    },
+    {
+      "sourceText": "Many artists live in the attic because of the light.",
+      "targetText": "Mulți artiști locuiesc la mansardă datorită luminii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'attic' as the top space in a house where old treasures are stored—just like the Romanian 'mansardă' is the top floor under the roof."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'mansardă' comes from the French architect Mansart, who designed special roofs—so 'mansardă' means a stylish attic space."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'attic' sounds like 'attack' without the 'k'—imagine climbing up to the attic to 'attack' your old memories stored there, linking it to 'mansardă'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a cozy artist’s studio in the attic—this helps connect the English 'attic' and Romanian 'mansardă' as warm, light-filled top-floor spaces."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

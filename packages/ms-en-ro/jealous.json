@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-jealous",
+  "parent": "ms-ro-gelos-8b6c3edb@653e59e0a0003e06e763fd3e99f332ed",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:italian",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "jealous",
+    "definition": "An adjective describing someone who feels or shows jealousy, typically fear of losing something valuable, often a partner's love.",
+    "pronunciation": "/ˈdʒɛləs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective \"jealous\" derives from the noun \"jealousy,\" which originally combined ideas of zeal and intense desire or suspicion.",
+        "targetText": "Cuvântul englezesc „jealous” derivă din substantivul „jealousy”, care inițial combina ideile de zel și dorință intensă sau suspiciune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gelos",
+    "definition": "Care simte sau arată gelozie, adică teamă de a pierde ceva valoros, de obicei dragostea partenerului.",
+    "pronunciation": "/ˈɡeloʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective „gelos” was borrowed from the Italian „geloso”, which comes from the Latin „zelosus” (jealous).",
+        "targetText": "Adjectivul românesc „gelos” a fost împrumutat din italianul „geloso”, derivat din latinul „zelosus” (gelos)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "possessive",
+      "targetText": "posesiv"
+    },
+    {
+      "sourceText": "jealousy",
+      "targetText": "gelozie"
+    },
+    {
+      "sourceText": "suspicious",
+      "targetText": "neîncrezător"
+    },
+    {
+      "sourceText": "insecure",
+      "targetText": "nesigur"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trusting",
+      "targetText": "încrezător"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He is very jealous of his girlfriend.",
+      "targetText": "El este foarte gelos pe prietena lui."
+    },
+    {
+      "sourceText": "She became jealous when he talked to others.",
+      "targetText": "Ea a devenit geloasă când el vorbea cu alții."
+    },
+    {
+      "sourceText": "Jealous people often feel insecure.",
+      "targetText": "Oamenii geloși se simt adesea nesiguri."
+    },
+    {
+      "sourceText": "Don't be so jealous!",
+      "targetText": "Nu fi atât de gelos!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English adjective ends with -ous, while the Romanian equivalent often ends with -os, e.g., jealous – gelos."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"gelos\" sounds like the Italian \"geloso,\" helping you link it to the meaning jealous."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word comes from Latin \"zelosus,\" meaning jealous, so you can connect the roots easily."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone turning 'yellow with jealousy' to recall the Romanian word \"gelos.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

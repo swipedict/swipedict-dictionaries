@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-landlord",
+  "parent": "ms-ro-proprietar-6110503c@1a27d12e56f8a50743acbd2a8bf673c2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "landlord",
+    "genus": "masculine",
+    "definition": "A person who owns property or an object and rents it out to someone else in exchange for payment.",
+    "pronunciation": "/ˈlænd.lɔːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'landlord' combines 'land', referring to property, and 'lord', meaning master or owner. It originally referred to someone who owned land and had authority over it.",
+        "targetText": "Cuvântul englezesc „landlord” combină „land” (teren) și „lord” (stăpân sau proprietar). Inițial se referea la cineva care deținea teren și avea autoritate asupra lui."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Common noun, masculine."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "proprietar",
+    "genus": "masculine",
+    "definition": "Persoană care închiriază o proprietate sau un obiect altcuiva contra unei chirii.",
+    "pronunciation": "/pro.pri.eˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'proprietar' comes from the Latin 'proprietarius', meaning 'owner', which derives from the Latin 'proprius' meaning 'own'.",
+        "targetText": "Cuvântul românesc „proprietar” provine din latină, din 'proprietarius', care înseamnă „deținător” și derivă din 'proprius' („propriu”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv comun, maskulin."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "property",
+      "targetText": "imobil"
+    },
+    {
+      "sourceText": "rent",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "tenant",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "rental",
+      "targetText": "închiriere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "tenant",
+      "targetText": "chirias"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The landlord demands the rent every month.",
+      "targetText": "Proprietarul cere chiria în fiecare lună."
+    },
+    {
+      "sourceText": "The landlord is responsible for maintaining the apartment.",
+      "targetText": "Proprietarul este responsabil pentru întreținerea apartamentului."
+    },
+    {
+      "sourceText": "The landlord signed the contract.",
+      "targetText": "Proprietarul a semnat contractul."
+    },
+    {
+      "sourceText": "The landlord does not live in the same building.",
+      "targetText": "Proprietarul nu locuiește în aceeași clădire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'landlord' as the 'lord' of the 'land'—someone who owns property and rents it out."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'proprietar' sounds like 'property'—both relate to ownership, helping you remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that a 'landlord' is the opposite of a 'tenant' (chirias), so linking these opposites can help you recall both words."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'proprietar' as someone who 'propels' ownership forward—this connects the 'propri-' prefix to possession."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

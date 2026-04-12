@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-wall",
+  "parent": "ms-ro-perete-12931ca6@1346137cbc5bdb90ce730496a6448eef",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "wall",
+    "genus": "feminine",
+    "definition": "a vertical structure, usually made of stone, brick, or other materials, that encloses or divides an area or building",
+    "pronunciation": "/wɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"wall\" originates from the Old English \"weall\", which itself comes from Latin \"vallum\", meaning a rampart or defensive wall. It is related to the concept of a solid barrier or enclosure.",
+        "targetText": "Cuvântul englezesc „wall“ provine din engleza veche „weall“, care la rândul său derivă din latină „vallum“, însemnând un val sau zid de apărare. Este legat de ideea unui obstacol solid sau închidere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A wall can be constructed from various materials such as stone, brick, or concrete."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "perete",
+    "genus": "masculine",
+    "definition": "ziua unui edificiu sau o separație din piatră, cărămidă sau alte materiale",
+    "pronunciation": "/peˈrete/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"perete\" comes from the Latin \"parietem\", meaning wall or sidewall, referring to architectural structures.",
+        "targetText": "Cuvântul românesc „perete“ provine din latină „parietem“, însemnând zid sau perete lateral."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Perete“ kann sowohl Innen- als auch Außenwände bezeichnen."
+  },
+  "senses": [
+    {
+      "gloss": "outer wall",
+      "explanation": {
+        "sourceText": "Refers to the external structure of a building.",
+        "targetText": "Se referă la structura exterioară a unei clădiri."
+      },
+      "examples": [
+        {
+          "sourceText": "The outer wall is very sturdy.",
+          "targetText": "Peretele exterior este foarte stabil."
+        }
+      ]
+    },
+    {
+      "gloss": "interior wall",
+      "explanation": {
+        "sourceText": "Specifically refers to walls inside a building.",
+        "targetText": "Se referă în special la pereții interiori."
+      },
+      "examples": [
+        {
+          "sourceText": "The interior wall is painted white.",
+          "targetText": "Peretele interior este vopsit alb."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "construction",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "stone",
+      "targetText": "piatră"
+    },
+    {
+      "sourceText": "brick",
+      "targetText": "cărămidă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "opening",
+      "targetText": "deschidere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The wall is very high.",
+      "targetText": "Peretele este foarte înalt."
+    },
+    {
+      "sourceText": "He painted the wall.",
+      "targetText": "El a pictat peretele."
+    },
+    {
+      "sourceText": "The wall protects the property.",
+      "targetText": "Peretele protejează proprietatea."
+    },
+    {
+      "sourceText": "We built a new fence around the wall.",
+      "targetText": "Am construit un nou gard în jurul peretelui."
+    },
+    {
+      "sourceText": "The old wall is very historic.",
+      "targetText": "Peretele vechi este foarte istoric."
+    },
+    {
+      "sourceText": "The wall separates the two gardens.",
+      "targetText": "Peretele separă cele două grădini."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"perete\" sounds like \"pair-eh-teh\"; think of a pair of walls standing side by side."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"perete\" with \"partition\" since both relate to dividing spaces."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a protective wall around your home to recall \"perete\" as a barrier."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"perete\" as similar to \"parietal\", relating to walls or sides, to help remember its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

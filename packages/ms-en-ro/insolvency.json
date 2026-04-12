@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-insolvency",
+  "parent": "ms-ro-insolventa-72d216f0@5de3235fe8d64b3ca13a8b3678a86d07",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "insolvency",
+    "genus": "feminine",
+    "definition": "The state in which a person or company is unable to pay their debts as they become due.",
+    "pronunciation": "/ɪnˈsɒlvənsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"insolvency\" comes from the Latin 'insolventia', meaning 'inability to pay', formed from the prefix 'in-' (not) and the verb 'solvere' (to loosen, to pay).",
+        "targetText": "Cuvântul englezesc „insolvency” provine din latină, de la 'insolventia', care înseamnă 'incapacitate de plată', format din prefixul 'in-' (nu) și verbul 'solvere' (a plăti, a rezolva)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "insolvență",
+    "genus": "feminine",
+    "definition": "Starea în care o persoană sau o companie nu mai poate plăti datoriile sale.",
+    "pronunciation": "/insolˈvent͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun \"insolvență\" was borrowed in the 19th century from the French \"insolvance/insolvabilité\", which in turn derives from the Latin \"insolventia\".",
+        "targetText": "Substantivul românesc „insolvență” a fost împrumutat în secolul al XIX-lea din franceză, „insolvance/insolvabilité”, care provine din latină, „insolventia”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "creditor",
+      "targetText": "creditor"
+    },
+    {
+      "sourceText": "bankruptcy",
+      "targetText": "faliment"
+    },
+    {
+      "sourceText": "debts",
+      "targetText": "datorii"
+    },
+    {
+      "sourceText": "inability to pay",
+      "targetText": "incapacitate de plată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ability to pay",
+      "targetText": "capacitate de plată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The company declared insolvency because it could no longer pay its bills.",
+      "targetText": "Compania a declarat insolvență deoarece nu mai putea plăti facturile."
+    },
+    {
+      "sourceText": "Insolvency means that debts exceed assets.",
+      "targetText": "Insolvența înseamnă că datoriile sunt mai mari decât activele."
+    },
+    {
+      "sourceText": "Many companies enter insolvency during an economic crisis.",
+      "targetText": "Multe companii intră în insolvență în timpul unei crize economice."
+    },
+    {
+      "sourceText": "The insolvency procedure regulates the settlement of debts.",
+      "targetText": "Procedura de insolvență reglementează lichidarea datoriilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “insolvență” sounds very similar to the English “insolvency,” making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ță' is a common suffix for abstract nouns in Romanian, similar to '-cy' in English words like 'democracy' or 'efficiency'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'solvere' meaning 'to loosen' or 'to pay'; with the prefix 'in-' meaning 'not', it forms the idea of 'not being able to pay'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a company with so many debts that it cannot 'solve' (pay) them anymore — that situation is called 'insolvență'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

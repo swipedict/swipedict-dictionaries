@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-appetizer",
+  "parent": "ms-ro-aperitiv-56affec3@46dc2f1846d99816ba9d3cd1f3ece362",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "appetizer",
+    "genus": "feminine",
+    "definition": "A small dish served before the main course, intended to stimulate the appetite.",
+    "pronunciation": "/ˈæpɪˌtaɪzər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'appetizer' comes from the verb 'appetize', which is derived from the Latin 'appetitus', meaning 'desire' or 'appetite'. It refers to something that stimulates the desire to eat.",
+        "targetText": "Cuvântul englezesc „appetizer” provine din verbul 'appetize', derivat din latină 'appetitus', care înseamnă 'dorință' sau 'apetit'. Se referă la ceva care stimulează dorința de a mânca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aperitiv",
+    "genus": "neuter",
+    "definition": "Un fel de mâncare servit înaintea felului principal, de obicei pentru a stimula apetitul.",
+    "pronunciation": "/aperiˈtiv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'aperitiv' comes from the French 'apéritif', which is derived from the Latin verb 'aperire' meaning 'to open', used figuratively here as 'to open the appetite'.",
+        "targetText": "Cuvântul românesc „aperitiv” provine din francezul 'apéritif', derivat din verbul latin 'aperire' care înseamnă 'a deschide', în sensul figurat de a deschide apetitul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "main course",
+      "targetText": "fel principal"
+    },
+    {
+      "sourceText": "menu",
+      "targetText": "meniu"
+    },
+    {
+      "sourceText": "dessert",
+      "targetText": "desert"
+    },
+    {
+      "sourceText": "snack",
+      "targetText": "gustare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "main course",
+      "targetText": "fel principal"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The appetizer was a delicious soup.",
+      "targetText": "Aperitivul a fost o supă gustoasă."
+    },
+    {
+      "sourceText": "We ordered an appetizer and then the main course.",
+      "targetText": "Am comandat un aperitiv și apoi felul principal."
+    },
+    {
+      "sourceText": "An aperitif is often served before the appetizer.",
+      "targetText": "Un aperitiv este adesea servit înaintea aperitivului (vorspeise)."
+    },
+    {
+      "sourceText": "The appetizer stimulates the appetite.",
+      "targetText": "Aperitivul stimulează pofta de mâncare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'appetizer' as the 'appetite starter'—it’s the small dish that kicks off your meal and gets your hunger going."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'aperitiv' sounds like the French 'apéritif', which is a drink or snack before a meal—both open your appetite, just like the English 'appetizer'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'aperitiv' in Romanian is a neuter noun often used for small dishes or drinks before the main meal, similar to how 'appetizer' is used in English."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Latin root 'aperire' meaning 'to open' with 'aperitiv'—it 'opens' your appetite, just like an appetizer opens your desire to eat."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

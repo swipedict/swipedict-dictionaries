@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-forest",
+  "parent": "ms-ro-padure-3bef92fe@ac3a0e58903d0e2270162dee247d7180",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "forest",
+    "genus": "masculine",
+    "definition": "A large area covered chiefly with trees and undergrowth.",
+    "pronunciation": "/ˈfɒrɪst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'forest' comes from Old French 'forest', which itself derives from Late Latin 'foresta', meaning 'open wood' or 'outside wood'.",
+        "targetText": "Cuvântul englezesc „forest” provine din franceza veche 'forest', care la rândul său derivă din latina târzie 'foresta', însemnând „pădure deschisă” sau „pădure exterioară”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pădure",
+    "genus": "feminine",
+    "definition": "O întindere mare de teren acoperită în principal cu copaci.",
+    "pronunciation": "/pəˈdure/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pădure' derives from the Latin 'paludem', which originally meant 'swamp' but semantically evolved in Romanian to mean 'forest'.",
+        "targetText": "Cuvântul românesc „pădure” provine din latină, din termenul 'paludem', care inițial însemna „mlaștină”, dar în română a evoluat semantic spre „pădure”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "tree",
+      "targetText": "copac"
+    },
+    {
+      "sourceText": "managed forest",
+      "targetText": "pădure administrată"
+    },
+    {
+      "sourceText": "wood",
+      "targetText": "lemn"
+    },
+    {
+      "sourceText": "forest path",
+      "targetText": "potecă în pădure"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "open area",
+      "targetText": "teren deschis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The forest is dense and full of animals.",
+      "targetText": "Pădurea este deasă și plină de animale."
+    },
+    {
+      "sourceText": "We go for a walk in the forest.",
+      "targetText": "Mergem la plimbare în pădure."
+    },
+    {
+      "sourceText": "In autumn, the leaves in the forest turn colorful.",
+      "targetText": "Toamna, frunzele din pădure se colorează în culori vii."
+    },
+    {
+      "sourceText": "The forest protects the soil from erosion.",
+      "targetText": "Pădurea protejează solul împotriva eroziunii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pădure' sounds like 'pad your'—imagine padding your boots to walk softly through the forest."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pădure' as related to 'pad' (path), since forests often have many paths winding through them."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'pădure' evolved from Latin 'paludem' meaning swamp—imagine a forest growing where a swamp once was."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'pădure' with the English word 'pad' and the image of a forest trail to help remember it means 'forest'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

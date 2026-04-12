@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-installment",
+  "parent": "ms-ro-rata-7b3dfb54@a16586ee2226c1f5c1cd5148cf8a9126",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "installment",
+    "genus": "feminine",
+    "definition": "A single fixed payment made as part of a series of payments to settle a total amount, such as in a payment plan.",
+    "pronunciation": "/ɪnˈstɔːlmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'installment' comes from the Latin 'installare', meaning 'to set up or fix in place', and evolved in English to mean a fixed partial payment made over time.",
+        "targetText": "Cuvântul englezesc „installment” provine din latină 'installare', care înseamnă 'a fixa sau a așeza în loc', și a evoluat în engleză pentru a desemna o plată parțială fixă făcută în timp."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rată",
+    "genus": "feminine",
+    "definition": "O plată parțială fixă, făcută ca parte a unei serii de plăți pentru a achita o sumă totală, de exemplu la plata în rate.",
+    "pronunciation": "/ˈra.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'rată' comes from the Latin 'rata', meaning 'fixed' or 'calculated'. It was adopted into Romanian to denote a fixed partial payment.",
+        "targetText": "Cuvântul românesc „rată” provine din latină 'rata', care înseamnă 'fixat' sau 'calculat', fiind folosit pentru a desemna o plată parțială fixă."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "down payment",
+      "targetText": "avans"
+    },
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "payment plan",
+      "targetText": "plată în rate"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I pay for the furniture in monthly installments.",
+      "targetText": "Plătesc mobila în rate lunare."
+    },
+    {
+      "sourceText": "The first installment is due next month.",
+      "targetText": "Prima rată este scadentă luna viitoare."
+    },
+    {
+      "sourceText": "Many people prefer to pay in installments to spread out the costs.",
+      "targetText": "Mulți oameni preferă plata în rate pentru a împărți costurile."
+    },
+    {
+      "sourceText": "The installment must be paid on time to avoid late fees.",
+      "targetText": "Rata trebuie plătită la timp pentru a evita penalitățile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'installment' as a part of a whole payment you 'install' step by step, just like paying a 'rată' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'rată' sounds like the English word 'rate', which can remind you of a fixed payment rate or installment."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine splitting a big bill into many small 'rates' or installments to make it easier to pay—this helps link 'rată' with partial payments."
+    },
+    {
+      "lang": "en",
+      "text": "When you think of a loan, you usually pay it back in monthly installments—this regular payment is called 'rată' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-knight",
+  "parent": "ms-ro-cavaler-f6de6d46@11dbd210415c3611c23c2e961e666ec8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "knight",
+    "genus": "masculine",
+    "definition": "A historical noble title for a mounted warrior in the Middle Ages who served a lord and embodied chivalrous virtues.",
+    "pronunciation": "/naɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'knight' originates from Old English 'cniht', meaning 'boy' or 'servant', and evolved to denote a mounted warrior.",
+        "targetText": "Cuvântul englezesc „knight” provine din engleza veche 'cniht', care însemna 'băiat' sau 'servitor', și a evoluat pentru a desemna un războinic călare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cavaler",
+    "genus": "masculine",
+    "definition": "Titlu istoric pentru un războinic călare din Evul Mediu, care servea unui stăpân feudal și întruchipa virtuți cavalerești.",
+    "pronunciation": "/kaˈva.ler/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'cavaler' derives from the Latin 'caballarius', meaning 'horseman' or 'cavalryman', which comes from 'caballus' for 'horse'.",
+        "targetText": "Cuvântul românesc „cavaler” provine din latină, de la 'caballarius', care însemna 'călăreț' sau 'cavalerist', derivat din 'caballus' pentru 'cal'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Nobility",
+      "targetText": "nobilime"
+    },
+    {
+      "sourceText": "Armor",
+      "targetText": "armură"
+    },
+    {
+      "sourceText": "Sword",
+      "targetText": "sabie"
+    },
+    {
+      "sourceText": "Tournament",
+      "targetText": "turneu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Peasant",
+      "targetText": "țăran"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The knight wore shining armor.",
+      "targetText": "Cavalerul purta o armură strălucitoare."
+    },
+    {
+      "sourceText": "In the Middle Ages, knights were important warriors.",
+      "targetText": "În Evul Mediu, cavalerii erau războinici importanți."
+    },
+    {
+      "sourceText": "The knight fought bravely in the tournament.",
+      "targetText": "Cavalerul a luptat curajos la turneu."
+    },
+    {
+      "sourceText": "A knight swore loyalty to his lord.",
+      "targetText": "Un cavaler făcea jurământ de credință stăpânului său feudal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'knight' sounds like 'night' but knights were shining warriors, not creatures of the dark. The Romanian 'cavaler' relates to 'cal', meaning horse, so think of a knight riding a horse."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'cavaler' is similar to the French 'chevalier', both coming from Latin 'caballarius' meaning horseman. Think of a chevalier as a fancy horse rider."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'knight' as a noble horseman from medieval tales, while 'cavaler' literally connects to 'cal' (horse) in Romanian, making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'cavaler' galloping on a 'cal' (horse) through medieval tournaments, just like the English knight jousting in shining armor."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

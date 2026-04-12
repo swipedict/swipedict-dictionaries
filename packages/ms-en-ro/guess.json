@@ -1,0 +1,196 @@
+{
+  "id": "ms-en-ro-guess",
+  "parent": "ms-ro-a-ghici-5f39f89f@73f188508af37aca186aba7d425f446e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "guess",
+    "definition": "to find out or conclude something without certain knowledge, often by thinking or estimating",
+    "pronunciation": "/ɡɛs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"guess\" originates from Old English \"gietan\" meaning to get or obtain, later influenced by Old Norse \"geta\" meaning to get or guess.",
+        "targetText": "Cuvântul englezesc „guess“ provine din engleza veche „gietan“ care înseamnă a obține, influențat ulterior de norvegiana veche „geta“ care înseamnă a obține sau a ghici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, commonly used in games or puzzles."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ghici",
+    "definition": "a afla ceva prin gândire sau presupunere",
+    "pronunciation": "/a ˈɡid͡ʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a ghici“ comes from the Slavic „gichiti“, meaning \"to guess\" or \"to estimate\".",
+        "targetText": "Verbul românesc „a ghici“ provine din slavă, de la „gichiti“, care înseamnă „a ghici, a presupune“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Frequently used in game and guessing contexts."
+  },
+  "senses": [
+    {
+      "gloss": "To guess correctly",
+      "explanation": {
+        "sourceText": "The direct recognition of something through thought.",
+        "targetText": "Recunoașterea directă a ceva prin gândire."
+      },
+      "examples": [
+        {
+          "sourceText": "It is hard to guess what she is thinking.",
+          "targetText": "E greu să ghicești ce gândește."
+        }
+      ]
+    },
+    {
+      "gloss": "To suppose",
+      "explanation": {
+        "sourceText": "An assumption based on signs or clues.",
+        "targetText": "O presupunere bazată pe indicii sau semne."
+      },
+      "examples": [
+        {
+          "sourceText": "I suppose you know the answer.",
+          "targetText": "Presupun că știi răspunsul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "answer",
+      "targetText": "răspuns"
+    },
+    {
+      "sourceText": "thinking",
+      "targetText": "gândire"
+    },
+    {
+      "sourceText": "riddle",
+      "targetText": "ghicitoare"
+    },
+    {
+      "sourceText": "assumption",
+      "targetText": "presupunere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "miss",
+      "targetText": "a rata"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I guess the solution.",
+      "targetText": "Eu ghicesc soluția."
+    },
+    {
+      "sourceText": "Do you guess the answer?",
+      "targetText": "Ghițești răspunsul?"
+    },
+    {
+      "sourceText": "She guesses the number.",
+      "targetText": "Ea ghicește numărul."
+    },
+    {
+      "sourceText": "We guess the place.",
+      "targetText": "Noi ghicim locul."
+    },
+    {
+      "sourceText": "Do you (plural) guess the right answer?",
+      "targetText": "Ghiți răspunsul corect?"
+    },
+    {
+      "sourceText": "They guess the solution of the riddle.",
+      "targetText": "Ei ghicesc soluția enigmei."
+    },
+    {
+      "sourceText": "I guessed the answer correctly.",
+      "targetText": "Am ghicit răspunsul corect."
+    },
+    {
+      "sourceText": "They guessed the correct solution.",
+      "targetText": "Au ghicit soluția corectă."
+    },
+    {
+      "sourceText": "He guessed the answer quickly.",
+      "targetText": "El ghicea răspunsul repede."
+    },
+    {
+      "sourceText": "I had guessed the question correctly before he asked it.",
+      "targetText": "Ghicesem întrebarea corect înainte să o pună."
+    },
+    {
+      "sourceText": "I will guess the solution.",
+      "targetText": "Voi ghici soluția."
+    },
+    {
+      "sourceText": "She might guess the answer.",
+      "targetText": "Ea o să ghicească răspunsul."
+    },
+    {
+      "sourceText": "I would guess the solution if I had more clues.",
+      "targetText": "Aș ghici soluția dacă aș avea mai multe indicii."
+    },
+    {
+      "sourceText": "It would be good if you guess the question.",
+      "targetText": "Ar fi bine să ghicești întrebarea."
+    },
+    {
+      "sourceText": "Guess the answer!",
+      "targetText": "Ghidează răspunsul!"
+    },
+    {
+      "sourceText": "Guess the solution!",
+      "targetText": "Ghiciți soluția!"
+    },
+    {
+      "sourceText": "The guessed answer was surprising.",
+      "targetText": "Răspunsul ghicit a fost surprinzător."
+    },
+    {
+      "sourceText": "While guessing the answer, I learned a lot about the topic.",
+      "targetText": "Ghiceind răspunsul, am învățat multe despre subiect."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"guess\" sounds like \"guest\"—imagine a guest trying to figure out a surprise to help you recall \"a ghici\"."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"guessing game\" to connect the English verb with the Romanian \"a ghici\", often used in puzzles."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"ghici\" starts with a hard 'g' sound like in \"go\"; associate it with the English word \"guess\" to remember it easily."
+    },
+    {
+      "lang": "en",
+      "text": "Use the mnemonic: \"I guess the 'g' in 'ghici' stands for 'good guess'!\" to help memorize the Romanian verb."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

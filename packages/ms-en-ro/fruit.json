@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-fruit",
+  "parent": "ms-ro-fruct-5ae43a1d@930563c75871cf6ba07b174e561fbc58",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fruit",
+    "genus": "neuter",
+    "definition": "The edible part of a plant, typically sweet or sour, that contains seeds.",
+    "pronunciation": "/fruːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'fruit' comes from the Old French 'fruit', which derives from Latin 'fructus' meaning 'enjoyment, proceeds, or produce'.",
+        "targetText": "Cuvântul englezesc „fruit” provine din franceza veche 'fruit', care derivă din latinul 'fructus' însemnând 'plăcere, rod sau produs'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fruct",
+    "genus": "neuter",
+    "definition": "Partea comestibilă a unei plante, de obicei dulce sau acrișoară.",
+    "pronunciation": "/frukt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'fruct' comes from the Latin 'fructus', meaning 'yield' or 'fruit'.",
+        "targetText": "Cuvântul românesc „fruct” provine din latinul 'fructus', care înseamnă 'rod' sau 'fruct'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "apple",
+      "targetText": "măr"
+    },
+    {
+      "sourceText": "berry",
+      "targetText": "băutură"
+    },
+    {
+      "sourceText": "pear",
+      "targetText": "pară"
+    },
+    {
+      "sourceText": "orchard",
+      "targetText": "livadă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I eat fruit every day to stay healthy.",
+      "targetText": "Mănânc fructe în fiecare zi pentru a rămâne sănătos."
+    },
+    {
+      "sourceText": "The fruit basket is on the table.",
+      "targetText": "Coșul cu fructe este pe masă."
+    },
+    {
+      "sourceText": "Fresh fruit tastes especially good in summer.",
+      "targetText": "Fructele proaspete sunt deosebit de gustoase vara."
+    },
+    {
+      "sourceText": "Fruit contains many vitamins.",
+      "targetText": "Fructele conțin multe vitamine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'fruct' sounds very similar to the English 'fruit', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'fruit' and 'fruct' come from the Latin 'fructus', so they share a common root."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the word 'fruct' as fresh and clear, just like fresh fruit you enjoy on a sunny day."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine biting into a juicy apple (măr) to connect the Romanian word 'fruct' with the concept of fruit."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

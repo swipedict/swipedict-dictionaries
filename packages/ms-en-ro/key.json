@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-key",
+  "parent": "ms-ro-cheie-21d9699e@abe49293f87b1a27671b3eeef158deb2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "key",
+    "genus": "masculine",
+    "definition": "a tool used to open or close a lock",
+    "pronunciation": "/kiː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"key\" comes from Old English \"cæg\", related to the Proto-Indo-European root \"*kei-\" meaning \"to cut, to fix, or to fasten.\"",
+        "targetText": "Cuvântul englezesc „key” provine din engleza veche „cæg”, legat de rădăcina proto-indo-europeană „*kei-” care înseamnă „a tăia, a fixa sau a închide”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Keys are commonly used in security contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cheie",
+    "genus": "feminine",
+    "definition": "un instrument folosit pentru a deschide sau a închide o încuietoare",
+    "pronunciation": "/ˈke.i.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian \"cheie\" derives from Latin \"clavis\", which also means \"key\" and is related to the Indo-European root \"*klēu-\" meaning \"to close.\"",
+        "targetText": "Cuvântul românesc „cheie” provine din latinul „clavis”, care înseamnă „cheie”, și este legat de rădăcina indo-europeană „*klēu-”, care înseamnă „a închide”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cheile pot simboliza și soluții."
+  },
+  "senses": [
+    {
+      "gloss": "key (tool for opening)",
+      "explanation": {
+        "sourceText": "As in English: tools used to open or close locks.",
+        "targetText": "Ca și în germană: instrumente folosite pentru a deschide sau închide încuietori."
+      },
+      "examples": [
+        {
+          "sourceText": "I lost the key to the door.",
+          "targetText": "Am pierdut cheia pentru ușă."
+        },
+        {
+          "sourceText": "The key is in the lock.",
+          "targetText": "Cheia este în încuietoare."
+        }
+      ]
+    },
+    {
+      "gloss": "key (symbol for solutions)",
+      "explanation": {
+        "sourceText": "Keys can also symbolically represent solutions.",
+        "targetText": "Cheile pot simboliza și soluții."
+      },
+      "examples": [
+        {
+          "sourceText": "Keys make the difference between access and security.",
+          "targetText": "Cheile fac diferența între acces și securitate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "lock",
+      "targetText": "încuietoare"
+    },
+    {
+      "sourceText": "security",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "block",
+      "targetText": "blocare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I lost the key to the door.",
+      "targetText": "Am pierdut cheia pentru ușă."
+    },
+    {
+      "sourceText": "The key is in the lock.",
+      "targetText": "Cheia este în încuietoare."
+    },
+    {
+      "sourceText": "Do you have the key to your car?",
+      "targetText": "Ai cheia mașinii tale?"
+    },
+    {
+      "sourceText": "Keys make the difference between access and security.",
+      "targetText": "Cheile fac diferența între acces și securitate."
+    },
+    {
+      "sourceText": "I need a new key for my lock.",
+      "targetText": "Am nevoie de o cheie nouă pentru încuietoarea mea."
+    },
+    {
+      "sourceText": "The keys are on the table.",
+      "targetText": "Cheile sunt pe masă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"cheie\" sounds like \"key\" with a Romanian twist, making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a key as the 'chief' tool that opens doors—'cheie' starts similarly to 'chief'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying \"cheie\" when you need a key to unlock something important."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"cheie\" to the English word \"key\" to remember its meaning quickly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

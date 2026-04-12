@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-tiring",
+  "parent": "ms-ro-obositor-7ea8085f@027c6c78ab06f47d50cdcf2d99b8aa8d",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tiring",
+    "definition": "Causing fatigue or exhaustion; demanding physical or mental effort.",
+    "pronunciation": "/ˈtaɪərɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"tiring\" derives from the verb \"to tire,\" which originally meant 'to grow weary' or 'to become fatigued.' The verb comes from Old French 'tirer' meaning 'to pull' or 'to draw,' evolving to express the sense of exhausting effort.",
+        "targetText": "Cuvântul englezesc „tiring” derivă din verbul „to tire”, care inițial însemna „a obosi” sau „a deveni epuizat”. Verbul provine din franceza veche „tirer”, care însemna „a trage”, evoluând pentru a exprima ideea de efort obositor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "obositor",
+    "definition": "Care provoacă oboseală, epuizant, solicitant fizic sau mental.",
+    "pronunciation": "/oboˈsit̪or/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective „obositor” derives from the verb „a obosi”, which was borrowed from a Slavic language (cf. Bulgarian „обезя” or Russian „обессить”).",
+        "targetText": "Adjectivul românesc „obositor” derivă din verbul „a obosi”, împrumutat din slavă (cf. bulgară „обезя”, rusă „обессить”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to tire (verb)",
+      "targetText": "a obosi"
+    },
+    {
+      "sourceText": "tiring (adjective)",
+      "targetText": "obositor"
+    },
+    {
+      "sourceText": "exhausting",
+      "targetText": "obositor"
+    },
+    {
+      "sourceText": "draining",
+      "targetText": "epuizant"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "relaxing",
+      "targetText": "relaxant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The work was very tiring.",
+      "targetText": "Munca a fost foarte obositoare."
+    },
+    {
+      "sourceText": "The training is tiring but good for health.",
+      "targetText": "Antrenamentul este obositor, dar bun pentru sănătate."
+    },
+    {
+      "sourceText": "After the long day, I felt very tired.",
+      "targetText": "După ziua lungă, m-am simțit obosit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'tiring' sounds like 'tie-ring'—imagine a ring that ties you up and makes you tired, just like 'obositor'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'obositor' comes from 'a obosi' meaning 'to get tired'—think of 'oboseală' (fatigue) to link the words."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'tiring' and 'obositor' describe something that drains your energy—think of a tiring day that leaves you 'obositor'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'tire' yourself out by working hard; in Romanian, you become 'obositor'—both words relate to exhaustion."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

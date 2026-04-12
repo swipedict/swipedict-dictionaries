@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-admission-ticket",
+  "parent": "ms-ro-bilet-de-intrare-cdcc972f@21500a1cff8ff2a81e5db1406b97d57f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "admission ticket",
+    "genus": "feminine",
+    "definition": "A ticket or pass that grants entry to an event or a place.",
+    "pronunciation": "/ədˈmɪʃən ˈtɪkɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'admission ticket' combines 'admission', meaning the act of entering or being allowed in, derived from Latin 'admittere' meaning 'to let in', and 'ticket', which comes from Old French 'etiquette', originally meaning a small note or label.",
+        "targetText": "Cuvântul englezesc „admission ticket” combină „admission”, care înseamnă actul de a intra sau a fi lăsat să intri, derivat din latină 'admittere' care înseamnă 'a lăsa să intre', și „ticket”, care provine din franceza veche 'etiquette', inițial însemnând o notă mică sau etichetă."
+      },
+      "source": "Etymological Dictionaries English"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bilet de intrare",
+    "genus": "neuter",
+    "definition": "Un bilet care permite accesul la un eveniment sau într-un loc.",
+    "pronunciation": "/biˈlet de inˈtra.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “bilet” comes from the French 'billet', which in turn derives from Old French 'billet', a diminutive of 'bil', meaning 'letter' or 'note'. “Intrare” comes from Latin, from the verb 'intrare', meaning 'to enter'.",
+        "targetText": "Cuvântul românesc „bilet” provine din franceza 'billet', diminutiv al lui 'bil', care înseamnă 'scrisoare' sau 'notă'. „Intrare” provine din latină, din verbul 'intrare', care înseamnă 'a intra'."
+      },
+      "source": "Dicționar etimologic român, DEX"
+    },
+    "additional": "Nominal phrase, composed of 'bilet' and 'intrare'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "admission",
+      "targetText": "intrare"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "reservation",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "exit ticket",
+      "targetText": "bilet de ieșire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I bought an admission ticket for the concert.",
+      "targetText": "Am cumpărat un bilet de intrare la concert."
+    },
+    {
+      "sourceText": "Please show your admission ticket at the entrance.",
+      "targetText": "Vă rugăm să arătați biletul de intrare la intrare."
+    },
+    {
+      "sourceText": "The admission ticket costs 20 euros.",
+      "targetText": "Biletul de intrare costă 20 de euro."
+    },
+    {
+      "sourceText": "Without an admission ticket, you are not allowed into the museum.",
+      "targetText": "Fără bilet de intrare nu ai voie în muzeu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'bilet' sounds like 'billet' in French, which means a small note or ticket, helping you link it to 'ticket'."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'intrare' comes from Latin 'intrare', meaning 'to enter', similar to the English word 'entrance'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'bilet de intrare' as a compound phrase like 'admission ticket' in English, combining 'ticket' and 'entry'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine needing a 'bilet de intrare' to 'enter' a concert, linking 'intrare' with the English 'entrance'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-lift",
+  "parent": "ms-ro-a-ridica-e3310677@2ae5bad27010d2285c443acaf2161c86",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lift",
+    "definition": "to raise something to a higher position or remove it from a surface; also to cancel or revoke a rule or restriction",
+    "pronunciation": "/lɪft/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"lift\" originates from Old English \"lyftan\", meaning to raise or elevate. It is related to the Proto-Germanic root *luftijan, which means to raise or hold up.",
+        "targetText": "Cuvântul englezesc „lift” provine din engleza veche „lyftan”, care înseamnă a ridica sau a înălța. Este legat de rădăcina proto-germanică *luftijan, care înseamnă a ridica sau a susține."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Often used figuratively to describe the removal or cancellation of rules or restrictions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ridica",
+    "definition": "a muta sau a îndepărta ceva",
+    "pronunciation": "/a riˈdika/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the French \"lever\", meaning \"to raise\" or \"to lift up.\"",
+        "targetText": "Verbul românesc „a ridica” provine din franceza veche „lever”, care înseamnă „a ridica“ sau „a înălța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um das physische Anheben oder das Aufheben von Beschränkungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "tidying up",
+      "explanation": {
+        "sourceText": "Used for tidying up or removing disorder.",
+        "targetText": "Folosit pentru a face ordine sau a elimina dezordinea."
+      },
+      "examples": [
+        {
+          "sourceText": "I lift everything up.",
+          "targetText": "Ridic totul."
+        }
+      ]
+    },
+    {
+      "gloss": "physically raising",
+      "explanation": {
+        "sourceText": "To physically raise something, like lifting objects.",
+        "targetText": "A ridica fizic un obiect, cum ar fi ridicarea unui obiect."
+      },
+      "examples": [
+        {
+          "sourceText": "I lift the box.",
+          "targetText": "Ridic cutia."
+        }
+      ]
+    },
+    {
+      "gloss": "lifting a regulation",
+      "explanation": {
+        "sourceText": "Used to describe the cancellation or removal of rules or restrictions.",
+        "targetText": "Folosit pentru a descrie anularea unor reguli sau restricții."
+      },
+      "examples": [
+        {
+          "sourceText": "The rule was lifted.",
+          "targetText": "Regula a fost ridicată."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Tidying up",
+      "targetText": "A face curățenie"
+    },
+    {
+      "sourceText": "Moving",
+      "targetText": "Mișcare"
+    },
+    {
+      "sourceText": "Raising",
+      "targetText": "Ridicare"
+    },
+    {
+      "sourceText": "Collection",
+      "targetText": "Colecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "let fall",
+      "targetText": "a lăsa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He lifts his hand.",
+      "targetText": "El ridică mâna."
+    },
+    {
+      "sourceText": "We have lifted the restriction.",
+      "targetText": "Am ridicat restricția."
+    },
+    {
+      "sourceText": "I will lift the ban.",
+      "targetText": "Voi ridica interdicția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"lift\" means to raise something up, just like the Romanian \"a ridica\" which sounds similar and means the same."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an elevator that lifts you up—this helps connect the idea of \"lift\" with \"a ridica\" in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"lift\" is short and easy to say, just like \"ridica\". Both involve moving something upwards."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear \"lift\", imagine lifting a heavy box or lifting restrictions—this matches the Romanian use of \"a ridica\" both physically and figuratively."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

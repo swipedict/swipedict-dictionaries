@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-tow-truck",
+  "parent": "ms-ro-autovehicul-de-tractare-979bc413@5007a80437043f8b126bf9109c2766dd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tow truck",
+    "genus": "masculine",
+    "definition": "A specialized vehicle designed to pull or haul disabled or improperly parked vehicles.",
+    "pronunciation": "/toʊ trʌk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"tow truck\" combines \"tow,\" meaning to pull or drag, with \"truck,\" a vehicle designed for carrying loads. The phrase emerged in the 20th century alongside the development of vehicles used for towing.",
+        "targetText": "Cuvântul englezesc „tow truck” combină „tow” (a trage sau a tracta) cu „truck” (vehicul destinat transportului de încărcături). Expresia a apărut în secolul XX odată cu dezvoltarea vehiculelor folosite pentru tractare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autovehicul de tractare",
+    "genus": "neuter",
+    "definition": "Un vehicul special folosit pentru a tracta alte vehicule.",
+    "pronunciation": "/auto.veˈhi.kul de trakˈta.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „autovehicul de tractare” is composed of „auto-” (from Greek „autos” = self), „vehicul” (from Latin „vehiculum”), and „tractare” (from French „tracter”, ultimately from Latin „tractare”).",
+        "targetText": "Expresia românească „autovehicul de tractare” este formată din „auto-” (din greaca „autos” = însuși), „vehicul” (din latina „vehiculum”) și „tractare” (din franceză „tracter”, care provine din latină „tractare”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "towing service",
+      "targetText": "serviciu de tractare"
+    },
+    {
+      "sourceText": "vehicle",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "truck",
+      "targetText": "camion"
+    },
+    {
+      "sourceText": "transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The tow truck came to pick up the broken-down car.",
+      "targetText": "Autovehiculul de tractare a venit să ridice mașina oprită."
+    },
+    {
+      "sourceText": "A tow truck is often a large truck with special equipment.",
+      "targetText": "Un autovehicul de tractare este adesea un camion mare cu echipament special."
+    },
+    {
+      "sourceText": "The tow truck was sent to the accident site.",
+      "targetText": "Autovehiculul de tractare a fost trimis la locul accidentului."
+    },
+    {
+      "sourceText": "Tow trucks are often seen on the highway.",
+      "targetText": "Adesea se văd autovehicule de tractare pe autostradă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'tow truck' by thinking of a truck that 'toes' along broken cars, pulling them away."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'tractare' sounds like 'tractor,' which also pulls things, helping you link the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'auto' in 'autovehicul' as 'auto' in English, meaning 'car,' so 'autovehicul de tractare' means a vehicle that tows."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a big truck towing a disabled car on the highway—that's your 'autovehicul de tractare.'"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

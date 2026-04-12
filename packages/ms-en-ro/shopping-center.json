@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-shopping-center",
+  "parent": "ms-ro-centru-comercial-b3c1773b@219b2945250ca30e0d4f0e0c636be3ca",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "shopping center",
+    "genus": "neuter",
+    "definition": "A large building or complex that houses many stores where people can buy goods.",
+    "pronunciation": "/ˈʃɒpɪŋ ˈsɛntər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"shopping center\" combines \"shopping,\" derived from Old English 'sceoppa' meaning to buy or barter, and \"center,\" which comes from Latin 'centrum', originally from Greek 'kéntron' meaning 'point' or 'center'.",
+        "targetText": "Cuvântul englezesc „shopping center” combină „shopping” (cumpărături), derivat din engleza veche „sceoppa” care înseamnă a cumpăra sau a face schimb, și „center”, care provine din latină 'centrum', inițial din grecescul 'kéntron' însemnând 'punct' sau 'centru'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "centru comercial",
+    "genus": "neuter",
+    "definition": "O clădire mare sau complex în care sunt găzduite multe magazine pentru cumpărături.",
+    "pronunciation": "/ˈtʃentru komeˈrtʃjal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"centru\" comes from the Latin 'centrum', which itself derives from the Greek 'kéntron'. The adjective \"comercial\" was borrowed from the French 'commercial', which in turn comes from the Latin 'commercium' meaning trade.",
+        "targetText": "Cuvântul românesc „centru” provine din latină 'centrum', de la grecescul 'kéntron'. Adjectivul „comercial” este împrumutat din franceză 'commercial', derivat din latină 'commercium' (comerț)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "shopping",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "store",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "market",
+      "targetText": "piață"
+    },
+    {
+      "sourceText": "supermarket",
+      "targetText": "supermarket"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The shopping center has many different stores.",
+      "targetText": "Centrul comercial are multe magazine diferite."
+    },
+    {
+      "sourceText": "We will meet at the shopping center at 3 PM.",
+      "targetText": "Ne întâlnim la centrul comercial la ora 15."
+    },
+    {
+      "sourceText": "The shopping center also has a cinema and restaurants.",
+      "targetText": "În centrul comercial există și un cinematograf și restaurante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English phrase \"shopping center\" clearly describes a place for shopping, just like the Romanian \"centru comercial\"."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"center\" in English sounds like \"centru\" in Romanian, both meaning the middle or main place, helping you remember \"centru comercial\" as a shopping hub."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"comercial\" is similar to the English \"commercial,\" which relates to business and trade, linking it to shopping activities."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine being at the center of a busy marketplace—that's your \"centru comercial,\" a central spot for commerce."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

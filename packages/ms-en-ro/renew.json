@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-renew",
+  "parent": "ms-ro-a-reinnoi-aff60dc4@30a3937c6f6b7bf3ddb8196b9b8e5e3b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "renew",
+    "definition": "to make something new again or restore it to a better state",
+    "pronunciation": "/rɪˈnjuː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"renew\" comes from the Old French \"renovier\", which itself derives from the Latin \"renovare\", meaning 'to make new again'.",
+        "targetText": "Cuvântul englezesc „renew“ provine din franceza veche „renovier“, care la rândul său derivă din latină, din „renovare“, ce înseamnă „a face ceva nou din nou“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in various contexts to indicate updating or restoring."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reînnoi",
+    "definition": "a face ceva nou sau a restaura",
+    "pronunciation": "/a re̩ɨnˈnoj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a reînnoi“ derives from the Latin „renovare“, meaning 'to renew, to restore'.",
+        "targetText": "Verbul românesc „a reînnoi“ provine din latină, de la „renovare“, care înseamnă „a reînnoi, a restaura“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used to update or replace things."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Renewal",
+      "targetText": "reînnoire"
+    },
+    {
+      "sourceText": "Modernization",
+      "targetText": "modernizare"
+    },
+    {
+      "sourceText": "Restoration",
+      "targetText": "restaurare"
+    },
+    {
+      "sourceText": "Improvement",
+      "targetText": "îmbunătățire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "decay",
+      "targetText": "deteriora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I renew my membership.",
+      "targetText": "Eu reînnoiesc asocierea mea."
+    },
+    {
+      "sourceText": "I have renewed my subscription.",
+      "targetText": "Am reînnoit abonamentul meu."
+    },
+    {
+      "sourceText": "I will renew the system.",
+      "targetText": "Voi reînnoi sistemul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"renew\" as making something new again, like renewing a library book so you can keep it longer."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"reînnoi\" sounds like \"re-in-noy\"; imagine 're-' meaning again and 'noy' reminding you of 'new' to remember it means to renew."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the English prefix \"re-\" means 'again', which helps you connect to the Romanian \"reînnoi\" meaning to do something again or refresh."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"renew\" with common phrases like \"renew a passport\" or \"renew a contract\" to recall its meaning and the Romanian equivalent."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

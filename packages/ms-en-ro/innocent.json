@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-innocent",
+  "parent": "ms-ro-nevinovat-74558e9c@a7f6b492c4ebcd326c1cf4ab54e2d223",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "innocent",
+    "definition": "Not guilty of a crime or offense; free from blame or wrongdoing.",
+    "pronunciation": "/ˈɪn.ə.sənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'innocent' comes from the Latin 'innocentem' (accusative form), derived from 'in-' meaning 'not' and 'nocere' meaning 'to harm', thus meaning 'harmless' or 'not guilty'.",
+        "targetText": "Adjectivul românesc „nevinovat” provine din latinescul 'innocentem' (în acuzativ 'innocentem', ulterior 'nevinovat'), format din 'in-' (nu) și 'nocere' (a face rău), însemnând 'nevinovat' sau 'fără vină'."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nevinovat",
+    "definition": "Care nu este vinovat de o faptă greșită sau infracțiune; lipsit de vină.",
+    "pronunciation": "/neviˈno̯vat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'nevinovat' comes from the Latin 'innocentem' (accusative form), later evolving into 'nevinovat', composed of 'in-' (not) and 'nocere' (to harm), meaning 'innocent' or 'without guilt'.",
+        "targetText": "Adjectivul românesc „nevinovat” provine din latinescul 'innocentem' (în acuzativ 'innocentem', ulterior 'nevinovat'), format din 'in-' (nu) și 'nocere' (a face rău), însemnând 'nevinovat' sau 'fără vină'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "guilt",
+      "targetText": "vină"
+    },
+    {
+      "sourceText": "guilty",
+      "targetText": "vinovat"
+    },
+    {
+      "sourceText": "innocence",
+      "targetText": "nevinovăție"
+    },
+    {
+      "sourceText": "crime",
+      "targetText": "infracțiune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "guilty",
+      "targetText": "vinovat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The defendant was found innocent.",
+      "targetText": "Acuzatul a fost declarat nevinovat."
+    },
+    {
+      "sourceText": "She is innocent of the accident.",
+      "targetText": "Ea este nevinovată de accident."
+    },
+    {
+      "sourceText": "One should not accuse anyone innocent.",
+      "targetText": "Nu ar trebui să acuzi pe nimeni nevinovat."
+    },
+    {
+      "sourceText": "The child looks so innocent.",
+      "targetText": "Copilul pare atât de nevinovat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'innocent' comes from Latin roots meaning 'not to harm' — just like 'nevinovat' in Romanian, which means 'without guilt'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian prefix 'ne-' is like the English 'in-' or 'un-' meaning 'not'. So 'nevinovat' means 'not guilty' or 'innocent'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'vinovat' as 'guilty' and adding 'ne-' negates it, making 'nevinovat' mean 'innocent'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone carrying a heavy burden if 'vinovat' means guilty, but 'nevinovat' is free of that burden — innocent and blameless."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

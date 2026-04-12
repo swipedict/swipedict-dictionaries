@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-habit",
+  "parent": "ms-ro-obicei-8bc9b3ef@3a2c5862e72680b9bfe33e3a31d89d92",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "habit",
+    "genus": "feminine",
+    "definition": "a regular practice or behavior that is repeated frequently and often unconsciously",
+    "pronunciation": "/ˈhæbɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “habit” comes from the Latin “habitus,” meaning condition or appearance, which evolved through Old French into English.",
+        "targetText": "Cuvântul englezesc „habit” provine din latină, „habitus”, care înseamnă condiție sau înfățișare, și a evoluat prin franceza veche până în engleză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Habits can be positive or negative and are often difficult to change."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "obicei",
+    "genus": "masculine",
+    "definition": "o acțiune sau comportament, care se repetă regulat",
+    "pronunciation": "/obiˈt͡ʃeɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “obicei” comes from the Slavic “običej” and denotes a regularly recurring action or custom.",
+        "targetText": "Cuvântul românesc „obicei” provine din slavona „običej” și desemnează o acțiune sau o tradiție care se repetă regulat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Obiceiuri pot influența semnificativ viața cotidiană."
+  },
+  "senses": [
+    {
+      "gloss": "habit",
+      "explanation": {
+        "sourceText": "Refers to a regularly repeated action.",
+        "targetText": "Descrie o acțiune care se repetă regulat."
+      },
+      "examples": [
+        {
+          "sourceText": "I have the habit of jogging every morning.",
+          "targetText": "Am obiceiul să alerg în fiecare dimineață."
+        }
+      ]
+    },
+    {
+      "gloss": "habit as custom",
+      "explanation": {
+        "sourceText": "Refers to social norms or traditions.",
+        "targetText": "Se referă la norme sau tradiții sociale."
+      },
+      "examples": [
+        {
+          "sourceText": "In many cultures, there are certain habits during holidays.",
+          "targetText": "În multe culturi există obiceiuri specifice în timpul sărbătorilor."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "customs",
+      "targetText": "obiceiuri"
+    },
+    {
+      "sourceText": "routine",
+      "targetText": "rutina"
+    },
+    {
+      "sourceText": "custom",
+      "targetText": "obicei"
+    },
+    {
+      "sourceText": "behavior",
+      "targetText": "comportament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unusual",
+      "targetText": "ciudat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Reading is an important habit.",
+      "targetText": "Cititul este un obicei important."
+    },
+    {
+      "sourceText": "The habit of waking up early can improve life.",
+      "targetText": "Obiceiul de a te trezi devreme îți poate îmbunătăți viața."
+    },
+    {
+      "sourceText": "Habits are hard to change.",
+      "targetText": "Obiceiurile sunt greu de schimbat."
+    },
+    {
+      "sourceText": "He has the habit of taking a walk every afternoon.",
+      "targetText": "El are obiceiul de a face o plimbare în fiecare după-amiază."
+    },
+    {
+      "sourceText": "Bad habits can be harmful to health.",
+      "targetText": "Obiceiurile proaste pot fi dăunătoare pentru sănătate."
+    },
+    {
+      "sourceText": "Breaking a habit requires willpower.",
+      "targetText": "Să renunți la un obicei necesită voință."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word “habit” as something you do regularly, like brushing your teeth every morning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that “obicei” sounds a bit like “obey” – habits are behaviors you often obey or follow automatically."
+    },
+    {
+      "lang": "en",
+      "text": "Link “habit” with “obicei” by imagining a daily routine that becomes a natural part of your life."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase “habitual behavior” to recall that “obicei” means a repeated action or custom."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

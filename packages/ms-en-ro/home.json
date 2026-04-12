@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-home",
+  "parent": "ms-ro-acasa-9fed2b95@e61b4975c11678f14454b85069681dd9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "home",
+    "definition": "A place where one lives and feels safe and comfortable; a person's own house or dwelling.",
+    "pronunciation": "/hoʊm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'home' originates from the Old English 'hām', meaning 'dwelling' or 'village', and is related to other Germanic words denoting a place of residence.",
+        "targetText": "Cuvântul englezesc „home” provine din engleza veche 'hām', care însemna 'locuință' sau 'sat', fiind înrudit cu alte cuvinte germanice ce desemnează un loc de reședință."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acasă",
+    "genus": "masculine",
+    "definition": "Locul unde cineva locuiește și se simte în siguranță; propria locuință sau casă.",
+    "pronunciation": "/aˈka.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'acasă' comes from the Latin adverb 'accasā', a compound of 'ad' (to) and 'casa' (hut, house), referring to the place where one lives.",
+        "targetText": "Cuvântul românesc „acasă” provine din adverbul latin 'accasā', format din 'ad' (către) și 'casa' (căsuță, casă), desemnând locul unde cineva locuiește."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "homeland",
+      "targetText": "patrie"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "locuință"
+    },
+    {
+      "sourceText": "at home",
+      "targetText": "acasă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abroad",
+      "targetText": "străinătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am going home.",
+      "targetText": "Mă duc acasă."
+    },
+    {
+      "sourceText": "Home is a place of security.",
+      "targetText": "Acasă este un loc al siguranței."
+    },
+    {
+      "sourceText": "Many people feel comfortable in their home.",
+      "targetText": "Mulți oameni se simt bine în casa lor."
+    },
+    {
+      "sourceText": "He spent his whole life in the same home.",
+      "targetText": "Și-a petrecut toată viața în aceeași casă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'acasă' sounds like 'a casa' in Spanish or Italian, meaning 'the house'—helping you link it to the idea of home."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'home' as where you 'come' from, and 'acasă' as the place you 'go to' (from Latin 'ad casa'), both meaning your safe place."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'home' and Romanian 'acasă' both describe a place of comfort and safety, even though they come from different roots."
+    },
+    {
+      "lang": "en",
+      "text": "When you say 'I am home' in English, it matches the Romanian 'Sunt acasă'—both express being in a place of belonging."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

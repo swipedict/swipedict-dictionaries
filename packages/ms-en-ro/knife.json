@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-knife",
+  "parent": "ms-ro-cutit-b7758374@5939ab2c3e9486e68e2d5bafbdc8c567",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "knife",
+    "genus": "neuter",
+    "definition": "A tool or utensil with a sharp blade used for cutting.",
+    "pronunciation": "/naɪf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"knife\" comes from Old English 'cnīf', which is related to similar words in other Germanic languages and ultimately derives from a Proto-Germanic root meaning a cutting tool.",
+        "targetText": "Cuvântul englezesc „knife” provine din engleza veche 'cnīf', care este legat de cuvinte similare din alte limbi germanice și derivă în cele din urmă dintr-o rădăcină proto-germanică ce înseamnă un instrument de tăiat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cuțit",
+    "genus": "neuter",
+    "definition": "Un instrument cu o lamă ascuțită folosit pentru tăiere.",
+    "pronunciation": "/kuˈt͡sit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cuțit\" derives from the Latin 'cultellus', a diminutive form of 'culter', meaning 'knife'. This reflects the evolution from Classical Latin to Romanian.",
+        "targetText": "Cuvântul românesc „cuțit” derivă din latinul 'cultellus', diminutivul lui 'culter', care înseamnă 'cuțit'. Aceasta reflectă evoluția de la latina clasică la română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fork",
+      "targetText": "furculiță"
+    },
+    {
+      "sourceText": "blade",
+      "targetText": "lamă"
+    },
+    {
+      "sourceText": "spoon",
+      "targetText": "lingură"
+    },
+    {
+      "sourceText": "scissors",
+      "targetText": "foarfece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The knife is very sharp.",
+      "targetText": "Cuțitul este foarte ascuțit."
+    },
+    {
+      "sourceText": "I use the knife to cut the bread.",
+      "targetText": "Folosesc cuțitul pentru a tăia pâinea."
+    },
+    {
+      "sourceText": "The knife is on the table.",
+      "targetText": "Cuțitul este pe masă."
+    },
+    {
+      "sourceText": "Please be careful with the knife!",
+      "targetText": "Te rog, ai grijă la cuțit!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"cuțit\" sounds like the English phrase \"cut it,\" which helps you remember it is a cutting tool."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"knife\" starting with a silent 'k'—just like how the Romanian \"cuțit\" starts with a hard 'k' sound."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Latin root 'cultellus' for \"cuțit\" by associating it with the English word \"cult\"—imagine a 'cult' of knife enthusiasts."
+    },
+    {
+      "lang": "en",
+      "text": "Picture saying \"Cut it!\" in English, which sounds very similar to \"cuțit\" and helps you recall the word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "ms-en-ro-breathe",
+  "parent": "ms-ro-a-respira-c25e3c62@4f022ce13c176079f0798f7105b6d2b2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "breathe",
+    "definition": "to move air in and out of the lungs",
+    "pronunciation": "/briːð/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"breathe\" originates from Old English \"brǣth\" related to the act of inhaling and exhaling air, describing the vital process of respiration.",
+        "targetText": "Cuvântul englezesc „breathe“ provine din engleza veche „brǣth“, legat de actul de a inspira și expira aer, descriind procesul vital al respirației."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used both in everyday language and medical contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a respira",
+    "definition": "a mișca aerul în și din corp",
+    "pronunciation": "/a res.piˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a respira\" derives from Latin \"respirare\", composed of \"re-\" (again) and \"spirare\" (to breathe), referring to the vital process of breathing.",
+        "targetText": "Verbul românesc „a respira“ derivă din latină, din „respirare“, compus din „re-“ (din nou) și „spirare“ (a respira), desemnând procesul vital de respirație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). \"Respirare\" plays an important role both in medicine and philosophy, where it symbolizes life itself."
+  },
+  "senses": [
+    {
+      "gloss": "Shortness of breath",
+      "explanation": {
+        "sourceText": "\"Breathe\" can describe a state or image of difficulty in taking in air.",
+        "targetText": "„Atmen“ descrie și starea de dificultate în respirație."
+      },
+      "examples": [
+        {
+          "sourceText": "I have shortness of breath.",
+          "targetText": "Am dificultăți de respirație."
+        }
+      ]
+    },
+    {
+      "gloss": "Breathing (air movement)",
+      "explanation": {
+        "sourceText": "The word is also used in medical contexts.",
+        "targetText": "Cuvântul este folosit și în context medical."
+      },
+      "examples": [
+        {
+          "sourceText": "Breathe deeply.",
+          "targetText": "Respiră adânc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "body",
+      "targetText": "corp"
+    },
+    {
+      "sourceText": "lung",
+      "targetText": "plămân"
+    },
+    {
+      "sourceText": "oxygen",
+      "targetText": "oxigen"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "drown",
+      "targetText": "a se îneca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I breathe deeply.",
+      "targetText": "Eu respir adânc."
+    },
+    {
+      "sourceText": "Are you breathing calmly?",
+      "targetText": "Respiri liniștit?"
+    },
+    {
+      "sourceText": "The patient breathes heavily.",
+      "targetText": "Pacientul respiră greu."
+    },
+    {
+      "sourceText": "We breathe fresh air.",
+      "targetText": "Noi respirăm aer proaspăt."
+    },
+    {
+      "sourceText": "Are you breathing calmly?",
+      "targetText": "Respirați voi liniștit?"
+    },
+    {
+      "sourceText": "They breathe during meditation.",
+      "targetText": "Ei respiră în meditație."
+    },
+    {
+      "sourceText": "I breathed more deeply.",
+      "targetText": "Am respirat mai profund."
+    },
+    {
+      "sourceText": "They breathed calmly.",
+      "targetText": "Au respirat liniștit."
+    },
+    {
+      "sourceText": "He breathed quickly in excitement.",
+      "targetText": "El respira repede de emoție."
+    },
+    {
+      "sourceText": "I had not breathed properly when you arrived.",
+      "targetText": "Nu respirasem corect când ai sosit."
+    },
+    {
+      "sourceText": "I will breathe deeply tomorrow.",
+      "targetText": "Voi respira adânc mâine."
+    },
+    {
+      "sourceText": "She will breathe more.",
+      "targetText": "Ea o să respire mai mult."
+    },
+    {
+      "sourceText": "I would breathe if I could.",
+      "targetText": "Aș respira dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you breathe deeply.",
+      "targetText": "Este important să respiri adânc."
+    },
+    {
+      "sourceText": "Breathe calmly!",
+      "targetText": "Respiră liniștit!"
+    },
+    {
+      "sourceText": "Breathe deeply!",
+      "targetText": "Respirați adânc!"
+    },
+    {
+      "sourceText": "The tired child breathes slowly.",
+      "targetText": "Copilul obosit respiră încet."
+    },
+    {
+      "sourceText": "The atmosphere is calm and breathable.",
+      "targetText": "Atmosfera este liniștită și respirabilă."
+    },
+    {
+      "sourceText": "While he breathed slowly, he relaxed.",
+      "targetText": "Respirând încet, s-a relaxat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"breathe\" sounds like \"breath\" which is the air you take in and out—this helps link the action to the word."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"respira\" shares the root with English \"respiration\"—think of 're-' meaning again and 'spirare' meaning to breathe."
+    },
+    {
+      "lang": "en",
+      "text": "Practice saying \"respira\" while taking deep breaths to connect the sound with the action."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the word \"respire\" in English, which means to breathe, to help remember the Romanian \"respira\"."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize fresh air filling your lungs as you say \"respira\" to reinforce the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

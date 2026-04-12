@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-apology",
+  "parent": "ms-ro-scuza-4f205f92@71b7a2c43be6950d8f6fb02a47c1c177",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:italian",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "apology",
+    "genus": "feminine",
+    "definition": "A polite expression used to ask for forgiveness or to acknowledge a fault or mistake.",
+    "pronunciation": "/əˈpɒlədʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'apology' comes from the Greek 'apologia', meaning a speech in defense or a formal justification, which passed into Latin and then Old French before entering English.",
+        "targetText": "Cuvântul englezesc „apology” provine din grecescul 'apologia', care înseamnă un discurs de apărare sau o justificare formală, și a trecut prin latină și apoi franceza veche înainte de a intra în limba engleză."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scuză",
+    "genus": "feminine",
+    "definition": "Expresie folosită pentru a cere iertare sau a justifica o greșeală.",
+    "pronunciation": "/skuˈzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'scuză' comes from the Italian 'scusa', which in turn derives from the Latin 'excūsāre', meaning 'to excuse' or 'to free from blame'.",
+        "targetText": "Cuvântul românesc „scuză” provine din italianul 'scusa', care la rândul său derivă din latină 'excūsāre', însemnând 'a exonera' sau 'a scuza'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to apologize",
+      "targetText": "a scuza"
+    },
+    {
+      "sourceText": "apologizer",
+      "targetText": "persoană care cere scuze"
+    },
+    {
+      "sourceText": "mistake",
+      "targetText": "greșeală"
+    },
+    {
+      "sourceText": "forgiveness",
+      "targetText": "iertare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "accusation",
+      "targetText": "acuzație"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Apology, can you help me?",
+      "targetText": "Scuză-mă, mă poți ajuta?"
+    },
+    {
+      "sourceText": "I apologize for my mistake.",
+      "targetText": "Cer scuze pentru greșeala mea."
+    },
+    {
+      "sourceText": "Apology for being late.",
+      "targetText": "Scuză-mă că întârzii."
+    },
+    {
+      "sourceText": "An apology is expected.",
+      "targetText": "Se așteaptă o scuză."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'scuză' sounds like 'excuse' in English, which also means to forgive or justify, helping you link the Romanian word to apology."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'scuză' as a short form of 'scuse me', a common English phrase used to apologize or get attention."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'apology' comes from Greek meaning a formal defense, while 'scuză' comes from Italian and Latin roots meaning to excuse—both relate to explaining or excusing a fault."
+    },
+    {
+      "lang": "en",
+      "text": "When you say 'scuză-mă' in Romanian, it’s like saying 'excuse me' in English, a polite way to ask for forgiveness or attention."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-diagnosis",
+  "parent": "ms-ro-diagnostic-fa7c8889@4de2eb33db07eaca52e234cd89191016",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "diagnosis",
+    "genus": "feminine",
+    "definition": "The identification and naming of a disease or problem based on examination and analysis.",
+    "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"diagnosis\" comes from the Greek term \"διάγνωσις\" (diágnōsis), meaning 'distinction' or 'recognition', composed of \"dia-\" (through) and \"gnōsis\" (knowledge).",
+        "targetText": "Cuvântul englezesc „diagnosis” provine din termenul grecesc „διάγνωσις” (diágnōsis), care înseamnă „distincție” sau „recunoaștere”, format din „dia-” (prin) și „gnōsis” (cunoaștere)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "diagnostic",
+    "genus": "neuter",
+    "definition": "Stabilirea și denumirea unei boli sau a unei probleme prin examinare.",
+    "pronunciation": "/di.aɡˈnos.tik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"diagnostic\" was borrowed from the French \"diagnostic\", which in turn comes from the Latin \"diagnosticus\", originally from the Greek \"διάγνωσις\" (diágnōsis).",
+        "targetText": "Cuvântul românesc „diagnostic” a fost împrumutat din franceză „diagnostic”, provenit din latinul „diagnosticus”, la rândul său din grecescul „διάγνωσις” (diágnōsis)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "diagnostics",
+      "targetText": "diagnosticare"
+    },
+    {
+      "sourceText": "disease",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "symptom",
+      "targetText": "simptom"
+    },
+    {
+      "sourceText": "examination",
+      "targetText": "examinare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cure",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The diagnosis was made after several tests.",
+      "targetText": "Diagnosticul a fost pus după mai multe teste."
+    },
+    {
+      "sourceText": "The doctor gave a quick diagnosis.",
+      "targetText": "Doctorul a dat un diagnostic rapid."
+    },
+    {
+      "sourceText": "An accurate diagnosis is important for treatment.",
+      "targetText": "Un diagnostic precis este important pentru tratament."
+    },
+    {
+      "sourceText": "The diagnosis confirmed the flu.",
+      "targetText": "Diagnosticul a confirmat o gripă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"diagnosis\" starts with \"dia-\", meaning \"through\", so it’s about understanding a condition through knowledge."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"diagnostic\" ends with \"-ic\", a common suffix in medical terms, making it easier to recognize in medical contexts."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"diagnosis\" as 'knowing through' — the root \"gnosis\" means knowledge, helping you link it to recognizing diseases."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a doctor using lots of knowledge (gnosis) to \"diagnose\" a patient — this mental image helps remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-add",
+  "parent": "ms-ro-a-adauga-4942e259@4e0eec4fcaf4962513f3f9fa20a2c5df",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "add",
+    "definition": "to put something together with an existing amount or collection to increase or complete it",
+    "pronunciation": "/æd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"add\" comes from the Latin word \"addere,\" meaning 'to give to' or 'to put to'.",
+        "targetText": "Cuvântul englezesc „add“ provine din cuvântul latin „addere“, care înseamnă „a da către“ sau „a adăuga“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A regular verb commonly used in everyday language, especially in digital and mathematical contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a adăuga",
+    "definition": "a completa sau a aduce ceva la o cantitate sau la un ansamblu existent",
+    "pronunciation": "/a a.də.uˈga/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb derives from the Latin \"addere,\" which means \"to add.\"",
+        "targetText": "Verbul românesc „a adăuga“ derivă din latină, de la „addere“, care înseamnă „a adăuga“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regulary conjugated verb of the 1st conjugation (-a). Often used to add something to a quantity, list, or document."
+  },
+  "senses": [
+    {
+      "gloss": "attach",
+      "explanation": {
+        "sourceText": "Also used in the sense of attaching something to a document or message.",
+        "targetText": "Poate însemna și a atașa ceva unui document sau mesaj."
+      },
+      "examples": [
+        {
+          "sourceText": "I add the results to the report.",
+          "targetText": "Adaug rezultatele la raport."
+        }
+      ]
+    },
+    {
+      "gloss": "contribute",
+      "explanation": {
+        "sourceText": "\"Added\" can also mean becoming part of a group or discussion in a social context.",
+        "targetText": "„A adăuga“ poate însemna și a deveni parte dintr-un grup sau discuție."
+      },
+      "examples": [
+        {
+          "sourceText": "I want to add something to the discussion.",
+          "targetText": "Vreau să adaug ceva la discuție."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "data",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "element",
+      "targetText": "element"
+    },
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "list",
+      "targetText": "listă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "remove",
+      "targetText": "a elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I add the picture.",
+      "targetText": "Eu adaug imaginea."
+    },
+    {
+      "sourceText": "Do you add the name?",
+      "targetText": "Adaugi numele?"
+    },
+    {
+      "sourceText": "He adds a file.",
+      "targetText": "El adaugă un fișier."
+    },
+    {
+      "sourceText": "We add the document.",
+      "targetText": "Noi adăugăm documentul."
+    },
+    {
+      "sourceText": "Do you add the sources?",
+      "targetText": "Adăugați sursele?"
+    },
+    {
+      "sourceText": "They add an overview to the report.",
+      "targetText": "Ei adaugă un rezumat la raport."
+    },
+    {
+      "sourceText": "I have added the data.",
+      "targetText": "Am adăugat datele."
+    },
+    {
+      "sourceText": "He added new information every month.",
+      "targetText": "El adăuga informații noi în fiecare lună."
+    },
+    {
+      "sourceText": "I will add the new element.",
+      "targetText": "Voi adăuga noul element."
+    },
+    {
+      "sourceText": "Please add this!",
+      "targetText": "Adaugă asta, te rog!"
+    },
+    {
+      "sourceText": "The added material is very useful.",
+      "targetText": "Materialul adăugat este foarte util."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"add\" as putting one thing on top of another, like adding sugar to your coffee to make it sweeter."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"add\" is used a lot in math and technology, just like \"a adăuga\" is used in Romanian for adding data or files."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb \"a adăuga\" sounds like \"add\" with an extra ending, making it easier to recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine adding friends on social media—\"to add\" someone means to include them, similar to \"a adăuga\" in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

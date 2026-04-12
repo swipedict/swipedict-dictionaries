@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-life-insurance",
+  "parent": "ms-ro-asigurare-de-viata-b25e216a@d8373d2abf14e8e003c7e930b1f068e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:italian",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "life insurance",
+    "genus": "feminine",
+    "definition": "A contract that pays a specified sum of money to beneficiaries upon the insured person's death or upon reaching a certain age.",
+    "pronunciation": "/laɪf ɪnˈʃʊərəns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term “life insurance” combines “life,” from Old English 'līf' meaning existence or living, and “insurance,” derived from the Italian 'assicurare' meaning to make safe or secure.",
+        "targetText": "Cuvântul englezesc „life insurance” combină „life”, din engleza veche 'līf' care înseamnă existență sau viață, și „insurance”, derivat din italiană 'assicurare', care înseamnă a face sigur sau a asigura."
+      },
+      "source": "Etymological dictionaries of English"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asigurare de viață",
+    "genus": "feminine",
+    "definition": "Un tip de asigurare care plătește o sumă de bani convenită în caz de deces sau la atingerea unei anumite vârste.",
+    "pronunciation": "/asiɡuˈrare de ˈvi.a.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „asigurare” was borrowed from the Italian „assicurare”, which comes from the Latin „securare” meaning 'to secure'. „Viață” derives from the Latin „vita”.",
+        "targetText": "Cuvântul românesc „asigurare” a fost preluat din italiană („assicurare”), care provine din latinescul „securare” („a asigura”). „Viață” derivă din latină „vita”."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "life policy",
+      "targetText": "poliță de viață"
+    },
+    {
+      "sourceText": "term life insurance",
+      "targetText": "asigurare de viață pe termen"
+    },
+    {
+      "sourceText": "insurance",
+      "targetText": "asigurare"
+    },
+    {
+      "sourceText": "insured person",
+      "targetText": "asigurat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Life insurance pays a sum to the survivors in case of death.",
+      "targetText": "Asigurarea de viață plătește o sumă rudelor în caz de deces."
+    },
+    {
+      "sourceText": "Many people take out life insurance to protect their family.",
+      "targetText": "Mulți oameni încheie o asigurare de viață pentru a-și proteja familia."
+    },
+    {
+      "sourceText": "Life insurance can also serve as retirement provision.",
+      "targetText": "Asigurarea de viață poate servi și ca pensie privată."
+    },
+    {
+      "sourceText": "Premiums for life insurance are paid regularly.",
+      "targetText": "Primele pentru asigurarea de viață se plătesc regulat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “asigurare” sounds like the English word “assure,” which means to guarantee or make certain—helping you remember it relates to insurance."
+    },
+    {
+      "lang": "en",
+      "text": "“Viață” is similar to the Latin root “vita,” meaning life, so it’s easy to connect it to the concept of life insurance."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase as “assurance of life” — ‘asigurare de viață’ — which directly links the idea of securing life."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that ‘asigurare’ starts with ‘asi-’ like ‘assure’ and ‘viață’ sounds like ‘vee-a-tsa’—imagine a safe life (‘viață’) assured (‘asigurare’)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

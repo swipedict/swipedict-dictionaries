@@ -1,0 +1,137 @@
+{
+  "id": "ms-en-ro-motivation",
+  "parent": "ms-ro-motivatie-19aee641@5144df1a3f6875f58b7fb19630415b58",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 2,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "motivation",
+    "genus": "feminine",
+    "definition": "The internal drive or reasons that prompt a person to act or achieve something; the state of being motivated.",
+    "pronunciation": "/ˌmoʊ.tɪˈveɪ.ʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Late Latin 'motivatio' meaning movement or stimulation, from Latin 'movere' meaning to move.",
+        "targetText": "Termenul „Motivation“ provine din latină târzie „motivatio“, derivat din „movere“ (a mișca)."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Motivation is a key factor for learning, performance, and personal growth."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "motivație",
+    "genus": "feminine",
+    "definition": "totalitatea motivelor sau mobilurilor (conștiente sau nu) care determină pe cineva să efectueze o anumită acțiune sau să tindă spre anumite scopuri; starea de a fi motivat",
+    "pronunciation": "/mo.tiˈva.t͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "From French 'motivation', itself from Latin 'motivatio'.",
+        "targetText": "Cuvântul românesc „motivație“ provine din franceza „motivation“, la rândul său din latină „motivatio“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Motivația poate fi intrinsecă (venind din interior) sau extrinsecă (determinată de factori externi)."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "incentive",
+      "targetText": "stimulent"
+    },
+    {
+      "sourceText": "drive",
+      "targetText": "imbold"
+    },
+    {
+      "sourceText": "ambition",
+      "targetText": "ambiție"
+    },
+    {
+      "sourceText": "to motivate",
+      "targetText": "a motiva"
+    },
+    {
+      "sourceText": "will",
+      "targetText": "voință"
+    },
+    {
+      "sourceText": "goal",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lack of drive",
+      "targetText": "lipsă de inițiativă"
+    },
+    {
+      "sourceText": "apathy",
+      "targetText": "apatie"
+    },
+    {
+      "sourceText": "demotivation",
+      "targetText": "demotivare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My motivation is to get fitter.",
+      "targetText": "Motivația mea este să devin mai în formă."
+    },
+    {
+      "sourceText": "Without motivation, it is difficult to reach goals.",
+      "targetText": "Fără motivație este greu să atingi obiectivele."
+    },
+    {
+      "sourceText": "The best motivation comes from within.",
+      "targetText": "Cea mai bună motivație vine din interior."
+    },
+    {
+      "sourceText": "I need a boost of motivation.",
+      "targetText": "Am nevoie de un impuls de motivație."
+    },
+    {
+      "sourceText": "His motivation for the project is very high.",
+      "targetText": "Motivația sa pentru proiect este foarte mare."
+    },
+    {
+      "sourceText": "Lack of motivation can lead to procrastination.",
+      "targetText": "Lipsa de motivație poate duce la procrastinare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'motivation' and Romanian 'motivație' are almost identical, making it easy to remember!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'motor'—motivation is the motor that drives you to achieve your goals."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: 'motivate' means to move someone emotionally or mentally, just like the Latin root 'movere' means 'to move'."
+    },
+    {
+      "lang": "en",
+      "text": "If you feel stuck, think of motivation as the fuel that powers your inner engine."
+    }
+  ],
+  "media": {
+    "images": []
+  }
+}

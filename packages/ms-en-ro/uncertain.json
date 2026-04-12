@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-uncertain",
+  "parent": "ms-ro-nesigur-475b14bf@c3c59887f4fee6433b39632b125219be",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "uncertain",
+    "definition": "Not confident or sure about something; marked by doubt or insecurity.",
+    "pronunciation": "/ʌnˈsɜːrtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'uncertain' is formed from the negative prefix 'un-' and the adjective 'certain', which comes from Old French 'certain', originally from Latin 'certus' meaning 'sure, settled'.",
+        "targetText": "Adjectivul englez „uncertain” este format din prefixul negativ 'un-' și adjectivul 'certain', care provine din franceza veche „certain”, la rândul său din latină „certus”, însemnând „sigur, stabilit”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nesigur",
+    "definition": "Nu este sigur sau cert; caracterizat prin îndoială sau teamă.",
+    "pronunciation": "/neˈsiɡur/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'nesigur' comes from the Latin negation prefix 'ne-' and 'sigur', derived from Latin 'securus', meaning 'safe'.",
+        "targetText": "Adjectivul românesc „nesigur” provine din prefixul latin de negație 'ne-' și din 'sigur', derivat din latină 'securus', care înseamnă 'sigur'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fear",
+      "targetText": "teamă"
+    },
+    {
+      "sourceText": "certain",
+      "targetText": "sigur"
+    },
+    {
+      "sourceText": "to feel uncertain",
+      "targetText": "a se simți nesigur"
+    },
+    {
+      "sourceText": "doubt",
+      "targetText": "îndoială"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "certain",
+      "targetText": "sigur"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I feel uncertain in this situation.",
+      "targetText": "Mă simt nesigur în această situație."
+    },
+    {
+      "sourceText": "The uncertain weather worries me.",
+      "targetText": "Vremea nesigură îmi provoacă griji."
+    },
+    {
+      "sourceText": "He is uncertain whether he will pass the exam.",
+      "targetText": "El este nesigur dacă va trece examenul."
+    },
+    {
+      "sourceText": "She gave an uncertain answer.",
+      "targetText": "Ea a dat un răspuns nesigur."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'nesigur' by thinking of 'ne-' as 'not' and 'sigur' as 'sure' in Romanian—so 'not sure' means 'nesigur'."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'uncertain' and Romanian 'nesigur' both express doubt or insecurity, so linking their meanings helps memorization."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'nesigur' sounding like 'nay-sigur'—like saying 'no' to being 'sure'."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'sigur' in Romanian is similar to 'secure' in English, which means safe or certain; adding 'ne-' negates it."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

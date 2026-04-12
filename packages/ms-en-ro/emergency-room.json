@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-emergency-room",
+  "parent": "ms-ro-camera-de-urgenta-bd9cd062@2f3fc396035aaa6ead170acc50ffa72b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "emergency room",
+    "genus": "feminine",
+    "definition": "A hospital department where patients with urgent medical conditions receive immediate care.",
+    "pronunciation": "/ɪˈmɜːrdʒənsi ruːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'emergency room' combines 'emergency' (a sudden, urgent situation) and 'room' (a space or chamber), originating in the 20th century as hospitals developed specialized areas for urgent care.",
+        "targetText": "Termenul englezesc „emergency room” combină „emergency” (o situație bruscă, urgentă) și „room” (un spațiu sau încăpere), apărut în secolul XX odată cu dezvoltarea spitalelor care au creat zone specializate pentru îngrijire urgentă."
+      },
+      "source": "Etymological literature on English language"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "camera de urgență",
+    "genus": "feminine",
+    "definition": "O secție a spitalului unde pacienții cu urgențe medicale sunt tratați imediat.",
+    "pronunciation": "/kaˈme.ra de uˈrʒen.t͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'camera de urgență' consists of 'camera' (room) and 'urgență' (emergency), where 'urgență' derives from the Latin 'urgentia', meaning urgency or necessity.",
+        "targetText": "Expresia românească „camera de urgență“ este formată din „camera“ (încăpere) și „urgență“ (situație de urgență), iar „urgență“ provine din latină, din cuvântul 'urgentia', care înseamnă grabă sau necesitate."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "emergency",
+      "targetText": "urgență"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The emergency room is open 24 hours a day.",
+      "targetText": "Camera de urgență este deschisă non-stop."
+    },
+    {
+      "sourceText": "He was immediately taken to the emergency room.",
+      "targetText": "A fost dus imediat în camera de urgență."
+    },
+    {
+      "sourceText": "Many doctors and nurses work in the emergency room.",
+      "targetText": "În camera de urgență lucrează mulți medici și asistente."
+    },
+    {
+      "sourceText": "The emergency room treats patients with severe injuries.",
+      "targetText": "Camera de urgență tratează pacienți cu răni grave."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'camera de urgență' by thinking of 'camera' as a room and 'urgență' sounding like 'urgent'—so it's the 'urgent room' where emergencies are handled."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'emergency room' to 'camera de urgență' by imagining a hospital room dedicated to quick, life-saving care."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'urgență' comes from Latin 'urgentia', meaning urgency—just like in English, it signals something that needs immediate attention."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'camera' as 'chamber' or 'room' in English, and combine it with 'urgență' to recall the Romanian term for emergency room."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

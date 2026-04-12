@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-viewpoint",
+  "parent": "ms-ro-punct-de-belvedere-8176e48b@8d49c3598912227ebdecaa38bea4c5b2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:italian",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "viewpoint",
+    "genus": "masculine",
+    "definition": "A place from which one can see a wide and pleasant view of the surrounding area.",
+    "pronunciation": "/ˈvjuːpɔɪnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'viewpoint' is a compound of 'view', from the Old French 'veue' meaning 'sight' or 'vision', and 'point', derived from Latin 'punctum', meaning a precise location or spot.",
+        "targetText": "Cuvântul englezesc „viewpoint” este compus din „view”, provenit din franceza veche „veue” care înseamnă „vedere” sau „viziune”, și „point”, derivat din latină „punctum”, care înseamnă un loc precis sau punct."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "punct de belvedere",
+    "genus": "neuter",
+    "definition": "Un loc de unde se poate admira o panoramă frumoasă a împrejurimilor.",
+    "pronunciation": "/ˈpunkt de belveˈdere/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „belvedere” is a loanword from Italian, from the phrase „bel vedere” meaning „beautiful view”. The word „punct” comes from Latin „punctum”.",
+        "targetText": "Cuvântul românesc „belvedere” este împrumutat din italiană, din expresia „bel vedere” („priveliște frumoasă”). „Punct” provine din latină, din „punctum”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "view",
+      "targetText": "priveliște"
+    },
+    {
+      "sourceText": "observation platform",
+      "targetText": "platformă de belvedere"
+    },
+    {
+      "sourceText": "mountain",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "panorama",
+      "targetText": "panoramă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The viewpoint offers a great view of the city.",
+      "targetText": "Punctul de belvedere oferă o priveliște minunată asupra orașului."
+    },
+    {
+      "sourceText": "We met at the viewpoint on the mountain.",
+      "targetText": "Ne-am întâlnit la punctul de belvedere de pe munte."
+    },
+    {
+      "sourceText": "The viewpoint is very popular among tourists.",
+      "targetText": "Punctul de belvedere este foarte popular printre turiști."
+    },
+    {
+      "sourceText": "From the viewpoint, you can see the valley well.",
+      "targetText": "De la punctul de belvedere se vede bine valea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'belvedere' sounds like 'bel' (beautiful) + 'vedere' (view in Italian), so it means a beautiful view spot."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'viewpoint' as the exact 'point' where you get the best 'view'—just like 'punct de belvedere' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'punct' is similar to the English 'point', making it easier to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine standing on a mountain 'point' enjoying a 'belvedere'—a beautiful panorama to remember the Romanian term."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

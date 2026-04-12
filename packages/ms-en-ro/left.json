@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-left",
+  "parent": "ms-ro-stanga-1e105bf4@f9d385057835d7a75b9862284da6ac05",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "left",
+    "definition": "In the direction of the left side or situated on the left side.",
+    "pronunciation": "/lɛft/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adverb \"left\" originates from Old English 'left', meaning 'weak' or 'weak side', which later came to denote the left side, contrasting with the right.",
+        "targetText": "Cuvântul englezesc „left” provine din engleza veche 'left', care însemna 'slab' sau 'partea slabă', și ulterior a ajuns să desemneze partea stângă, în contrast cu dreapta."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stânga",
+    "definition": "În direcția sau pe partea stângă.",
+    "pronunciation": "/ˈstɨŋɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"stânga\" has an unclear etymology; it does not derive from Latin, and its exact origin is unknown.",
+        "targetText": "Cuvântul românesc „stânga” are o origine necunoscută; nu provine din latină, iar etimologia sa exactă este incertă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "above",
+      "targetText": "sus"
+    },
+    {
+      "sourceText": "right",
+      "targetText": "dreapta"
+    },
+    {
+      "sourceText": "side",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "below",
+      "targetText": "jos"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "right",
+      "targetText": "dreapta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The house is located to the left of the church.",
+      "targetText": "Casa este situată stânga bisericii."
+    },
+    {
+      "sourceText": "Turn left at the next intersection.",
+      "targetText": "Virați la următoarea intersecție la stânga."
+    },
+    {
+      "sourceText": "The parking lot is on the left side of the building.",
+      "targetText": "Parcarea este pe partea stângă lângă clădire."
+    },
+    {
+      "sourceText": "The library is on the left, the café on the right.",
+      "targetText": "Stânga este biblioteca, dreapta este cafeneaua."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'stânga' sounds like 'stung' with an 'a' at the end — imagine getting stung on your left side to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'left' and 'stânga' start with an 'l' or 'st' sound; linking these sounds can help you remember the direction."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize raising your left hand and saying 'left' to associate the word with the side."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'stânga' as starting with 'st' like 'stop' — stop and turn left at the next corner!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

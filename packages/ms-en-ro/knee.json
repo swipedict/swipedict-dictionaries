@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-knee",
+  "parent": "ms-ro-genunchi-6d6cd906@5ba672738944ac59460342e380b06b40",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "knee",
+    "genus": "neuter",
+    "definition": "The joint between the thigh and the lower leg that allows the leg to bend and straighten.",
+    "pronunciation": "/niː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"knee\" comes from Old English 'cnēow', which traces back to the Proto-Germanic root *knewją, related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „knee” provine din vechiul englez 'cnēow', care derivă din rădăcina proto-germanică *knewją, fiind înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "genunchi",
+    "genus": "masculine",
+    "definition": "Articulația dintre coapsă și gambă, care permite îndoirea și întinderea piciorului.",
+    "pronunciation": "/ɡeˈnunt͡ʃʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"genunchi\" derives from the Latin 'genu', meaning 'knee', with a typically Romanian derived form.",
+        "targetText": "Cuvântul românesc „genunchi” derivă din latinul 'genu', care înseamnă 'genunchi', cu o formă derivată tipic românească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "leg",
+      "targetText": "picior"
+    },
+    {
+      "sourceText": "joint",
+      "targetText": "articulație"
+    },
+    {
+      "sourceText": "thigh",
+      "targetText": "coapsă"
+    },
+    {
+      "sourceText": "lower leg",
+      "targetText": "gambă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "He injured his knee while playing football.",
+      "targetText": "Și-a rănit genunchiul jucând fotbal."
+    },
+    {
+      "sourceText": "The knee is an important joint for walking and running.",
+      "targetText": "Genunchiul este o articulație importantă pentru mers și alergat."
+    },
+    {
+      "sourceText": "She knelt down to comfort the child.",
+      "targetText": "S-a îngenuncheat ca să aline copilul."
+    },
+    {
+      "sourceText": "My knee hurts when I stand for a long time.",
+      "targetText": "Genunchiul mă doare când stau mult în picioare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"genunchi\" by linking it to the English word 'knee'—both relate to the same body part, and the 'ge-' start sounds like 'get' which you do with your knees when you get down."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'genu' in \"genunchi\" is Latin for knee, just like in English medical terms such as 'genual' or 'genu valgum'—this helps connect the words across languages."
+    },
+    {
+      "lang": "en",
+      "text": "Think of bending your knee gently—'genunchi' sounds soft and flexible, just like the joint itself."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself kneeling ('genunchi' sounds a bit like 'knee' plus 'nchi'), which is what you do with your knees to show respect or comfort someone."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

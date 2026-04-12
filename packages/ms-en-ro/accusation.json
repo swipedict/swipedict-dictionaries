@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-accusation",
+  "parent": "ms-ro-acuzatie-31bed4e6@24f9162f7e4b234d57b2a8015014ce15",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "accusation",
+    "genus": "masculine",
+    "definition": "A statement that claims someone has done something wrong or is to blame.",
+    "pronunciation": "/ˌæk.jʊˈzeɪ.ʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'accusation' comes from the Latin 'accusatio', meaning a charge or claim of wrongdoing.",
+        "targetText": "Cuvântul englezesc „accusation“ provine din latină, de la 'accusatio', care înseamnă o acuzație sau o revendicare de vinovăție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acuzație",
+    "genus": "feminine",
+    "definition": "O afirmație prin care se reproșează cuiva un comportament greșit sau o vină.",
+    "pronunciation": "/akuzaˈt͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „acuzație“ comes from the Latin 'accusatio', meaning 'accusation' or 'charge'.",
+        "targetText": "Cuvântul românesc „acuzație“ provine din latină, de la 'accusatio', care înseamnă „acuzație“ sau „învinovățire“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "accusation",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "blame",
+      "targetText": "învinovățire"
+    },
+    {
+      "sourceText": "criticism",
+      "targetText": "critică"
+    },
+    {
+      "sourceText": "accusatory",
+      "targetText": "acuzațios"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "praise",
+      "targetText": "laudă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He made a serious accusation against her.",
+      "targetText": "I-a adus o acuzație grea."
+    },
+    {
+      "sourceText": "The accusation caught him by surprise.",
+      "targetText": "Acuzația l-a luat prin surprindere."
+    },
+    {
+      "sourceText": "She responded to the accusation with silence.",
+      "targetText": "A răspuns acuzației prin tăcere."
+    },
+    {
+      "sourceText": "Accusations can strain a relationship.",
+      "targetText": "Acuzațiile pot afecta o relație."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'acuzație' sounds similar to the English 'accusation', making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the '-ție' ending, a common suffix for abstract nouns in Romanian, similar to '-tion' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone 'throwing' an accusation at you to recall the meaning of 'acuzație'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'acuzație' with its Latin root 'accusatio' to understand its meaning as a charge or claim."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

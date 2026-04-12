@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-back-pain",
+  "parent": "ms-ro-dureri-de-spate-72191037@85989011f14e51345b3d56635c9ae2d0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "back pain",
+    "genus": "masculine",
+    "definition": "Pain experienced in the area of the back.",
+    "pronunciation": "/bæk peɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'back pain' combines 'back', from Old English 'bæc', referring to the rear part of the body, and 'pain', from Old French 'peine', derived from Latin 'poena' meaning punishment or penalty.",
+        "targetText": "Termenul englezesc „back pain” combină „back”, din engleza veche 'bæc', referindu-se la partea din spate a corpului, și „pain”, din franceza veche 'peine', derivat din latină 'poena' care înseamnă pedeapsă sau suferință."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dureri de spate",
+    "genus": "feminine",
+    "definition": "Durere localizată în zona spatelui.",
+    "pronunciation": "/duˈre.ri de ˈspa.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'dureri de spate' consists of 'durere' (from Latin 'dolor', meaning pain) and 'spate' (also from Latin 'spatium', originally meaning space, later back).",
+        "targetText": "Expresia românească „dureri de spate” este compusă din „durere“ (din latină 'dolor', care înseamnă durere) și „spate“ (tot din latină 'spatium', inițial 'spațiu', ulterior 'spate')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "back",
+      "targetText": "spate"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "muscle tension",
+      "targetText": "tensiune musculară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have back pain after sitting for a long time.",
+      "targetText": "Am dureri de spate după ce am stat mult pe scaun."
+    },
+    {
+      "sourceText": "Back pain can be caused by poor posture.",
+      "targetText": "Durerile de spate pot fi cauzate de o postură proastă."
+    },
+    {
+      "sourceText": "If you have back pain, you should rest and possibly see a doctor.",
+      "targetText": "La dureri de spate trebuie să te odihnești și, eventual, să consulți un medic."
+    },
+    {
+      "sourceText": "Many people suffer from back pain in everyday life.",
+      "targetText": "Mulți oameni suferă de dureri de spate în viața de zi cu zi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'back pain' as the pain that hits your 'back'—just like the back of a book supports the pages, your back supports your body."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'spate' sounds like 'spade' in English—imagine your back as a strong spade that supports you."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'durere' means pain in Romanian, similar to 'durable' in English, but here it means something lasting and unpleasant like pain."
+    },
+    {
+      "lang": "en",
+      "text": "The phrase 'dureri de spate' literally means 'pains of the back'—think of it as 'durere' (pain) + 'de' (of) + 'spate' (back)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

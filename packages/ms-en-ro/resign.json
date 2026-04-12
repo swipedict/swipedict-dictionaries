@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-resign",
+  "parent": "ms-ro-a-renunta-dc805908@be47203cc47fca60bea6a9b8617aefcc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "resign",
+    "definition": "to formally end a contract or employment",
+    "pronunciation": "/rɪˈzaɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"resign\" comes from the Latin verb \"resignare,\" meaning \"to unseal, cancel, or give up.\" It entered English through Old French and has been used since the late Middle Ages to denote formally giving up a position or agreement.",
+        "targetText": "Cuvântul englezesc „resign” provine din verbul latin „resignare”, care înseamnă „a desigila, anula sau renunța”. A intrat în limba engleză prin franceza veche și este folosit încă din Evul Mediu târziu pentru a desemna renunțarea formală la o poziție sau un acord."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in formal contexts related to ending employment contracts or subscriptions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a renunța",
+    "definition": "a încheia un contract sau o angajare",
+    "pronunciation": "/a re.nunˈtsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin \"renuntiare,\" meaning \"to announce or give up,\" it is used in formal contexts.",
+        "targetText": "Vom lateinischen „renuntiare“ abstammend, bedeutet es „abmelden“ oder „aufkündigen“ und wird in formalen Kontexten verwendet."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Verb regulat. Este folosit frecvent pentru a anula contracte, abonamente sau alte acorduri."
+  },
+  "senses": [
+    {
+      "gloss": "Resign (end employment)",
+      "explanation": {
+        "sourceText": "Used to indicate the ending of a job or position.",
+        "targetText": "Folosire pentru încheierea unei angajări."
+      },
+      "examples": [
+        {
+          "sourceText": "He resigned from his job.",
+          "targetText": "El renunță la locul său de muncă."
+        }
+      ]
+    },
+    {
+      "gloss": "Resign (terminate contract)",
+      "explanation": {
+        "sourceText": "Used to indicate the termination of a contract.",
+        "targetText": "Utilizare pentru încheierea unui contract."
+      },
+      "examples": [
+        {
+          "sourceText": "I resign my subscription.",
+          "targetText": "Renunț la abonamentul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "work",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "notice period",
+      "targetText": "perioada de preaviz"
+    },
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "accept",
+      "targetText": "a accepta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I resign my subscription.",
+      "targetText": "Renunț la abonamentul meu."
+    },
+    {
+      "sourceText": "Are you resigning your contract?",
+      "targetText": "Renunți la contractul tău?"
+    },
+    {
+      "sourceText": "He resigns his membership.",
+      "targetText": "El renunță la apartenență."
+    },
+    {
+      "sourceText": "We resign the agreement.",
+      "targetText": "Renunțăm la acord."
+    },
+    {
+      "sourceText": "Are you resigning the subscription?",
+      "targetText": "Renunțați la abonament?"
+    },
+    {
+      "sourceText": "They resign the contract today.",
+      "targetText": "Ei renunță la contract astăzi."
+    },
+    {
+      "sourceText": "I have resigned my subscription.",
+      "targetText": "Am renunțat la abonamentul meu."
+    },
+    {
+      "sourceText": "He resigned from his job.",
+      "targetText": "El renunța la locul său de muncă."
+    },
+    {
+      "sourceText": "I will resign.",
+      "targetText": "Voi renunța."
+    },
+    {
+      "sourceText": "Resign your contract!",
+      "targetText": "Renunță la contractul tău!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"a renunța\" as the formal way to say \"resign\" in Romanian — it sounds like \"renounce,\" which means to give up or quit in English."
+    },
+    {
+      "lang": "en",
+      "text": "Practice sentences like \"Renunț la abonament\" to get comfortable with ending contracts or subscriptions."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"renunța\" as similar to \"renounce\" plus \"announce\" — you formally announce giving something up."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"El renunță la locul său de muncă\" to remember it means \"He resigns from his job.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

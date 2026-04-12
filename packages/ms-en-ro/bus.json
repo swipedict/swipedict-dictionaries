@@ -1,0 +1,137 @@
+{
+  "id": "ms-en-ro-bus",
+  "parent": "ms-ro-autobuz-2d9eafd8@b1873eae0cd80776cd97cc93b19484db",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bus",
+    "genus": "masculine",
+    "definition": "a large vehicle designed to carry many passengers",
+    "pronunciation": "/bʌs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Shortened from the English word 'omnibus', meaning 'for all', introduced in the 19th century.",
+        "targetText": "Prescurtare din englezescul „omnibus“, care înseamnă „pentru toți“, introdus în secolul al XIX-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Buses are a common means of transportation in cities and rural areas."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autobuz",
+    "genus": "neuter",
+    "definition": "un vehicul mare care transportă mulți pasageri",
+    "pronunciation": "/autobuʊz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the French word 'autobus', which comes from the Latin 'omnibus', meaning 'for all'.",
+        "targetText": "Provine din francezul „autobus“, derivat din latinescul „omnibus“, care înseamnă „pentru toți“."
+      },
+      "source": "AI + Wiktionary"
+    },
+    "additional": "„Autobuz“ este un cuvânt frecvent folosit în transportul public."
+  },
+  "senses": [
+    {
+      "gloss": "Bus (means of transport)",
+      "explanation": {
+        "sourceText": "A large vehicle used for transporting people.",
+        "targetText": "Un vehicul mare pentru transportul persoanelor."
+      },
+      "examples": [
+        {
+          "sourceText": "The bus goes to school.",
+          "targetText": "Autobuzul merge la școală."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "driver",
+      "targetText": "șofer"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "stop",
+      "targetText": "stație"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bicycle",
+      "targetText": "bicicletă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The bus will arrive in five minutes.",
+      "targetText": "Autobuzul vine în cinci minute."
+    },
+    {
+      "sourceText": "The bus goes to the next stop.",
+      "targetText": "Autobuzul merge la următoarea stație."
+    },
+    {
+      "sourceText": "We take the bus to the concert.",
+      "targetText": "Luăm autobuzul la concert."
+    },
+    {
+      "sourceText": "Please talk to the bus driver.",
+      "targetText": "Te rog să îi vorbești șoferului de autobuz."
+    },
+    {
+      "sourceText": "I forgot my ticket on the bus.",
+      "targetText": "Am uitat biletul în autobuz."
+    },
+    {
+      "sourceText": "The bus is delayed.",
+      "targetText": "Autobuzul are întârziere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'autobuz' by thinking of 'auto' (car) plus 'buzz'—imagine a big car buzzing through the city carrying many people."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'autobuz' as the 'auto for a buzz of people'—a vehicle full of passengers creating a buzz."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself riding an 'autobuz' with friends on a fun trip—this makes the word lively and easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'bus' with 'autobuz' by imagining a crowded city bus full of passengers."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-airline",
+  "parent": "ms-ro-companie-aeriana-83d407ec@b50d2f293f92405d3f44df8aa1b9e0f8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "airline",
+    "genus": "feminine",
+    "definition": "A company that operates aircraft to transport passengers or cargo by air.",
+    "pronunciation": "/ˈɛərˌlaɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"airline\" is a compound of \"air\" and \"line.\" \"Air\" comes from Old English \"ær,\" meaning the invisible gaseous substance surrounding the earth, and \"line\" refers to a route or connection. The term originally described a route through the air for transportation.",
+        "targetText": "Cuvântul englezesc „airline” este un compus din „air” și „line”. „Air” provine din engleza veche „ær”, care înseamnă substanța gazoasă invizibilă ce înconjoară pământul, iar „line” se referă la o rută sau conexiune. Termenul a descris inițial o rută aeriană pentru transport."
+      },
+      "source": "English Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "companie aeriană",
+    "genus": "feminine",
+    "definition": "O firmă care operează avioane și transportă pasageri sau marfă pe calea aerului.",
+    "pronunciation": "/komˈpa.ni.e a.e.riˈa.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „companie aeriană” is a calque from the French „compagnie aérienne”, with both components („companie” and „aeriană”) directly borrowed from French.",
+        "targetText": "Termenul românesc „companie aeriană” este un calc după francezul „compagnie aérienne”, cu ambele componente („companie” și „aeriană”) împrumutate din franceză."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Nominal phrase, feminine."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "pilot",
+      "targetText": "pilot"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The airline offers cheap tickets to Bucharest.",
+      "targetText": "Compania aeriană oferă bilete ieftine spre București."
+    },
+    {
+      "sourceText": "This airline is known for its good service.",
+      "targetText": "Această companie aeriană este cunoscută pentru serviciile sale bune."
+    },
+    {
+      "sourceText": "The airline has added new airplanes to its fleet.",
+      "targetText": "Compania aeriană a introdus avioane noi în flotă."
+    },
+    {
+      "sourceText": "We checked in online with the airline.",
+      "targetText": "Am făcut check-in online la compania aeriană."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"aeriană\" sounds like \"aerial,\" which relates to air or flying, helping you connect it to anything air-related."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"companie\" is very close to the English \"company,\" making it easy to recall it means a business or organization."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an \"airline\" as a line or route in the air, which helps you remember \"companie aeriană\" as a company that operates flights."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a company owning airplanes and flying passengers—that image links directly to the meaning of \"companie aeriană.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

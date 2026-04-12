@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-electricity-bill",
+  "parent": "ms-ro-factura-la-curent-6647c0d6@4aeaf24327b87631677c1742ae464b96",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "electricity bill",
+    "definition": "A document that details the amount of electrical energy consumed and the cost to be paid for it.",
+    "pronunciation": "/ɪˌlɛkˈtrɪsɪti bɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'electricity bill' combines 'electricity', derived from the Greek 'ēlektron' meaning amber, referring to electric phenomena, and 'bill', from Old French 'bille', meaning a written statement or document.",
+        "targetText": "Termenul englezesc „electricity bill” combină „electricity”, derivat din grecescul „ēlektron” care înseamnă chihlimbar, referindu-se la fenomene electrice, și „bill”, din franceza veche „bille”, care înseamnă un document scris sau o declarație."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "Commonly used phrase in everyday contexts.",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "factură la curent",
+    "genus": "feminine",
+    "definition": "Document care arată consumul de energie electrică și costurile aferente.",
+    "pronunciation": "/fakˈtu.rə la kuˈrent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'factură la curent' consists of 'factură' (bill), borrowed from Latin 'factura' meaning 'making, invoice', and 'curent' (current), derived from Latin 'currens', meaning 'flowing'.",
+        "targetText": "Expresia românească „factură la curent” este formată din „factură” (factură), împrumutat din latină 'factura' cu sensul de 'realizare, factură', și „curent” (curent), derivat din latină 'currens', care înseamnă 'curgător'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Nominalphrase, gebräuchlich im Alltag."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "energy consumption",
+      "targetText": "consum de energie"
+    },
+    {
+      "sourceText": "bill",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "electricity",
+      "targetText": "curent"
+    },
+    {
+      "sourceText": "meter reading",
+      "targetText": "contor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I paid the electricity bill for last month.",
+      "targetText": "Am plătit factura la curent pentru luna trecută."
+    },
+    {
+      "sourceText": "The electricity bill is higher than usual this month.",
+      "targetText": "Factura la curent este luna aceasta mai mare decât de obicei."
+    },
+    {
+      "sourceText": "Please check your electricity bill for errors.",
+      "targetText": "Te rog să verifici factura la curent pentru eventuale greșeli."
+    },
+    {
+      "sourceText": "The electricity bill arrives once a month.",
+      "targetText": "Factura la curent vine o dată pe lună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'curent' sounds like 'current' in English, which relates to flowing electricity—easy to link to the Romanian word for electric current."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'factură' as similar to 'facture' or 'factory'—both relate to making or producing, helping you recall it means 'bill' or 'invoice'."
+    },
+    {
+      "lang": "en",
+      "text": "The phrase 'factură la curent' is a fixed expression—learn it as a whole to avoid confusing it with other types of bills."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the 'curent' (electric current) flowing through your home and at the end, you get a 'factură' (bill) to pay."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

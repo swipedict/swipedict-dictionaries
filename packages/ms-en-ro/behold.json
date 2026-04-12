@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-behold",
+  "parent": "ms-ro-a-zari-9c086e71@a77769c2577adeaeaa621ef4f89bb22e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:poetic",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "behold",
+    "definition": "to see or observe something, especially something remarkable or sudden",
+    "pronunciation": "/bɪˈhoʊld/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"behold\" comes from the Old English components 'be-' meaning 'about' or 'around' and 'hold' meaning 'to keep or keep in sight'; it originally meant to look attentively or observe carefully.",
+        "targetText": "Cuvântul englezesc „behold” provine din componentele engleze vechi „be-” care înseamnă „în jur” sau „aproape” și „hold” care înseamnă „a ține” sau „a păstra în vedere”; inițial însemna a privi cu atenție sau a observa cu grijă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is often used in poetic or formal contexts to indicate sudden or notable seeing."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a zări",
+    "definition": "a zări sau a vedea ceva",
+    "pronunciation": "/a zəˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a zări” is an internally formed word expressing the idea of seeing briefly or fleetingly. Its exact origin is uncertain, but it is considered an internal Romanian derivative.",
+        "targetText": "Verbul românesc „a zări” este format intern în limba română și exprimă ideea de a vedea pentru scurt timp sau fugitiv. Originea exactă este nesigură, dar este considerat un derivat intern."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Formerly often used in literary movements."
+  },
+  "senses": [
+    {
+      "gloss": "behold",
+      "explanation": {
+        "sourceText": "The sudden seeing of something or someone.",
+        "targetText": "A vedea brusc sau pentru prima dată ceva sau pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "I behold the light at the end of the tunnel.",
+          "targetText": "Zăresc lumina de la capătul tunelului."
+        }
+      ]
+    },
+    {
+      "gloss": "see",
+      "explanation": {
+        "sourceText": "Meaning in Romanian: the perception through the eyes.",
+        "targetText": "Perceperea vizuală prin ochi."
+      },
+      "examples": [
+        {
+          "sourceText": "I see the stars.",
+          "targetText": "Eu văd stelele."
+        }
+      ]
+    },
+    {
+      "gloss": "watch",
+      "explanation": {
+        "sourceText": "Means to observe something attentively.",
+        "targetText": "A urmări ceva cu atenție."
+      },
+      "examples": [
+        {
+          "sourceText": "I watch the game.",
+          "targetText": "Eu mă uit la joc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "glance",
+      "targetText": "a privi"
+    },
+    {
+      "sourceText": "discover",
+      "targetText": "a descoperi"
+    },
+    {
+      "sourceText": "see",
+      "targetText": "a vedea"
+    },
+    {
+      "sourceText": "perceive",
+      "targetText": "a percepe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "miss",
+      "targetText": "a pierde din vedere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I behold the sun behind the clouds.",
+      "targetText": "Eu văd soarele după nori."
+    },
+    {
+      "sourceText": "Do you behold the animal in the forest?",
+      "targetText": "Zărești animalul în pădure?"
+    },
+    {
+      "sourceText": "The children behold the rainbow.",
+      "targetText": "Copiii zăresc curcubeul."
+    },
+    {
+      "sourceText": "We behold the mountains in the distance.",
+      "targetText": "Noi zărim munții în depărtare."
+    },
+    {
+      "sourceText": "Do you behold the old castle garden?",
+      "targetText": "Zăriți grădina veche a castelului?"
+    },
+    {
+      "sourceText": "They behold the old ruins.",
+      "targetText": "Ei zăresc ruinele vechi."
+    },
+    {
+      "sourceText": "I have beheld the bird.",
+      "targetText": "Am zărit pasărea."
+    },
+    {
+      "sourceText": "They have beheld the city.",
+      "targetText": "Au zărit orașul."
+    },
+    {
+      "sourceText": "Did she often behold the sea?",
+      "targetText": "Zărea ea adesea marea?"
+    },
+    {
+      "sourceText": "I had beheld him before he disappeared.",
+      "targetText": "Zăriserat pe el înainte să dispară."
+    },
+    {
+      "sourceText": "I will behold the stars.",
+      "targetText": "Voi zări stelele."
+    },
+    {
+      "sourceText": "She will behold the night.",
+      "targetText": "Ea o să zărească noaptea."
+    },
+    {
+      "sourceText": "I would behold the apparition if I could.",
+      "targetText": "Aș zări apariția, dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you behold the picture.",
+      "targetText": "Este important să zărești imaginea."
+    },
+    {
+      "sourceText": "Behold the wonder of nature!",
+      "targetText": "Zărește minunea naturii!"
+    },
+    {
+      "sourceText": "Behold the beauty of the city!",
+      "targetText": "Zăriți frumusețea orașului!"
+    },
+    {
+      "sourceText": "The bird that was beheld flew away.",
+      "targetText": "Pasărea zărită a zburat."
+    },
+    {
+      "sourceText": "The discovery is now beheld.",
+      "targetText": "Descoperirea este acum zărită."
+    },
+    {
+      "sourceText": "While I beheld the horizon, I remembered the journey.",
+      "targetText": "Zărind orizontul, mi-am adus aminte de călătorie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'behold' sounds like 'be hold'—imagine holding your gaze on something suddenly appearing."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'behold' as a poetic way to say 'look!' or 'see!' often used in literature or speeches."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'a zări' with 'zebra' to recall the sharp, fleeting glimpse of something unusual in the distance."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the verb forms like 'zăresc' (I behold suddenly) and 'zăriți' (you behold suddenly) to get comfortable with usage."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

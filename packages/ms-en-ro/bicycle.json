@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-bicycle",
+  "parent": "ms-ro-bicicleta-fdb9af53@3440c79ae124d77d0cc91862bf36e9a4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bicycle",
+    "genus": "neuter",
+    "definition": "A vehicle with two wheels that is powered by pedaling.",
+    "pronunciation": "/ˈbaɪsɪkəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bicycle\" comes from the prefix 'bi-' meaning 'two' and the Greek root 'kyklos' meaning 'circle' or 'wheel'. It was formed in the 19th century to describe a two-wheeled vehicle.",
+        "targetText": "Cuvântul englezesc „bicycle” provine de la prefixul 'bi-' care înseamnă 'doi' și rădăcina grecească 'kyklos' care înseamnă 'cerc' sau 'roată'. A fost format în secolul al XIX-lea pentru a desemna un vehicul cu două roți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bicicletă",
+    "genus": "feminine",
+    "definition": "Un vehicul cu două roți, propulsat prin pedale.",
+    "pronunciation": "/bit͡ʃiˈkletə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bicicletă\" comes from the French 'bicyclette', which is composed of the Latin 'bi-' (two) and the Greek 'kyklos' (wheel).",
+        "targetText": "Cuvântul românesc „bicicletă” provine din franceza 'bicyclette', compus din latină 'bi-' (doi) și greacă 'kyklos' (roată)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to drive",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "bicycle helmet",
+      "targetText": "casca de bicicletă"
+    },
+    {
+      "sourceText": "motorcycle",
+      "targetText": "motocicletă"
+    },
+    {
+      "sourceText": "wheel",
+      "targetText": "roată"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I ride my bicycle to work every day.",
+      "targetText": "Merg cu bicicleta la serviciu în fiecare zi."
+    },
+    {
+      "sourceText": "The bicycle has two wheels and pedals.",
+      "targetText": "Bicicleta are două roți și pedale."
+    },
+    {
+      "sourceText": "He repairs his bicycle himself.",
+      "targetText": "El își repară singur bicicleta."
+    },
+    {
+      "sourceText": "Riding a bicycle is fun and healthy.",
+      "targetText": "Mersul cu bicicleta este distractiv și sănătos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'bicycle' comes from 'bi-' meaning two, and 'cycle' meaning wheel or circle, just like the Romanian 'bicicletă'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'bicycle' as a vehicle with two wheels, which helps you recall the Romanian 'bicicletă'."
+    },
+    {
+      "lang": "en",
+      "text": "The 'bi-' prefix in 'bicycle' means two, and 'cletă' in Romanian sounds like 'cycle', making it easier to remember the word for a two-wheeled vehicle."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine riding your 'bicicletă' around town—its sound is very close to 'bicycle', which helps you remember the Romanian word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

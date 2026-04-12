@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-construction-site",
+  "parent": "ms-ro-santier-8f5a5b26@bbc8ea9fb97399943f904218881d42ab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "construction site",
+    "genus": "feminine",
+    "definition": "A place where building or repair work is being carried out, such as a building or a road.",
+    "pronunciation": "/kənˈstrʌkʃən saɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'construction site' combines 'construction', from Latin 'constructio' meaning 'building', and 'site', from Latin 'situs' meaning 'place'.",
+        "targetText": "Cuvântul englezesc „construction site” combină „construction”, din latină „constructio” care înseamnă „construcție”, și „site”, din latină „situs” care înseamnă „loc”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șantier",
+    "genus": "neuter",
+    "definition": "Loc unde se construiește sau se repară o clădire sau o șosea.",
+    "pronunciation": "/ʃanˈtjer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „șantier” was borrowed from the French „chantier” (construction site), which originally derives from the Latin „cantherius” (beam).",
+        "targetText": "Cuvântul românesc „șantier” este împrumutat din francezul „chantier” (șantier, loc de construcție), derivat la origine din latinescul „cantherius” (grindă, bârnă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "worker",
+      "targetText": "muncitor"
+    },
+    {
+      "sourceText": "to build",
+      "targetText": "a construi"
+    },
+    {
+      "sourceText": "building material",
+      "targetText": "material de construcție"
+    },
+    {
+      "sourceText": "workshop",
+      "targetText": "atelier"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The construction site is closed due to repairs.",
+      "targetText": "Șantierul este închis din cauza reparațiilor."
+    },
+    {
+      "sourceText": "In the morning, I visited the construction site.",
+      "targetText": "Dimineața am vizitat șantierul."
+    },
+    {
+      "sourceText": "Many workers are working on the construction site.",
+      "targetText": "Pe șantier lucrează mulți muncitori."
+    },
+    {
+      "sourceText": "The construction site is noisy and dusty.",
+      "targetText": "Șantierul este zgomotos și prăfuit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'șantier' sounds like the French 'chantier', both meaning construction site."
+    },
+    {
+      "lang": "en",
+      "text": "Words ending in '-ier' often come from French, which helps identify loanwords in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: a construction site is a place of building and activity—think of workers and machines moving around."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine singing ('cantare' in Latin means 'to sing') on the 'șantier' to make the hard work easier."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

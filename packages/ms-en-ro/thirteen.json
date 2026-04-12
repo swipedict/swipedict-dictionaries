@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-thirteen",
+  "parent": "ms-ro-treisprezece-ddc09932@8987492571e1a55a68e2a1cbfc4d992d",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "thirteen",
+    "definition": "The number 13, which comes after 12 and before 14.",
+    "pronunciation": "/ˌθɜrˈtin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"thirteen\" is formed by combining \"three\" with an old form of \"ten,\" reflecting its origin in the Old English number system.",
+        "targetText": "Cuvântul englezesc „thirteen” este format prin combinarea cuvântului „three” cu o formă veche a lui „ten”, reflectând originea sa în sistemul numeric din engleza veche."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "treisprezece",
+    "definition": "Numărul 13, care urmează după 12 și înainte de 14.",
+    "pronunciation": "/trei.spɾeˈzeʧe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"treisprezece\" is composed of 'trei' (three) and 'sprezece' (ten), where 'sprezece' derives from the Latin 'decem' meaning ten.",
+        "targetText": "Cuvântul românesc „treisprezece” este format din 'trei' și 'sprezece', unde 'sprezece' provine din latină 'decem' (zece)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "three",
+      "targetText": "trei"
+    },
+    {
+      "sourceText": "fourteen",
+      "targetText": "paisprezece"
+    },
+    {
+      "sourceText": "number",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "ten",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I bought thirteen apples.",
+      "targetText": "Am cumpărat treisprezece mere."
+    },
+    {
+      "sourceText": "Thirteen is an odd number.",
+      "targetText": "Treisprezece este un număr impar."
+    },
+    {
+      "sourceText": "My brother is thirteen years old.",
+      "targetText": "Fratele meu are treisprezece ani."
+    },
+    {
+      "sourceText": "The bus arrives in thirteen minutes.",
+      "targetText": "Autobuzul vine în treisprezece minute."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'treisprezece' as 'trei' (three) + 'sprezece' (ten), so 3 + 10 = 13."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'sprezece' sounds like 'spread' + 'zece' (ten), helping you recall it relates to the number ten."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-sprezece' is typical for Romanian numbers from 11 to 19, similar to the '-teen' suffix in English."
+    },
+    {
+      "lang": "en",
+      "text": "Many Romanian numbers above ten are compound words, just like 'thirteen' in English combines 'three' and 'ten'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "ms-en-ro-huntable",
+  "parent": "ms-ro-vanabil-57a83b7f@6ab332736e4cf7802e3a2b8eda84e0f6",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "huntable",
+    "definition": "capable of being hunted; suitable or permitted for hunting",
+    "pronunciation": "/ˈhʌntəbl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the verb 'hunt' combined with the suffix '-able', which indicates capability or suitability.",
+        "targetText": "Cuvântul englezesc „huntable” provine de la verbul „hunt” combinat cu sufixul „-able”, care indică capacitatea sau potrivirea pentru ceva."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Refers to animal species that are allowed to be hunted, often regulated by hunting laws and seasons."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânabil",
+    "definition": "care poate fi vânat; apt pentru vânătoare sau permis la vânătoare",
+    "pronunciation": "/vɨ.naˈbil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „vânabil” is a neologism formed from the verb „a vâna” (to hunt, of Slavic origin) and the Latin suffix „-abil” (capable of).",
+        "targetText": "Cuvântul „vânabil” este format în limba română din verbul „a vâna” (de origine slavă) și sufixul latin „-abil”, care exprimă posibilitatea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Adjectiv variabil (vânabil, vânabilă, vânabili, vânabile). Se referă la speciile de animale care pot fi vânate."
+  },
+  "senses": [
+    {
+      "gloss": "huntable game",
+      "explanation": {
+        "sourceText": "Animals that are allowed to be hunted according to hunting regulations.",
+        "targetText": "Animale care pot fi vânate conform reglementărilor de vânătoare."
+      },
+      "examples": [
+        {
+          "sourceText": "Only certain animal species are huntable this season.",
+          "targetText": "În acest sezon, doar anumite specii de animale sunt vânabile."
+        },
+        {
+          "sourceText": "The deer is now huntable.",
+          "targetText": "Cerbul este acum vânabil."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "prey",
+      "targetText": "pradă"
+    },
+    {
+      "sourceText": "hunt",
+      "targetText": "vânătoare"
+    },
+    {
+      "sourceText": "to hunt",
+      "targetText": "a vâna"
+    },
+    {
+      "sourceText": "hunter",
+      "targetText": "vânător"
+    },
+    {
+      "sourceText": "game",
+      "targetText": "vânat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "endangered",
+      "targetText": "periclitat"
+    },
+    {
+      "sourceText": "protected",
+      "targetText": "protejat"
+    },
+    {
+      "sourceText": "not huntable",
+      "targetText": "nevânabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The huntable game in this area is diverse.",
+      "targetText": "Fauna vânabilă din această zonă este diversă."
+    },
+    {
+      "sourceText": "Which birds are huntable here?",
+      "targetText": "Ce păsări sunt vânabile aici?"
+    },
+    {
+      "sourceText": "The list of huntable species is updated annually.",
+      "targetText": "Lista speciilor vânabile este actualizată anual."
+    },
+    {
+      "sourceText": "An animal is considered huntable when it reaches a certain size.",
+      "targetText": "Un animal este considerat vânabil dacă a atins o anumită mărime."
+    },
+    {
+      "sourceText": "Not all animals in the forest are huntable.",
+      "targetText": "Nu toate animalele din pădure sunt vânabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'huntable' by linking it to 'hunt' + '-able', meaning something that can be hunted."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'vânabil' as similar to 'vânătoare' (hunting) plus '-abil' (able), so it means 'able to be hunted.'"
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'huntable' sounds like 'hunt' + 'able', making it easy to recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'vânabil' with the English word 'van' (a vehicle) carrying hunters—animals that can be hunted are 'vânabil'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

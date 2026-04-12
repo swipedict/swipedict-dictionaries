@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-if",
+  "parent": "ms-ro-daca-0bcc7781@9946f244e1dceed13e9268b932427740",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "if",
+    "definition": "A conjunction used to introduce conditional or temporal subordinate clauses, expressing conditions, points in time, or repetitions.",
+    "pronunciation": "/ɪf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'if' originates from Old English 'gif' or 'gife', tracing back to the Germanic root *jabai, originally used as a conditional and temporal conjunction.",
+        "targetText": "Cuvântul englezesc „if” provine din engleza veche 'gif' sau 'gife', derivat din rădăcina germanică *jabai, folosit inițial ca o conjuncție condițională și temporală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dacă",
+    "definition": "O conjuncție folosită pentru a introduce propoziții subordonate condiționale sau temporale, echivalentul lui 'wenn' în germană.",
+    "pronunciation": "/ˈdaka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'dacă' derives from the Latin 'dare' (to give), which over time evolved into a conditional conjunction meaning 'if' or 'in case'.",
+        "targetText": "Cuvântul românesc „dacă” provine din latinescul 'dare' (a da), care în timp a evoluat într-o conjuncție condițională cu sensul de 'dacă' sau 'în cazul în care'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "as",
+      "targetText": "când"
+    },
+    {
+      "sourceText": "in case",
+      "targetText": "în cazul în care"
+    },
+    {
+      "sourceText": "whether",
+      "targetText": "dacă"
+    },
+    {
+      "sourceText": "when",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "If it rains, I stay at home.",
+      "targetText": "Dacă plouă, stau acasă."
+    },
+    {
+      "sourceText": "I will call you if I am at home.",
+      "targetText": "Te sun când sunt acasă."
+    },
+    {
+      "sourceText": "If you have time, we can meet.",
+      "targetText": "Dacă ai timp, ne putem întâlni."
+    },
+    {
+      "sourceText": "When I am tired, I drink coffee.",
+      "targetText": "Când sunt obosit, beau cafea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dacă' sounds like 'duh-kah' — think of giving ('dare' in Latin) a condition, just like 'if' sets a condition in English."
+    },
+    {
+      "lang": "en",
+      "text": "In English, 'if' introduces conditions; in Romanian, 'dacă' is your go-to for conditions, while 'când' means 'when' for time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'dacă' as the Romanian 'if' — both start subordinate clauses that express a condition or possibility."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'dacă', imagine you're 'giving' (Latin 'dare') a condition to someone, just like 'if' introduces a condition in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

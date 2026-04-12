@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-withdraw-money",
+  "parent": "ms-ro-a-retrage-bani-6790d524@613e52955028695f9450a222b0ec416a",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "withdraw money",
+    "definition": "To take cash out from a bank account, usually at an ATM.",
+    "pronunciation": "/wɪðˈdrɔː ˈmʌni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'withdraw' comes from the Old English prefix 'with-' meaning 'away' and the verb 'draw', meaning 'to pull or take'.",
+        "targetText": "Cuvântul englezesc „withdraw” provine din prefixul englez vechi „with-” care înseamnă „departe” și verbul „draw”, care înseamnă „a trage sau a lua”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase combining a verb and a noun."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a retrage bani",
+    "definition": "A scoate bani lichizi din contul bancar, de obicei de la un bancomat.",
+    "pronunciation": "/a reˈtraʒe ˈbani/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a retrage' comes from the Latin 'retrahere', meaning 'to pull back', combined with 'bani' meaning money.",
+        "targetText": "Verbul românesc „a retrage” provine din latină, de la 'retrahere', care înseamnă 'a trage înapoi', combinat cu 'bani' pentru bani."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase mit Verb + Substantiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank account",
+      "targetText": "cont bancar"
+    },
+    {
+      "sourceText": "to deposit",
+      "targetText": "a depune"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "ATM",
+      "targetText": "bancomat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I withdraw money at the ATM.",
+      "targetText": "Retrag bani de la bancomat."
+    },
+    {
+      "sourceText": "Can I withdraw money here?",
+      "targetText": "Pot să retrag bani aici?"
+    },
+    {
+      "sourceText": "She withdraws money from her account every month.",
+      "targetText": "Ea retrage bani din contul ei în fiecare lună."
+    },
+    {
+      "sourceText": "Sometimes fees apply when withdrawing money.",
+      "targetText": "La retragerea banilor uneori se percep comisioane."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'withdraw' as 'with' (away) + 'draw' (pull), so you are pulling money away from your account."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a retrage' sounds like 'retract', which also means to pull back or take away."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'bani' as similar to 'bani' in other languages meaning money; it's short and common."
+    },
+    {
+      "lang": "en",
+      "text": "Combine 'a retrage' (to pull back) + 'bani' (money) to remember the phrase means 'to withdraw money'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

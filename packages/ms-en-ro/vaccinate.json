@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-vaccinate",
+  "parent": "ms-ro-a-vaccina-69bb68c9@59b488dd406b73b6a44a327c4e3ac168",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "vaccinate",
+    "definition": "To administer a vaccine to a person or animal to produce immunity against a specific disease.",
+    "pronunciation": "/ˈvæksɪneɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'vaccinate' derives from the Latin word 'vaccinus', meaning 'of or from cows', referring to the use of cowpox material in the first smallpox vaccinations.",
+        "targetText": "Cuvântul englezesc „vaccinate” provine din latinul 'vaccinus', care înseamnă „de la vacă”, referindu-se la utilizarea variolei bovine în primele vaccinări împotriva variolei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vaccina",
+    "definition": "A administra un vaccin pentru a crea imunitate împotriva unei boli.",
+    "pronunciation": "/a vakˈt͡ʃina/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a vaccina” was borrowed from the French „vacciner”, which comes from the Latin 'vaccinus' (“of cows”), referring to the first smallpox vaccination.",
+        "targetText": "Verbul românesc „a vaccina” este împrumutat din francezul „vacciner”, derivat din latinul 'vaccinus' („de la vacă”), referindu-se la prima vaccinare împotriva variolei bovine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb, participle: vaccinat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Immunity",
+      "targetText": "imunitate"
+    },
+    {
+      "sourceText": "Vaccine",
+      "targetText": "vaccin"
+    },
+    {
+      "sourceText": "Vaccination",
+      "targetText": "vaccinare"
+    },
+    {
+      "sourceText": "Disease",
+      "targetText": "boală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "not vaccinate",
+      "targetText": "a nu vaccina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I vaccinate my child against measles.",
+      "targetText": "Îmi vaccinez copilul împotriva rujeolei."
+    },
+    {
+      "sourceText": "He was vaccinated against the flu yesterday.",
+      "targetText": "A fost vaccinat ieri împotriva gripei."
+    },
+    {
+      "sourceText": "We have to get vaccinated every year.",
+      "targetText": "Trebuie să ne vaccinăm în fiecare an."
+    },
+    {
+      "sourceText": "Vaccination protects against serious diseases.",
+      "targetText": "Vaccinarea protejează împotriva bolilor grave."
+    },
+    {
+      "sourceText": "Get vaccinated to protect yourself and others!",
+      "targetText": "Vaccinează-te pentru a te proteja pe tine și pe ceilalți!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'vaccinate' comes from 'vaccine', which relates to cows—think of the first vaccines coming from cowpox."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a vaccina' sounds like 'vaccinate' in English, making it easy to recall their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the '-ina' ending in 'a vaccina'—many Romanian first conjugation verbs share this, like 'a lumina' (to illuminate)."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a vacuum sucking up germs—'vaccinate' protects you by removing threats, just like a vacuum cleans."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

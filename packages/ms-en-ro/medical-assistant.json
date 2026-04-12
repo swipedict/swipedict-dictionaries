@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-medical-assistant",
+  "parent": "ms-ro-asistenta-medicala-0816e7e0@0a3e94f1a51947973d2128442d9c1673",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "medical assistant",
+    "genus": "feminine",
+    "definition": "A person who supports the doctor during consultations by handling administrative tasks and assisting patients.",
+    "pronunciation": "/ˈmɛdɪkəl əˈsɪstənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'medical assistant' combines 'medical', relating to medicine or doctors, and 'assistant', meaning someone who helps or supports.",
+        "targetText": "Termenul englezesc „medical assistant” combină „medical”, referitor la medicină sau medici, și „assistant”, care înseamnă cineva care ajută sau sprijină."
+      },
+      "source": "English word formation"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asistentă medicală",
+    "genus": "feminine",
+    "definition": "O persoană care ajută medicul în timpul consultațiilor, ocupându-se de sarcini administrative și suport pentru pacienți.",
+    "pronunciation": "/a.siˈsten.tə me.diˈka.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „asistentă” comes from the Latin 'assistere', meaning 'to stand by, to help', and „medicală” derives from the Latin 'medicus', meaning 'doctor'.",
+        "targetText": "Cuvântul românesc „asistentă” provine din latină, de la 'assistere', care înseamnă 'a sta alături, a ajuta', iar „medicală” derivă din latină, de la 'medicus', care înseamnă 'medic'."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "patient",
+      "targetText": "pacient"
+    },
+    {
+      "sourceText": "practice",
+      "targetText": "cabinet medical"
+    },
+    {
+      "sourceText": "appointment",
+      "targetText": "programare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The medical assistant organizes the appointments for the doctor.",
+      "targetText": "Asistenta medicală organizează programările pentru medic."
+    },
+    {
+      "sourceText": "In the practice, the medical assistant helps patients fill out the forms.",
+      "targetText": "În cabinet, asistenta medicală ajută pacienții să completeze formularele."
+    },
+    {
+      "sourceText": "The medical assistant answers phone calls and coordinates the procedures.",
+      "targetText": "Asistenta medicală răspunde la telefon și coordonează activitățile."
+    },
+    {
+      "sourceText": "During the consultation, the medical assistant supports the doctor in patient care.",
+      "targetText": "În timpul consultației, asistenta medicală sprijină medicul în îngrijirea pacienților."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'asistentă medicală' by linking it to 'assistant' in English, someone who helps a medical professional."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'medicală' sounds like 'medical' in English, making it easy to recall its connection to medicine."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the 'asistentă' as the medical assistant who organizes appointments and supports the doctor, just like in English."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'asistentă' sounds like 'assistant', so imagine an assistant standing by the doctor to help patients."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

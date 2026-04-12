@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-hold",
+  "parent": "ms-ro-a-tine-b513a197@927f3325f729ed960b27886335652fb6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hold",
+    "definition": "to grasp, keep, or stop something from moving or escaping; to maintain control or possession",
+    "pronunciation": "/hoʊld/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"hold\" originates from Old English \"healdan\", meaning to grasp or keep, which is related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „hold“ provine din engleza veche „healdan“, care înseamnă a prinde sau a ține, fiind legat de cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is used in many contexts, both physical (to grasp something) and figurative (to maintain an opinion)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ține",
+    "definition": "a menține sau bloca ceva; a nu lăsa să scape",
+    "pronunciation": "/a ˈt͡sine/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a ține“ derives from the Latin „tenere“, meaning to hold or keep.",
+        "targetText": "Verbul românesc „a ține“ provine din latină „tenere“, care înseamnă „a ține“ sau „a păstra“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig in der Definition von Eigentum, Verpflichtungen oder Meinungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "to grasp",
+      "explanation": {
+        "sourceText": "The act of enclosing or firmly holding something.",
+        "targetText": "A prinde sau a ține ceva strâns."
+      },
+      "examples": [
+        {
+          "sourceText": "I can't let go of the thought.",
+          "targetText": "Nu pot să scap de gând."
+        }
+      ]
+    },
+    {
+      "gloss": "to hold a meeting",
+      "explanation": {
+        "sourceText": "In relation to organizing a session or appointment.",
+        "targetText": "Referitor la organizarea unei întâlniri sau eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "We are holding the meeting on Wednesday.",
+          "targetText": "Ținem întâlnirea miercuri."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "duration",
+      "targetText": "durata"
+    },
+    {
+      "sourceText": "firm",
+      "targetText": "strâns"
+    },
+    {
+      "sourceText": "retain",
+      "targetText": "a reține"
+    },
+    {
+      "sourceText": "support",
+      "targetText": "sprijin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "release",
+      "targetText": "a elibera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I hold the book in my hand.",
+      "targetText": "Țin cartea în mână."
+    },
+    {
+      "sourceText": "They held the ball tightly.",
+      "targetText": "Ei au ținut mingea strâns."
+    },
+    {
+      "sourceText": "I will hold the next class.",
+      "targetText": "Voi ține următoarea oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'hold' as keeping something firmly in your hands, just like 'a ține' means to keep or hold in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the phrase 'hold on' to help recall 'a ține' when it means to maintain or keep something."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'hold' sounds like 'hole-d'—imagine holding something so tight it leaves a hole in your hand, linking to 'a ține'."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'hold' with 'tenere' (Latin root) to connect the English and Romanian verbs etymologically."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

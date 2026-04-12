@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-flee",
+  "parent": "ms-ro-a-fugi-e10e74a0@6b63ae49a6f7ec543a8b44d486f87e04",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "flee",
+    "definition": "to run away quickly from danger or a threat to reach safety",
+    "pronunciation": "/fliː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"flee\" originates from Old English \"flēon\", meaning to run away or escape.",
+        "targetText": "Cuvântul englezesc „flee“ provine din engleza veche „flēon“, care înseamnă a fugi sau a scăpa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb commonly used in situations involving danger or escape."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fugi",
+    "definition": "a se duce într-un loc sigur pentru a scăpa de o amenințare",
+    "pronunciation": "/a fuˈdʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a fugi“ derives from Latin „fugere“, meaning to flee or escape.",
+        "targetText": "Verbul românesc „a fugi“ derivă din latină, de la „fugere“, însemnând a fugi sau a scăpa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation (-i). Wird oft im Kontext von Flucht vor Gefahr verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "asylum",
+      "targetText": "azil"
+    },
+    {
+      "sourceText": "escape",
+      "targetText": "fugă"
+    },
+    {
+      "sourceText": "danger",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "safety",
+      "targetText": "siguranță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stay",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I flee from the storm.",
+      "targetText": "Eu fug de furtună."
+    },
+    {
+      "sourceText": "We fled from the fire.",
+      "targetText": "Am fugit de foc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"flee\" sounds like \"fleeing\" from danger—imagine running fast to escape trouble."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"flee the scene\" in crime stories to recall the meaning of \"a fugi\"."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"a fugi\" sounds like \"a fugitive\"—someone who runs away to avoid danger."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a movie hero who must \"flee\" to survive—this helps link the English and Romanian words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-false",
+  "parent": "ms-ro-fals-7658d2f9@61f9e719bfd9ee58f8e6370b2d067496",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "false",
+    "definition": "Not true, incorrect, or mistaken; something that is not in accordance with fact or reality.",
+    "pronunciation": "/fɔːls/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"false\" originates from the Old English 'fals', which came from Latin 'falsus', meaning 'deceived' or 'erroneous'.",
+        "targetText": "Cuvântul englezesc „false” provine din engleza veche 'fals', care la rândul său derivă din latină 'falsus', însemnând 'înșelător' sau 'greșit'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fals",
+    "definition": "Nu corect, greșit sau eronat.",
+    "pronunciation": "/fals/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective \"fals\" comes from Latin 'falsus', meaning 'false' or 'counterfeit'.",
+        "targetText": "Adjectivul românesc „fals” provine din latină, din 'falsus', care înseamnă 'fals' sau 'contrafăcut'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "error",
+      "targetText": "greșeală"
+    },
+    {
+      "sourceText": "mistake",
+      "targetText": "eroare"
+    },
+    {
+      "sourceText": "correct",
+      "targetText": "corect"
+    },
+    {
+      "sourceText": "deception",
+      "targetText": "înșelăciune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "correct",
+      "targetText": "corect"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "That is a false answer.",
+      "targetText": "Aceasta este un răspuns fals."
+    },
+    {
+      "sourceText": "He opened the wrong door.",
+      "targetText": "El a deschis ușa greșită."
+    },
+    {
+      "sourceText": "False information can cause problems.",
+      "targetText": "Informațiile false pot cauza probleme."
+    },
+    {
+      "sourceText": "That is not true, but false.",
+      "targetText": "Aceasta nu este adevărat, ci fals."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the English word \"false\" and Romanian \"fals\" both come from the Latin 'falsus', meaning something not genuine."
+    },
+    {
+      "lang": "en",
+      "text": "The English 'false' ends with an 'e' sound, while Romanian drops it, making it simpler as 'fals'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'false' as the opposite of 'true'—both words are common in English and Romanian, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "If something is incorrect or untrue, you can say it's 'false' in English and 'fals' in Romanian—almost identical!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-bitter",
+  "parent": "ms-ro-amar-203c5dff@a66f16bac9e3d00c21e6c657fd689cb5",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bitter",
+    "definition": "A sharp and unpleasant taste often associated with a harsh aftertaste.",
+    "pronunciation": "/ˈbɪtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bitter\" originates from Old English 'biter', which comes from the Proto-Germanic root *bitraz meaning 'biting' or 'sharp in taste'.",
+        "targetText": "Cuvântul englezesc „bitter” provine din engleza veche 'biter', care derivă din rădăcina proto-germanică *bitraz și înseamnă 'mușcător' sau 'cu gust ascuțit'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "amar",
+    "definition": "Un gust aspru și neplăcut, adesea cu o notă înțepătoare.",
+    "pronunciation": "/aˈmar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"amar\" derives from the Latin 'amarus', meaning 'bitter' or 'sharp'.",
+        "targetText": "Cuvântul românesc „amar” provine din latină, din 'amarus', care înseamnă 'amar' sau 'bitter'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "taste",
+      "targetText": "gust"
+    },
+    {
+      "sourceText": "salty",
+      "targetText": "sărat"
+    },
+    {
+      "sourceText": "sour",
+      "targetText": "acru"
+    },
+    {
+      "sourceText": "sweet",
+      "targetText": "dulce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sweet",
+      "targetText": "dulce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The coffee tastes bitter.",
+      "targetText": "Cafeaua are un gust amar."
+    },
+    {
+      "sourceText": "Bitter chocolate is not everyone's favorite.",
+      "targetText": "Ciocolata amară nu este pe placul tuturor."
+    },
+    {
+      "sourceText": "The vegetables have a bitter taste.",
+      "targetText": "Legumele au un gust amar."
+    },
+    {
+      "sourceText": "Some herbs are very bitter.",
+      "targetText": "Unele plante sunt foarte amare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'amar' sounds like 'armour'—think of bitter taste as a strong protective shield for your palate."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'bitter' and Romanian 'amar' both describe a sharp taste; imagine biting into something bitter to link the words."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Italian word 'amaro' meaning bitter, which sounds very similar to 'amar'—this helps connect the Romanian word to a familiar concept."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'amar' with 'alarm'—a bitter taste can be an alarm signal from your taste buds."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

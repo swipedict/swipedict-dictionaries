@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-seamless",
+  "parent": "ms-ro-fara-lacune-c1dd33cc@67058455a9dc04e492eb9dbe06222386",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "seamless",
+    "definition": "describes something done or made without any gaps, interruptions, or breaks; continuous and complete",
+    "pronunciation": "/ˈsiːmləs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"seamless\" is formed from \"seam\" meaning a line where two pieces of fabric are joined, combined with the suffix \"-less\" meaning without. It literally means \"without seams\" or \"continuous.\"",
+        "targetText": "Cuvântul englezesc „seamless” este format din „seam” (cusătură) și sufixul „-less” (fără), însemnând literal „fără cusături” sau „continuu”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fără lacune",
+    "genus": "phrase",
+    "definition": "complet, fără goluri sau omisiuni",
+    "pronunciation": "/ˈfərə laˈku.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "\"Fără lacune\" means \"without gaps,\" where \"lacune\" comes from the Latin \"lacuna,\" meaning \"gap\" or \"empty space.\"",
+        "targetText": "„Fără lacune“ înseamnă „fără goluri“, unde „lacune“ provine din latină, „lacuna“, însemnând „gol“ sau „spațiu liber“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "Complete / comprehensive",
+      "explanation": {
+        "sourceText": "\"Fără lacune\" means that something is complete and without defects.",
+        "targetText": "'Fără lacune' înseamnă că ceva este complet și fără defecte."
+      },
+      "examples": [
+        {
+          "sourceText": "Everything is executed seamlessly.",
+          "targetText": "Totul este executat fără lacune."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "deliver",
+      "targetText": "a expedia"
+    },
+    {
+      "sourceText": "supply",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "donate",
+      "targetText": "a dona"
+    },
+    {
+      "sourceText": "hand over",
+      "targetText": "a înmâna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "receive",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The report is documented seamlessly.",
+      "targetText": "Raportul este documentat fără lacune."
+    },
+    {
+      "sourceText": "Seamlessness is ensured.",
+      "targetText": "Lipsa lacunelor este asigurată."
+    },
+    {
+      "sourceText": "He gave a seamless explanation.",
+      "targetText": "El a dat o explicație fără lacune."
+    },
+    {
+      "sourceText": "The file is seamless and complete.",
+      "targetText": "Dosarul este complet și fără lacune."
+    },
+    {
+      "sourceText": "The results are recorded seamlessly.",
+      "targetText": "Rezultatele sunt înregistrate fără lacune."
+    },
+    {
+      "sourceText": "We need seamless information.",
+      "targetText": "Avem nevoie de informații fără lacune."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"seamless\" like a perfectly sewn garment with no visible stitches—everything fits together smoothly."
+    },
+    {
+      "lang": "en",
+      "text": "Remember \"seamless\" as something continuous, like a smooth road without cracks or breaks."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"seamless\" to the idea of a flawless story with no missing parts—complete and easy to follow."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a \"seamless\" night of sleep where nothing interrupts your rest—perfectly uninterrupted."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

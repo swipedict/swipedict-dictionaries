@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-pharmacy",
+  "parent": "ms-ro-farmacie-39c38e14@bba5467df443536970ed73769179bdb1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pharmacy",
+    "genus": "feminine",
+    "definition": "A place where medicines are sold and pharmaceutical advice is provided.",
+    "pronunciation": "/ˈfɑːrməsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'pharmacy' comes from the Greek word 'pharmakeia', meaning 'the use of drugs or medicine', which passed into Latin as 'pharmacia' and then into Old French before entering English.",
+        "targetText": "Cuvântul englezesc „pharmacy” provine din grecescul 'pharmakeia', care înseamnă 'utilizarea medicamentelor', preluat în latină ca 'pharmacia' și apoi în franceza veche înainte de a intra în limba engleză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "farmacie",
+    "genus": "feminine",
+    "definition": "Un loc unde se vând medicamente și se oferă consultanță farmaceutică.",
+    "pronunciation": "/far.maˈt͡ʃi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'farmacie' was borrowed from the French 'pharmacie', which derives from the Latin 'pharmacia' and the Greek 'pharmakeia' ('remedy, medicine').",
+        "targetText": "Cuvântul românesc „farmacie” este împrumutat din francezul „pharmacie”, provenit din latinul „pharmacia” și grecescul „pharmakeia” („leac, medicament”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "pharmacist",
+      "targetText": "farmacist"
+    },
+    {
+      "sourceText": "remedy",
+      "targetText": "leac"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "prescription",
+      "targetText": "rețetă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I am going to the pharmacy to buy medicines.",
+      "targetText": "Merg la farmacie să cumpăr medicamente."
+    },
+    {
+      "sourceText": "The pharmacy is open daily from 8 a.m. to 8 p.m.",
+      "targetText": "Farmacia este deschisă zilnic de la 8 la 20."
+    },
+    {
+      "sourceText": "At the pharmacy, you also get advice on how to take medicines.",
+      "targetText": "La farmacie primești și sfaturi despre administrarea medicamentelor."
+    },
+    {
+      "sourceText": "The pharmacy is located near the hospital.",
+      "targetText": "Farmacia se află aproape de spital."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'farmacie' sounds like 'pharmacy'—both relate to places where medicines are sold."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pharma' in 'farmacie' as a clue to its connection with pharmaceuticals and medicine."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'pharmacy' comes from Greek 'pharmakeia', meaning the use of drugs, which helps link it to the Romanian 'farmacie'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a pharmacy as a storehouse of remedies—this helps connect the meaning with the Romanian word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

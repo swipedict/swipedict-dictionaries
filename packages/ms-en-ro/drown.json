@@ -1,0 +1,200 @@
+{
+  "id": "ms-en-ro-drown",
+  "parent": "ms-ro-a-se-ineca-d5c7ec73@a928646c9465caae4a1877ef158a236c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "drown",
+    "definition": "to die by being submerged and suffocating in water or another liquid",
+    "pronunciation": "/draʊn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"drown\" originates from Old English \"druncnian\" meaning 'to sink or be submerged in liquid,' reflecting the idea of being completely overwhelmed by water.",
+        "targetText": "Cuvântul englezesc „drown” provine din engleza veche „druncnian”, care înseamnă „a se scufunda sau a fi cufundat într-un lichid”, reflectând ideea de a fi complet copleșit de apă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Often used metaphorically to express being overwhelmed."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se îneca",
+    "definition": "a ajunge sub apă și a muri în acest mod",
+    "pronunciation": "/se ɨˈne.ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian reflexive verb \"a se îneca\" comes from Slavic, probably from Bulgarian \"ineka\" or a related Slavic verb meaning \"to drown.\"",
+        "targetText": "Verbul reflexiv românesc „a se îneca” provine din slavă, probabil din bulgara „ineka” sau dintr-un verb slav înrudit cu sensul de „a se îneca”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular reflexive verb. Frequently used in both literal and metaphorical contexts."
+  },
+  "senses": [
+    {
+      "gloss": "to be overwhelmed",
+      "explanation": {
+        "sourceText": "Symbolic use, e.g., in situations of stress or being overwhelmed.",
+        "targetText": "Utilizare simbolică, de exemplu în situații de stres sau copleșire."
+      },
+      "examples": [
+        {
+          "sourceText": "I am drowning in stress.",
+          "targetText": "Mă înec în stres."
+        }
+      ]
+    },
+    {
+      "gloss": "to die by submersion in water",
+      "explanation": {
+        "sourceText": "The primary meaning is death caused by being submerged underwater.",
+        "targetText": "Sensul principal este moartea prin scufundare în apă."
+      },
+      "examples": [
+        {
+          "sourceText": "The person drowned in the river.",
+          "targetText": "Persoana s-a înecat în râu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "rescue",
+      "targetText": "salvare"
+    },
+    {
+      "sourceText": "swimming",
+      "targetText": "a înota"
+    },
+    {
+      "sourceText": "safety",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to be rescued",
+      "targetText": "a fi salvat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am drowning in stress.",
+      "targetText": "Mă înec în stres."
+    },
+    {
+      "sourceText": "Are you drowning in the paper chaos?",
+      "targetText": "Te îneci în haosul de hârtii?"
+    },
+    {
+      "sourceText": "He is drowning in his problems.",
+      "targetText": "El se îneacă în problemele sale."
+    },
+    {
+      "sourceText": "We are drowning in work.",
+      "targetText": "Noi ne înecăm în muncă."
+    },
+    {
+      "sourceText": "Are you drowning in work stress?",
+      "targetText": "Voi vă înecați în stresul de lucru?"
+    },
+    {
+      "sourceText": "They are drowning in school assignments.",
+      "targetText": "Ei se îneacă în temele școlare."
+    },
+    {
+      "sourceText": "I drowned in traffic.",
+      "targetText": "M-am înecat în trafic."
+    },
+    {
+      "sourceText": "They drowned in the water.",
+      "targetText": "S-au înecat în apă."
+    },
+    {
+      "sourceText": "He drowned every summer in the river.",
+      "targetText": "Se îneca în fiecare vară în râu."
+    },
+    {
+      "sourceText": "I had already drowned before help arrived.",
+      "targetText": "M-am înecat deja înainte de a veni ajutorul."
+    },
+    {
+      "sourceText": "I will not drown!",
+      "targetText": "Nu mă voi îneca!"
+    },
+    {
+      "sourceText": "She will not drown in anger.",
+      "targetText": "Ea nu se va îneca în supărare."
+    },
+    {
+      "sourceText": "I wouldn’t drown if I swim.",
+      "targetText": "Nu m-aș îneca dacă aș înota."
+    },
+    {
+      "sourceText": "It is important that you do not drown.",
+      "targetText": "Este important să nu te îneci."
+    },
+    {
+      "sourceText": "Don’t drown in your worries!",
+      "targetText": "Nu te îneca în grijile tale!"
+    },
+    {
+      "sourceText": "Don’t drown in work!",
+      "targetText": "Nu vă înecați în muncă!"
+    },
+    {
+      "sourceText": "The drowned person was rescued.",
+      "targetText": "Persoana înecată a fost salvată."
+    },
+    {
+      "sourceText": "The boat recently sank.",
+      "targetText": "Barca a fost înecată recent."
+    },
+    {
+      "sourceText": "By calling for help, he should not have drowned.",
+      "targetText": "Chemând ajutor, nu ar fi trebuit să se înece."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'drown' as 'down' + 'own'—you go down and lose control underwater, just like the Romanian 'a se îneca'."
+    },
+    {
+      "lang": "en",
+      "text": "The reflexive 'se' in 'a se îneca' shows the action happens to oneself, similar to how 'drown' implies being overwhelmed personally."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the present tense forms in Romanian: 'mă înec' (I drown), 'te îneci' (you drown), 'se îneacă' (he/she/it drowns) to help recall the verb."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine waves surrounding you to connect the feeling of drowning with the Romanian verb 'a se îneca'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

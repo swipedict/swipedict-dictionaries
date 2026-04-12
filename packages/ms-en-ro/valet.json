@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-valet",
+  "parent": "ms-ro-valet-3d056a97@f99d27aacef3e1feb16ef0574564b0e2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "valet",
+    "genus": "masculine",
+    "definition": "A playing card ranked between ten and queen, often depicting a young man.",
+    "pronunciation": "/ˈvæleɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"valet\" comes from the Old French 'valet', meaning 'servant' or 'young man', originally referring to a male attendant or servant.",
+        "targetText": "Cuvântul englezesc „valet” provine din franceza veche 'valet', care însemna 'servitor' sau 'tânăr', referindu-se inițial la un tânăr slujitor sau valet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "valet",
+    "genus": "masculine",
+    "definition": "O carte de joc cu valoarea între 10 și damă, reprezentând un tânăr bărbat.",
+    "pronunciation": "/vaˈlet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"valet\" comes from the French 'valet', meaning 'servant' or 'young man', adopted in card game terminology.",
+        "targetText": "Cuvântul românesc „valet” provine din franceză, de la 'valet', care înseamnă 'servitor' sau 'băiat', preluat în terminologia jocurilor de cărți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ace (card)",
+      "targetText": "as"
+    },
+    {
+      "sourceText": "queen (card)",
+      "targetText": "damă"
+    },
+    {
+      "sourceText": "card",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "king (card)",
+      "targetText": "rege"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The valet is an important card in the game.",
+      "targetText": "Valetul este o carte importantă în joc."
+    },
+    {
+      "sourceText": "I drew a valet.",
+      "targetText": "Am tras un valet."
+    },
+    {
+      "sourceText": "The valet follows the ten.",
+      "targetText": "Valetul urmează după zece."
+    },
+    {
+      "sourceText": "In card games, the valet is often the second lowest value.",
+      "targetText": "În jocul de cărți, valetul este adesea a doua cea mai mică valoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'valet' sounds like 'valet' in English, a person who serves or assists, just like the card represents a young male servant."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'valet' parking your car carefully, similar to how the valet card plays a supporting role in the deck."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'valet' is a direct borrowing from French, so it’s easy to remember if you know the English word 'valet' too."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the valet card as a young attendant bringing you cards, helping you win the game."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

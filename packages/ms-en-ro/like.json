@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-like",
+  "parent": "ms-ro-a-i-placea-83f363f6@d6426bd1b1af8cc78c9133c7865fc050",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "like",
+    "definition": "to have a preference for or feel affection toward someone or something",
+    "pronunciation": "/laɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"like\" originates from Old English \"līcian\", meaning 'to please' or 'to be pleasing', and evolved to express preference or fondness.",
+        "targetText": "Cuvântul englezesc „like” provine din engleza veche „līcian”, care însemna „a plăcea” sau „a fi plăcut”, și a evoluat pentru a exprima preferință sau afecțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is irregular and frequently used in various tenses."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a-i plăcea",
+    "definition": "a avea o preferință sau o afecțiune pentru cineva sau ceva",
+    "pronunciation": "/a i plɨˈt͡ʃe.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression \"a-i plăcea\" derives from the Latin \"placere\", meaning 'to please', and expresses liking or preference.",
+        "targetText": "Expresia românească „a-i plăcea” provine din latinescul „placere”, care înseamnă „a plăcea”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Commonly used to express personal preferences."
+  },
+  "senses": [
+    {
+      "gloss": "to be fond of",
+      "explanation": {
+        "sourceText": "\"To be fond of\" is often used synonymously when expressing preferences.",
+        "targetText": "'A plăcea' este folosit adesea pentru a exprima preferințe."
+      },
+      "examples": [
+        {
+          "sourceText": "I like dogs.",
+          "targetText": "Îmi plac câinii."
+        }
+      ]
+    },
+    {
+      "gloss": "may like",
+      "explanation": {
+        "sourceText": "\"Like\" can also be used in contexts of doubt or possibility.",
+        "targetText": "'A plăcea' poate exprima și o posibilitate sau o preferință incertă."
+      },
+      "examples": [
+        {
+          "sourceText": "I might like that.",
+          "targetText": "Asta aș putea să-mi placă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "dislike",
+      "targetText": "repulsie"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "feeling",
+      "targetText": "sentiment"
+    },
+    {
+      "sourceText": "preference",
+      "targetText": "preferință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dislike",
+      "targetText": "a nu plăcea"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian phrase \"a-i plăcea\" literally means 'to be pleasing to someone', which is different from the English structure 'to like'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of things you like and practice saying \"Îmi place...\" to express your preferences in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Use \"Îmi place\" with different nouns to get comfortable expressing likes and preferences."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"like\" sounds like 'like' in 'alike' or 'likely', which can help you remember it expresses preference or possibility."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

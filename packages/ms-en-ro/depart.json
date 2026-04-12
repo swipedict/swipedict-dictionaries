@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-depart",
+  "parent": "ms-ro-a-pleca-nava-fbcb33d6@a01b3d38f6020ee2072a74428ffc662e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "depart",
+    "definition": "To set a ship in motion from its berth or harbor, beginning its voyage at sea.",
+    "pronunciation": "/dɪˈpɑːrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'depart' comes from the Old French 'departir', meaning 'to divide or separate', which itself derives from the Latin 'departire'. Over time, it evolved to mean 'to leave' or 'go away'.",
+        "targetText": "Cuvântul englezesc „depart” provine din vechiul francez 'departir', care însemna 'a împărți sau a separa', derivat din latină 'departire'. În timp, a evoluat să însemne 'a pleca' sau 'a se duce'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pleca (navă)",
+    "definition": "A porni o navă din port sau de la chei spre mare.",
+    "pronunciation": "/a ˈplek.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a pleca' derives from the Latin 'plicare', which meant 'to fold', but in Romanian it evolved to mean 'to leave' or 'to set off'.",
+        "targetText": "Verbul românesc „a pleca” provine din latinul 'plicare', care însemna 'a plia', dar în română a evoluat cu sensul de 'a pleca' sau 'a porni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to depart",
+      "targetText": "a pleca"
+    },
+    {
+      "sourceText": "to dock (ship)",
+      "targetText": "a acosta"
+    },
+    {
+      "sourceText": "to sail out (ship)",
+      "targetText": "a ieși în larg"
+    },
+    {
+      "sourceText": "harbor",
+      "targetText": "port"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to dock (ship)",
+      "targetText": "a acosta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The ship departs at 10 o'clock.",
+      "targetText": "Nava pleacă la ora 10."
+    },
+    {
+      "sourceText": "We have to depart soon, otherwise we will miss the tide.",
+      "targetText": "Trebuie să plecăm curând, altfel ratăm mareea."
+    },
+    {
+      "sourceText": "The ship departed at sunrise.",
+      "targetText": "Nava a plecat la răsăritul soarelui."
+    },
+    {
+      "sourceText": "Please depart and set the course!",
+      "targetText": "Vă rog să plecați și să setați cursul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'depart' sounds like 'departure'—both relate to leaving or starting a journey, just like 'a pleca' means to leave."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a ship's 'departure' as it 'pleca'-ing from the port—both words mark the beginning of a voyage."
+    },
+    {
+      "lang": "en",
+      "text": "The 'pl' in 'pleca' can remind you of 'plunge'—the ship plunges into the sea as it leaves."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'pleca' with 'please go' to help remember it means 'to leave' or 'to set off'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

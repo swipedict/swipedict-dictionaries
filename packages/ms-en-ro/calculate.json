@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-calculate",
+  "parent": "ms-ro-a-calcula-f90774e7@1884b9fe8893d51b82254b3629632cf2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "calculate",
+    "definition": "to determine a value or result by using mathematical operations",
+    "pronunciation": "/ˈkælkjʊleɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'calculate' comes from the Latin 'calculare', meaning 'to count' or 'to reckon'. It originally referred to using small stones, called 'calculus', for counting and performing arithmetic.",
+        "targetText": "Cuvântul englezesc „calculate“ provine din latină, din verbul „calculare“, care înseamnă „a număra“ sau „a calcula“. Inițial se referea la folosirea unor pietricele mici, numite „calculus“, pentru numărare și operații aritmetice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in mathematical and everyday contexts to describe computations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a calcula",
+    "definition": "a determina o valoare sau un rezultat prin operații matematice",
+    "pronunciation": "/a kal.kuˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin 'calculare', meaning 'to count' or 'to calculate'. 'Calculus' originally meant 'small stone' used for counting in antiquity.",
+        "targetText": "Derivat din latinescul „calculare“, care înseamnă „a număra“ sau „a calcula“. „Calculus“ înseamnă „piatră mică“ folosită pentru numărare în antichitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb regulat de conjugarea I. Folosit frecvent în contexte matematice și financiare."
+  },
+  "senses": [
+    {
+      "gloss": "calculate costs",
+      "explanation": {
+        "sourceText": "Used to determine financial costs.",
+        "targetText": "Se folosește pentru a determina costurile financiare."
+      },
+      "examples": [
+        {
+          "sourceText": "I have to calculate the costs for the trade fair.",
+          "targetText": "Trebuie să calculez costurile pentru târg."
+        }
+      ]
+    },
+    {
+      "gloss": "calculate mathematically",
+      "explanation": {
+        "sourceText": "Used to describe mathematical calculations.",
+        "targetText": "Se folosește pentru a descrie calcule matematice."
+      },
+      "examples": [
+        {
+          "sourceText": "I calculate the area of a circle.",
+          "targetText": "Eu calculez aria unui cerc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "formula",
+      "targetText": "formulă"
+    },
+    {
+      "sourceText": "equation",
+      "targetText": "ecuație"
+    },
+    {
+      "sourceText": "solution",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "number",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "estimate",
+      "targetText": "a estima"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'calculate' by thinking of a calculator, the device used to perform mathematical operations."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a calcula' sounds similar to 'calculate', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'calculate' as 'call + late'—you 'call' on numbers and 'late' means you take your time to get the right answer."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'calculate' with 'calculus', the branch of mathematics, to remember its Latin root related to counting stones."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

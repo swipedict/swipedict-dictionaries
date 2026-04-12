@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-appointment",
+  "parent": "ms-ro-termin-efafba9c@f05e2c6d97fbd592e6f3ac2316ce42a7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "appointment",
+    "definition": "A scheduled time or deadline set for an event, meeting, or obligation.",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'appointment' comes from the Old French 'apointement', meaning 'agreement' or 'arrangement', which itself derives from the verb 'appointer' meaning 'to arrange or fix'.",
+        "targetText": "Cuvântul englezesc „appointment” provine din franceza veche „apointement”, care înseamnă „acord” sau „aranjament”, derivat din verbul „appointer”, care înseamnă „a aranja sau fixa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "termin",
+    "genus": "neuter",
+    "definition": "Un moment stabilit sau o dată limită pentru un eveniment, o întâlnire sau o obligație.",
+    "pronunciation": "/terˈmin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'termin' was borrowed from Latin 'terminus', meaning 'boundary' or 'end point'. It is used in Romanian to designate fixed moments or deadlines.",
+        "targetText": "Cuvântul românesc „termin” este împrumutat din latină, de la 'terminus', care înseamnă 'graniță' sau 'punct final'. Este folosit pentru a desemna momente sau termene stabilite."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "date",
+      "targetText": "dată"
+    },
+    {
+      "sourceText": "deadline",
+      "targetText": "termen"
+    },
+    {
+      "sourceText": "meeting",
+      "targetText": "întâlnire"
+    },
+    {
+      "sourceText": "point in time",
+      "targetText": "moment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "indefiniteness",
+      "targetText": "incertitudine"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have an appointment with the doctor tomorrow.",
+      "targetText": "Am un termin la doctor mâine."
+    },
+    {
+      "sourceText": "The deadline for submitting the paper is next week.",
+      "targetText": "Termenul pentru predarea lucrării este săptămâna viitoare."
+    },
+    {
+      "sourceText": "Please keep the appointment.",
+      "targetText": "Vă rog să respectați termenul."
+    },
+    {
+      "sourceText": "We need to arrange a new appointment.",
+      "targetText": "Trebuie să stabilim un nou termin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'termin' sounds very similar to the English 'term', which can help you remember it relates to a fixed time or deadline."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'termin' as a 'terminal' point in time — a set limit or deadline you must meet."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'terminus' means boundary or end point, so 'termin' in Romanian is like a boundary in your schedule."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'termin', imagine a calendar marking a specific date or appointment you can't miss."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

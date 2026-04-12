@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-belong",
+  "parent": "ms-ro-a-apartine-e975690a@d0e96bb4705688349f5f63daf3260e47",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "belong",
+    "definition": "To indicate possession or membership; something belongs to someone.",
+    "pronunciation": "/bɪˈlɒŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"belong\" originates from Middle English, derived from Old English components meaning 'to be appropriate or connected to'. It originally conveyed the sense of being assigned or fitting to something.",
+        "targetText": "Cuvântul englezesc „belong” provine din engleza veche mijlocie, derivat din componente care însemnau „a fi potrivit sau conectat la ceva”. Inițial exprima ideea de a fi atribuit sau legat de ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Second conjugation verb; past participle: belonged."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aparține",
+    "definition": "A exprima posesia sau apartenența; ceva aparține cuiva.",
+    "pronunciation": "/a apaˈrține/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a aparține” comes from the Latin 'appartinēre', composed of 'ad-' (to) and 'partīre' (to share), meaning 'to belong to something'.",
+        "targetText": "Verbul românesc „a aparține” provine din latină, din 'appartinēre', compus din 'ad-' (către) și 'partīre' (a împărți), însemnând 'a aparține'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 2. Konjugation, Partizip: aparținut."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "possession",
+      "targetText": "posesie"
+    },
+    {
+      "sourceText": "to own",
+      "targetText": "a deține"
+    },
+    {
+      "sourceText": "property",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "to assign",
+      "targetText": "a aloca"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "not belong",
+      "targetText": "a nu aparține"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The book belongs to me.",
+      "targetText": "Cartea îmi aparține."
+    },
+    {
+      "sourceText": "This house belongs to my family.",
+      "targetText": "Această casă aparține familiei mele."
+    },
+    {
+      "sourceText": "Who does the car belong to?",
+      "targetText": "Cui îi aparține mașina?"
+    },
+    {
+      "sourceText": "The responsibility belongs to all of us.",
+      "targetText": "Responsabilitatea ne aparține tuturor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'belong' by thinking of 'be long'—something that 'be long' to you is yours."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a aparține' sounds like 'a part in'—imagine something being a part in your life, so it belongs to you."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'belong' as 'be' + 'long'—something that stretches into your life, indicating possession."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'belong' with 'beloved' to remember it relates to something close or connected to you."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

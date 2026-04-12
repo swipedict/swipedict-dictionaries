@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-archaeology",
+  "parent": "ms-ro-arheologie-db206c2d@563c5a931dc2287bea68370c6b2cacd2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:greek",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "archaeology",
+    "genus": "feminine",
+    "definition": "The scientific study of human history and prehistory through the excavation and analysis of artifacts and physical remains.",
+    "pronunciation": "/ˌɑːr.kiˈɒl.ə.dʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'archaeology' comes from the Greek 'archaios' meaning 'ancient' and 'logia' meaning 'study', introduced in the 19th century as a scientific discipline.",
+        "targetText": "Cuvântul englezesc „archaeology” provine din greaca veche 'archaios' (vechi) și 'logia' (studiu), fiind introdus în secolul al XIX-lea ca termen științific."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "arheologie",
+    "genus": "feminine",
+    "definition": "Știința care studiază trecutul prin cercetarea vestigiilor materiale și a culturilor vechi.",
+    "pronunciation": "/arheoˈloʒie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'arheologie' was borrowed in the 19th century from the French 'archéologie', which itself derives from the Greek 'archaios' (ancient) and 'logia' (study).",
+        "targetText": "Cuvântul românesc „arheologie” a fost preluat în secolul al XIX-lea din franceza 'archéologie', care provine din greaca veche 'archaios' (vechi) și 'logia' (studiu)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "excavation",
+      "targetText": "săpătură arheologică"
+    },
+    {
+      "sourceText": "research",
+      "targetText": "cercetare"
+    },
+    {
+      "sourceText": "history",
+      "targetText": "istorie"
+    },
+    {
+      "sourceText": "culture",
+      "targetText": "cultură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Archaeology helps us understand the past.",
+      "targetText": "Arheologia ne ajută să înțelegem trecutul."
+    },
+    {
+      "sourceText": "Archaeological finds are often very old.",
+      "targetText": "Descoperirile arheologice sunt adesea foarte vechi."
+    },
+    {
+      "sourceText": "He studies archaeology at the university.",
+      "targetText": "El studiază arheologie la universitate."
+    },
+    {
+      "sourceText": "Archaeology uses modern techniques for research.",
+      "targetText": "Arheologia folosește tehnici moderne pentru cercetare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The suffix '-logy' means 'the study of', as in biology or theology, helping you remember archaeology is a field of study."
+    },
+    {
+      "lang": "en",
+      "text": "The 'archaeo-' part means 'ancient' or 'old', so archaeology is about studying ancient things."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'arheologie' looks very similar to the English 'archaeology', making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine an archaeologist digging up ancient treasures—'archaeo' means old, and '-logy' means study or science."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-account",
+  "parent": "ms-ro-cont-e74af8e0@651645b30690eaca258943e6f42cb13c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:home-living",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "account",
+    "genus": "neuter",
+    "definition": "a record or arrangement in which money is kept or managed, typically at a bank or financial institution",
+    "pronunciation": "/əˈkaʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"account\" derives from the Old French \"acont\", which comes from the Late Latin \"computus\" meaning \"calculation\". It originally referred to a reckoning or financial record.",
+        "targetText": "Cuvântul englezesc „account” provine din francezul vechi „acont”, care la rândul său derivă din latinul târziu „computus”, însemnând „calcul”. Inițial se referea la o înregistrare sau evidență financiară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in banking and accounting contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cont",
+    "genus": "neuter",
+    "definition": "un loc unde se păstrează bani, de exemplu la o bancă",
+    "pronunciation": "/kont/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cont\" was borrowed from the French \"compte\", which originates from the Late Latin \"computus\" (meaning 'calculation').",
+        "targetText": "Substantivul românesc „cont” a fost împrumutat din francezul „compte”, care provine din latinul târziu „computus” („calcul”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In Romanian, \"cont\" is used both for bank accounts and accounting."
+  },
+  "senses": [
+    {
+      "gloss": "savings account",
+      "explanation": {
+        "sourceText": "An account used for saving money.",
+        "targetText": "Cont destinat economisirii banilor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am opening a savings account.",
+          "targetText": "Deschid un cont de economii."
+        }
+      ]
+    },
+    {
+      "gloss": "payment account",
+      "explanation": {
+        "sourceText": "The account is often used as a payment account.",
+        "targetText": "Cont folosit pentru plăți."
+      },
+      "examples": [
+        {
+          "sourceText": "I need a payment account for my salary.",
+          "targetText": "Am nevoie de un cont de plată pentru salariul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "deposit",
+      "targetText": "depunere"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "saving",
+      "targetText": "economisire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "withdrawal",
+      "targetText": "retragere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I opened a new account at the bank.",
+      "targetText": "Am deschis un cont nou la bancă."
+    },
+    {
+      "sourceText": "How much money is in my account?",
+      "targetText": "Câți bani sunt în contul meu?"
+    },
+    {
+      "sourceText": "The account must be checked regularly.",
+      "targetText": "Contul trebuie verificat periodic."
+    },
+    {
+      "sourceText": "I have an overview of my account transactions.",
+      "targetText": "Am un rezumat al mișcărilor contului meu."
+    },
+    {
+      "sourceText": "My account was hacked.",
+      "targetText": "Contul meu a fost piratat."
+    },
+    {
+      "sourceText": "The bank sends me an account statement.",
+      "targetText": "Banca îmi trimite un extras de cont."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"cont\" sounds like the English \"count\" which relates to numbers and calculations, helping you remember its financial meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"cont\" as short for \"account\" without the 'a' and 'u'—this makes it easier to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"cont\" is used for both bank accounts and bookkeeping, just like \"account\" in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine keeping a 'count' of your money in a \"cont\" to link the sound and meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

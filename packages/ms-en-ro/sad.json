@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-sad",
+  "parent": "ms-ro-trist-1f3ab6ba@5ea788eb5d16704808c8ef7aa4c2e9bd",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sad",
+    "definition": "feeling sorrowful, unhappy, or downhearted",
+    "pronunciation": "/sæd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'sad' originates from Old English 'sæd', meaning 'sated' or 'weary', which evolved to express feelings of sorrow or unhappiness.",
+        "targetText": "Cuvântul englezesc „sad” provine din engleza veche „sæd”, însemnând „sătul” sau „obosit”, care a evoluat pentru a exprima sentimente de tristețe sau nefericire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The opposite would be 'happy' or 'cheerful'.",
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "trist",
+    "genus": "masculine",
+    "definition": "trist, deprimat sau nefericit",
+    "pronunciation": "/trist/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'trist' derives directly from Latin 'tristis', having the same meaning of sadness or melancholy. The term is used in Romanian to describe a sad state.",
+        "targetText": "Cuvântul românesc „trist” derivă direct din latină „tristis”, având același sens de tristețe sau melancolie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word can also be used figuratively to describe a gloomy environment."
+  },
+  "senses": [
+    {
+      "gloss": "depressed",
+      "explanation": {
+        "sourceText": "It is also used to describe a depressive state.",
+        "targetText": "Este folosit și pentru a descrie o stare depresivă."
+      },
+      "examples": [
+        {
+          "sourceText": "He was depressed because of the bad news.",
+          "targetText": "El a fost deprimat din cauza veștilor proaste."
+        }
+      ]
+    },
+    {
+      "gloss": "sad",
+      "explanation": {
+        "sourceText": "The word 'sad' describes a state of sorrow.",
+        "targetText": "Cuvântul „trist“ descrie o stare de tristețe."
+      },
+      "examples": [
+        {
+          "sourceText": "I feel so sad today.",
+          "targetText": "Mă simt atât de trist astăzi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "joy",
+      "targetText": "bucurie"
+    },
+    {
+      "sourceText": "hope",
+      "targetText": "speranță"
+    },
+    {
+      "sourceText": "smile",
+      "targetText": "zâmbet"
+    },
+    {
+      "sourceText": "sadness",
+      "targetText": "tristețe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cheerful",
+      "targetText": "vesel"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "There are gloomy and sad days in winter.",
+      "targetText": "Există zile triste și sumbru în iarnă."
+    },
+    {
+      "sourceText": "The sad music made all the guests melancholic.",
+      "targetText": "Muzica tristă i-a făcut pe toți oaspeții melancolici."
+    },
+    {
+      "sourceText": "His sad eyes were a sign of his sorrowful thoughts.",
+      "targetText": "Ochii lui triști erau un semn al gândurilor lui triste."
+    },
+    {
+      "sourceText": "The sad landscape was barely bearable.",
+      "targetText": "Peisajul trist era greu de suportat."
+    },
+    {
+      "sourceText": "A sad sight that weighs heavily on the heart.",
+      "targetText": "O priveliște tristă care îți îngreunează inima."
+    },
+    {
+      "sourceText": "The sad story behind the old house was unforgettable.",
+      "targetText": "Povestea tristă din spatele casei vechi era de neuitat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'trist' sounds like 'tryst' but means 'sad'—imagine a sad secret meeting to recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'triste' in French or Spanish, which also means sad, to connect with Romanian 'trist'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'trist' with the English word 'tristful' (an old poetic form meaning sad) to remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a rainy, gray day when you hear 'trist'—this gloomy image helps you recall the word means sad."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

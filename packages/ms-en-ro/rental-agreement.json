@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-rental-agreement",
+  "parent": "ms-ro-contract-de-inchiriere-154ef41c@8a3b495bd942bb5d39fc9f2675d1f1e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "rental agreement",
+    "genus": "masculine",
+    "definition": "A legally binding contract that outlines the terms and conditions under which a property or item is rented from a landlord to a tenant.",
+    "pronunciation": "/ˈrɛn.təl əˈɡriː.mənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term “rental agreement” combines “rental,” derived from the verb “rent,” which comes from Old French 'rente' meaning payment, and “agreement,” from Old French 'agreer' meaning to agree or consent.",
+        "targetText": "Termenul englezesc „rental agreement” combină „rental”, derivat din verbul „rent”, care provine din franceza veche 'rente' însemnând plată, și „agreement”, din franceza veche 'agreer' care înseamnă a fi de acord sau a consimți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "contract de închiriere",
+    "genus": "neuter",
+    "definition": "Un acord legal între proprietar și chiriaș care stabilește condițiile pentru închirierea unei proprietăți sau a unui bun.",
+    "pronunciation": "/konˈtrakt de ɨn.ki.riˈe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase „contract de închiriere” is a modern internal formation composed of „contract” (from Latin „contractus”) and „închiriere” (from „chirie”, derived from Modern Greek „kiriá” through Turkish „kira”).",
+        "targetText": "Expresia românească „contract de închiriere” este o formare internă modernă, compusă din „contract” (din latină „contractus”) și „închiriere” (de la „chirie”, provenit din grecescul modern „kiriá” prin turcescul „kira”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rent",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "tenant",
+      "targetText": "chiriaș"
+    },
+    {
+      "sourceText": "landlord",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The rental agreement was signed yesterday.",
+      "targetText": "Contractul de închiriere a fost semnat ieri."
+    },
+    {
+      "sourceText": "The rental agreement states all rights and obligations of the tenant and landlord.",
+      "targetText": "În contractul de închiriere sunt stipulate toate drepturile și obligațiile chiriașului și proprietarului."
+    },
+    {
+      "sourceText": "The rental agreement is valid for one year with the option to renew.",
+      "targetText": "Contractul de închiriere este valabil pentru un an, cu opțiunea de prelungire."
+    },
+    {
+      "sourceText": "Please read the rental agreement carefully before signing.",
+      "targetText": "Vă rugăm să citiți cu atenție contractul de închiriere înainte de a semna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “contract” sounds very similar to the English “contract,” both coming from Latin, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of “închiriere” as related to the English word “hire,” which also means to rent or lease something temporarily."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix “în-” in Romanian often implies ‘in’ or ‘into,’ so imagine putting something ‘into’ a rental agreement."
+    },
+    {
+      "lang": "en",
+      "text": "Combine “contract de închiriere” as ‘contract of hiring’—this helps link the Romanian phrase to the English concept of a rental agreement."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

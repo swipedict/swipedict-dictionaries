@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-health-insurance",
+  "parent": "ms-ro-asigurare-de-sanatate-b5db9d08@5c0370892a361b9d459cae8e8a813137",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:italian",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "health insurance",
+    "genus": "feminine",
+    "definition": "A system of coverage that pays for medical treatments and health care services.",
+    "pronunciation": "/hɛlθ ɪnˈʃʊərəns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'health insurance' combines 'health', meaning the state of being free from illness or injury, and 'insurance', which refers to a contract or arrangement providing financial protection against loss or risk. The word 'insurance' derives from the Old French 'enseurance', based on the verb 'ensurer', meaning to assure or make safe.",
+        "targetText": "Cuvântul englezesc „health insurance” combină „health”, care înseamnă starea de a fi sănătos, fără boală sau accident, și „insurance”, care se referă la un contract sau aranjament ce oferă protecție financiară împotriva pierderilor sau riscurilor. Cuvântul „insurance” provine din franceza veche „enseurance”, bazat pe verbul „ensurer”, care înseamnă a asigura sau a face sigur."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asigurare de sănătate",
+    "genus": "feminine",
+    "definition": "Un sistem de asigurare care acoperă costurile tratamentelor medicale și serviciilor de sănătate.",
+    "pronunciation": "/asiɡuˈrare de sə.nəˈtate/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „asigurare” was borrowed from the Italian „assicurare”, which derives from the Latin „securus” meaning 'safe'. „Sănătate” comes from the Latin „sanitas”, meaning 'health'.",
+        "targetText": "Cuvântul românesc „asigurare” a fost împrumutat din italiană „assicurare”, derivat din latinul „securus” („sigur”). „Sănătate” provine din latinul „sanitas” („sănătate”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "insurance",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lack of health insurance",
+      "targetText": "lipsa asigurării de sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Health insurance covers the costs of visiting the doctor.",
+      "targetText": "Asigurarea de sănătate acoperă costurile pentru vizita la doctor."
+    },
+    {
+      "sourceText": "In Germany, health insurance is mandatory for everyone.",
+      "targetText": "În Germania, asigurarea de sănătate este obligatorie pentru toți."
+    },
+    {
+      "sourceText": "Many people pay monthly contributions for their health insurance.",
+      "targetText": "Mulți oameni plătesc lunar contribuții pentru asigurarea de sănătate."
+    },
+    {
+      "sourceText": "Private health insurance often offers additional services.",
+      "targetText": "Asigurarea privată de sănătate oferă adesea servicii suplimentare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'asigurare' sounds like 'assure' in English, which means to guarantee or promise, helping you link it to 'insurance'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sănătate' as related to 'sanitary' or 'sanitation', words connected to health and cleanliness."
+    },
+    {
+      "lang": "en",
+      "text": "The phrase 'asigurare de sănătate' literally means 'insurance of health', similar to the English 'health insurance'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine having a 'secure' (asigurare) health (sănătate) plan to keep you safe and protected."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

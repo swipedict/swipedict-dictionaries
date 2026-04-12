@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-gold",
+  "parent": "ms-ro-aur-5a17e5a6@128cd1f95895a587963d7b96fe7818f1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "Etymological Dictionaries, Linguistic Analysis",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "gold",
+    "genus": "neuter",
+    "definition": "a valuable yellow metal often used for making jewelry",
+    "pronunciation": "/ɡoʊld/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"gold\" comes from Old English \"gold\", which traces back to the Proto-Germanic root \"*gulþą\" meaning the precious yellow metal.",
+        "targetText": "Cuvântul englezesc „gold” provine din engleza veche „gold”, care derivă din rădăcina proto-germanică „*gulþą” ce desemnează metalul prețios galben."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Gold is often used as a measure of value and in jewelry making."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aur",
+    "genus": "neuter",
+    "definition": "un metal prețios, galben, folosit adesea la bijuterii",
+    "pronunciation": "/aur/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"aur\" comes from the Latin \"aurum\", which also means \"gold\" and is used for valuables and jewelry.",
+        "targetText": "Cuvântul românesc „aur” provine din latinescul „aurum”, însemnând metal prețios galben."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Aur este considerat un simbol al bogăției și al puterii."
+  },
+  "senses": [
+    {
+      "gloss": "gold (metal)",
+      "explanation": {
+        "sourceText": "Corresponding to the English word 'gold' for the chemical element.",
+        "targetText": "Metalul prețios galben, cunoscut ca aur."
+      },
+      "examples": [
+        {
+          "sourceText": "Gold is a valuable metal.",
+          "targetText": "Aurul este un metal valoros."
+        }
+      ]
+    },
+    {
+      "gloss": "gold (jewelry)",
+      "explanation": {
+        "sourceText": "Used in the making of jewelry.",
+        "targetText": "Folosit la fabricarea bijuteriilor."
+      },
+      "examples": [
+        {
+          "sourceText": "My ring is made of gold.",
+          "targetText": "Inelul meu este din aur."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "to deliver",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "to send in",
+      "targetText": "a trimite"
+    },
+    {
+      "sourceText": "to hand over",
+      "targetText": "a înmâna"
+    },
+    {
+      "sourceText": "to present",
+      "targetText": "a oferi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to receive",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Gold is highly valued in the jewelry industry.",
+      "targetText": "Aurul este foarte apreciat în industria bijuteriilor."
+    },
+    {
+      "sourceText": "I found a gold ring.",
+      "targetText": "Am găsit un inel de aur."
+    },
+    {
+      "sourceText": "Gold is often seen as an investment.",
+      "targetText": "Aurul este adesea văzut ca o investiție."
+    },
+    {
+      "sourceText": "Gold has a high value.",
+      "targetText": "Aurul are o valoare înaltă."
+    },
+    {
+      "sourceText": "A gold coin can be very expensive.",
+      "targetText": "O monedă de aur poate fi foarte scumpă."
+    },
+    {
+      "sourceText": "Goldsmiths are masters in working with gold.",
+      "targetText": "Aurarii sunt maeștri în prelucrarea aurului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the phrase 'golden opportunity' to remember that \"aur\" means gold, symbolizing value and rarity."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word \"gold\" with Romanian \"aur\" by imagining a shiny golden ring labeled 'aur' in a jewelry store."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the sound 'aur' like 'awe' to evoke the awe inspired by gold's beauty and worth."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a treasure chest filled with gold coins and the word \"aur\" engraved on them to help recall the Romanian term."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

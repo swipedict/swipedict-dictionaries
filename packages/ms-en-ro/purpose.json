@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-purpose",
+  "parent": "ms-ro-scop-a03fa343@6d1aee0484d9f180a276ffcf6b315c2f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "purpose",
+    "genus": "masculine",
+    "definition": "The purpose is the reason or goal behind an action or thing.",
+    "pronunciation": "/ˈpɜːrpəs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'purpose' comes from Old French 'porpos', derived from Latin 'propositum', meaning 'a thing proposed or intended'.",
+        "targetText": "Cuvântul englezesc „purpose“ provine din franceza veche „porpos“, derivat din latină „propositum“, care înseamnă „un lucru propus sau intenționat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scop",
+    "genus": "neuter",
+    "definition": "Țelul sau motivul pentru o acțiune sau un lucru.",
+    "pronunciation": "/skop/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'scop' derives from Latin 'scopus', meaning 'goal' or 'intention', borrowed from Greek 'skopos' (observer, target).",
+        "targetText": "Cuvântul românesc „scop“ provine din latină, din „scopus“, care înseamnă „țel“ sau „intenție“, împrumutat din grecescul „skopos“ („observator“, „țintă“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "intention",
+      "targetText": "intenție"
+    },
+    {
+      "sourceText": "result",
+      "targetText": "rezultat"
+    },
+    {
+      "sourceText": "motivation",
+      "targetText": "motivație"
+    },
+    {
+      "sourceText": "goal",
+      "targetText": "țintă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "pointlessness",
+      "targetText": "lipsă de scop"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The purpose of this project is to improve the environment.",
+      "targetText": "Scopul acestui proiect este îmbunătățirea mediului."
+    },
+    {
+      "sourceText": "Every action has a purpose.",
+      "targetText": "Fiecare acțiune are un scop."
+    },
+    {
+      "sourceText": "The end justifies the means.",
+      "targetText": "Scopul scuză mijloacele."
+    },
+    {
+      "sourceText": "What is the purpose of your trip?",
+      "targetText": "Care este scopul călătoriei tale?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'scop' sounds like 'scope' in English, which relates to range or goal, helping you link it to 'purpose'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'scop' as the 'scope' or aim of something, just like 'purpose' is the reason behind an action."
+    },
+    {
+      "lang": "en",
+      "text": "The Greek root 'skopos' means observer or target, which connects to the idea of a goal or purpose."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'scop' with 'scope' in English, often used in phrases like 'within the scope', meaning within the purpose or range."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

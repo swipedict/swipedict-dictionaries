@@ -1,0 +1,121 @@
+{
+  "id": "ms-en-ro-sterile",
+  "parent": "ms-ro-steril-9b90de51@861ab6bfa1fe3cc13d7b63eae6e487f1",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sterile",
+    "definition": "completely free from bacteria, germs, or any living microorganisms; uncontaminated",
+    "pronunciation": "/ˈstɛrəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word 'sterile' comes from the Latin 'sterilis', meaning 'unfruitful' or 'pure'.",
+        "targetText": "Cuvântul „steril“ provine din latinul „sterilis“, care înseamnă „infertil“ sau „curat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in medical contexts, especially in surgery."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "steril",
+    "genus": "masculine",
+    "definition": "lipsit de microorganisme sau germeni; steril",
+    "pronunciation": "/steˈril/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'steril' also derives from the Latin 'sterilis' and is used in medical contexts.",
+        "targetText": "Cuvântul românesc „steril“ derivă tot din latinul „sterilis“ și este folosit în contexte medicale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Frequenter Gebrauch findet es in der Medizin, insbesondere in der Chirurgie."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "disinfection",
+      "targetText": "dezinfectare"
+    },
+    {
+      "sourceText": "hygiene",
+      "targetText": "higienă"
+    },
+    {
+      "sourceText": "germ",
+      "targetText": "germe"
+    },
+    {
+      "sourceText": "cleanliness",
+      "targetText": "curățenie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "contaminated",
+      "targetText": "infectat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The room must be sterile.",
+      "targetText": "Sala trebuie să fie sterilă."
+    },
+    {
+      "sourceText": "Sterile instruments are important.",
+      "targetText": "Instrumentele sterile sunt importante."
+    },
+    {
+      "sourceText": "After the operation, everything should be sterile.",
+      "targetText": "După operație, totul trebuie să fie steril."
+    },
+    {
+      "sourceText": "This mixture is sterile.",
+      "targetText": "Această amestecă este sterilă."
+    },
+    {
+      "sourceText": "We need sterile conditions.",
+      "targetText": "Avem nevoie de condiții sterile."
+    },
+    {
+      "sourceText": "Single-use strips were not processed sterilely.",
+      "targetText": "Benzi de unică folosință nu au fost prelucrate steril."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'sterile room' as a place completely free of germs—this helps you remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'sterile' as an invisible shield protecting against bacteria."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'sterile' with hospitals and operating rooms—where everything must be germ-free!"
+    },
+    {
+      "lang": "en",
+      "text": "When you think of strict hygiene, 'sterile' is always present."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

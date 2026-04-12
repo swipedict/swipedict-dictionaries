@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-restless",
+  "parent": "ms-ro-nelinistit-9858e2d8@2db6139667ebd55e83ec742b70a6c4e7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "restless",
+    "definition": "Restless describes a state of inner unease or nervousness, often accompanied by physical or emotional discomfort.",
+    "pronunciation": "/ˈrɛst.ləs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'restless' is formed from the root 'rest' meaning peace or calm, combined with the suffix '-less' indicating absence, thus meaning 'without rest' or 'unable to remain still'.",
+        "targetText": "Cuvântul englezesc „restless” este format din rădăcina „rest” care înseamnă pace sau liniște, combinată cu sufixul „-less” care indică absența, deci înseamnă „fără odihnă” sau „incapabil să stea liniștit”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The feeling of restlessness can be both emotional and physical, often causing discomfort or stress."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neliniștit",
+    "genus": "masculine",
+    "definition": "neliniștit descrie o stare de anxietate sau nervozitate",
+    "pronunciation": "/ne.liˈniʃ.tit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'neliniștit' comes from 'neliniște', meaning 'lack of calm'. It describes a state of inner discomfort and tension.",
+        "targetText": "Cuvântul românesc „neliniștit” derivă din „neliniște” (lipsa liniștii), format prin prefixul negativ „ne-“ și „liniște“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In many cultures, restlessness can represent unease about future developments."
+  },
+  "senses": [
+    {
+      "gloss": "Anxiety / Angst",
+      "explanation": {
+        "sourceText": "'Neliniște' implies a state of anxiety or fear.",
+        "targetText": "„Neliniște“ implică o stare de anxietate sau teamă."
+      },
+      "examples": [
+        {
+          "sourceText": "He is constantly restless because of the exams.",
+          "targetText": "El are neliniște din cauza examenelor."
+        }
+      ]
+    },
+    {
+      "gloss": "Restlessness / Discomfort",
+      "explanation": {
+        "sourceText": "Neliniște also refers to a state of discomfort.",
+        "targetText": "Neliniște se referă și la o stare de disconfort fizic sau emoțional."
+      },
+      "examples": [
+        {
+          "sourceText": "I feel restlessness in my stomach.",
+          "targetText": "Simt neliniște în stomac."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anxious",
+      "targetText": "anxios"
+    },
+    {
+      "sourceText": "Worried",
+      "targetText": "îngrijorat"
+    },
+    {
+      "sourceText": "Nervous",
+      "targetText": "nervos"
+    },
+    {
+      "sourceText": "Discomfort",
+      "targetText": "inconfort"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "calm",
+      "targetText": "calm"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He felt restless before the big event.",
+      "targetText": "El se simțea neliniștit înainte de marea eveniment."
+    },
+    {
+      "sourceText": "The restless night led to tiredness the next day.",
+      "targetText": "Noaptea neliniștită a dus la oboseală a doua zi."
+    },
+    {
+      "sourceText": "In restless times, it is important to stay focused.",
+      "targetText": "În vremuri neliniștite, este important să rămâi concentrat."
+    },
+    {
+      "sourceText": "The child was restless and could not sit still.",
+      "targetText": "Copilul era neliniștit și nu putea sta liniștit."
+    },
+    {
+      "sourceText": "Restless thoughts can affect sleep.",
+      "targetText": "Gândurile neliniștite pot afecta somnul."
+    },
+    {
+      "sourceText": "The restless crowd was a sign of dissatisfaction.",
+      "targetText": "Mulțimea neliniștită era un semn de nemulțumire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'restless' as 'without rest'—someone who can’t stay calm or still."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a restless crowd pacing back and forth, unable to relax."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'restless' to the image of a stormy sea that never settles."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'neliniștit', picture sitting on a hot seat, feeling uneasy and unable to stay still."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

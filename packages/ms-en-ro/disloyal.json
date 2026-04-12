@@ -1,0 +1,135 @@
+{
+  "id": "ms-en-ro-disloyal",
+  "parent": "ms-ro-neloyal-42992f7c@6b5135a116a39633c5d4a5a6f45e0f22",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "disloyal",
+    "definition": "not loyal; unfaithful or betraying trust",
+    "pronunciation": "/dɪsˈlɔɪəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"disloyal\" comes from the French word \"loyal\" with the negative prefix \"dis-\" indicating the opposite.",
+        "targetText": "Cuvântul englezesc „disloyal” provine din franceza „loyal”, cu prefixul negativ „dis-” care exprimă contrariul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Often used in political or business contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neloyal",
+    "definition": "care nu este loial; trădător",
+    "pronunciation": "/neˈlojal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "\"Neloyal\" is derived from the Romanian \"loyal\" with the negative prefix \"ne-\" meaning \"not loyal.\"",
+        "targetText": "„Neloyal“ provine din „loyal“ cu prefixul negativ „ne-“, indicând lipsa loialității."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um fehlendes Vertrauen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "unloyal",
+      "explanation": {
+        "sourceText": "'Neloyal' describes a lack of trust or loyalty.",
+        "targetText": "'Neloyal' descrie lipsa încrederii sau a loialității."
+      },
+      "examples": [
+        {
+          "sourceText": "His disloyal behavior disappointed many.",
+          "targetText": "Comportamentul său neloyal a dezamăgit pe mulți."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "help",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "traitor",
+      "targetText": "trădător"
+    },
+    {
+      "sourceText": "loyalty",
+      "targetText": "loialitate"
+    },
+    {
+      "sourceText": "trust",
+      "targetText": "încredere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loyal",
+      "targetText": "loial"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "His disloyal behavior disappointed many.",
+      "targetText": "Comportamentul său neloyal a dezamăgit pe mulți."
+    },
+    {
+      "sourceText": "Disloyalty is often observed in politics.",
+      "targetText": "În politică, neloyalitatea este frecvent întâlnită."
+    },
+    {
+      "sourceText": "Illegal businesses are often characterized by disloyal partners.",
+      "targetText": "Afacerile ilegale sunt adesea caracterizate de parteneri neloyali."
+    },
+    {
+      "sourceText": "Many found his disloyal behavior unacceptable.",
+      "targetText": "Mulți au considerat comportamentul său neloyal inacceptabil."
+    },
+    {
+      "sourceText": "Disloyalty can destroy trust within a team.",
+      "targetText": "Neloyalitatea poate distruge încrederea într-o echipă."
+    },
+    {
+      "sourceText": "One should always be loyal and never disloyal.",
+      "targetText": "Trebuie să fiți mereu loiali și niciodată neloyali."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'disloyal' by thinking of the prefix 'dis-' meaning 'not' or 'opposite of' loyalty."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'neloyal' is similar to 'disloyal'—both use a negative prefix to show lack of loyalty."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'disloyal' friend as someone who 'dis-'connects from trust and loyalty."
+    },
+    {
+      "lang": "en",
+      "text": "Disloyal sounds like 'this loyal' with a twist—imagine someone who acts the opposite of loyal."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

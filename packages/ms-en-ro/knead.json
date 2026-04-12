@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-knead",
+  "parent": "ms-ro-a-framanta-9ac2ae52@18cbc4348c1090324355b46f7c7e62b8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "knead",
+    "definition": "To work dough or a pliable substance by pressing and folding it with the hands.",
+    "pronunciation": "/niːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'knead' comes from Old English 'cnedan', related to a Proto-Germanic root meaning to press or squeeze, ultimately tracing back to an Indo-European root *gneh₃- meaning to press or knead.",
+        "targetText": "Cuvântul englezesc „knead” provine din engleza veche „cnedan”, legat de o rădăcină proto-germanică care înseamnă a presa sau a strânge, derivată în cele din urmă dintr-o rădăcină indo-europeană *gneh₃- care înseamnă a presa sau a frământa."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a frământa",
+    "definition": "A lucra aluatul sau o masă maleabilă cu mâinile prin apăsare și pliere.",
+    "pronunciation": "/a frəmɨnˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a frământa' comes from a Slavic language, probably Bulgarian 'frămănta', meaning 'to knead' or 'to work by kneading'.",
+        "targetText": "Verbul românesc „a frământa” provine dintr-o limbă slavă, probabil bulgară „frămănta”, cu sensul de 'a frământa' sau 'a modela prin frământare'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Verb de conjugarea I, participiu: frământat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to press",
+      "targetText": "a apăsa"
+    },
+    {
+      "sourceText": "to shape",
+      "targetText": "a modela"
+    },
+    {
+      "sourceText": "pliable clay",
+      "targetText": "lut maleabil"
+    },
+    {
+      "sourceText": "dough",
+      "targetText": "aluat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to tear",
+      "targetText": "a rupe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I knead the dough until it is soft and smooth.",
+      "targetText": "Eu frământ aluatul până devine moale și elastic."
+    },
+    {
+      "sourceText": "She kneads the clay to shape a vase.",
+      "targetText": "Ea frământă lutul pentru a modela un vas."
+    },
+    {
+      "sourceText": "When baking bread, you have to knead the dough well.",
+      "targetText": "La făcut pâine trebuie să frămânți bine aluatul."
+    },
+    {
+      "sourceText": "If you knead the dough too long, it becomes tough.",
+      "targetText": "Dacă frămânți aluatul prea mult, devine tare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'knead' sounds like 'need'—you 'need' to work the dough well to make good bread, just like 'a frământa' means to work dough."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'knead' as pressing and folding dough, similar to how 'a frământa' involves pressing and folding with hands."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'frământa' starts with 'frâ-', which sounds like 'fresh'—fresh dough is often kneaded to make it soft and elastic."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'frământa' with the English word 'firm'—kneading makes dough firmer and more elastic."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

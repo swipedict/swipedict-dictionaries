@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-sixty",
+  "parent": "ms-ro-saizeci-0880670b@80524f6cbee455567aaa93d11ad6ab61",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sixty",
+    "definition": "The number 60, a natural number following 59 and preceding 61.",
+    "pronunciation": "/ˈsɪksti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'sixty' comes from Old English 'sixtig', formed by combining 'six' with a suffix used to form the tens.",
+        "targetText": "Cuvântul englez „sixty” provine din engleza veche 'sixtig', format prin combinarea lui 'six' (șase) cu o terminație folosită pentru formarea zecilor."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șaizeci",
+    "definition": "Numărul natural 60, care urmează după 59 și înainte de 61.",
+    "pronunciation": "/ʃa.iˈt͡ʃʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'șaizeci' derives from the Latin 'sexaginta', which denotes the number 60 and is composed of 'sex' (six) and a decimal suffix.",
+        "targetText": "Cuvântul românesc „șaizeci” provine din latină, de la 'sexaginta', care desemna numărul 60, format din 'sex' (șase) și o terminație decimală."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fifty",
+      "targetText": "cincizeci"
+    },
+    {
+      "sourceText": "hundred",
+      "targetText": "sută"
+    },
+    {
+      "sourceText": "six",
+      "targetText": "șase"
+    },
+    {
+      "sourceText": "seventy",
+      "targetText": "șaptezeci"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Sixty is a round number.",
+      "targetText": "Șaizeci este un număr rotund."
+    },
+    {
+      "sourceText": "He is sixty years old.",
+      "targetText": "El are șaizeci de ani."
+    },
+    {
+      "sourceText": "The temperature is sixty degrees.",
+      "targetText": "Temperatura este de șaizeci de grade."
+    },
+    {
+      "sourceText": "Sixty minutes make one hour.",
+      "targetText": "Șaizeci de minute fac o oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'șaizeci' starts with 'șai-', which sounds like 'shy'—imagine being shy about showing the number 60!"
+    },
+    {
+      "lang": "en",
+      "text": "Remember that the ending '-zeci' is common for Romanian tens (like 20, 30, 40), so linking it to 'decade' or 'decimal' can help."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'șase' means six in Romanian, so 'șaizeci' literally connects to six and tens—think of it as 'six tens'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'sixty' and the Romanian 'șaizeci' as cousins sharing the Latin origin 'sexaginta'—this link can make learning easier."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

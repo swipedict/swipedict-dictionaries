@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-map",
+  "parent": "ms-ro-harta-69d50a81@afba23dc74cef2e3e02b33fa11812e7e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "map",
+    "genus": "feminine",
+    "definition": "A flat representation, usually on paper or digital format, of a geographic area used for navigation and planning.",
+    "pronunciation": "/mæp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"map\" comes from the Medieval Latin 'mappa', meaning 'napkin' or 'cloth', which evolved to mean a chart or representation of geographic information.",
+        "targetText": "Cuvântul englezesc „map” provine din latinul medieval 'mappa', care însemna 'șervet' sau 'pânză', și a evoluat pentru a desemna o hartă sau o reprezentare a informațiilor geografice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "hartă",
+    "genus": "feminine",
+    "definition": "Reprezentare plană, de obicei pe hârtie sau digitală, a unei zone geografice, folosită pentru orientare și planificare.",
+    "pronunciation": "/ˈhartə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"hartă\" derives from the Latin 'charta', which originally meant 'paper' or 'document' and entered Romanian through Italian.",
+        "targetText": "Cuvântul românesc „hartă” provine din latinul 'charta', care inițial însemna 'hârtie' sau 'document scris' și a pătruns în română prin italiană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "atlas",
+      "targetText": "atlas"
+    },
+    {
+      "sourceText": "globe",
+      "targetText": "glob"
+    },
+    {
+      "sourceText": "orientation",
+      "targetText": "orientare"
+    },
+    {
+      "sourceText": "plan",
+      "targetText": "plan"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I bought a map of Europe.",
+      "targetText": "Am cumpărat o hartă a Europei."
+    },
+    {
+      "sourceText": "The map shows all the important cities.",
+      "targetText": "Harta arată toate orașele importante."
+    },
+    {
+      "sourceText": "We use the map to find the way.",
+      "targetText": "Folosim harta pentru a găsi drumul."
+    },
+    {
+      "sourceText": "Rivers and mountains are marked on the map.",
+      "targetText": "Pe hartă sunt marcate râuri și munți."
+    },
+    {
+      "sourceText": "The digital map is very detailed.",
+      "targetText": "Harta digitală este foarte detaliată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'hartă' sounds like 'heart'—think of your heart as the center that guides you, just like a map guides your way."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'map' comes from Latin 'mappa' meaning cloth or napkin—imagine unfolding a cloth to reveal a map."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'hartă' as 'hard' paper that holds important geographic info—maps are usually printed on sturdy paper."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'hartă' with 'heart' and 'hard' to remember it’s a solid, central tool for navigation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

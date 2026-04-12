@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-borrow",
+  "parent": "ms-ro-a-imprumuta-7dba6fd0@359892da40a84e00d0cedd54e5704442",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "borrow",
+    "definition": "to take something temporarily with the intention of returning it later",
+    "pronunciation": "/ˈbɒr.oʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"borrow\" originates from Old English \"borgian\", meaning to lend or to pledge. It is related to similar words in other Germanic languages and has been used historically to indicate taking something temporarily.",
+        "targetText": "Cuvântul englezesc „borrow” provine din engleza veche „borgian”, care înseamnă a împrumuta sau a da în gaj. Este legat de cuvinte similare din alte limbi germanice și a fost folosit istoric pentru a indica luarea temporară a ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts involving books, tools, or other items."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împrumuta",
+    "definition": "a lua ceva pentru o anumită perioadă, pentru a-l returna mai târziu",
+    "pronunciation": "/a ɨmpruˈmu.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a împrumuta” comes from a Slavic source, probably Bulgarian „prămutja” or a similar Slavic verb meaning \"to lend\" or \"to borrow\".",
+        "targetText": "Verbul românesc „a împrumuta” provine dintr-o sursă slavă, probabil bulgară „prămutja” sau rusă „приметить”, cu sensul de „a împrumuta” sau „a da cu împrumut”."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regular verb of the 1st conjugation. Used when borrowing something from someone or lending something to someone."
+  },
+  "senses": [
+    {
+      "gloss": "borrow (experience)",
+      "explanation": {
+        "sourceText": "Can also be used in the sense of borrowing an experience.",
+        "targetText": "Poate fi folosit și pentru a „împrumuta“ o experiență."
+      },
+      "examples": [
+        {
+          "sourceText": "I borrow an experience.",
+          "targetText": "Îmi împrumut o experiență."
+        }
+      ]
+    },
+    {
+      "gloss": "borrow (object)",
+      "explanation": {
+        "sourceText": "Used to mean giving someone something that must be returned.",
+        "targetText": "Pentru a da cuiva ceva temporar, care trebuie returnat."
+      },
+      "examples": [
+        {
+          "sourceText": "I like to borrow things to my friends.",
+          "targetText": "Îmi place să împrumut lucruri prietenilor mei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "book",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "movie",
+      "targetText": "film"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "toy",
+      "targetText": "jucărie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lend",
+      "targetText": "a da"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I borrow a book.",
+      "targetText": "Eu împrumut o carte."
+    },
+    {
+      "sourceText": "Do you borrow a movie?",
+      "targetText": "Împrumuți un film?"
+    },
+    {
+      "sourceText": "She borrows a tool.",
+      "targetText": "Ea împrumută unelte."
+    },
+    {
+      "sourceText": "We borrow the necessary materials.",
+      "targetText": "Noi împrumutăm materialele necesare."
+    },
+    {
+      "sourceText": "Do you borrow the books from the library?",
+      "targetText": "Împrumutați cărțile din bibliotecă?"
+    },
+    {
+      "sourceText": "They borrow the latest movies.",
+      "targetText": "Ei împrumută cele mai recente filme."
+    },
+    {
+      "sourceText": "I have borrowed the new novel.",
+      "targetText": "Am împrumutat romanul nou."
+    },
+    {
+      "sourceText": "I will borrow the tool.",
+      "targetText": "Voi împrumuta uneltele."
+    },
+    {
+      "sourceText": "Borrow a car!",
+      "targetText": "Împrumută-ți o mașină!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a împrumuta\" sounds like \"imprumut\" which means a loan in Romanian—think of borrowing as taking a loan temporarily."
+    },
+    {
+      "lang": "en",
+      "text": "The verb \"a împrumuta\" ends with -a, typical for Romanian first conjugation verbs, similar to many English verbs ending in -ate or -ate sounds."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word \"borrow\" with \"a împrumuta\" by the shared idea of taking something temporarily and returning it later."
+    },
+    {
+      "lang": "en",
+      "text": "Think of borrowing a book from a library—both English and Romanian words relate to temporary possession."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

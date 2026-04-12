@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vocabulary Entry Schema (v1 - Final)",
+  "description": "Schema for a vocabulary entry using a target-focused sense model, a path-based audio manifest, and unified bilingual text pairs.",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "parent": {
+      "type": "string",
+      "description": "A reference to the parent entry, consisting of the parent's ID and its content hash (e.g., 'ms-ro-urs@hash').",
+      "pattern": "^[a-z]+-[a-z]{2}-[\\w-]+@[a-f0-9]{32}$"
+    },
+    "part_of_speech": { "type": "string", "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "pronoun", "interjection", "phrase", "numeral"] },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-zA-Z0-9_-]+:[a-zA-Z0-9_-]+$" }
+    },
+    "sourceLanguage": { "type": "string", "pattern": "^[a-z]{2,3}$" },
+    "targetLanguage": { "type": "string", "pattern": "^[a-z]{2,3}$" },
+    "metadata": { "$ref": "#/definitions/metadata" },
+    "source": { "$ref": "#/definitions/languageBlock" },
+    "target": { "$ref": "#/definitions/languageBlock" },
+    "senses": { "type": "array", "items": { "$ref": "#/definitions/sense" } },
+    "relatedWords": { "type": "array", "items": { "$ref": "#/definitions/textPair" } },
+    "antonyms": { "type": "array", "items": { "$ref": "#/definitions/textPair" } },
+    "examples": { "type": "array", "items": { "$ref": "#/definitions/textPair" } },
+    "learningTips": { "type": "array", "items": { "$ref": "#/definitions/learningTip" } },
+    "media": { "$ref": "#/definitions/media" }
+  },
+  "required": ["id", "part_of_speech", "tags", "sourceLanguage", "targetLanguage", "metadata", "source", "target"],
+  "additionalProperties": false,
+  "definitions": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "author": { "type": "string" },
+        "source": { "type": "string" },
+        "contentVersion": { "type": "integer", "minimum": 1 },
+        "schemaVersion": { "type": "string", "pattern": "^\\d+\\.\\d+(\\.\\d+)?$" }
+      },
+      "required": ["author", "source", "contentVersion", "schemaVersion"],
+      "additionalProperties": false
+    },
+    "languageBlock": {
+      "type": "object",
+      "properties": {
+        "lang": { "type": "string" },
+        "headword": { "type": "string" },
+        "definition": { "type": "string" },
+        "pronunciation": { "type": "string" },
+        "etymology": { "$ref": "#/definitions/bilingualEtymology" },
+        "additional": { "type": "string" },
+        "genus": { "type": "string" }
+      },
+      "required": ["lang", "headword", "definition"],
+      "additionalProperties": false
+    },
+    "bilingualEtymology": {
+      "description": "Bilingual etymological text plus its informational source.",
+      "type": "object",
+      "properties": {
+        "explanation": { "$ref": "#/definitions/textPair" },
+        "source": { "type": "string" }
+      },
+      "required": ["explanation", "source"],
+      "additionalProperties": false
+    },
+    "textPair": {
+      "description": "An object containing a pair of strings for source and target languages.",
+      "type": "object",
+      "properties": {
+        "sourceText": { "type": "string" },
+        "targetText": { "type": "string" }
+      },
+      "required": ["sourceText", "targetText"],
+      "additionalProperties": false
+    },
+    "sense": {
+      "type": "object",
+      "properties": {
+        "gloss": { "type": "string" },
+        "explanation": {
+          "description": "A bilingual explanation of the sense.",
+          "$ref": "#/definitions/textPair"
+        },
+        "examples": { "type": "array", "items": { "$ref": "#/definitions/textPair" } }
+      },
+      "required": ["gloss", "explanation"],
+      "additionalProperties": false
+    },
+    "learningTip": {
+      "type": "object",
+      "properties": { "lang": { "type": "string" }, "text": { "type": "string" } },
+      "required": ["lang", "text"],
+      "additionalProperties": false
+    },
+    "audioMediaItem": {
+      "description": "Represents a single audio file linked to a specific piece of text in the document via a dot-notation path.",
+      "type": "object",
+      "properties": {
+        "path": {
+          "description": "A dot-notation path to the text field this audio corresponds to (e.g., 'target.headword', 'senses.0.examples.1.targetText').",
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+|\\.\\d+)*$"
+        },
+        "lang": { "type": "string" },
+        "url": { "type": "string", "format": "uri-reference" }
+      },
+      "required": ["path", "lang", "url"],
+      "additionalProperties": false
+    },
+    "media": {
+      "type": "object",
+      "properties": {
+        "images": { "type": "array", "items": { "type": "string", "format": "uri-reference" } },
+        "audio": { "type": "array", "items": { "$ref": "#/definitions/audioMediaItem" } }
+      },
+      "additionalProperties": false
+    }
+  }
+}

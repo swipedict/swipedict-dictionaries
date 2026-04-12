@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bedroom",
+  "parent": "ms-ro-dormitor-228d4d6f@e7a456ca85acfb1680b633b267c54287",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bedroom",
+    "definition": "A room in a house or apartment primarily used for sleeping.",
+    "pronunciation": "/ˈbɛdˌruːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'bedroom' is a compound of 'bed' and 'room', literally meaning a room for a bed or sleeping.",
+        "targetText": "Cuvântul englezesc „bedroom” este compus din „bed” (pat) și „room” (cameră), desemnând literal o cameră pentru pat sau dormit."
+      },
+      "source": "English word history, compound formation"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dormitor",
+    "genus": "neuter",
+    "definition": "O cameră dintr-o casă sau apartament destinată în principal pentru dormit.",
+    "pronunciation": "/dor.miˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'dormitor' comes from the Latin verb 'dormire', meaning 'to sleep', with the suffix '-tor' indicating a place.",
+        "targetText": "Cuvântul românesc „dormitor” provine din verbul latin 'dormire', care înseamnă 'a dormi', cu sufixul '-tor' care indică un loc."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bed",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "sleep",
+      "targetText": "somn"
+    },
+    {
+      "sourceText": "room",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bedroom is on the first floor.",
+      "targetText": "Dormitorul este la etajul întâi."
+    },
+    {
+      "sourceText": "I have newly painted my bedroom.",
+      "targetText": "Am vopsit dormitorul meu nou."
+    },
+    {
+      "sourceText": "There is a large bed in the bedroom.",
+      "targetText": "În dormitor este un pat mare."
+    },
+    {
+      "sourceText": "The bedroom is quiet and dark.",
+      "targetText": "Dormitorul este liniștit și întunecat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dormitor' by linking it to the English word 'dormant', which relates to sleep or inactivity."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'dormitor' as a 'dormitory'—a place to sleep—helping you recall its meaning as bedroom."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-tor' in 'dormitor' indicates a place, similar to 'elevator' or 'generator', so 'dormitor' is a place for sleeping."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'dormitor' with the Latin root 'dormire' meaning 'to sleep' to remember it as a sleeping room."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-bank-card",
+  "parent": "ms-ro-card-bancar-6b361d06@ea21fdbef2f3d3742be22d07a09676d1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:objects-clothing",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bank card",
+    "genus": "feminine",
+    "definition": "A card used to make cashless payments and withdraw money from ATMs; originally stands for 'Electronic Cash card'.",
+    "pronunciation": "/ˈbæŋk kɑːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The term 'bank card' derives from the English phrase 'Electronic Cash', which refers to electronic cashless payment methods.",
+        "targetText": "Termenul „EC-Karte” provine de la inițialele englezești ale expresiei 'Electronic Cash', care descrie plata electronică fără numerar."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feminine noun in English, commonly used to describe debit or ATM cards."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "card bancar",
+    "genus": "neuter",
+    "definition": "Card folosit pentru plăți fără numerar și retrageri de bani de la bancomat.",
+    "pronunciation": "/kard banˈkar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term 'card bancar' comes from the English word 'card', which itself derives from the Latin 'charta', combined with 'bancar', originating from the Italian 'banca', meaning 'bank'.",
+        "targetText": "Termenul românesc 'card bancar' derivă din englezescul 'card', care provine din latină prin 'charta', combinat cu 'bancar', provenind din italiană 'banca', însemnând 'bancă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Maskulinum, wird im Rumänischen meist ohne Artikel verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cash",
+      "targetText": "numerar"
+    },
+    {
+      "sourceText": "to pay",
+      "targetText": "a plăti"
+    },
+    {
+      "sourceText": "ATM",
+      "targetText": "bancomat"
+    },
+    {
+      "sourceText": "credit card",
+      "targetText": "card de credit"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I pay with my bank card at the supermarket.",
+      "targetText": "Plătesc cu cardul bancar la supermarket."
+    },
+    {
+      "sourceText": "You can withdraw money from the ATM with the bank card.",
+      "targetText": "Poți retrage bani de la bancomat cu cardul bancar."
+    },
+    {
+      "sourceText": "The bank card is practical for cashless payments.",
+      "targetText": "Cardul bancar este practic pentru plata fără numerar."
+    },
+    {
+      "sourceText": "Do you have your bank card with you?",
+      "targetText": "Ai cardul bancar cu tine?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian 'card bancar' sounds like 'card' and 'bank' in English, making it easy to remember as a bank card."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'card' as the English loanword in Romanian, similar to how we say 'card' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'Electronic Cash' as the origin of the concept behind the bank card, linking it to electronic payments."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine withdrawing money at the 'bancomat' with your 'card bancar' to connect the words practically."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

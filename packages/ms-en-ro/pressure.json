@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-pressure",
+  "parent": "ms-ro-presiune-867c4ac1@47645c5171faae9af91be3c795bd7a45",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pressure",
+    "genus": "masculine",
+    "definition": "the force exerted on a surface per unit area, often affecting the volume of gases or liquids",
+    "pronunciation": "/ˈprɛʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"pressure\" comes from the Latin 'pressura', derived from 'premere' meaning 'to press'. It entered English through Old French and refers to the act of pressing or exerting force on something.",
+        "targetText": "Cuvântul englezesc „pressure“ provine din latină, din „pressura“, derivat din „premere“ care înseamnă „a apăsa“. A intrat în limba engleză prin franceza veche și se referă la actul de a apăsa sau de a exercita forță asupra unui obiect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The concept of pressure is fundamental for understanding various physical phenomena."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "presiune",
+    "genus": "feminine",
+    "definition": "exercitarea unei forțe asupra unei suprafețe, care modifică volumul unui gaz sau al unui lichid",
+    "pronunciation": "/pre.siˈu.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"presiune\" comes from the Latin \"pressio, pressionis\", meaning \"pressure\". It describes the force applied on a specific surface and is used in physical contexts.",
+        "targetText": "Cuvântul românesc „presiune“ provine din latină, din „pressio, pressionis“, care înseamnă „presiune“ sau „apăsare“ și descrie forța exercitată pe o suprafață."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "În context tehnic, presiunea este un parametru important."
+  },
+  "senses": [
+    {
+      "gloss": "pressure (in psychological sense)",
+      "explanation": {
+        "sourceText": "Also used to describe stress or situations involving pressure.",
+        "targetText": "Folosit și pentru a descrie stresul sau situațiile presante."
+      },
+      "examples": [
+        {
+          "sourceText": "The pressure during exams can be high.",
+          "targetText": "Presiunea în examene poate fi mare."
+        }
+      ]
+    },
+    {
+      "gloss": "pressure (in physics)",
+      "explanation": {
+        "sourceText": "Describes physical concepts related to force applied on surfaces.",
+        "targetText": "Ca în germană: descrie concepte fizice legate de forța exercitată pe suprafețe."
+      },
+      "examples": [
+        {
+          "sourceText": "The water pressure in the pipe is high.",
+          "targetText": "Presiunea apei din țeavă este mare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "liquid",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "gas",
+      "targetText": "gaz"
+    },
+    {
+      "sourceText": "force",
+      "targetText": "forță"
+    },
+    {
+      "sourceText": "volume",
+      "targetText": "volum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "relaxation",
+      "targetText": "relaxare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The pressure in the tires is too low.",
+      "targetText": "Presiunea din anvelope este prea mică."
+    },
+    {
+      "sourceText": "Pressure and temperature are closely related.",
+      "targetText": "Presiunea și temperatura sunt strâns legate."
+    },
+    {
+      "sourceText": "Pressure increases when the air heats up.",
+      "targetText": "Presiunea crește când aerul se încălzește."
+    },
+    {
+      "sourceText": "A pressure gauge shows the current pressure.",
+      "targetText": "Un manometru arată presiunea actuală."
+    },
+    {
+      "sourceText": "Too much pressure can cause damage.",
+      "targetText": "Presiunea prea mare poate duce la daune."
+    },
+    {
+      "sourceText": "Air pressure affects the weather.",
+      "targetText": "Presiunea aerului influențează vremea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"pressure\" as the force you feel when you press down hard on something—this helps link it to the Romanian \"presiune\"."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"presiune\" sounds like \"press\" + \"-iune\"; imagine pressing on a surface to create pressure."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a balloon inflating as air pressure builds inside—this image connects the idea of \"presiune\" with force on a surface."
+    },
+    {
+      "lang": "en",
+      "text": "The root \"press\" in English words like \"pressure\" and \"impress\" can help you recall \"presiune\" as related to pressing or force."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-hungry",
+  "parent": "ms-ro-flamand-9f17db28@02e83f2cba8ece1a8f00895a3f2e0b28",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hungry",
+    "definition": "Feeling the need or desire to eat food.",
+    "pronunciation": "/ˈhʌŋɡri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"hungry\" originates from the Old English word 'hungor', which is derived from the Proto-Germanic root *hunǥ-, associated with hunger and the need for food.",
+        "targetText": "Cuvântul englezesc „hungry” provine din vechiul englez „hungor”, derivat din rădăcina proto-germanică *hunǥ-, legată de foame și nevoia de hrană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "flămând",
+    "definition": "Senzația de a avea nevoie de hrană sau dorința de a mânca.",
+    "pronunciation": "/flaˈmɨnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"flămând\" comes from Old Slavic \"hlamŭ\" or \"hlamŭnŭ\", meaning 'hungry'.",
+        "targetText": "Cuvântul românesc „flămând” provine din slavonul vechi „hlamŭ” sau „hlamŭnŭ”, care înseamnă 'flămând' sau 'înfometat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "appetite",
+      "targetText": "apetit"
+    },
+    {
+      "sourceText": "thirsty",
+      "targetText": "însetat"
+    },
+    {
+      "sourceText": "to eat",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "hunger",
+      "targetText": "foame"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "full",
+      "targetText": "sătul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am hungry and want to eat.",
+      "targetText": "Sunt flămând și vreau să mănânc."
+    },
+    {
+      "sourceText": "The hungry child eats quickly.",
+      "targetText": "Copilul flămând mănâncă repede."
+    },
+    {
+      "sourceText": "After sports, I was very hungry.",
+      "targetText": "După sport am fost foarte flămând."
+    },
+    {
+      "sourceText": "Being hungry is a natural feeling.",
+      "targetText": "A fi flămând este un sentiment natural."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'flămând' sounds like 'flame'—think of a burning hunger inside you."
+    },
+    {
+      "lang": "en",
+      "text": "The 'mâ' in 'flămând' sounds like 'munch'—you want to munch when you're hungry."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'flămând' to 'flaming' hunger—when your hunger 'burns', you are flămând."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'fames' meaning hunger to remember the meaning and origin of 'flămând'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

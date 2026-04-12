@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-break",
+  "parent": "ms-ro-a-rupe-32407cd5@bb307c4895119e650c1ba888786caf5a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "break",
+    "definition": "to separate something into pieces by applying force, often suddenly or violently",
+    "pronunciation": "/breɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"break\" comes from Old English \"brecan\", meaning to shatter or destroy by force.",
+        "targetText": "Cuvântul englezesc „break“ provine din engleza veche „brecan“, care înseamnă a sparge sau a distruge prin forță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb describing the action of causing something to separate into parts or become damaged."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a rupe",
+    "definition": "a descompune ceva în două sau mai multe părți prin tragere sau apăsare",
+    "pronunciation": "/a ˈru.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „rumpere“, was „brechen“ bedeutet, und ist in vielen romanischen Sprachen ähnlich.",
+        "targetText": "Provine din latinescul „rumpere“, care înseamnă „a rupe“ și este similar în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Wird oft verwendet, um physische und metaphorische Brechungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "break (physical)",
+      "explanation": {
+        "sourceText": "This means to physically cause something to separate or shatter.",
+        "targetText": "A sparge sau rupe ceva fizic."
+      },
+      "examples": [
+        {
+          "sourceText": "The wood breaks easily.",
+          "targetText": "Lemnul se rupe ușor."
+        }
+      ]
+    },
+    {
+      "gloss": "break (rules)",
+      "explanation": {
+        "sourceText": "The act of violating rules or agreements.",
+        "targetText": "Încălcarea regulilor sau acordurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "He breaks the laws.",
+          "targetText": "El încalcă legile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "force",
+      "targetText": "forță"
+    },
+    {
+      "sourceText": "damage",
+      "targetText": "daună"
+    },
+    {
+      "sourceText": "part",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "shatter",
+      "targetText": "a sparge"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "repair",
+      "targetText": "a repara"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I break the rod.",
+      "targetText": "Eu rup bara."
+    },
+    {
+      "sourceText": "Do you break the branch?",
+      "targetText": "Rupi craca?"
+    },
+    {
+      "sourceText": "The wind breaks the branch.",
+      "targetText": "Vântul rupe ramura."
+    },
+    {
+      "sourceText": "We break the rules.",
+      "targetText": "Noi rupem regulile."
+    },
+    {
+      "sourceText": "Do you break the regulation?",
+      "targetText": "Rupeți regulamentul?"
+    },
+    {
+      "sourceText": "They break the silence.",
+      "targetText": "Ei rup tăcerea."
+    },
+    {
+      "sourceText": "I have broken the bread.",
+      "targetText": "Am rupt pâinea."
+    },
+    {
+      "sourceText": "He broke the wood.",
+      "targetText": "El rupea lemnul."
+    },
+    {
+      "sourceText": "We will break the glass.",
+      "targetText": "Noi vom rupe paharul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"a rupe\" sounds like \"rupture,\" which means a break or tear in English."
+    },
+    {
+      "lang": "en",
+      "text": "The ending \"-e\" in \"a rupe\" helps you recognize it as a regular first conjugation verb in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"break\" and \"a rupe\" together by imagining breaking a branch or breaking bread."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word \"rupture\" with Romanian \"a rupe\" to remember the meaning of breaking or tearing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

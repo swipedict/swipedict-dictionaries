@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-lunch",
+  "parent": "ms-ro-pranz-1f0ea500@d4e8bba41efb0fcee351def6b77d3639",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:italian",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lunch",
+    "definition": "A meal eaten around the middle of the day, typically lighter than dinner.",
+    "pronunciation": "/lʌntʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'lunch' originated as a shortened form of 'luncheon', which appeared in the 17th century. It likely derives from the Spanish 'lonja' meaning 'a slice' or 'portion of meat', reflecting the meal's nature as a light, quick bite during the day.",
+        "targetText": "Cuvântul englezesc „lunch” provine ca o formă prescurtată a cuvântului „luncheon”, apărut în secolul al XVII-lea. Probabil derivă din spaniolul „lonja”, care înseamnă „felie” sau „porție de carne”, reflectând natura mesei ca o gustare ușoară și rapidă în timpul zilei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prânz",
+    "genus": "neuter",
+    "definition": "Masa principală luată la mijlocul zilei, de obicei caldă.",
+    "pronunciation": "/prɨnz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'prânz' comes from the Italian 'pranzo', which in turn derives from the Latin 'prandium', meaning 'midday meal'.",
+        "targetText": "Cuvântul românesc „prânz” provine din italianul 'pranzo', care la rândul său derivă din latinul 'prandium', însemnând 'masa de prânz'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dinner",
+      "targetText": "cină"
+    },
+    {
+      "sourceText": "breakfast",
+      "targetText": "mic dejun"
+    },
+    {
+      "sourceText": "meal",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "breakfast",
+      "targetText": "mic dejun"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I eat lunch at 12 o'clock.",
+      "targetText": "Eu mănânc prânzul la ora 12."
+    },
+    {
+      "sourceText": "The lunch was very tasty.",
+      "targetText": "Prânzul a fost foarte gustos."
+    },
+    {
+      "sourceText": "For lunch today, there is soup.",
+      "targetText": "La prânz avem supă astăzi."
+    },
+    {
+      "sourceText": "We meet for lunch at the restaurant.",
+      "targetText": "Ne întâlnim la prânz la restaurant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'lunch' as the English word for the midday meal, just like 'prânz' in Romanian. Both refer to the main meal eaten around noon."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'prânz' comes from Italian 'pranzo', which is related to the Latin 'prandium'—similar to how English 'lunch' evolved from 'luncheon'."
+    },
+    {
+      "lang": "en",
+      "text": "You can remember 'prânz' by associating it with the English word 'prance'—imagine prancing to the table for a joyful midday meal."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a festive meal at noon: 'prânz' sounds like 'prance', so think of happily prancing to enjoy your lunch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

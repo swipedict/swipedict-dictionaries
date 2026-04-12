@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-beach",
+  "parent": "ms-ro-plaja-010e2ce9@5543dd764ab557b9c11b4a86ed584726",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "beach",
+    "definition": "A sandy or pebbly shore along a body of water, often used for swimming, sunbathing, or walking.",
+    "pronunciation": "/biːtʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'beach' comes from Old English 'bæce', meaning 'stream' or 'brook', but its modern sense of 'shore' developed later. It is related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „beach” provine din vechiul englez 'bæce', care însemna 'pârâu' sau 'râu mic', dar sensul său modern de 'țărm' s-a dezvoltat ulterior. Este înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plajă",
+    "genus": "feminine",
+    "definition": "O zonă de coastă formată din nisip sau pietriș, situată lângă o apă, folosită de obicei pentru înot sau plimbări.",
+    "pronunciation": "/plaˈʒə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'plajă' comes from the French 'plage', which in turn derives from the Late Latin 'plagia', meaning 'coast' or 'shore'.",
+        "targetText": "Cuvântul românesc „plajă” provine din francezul 'plage', care la rândul său derivă din latină târzie 'plagia', însemnând 'țărm' sau 'plajă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "swimsuit",
+      "targetText": "costum de baie"
+    },
+    {
+      "sourceText": "coast",
+      "targetText": "țărm"
+    },
+    {
+      "sourceText": "sea",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "sand",
+      "targetText": "nisip"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mountain",
+      "targetText": "munte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "We often go to the beach in summer.",
+      "targetText": "Mergem des vara la plajă."
+    },
+    {
+      "sourceText": "The beach is covered with fine sand.",
+      "targetText": "Plaja este acoperită cu nisip fin."
+    },
+    {
+      "sourceText": "You can take nice walks on the beach.",
+      "targetText": "La plajă se poate merge bine la plimbare."
+    },
+    {
+      "sourceText": "The children build a sandcastle on the beach.",
+      "targetText": "Copiii construiesc un castel de nisip pe plajă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'plajă' sounds like 'plaza'—imagine a plaza by the water, a nice open space like a beach."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'plajă' starting with 'pl' like 'play'—you play and relax on the beach."
+    },
+    {
+      "lang": "en",
+      "text": "The 'j' in 'plajă' sounds like the 's' in 'measure'—soft and smooth, like the gentle waves at the beach."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'plajă' with the French 'plage', which means beach, to remember its meaning and origin."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

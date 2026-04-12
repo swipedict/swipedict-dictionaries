@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-cord",
+  "parent": "ms-ro-snur-a25fbc80@e8234765cbd4d3d627268d13dbc03e6a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cord",
+    "genus": "feminine",
+    "definition": "a long, thin piece of material often used for tying or hanging things",
+    "pronunciation": "/kɔːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cord\" comes from the Old French \"corde\", which derives from Latin \"chorda\", meaning a string or gut, originally from Greek \"khordē\" referring to the string of a musical instrument.",
+        "targetText": "Cuvântul englezesc „cord” provine din franceza veche „corde”, care derivă din latină „chorda”, însemnând o coardă sau un șnur, inițial din greaca „khordē” referindu-se la coarda unui instrument muzical."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cords are commonly used for tying and securing objects."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șnur",
+    "genus": "masculine",
+    "definition": "o bucată lungă și subțire de material, care este adesea folosită pentru a lega sau agăța",
+    "pronunciation": "/ʃnur/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term „șnur“ comes from the Turkish „şnur“, which means a cord or tie, introduced into Romanian through Ottoman influences.",
+        "targetText": "Termenul românesc „șnur“ provine din turca „şnur“, care desemnează o sfoară sau legătură, intrat în limba română prin influențe otomane."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Șnururile sunt utile în multe situații casnice."
+  },
+  "senses": [
+    {
+      "gloss": "cord (for hanging)",
+      "explanation": {
+        "sourceText": "Used for cords that are meant for hanging objects.",
+        "targetText": "Folosit pentru șnururi care servesc la agățat."
+      },
+      "examples": [
+        {
+          "sourceText": "I hang the picture with a cord.",
+          "targetText": "Am atârnat poza cu un șnur."
+        }
+      ]
+    },
+    {
+      "gloss": "cord fabric",
+      "explanation": {
+        "sourceText": "Refers to material woven from cord.",
+        "targetText": "Se referă la material țesut din șnur."
+      },
+      "examples": [
+        {
+          "sourceText": "The garment has cord fabric.",
+          "targetText": "Îmbrăcămintea are țesătură din șnur."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "wire",
+      "targetText": "sârmă"
+    },
+    {
+      "sourceText": "thread",
+      "targetText": "fir"
+    },
+    {
+      "sourceText": "cable",
+      "targetText": "cablu"
+    },
+    {
+      "sourceText": "rope",
+      "targetText": "frânghie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bow",
+      "targetText": "a învârti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I need a cord to tie the package.",
+      "targetText": "Am nevoie de un șnur pentru a lega pachetul."
+    },
+    {
+      "sourceText": "The cord is very long and strong.",
+      "targetText": "Șnurul este foarte lung și puternic."
+    },
+    {
+      "sourceText": "Could I please have a cord?",
+      "targetText": "Pot să am și eu un șnur, te rog?"
+    },
+    {
+      "sourceText": "She pulled the cord to turn on the light.",
+      "targetText": "Ea a tras de șnur pentru a aprinde lumina."
+    },
+    {
+      "sourceText": "The dog snapped at the cord.",
+      "targetText": "Câinele a sărit după șnur."
+    },
+    {
+      "sourceText": "The cord has broken.",
+      "targetText": "Șnurul s-a rupt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"șnur\" sounds like \"shnur\" which is close to the English \"snare\" — both involve something thin that can catch or tie."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a \"snore\" sound when you say \"șnur\" — imagine a cat purring softly while you tie a cord, linking the sound to the word."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"șnur\" comes from Turkish, so you can associate it with the exotic sound and the idea of a strong, thin tie used in many cultures."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"șnur\" with the English word \"snug\" — a cord can make things snug and secure, helping you remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

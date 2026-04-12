@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-newspaper",
+  "parent": "ms-ro-ziar-a02d25bd@4796b932d154a3a8a59ee45e620a39d0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "newspaper",
+    "genus": "feminine",
+    "definition": "A regularly published printed or digital publication that provides news, articles, and opinions on current events.",
+    "pronunciation": "/ˈnuːzˌpeɪpər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'newspaper' combines 'news' (information about recent events) and 'paper' (the material on which it was originally printed), reflecting its function as a medium for delivering current information.",
+        "targetText": "Cuvântul englezesc „newspaper” combină „news” (informații despre evenimente recente) și „paper” (materialul pe care a fost inițial tipărit), reflectând funcția sa de mediu pentru transmiterea informațiilor actuale."
+      },
+      "source": "Etymological dictionaries, historical linguistics analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ziar",
+    "genus": "neuter",
+    "definition": "O publicație periodică care conține știri, articole și opinii.",
+    "pronunciation": "/ziˈar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'ziar' derives from the Latin 'diarium', meaning 'daily journal' or 'daily report', and entered Romanian through Italian and French influences.",
+        "targetText": "Cuvântul românesc „ziar” provine din latinul 'diarium', care înseamnă 'jurnal' sau 'raport zilnic', preluat prin influențe italiene și franceze."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "article",
+      "targetText": "articol"
+    },
+    {
+      "sourceText": "journalist",
+      "targetText": "jurnalist"
+    },
+    {
+      "sourceText": "news",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "publication",
+      "targetText": "publicație"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I read the newspaper every morning to stay informed.",
+      "targetText": "Citesc ziarul în fiecare dimineață pentru a fi informat."
+    },
+    {
+      "sourceText": "The newspaper reports on current events worldwide.",
+      "targetText": "Ziarul relatează despre evenimentele actuale din întreaga lume."
+    },
+    {
+      "sourceText": "There are many interesting articles in the newspaper.",
+      "targetText": "În ziar sunt multe articole interesante."
+    },
+    {
+      "sourceText": "The newspaper is published daily or weekly.",
+      "targetText": "Ziarul apare zilnic sau săptămânal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'ziar' as sounding like 'year' but with a 'z'—a daily record like a yearly journal broken down day by day."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'ziar' comes from Latin 'diarium' meaning 'daily journal'—so it’s like a diary of news for each day."
+    },
+    {
+      "lang": "en",
+      "text": "The 'zi' in 'ziar' sounds like 'zee' in English, which can remind you of 'day' (the Romanian word 'zi' means 'day'), linking it to daily news."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'ziar' with the English word 'journal' and the Italian 'giornale'—all related to daily records or news."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

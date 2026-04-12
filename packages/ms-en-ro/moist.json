@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-moist",
+  "parent": "ms-ro-umed-6fffed62@f54d46fdfd559c476e4f752a80690485",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "moist",
+    "definition": "Slightly wet or damp, usually covered with a small amount of water or liquid.",
+    "pronunciation": "/mɔɪst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'moist' comes from the Old French 'moiste', which derives from the Latin 'mōistus', related to 'mōdus' meaning damp or wet.",
+        "targetText": "Adjectivul englez „moist” provine din franceza veche 'moiste', care derivă din latină 'mōistus', legat de 'mōdus' însemnând umed sau ud."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "umed",
+    "definition": "Acoperit cu o cantitate mică de apă sau lichid; ușor umed.",
+    "pronunciation": "/uˈmed/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'umed' comes from the Latin word 'humidus', meaning 'moist' or 'wet', derived from the Indo-European root *dhghem- (earth, moist).",
+        "targetText": "Adjectivul românesc „umed” provine din cuvântul latin 'humidus', care înseamnă 'umed' sau 'îmbibat cu apă', derivat din rădăcina indo-europeană *dhghem- ce înseamnă pământ sau umed."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "moisture",
+      "targetText": "umiditate"
+    },
+    {
+      "sourceText": "wet",
+      "targetText": "ud"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "dry",
+      "targetText": "uscat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dry",
+      "targetText": "uscat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The ground is still moist after the rain.",
+      "targetText": "Solul este încă umed după ploaie."
+    },
+    {
+      "sourceText": "The moist climate favors the growth of plants.",
+      "targetText": "Clima umedă favorizează creșterea plantelor."
+    },
+    {
+      "sourceText": "The moist air feels heavy.",
+      "targetText": "Aerul umed se simte greu."
+    },
+    {
+      "sourceText": "After swimming, my towel was still moist.",
+      "targetText": "După înot, prosopul meu era încă umed."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'moist' as 'more mist'—mist makes things slightly wet, just like 'umed' means slightly wet in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'moist' and Romanian 'umed' both relate to water and dampness; remember 'umed' sounds like 'oo-med', as if 'oo' is water."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a damp sponge—it's 'umed' in Romanian, helping you connect the word to moisture."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'umed' to the Latin root 'humidus' which also gives us 'humid' in English, both meaning moist or damp."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

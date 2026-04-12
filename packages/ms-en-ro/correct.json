@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-correct",
+  "parent": "ms-ro-a-corecta-a3062433@1e1e4753b55fdc056ae963243e785f6d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "correct",
+    "definition": "to identify and fix mistakes or inaccuracies",
+    "pronunciation": "/kəˈrɛkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin verb 'corrigere', meaning 'to make right' or 'to improve', composed of 'cor-' (together) and 'regere' (to guide or rule), implying the act of setting something straight or making it accurate.",
+        "targetText": "Cuvântul englezesc „correct“ provine din verbul latin „corrigere“, care înseamnă „a face ceva corect“ sau „a îmbunătăți“, format din „cor-“ (împreună) și „regere“ (a conduce sau a ghida), sugerând actul de a corecta sau a face ceva precis."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in educational and professional contexts to indicate the action of fixing errors or making improvements."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a corecta",
+    "definition": "a rectifica sau a îmbunătăți o eroare",
+    "pronunciation": "/a ko.rekˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „corrigere“, was „richtig machen, verbessern“ bedeutet und eng mit dem Wort „corect“ (korrekt, richtig) verbunden ist.",
+        "targetText": "Verbul românesc „a corecta“ derivă din latinul „corrigere“, care înseamnă a face ceva corect sau a îmbunătăți, legat de adjectivul „corect“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird verwendet, um Fehler zu beheben oder um etwas in Ordnung zu bringen."
+  },
+  "senses": [
+    {
+      "gloss": "Correction",
+      "explanation": {
+        "sourceText": "Used in educational contexts.",
+        "targetText": "Folosit în context educațional pentru corectarea greșelilor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am making a correction.",
+          "targetText": "Fac o corectare."
+        }
+      ]
+    },
+    {
+      "gloss": "Rectification",
+      "explanation": {
+        "sourceText": "For reporting or fixing misunderstandings.",
+        "targetText": "Pentru a corecta sau a remedia neînțelegeri."
+      },
+      "examples": [
+        {
+          "sourceText": "I have to rectify that.",
+          "targetText": "Trebuie să o corectez."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Adjustment",
+      "targetText": "adaptare"
+    },
+    {
+      "sourceText": "Mistake",
+      "targetText": "eroare"
+    },
+    {
+      "sourceText": "Review",
+      "targetText": "verificare"
+    },
+    {
+      "sourceText": "Improvement",
+      "targetText": "îmbunătățire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "confuse",
+      "targetText": "a confunda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I carefully correct the assignments.",
+      "targetText": "Eu corectez temele cu atenție."
+    },
+    {
+      "sourceText": "Do you correct my mistakes?",
+      "targetText": "Corectezi greșelile mele?"
+    },
+    {
+      "sourceText": "She corrects the document.",
+      "targetText": "Ea corectează documentul."
+    },
+    {
+      "sourceText": "We correct the answers together.",
+      "targetText": "Noi corectăm răspunsurile împreună."
+    },
+    {
+      "sourceText": "Are you correcting the exams today?",
+      "targetText": "Corectați examenele astăzi?"
+    },
+    {
+      "sourceText": "They correct their papers on time.",
+      "targetText": "Ei corectează lucrările lor la timp."
+    },
+    {
+      "sourceText": "I have corrected my mistakes.",
+      "targetText": "Am corectat greșelile mele."
+    },
+    {
+      "sourceText": "He corrected the records every day.",
+      "targetText": "El corecta înregistrările în fiecare zi."
+    },
+    {
+      "sourceText": "I will correct the mistakes in the work.",
+      "targetText": "Voi corecta greșelile din lucrare."
+    },
+    {
+      "sourceText": "I would correct it if I had the time.",
+      "targetText": "Aș corecta, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Correct my text!",
+      "targetText": "Corectează-mi textul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'correct' and Romanian 'corecta' share Latin roots, making them easy to connect."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'correct' as setting something straight, just like fixing a mistake on a test or paper."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'corecta' is often used in school or work contexts when you want to improve or fix errors."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'cor-' in both words can remind you of 'core' or 'heart'—getting to the heart of the issue by fixing it."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

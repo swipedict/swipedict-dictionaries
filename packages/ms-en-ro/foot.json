@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-foot",
+  "parent": "ms-ro-picior-1c397664@e7ea1383724e9948c1082d5e409ff692",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "foot",
+    "genus": "masculine",
+    "definition": "The lower extremity of the leg used for standing and walking.",
+    "pronunciation": "/fʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'foot' originates from Old English 'fōt', which traces back to the Proto-Germanic root *fōts, related to other Germanic languages' words for the same body part.",
+        "targetText": "Cuvântul englezesc „foot” provine din engleza veche 'fōt', care își are rădăcinile în proto-germanicul *fōts, înrudit cu cuvintele din alte limbi germanice pentru aceeași parte a corpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "picior",
+    "genus": "neuter",
+    "definition": "Partea inferioară a membrului inferior, folosită pentru mers și stat în picioare.",
+    "pronunciation": "/piˈt͡ʃor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'picior' derives from the Latin 'pediculus', a diminutive form of 'pes, pedis' (foot), which evolved into the current Romanian form.",
+        "targetText": "Cuvântul românesc „picior” provine din latină, de la 'pediculus', diminutiv al lui 'pes, pedis' (picior), evoluând în limba română la forma actuală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "leg",
+      "targetText": "picior"
+    },
+    {
+      "sourceText": "hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "shoe",
+      "targetText": "pantof"
+    },
+    {
+      "sourceText": "toe",
+      "targetText": "deget de la picior"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "My foot hurts.",
+      "targetText": "Piciorul meu doare."
+    },
+    {
+      "sourceText": "He has big feet.",
+      "targetText": "El are picioare mari."
+    },
+    {
+      "sourceText": "She walks barefoot.",
+      "targetText": "Ea merge desculță."
+    },
+    {
+      "sourceText": "The foot is the lowest part of the leg.",
+      "targetText": "Piciorul este partea inferioară a membrului inferior."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'picior' sounds like 'pick-your'—imagine picking something up with your foot."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-or' in 'picior' is common in Romanian nouns, helping you recognize it as a noun."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'ped-' in 'picior', similar to English words like 'pedal' related to feet."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine stepping on a 'pick' (a thorn) with your 'picior' to remember the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

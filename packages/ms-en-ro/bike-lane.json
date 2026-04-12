@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bike-lane",
+  "parent": "ms-ro-pista-pentru-biciclete-8b0ae48a@dd13cab17ef8d99e7d30b81cfa0e0b98",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bike lane",
+    "genus": "masculine",
+    "definition": "A designated path or strip specifically created for bicycles, allowing safe riding separated from motor vehicle traffic.",
+    "pronunciation": "/ˈbaɪk ˌleɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'bike lane' combines 'bike', a short form of 'bicycle' derived from 'bi-' meaning two and 'cycle' from Greek 'kyklos' meaning circle or wheel, and 'lane', which comes from Old English 'lanu', meaning a narrow way or path.",
+        "targetText": "Termenul englezesc „bike lane” combină „bike”, o formă prescurtată a cuvântului „bicycle” derivat din „bi-” însemnând doi și „cycle” din grecescul „kyklos” care înseamnă cerc sau roată, și „lane”, care provine din engleza veche „lanu”, însemnând o cale sau potecă îngustă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pistă pentru biciclete",
+    "genus": "feminine",
+    "definition": "O cale special amenajată pentru biciclete, care permite circulația în siguranță departe de traficul auto.",
+    "pronunciation": "/ˈpis.tə penˈtru bi.t͡ʃiˈklet.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „pistă” comes from Latin 'pista', borrowed from Greek 'pistḗ' (race track, course). „Pentru” is a preposition, and „biciclete” is the plural of 'bicicletă', borrowed from French 'bicyclette'.",
+        "targetText": "Cuvântul românesc „pistă“ provine din latină 'pista', împrumutat din greaca 'pistḗ' (pistă, traseu de curse). „Pentru“ este o prepoziție, iar „biciclete“ este pluralul de la 'bicicletă', împrumutat din franceza 'bicyclette'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bicycle",
+      "targetText": "bicicletă"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "traffic",
+      "targetText": "trafic"
+    },
+    {
+      "sourceText": "path",
+      "targetText": "cale"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bike lane is well developed and safe.",
+      "targetText": "Pista pentru biciclete este bine amenajată și sigură."
+    },
+    {
+      "sourceText": "Please use the bike lane to avoid accidents.",
+      "targetText": "Te rog să folosești pista pentru biciclete pentru a evita accidentele."
+    },
+    {
+      "sourceText": "Many cities invest in new bike lanes.",
+      "targetText": "Multe orașe investesc în piste noi pentru biciclete."
+    },
+    {
+      "sourceText": "The bike lane runs along the river.",
+      "targetText": "Pista pentru biciclete se întinde de-a lungul râului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pistă' sounds like 'piste' in English, which means a track or path, helping you link it to a bike lane."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pistă pentru biciclete' as a special 'track for bicycles', just like a race track but for bikes."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'biciclete' is close to the French 'bicyclette', so if you know French, it’s easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine riding your bike on a safe 'pistă' away from cars, making 'pistă pentru biciclete' a safe bike path."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-can",
+  "parent": "ms-ro-a-putea-63f523d8@d8d09177b46f82a1971c46683874493d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "can",
+    "definition": "To have the ability or possibility to do something.",
+    "pronunciation": "/kæn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English modal verb \"can\" originates from Old English 'cunnan', which derives from the Proto-Germanic root *kunnaną meaning 'to know, to be able'.",
+        "targetText": "Cuvântul englezesc „can” provine din engleza veche 'cunnan', derivat din rădăcina proto-germanică *kunnaną care înseamnă 'a ști, a putea'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a putea",
+    "definition": "A avea capacitatea sau posibilitatea de a face ceva.",
+    "pronunciation": "/a ˈpute.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a putea” derives from the Latin verb 'potere', which meant 'to be able' or 'to have power'.",
+        "targetText": "Verbul românesc „a putea” derivă din verbul latin 'potere', care însemna 'a putea' sau 'a fi capabil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb, conjugation similar to 'a vrea'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "may",
+      "targetText": "a avea voie"
+    },
+    {
+      "sourceText": "can (ability)",
+      "targetText": "a fi capabil"
+    },
+    {
+      "sourceText": "to like",
+      "targetText": "a plăcea"
+    },
+    {
+      "sourceText": "to know",
+      "targetText": "a ști"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cannot",
+      "targetText": "a nu putea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I can speak German.",
+      "targetText": "Eu pot vorbi germană."
+    },
+    {
+      "sourceText": "Yesterday I was able to sing well.",
+      "targetText": "Ieri am putut să cânt bine."
+    },
+    {
+      "sourceText": "I used to be able to swim better.",
+      "targetText": "Pe vremuri puteam să înot mai bine."
+    },
+    {
+      "sourceText": "I will be able to come tomorrow.",
+      "targetText": "Voi putea să vin mâine."
+    },
+    {
+      "sourceText": "Can you help me?",
+      "targetText": "Poți să mă ajuți?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian verb 'a putea' comes from Latin 'potere', which means 'to be able'. This connection helps you link 'putea' with 'power' and ability."
+    },
+    {
+      "lang": "en",
+      "text": "The English modal verb 'can' expresses ability, just like 'a putea' in Romanian, so think of 'can' as your key to doing things."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'put' to remember 'a putea'—if you can 'put' something somewhere, you have the ability to do it."
+    },
+    {
+      "lang": "en",
+      "text": "Note that 'a putea' is an irregular verb in Romanian, conjugated similarly to 'a vrea' (to want), so practice both together to remember their patterns."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

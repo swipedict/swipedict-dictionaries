@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-medicine",
+  "parent": "ms-ro-medicina-fce7eee0@3c9393cceaf3fd347323691025e55ba2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "medicine",
+    "genus": "feminine",
+    "definition": "The science and practice concerned with the diagnosis, treatment, and prevention of illness and the maintenance of health.",
+    "pronunciation": "/ˈmɛdɪsɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"medicine\" comes from the Latin \"medicina\", meaning 'the healing art' or 'the practice of healing', derived from \"medicus\" meaning 'physician' or 'doctor'.",
+        "targetText": "Cuvântul englezesc „medicine” provine din latină „medicina”, care înseamnă „arta vindecării” sau „practica vindecării”, derivat din „medicus” care înseamnă „medic” sau „doctor”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Medicine includes both the theoretical study and practical application of treating diseases."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "medicină",
+    "genus": "feminine",
+    "definition": "Știința care se ocupă cu sănătatea și procesul de vindecare al oamenilor.",
+    "pronunciation": "/mediˈt͡ʃɨ.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „medicină” comes from the Latin „medicina”, meaning 'the science of healing' or 'medicine'.",
+        "targetText": "Cuvântul românesc „medicină” provine din latină „medicina”, care înseamnă „știința vindecării” sau „medicină”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Medicină“ refers to the generally accepted practice of human health care."
+  },
+  "senses": [
+    {
+      "gloss": "medication",
+      "explanation": {
+        "sourceText": "Also used for a drug or remedy.",
+        "targetText": "De asemenea, pentru medicament."
+      },
+      "examples": [
+        {
+          "sourceText": "The medication works well.",
+          "targetText": "Medicamentul acționează bine."
+        }
+      ]
+    },
+    {
+      "gloss": "medicine (healing art)",
+      "explanation": {
+        "sourceText": "As in English: the art and science of healing.",
+        "targetText": "Ca în germană: arta vindecării."
+      },
+      "examples": [
+        {
+          "sourceText": "The doctor's medicine was effective.",
+          "targetText": "Medicina medicului a fost eficientă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "healing",
+      "targetText": "vindecare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Medicine helps the patient.",
+      "targetText": "Medicina îl ajută pe pacient."
+    },
+    {
+      "sourceText": "He studies medicine at the university.",
+      "targetText": "El studiază medicina la universitate."
+    },
+    {
+      "sourceText": "This medicine is very effective.",
+      "targetText": "Această medicină este foarte eficientă."
+    },
+    {
+      "sourceText": "Medicine is constantly evolving.",
+      "targetText": "Medicina se dezvoltă constant."
+    },
+    {
+      "sourceText": "He is a famous medical doctor.",
+      "targetText": "El este un medic celebru."
+    },
+    {
+      "sourceText": "I need medicine for my allergy.",
+      "targetText": "Am nevoie de medicină pentru alergia mea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"medicine\" and \"medicină\" share the same Latin root, both relating to healing and health."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"medicine\" as the bridge between English and Romanian for anything related to health and treatment."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"medicine\" sounds like \"medic\" which helps you recall the Romanian \"medic\" meaning doctor."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"medicine\" with medical practice and healing arts, just like the Romanian \"medicină\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

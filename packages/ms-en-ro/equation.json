@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-equation",
+  "parent": "ms-ro-ecuatie-e1be37b9@e670b791df2460c93ea9be0070da67dd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "equation",
+    "genus": "feminine",
+    "definition": "A mathematical statement that asserts the equality of two expressions by connecting them with an equals sign.",
+    "pronunciation": "/ɪˈkweɪʒən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"equation\" comes from the Latin 'aequatio', derived from 'aequare' meaning 'to make equal' or 'to balance'. It entered English through Old French, reflecting the concept of equality or balance in mathematics.",
+        "targetText": "Cuvântul englezesc „equation” provine din latină, de la 'aequatio', derivat din 'aequare' care înseamnă 'a face egal' sau 'a echilibra'. A intrat în limba engleză prin franceza veche, reflectând conceptul de egalitate sau echilibru în matematică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ecuație",
+    "genus": "feminine",
+    "definition": "O expresie matematică care afirmă egalitatea a două expresii prin semnul egalității.",
+    "pronunciation": "/ekuˈaʦje/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"ecuație\" comes from the Latin 'aequatio', derived from 'aequare' (to make equal, to balance), reflecting the mathematical meaning of equality.",
+        "targetText": "Cuvântul românesc „ecuație” provine din latină, de la 'aequatio', derivat din 'aequare' care înseamnă 'a face egal, a echilibra', reflectând sensul matematic al egalității."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "formula",
+      "targetText": "formulă"
+    },
+    {
+      "sourceText": "equality",
+      "targetText": "egalitate"
+    },
+    {
+      "sourceText": "mathematics",
+      "targetText": "matematică"
+    },
+    {
+      "sourceText": "variable",
+      "targetText": "variabilă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The equation x + 2 = 5 is easy to solve.",
+      "targetText": "Ecuația x + 2 = 5 este ușor de rezolvat."
+    },
+    {
+      "sourceText": "In algebra, you learn how to solve equations.",
+      "targetText": "În algebră înveți cum să rezolvi ecuații."
+    },
+    {
+      "sourceText": "This equation has two solutions.",
+      "targetText": "Această ecuație are două soluții."
+    },
+    {
+      "sourceText": "The equation describes the relationship between the variables.",
+      "targetText": "Ecuația descrie relația dintre variabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"equation\" contains \"equal\", which helps you remember that the Romanian \"ecuație\" expresses equality."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'aequare' meaning 'to make equal'—like water ('aqua') spreading evenly, symbolizing balance and equality."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"ecuație\" sounds very similar to the English \"equation\", making it easy to recall its mathematical meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you \"equate\" two sides of a scale to balance them—this helps you remember that \"ecuație\" means something equal or balanced."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

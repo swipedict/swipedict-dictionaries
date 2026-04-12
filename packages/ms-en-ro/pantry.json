@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-pantry",
+  "parent": "ms-ro-camara-7c5b6280@148dc751e13a67f2621835b6f44dac42",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pantry",
+    "genus": "feminine",
+    "definition": "A small room or closet in a house where food, provisions, and kitchen supplies are stored.",
+    "pronunciation": "/ˈpæntri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'pantry' originates from the Old French 'paneterie', which comes from 'pain' meaning bread, referring to a place where bread and other food were kept.",
+        "targetText": "Cuvântul englezesc „pantry” provine din franceza veche „paneterie”, derivat din „pain” care înseamnă pâine, referindu-se la un loc unde se păstra pâinea și alte alimente."
+      },
+      "source": "English Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cămară",
+    "genus": "feminine",
+    "definition": "O încăpere mică din casă destinată depozitării alimentelor și proviziilor.",
+    "pronunciation": "/kəˈmərə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'cămară' comes from the Latin 'camera', which originally meant 'room' or 'chamber' and in Romanian specifically refers to a pantry for storing food.",
+        "targetText": "Cuvântul românesc „cămară” provine din latină, din 'camera', care inițial însemna 'cameră' sau 'încăpere' și în română desemnează în special o cămară pentru depozitarea alimentelor."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "chamber",
+      "targetText": "cameră"
+    },
+    {
+      "sourceText": "kitchen",
+      "targetText": "bucătărie"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "provision",
+      "targetText": "provizie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The pantry is well stocked with canned goods and spices.",
+      "targetText": "Cămara este bine aprovizionată cu conserve și condimente."
+    },
+    {
+      "sourceText": "We store the potatoes in the pantry so they don't spoil.",
+      "targetText": "Păstrăm cartofii în cămară ca să nu se strice."
+    },
+    {
+      "sourceText": "In the pantry, you will find flour and sugar.",
+      "targetText": "În cămară găsești făină și zahăr."
+    },
+    {
+      "sourceText": "The pantry is located next to the kitchen.",
+      "targetText": "Cămara se află lângă bucătărie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'cămară' sounds like 'camera' which means 'room' in Latin, so think of it as a special room for food storage."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pantry' as a place where you keep your 'pan' and food, while 'cămară' is the Romanian word for that food storage room."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'pantry' comes from bread storage, and 'cămară' comes from Latin 'camera' meaning room—both relate to storing food in a dedicated space."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine opening the 'cămară' and finding shelves full of tasty treats, just like your pantry at home."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

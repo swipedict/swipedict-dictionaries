@@ -1,0 +1,157 @@
+{
+  "id": "ms-en-ro-tree",
+  "parent": "ms-ro-copac-87591f81@38bcc702570b76b36e1eb01ab156b6e7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:dacian",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tree",
+    "genus": "masculine",
+    "definition": "A perennial woody plant typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.",
+    "pronunciation": "/triː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"tree\" originates from Old English \"trēow\", related to other Germanic languages. It is connected to the Proto-Germanic root *trewwiz, meaning a tree or wood, and is cognate with words like Old Norse \"tré\" and Gothic \"triu\".",
+        "targetText": "Cuvântul englezesc „tree” provine din engleza veche „trēow”, legat de alte limbi germanice. Este conectat la rădăcina proto-germanică *trewwiz, care înseamnă copac sau lemn, și are corespondente în cuvinte precum norvegiana veche „tré” și gotica „triu”."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Plural: trees. Trees are essential for ecosystems, producing oxygen and providing habitats."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "copac",
+    "genus": "masculine",
+    "definition": "plantă perenă lemnoasă, formată din rădăcină, trunchi, coroană și frunze, care atinge o anumită înălțime minimă; arbore",
+    "pronunciation": "/koˈpak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Uncertain origin. Possibly an autochthonous word (Thracian-Dacian) or related to other regional languages. Some theories link it to the Latin 'caput' (head, referring to the tree crown) or speculate about other origins. Partial synonym: 'arbore' (from Latin 'arbor').",
+        "targetText": "Originea cuvântului „copac“ este incertă, posibil autohtonă (traco-dacică) sau legată de alte limbi regionale; unele teorii îl leagă de latinul „caput“ (cap), referindu-se la coroana copacului."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Pluralul este: copaci. Există o mare varietate de specii de copaci. „Arbore” este un sinonim mai elevat sau poetic."
+  },
+  "senses": [
+    {
+      "gloss": "tree (as a plant)",
+      "explanation": {
+        "sourceText": "Refers to the entire plant including trunk, branches, and leaves.",
+        "targetText": "Se referă la planta completă cu trunchi, ramuri și frunze."
+      },
+      "examples": [
+        {
+          "sourceText": "The tree in the garden is very old.",
+          "targetText": "Copacul din grădină este foarte bătrân."
+        },
+        {
+          "sourceText": "It is shady under the tree.",
+          "targetText": "Sub copac este umbros."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "branch",
+      "targetText": "creangă"
+    },
+    {
+      "sourceText": "leaf",
+      "targetText": "frunză"
+    },
+    {
+      "sourceText": "wood",
+      "targetText": "lemn"
+    },
+    {
+      "sourceText": "to plant",
+      "targetText": "a planta"
+    },
+    {
+      "sourceText": "trunk",
+      "targetText": "trunchi"
+    },
+    {
+      "sourceText": "forest",
+      "targetText": "pădure"
+    },
+    {
+      "sourceText": "root",
+      "targetText": "rădăcină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "seedling",
+      "targetText": "puiet"
+    },
+    {
+      "sourceText": "shrub",
+      "targetText": "arbust"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The tree has many branches.",
+      "targetText": "Copacul are multe crengi."
+    },
+    {
+      "sourceText": "In autumn, the trees lose their leaves.",
+      "targetText": "Toamna, copacii își pierd frunzele."
+    },
+    {
+      "sourceText": "A tree can live for a very long time.",
+      "targetText": "Un copac poate trăi foarte mult."
+    },
+    {
+      "sourceText": "I planted an apple tree.",
+      "targetText": "Am plantat un măr."
+    },
+    {
+      "sourceText": "The birds sing in the trees.",
+      "targetText": "Păsările cântă în copaci."
+    },
+    {
+      "sourceText": "The shade of the tree is pleasant.",
+      "targetText": "Umbra copacului este plăcută."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'copac' by thinking of 'cop' as a 'top' or 'head'—like the tree's crown—and '-ac' as a common noun ending."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'tree' sounds like 'three'—imagine three trees standing tall to remember the word."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'arbore' as a formal or poetic synonym for 'copac', related to the Latin 'arbor' meaning tree."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a big tree with roots ('rădăcină'), trunk ('trunchi'), branches ('creangă'), and leaves ('frunză') to connect the Romanian vocabulary."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

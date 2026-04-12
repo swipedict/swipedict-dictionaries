@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-house",
+  "parent": "ms-ro-casa-dcd95d69@999e01ee0e4a7195b0327a663ef7965d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "house",
+    "genus": "neuter",
+    "definition": "A building designed for people to live in as a home.",
+    "pronunciation": "/haʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"house\" originates from the Old English 'hūs', which comes from the Proto-Germanic root *hūsą, meaning 'dwelling' or 'house'.",
+        "targetText": "Cuvântul englezesc „house” provine din engleza veche 'hūs', care derivă din rădăcina proto-germanică *hūsą, însemnând 'locuință' sau 'casă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "casă",
+    "genus": "feminine",
+    "definition": "O clădire folosită ca locuință pentru oameni.",
+    "pronunciation": "/kaˈsə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"casă\" comes from the Latin 'casa', meaning 'hut' or 'house', adopted from Vulgar Latin.",
+        "targetText": "Cuvântul românesc „casă” provine din latină, din 'casa', care înseamnă 'colibă' sau 'casă', preluat din latina vulgară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "roof",
+      "targetText": "acoperiș"
+    },
+    {
+      "sourceText": "window",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The house has a large garden.",
+      "targetText": "Casa are o grădină mare."
+    },
+    {
+      "sourceText": "We live in an old house.",
+      "targetText": "Locuim într-o casă veche."
+    },
+    {
+      "sourceText": "The house is located on the outskirts of the city.",
+      "targetText": "Casa se află la marginea orașului."
+    },
+    {
+      "sourceText": "The house has many windows.",
+      "targetText": "Casa are multe ferestre."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'casă' sounds like 'casa' in Spanish and Italian, both meaning 'house', which can help you recall its meaning easily."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'casă' as similar to the English word 'case'—a container or place—helping you associate it with a building or home."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ă' in 'casă' is a common feminine noun ending in Romanian, so you can remember that 'casă' is feminine."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize walking into a cozy 'casă' with a big door and many windows, just like a typical house, to anchor the word in your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

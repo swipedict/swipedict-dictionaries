@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-doorbell",
+  "parent": "ms-ro-sonerie-4d269f5d@c2e725a880a1b57ba0bd3a4d23efe518",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "doorbell",
+    "genus": "feminine",
+    "definition": "A device that produces a sound when pressed to alert someone, typically installed at a door.",
+    "pronunciation": "/ˈdɔːr.bɛl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"doorbell\" is a compound of \"door\" and \"bell,\" where \"bell\" originates from Old English 'bellan', referring to a ringing sound made by a bell.",
+        "targetText": "Cuvântul englezesc „doorbell” este un compus din „door” și „bell”, unde „bell” provine din engleza veche 'bellan', referindu-se la sunetul unui clopot."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sonerie",
+    "genus": "feminine",
+    "definition": "Un dispozitiv care emite un sunet atunci când este apăsat, folosit pentru a atrage atenția, de exemplu la o ușă.",
+    "pronunciation": "/soˈne.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"sonerie\" comes from the French 'sonnerie', which in turn derives from the Latin 'sonus' meaning 'sound, tone'.",
+        "targetText": "Cuvântul românesc „sonerie” provine din francezul 'sonnerie', care la rândul său derivă din latină 'sonus', însemnând 'sunet, ton'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bell",
+      "targetText": "clopot"
+    },
+    {
+      "sourceText": "signal",
+      "targetText": "semnal"
+    },
+    {
+      "sourceText": "tone",
+      "targetText": "ton"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The doorbell at the front door is not working.",
+      "targetText": "Soneria de la ușa casei nu funcționează."
+    },
+    {
+      "sourceText": "Please press the doorbell when you arrive.",
+      "targetText": "Te rog să apeși soneria când ajungi."
+    },
+    {
+      "sourceText": "The doorbell rang loudly and clearly.",
+      "targetText": "Soneria a sunat tare și clar."
+    },
+    {
+      "sourceText": "We installed a new doorbell.",
+      "targetText": "Am instalat o sonerie nouă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"sonerie\" by linking it to the English word \"sonic,\" which relates to sound—both share the Latin root 'sonus'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a French salon where elegant music plays—\"sonerie\" comes from French, so imagine a refined sound to recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"doorbell\" is straightforward: a bell at the door. \"Sonerie\" is the Romanian equivalent, connected to sound ('sonus')."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"sonerie\" with the English word \"sonar,\" which uses sound waves—both involve sounds, helping you remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

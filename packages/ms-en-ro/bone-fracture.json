@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bone-fracture",
+  "parent": "ms-ro-fractura-osoasa-01d8f8e1@a35a3aa537774cf392547e4b937116f3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bone fracture",
+    "genus": "masculine",
+    "definition": "A break or crack in a bone within the body, usually caused by injury or trauma.",
+    "pronunciation": "/boʊn ˈfræk.tʃɚ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'bone fracture' combines 'bone', from Old English 'bān' meaning the rigid organ forming the skeleton, and 'fracture', from Latin 'fractura', meaning a break or crack. 'Fracture' entered English through Old French, reflecting the Latin root 'frangere' meaning 'to break'.",
+        "targetText": "Cuvântul englezesc „bone fracture” combină „bone”, provenit din engleza veche 'bān', care înseamnă organul rigid ce formează scheletul, și „fracture”, din latină 'fractura', care înseamnă o ruptură sau fisură. „Fracture” a intrat în engleză prin franceza veche, reflectând rădăcina latină 'frangere' care înseamnă „a rupe”."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fractură osoasă",
+    "genus": "feminine",
+    "definition": "Ruperea unui os în corp, de obicei cauzată de un accident sau o leziune.",
+    "pronunciation": "/frakˈtu.rə oˈso.a.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'fractură' comes from Latin 'fractura', derived from 'frangere' (to break). 'Osoasă' is the adjective form of 'os' (bone), which also originates from Latin 'os, ossis'.",
+        "targetText": "Cuvântul românesc „fractură” provine din latină, din 'fractura', derivat din 'frangere' (a rupe). „Osoasă” este adjectivul de la „os”, care provine tot din latină, 'os, ossis'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fracture",
+      "targetText": "fractură"
+    },
+    {
+      "sourceText": "bone",
+      "targetText": "os"
+    },
+    {
+      "sourceText": "accident",
+      "targetText": "accident"
+    },
+    {
+      "sourceText": "injury",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The doctor diagnosed a bone fracture in the arm.",
+      "targetText": "Doctorul a diagnosticat o fractură osoasă la braț."
+    },
+    {
+      "sourceText": "After the fall, she had a bone fracture in her leg.",
+      "targetText": "După căzătură, ea a avut o fractură osoasă la picior."
+    },
+    {
+      "sourceText": "A bone fracture often needs to be treated with a cast.",
+      "targetText": "O fractură osoasă trebuie adesea tratată cu un ghips."
+    },
+    {
+      "sourceText": "The bone fracture healed after several weeks.",
+      "targetText": "Fractura osoasă s-a vindecat după câteva săptămâni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fracture' sounds like 'fracture' in English, meaning a break; it helps you link the Romanian 'fractură' to its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'frangere' means 'to break' in Latin, which is the origin of many English words like 'fragment' and 'fracture'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'osoasă' as related to 'os' meaning bone; it sounds like 'oasis'—imagine bones as little oases of strength in your body."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a bone breaking with a sharp 'frak-ture' sound to help remember the Romanian word 'fractură'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

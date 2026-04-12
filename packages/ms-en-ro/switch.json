@@ -1,0 +1,117 @@
+{
+  "id": "ms-en-ro-switch",
+  "parent": "ms-ro-a-comuta-c94cb3e1@c70fe7dd81ada2b91b10f83219e36548",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "switch",
+    "definition": "To change from one state, setting, or channel to another, especially in devices or systems.",
+    "pronunciation": "/swɪtʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'switch' originates from the Middle English 'swichen', meaning to move or change quickly, possibly related to the Old Norse 'svíkja' meaning to turn aside or change.",
+        "targetText": "Verbul englezesc „switch” provine din engleza mijlocie „swichen”, care înseamnă a se mișca sau a schimba rapid, posibil legat de vechiul norvegian „svíkja” care înseamnă a se întoarce sau a schimba direcția."
+      },
+      "source": "Etymological dictionaries, Linguistic analysis"
+    },
+    "additional": "First conjugation verb."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a comuta",
+    "definition": "A schimba de la o stare, setare sau canal la altul, în special în cazul aparatelor sau sistemelor.",
+    "pronunciation": "/a koˈmuta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a comuta' derives from the Latin verb 'commutare', meaning 'to change' or 'to exchange', composed of 'com-' (together) and 'mutare' (to change).",
+        "targetText": "Verbul românesc „a comuta” provine din verbul latin 'commutare', care înseamnă 'a schimba', format din 'com-' (împreună) și 'mutare' (a schimba)."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "adjust",
+      "targetText": "a regla"
+    },
+    {
+      "sourceText": "switch (device)",
+      "targetText": "comutator"
+    },
+    {
+      "sourceText": "switch (TV)",
+      "targetText": "a schimba canalul"
+    },
+    {
+      "sourceText": "change",
+      "targetText": "a schimba"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "leave on",
+      "targetText": "a lăsa pornit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I switch the TV.",
+      "targetText": "Eu comut televizorul."
+    },
+    {
+      "sourceText": "Can you please switch to the next channel?",
+      "targetText": "Poți, te rog, să comuți pe următorul canal?"
+    },
+    {
+      "sourceText": "The device switches automatically when the battery is empty.",
+      "targetText": "Aparatul comută automat când bateria este descărcată."
+    },
+    {
+      "sourceText": "We need to switch to night mode.",
+      "targetText": "Trebuie să comutăm pe modul de noapte."
+    },
+    {
+      "sourceText": "Please don't keep switching constantly, it confuses me.",
+      "targetText": "Te rog să nu comuți mereu, mă derutează."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a light switch that lets you change the light from on to off—'a comuta' means to switch or change settings just like flipping a switch."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'comuta' sounds like 'commute', which means to change or travel between places regularly—both involve switching or changing."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'comuta' by associating it with the English word 'commute' and the idea of changing from one thing to another."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine holding a 'comutator' (switch) in your hand that lets you toggle between channels or modes—this helps link the Romanian word to the English concept of switching."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

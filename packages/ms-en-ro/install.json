@@ -1,0 +1,204 @@
+{
+  "id": "ms-en-ro-install",
+  "parent": "ms-ro-a-instala-9870fda5@77ca1e2099d4338aa844552459d75337",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:italian",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "install",
+    "definition": "to set up a program or device and make it ready for use",
+    "pronunciation": "/ɪnˈstɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"install\" comes from the Italian \"installare\", which itself derives from the Latin \"installare\", meaning \"to place in position\".",
+        "targetText": "Cuvântul englezesc „install” provine din italianul „installare”, care la rândul său derivă din latinul „installare”, însemnând „a pune într-o poziție”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in technical contexts, especially related to software, devices, and infrastructure."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a instala",
+    "definition": "a pregăti un program sau un dispozitiv pentru utilizare",
+    "pronunciation": "/a inˈsta.la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a instala” was borrowed from the Italian „installare”, which in turn comes from the Late Latin „installare” (\"to set up, to place\").",
+        "targetText": "Verbul românesc „a instala” este împrumutat din italianul „installare”, care provine la rândul său din latinul târziu „installare” („a pune, a instala”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Important in IT and technology for initializing and making software or hardware operational."
+  },
+  "senses": [
+    {
+      "gloss": "install (general use)",
+      "explanation": {
+        "sourceText": "Used in technical contexts, e.g., setting up software or devices.",
+        "targetText": "Utilizare în context tehnic, de exemplu pentru configurarea software-ului sau a dispozitivelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I install the new software.",
+          "targetText": "Eu instalez noul software."
+        },
+        {
+          "sourceText": "Do you install the program on your computer?",
+          "targetText": "Instalezi programul pe computerul tău?"
+        }
+      ]
+    },
+    {
+      "gloss": "hardware setup",
+      "explanation": {
+        "sourceText": "Refers to setting up or assembling hardware components.",
+        "targetText": "Se referă la configurarea sau montarea componentelor hardware."
+      },
+      "examples": [
+        {
+          "sourceText": "The technician installs the new hardware.",
+          "targetText": "Tehnicianul instalează noul hardware."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "application",
+      "targetText": "aplicație"
+    },
+    {
+      "sourceText": "device",
+      "targetText": "dispozitiv"
+    },
+    {
+      "sourceText": "program",
+      "targetText": "program"
+    },
+    {
+      "sourceText": "software",
+      "targetText": "software"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "uninstall",
+      "targetText": "a dezinstala"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I install the new software.",
+      "targetText": "Eu instalez noul software."
+    },
+    {
+      "sourceText": "Do you install the program on your computer?",
+      "targetText": "Instalezi programul pe computerul tău?"
+    },
+    {
+      "sourceText": "The technician installs the new hardware.",
+      "targetText": "Tehnicianul instalează noul hardware."
+    },
+    {
+      "sourceText": "We will install the system tomorrow.",
+      "targetText": "Noi instalăm sistemul mâine."
+    },
+    {
+      "sourceText": "Are you installing the changes?",
+      "targetText": "Instalați modificările?"
+    },
+    {
+      "sourceText": "They install the devices in the office.",
+      "targetText": "Ei instalează echipamentele în birou."
+    },
+    {
+      "sourceText": "I have installed the update.",
+      "targetText": "Am instalat actualizarea."
+    },
+    {
+      "sourceText": "They have installed the software.",
+      "targetText": "Ei au instalat software-ul."
+    },
+    {
+      "sourceText": "He often installed the new program.",
+      "targetText": "El instala adesea noul program."
+    },
+    {
+      "sourceText": "I had already installed the software.",
+      "targetText": "Instalasem deja software-ul."
+    },
+    {
+      "sourceText": "I will install the application on Friday.",
+      "targetText": "Voi instala aplicația vineri."
+    },
+    {
+      "sourceText": "She will install the updates on Saturday.",
+      "targetText": "Ea o să instaleze actualizările sâmbătă."
+    },
+    {
+      "sourceText": "I would install the software if I had time.",
+      "targetText": "Aș instala software-ul dacă aș avea timp."
+    },
+    {
+      "sourceText": "It is important that you install the program.",
+      "targetText": "Este important să instalezi programul."
+    },
+    {
+      "sourceText": "Install the new device!",
+      "targetText": "Instalează noul dispozitiv!"
+    },
+    {
+      "sourceText": "Please install the changes!",
+      "targetText": "Instalați modificările, vă rog!"
+    },
+    {
+      "sourceText": "The installed software works perfectly.",
+      "targetText": "Software-ul instalat funcționează perfect."
+    },
+    {
+      "sourceText": "The update is now installed.",
+      "targetText": "Actualizarea este acum instalată."
+    },
+    {
+      "sourceText": "While installing, he placed his face in front of the monitor.",
+      "targetText": "Instalând, și-a pus fața în fața monitorului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"install\" sounds like \"in stall\"—imagine putting something firmly in a stall or place to remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"install\" is related to setting something up, just like you might \"install\" a new app on your phone."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb \"a instala\" looks and sounds very similar to the English \"install\", making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"install\" as placing something inside a system, like installing hardware inside a computer case."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

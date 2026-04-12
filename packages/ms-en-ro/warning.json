@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-warning",
+  "parent": "ms-ro-avertisment-5be3ba61@abf36302e2d0280f9a004e8f7ba3caeb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "warning",
+    "genus": "feminine",
+    "definition": "A formal notice urging someone to fulfill an obligation, often related to unpaid bills or duties.",
+    "pronunciation": "/ˈwɔːrnɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"warning\" derives from the verb \"warn,\" which comes from Old English 'warnian' meaning 'to caution or admonish.' It is related to the Old High German root meaning 'to remind or advise,' and shares roots with the Latin 'monere,' meaning 'to advise or warn.'",
+        "targetText": "Cuvântul englezesc „warning” derivă din verbul „warn”, care provine din engleza veche 'warnian' și înseamnă 'a avertiza sau a sfătui'. Este înrudit cu o rădăcină veche care înseamnă 'a aminti sau a sfătui' și are legături cu latinescul 'monere', care înseamnă 'a sfătui sau a avertiza'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avertisment",
+    "genus": "neuter",
+    "definition": "O notificare formală care solicită îndeplinirea unei obligații, adesea legată de plăți restante sau alte datorii.",
+    "pronunciation": "/a.versˈtis.mɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"avertisment\" comes from the French 'avertissement', which in turn derives from the verb 'avertir', itself coming from the Latin 'advertere' (to turn towards, to draw attention).",
+        "targetText": "Cuvântul românesc „avertisment” provine din francezul 'avertissement', derivat din verbul 'avertir', care la rândul său vine din latinescul 'advertere' (a întoarce spre, a atrage atenția)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "reminder",
+      "targetText": "amintire"
+    },
+    {
+      "sourceText": "claim",
+      "targetText": "cerere"
+    },
+    {
+      "sourceText": "invoice",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "caution",
+      "targetText": "avertizare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "exemption",
+      "targetText": "scutire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The warning was sent by mail.",
+      "targetText": "Avertismentul a fost trimis prin poștă."
+    },
+    {
+      "sourceText": "Often a second warning follows the first.",
+      "targetText": "După primul avertisment urmează adesea un al doilea."
+    },
+    {
+      "sourceText": "The warning reminds of the outstanding payment.",
+      "targetText": "Avertismentul amintește de plata restantă."
+    },
+    {
+      "sourceText": "He received a warning for late return.",
+      "targetText": "A primit un avertisment din cauza întoarcerii întârziate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'avertisment' sounds like the English 'advertisement' but means a formal warning—think of it as an important notice you can't ignore."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'avertisment' by linking it to the English word 'alert'—both involve drawing attention to something important."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'avertisment' as a cousin of the English 'avert,' meaning to turn away or prevent something bad by warning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine receiving an 'avertisment' email—like a warning message urging you to act, similar to a 'heads-up' in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

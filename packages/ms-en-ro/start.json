@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-start",
+  "parent": "ms-ro-a-incepe-c9fa4809@a557013c8cc889010887cfccfb661b32",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "start",
+    "definition": "to begin or set out on an activity or process",
+    "pronunciation": "/stɑːrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"start\" originates from Middle English, possibly from Old English \"steart\" meaning 'tail' or 'tail-like projection', later evolving to mean 'to move suddenly' or 'to begin'. It has been used for centuries to indicate the beginning of an action or event.",
+        "targetText": "Cuvântul englezesc „start” provine din engleza mijlocie, posibil din „steart” din engleza veche, care însemna „coadă” sau „proeminență în formă de coadă”, evoluând ulterior să însemne „a se mișca brusc” sau „a începe”. A fost folosit de secole pentru a indica începutul unei acțiuni sau eveniment."
+      },
+      "source": "AI"
+    },
+    "additional": "An irregular verb with strong conjugations. Commonly used in informal contexts to express the beginning of an action."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a începe",
+    "definition": "a începe ceva",
+    "pronunciation": "/ɨnˈtʃe.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „incipere“, was „beginnen“ bedeutet. Die rumänische Form hat sich im Laufe der Zeit angepasst und ist zur gängigen Form für das Beginnen von Aktivitäten geworden.",
+        "targetText": "Provine din latinescul „incipere”, care înseamnă „a începe”."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in verschiedenen Kontexten, um den Anfang von etwas zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Opening",
+      "explanation": {
+        "sourceText": "\"Opening\" also describes the beginning of an event or occasion.",
+        "targetText": "'Deschiderea' descrie începutul unui eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "The opening takes place on Saturday.",
+          "targetText": "Deschiderea are loc sâmbătă."
+        }
+      ]
+    },
+    {
+      "gloss": "Start (Beginning)",
+      "explanation": {
+        "sourceText": "\"Started\" refers to the start or beginning of something.",
+        "targetText": "'A început' se referă la începutul a ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "We start tomorrow.",
+          "targetText": "Noi începem mâine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "task",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "project",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "process",
+      "targetText": "proces"
+    },
+    {
+      "sourceText": "beginning",
+      "targetText": "început"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stop",
+      "targetText": "a termina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I start the project.",
+      "targetText": "Eu încep proiectul."
+    },
+    {
+      "sourceText": "Are you starting today?",
+      "targetText": "Începi astăzi?"
+    },
+    {
+      "sourceText": "She starts tomorrow.",
+      "targetText": "Ea începe mâine."
+    },
+    {
+      "sourceText": "We start now.",
+      "targetText": "Noi începem acum."
+    },
+    {
+      "sourceText": "Are you starting soon?",
+      "targetText": "Începeți în curând?"
+    },
+    {
+      "sourceText": "They start the round.",
+      "targetText": "Ei încep runda."
+    },
+    {
+      "sourceText": "I have started the book.",
+      "targetText": "Am început cartea."
+    },
+    {
+      "sourceText": "He started working back then.",
+      "targetText": "El începea atunci să lucreze."
+    },
+    {
+      "sourceText": "I will start soon.",
+      "targetText": "Voi începe în curând."
+    },
+    {
+      "sourceText": "I would start if I had time.",
+      "targetText": "Aș începe dacă aș avea timp."
+    },
+    {
+      "sourceText": "Start!",
+      "targetText": "Începe!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a începe' means 'to start' — think of starting a race or a new project."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'începe' sounds like 'in-che-peh' — imagine 'in' the 'che'ckpoint to begin a journey."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'a începe' with the English word 'inception' which also means beginning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'începe' as the action you do when you 'initiate' something new."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

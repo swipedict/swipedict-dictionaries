@@ -1,0 +1,105 @@
+{
+  "id": "ms-en-ro-business",
+  "parent": "ms-ro-magazin-5b7e64a8@545514cf2083805e954556d826d8d519",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "business",
+    "genus": "neuter",
+    "definition": "A place where goods are sold or a commercial activity or enterprise.",
+    "pronunciation": "/ˈbɪznɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'business' originates from the Old English 'bisignis' meaning 'care, occupation, or anxiety', evolving to signify 'a person's trade or occupation'. It is related to the word 'busy', reflecting the state of being engaged in activity.",
+        "targetText": "Cuvântul englezesc „business” provine din engleza veche 'bisignis', care însemna 'grijă, ocupație sau neliniște', evoluând pentru a desemna 'meseria sau ocupația unei persoane'. Este legat de cuvântul 'busy', reflectând starea de a fi ocupat cu o activitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "magazin",
+    "genus": "neuter",
+    "definition": "Un loc unde se vând bunuri sau o afacere comercială.",
+    "pronunciation": "/maɡaˈzin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'magazin' comes from the French 'magasin', originally meaning 'warehouse' or 'storehouse', and later 'shop' as a place of sale.",
+        "targetText": "Cuvântul românesc „magazin” provine din franceza 'magasin', inițial însemnând 'depozit' sau 'magazie', ulterior 'magazin' ca loc de vânzare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "trade",
+      "targetText": "comerț"
+    },
+    {
+      "sourceText": "department store",
+      "targetText": "universal"
+    },
+    {
+      "sourceText": "shop",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "sale",
+      "targetText": "vânzare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I go to the business to buy groceries.",
+      "targetText": "Merg la magazin să cumpăr alimente."
+    },
+    {
+      "sourceText": "The business is doing well this year.",
+      "targetText": "Afacerea merge bine anul acesta."
+    },
+    {
+      "sourceText": "The business is open from 9 a.m. to 6 p.m.",
+      "targetText": "Magazinul este deschis de la 9 la 18."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'magazin' sounds like 'magazine' in English but means 'store' or 'shop', so don't confuse it with the English word for a publication."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'business' in English can mean both a commercial activity and a place, but in Romanian 'magazin' specifically refers to the place where goods are sold."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'magazin' as a 'magazine' of goods—a collection or storage place—helping you recall it means 'store' or 'shop'."
+    },
+    {
+      "lang": "en",
+      "text": "When you visit a 'magazin', imagine walking into a large warehouse full of products, which connects to the original French meaning of 'magasin' as a storehouse."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

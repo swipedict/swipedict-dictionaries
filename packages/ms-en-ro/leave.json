@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-leave",
+  "parent": "ms-ro-a-lasa-febadf41@8a8b73d3dbedd718cd5f405c6524f35f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "leave",
+    "definition": "to allow someone to do something; to keep something in a particular state or condition",
+    "pronunciation": "/liːv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"leave\" originates from Old English \"lǣfan\", meaning \"to allow, to let remain\". It is related to other Germanic forms and has evolved over time to its current usage.",
+        "targetText": "Verbul englezesc „leave“ provine din engleza veche „lǣfan“, care înseamnă „a permite, a lăsa să rămână“. Este înrudit cu alte forme germanice și a evoluat de-a lungul timpului până la utilizarea sa actuală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is commonly used to express permission or the act of letting go. It also has various specific meanings depending on the context."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa",
+    "definition": "a permite cuiva să facă ceva; a lăsa ceva într-o anumită stare",
+    "pronunciation": "/ləˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a lăsa“ derives from the Latin „laxare“, meaning \"to loosen, to release, to let go.\"",
+        "targetText": "Verbul românesc „a lăsa“ provine din latină, de la „laxare“, care înseamnă „a slăbi, a elibera, a lăsa“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb (-a). It is often used to describe leaving something as is, whether granting permission or physically letting go of objects."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "give up",
+      "targetText": "a renunța"
+    },
+    {
+      "sourceText": "permission",
+      "targetText": "permisiune"
+    },
+    {
+      "sourceText": "allow",
+      "targetText": "a permite"
+    },
+    {
+      "sourceText": "force",
+      "targetText": "a obliga"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "take",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I leave the window open.",
+      "targetText": "Las fereastra deschisă."
+    },
+    {
+      "sourceText": "I left the door open.",
+      "targetText": "Am lăsat ușa deschisă."
+    },
+    {
+      "sourceText": "I will leave the book here.",
+      "targetText": "Voi lăsa cartea aici."
+    },
+    {
+      "sourceText": "I would leave the car parked if it rains.",
+      "targetText": "Aș lăsa mașina acolo dacă plouă."
+    },
+    {
+      "sourceText": "By leaving the bag, I go home.",
+      "targetText": "Lăsând geanta, plec acasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'leave' as letting something stay or go—like leaving a room or leaving a message."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a lăsa' sounds like 'leave' with a soft ending—easy to remember as both mean to let something be."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'leave' by associating it with 'leave it alone'—which matches the idea of 'a lăsa' meaning to let something remain."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine telling someone 'leave it' to allow or permit, just like 'a lăsa' means to allow or let."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

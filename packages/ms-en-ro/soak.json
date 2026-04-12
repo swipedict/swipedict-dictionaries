@@ -1,0 +1,217 @@
+{
+  "id": "ms-en-ro-soak",
+  "parent": "ms-ro-a-inmuia-a96ef14b@5aaa9a3fb2229976da0cfede348a06fc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "soak",
+    "definition": "to put something in liquid so that it becomes softer or larger",
+    "pronunciation": "/soʊk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb “soak” comes from Old English “sōcian,” meaning to make wet or to steep. It describes the action of immersing something in liquid to soften or saturate it.",
+        "targetText": "Cuvântul englezesc „soak” provine din engleza veche „sōcian”, care înseamnă a uda sau a înmuia. Exprimă acțiunea de a pune ceva în lichid pentru a-l înmuia sau a-l satura."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in cooking contexts to prepare ingredients."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a înmuia",
+    "definition": "a pune ceva în lichid, pentru a deveni mai moale sau mai mare",
+    "pronunciation": "/a ɨnˈmuja/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a înmuia” is an internal derivation formed from the prefix „în-” and the verb „mui” (from „moale”, derived from Latin „mollis” meaning “soft”).",
+        "targetText": "Verbul românesc „a înmuia” este format intern din prefixul „în-” și verbul „mui” (derivat din „moale”, din latinescul „mollis” – „moale”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb (-a). Important in cooking, especially when preparing dishes that require soaked ingredients."
+  },
+  "senses": [
+    {
+      "gloss": "soak (in water)",
+      "explanation": {
+        "sourceText": "Also used in relation to water to make something softer.",
+        "targetText": "De asemenea, în legătură cu apa, pentru a face ceva mai moale."
+      },
+      "examples": [
+        {
+          "sourceText": "The noodles need to be soaked.",
+          "targetText": "Pastele trebuie înmuiate."
+        }
+      ]
+    },
+    {
+      "gloss": "soak (food)",
+      "explanation": {
+        "sourceText": "Specifically refers to soaking food items.",
+        "targetText": "Se referă în special la înmuierea alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I soak the beans.",
+          "targetText": "Eu înmuiez fasolea."
+        },
+        {
+          "sourceText": "I have soaked the peas.",
+          "targetText": "Am înmuiat mazărea."
+        }
+      ]
+    },
+    {
+      "gloss": "put in liquid",
+      "explanation": {
+        "sourceText": "General meaning of soaking, usually in liquid.",
+        "targetText": "Sens general al înmuiatului, de obicei în lichid."
+      },
+      "examples": [
+        {
+          "sourceText": "He soaks the vegetables.",
+          "targetText": "El înmoaie legumele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "liquid",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    },
+    {
+      "sourceText": "preparation",
+      "targetText": "preparare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dry",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I soak the beans.",
+      "targetText": "Eu înmuiez fasolea."
+    },
+    {
+      "sourceText": "Do you soak the noodles?",
+      "targetText": "Înmuiești pastele?"
+    },
+    {
+      "sourceText": "He soaks the vegetables.",
+      "targetText": "El înmoaie legumele."
+    },
+    {
+      "sourceText": "We soak the lentils.",
+      "targetText": "Noi înmuiem lintele."
+    },
+    {
+      "sourceText": "Do you soak the almonds?",
+      "targetText": "Înmuiați migdalele?"
+    },
+    {
+      "sourceText": "They soak the tomatoes.",
+      "targetText": "Ei înmoaie roșiile."
+    },
+    {
+      "sourceText": "I have soaked the peas.",
+      "targetText": "Am înmuiat mazărea."
+    },
+    {
+      "sourceText": "They have soaked the nuts.",
+      "targetText": "Au înmuiat nucile."
+    },
+    {
+      "sourceText": "He soaked the bread for the soup.",
+      "targetText": "El înmuia pâinea pentru supă."
+    },
+    {
+      "sourceText": "I had already soaked the beans before I started cooking.",
+      "targetText": "Înmuiaisem deja fasolea înainte să încep să gătesc."
+    },
+    {
+      "sourceText": "I will soak the rice.",
+      "targetText": "Voi înmuia orezul."
+    },
+    {
+      "sourceText": "They will soak the lentils tomorrow.",
+      "targetText": "Ei o să înmoaie lințele mâine."
+    },
+    {
+      "sourceText": "I would soak the almonds if I had time.",
+      "targetText": "Aș înmuia migdalele dacă aș avea timp."
+    },
+    {
+      "sourceText": "It is important that you soak the vegetables.",
+      "targetText": "Este important să înmoi legumele."
+    },
+    {
+      "sourceText": "Soak the potatoes!",
+      "targetText": "Înmoaie cartofii!"
+    },
+    {
+      "sourceText": "Soak the beans!",
+      "targetText": "Înmuiați fasolea!"
+    },
+    {
+      "sourceText": "The soaked lentils are ready to cook.",
+      "targetText": "Lințele înmuiate sunt gata pentru gătit."
+    },
+    {
+      "sourceText": "The rice is soaked.",
+      "targetText": "Orezul este înmuiat."
+    },
+    {
+      "sourceText": "While I soak the beans, I prepare the vegetables.",
+      "targetText": "Înmuind fasolea, pregătesc legumele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'soak' by thinking of a sponge soaking up water—just like soaking food in liquid."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian prefix 'în-' means 'in' or 'into', helping you recall the action of putting something into liquid."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'soak' sounding like 'sock'—a sock gets wet when soaked, just like food does."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the verb forms: 'I soak', 'I soaked', 'I will soak' to get comfortable using 'a înmuia' in different tenses."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

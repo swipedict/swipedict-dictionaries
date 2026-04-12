@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-basil",
+  "parent": "ms-ro-busuioc-49e16354@9e2bb46162d8e106b60b5f8295bb826a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:greek",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "basil",
+    "genus": "masculine",
+    "definition": "An aromatic herb commonly used in cooking to add flavor.",
+    "pronunciation": "/ˈbæzəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"basil\" derives from the Greek term \"basilikón phutón,\" meaning 'royal plant,' which passed into English through Latin.",
+        "targetText": "Cuvântul englezesc „basil” provine din termenul grecesc „basilikón phutón”, care înseamnă „plantă regală”, și a fost preluat în engleză prin latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "busuioc",
+    "genus": "neuter",
+    "definition": "O plantă aromatică folosită frecvent în bucătărie.",
+    "pronunciation": "/buˈsujok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"busuioc\" ultimately comes from the Greek \"basilikón\" (meaning 'royal'), but it was adopted into Romanian through Slavic languages.",
+        "targetText": "Cuvântul românesc „busuioc” provine în cele din urmă din grecescul „basilikón” (însemnând „regal”), fiind preluat în română prin intermediul limbilor slave."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "spice",
+      "targetText": "condiment"
+    },
+    {
+      "sourceText": "cooking",
+      "targetText": "gătit"
+    },
+    {
+      "sourceText": "herbs",
+      "targetText": "ierburi"
+    },
+    {
+      "sourceText": "plant",
+      "targetText": "plantă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have fresh basil in the garden.",
+      "targetText": "Am busuioc proaspăt în grădină."
+    },
+    {
+      "sourceText": "Basil goes well with tomatoes.",
+      "targetText": "Busuiocul merge bine cu roșiile."
+    },
+    {
+      "sourceText": "We use basil in many dishes.",
+      "targetText": "Folosim busuioc în multe feluri de mâncare."
+    },
+    {
+      "sourceText": "The scent of basil is very pleasant.",
+      "targetText": "Mirosul busuiocului este foarte plăcut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'basil' sounds like 'bazil'—imagine a royal basil plant reigning in your kitchen garden."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'busuioc' ends with '-ioc', a common ending for plant names in Romanian, helping you spot herbs easily."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'busuioc' as 'busi' + 'ioc'—like a bus carrying royal herbs through your cooking."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the fresh, sweet smell of basil with the Romanian 'busuioc' to remember the word by scent."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

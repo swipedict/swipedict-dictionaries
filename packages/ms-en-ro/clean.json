@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-clean",
+  "parent": "ms-ro-a-curata-597f1881@60db617b263ce19c77e0a4dcf92112cc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "clean",
+    "definition": "to remove dirt, impurities, or unwanted substances from something",
+    "pronunciation": "/kliːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"clean\" comes from Old English \"clǣne\", which is related to the Germanic root meaning 'pure' or 'free from dirt'.",
+        "targetText": "Cuvântul englezesc „clean“ provine din engleza veche „clǣne“, care este legat de rădăcina germanică ce înseamnă „pur“ sau „fără murdărie“."
+      },
+      "source": "Online Etymology Dictionary"
+    },
+    "additional": "Regular verb. It can be used for cleaning objects as well as personal hygiene."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a curăța",
+    "definition": "a face ceva curat, a igieniza",
+    "pronunciation": "/a kuˈrət͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a curăța\" derives from the Latin \"curare\" (to take care of, to care for) and evolved to mean \"to clean\".",
+        "targetText": "Verbul românesc „a curăța“ derivă din latinescul „curare“ (a avea grijă) și a evoluat cu sensul de „a curăța“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb. Commonly used in everyday language for cleaning rooms or objects."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Hygiene",
+      "targetText": "igienă"
+    },
+    {
+      "sourceText": "Cleaning",
+      "targetText": "a șterge"
+    },
+    {
+      "sourceText": "Cleaning agent",
+      "targetText": "detergent"
+    },
+    {
+      "sourceText": "Cleanliness",
+      "targetText": "curățenie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to dirty",
+      "targetText": "a murdări"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I clean the window.",
+      "targetText": "Eu curăț fereastra."
+    },
+    {
+      "sourceText": "I cleaned the carpet.",
+      "targetText": "Am curățat covorul."
+    },
+    {
+      "sourceText": "I will clean the car tomorrow.",
+      "targetText": "Voi curăța mașina mâine."
+    },
+    {
+      "sourceText": "I would clean it if I had time.",
+      "targetText": "Aș curăța-o dacă aș avea timp."
+    },
+    {
+      "sourceText": "Clean your room!",
+      "targetText": "Curăță-ți camera!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a curăța\" sounds like \"curate\" in English, which means to take care of something carefully—just like cleaning."
+    },
+    {
+      "lang": "en",
+      "text": "The root \"cur\" in \"a curăța\" is related to \"cure\" and \"curator\", all about care and attention, helping you link it to cleaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"clean\" and \"curăța\" both starting with a hard 'c' sound and involving making something pure or tidy."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'cure' a mess by cleaning it—this connection can help you remember the meaning of \"a curăța\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

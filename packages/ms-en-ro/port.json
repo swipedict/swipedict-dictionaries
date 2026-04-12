@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-port",
+  "parent": "ms-ro-port-43915dcc@d25f9552fa9ea8678864ab30a4959f0d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "port",
+    "genus": "neuter",
+    "definition": "A sheltered place on the coast or a river where ships can dock, load, and unload goods.",
+    "pronunciation": "/pɔːrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “port” comes from the Latin 'portus', meaning a harbor or haven, originally referring to a place where ships could safely dock.",
+        "targetText": "Cuvântul englezesc „port” provine din latină, din termenul 'portus', care înseamnă un port sau un loc de adăpost, desemnând inițial un loc unde navele puteau acosta în siguranță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "port",
+    "genus": "neuter",
+    "definition": "Un loc protejat pe coastă sau pe un râu, unde navele pot acosta, încărca și descărca mărfuri.",
+    "pronunciation": "/port/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “port” derives from the Latin 'portus', meaning 'harbor' or 'place to dock', and was directly adopted into Romanian.",
+        "targetText": "Cuvântul românesc „port” provine din latină, din termenul 'portus', care înseamnă 'port' sau 'loc de acostare', preluat direct în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to dock",
+      "targetText": "a acosta"
+    },
+    {
+      "sourceText": "port city",
+      "targetText": "oraș portuar"
+    },
+    {
+      "sourceText": "coast",
+      "targetText": "coastă"
+    },
+    {
+      "sourceText": "ship",
+      "targetText": "navă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "open sea",
+      "targetText": "mare deschisă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The port is full of large cargo ships.",
+      "targetText": "Portul este plin cu vase mari de marfă."
+    },
+    {
+      "sourceText": "The ship docked safely in the port.",
+      "targetText": "Nava a acostat în siguranță în port."
+    },
+    {
+      "sourceText": "Many goods are handled in the port.",
+      "targetText": "Multe mărfuri sunt manipulate în port."
+    },
+    {
+      "sourceText": "The port is an important transport hub.",
+      "targetText": "Portul este un nod important de transport."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word “port” sounds exactly like the Romanian “port,” making it easy to recall the meaning of a harbor or docking place."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a ‘port’ as a safe place where ships ‘park’—the ‘p’ and ‘port’ connection can help you remember."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word “port” is a direct borrowing from Latin, just like the English word, so it’s a cognate you can trust."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a busy port city where ships come and go—this image helps link the word to its meaning in both languages."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

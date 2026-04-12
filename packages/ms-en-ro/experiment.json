@@ -1,0 +1,176 @@
+{
+  "id": "ms-en-ro-experiment",
+  "parent": "ms-ro-a-experimenta-626c2cf6@01e070fdcbf7ddbccae8a4da59ec12d6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "experiment",
+    "definition": "to try out or test something in order to discover or learn more about it",
+    "pronunciation": "/ɪkˈspɛrɪmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"experiment\" comes from the Latin \"experiri\", meaning \"to try, to test\", derived from \"ex-\" (out of) and \"periri\" (to attempt).",
+        "targetText": "Cuvântul englezesc „experiment“ provine din latină, din „experiri“, care înseamnă „a încerca, a testa“, format din „ex-“ (din) și „periri“ (a încerca)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in scientific and everyday contexts to describe the process of testing hypotheses or trying new things."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a experimenta",
+    "definition": "a încerca să testezi sau să încerci lucruri noi",
+    "pronunciation": "/a eksperiˈmenta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a experimenta\" derives from the Latin \"experiri\", meaning \"to try\" or \"to test\". It is commonly used in Romanian scientific language.",
+        "targetText": "Verbul românesc „a experimenta“ derivă din latină, din „experiri“, care înseamnă „a încerca, a experimenta“, fiind folosit frecvent în limbajul științific."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Frequently used in scientific and educational contexts."
+  },
+  "senses": [
+    {
+      "gloss": "testing a hypothesis",
+      "explanation": {
+        "sourceText": "Used in scientific experiments to verify theories.",
+        "targetText": "Utilizat în experimente științifice pentru a verifica teorii."
+      },
+      "examples": [
+        {
+          "sourceText": "We test our hypothesis with an experiment.",
+          "targetText": "Testăm ipoteza noastră cu un experiment."
+        }
+      ]
+    },
+    {
+      "gloss": "trying something new",
+      "explanation": {
+        "sourceText": "An attempt to learn or apply something unknown.",
+        "targetText": "Încercarea de a învăța sau aplica ceva nou."
+      },
+      "examples": [
+        {
+          "sourceText": "I experimented with a new recipe.",
+          "targetText": "Am experimentat cu o rețetă nouă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "development",
+      "targetText": "dezvoltare"
+    },
+    {
+      "sourceText": "experience",
+      "targetText": "experiență"
+    },
+    {
+      "sourceText": "research",
+      "targetText": "cercetare"
+    },
+    {
+      "sourceText": "test",
+      "targetText": "test"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "avoid",
+      "targetText": "a evita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I experiment with new ideas.",
+      "targetText": "Experimentez cu idei noi."
+    },
+    {
+      "sourceText": "Do you often experiment in the lab?",
+      "targetText": "Experimentezi des în laborator?"
+    },
+    {
+      "sourceText": "She experiments on new projects.",
+      "targetText": "Ea experimentează la proiecte noi."
+    },
+    {
+      "sourceText": "We experiment together.",
+      "targetText": "Noi experimentăm împreună."
+    },
+    {
+      "sourceText": "Are you experimenting with this theory?",
+      "targetText": "Experimentați la această teorie?"
+    },
+    {
+      "sourceText": "They experiment regularly.",
+      "targetText": "Ei experimentează regulat."
+    },
+    {
+      "sourceText": "I experimented on a new experiment.",
+      "targetText": "Am experimentat la un nou experiment."
+    },
+    {
+      "sourceText": "I used to experiment with chemicals.",
+      "targetText": "Cândva, experimentam cu substanțe chimice."
+    },
+    {
+      "sourceText": "I will experiment in the lab tomorrow.",
+      "targetText": "Voi experimenta mâine în laborator."
+    },
+    {
+      "sourceText": "I would like to experiment more if I had the time.",
+      "targetText": "Aș vrea să experimentez mai mult, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Experiment creatively!",
+      "targetText": "Experimentează creativ!"
+    },
+    {
+      "sourceText": "The experimented project shows good results.",
+      "targetText": "Proiectul experimentat arată rezultate bune."
+    },
+    {
+      "sourceText": "While experimenting in the lab, I got new ideas.",
+      "targetText": "Experimentând în laborator, am primit idei noi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The suffix '-ment' in 'experiment' helps you remember its scientific meaning, as many English scientific terms share this ending."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a experimenta' sounds very similar to the English 'experiment', both coming from the same Latin root. Imagine yourself trying new things in a lab!"
+    },
+    {
+      "lang": "en",
+      "text": "Practice the forms 'I experiment' and 'I have experimented' to get comfortable with the Romanian conjugation."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'experiment' as a way to explore and discover, just like famous inventors and scientists do."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

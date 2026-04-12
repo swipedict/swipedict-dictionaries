@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-bird",
+  "parent": "ms-ro-pasare-45afcd17@55dd8ee8a191bf3a7484f407828a7ee5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bird",
+    "definition": "A warm-blooded, feathered animal that can usually fly and lays eggs.",
+    "pronunciation": "/bɜːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'bird' originates from Old English 'brid', originally meaning a young bird or chick, and later generalized to mean any feathered creature.",
+        "targetText": "Cuvântul englezesc „bird” provine din engleza veche 'brid', care inițial însemna o pasăre tânără sau pui, și ulterior a fost generalizat pentru a desemna orice creatură cu pene."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pasăre",
+    "genus": "feminine",
+    "definition": "Un animal cu pene care zboară și depune ouă.",
+    "pronunciation": "/paˈsə.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pasăre' derives from the Latin 'passer', which originally meant 'sparrow' but was extended to refer to birds in general.",
+        "targetText": "Cuvântul românesc „pasăre” derivă din latină, din 'passer', care inițial însemna 'vrabie', dar a fost extins pentru a desemna păsările în general."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "feather",
+      "targetText": "pană"
+    },
+    {
+      "sourceText": "wing",
+      "targetText": "aripă"
+    },
+    {
+      "sourceText": "nest",
+      "targetText": "cuib"
+    },
+    {
+      "sourceText": "birdhouse",
+      "targetText": "căsuță pentru păsări"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bird sings in the tree.",
+      "targetText": "Pasărea cântă în copac."
+    },
+    {
+      "sourceText": "I see many colorful birds in the park.",
+      "targetText": "Văd multe păsări colorate în parc."
+    },
+    {
+      "sourceText": "The bird flies high in the sky.",
+      "targetText": "Pasărea zboară sus pe cer."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pasăre' sounds like 'passer', the Latin word for sparrow, helping you link it to birds."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ăre' is common in Romanian animal names, so 'pasăre' fits this pattern."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a bird passing by to recall 'pasăre'—both start with 'pas'."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a singing bird in a park to connect the English 'bird' with Romanian 'pasăre'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-justice",
+  "parent": "ms-ro-dreptate-305c71f5@e140a9604ce2234c09c8f89ba2f6c343",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "justice",
+    "genus": "feminine",
+    "definition": "The principle of fairness and impartiality, ensuring that everyone receives what they are due.",
+    "pronunciation": "/ˈdʒʌstɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'justice' originates from the Old French 'justice', which comes from Latin 'justitia', derived from 'justus' meaning 'just' or 'fair'.",
+        "targetText": "Cuvântul englezesc „justice” provine din franceza veche 'justice', care la rândul său derivă din latină 'justitia', format din 'justus', ce înseamnă 'drept' sau 'corect'."
+      },
+      "source": "Etymological dictionaries, historical linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dreptate",
+    "genus": "feminine",
+    "definition": "Principiul de a acționa corect și imparțial, oferind fiecăruia ceea ce i se cuvine.",
+    "pronunciation": "/drepˈtat͡se/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'dreptate' derives from the Latin 'directus', meaning 'straight', 'direct', or 'lawful', evolving through 'drept' (right) to 'dreptate' (justice).",
+        "targetText": "Cuvântul românesc „dreptate” derivă din latinul 'directus', care înseamnă 'drept', 'direct' sau 'corect', evoluând în 'drept' (dreptate) și apoi în 'dreptate' (justiție)."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fairness",
+      "targetText": "corectitudine"
+    },
+    {
+      "sourceText": "Just",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Judiciary",
+      "targetText": "justiție"
+    },
+    {
+      "sourceText": "Law",
+      "targetText": "drept"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "injustice",
+      "targetText": "nedreptate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Justice is a fundamental principle in a democratic society.",
+      "targetText": "Dreptatea este un principiu fundamental într-o societate democratică."
+    },
+    {
+      "sourceText": "Many people fight for social justice.",
+      "targetText": "Mulți oameni luptă pentru dreptate socială."
+    },
+    {
+      "sourceText": "The court ensures justice.",
+      "targetText": "Instanța asigură dreptatea."
+    },
+    {
+      "sourceText": "Justice means treating everyone equally.",
+      "targetText": "Dreptatea înseamnă să tratezi pe toți în mod egal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dreptate' by linking it to the English word 'direct'—both share the idea of straightforwardness and fairness."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ate' in 'dreptate' is common for abstract nouns in Romanian, similar to English words ending in '-ate' like 'candidate' (though different meaning, helps recall)."
+    },
+    {
+      "lang": "en",
+      "text": "Think of someone walking a straight path ('drept' means 'straight' or 'right'), symbolizing the fairness and directness of justice."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'dreptate' to its Latin root 'directus', which also relates to the English word 'direct', emphasizing the concept of correctness and order."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

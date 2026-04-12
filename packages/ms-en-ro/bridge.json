@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bridge",
+  "parent": "ms-ro-pod-030a636b@1d7fb80e09dfa01ca45940172488bcfd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bridge",
+    "genus": "feminine",
+    "definition": "A structure built to span a river, road, or valley, providing a passage between two points.",
+    "pronunciation": "/brɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"bridge\" originates from the Old English 'brycg', which comes from the Proto-Germanic *brugjō, meaning a structure for crossing or connection.",
+        "targetText": "Cuvântul englezesc „bridge” provine din engleza veche 'brycg', care derivă din rădăcina proto-germanică *brugjō, semnificând o structură pentru traversare sau legătură."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pod",
+    "genus": "neuter",
+    "definition": "O construcție care traversează un râu, un drum sau o vale pentru a conecta două puncte.",
+    "pronunciation": "/pod/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"pod\" derives from the Latin 'pons, pontis', meaning 'bridge', and is preserved in many Romance languages.",
+        "targetText": "Cuvântul românesc „pod” provine din latină, de la 'pons, pontis', care înseamnă 'pod' și este păstrat în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "river",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "road",
+      "targetText": "drum"
+    },
+    {
+      "sourceText": "valley",
+      "targetText": "vale"
+    },
+    {
+      "sourceText": "tunnel",
+      "targetText": "tunel"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bridge crosses the river.",
+      "targetText": "Podul traversează râul."
+    },
+    {
+      "sourceText": "We walked over the old bridge.",
+      "targetText": "Am mers peste podul vechi."
+    },
+    {
+      "sourceText": "The bridge was built in the 19th century.",
+      "targetText": "Podul a fost construit în secolul al XIX-lea."
+    },
+    {
+      "sourceText": "This bridge is very long.",
+      "targetText": "Acest pod este foarte lung."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'pod' comes from Latin 'pons', which also gave us the English word 'pontoon'—a floating bridge."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pod' as a short, simple word that connects two sides, just like a bridge connects two banks."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'bridge' and Romanian 'pod' both describe structures that help you cross obstacles—imagine crossing a river on a 'pod'."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'pod', think of a 'podium'—a raised platform connecting you to the audience, similar to how a bridge connects two points."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

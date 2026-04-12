@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-single",
+  "parent": "ms-ro-necasatorit-35abb9d3@54f3e8f17101548230cea9128ffc3276",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "single",
+    "definition": "Not married; free from marital ties or commitments.",
+    "pronunciation": "/ˈsɪŋɡəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"single\" comes from the Old English 'sengel', meaning 'one, alone, solitary'. It is related to the concept of being separate or individual, derived from the Proto-Germanic root *sain- meaning 'one, alone'.",
+        "targetText": "Cuvântul englezesc „single” provine din engleza veche 'sengel', care înseamnă 'unu, singur, solitar'. Este legat de conceptul de a fi separat sau individual, derivat din rădăcina proto-germanică *sain- care înseamnă 'unu, singur'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is an adjective indicating the state of being unmarried or alone."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "necăsătorit",
+    "definition": "Care nu este căsătorit, liber de legături matrimoniale.",
+    "pronunciation": "/ne.kə.səˈto.rit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective \"necăsătorit\" is an internal formation from the prefix 'ne-' (negation) and 'căsătorit' (married). 'Căsătorit' comes from 'căsătorie', which ultimately derives from the Latin 'casatorium' (bridal chamber).",
+        "targetText": "Adjectivul românesc „necăsătorit” este o formare internă, compusă din prefixul negativ 'ne-' și 'căsătorit' (căsătorit). 'Căsătorit' provine din 'căsătorie', care la rândul său derivă din latinescul 'casatorium' (cameră nupțială)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort ist ein zusammengesetztes Adjektiv mit dem Negationspräfix 'ne-'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "marriage",
+      "targetText": "căsătorie"
+    },
+    {
+      "sourceText": "to remain single",
+      "targetText": "a rămâne necăsătorit"
+    },
+    {
+      "sourceText": "single person",
+      "targetText": "persoană necăsătorită"
+    },
+    {
+      "sourceText": "married",
+      "targetText": "căsătorit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "married",
+      "targetText": "căsătorit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He is single and has no children.",
+      "targetText": "El este necăsătorit și nu are copii."
+    },
+    {
+      "sourceText": "Many people remain single longer nowadays.",
+      "targetText": "Mulți oameni rămân astăzi necăsătoriți mai mult timp."
+    },
+    {
+      "sourceText": "She has been single for five years.",
+      "targetText": "Ea este necăsătorită de cinci ani."
+    },
+    {
+      "sourceText": "A single man can marry if he wants to.",
+      "targetText": "Un bărbat necăsătorit poate să se căsătorească dacă dorește."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'single' means 'not married' or 'alone', which helps you remember that 'necăsătorit' means 'not married' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian prefix 'ne-' is a common negation, similar to 'un-' or 'non-' in English, so 'necăsătorit' literally means 'not married'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'căsătorit' sounding a bit like 'castle' to remind you of the Latin root related to marriage and commitment, like a stronghold or home."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone 'ne-căsătorit' as a castle without a key—free and unattached, just like being single."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

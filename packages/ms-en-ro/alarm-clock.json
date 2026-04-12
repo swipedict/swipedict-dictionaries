@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-alarm-clock",
+  "parent": "ms-ro-ceas-desteptator-bf314dfd@33d8d9c8f679026068797ae0ab860d17",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "alarm clock",
+    "definition": "A device that produces a sound at a set time to wake someone up.",
+    "pronunciation": "/əˈlɑːrm klɒk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'alarm clock' combines 'alarm', from the Old French 'alarme' meaning a warning or call to arms, and 'clock', from the Middle English 'clokke', derived from Old North French 'cloque' meaning bell.",
+        "targetText": "Termenul englezesc „alarm clock” combină „alarmă”, din franceza veche „alarme” care înseamnă avertisment sau chemare la arme, și „clock” din engleza mijlocie „clokke”, derivat din franceza nordică veche „cloque” care înseamnă clopot."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "A compound noun formed from 'alarm' and 'clock'.",
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ceas deșteptător",
+    "genus": "neuter",
+    "definition": "Un dispozitiv care emite un semnal sonor la o oră stabilită pentru a trezi pe cineva.",
+    "pronunciation": "/t͡ʃe̯as deʃtepˈtător/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'ceas deșteptător' consists of 'ceas' (clock) and 'deșteptător' (awakening, waking). 'Ceas' comes from Latin 'clāssis' (sound, bell), while 'deșteptător' derives from the verb 'a deștepta', borrowed from Latin 'excitare'.",
+        "targetText": "Expresia românească „ceas deșteptător” este compusă din „ceas” (oră) și „deșteptător” (care trezește). „Ceas” provine din latină, din 'clāssis' (sunet, clopot), iar „deșteptător” derivă din verbul „a deștepta”, împrumutat din latină, din 'excitare'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Zusammensetzung aus Substantiv und Partizip Präsens als Adjektiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alarm",
+      "targetText": "alarmă"
+    },
+    {
+      "sourceText": "sleep",
+      "targetText": "somn"
+    },
+    {
+      "sourceText": "clock",
+      "targetText": "ceas"
+    },
+    {
+      "sourceText": "to wake",
+      "targetText": "a trezi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to sleep",
+      "targetText": "a dormi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I set the alarm clock for 7 o'clock.",
+      "targetText": "Setez ceasul deșteptător la ora 7."
+    },
+    {
+      "sourceText": "The alarm clock rings every morning at 6 o'clock.",
+      "targetText": "Ceasul deșteptător sună în fiecare dimineață la ora 6."
+    },
+    {
+      "sourceText": "Without an alarm clock, I would often get up too late.",
+      "targetText": "Fără ceas deșteptător, adesea m-aș trezi prea târziu."
+    },
+    {
+      "sourceText": "The alarm clock woke me up early today.",
+      "targetText": "Ceasul deșteptător m-a trezit devreme azi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'alarm clock' by thinking of the word 'alarm' as a loud call that wakes you up, and 'clock' as the timekeeper."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'ceas deșteptător' literally means 'clock that wakes you up'—'ceas' sounds like 'chas' in 'chasuble' but means clock."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'deșteptător' with 'detect' to remember it means 'awakening' or 'alerting'—like detecting that it's time to wake up."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English 'alarm clock' as a compound word, just like Romanian 'ceas deșteptător'—both combine the idea of time and waking."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

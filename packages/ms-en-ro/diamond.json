@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-diamond",
+  "parent": "ms-ro-romb-d0162e88@08cbaf782f2fceeda74cb862b1775b2d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "diamond",
+    "genus": "neuter",
+    "definition": "One of the four suits in a deck of playing cards, represented by red diamond shapes.",
+    "pronunciation": "/ˈdaɪmənd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"diamond\" comes from the Old French 'diamant', which itself derives from the Latin 'adamas', meaning 'invincible' or 'untameable', originally referring to the hardest known natural substance.",
+        "targetText": "Cuvântul englezesc „diamond” provine din francezul vechi 'diamant', care la rândul său derivă din latinescul 'adamas', însemnând 'invincibil' sau 'neîmblânzit', referindu-se inițial la cea mai dură substanță naturală cunoscută."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "romb",
+    "genus": "neuter",
+    "definition": "Una dintre cele patru culori ale cărților de joc, reprezentată printr-un romb roșu.",
+    "pronunciation": "/romb/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"romb\" comes from the Latin 'rhombus', which in turn comes from the Greek 'rhombos' and denotes a geometric shape.",
+        "targetText": "Cuvântul românesc „romb” provine din latinescul 'rhombus', care la rândul său vine din grecescul 'rhombos' și desemnează o formă geometrică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "heart (card suit)",
+      "targetText": "inimă"
+    },
+    {
+      "sourceText": "card",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "spade (card suit)",
+      "targetText": "treflă"
+    },
+    {
+      "sourceText": "game",
+      "targetText": "joc"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The diamond ace is an important card in the game.",
+      "targetText": "Asul de romb este o carte importantă în joc."
+    },
+    {
+      "sourceText": "I have three diamond cards in my hand.",
+      "targetText": "Am trei cărți de romb în mână."
+    },
+    {
+      "sourceText": "Diamond is one of the four suits in a deck of cards.",
+      "targetText": "Rombul este una dintre cele patru culori ale cărților de joc."
+    },
+    {
+      "sourceText": "The queen of diamonds is very valuable.",
+      "targetText": "Dama de romb este foarte valoroasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'diamond' as the precious gemstone, just like the red diamond suit in cards—both are shiny and valuable."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'romb' sounds like 'romp'—imagine a playful diamond shape romping around the card table."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the diamond shape as a tilted square; 'romb' is close to 'rhombus', a geometric term you might know from math class."
+    },
+    {
+      "lang": "en",
+      "text": "To remember the four card suits in Romanian: heart = inimă, spade = treflă, diamond = romb, club = treflă (sometimes 'cruce')."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

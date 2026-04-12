@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-suit",
+  "parent": "ms-ro-costum-6ff96363@d6907cb046a57c54c033ed876f25df37",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "suit",
+    "genus": "masculine",
+    "definition": "A set of clothes consisting of a jacket and trousers, typically worn for formal occasions.",
+    "pronunciation": "/suːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"suit\" comes from the Old French 'suite', meaning 'a set or sequence', which itself derives from the Latin 'sequi', meaning 'to follow'. The term evolved to denote a matching set of clothes.",
+        "targetText": "Cuvântul englezesc „suit” provine din franceza veche 'suite', care înseamnă 'un set sau o succesiune', derivat din latină 'sequi', care înseamnă 'a urma'. Termenul a evoluat pentru a desemna un set asortat de haine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "costum",
+    "genus": "neuter",
+    "definition": "Un set de haine format din sacou și pantaloni, purtat de obicei la ocazii formale.",
+    "pronunciation": "/kosˈtum/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'costum' comes from the French 'costume', which in turn comes from the Italian 'costume', originally from the Latin 'consuetudo' meaning 'habit' or 'custom'.",
+        "targetText": "Cuvântul românesc 'costum' provine din franceză 'costume', care la rândul său vine din italiană 'costume', derivat din latină 'consuetudo', însemnând 'obicei' sau 'cutumă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "shirt",
+      "targetText": "cămașă"
+    },
+    {
+      "sourceText": "trousers",
+      "targetText": "pantaloni"
+    },
+    {
+      "sourceText": "jacket",
+      "targetText": "sacou"
+    },
+    {
+      "sourceText": "tie",
+      "targetText": "cravată"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "He is wearing a black suit.",
+      "targetText": "El poartă un costum negru."
+    },
+    {
+      "sourceText": "The suit matches well with the tie.",
+      "targetText": "Costumul se potrivește bine cu cravata."
+    },
+    {
+      "sourceText": "I bought a new suit.",
+      "targetText": "Am cumpărat un costum nou."
+    },
+    {
+      "sourceText": "The suit is for the wedding.",
+      "targetText": "Costumul este pentru nuntă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'costum' sounds like the English 'costume', but it means 'suit' — think of a suit as a formal 'costume' for special occasions."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'costum' is neuter in Romanian, so you say 'un costum' — similar to how 'suit' is masculine in English grammar."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'costum' to the English word 'custom' because both come from Latin 'consuetudo', meaning habit or tradition — a suit is often worn by custom."
+    },
+    {
+      "lang": "en",
+      "text": "Think of putting on a 'costum' to follow a formal 'custom' or tradition at events like weddings or ceremonies."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-hammer",
+  "parent": "ms-ro-ciocan-54b84dfe@3af182e3bb1643ac6027b10d8ecb1c89",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hammer",
+    "genus": "masculine",
+    "definition": "A tool with a heavy head, usually made of metal, used for driving nails into wood or breaking objects.",
+    "pronunciation": "/ˈhæmər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hammer\" originates from Old English 'hamor', which traces back to a Proto-Germanic root *hamaraz meaning 'stone', 'rock', or 'hammer'.",
+        "targetText": "Cuvântul englezesc „hammer” provine din engleza veche 'hamor', care la rândul său derivă din rădăcina proto-germanică *hamaraz, însemnând 'piatră', 'stâncă' sau 'ciocan'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ciocan",
+    "genus": "neuter",
+    "definition": "Unealtă cu cap greu, de obicei din metal, folosită pentru a bate cuie sau a sparge obiecte.",
+    "pronunciation": "/t͡ʃoˈkan/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"ciocan\" is derived from the Romanian root \"cioc\" (beak, strike), which is probably of onomatopoeic or autochthonous origin, with the suffix \"-an\" added.",
+        "targetText": "Cuvântul românesc „ciocan” este derivat din „cioc” (posibil de origine onomatopeică sau autohtonă), la care s-a adăugat sufixul „-an”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hammerhead",
+      "targetText": "cap de ciocan"
+    },
+    {
+      "sourceText": "nail",
+      "targetText": "cui"
+    },
+    {
+      "sourceText": "screwdriver",
+      "targetText": "șurubelniță"
+    },
+    {
+      "sourceText": "tool",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I use a hammer to drive the nail in.",
+      "targetText": "Folosesc un ciocan pentru a bate cuiul."
+    },
+    {
+      "sourceText": "The hammer is an indispensable tool in the workshop.",
+      "targetText": "Ciocanul este o unealtă indispensabilă în atelier."
+    },
+    {
+      "sourceText": "He hit his thumb with the hammer.",
+      "targetText": "Și-a lovit degetul mare cu ciocanul."
+    },
+    {
+      "sourceText": "The hammer has a heavy metal head and a wooden handle.",
+      "targetText": "Ciocanul are un cap greu de metal și un mâner de lemn."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'ciocan' by linking it to the English word 'chock'—imagine the sound of a hammer hitting something hard."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'ciocan' sounding like 'chock-an'—picture yourself giving a strong 'chock' with a hammer."
+    },
+    {
+      "lang": "en",
+      "text": "Recall that 'ciocan' comes from 'cioc', meaning beak or strike, similar to how a hammer strikes nails."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine using a 'ciocan' and hearing a loud 'clang' as you hammer—'ciocan' and 'clang' help you remember the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

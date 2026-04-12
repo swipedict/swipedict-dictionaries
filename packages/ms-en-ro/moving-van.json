@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-moving-van",
+  "parent": "ms-ro-masina-de-mutat-5a8a204a@35804426307b25272e2e7193b31d1a83",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "moving van",
+    "genus": "masculine",
+    "definition": "A vehicle specifically designed for transporting furniture and household goods during a residential move.",
+    "pronunciation": "/ˈmuːvɪŋ væn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'moving van' combines 'moving', referring to the act of changing residence, and 'van', a type of vehicle used for transporting goods.",
+        "targetText": "Termenul englezesc „moving van” combină „moving”, referindu-se la acțiunea de a schimba locuința, și „van”, un tip de vehicul folosit pentru transportul bunurilor."
+      },
+      "source": "English Etymological Dictionaries"
+    },
+    "additional": "Compound term commonly used in everyday English."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mașină de mutat",
+    "genus": "neuter",
+    "definition": "Un vehicul folosit special pentru transportul mobilierului și al bunurilor casnice în timpul schimbării locuinței.",
+    "pronunciation": "/maˈʃinə de muˈtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'mașină de mutat' is a compound of 'mașină' (from Latin 'machina') and 'mutat' (the past participle of 'a muta', meaning 'to move or relocate').",
+        "targetText": "Expresia românească „mașină de mutat“ este o compunere din „mașină“ (din latină 'machina') și „mutat“ (participiul verbului 'a muta', care înseamnă 'a muta, a schimba locul')."
+      },
+      "source": "Dicționar etimologic român"
+    },
+    "additional": "Zusammengesetzter Ausdruck, gebräuchlich im Alltag."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "furniture",
+      "targetText": "mobilier"
+    },
+    {
+      "sourceText": "transport",
+      "targetText": "transport"
+    },
+    {
+      "sourceText": "move",
+      "targetText": "mutare"
+    },
+    {
+      "sourceText": "van",
+      "targetText": "mașină"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The moving van is big enough for all the furniture.",
+      "targetText": "Mașina de mutat este suficient de mare pentru tot mobilierul."
+    },
+    {
+      "sourceText": "We rented the moving van for next Saturday.",
+      "targetText": "Am închiriat mașina de mutat pentru sâmbăta viitoare."
+    },
+    {
+      "sourceText": "The moving van drives directly to the new apartment.",
+      "targetText": "Mașina de mutat merge direct la noua locuință."
+    },
+    {
+      "sourceText": "The moving van helps with the quick transport of the boxes.",
+      "targetText": "Mașina de mutat ajută la transportul rapid al cutiilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'mașină de mutat' by linking 'mașină' to the English word 'machine', which helps you recall it means 'vehicle'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mutat' as related to 'mutate' or 'move'—both involve change or movement, helping you remember it means 'to move'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'machine' that 'moves' your furniture—that's 'mașină de mutat', the moving van."
+    },
+    {
+      "lang": "en",
+      "text": "The phrase literally means 'machine for moving'—easy to remember if you think of a moving van as a special vehicle for relocating your things."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

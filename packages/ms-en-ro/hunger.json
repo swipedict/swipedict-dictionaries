@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-hunger",
+  "parent": "ms-ro-foame-178bb38f@366c8c5da60799bf0c8b7ea57fad6c53",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hunger",
+    "genus": "masculine",
+    "definition": "The physical sensation or need for food, a state of feeling hungry.",
+    "pronunciation": "/ˈhʌŋɡər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hunger\" originates from Old English 'hungor', which comes from the Proto-Germanic root *hungraz, referring to the feeling of hunger.",
+        "targetText": "Cuvântul englezesc „hunger” provine din engleza veche 'hungor', care la rândul său derivă din rădăcina proto-germanică *hungraz, desemnând senzația de foame."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "foame",
+    "genus": "feminine",
+    "definition": "Starea fizică de necesitate a hranei, senzația de a avea nevoie să mănânci.",
+    "pronunciation": "/ˈfo.a.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun \"foame\" derives from the Latin word 'fames', which also means 'hunger' and was adopted from Classical Latin.",
+        "targetText": "Substantivul românesc „foame” provine din cuvântul latin 'fames', care însemna tot «foame», preluat din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "appetite",
+      "targetText": "apetit"
+    },
+    {
+      "sourceText": "thirst",
+      "targetText": "sete"
+    },
+    {
+      "sourceText": "meal time",
+      "targetText": "ora mesei"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "hrană"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "satiety",
+      "targetText": "sațietate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am very hungry after sports.",
+      "targetText": "Am mare foame după sport."
+    },
+    {
+      "sourceText": "Hunger made him eat quickly.",
+      "targetText": "Foamea l-a făcut să mănânce repede."
+    },
+    {
+      "sourceText": "Many people suffer from hunger in the world.",
+      "targetText": "Mulți oameni suferă de foame în lume."
+    },
+    {
+      "sourceText": "Hunger can be a strong feeling.",
+      "targetText": "Foamea poate fi o senzație puternică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"foame\" sounds like \"fo-ah-meh\" — imagine calling out \"Foah!\" to your stomach when it’s hungry."
+    },
+    {
+      "lang": "en",
+      "text": "Note that \"foame\" is a feminine noun in Romanian, similar to how some English nouns have gendered articles in other languages."
+    },
+    {
+      "lang": "en",
+      "text": "Think of being so hungry you want \"FOA-mehr\" food — this helps you recall the word easily."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"foame\" with its Latin root \"fames\" — both sound similar and mean hunger."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

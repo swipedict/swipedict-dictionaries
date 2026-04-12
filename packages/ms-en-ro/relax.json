@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-relax",
+  "parent": "ms-ro-a-se-relaxa-d9968cfc@33cf6862cc57f3b5c8031fab86348355",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "YourNameOrHandle",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "relax",
+    "definition": "to become less tense or anxious; to rest and reduce physical or mental stress; to loosen or reduce tension in something",
+    "pronunciation": "/rɪˈlæks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"relax\" comes from the Old French \"relaxer,\" which derives from the Latin \"relaxare,\" meaning \"to loosen\" or \"to slacken.\"",
+        "targetText": "Cuvântul englezesc „relax” provine din franceza veche „relaxer”, care la rândul său derivă din latină „relaxare”, însemnând „a slăbi” sau „a destinde”."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Can be used reflexively (to relax oneself) or transitively (to relax muscles or other parts)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se relaxa",
+    "definition": "a se destinde, a se odihni, a elimina încordarea sau tensiunea nervoasă",
+    "pronunciation": "/a se re.lakˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a se relaxa“ is borrowed from the French „se relaxer“, which in turn comes from the Latin „relaxare“ meaning \"to loosen\" or \"to slacken.\"",
+        "targetText": "Verbul românesc „a se relaxa“ este împrumutat din franceza „se relaxer”, care provine la rândul său din latină „relaxare” („a slăbi”, „a destinde”)."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Reflexive verb. Main verb for \"to relax oneself.\" For the transitive sense of \"to relax\" (to loosen something), the verb \"a destinde\" can be used."
+  },
+  "senses": [
+    {
+      "gloss": "to relax muscles (to loosen something)",
+      "explanation": {
+        "sourceText": "To remove tension from a part of the body.",
+        "targetText": "A lua tensiunea de pe o parte a corpului."
+      },
+      "examples": [
+        {
+          "sourceText": "He tried to relax his tense shoulders.",
+          "targetText": "A încercat să-și destindă umerii încordați."
+        }
+      ]
+    },
+    {
+      "gloss": "to relax oneself (to come to rest)",
+      "explanation": {
+        "sourceText": "The process of becoming physically or mentally calm and at rest.",
+        "targetText": "Procesul de a ajunge la relaxare fizică sau mentală."
+      },
+      "examples": [
+        {
+          "sourceText": "I need to relax after work.",
+          "targetText": "Trebuie să mă relaxez după muncă."
+        },
+        {
+          "sourceText": "Relax!",
+          "targetText": "Relaxează-te!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "calm down",
+      "targetText": "a (se) calma"
+    },
+    {
+      "sourceText": "relaxation",
+      "targetText": "relaxare"
+    },
+    {
+      "sourceText": "recovery",
+      "targetText": "odihnă"
+    },
+    {
+      "sourceText": "loose",
+      "targetText": "relaxat"
+    },
+    {
+      "sourceText": "quiet",
+      "targetText": "liniște"
+    },
+    {
+      "sourceText": "reduce stress",
+      "targetText": "a reduce stresul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to tense",
+      "targetText": "a (se) încorda"
+    },
+    {
+      "sourceText": "to upset",
+      "targetText": "a (se) agita"
+    },
+    {
+      "sourceText": "to stress",
+      "targetText": "a (se) stresa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I like to relax with a good book.",
+      "targetText": "Îmi place să mă relaxez cu o carte bună."
+    },
+    {
+      "sourceText": "After sports, the muscles should relax.",
+      "targetText": "După sport, mușchii ar trebui să se relaxeze."
+    },
+    {
+      "sourceText": "How do you relax best?",
+      "targetText": "Cum te relaxezi cel mai bine?"
+    },
+    {
+      "sourceText": "The situation has eased somewhat.",
+      "targetText": "Situația s-a mai relaxat / s-a mai destins puțin."
+    },
+    {
+      "sourceText": "He was able to relax despite the noise.",
+      "targetText": "A putut să se relaxeze în ciuda zgomotului."
+    },
+    {
+      "sourceText": "We completely relaxed on vacation.",
+      "targetText": "Ne-am relaxat total în vacanță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'relax' as 're-' (again) + 'lax' (loose), meaning to loosen up or become less tense, just like the Romanian 'a se relaxa'."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'relax' sounds like 're-lax', which can help you remember it means to loosen or ease tension."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'relax' is related to 'laxative', which also means to loosen, helping you connect the meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine taking a deep breath and telling yourself to 'relax'—this matches the Romanian 'a se relaxa' perfectly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

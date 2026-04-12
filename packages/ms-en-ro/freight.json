@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-freight",
+  "parent": "ms-ro-marfa-d9c1f522@55932fdf6df106b1f89c2698a968c85a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:turkish",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "freight",
+    "genus": "feminine",
+    "definition": "Goods or cargo transported, especially by ship, airplane, train, or truck.",
+    "pronunciation": "/freɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “freight” originates from the Middle English 'freit', which comes from Old English roots related to the verb 'to carry' or 'to transport', originally meaning 'the transported goods'.",
+        "targetText": "Cuvântul englezesc „freight” provine din engleza mijlocie 'freit', care derivă din rădăcini vechi englezești legate de verbul 'a transporta', însemnând inițial 'bunurile transportate'."
+      },
+      "source": "Etymological dictionaries, historical linguistic analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "marfă",
+    "genus": "feminine",
+    "definition": "Bunuri transportate, în special prin mijloace precum navă, avion, tren sau camion.",
+    "pronunciation": "/ˈmar.fə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “marfă” is borrowed from the Turkish “marfa” or “mal” (meaning goods or merchandise), which was used in Ottoman Turkish to refer to commercial goods.",
+        "targetText": "Cuvântul românesc „marfă” provine din turcescul „marfa” sau „mal”, care înseamnă 'bun', 'produs comercial'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "goods",
+      "targetText": "bunuri"
+    },
+    {
+      "sourceText": "delivery",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "shipment",
+      "targetText": "expediere"
+    },
+    {
+      "sourceText": "transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The freight was delivered on time.",
+      "targetText": "Marfa a fost livrată la timp."
+    },
+    {
+      "sourceText": "The freight costs are included in the price.",
+      "targetText": "Costurile de transport sunt incluse în preț."
+    },
+    {
+      "sourceText": "The freight was shipped by boat.",
+      "targetText": "Marfa a fost trimisă pe navă."
+    },
+    {
+      "sourceText": "We expect the freight tomorrow morning.",
+      "targetText": "Așteptăm marfa mâine dimineață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'freight' sounds like 'freight train', which carries lots of goods—just like 'marfă' means transported goods."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'marfă' as similar to 'market' where goods are sold and transported; this helps link the word to merchandise."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'freight' relates to 'to carry' or 'to transport'—imagine a truck full of goods to remember 'marfă'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a busy port where freight ships arrive with lots of 'marfă' (goods) to help you recall the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

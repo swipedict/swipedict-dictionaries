@@ -1,0 +1,185 @@
+{
+  "id": "ms-en-ro-treat",
+  "parent": "ms-ro-a-trata-4296ff2a@05df83c5d3e59ec7d29c684b5b20264c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "treat",
+    "definition": "to act or behave toward something in a particular way, often to deal with or manage a situation or condition",
+    "pronunciation": "/triːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'treat' comes from Old French 'traitier', derived from Latin 'tractare', a frequentative of 'trahere' meaning 'to pull' or 'to draw'. Over time, it evolved to mean to handle or deal with something.",
+        "targetText": "Cuvântul englezesc „treat” provine din franceza veche „traitier”, derivat din latină „tractare”, forma frecventativă a verbului „trahere” care înseamnă „a trage” sau „a manevra”. În timp, a ajuns să însemne a gestiona sau a se ocupa de ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb; commonly used in medical contexts but also for handling topics or people."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trata",
+    "definition": "a se ocupa de ceva sau a aborda o problemă",
+    "pronunciation": "/a traˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a trata' derives from Latin 'tractare' (to handle, to treat), itself from 'tractus' (pull, movement).",
+        "targetText": "Românescul „a trata” derivă din latină, de la „tractare“ (a manevra, a trata), derivat din „tractus“ (tragere, mișcare)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Used in medical and social contexts."
+  },
+  "senses": [
+    {
+      "gloss": "Medical treatment",
+      "explanation": {
+        "sourceText": "Used in a medical context.",
+        "targetText": "Folosit în context medical."
+      },
+      "examples": [
+        {
+          "sourceText": "I treat the patient.",
+          "targetText": "Eu tratez pacientul."
+        }
+      ]
+    },
+    {
+      "gloss": "Problem solving",
+      "explanation": {
+        "sourceText": "Can also be used in the context of solving problems.",
+        "targetText": "Poate fi folosit și pentru rezolvarea problemelor."
+      },
+      "examples": [
+        {
+          "sourceText": "We need to treat the problem.",
+          "targetText": "Trebuie să tratăm problema."
+        }
+      ]
+    },
+    {
+      "gloss": "Addressing a topic",
+      "explanation": {
+        "sourceText": "Can also mean to address or discuss a topic.",
+        "targetText": "Poate însemna și a aborda o temă."
+      },
+      "examples": [
+        {
+          "sourceText": "We treat the topic in the meeting.",
+          "targetText": "Tratăm tema în ședință."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "question",
+      "targetText": "întrebare"
+    },
+    {
+      "sourceText": "solution",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "problem",
+      "targetText": "problemă"
+    },
+    {
+      "sourceText": "topic",
+      "targetText": "tema"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "neglect",
+      "targetText": "neglija"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I treat the patient.",
+      "targetText": "Eu tratez pacientul."
+    },
+    {
+      "sourceText": "Do you treat the problems carefully?",
+      "targetText": "Tratezi problemele cu atenție?"
+    },
+    {
+      "sourceText": "The doctor treats the injury.",
+      "targetText": "Doctorul tratează rana."
+    },
+    {
+      "sourceText": "We treat all requests promptly.",
+      "targetText": "Noi tratăm toate solicitările prompt."
+    },
+    {
+      "sourceText": "Do you treat criticism constructively?",
+      "targetText": "Tratați critica constructiv?"
+    },
+    {
+      "sourceText": "They treat the case with care.",
+      "targetText": "Ei tratează cazul cu grijă."
+    },
+    {
+      "sourceText": "I treated the patient yesterday.",
+      "targetText": "Am tratat pacientul ieri."
+    },
+    {
+      "sourceText": "He treated the matter professionally.",
+      "targetText": "El trata problema profesional."
+    },
+    {
+      "sourceText": "I will treat the next patient.",
+      "targetText": "Voi trata următorul pacient."
+    },
+    {
+      "sourceText": "I would treat it if I had time.",
+      "targetText": "Aș trata dacă aș avea timp."
+    },
+    {
+      "sourceText": "Treat the topic seriously!",
+      "targetText": "Tratează subiectul cu seriozitate!"
+    },
+    {
+      "sourceText": "The treated complaints have eased.",
+      "targetText": "Afecțiunile tratate s-au ameliorat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English verb 'treat' sounds like the Romanian 'a trata' and both mean to handle or manage something actively."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'treat' as in 'medical treatment' to connect it with 'a trata' used in health contexts."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the present tense phrase 'Eu tratez' to get comfortable with the Romanian conjugation."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'treat' as giving someone a 'treat' (a gift), which helps you remember it means to take care of or handle something."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

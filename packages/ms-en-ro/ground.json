@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-ground",
+  "parent": "ms-ro-motiv-9a6467df@89b0f63bdd2d35e3eda6322a223a183b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ground",
+    "genus": "masculine",
+    "definition": "The solid surface of the earth or the basis for something; also a reason or cause.",
+    "pronunciation": "/ɡraʊnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'ground' originates from Old English 'grund', which comes from a Proto-Germanic root *grund- meaning 'bottom' or 'foundation'.",
+        "targetText": "Cuvântul englezesc „ground” provine din engleza veche 'grund', care derivă din rădăcina proto-germanică *grund- ce înseamnă 'fund' sau 'bază'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "motiv",
+    "genus": "neuter",
+    "definition": "Cauza, temeiul sau motivul pentru ceva; o justificare.",
+    "pronunciation": "/moˈtiv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'motiv' comes from the French 'motif', which in turn derives from the Latin 'motivus', meaning 'moving' or 'causing'.",
+        "targetText": "Cuvântul românesc „motiv” provine din francezul 'motif', care la rândul său vine din latină 'motivus', însemnând 'care mișcă' sau 'care determină'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "occasion",
+      "targetText": "ocazie"
+    },
+    {
+      "sourceText": "soil",
+      "targetText": "sol"
+    },
+    {
+      "sourceText": "basis",
+      "targetText": "bază"
+    },
+    {
+      "sourceText": "cause",
+      "targetText": "cauză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "consequence",
+      "targetText": "consecință"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The ground for his absence is illness.",
+      "targetText": "Motivul absenței lui este boala."
+    },
+    {
+      "sourceText": "We need a good ground for the decision.",
+      "targetText": "Avem nevoie de un motiv bun pentru decizie."
+    },
+    {
+      "sourceText": "The soil is the ground for the house.",
+      "targetText": "Solul este baza casei."
+    },
+    {
+      "sourceText": "There are many grounds to be happy.",
+      "targetText": "Există multe motive să fii fericit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'ground' can mean the earth beneath your feet or a reason for something, but in Romanian, 'motiv' is the best match for 'reason' or 'cause'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'motiv' sounds like 'motive' in English, which also means a reason or cause—this helps link the meanings easily."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a detective looking for a 'motive' behind a crime—that’s exactly what 'motiv' means in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'motiv' to its French root 'motif' and Latin 'motivus' to remember it means something that moves or causes action."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

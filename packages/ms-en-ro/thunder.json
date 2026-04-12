@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-thunder",
+  "parent": "ms-ro-tunet-9b3a2d51@d70d3ac6b2ed70c7982a195be2dfebae",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "thunder",
+    "genus": "masculine",
+    "definition": "The loud rumbling or crashing noise heard during a storm caused by lightning.",
+    "pronunciation": "/ˈθʌndər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'thunder' originates from the Old English 'thunor', related to the sound of a loud noise or storm, and is connected to the ancient god of thunder, Thor.",
+        "targetText": "Cuvântul englezesc „thunder“ provine din engleza veche „thunor“, legat de sunetul unui zgomot puternic sau furtună, și este asociat cu zeul antic al tunetului, Thor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tunet",
+    "genus": "neuter",
+    "definition": "Sunetul puternic care apare în timpul unei furtuni.",
+    "pronunciation": "/tuˈnet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'tunet' comes from the Latin 'tonare', meaning 'to thunder'.",
+        "targetText": "Cuvântul românesc „tunet“ provine din latină „tonare“, care înseamnă „a tuna“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "lightning",
+      "targetText": "fulger"
+    },
+    {
+      "sourceText": "storm",
+      "targetText": "furtună"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "cloud",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The thunder was very loud.",
+      "targetText": "Tunetul a fost foarte puternic."
+    },
+    {
+      "sourceText": "You could hear the thunder after the lightning.",
+      "targetText": "Se auzea tunetul după fulger."
+    },
+    {
+      "sourceText": "The thunder signals a storm.",
+      "targetText": "Tunetul anunță o furtună."
+    },
+    {
+      "sourceText": "Children are afraid of thunder.",
+      "targetText": "Copiii se tem de tunet."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'tunet' sounds like 'tone'—think of the deep tones of thunder rolling across the sky."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'thunder' is linked to Thor, the god of thunder, which helps recall the meaning of 'tunet'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the sky 'thundering' loudly—that booming sound is 'tunet' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'tunet' with the English word 'tonal' to remember it relates to sound."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

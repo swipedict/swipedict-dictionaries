@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-demand",
+  "parent": "ms-ro-a-cere-f4f58ddd@381568b3101b2b6cae8dc150126aa969",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "demand",
+    "definition": "to ask for something forcefully or to require something as necessary",
+    "pronunciation": "/dɪˈmænd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"demand\" originates from Old French 'demander', which means 'to ask or request', and ultimately derives from Latin 'demandare', meaning 'to entrust or commit'. It has roots connected to formal requests and authoritative asking.",
+        "targetText": "Cuvântul englezesc „demand” provine din franceza veche „demander”, care înseamnă „a cere sau a solicita”, și derivă în cele din urmă din latină „demandare”, care înseamnă „a încredința sau a încredința cuiva”. Are rădăcini legate de cereri formale și solicitări autoritare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A strong verb often used in formal contexts such as official requests or claims."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cere",
+    "definition": "a cere sau a necesita ceva",
+    "pronunciation": "/a ˈtʃe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a cere\" comes from Slavic, probably from Old Church Slavonic \"čeriti\", meaning 'to demand' or 'to ask'.",
+        "targetText": "Verbul românesc „a cere” provine din slavonă, probabil din „čeriti”, care înseamnă „a cere” sau „a solicita”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 2nd conjugation (-e). Frequently used in both formal and informal requests."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "request",
+      "targetText": "cerere"
+    },
+    {
+      "sourceText": "plea",
+      "targetText": "rugăminte"
+    },
+    {
+      "sourceText": "expectation",
+      "targetText": "așteptare"
+    },
+    {
+      "sourceText": "help",
+      "targetText": "ajutor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "support",
+      "targetText": "susține"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I demand an explanation.",
+      "targetText": "Cer o explicație."
+    },
+    {
+      "sourceText": "He demanded his rights.",
+      "targetText": "El a cerut drepturile sale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"demand\" sounds like \"command\" which also implies a strong request. Think of \"a cere\" as the Romanian way to 'ask strongly' or 'demand'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb \"a cere\" ends with -e, typical for many second conjugation verbs. Connect this with the English \"demand\" which is often used in formal or official contexts."
+    },
+    {
+      "lang": "en",
+      "text": "Practice phrases like \"cer ceva\" (I demand something) to get comfortable with using \"a cere\" in everyday speech."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"a cere\" as sounding like \"a chair\"—imagine sitting firmly in a chair when you make a demand, showing authority."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

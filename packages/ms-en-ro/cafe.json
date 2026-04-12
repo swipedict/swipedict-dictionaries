@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-cafe",
+  "parent": "ms-ro-cafea-f54f1358@ab0966b8e26795f9f5f7f39188cb8f4f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cafe",
+    "genus": "neuter",
+    "definition": "A place where coffee and light meals are typically served, often a social spot for relaxation.",
+    "pronunciation": "/kæˈfeɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'cafe' comes from the French 'café', which derives from the Arabic 'قهوة' (qahwa), meaning 'coffee'. The term has been in use since the 18th century.",
+        "targetText": "Das Wort wurde über Französisch aus dem Arabischen entlehnt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cafes are popular places to relax and socialize."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cafea",
+    "genus": "feminine",
+    "definition": "un loc unde se servește cafea și mese ușoare",
+    "pronunciation": "/kaˈfe̯a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'cafea' also comes from the Arabic 'قهوة' (qahwa) and refers to the popular beverage made from roasted coffee beans.",
+        "targetText": "Termenul provine din arabă prin intermediul francezei și desemnează băutura populară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cafea ist für Rumänen ein beliebtes Getränk, oft morgens und während des Aufenthalts in Cafés."
+  },
+  "senses": [
+    {
+      "gloss": "Outdoor cafe",
+      "explanation": {
+        "sourceText": "A cafe can also be outdoors.",
+        "targetText": "Un loc unde se servește cafea în aer liber."
+      },
+      "examples": [
+        {
+          "sourceText": "I prefer sitting at the outdoor cafe.",
+          "targetText": "Prefer să stau la cafea afară."
+        }
+      ]
+    },
+    {
+      "gloss": "Coffeehouse",
+      "explanation": {
+        "sourceText": "A cafe can also be considered a coffeehouse.",
+        "targetText": "Un loc unde se servește cafea și unde oamenii socializează."
+      },
+      "examples": [
+        {
+          "sourceText": "The old coffeehouse in town is very famous.",
+          "targetText": "Vechea cafenea din oraș este foarte cunoscută."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Drink",
+      "targetText": "băutură"
+    },
+    {
+      "sourceText": "Coffee",
+      "targetText": "cafea"
+    },
+    {
+      "sourceText": "Snack",
+      "targetText": "gustare"
+    },
+    {
+      "sourceText": "Cake",
+      "targetText": "tort"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Restaurant",
+      "targetText": "bar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I like going to a cafe.",
+      "targetText": "Îmi place să merg la o cafea."
+    },
+    {
+      "sourceText": "How much does the coffee cost at the cafe?",
+      "targetText": "Cât costă cafeaua la cafenea?"
+    },
+    {
+      "sourceText": "The cafe has a great atmosphere.",
+      "targetText": "Cafeneaua are o atmosferă minunată."
+    },
+    {
+      "sourceText": "I order a coffee at the cafe.",
+      "targetText": "Comand o cafea la cafenea."
+    },
+    {
+      "sourceText": "The cafe opens at seven o'clock.",
+      "targetText": "Cafeneaua se deschide la șapte."
+    },
+    {
+      "sourceText": "We meet at the cafe at 3 p.m.",
+      "targetText": "Ne întâlnim la cafenea la ora 15."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'cafea' means both 'coffee' and a cozy place to enjoy it—think of it as your Romanian coffee break spot!"
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ea' in 'cafea' is typical for feminine nouns in Romanian—like 'idea' or 'pâinea' (bread)."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the phrase 'Vino la cafea!' which means 'Come for coffee!'—a common invitation in Romania."
+    },
+    {
+      "lang": "en",
+      "text": "When you smell coffee brewing, connect that aroma to 'cafea' and imagine sitting in a Romanian cafe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

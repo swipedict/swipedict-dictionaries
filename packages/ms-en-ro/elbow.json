@@ -1,0 +1,105 @@
+{
+  "id": "ms-en-ro-elbow",
+  "parent": "ms-ro-cot-00dd6e26@3b10fae346fb618f1d981c7e6d9e51d9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "elbow",
+    "genus": "masculine",
+    "definition": "The joint connecting the upper arm to the forearm, allowing the arm to bend.",
+    "pronunciation": "/ˈɛl.boʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"elbow\" originates from Old English 'elnboga', a compound of 'eln' meaning 'forearm' and 'boga' meaning 'bow' or 'bend', referring to the bent shape of the joint.",
+        "targetText": "Cuvântul englezesc „elbow” provine din engleza veche 'elnboga', un compus din 'eln' care înseamnă 'antebraț' și 'boga' care înseamnă 'arc' sau 'curbură', referindu-se la forma îndoită a articulației."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cot",
+    "genus": "neuter",
+    "definition": "Articulația dintre brațul superior și antebraț, care permite îndoirea brațului.",
+    "pronunciation": "/kot/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cot\" derives from the Latin 'cubitus', meaning 'elbow'.",
+        "targetText": "Cuvântul românesc „cot” provine din latină 'cubitus', care înseamnă 'cot'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "arm",
+      "targetText": "braț"
+    },
+    {
+      "sourceText": "joint",
+      "targetText": "articulație"
+    },
+    {
+      "sourceText": "hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "shoulder",
+      "targetText": "umăr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I bumped my elbow.",
+      "targetText": "Mi-am lovit cotul."
+    },
+    {
+      "sourceText": "The elbow allows the arm to bend.",
+      "targetText": "Cotul permite îndoirea brațului."
+    },
+    {
+      "sourceText": "The elbow can get injured during sports.",
+      "targetText": "La sport, cotul poate fi rănit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"cot\" sounds short and sharp, just like the elbow is a small but important part of the arm."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"cot\" comes from Latin 'cubitus', which is also used in medical terms for the elbow."
+    },
+    {
+      "lang": "en",
+      "text": "Think of bending your arm at the \"cot\" to remember its meaning easily."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"elbow\" contains 'bow', which helps you visualize the bent shape of the joint."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

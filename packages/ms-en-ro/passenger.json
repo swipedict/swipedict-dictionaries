@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-passenger",
+  "parent": "ms-ro-pasager-645d8b84@2d00cf85d4b7b9ec046f6d222ae018e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "passenger",
+    "genus": "masculine",
+    "definition": "A person who travels in a vehicle but is not the driver or operator.",
+    "pronunciation": "/ˈpæsɪndʒər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'passenger' comes from the Old French 'passager', derived from the Latin 'passārius', meaning 'one who passes by' or 'traveler'.",
+        "targetText": "Cuvântul englezesc „passenger” provine din francezul vechi „passager”, derivat din latinul „passārius”, care înseamnă 'cel care trece' sau 'călător'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pasager",
+    "genus": "masculine",
+    "definition": "Persoană care călătorește ca pasager într-un mijloc de transport.",
+    "pronunciation": "/paˈsaʒer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pasager' is borrowed from the French 'passager', which in turn comes from the Late Latin 'passārius', derived from the verb 'passāre' (to pass, to cross).",
+        "targetText": "Cuvântul românesc „pasager” este împrumutat din franceza „passager”, care provine din latinul târziu 'passārius', derivat din verbul 'passāre' (a trece, a traversa)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "driver",
+      "targetText": "șofer"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "means of transport",
+      "targetText": "mijloc de transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The passenger gets on the bus.",
+      "targetText": "Pasagerul urcă în autobuz."
+    },
+    {
+      "sourceText": "Many passengers are waiting at the stop.",
+      "targetText": "Mulți pasageri așteaptă la stație."
+    },
+    {
+      "sourceText": "The passenger bought a ticket.",
+      "targetText": "Pasagerul a cumpărat un bilet."
+    },
+    {
+      "sourceText": "Passengers must remain seated during the ride.",
+      "targetText": "Pasagerii trebuie să stea jos în timpul călătoriei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'passenger' by thinking of someone who 'passes' along in a vehicle without driving it."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'pasager' sounds very similar to the English 'passenger'—both come from the idea of passing or traveling."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a passenger as a guest riding along, not the driver—like a visitor in a car."
+    },
+    {
+      "lang": "en",
+      "text": "To recall 'pasager', imagine a person who 'passes' through places while traveling."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

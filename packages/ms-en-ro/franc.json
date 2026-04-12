@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-franc",
+  "parent": "ms-ro-franc-77b6ca3b@b6f76e25b5fa7f4c51942be172736a59",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "franc",
+    "genus": "masculine",
+    "definition": "A monetary unit used in several countries, especially Switzerland and Liechtenstein.",
+    "pronunciation": "/fræŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'franc' as a currency comes from the French 'franc', which was a silver coin minted in the Middle Ages. The name derives from the Latin 'Francus', meaning 'Frankish', referring to the Frankish people.",
+        "targetText": "Cuvântul englezesc „franc” ca monedă provine din francezul medieval 'franc', o monedă de argint, iar numele derivă din latină 'Francus', însemnând 'franc' și făcând referire la poporul franc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "franc",
+    "genus": "masculine",
+    "definition": "Unitate monetară folosită în mai multe țări, în special în Elveția și Liechtenstein.",
+    "pronunciation": "/frank/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'franc' was directly borrowed from the French 'franc', which in the Middle Ages referred to a silver coin. The name comes from the French adjective 'franc', originally meaning 'free'.",
+        "targetText": "Cuvântul românesc „franc” a fost preluat direct din francezul 'franc', care în Evul Mediu desemna o monedă de argint. Numele provine din adjectivul francez 'franc', cu sensul inițial de 'liber'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "banknote",
+      "targetText": "bancnotă"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "coin",
+      "targetText": "monedă (metalică)"
+    },
+    {
+      "sourceText": "currency",
+      "targetText": "monedă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The Swiss franc is a stable currency.",
+      "targetText": "Francul elvețian este o monedă stabilă."
+    },
+    {
+      "sourceText": "I exchanged 50 francs.",
+      "targetText": "Am schimbat 50 de franci."
+    },
+    {
+      "sourceText": "The franc is used in Switzerland and Liechtenstein.",
+      "targetText": "Francul este folosit în Elveția și Liechtenstein."
+    },
+    {
+      "sourceText": "The value of the franc fluctuates on the foreign exchange market.",
+      "targetText": "Valoarea francului fluctuează pe piața valutară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the English word 'franc' sounds like 'frank', which means honest and straightforward—think of the currency as reliable and stable."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'franc' is very close to the English 'franc', making it easy to remember as a currency name."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'franc' comes from French, you can connect it to other Romance languages and their words for money or currency."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a medieval silver coin called 'franc' paid by a free Frankish knight—this links the word to history and freedom."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

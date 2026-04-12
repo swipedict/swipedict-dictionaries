@@ -1,0 +1,17 @@
+# Build outputs
+/dist
+/dictionaries.json
+/dictionaries.json.gz
+/index-*
+
+
+# Environment / credentials
+env/
+*.env
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

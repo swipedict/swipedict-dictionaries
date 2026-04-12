@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-age",
+  "parent": "ms-ro-varsta-7b768896@5d4b489296d96d5b6bdb020cdee34be2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "age",
+    "definition": "The length of time that a person or living being has existed since birth.",
+    "pronunciation": "/eɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"age\" comes from Old French \"aage\" or \"age\", which derives from Latin \"aetas\", meaning 'period of life' or 'lifetime'. It refers to the duration of life or existence.",
+        "targetText": "Cuvântul englezesc „age” provine din franceza veche „aage” sau „age”, care derivă din latină „aetas”, însemnând 'perioada vieții' sau 'durata vieții'. Se referă la durata vieții sau existenței."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vârstă",
+    "genus": "feminine",
+    "definition": "Numărul de ani pe care o persoană sau o ființă vie i-a trăit de la naștere.",
+    "pronunciation": "/vɨrˈstɨ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'vârstă' comes from Slavic, related to Bulgarian 'върста' (stage, section), and denotes the age or period of life.",
+        "targetText": "Cuvântul românesc „vârstă” provine din slavă, înrudit cu bulgara „върста” (etapă, porțiune), și desemnează vârsta sau perioada vieții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "old",
+      "targetText": "bătrân"
+    },
+    {
+      "sourceText": "birthday",
+      "targetText": "zi de naștere"
+    },
+    {
+      "sourceText": "young",
+      "targetText": "tânăr"
+    },
+    {
+      "sourceText": "lifespan",
+      "targetText": "durata vieții"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "How old are you? – I am 25 years old.",
+      "targetText": "Câți ani ai? – Am 25 de ani."
+    },
+    {
+      "sourceText": "Age often affects health.",
+      "targetText": "Vârsta influențează adesea sănătatea."
+    },
+    {
+      "sourceText": "In old age, one needs more rest.",
+      "targetText": "La bătrânețe ai nevoie de mai multă odihnă."
+    },
+    {
+      "sourceText": "Children and adults belong to different age groups.",
+      "targetText": "Copiii și adulții au grupe de vârstă diferite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the English word \"age\" sounds like \"edge\" with an 'a'—think of the edge of a timeline marking how many years have passed."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"vârstă\" sounds a bit like \"verse\"—imagine each year as a new verse in the poem of life."
+    },
+    {
+      "lang": "en",
+      "text": "Both English \"age\" and Romanian \"vârstă\" refer to how long someone has lived, so they share the same concept despite different sounds."
+    },
+    {
+      "lang": "en",
+      "text": "Notice that \"vârstă\" ends with '-ă', a common ending for feminine abstract nouns in Romanian, helping you recognize similar words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

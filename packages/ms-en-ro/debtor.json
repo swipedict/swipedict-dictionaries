@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-debtor",
+  "parent": "ms-ro-debitor-10e61231@7b840a5c4515daef4ddae8fecdc76212",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "debtor",
+    "genus": "masculine",
+    "definition": "A person who owes money or has an obligation to pay a debt.",
+    "pronunciation": "/ˈdɛtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'debtor' comes from the Latin 'debitor', meaning 'one who owes' or 'a person who is indebted'.",
+        "targetText": "Cuvântul englezesc „debtor” provine din latină, din termenul „debitor”, care înseamnă „cel care datorează” sau „o persoană îndatorată”."
+      },
+      "source": "Etymological Dictionaries English"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "debitor",
+    "genus": "masculine",
+    "definition": "Persoană care are o datorie și este obligată să o plătească.",
+    "pronunciation": "/deˈbi.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'debitor' comes directly from the Latin 'debitor', meaning 'debtor' or 'one who owes'.",
+        "targetText": "Cuvântul românesc „debitor” provine direct din latină, din termenul „debitor”, care înseamnă „cel care datorează” sau „debitor”."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "creditor",
+      "targetText": "creditor"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "debts",
+      "targetText": "datorii"
+    },
+    {
+      "sourceText": "repayment",
+      "targetText": "rambursare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "creditor",
+      "targetText": "creditor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The debtor must pay the bill by the end of the month.",
+      "targetText": "Debitorul trebuie să plătească factura până la sfârșitul lunii."
+    },
+    {
+      "sourceText": "Many debtors negotiate installment payments with their creditors.",
+      "targetText": "Mulți debitori negociază cu creditorii lor plata în rate."
+    },
+    {
+      "sourceText": "A debtor can go bankrupt if they cannot repay their debts.",
+      "targetText": "Un debitor poate intra în faliment dacă nu își poate plăti datoriile."
+    },
+    {
+      "sourceText": "The debtor has an obligation to repay their debts.",
+      "targetText": "Debitorul are obligația să-și ramburseze datoriile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'debtor' by linking it to 'debt'—someone who owes money is a debtor."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'debit' in banking, which means to take money out—this helps recall that a debtor owes money."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'debere' means 'to owe' or 'must', so 'debtor' literally means 'one who must pay'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'debtor' with the phrase 'debt trouble' to remember it refers to someone with financial obligations."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

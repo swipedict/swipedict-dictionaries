@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-glasses",
+  "parent": "ms-ro-ochelari-72406528@94bf114761eedf01fd32200a9ff19e84",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "glasses",
+    "genus": "feminine",
+    "definition": "An optical device consisting of lenses set in a frame, used to correct or protect eyesight.",
+    "pronunciation": "/ˈɡlæsɪz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"glasses\" derives from the Old English 'glæs', meaning 'glass' or 'lens', originally referring to the material before being used for optical lenses.",
+        "targetText": "Cuvântul englezesc „glasses” provine din engleza veche 'glæs', care însemna 'sticlă' sau 'lentilă', referindu-se inițial la material înainte de a desemna lentilele optice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ochelari",
+    "genus": "masculine",
+    "definition": "Un dispozitiv optic pentru corectarea vederii.",
+    "pronunciation": "/o.keˈlari/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"ochelari\" comes from the Latin 'oculus', meaning 'eye', with the plural suffix '-ari' used for objects.",
+        "targetText": "Cuvântul românesc „ochelari” provine din latină, de la 'oculus' (ochi), cu sufixul plural '-ari' care desemnează obiecte legate de ochi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "eyes",
+      "targetText": "ochi"
+    },
+    {
+      "sourceText": "glasses cloth",
+      "targetText": "șervețel pentru ochelari"
+    },
+    {
+      "sourceText": "lens",
+      "targetText": "lentilă"
+    },
+    {
+      "sourceText": "vision",
+      "targetText": "vedere"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I wear glasses.",
+      "targetText": "Port ochelari."
+    },
+    {
+      "sourceText": "The glasses are on the table.",
+      "targetText": "Ochelarii sunt pe masă."
+    },
+    {
+      "sourceText": "He needs new glasses.",
+      "targetText": "Are nevoie de ochelari noi."
+    },
+    {
+      "sourceText": "Glasses help with better vision.",
+      "targetText": "Ochelarii ajută la o vedere mai bună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'glasses' by thinking of the clear glass lenses that help you see better."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ochelari' comes from Latin 'oculus' meaning 'eye'—think of it as 'things for the eyes.'"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine putting on 'ochelari' to protect your eyes, like a shield made just for vision."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'ochelari' with 'ochel' (a single lens) to remember that the plural form means glasses."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

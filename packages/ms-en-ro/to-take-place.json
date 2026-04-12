@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-to-take-place",
+  "parent": "ms-ro-a-avea-loc-e7edda4b@ff4a5b76122b97b38a132d74769c27fb",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "to take place",
+    "definition": "To happen, occur, or be held (e.g., an event).",
+    "pronunciation": "/tuː teɪk pleɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrase 'to take place' combines 'take', from Old English 'tacan' meaning to grasp or seize, and 'place', from Old French 'place' meaning a position or location.",
+        "targetText": "Expresia engleză „to take place” combină „take”, din engleza veche „tacan” care înseamnă a apuca sau a prinde, și „place”, din franceza veche „place” care înseamnă poziție sau loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a avea loc",
+    "definition": "Sich ereignen, stattfinden, abgehalten werden.",
+    "pronunciation": "/a aˈvea lok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase 'a avea loc' consists of 'a avea' (to have) and 'loc' (place, spot), where 'loc' derives from the Latin 'locus'.",
+        "targetText": "Expresia românească „a avea loc” este formată din 'a avea' (a avea) și 'loc' (loc, spațiu), unde 'loc' provine din latinescul 'locus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to hold",
+      "targetText": "a ține (eveniment)"
+    },
+    {
+      "sourceText": "to happen",
+      "targetText": "a se întâmpla"
+    },
+    {
+      "sourceText": "to occur",
+      "targetText": "a se petrece"
+    },
+    {
+      "sourceText": "to organize",
+      "targetText": "a organiza"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to be canceled",
+      "targetText": "a fi anulat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The concert takes place tomorrow.",
+      "targetText": "Concertul are loc mâine."
+    },
+    {
+      "sourceText": "The meeting took place yesterday.",
+      "targetText": "Ședința a avut loc ieri."
+    },
+    {
+      "sourceText": "Where does the meeting take place?",
+      "targetText": "Unde are loc întâlnirea?"
+    },
+    {
+      "sourceText": "The festival takes place every summer.",
+      "targetText": "Festivalul are loc în fiecare vară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a avea loc' literally means 'to have place'—think of an event 'having a place' or location where it happens."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'loc' is related to the English 'location' and Latin 'locus', all meaning 'place'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'to take place' in English as an event 'taking' or occupying a 'place'—this matches the Romanian 'a avea loc'."
+    },
+    {
+      "lang": "en",
+      "text": "When you imagine a concert or festival happening somewhere, remember it 'has a place'—that's 'a avea loc' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-good",
+  "parent": "ms-ro-bun-4c5007b0@e6a6d6926ae9a8ce5d982f4dd0787499",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "good",
+    "definition": "Describes something that is beneficial, pleasant, or of high quality.",
+    "pronunciation": "/ɡʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"good\" originates from Old English 'gōd', which comes from a Proto-Germanic root *gōdaz meaning 'fitting' or 'suitable'.",
+        "targetText": "Cuvântul englezesc „good” provine din engleza veche 'gōd', care derivă dintr-o rădăcină proto-germanică *gōdaz ce înseamnă 'potrivit' sau 'adecvat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bun",
+    "definition": "Descrie ceva avantajos, plăcut sau de calitate înaltă.",
+    "pronunciation": "/bun/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective \"bun\" comes from the Latin word 'bonus', meaning 'good'. It is a direct inheritance from Latin into Romanian.",
+        "targetText": "Adjectivul românesc „bun” provine din cuvântul latin 'bonus', care înseamnă 'bun'. Este o moștenire directă a limbii latine în română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "better",
+      "targetText": "mai bun"
+    },
+    {
+      "sourceText": "quality",
+      "targetText": "calitate"
+    },
+    {
+      "sourceText": "bad",
+      "targetText": "rău"
+    },
+    {
+      "sourceText": "advantage",
+      "targetText": "avantaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bad",
+      "targetText": "rău"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The food tastes good.",
+      "targetText": "Mâncarea este bună."
+    },
+    {
+      "sourceText": "He is a good friend.",
+      "targetText": "El este un prieten bun."
+    },
+    {
+      "sourceText": "The weather is good today.",
+      "targetText": "Vremea este bună astăzi."
+    },
+    {
+      "sourceText": "I have good news.",
+      "targetText": "Am vești bune."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'good' and the Romanian 'bun' both mean something positive and high quality—practice them often to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'bun' sounds like the English word for a small bread roll, which is usually tasty and pleasant—just like 'good'."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'good' and 'bun' come from Latin roots related to 'bonus', so think of a 'bonus' as something good and beneficial."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'good' and 'bun' by imagining a colorful (like 'bunt' in German) and positive experience—bright and pleasant."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

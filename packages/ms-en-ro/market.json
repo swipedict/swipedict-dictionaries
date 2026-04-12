@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-market",
+  "parent": "ms-ro-targ-a1a00396@099cedb35598c563da4bf836a2a31cb1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "market",
+    "genus": "masculine",
+    "definition": "A place or area where goods are bought and sold, often involving stalls or shops.",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"market\" originates from the Latin word \"mercatus\", meaning 'trade' or 'marketplace'. It entered English through Old French and has been used to denote places of commerce since medieval times.",
+        "targetText": "Cuvântul englezesc „market” provine din cuvântul latin „mercatus”, care înseamnă „comerț” sau „piață”. A intrat în limba engleză prin vechea limbă franceză și a fost folosit pentru a desemna locuri de comerț încă din Evul Mediu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A market is often a place where fresh produce and local crafts are sold."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "târg",
+    "genus": "neuter",
+    "definition": "un loc sau o zonă unde se vând și se cumpără bunuri",
+    "pronunciation": "/tɨrɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"târg\" comes from the Slavic \"tǫrgъ\", meaning a market or trading place.",
+        "targetText": "Cuvântul românesc „târg“ provine din slavona „tǫrgъ“, însemnând piață sau loc de comerț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Târg“ ist häufig mit lokalen Festen verbunden, bei denen Verkäufer ihre Waren anbieten."
+  },
+  "senses": [
+    {
+      "gloss": "market / place of sale",
+      "explanation": {
+        "sourceText": "Refers to the place where goods are offered for sale.",
+        "targetText": "Se referă la locul unde se oferă și se vând bunuri."
+      },
+      "examples": [
+        {
+          "sourceText": "There are many stalls at the market.",
+          "targetText": "Sunt multe standuri la târg."
+        }
+      ]
+    },
+    {
+      "gloss": "market square",
+      "explanation": {
+        "sourceText": "The central square in a town, often surrounded by shops.",
+        "targetText": "Locul central al unui oraș, adesea înconjurat de magazine."
+      },
+      "examples": [
+        {
+          "sourceText": "The market square is always busy.",
+          "targetText": "Piața este întotdeauna plină."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "customer",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "prices",
+      "targetText": "prețuri"
+    },
+    {
+      "sourceText": "seller",
+      "targetText": "vânzător"
+    },
+    {
+      "sourceText": "goods",
+      "targetText": "bunuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "desert",
+      "targetText": "pustiu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He goes to the market every Saturday.",
+      "targetText": "El merge în fiecare sâmbătă la târg."
+    },
+    {
+      "sourceText": "There are many fresh foods at the market.",
+      "targetText": "La târg sunt multe alimente proaspete."
+    },
+    {
+      "sourceText": "The market is very busy today.",
+      "targetText": "Târgul este foarte aglomerat astăzi."
+    },
+    {
+      "sourceText": "I often buy flowers at the market.",
+      "targetText": "Cumpăr adesea flori de la târg."
+    },
+    {
+      "sourceText": "The prices at the market are reasonable.",
+      "targetText": "Prețurile la târg sunt accesibile."
+    },
+    {
+      "sourceText": "We bought fresh fruit at the market.",
+      "targetText": "Am cumpărat fructe proaspete la târg."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'market' as a place where merchants meet—like a 'mart' where you find many goods."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'târg' sounding like 'targ' in 'target'—the market is the target place to buy and sell."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a colorful market with stalls and vendors shouting 'târg!' to attract customers."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'târg' with 'tag'—a market day is always lively and full of people."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-lend",
+  "parent": "ms-ro-a-imprumuta-7dba6fd0@359892da40a84e00d0cedd54e5704442",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lend",
+    "definition": "to give something to someone for a limited period of time, expecting it to be returned",
+    "pronunciation": "/lɛnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"lend\" originates from Old English \"lǣnan\", meaning to grant or loan. It is related to other Germanic languages with similar forms and meanings.",
+        "targetText": "Cuvântul englezesc „lend” provine din engleza veche „lǣnan”, care înseamnă a acorda sau a împrumuta. Este înrudit cu alte limbi germanice cu forme și sensuri similare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb with a strong stem. Commonly used in everyday language when referring to temporarily giving items or money."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împrumuta",
+    "definition": "a oferi cuiva ceva pentru o anumită perioadă de timp",
+    "pronunciation": "/ɨmpruˈmu.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a împrumuta” is derived from the Romanian noun „împrumut”, which comes from the Latin „promutuus” (borrowed). The verb was formed internally within Romanian.",
+        "targetText": "Verbul românesc „a împrumuta” este derivat din substantivul „împrumut”, care provine din latinescul „promutuus” (împrumutat). Verbul a fost format intern în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Often used in spoken language when talking about borrowing items or money."
+  },
+  "senses": [
+    {
+      "gloss": "Borrowing",
+      "explanation": {
+        "sourceText": "\"A împrumuta\" also means to temporarily provide something.",
+        "targetText": "'A împrumuta' înseamnă a da ceva temporar cuiva."
+      },
+      "examples": [
+        {
+          "sourceText": "I want to borrow a book.",
+          "targetText": "Vreau să împrumut o carte."
+        }
+      ]
+    },
+    {
+      "gloss": "Social interaction",
+      "explanation": {
+        "sourceText": "\"A împrumuta\" can also serve as a conversation starter among friends.",
+        "targetText": "'A împrumuta' poate fi și un prilej de conversație între prieteni."
+      },
+      "examples": [
+        {
+          "sourceText": "I often borrow books from friends.",
+          "targetText": "Îmi împrumut cărți de la prieteni."
+        }
+      ]
+    },
+    {
+      "gloss": "To lend",
+      "explanation": {
+        "sourceText": "\"To lend something\" is a closely related concept.",
+        "targetText": "A da ceva cu împrumut este un concept înrudit."
+      },
+      "examples": [
+        {
+          "sourceText": "Can you lend me the laptop?",
+          "targetText": "Îmi poți împrumuta laptopul?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "book",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "take",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I lend you my book.",
+      "targetText": "Îți împrumut cartea mea."
+    },
+    {
+      "sourceText": "Will you lend me your pen?",
+      "targetText": "Îmi împrumuți stiloul tău?"
+    },
+    {
+      "sourceText": "She lends her brother the car.",
+      "targetText": "Ea împrumută mașina fratelui ei."
+    },
+    {
+      "sourceText": "We are lending a tent for the weekend.",
+      "targetText": "Împrumutăm un cort pentru weekend."
+    },
+    {
+      "sourceText": "Will you lend us your books?",
+      "targetText": "Ne împrumutați cărțile voastre?"
+    },
+    {
+      "sourceText": "They lend money from their friend.",
+      "targetText": "Ei împrumută bani de la prietena lor."
+    },
+    {
+      "sourceText": "I lent you my book yesterday.",
+      "targetText": "Ți-am împrumutat cartea mea ieri."
+    },
+    {
+      "sourceText": "They lent the car last week.",
+      "targetText": "Au împrumutat mașina săptămâna trecută."
+    },
+    {
+      "sourceText": "He lent a boat every summer.",
+      "targetText": "El împrumuta o barcă în fiecare vară."
+    },
+    {
+      "sourceText": "I had already lent the money when he called.",
+      "targetText": "Împrumutasem deja banii când a sunat."
+    },
+    {
+      "sourceText": "I will lend you my book tomorrow.",
+      "targetText": "Îți voi împrumuta cartea mâine."
+    },
+    {
+      "sourceText": "She will lend the car next week.",
+      "targetText": "Ea o să împrumute mașina săptămâna viitoare."
+    },
+    {
+      "sourceText": "I would lend it if I could.",
+      "targetText": "Aș împrumuta-o dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you lend me the book.",
+      "targetText": "Este necesar să-mi împrumuți cartea."
+    },
+    {
+      "sourceText": "Lend me your phone!",
+      "targetText": "Împrumută-mi telefonul!"
+    },
+    {
+      "sourceText": "Lend us the tools!",
+      "targetText": "Împrumutați-ne uneltele!"
+    },
+    {
+      "sourceText": "The borrowed book is interesting.",
+      "targetText": "Cartea împrumutată este interesantă."
+    },
+    {
+      "sourceText": "The money is now lent.",
+      "targetText": "Banii sunt acum împrumutați."
+    },
+    {
+      "sourceText": "By lending you my book, I help you.",
+      "targetText": "Împrumutându-ți cartea mea, te ajut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"lend\" means to give something temporarily. Think of 'lend' as 'let someone end up with it for a while.'"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a împrumuta' starts with 'î', which sounds like 'im' in English, helping you recall 'impart' or 'impose' temporarily."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-a' in 'a împrumuta' is typical for Romanian verbs of the first conjugation, similar to many English infinitives ending in '-ate' or '-ate' sounds."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'împrumuta' as 'improve + mutate' to remember it involves a temporary change of possession."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

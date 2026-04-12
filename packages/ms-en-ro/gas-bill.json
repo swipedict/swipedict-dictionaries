@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-gas-bill",
+  "parent": "ms-ro-factura-la-gaze-c611ba59@01a813d567127083c9e7cf84dae78c99",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "gas bill",
+    "genus": "feminine",
+    "definition": "A document listing the amount of gas consumed and the cost to a household or business.",
+    "pronunciation": "/ˈɡæs bɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"gas bill\" combines \"gas\", derived from the Greek word \"khaos\" through Latin, and \"bill\", which comes from Old French \"bile\" meaning a written statement or document.",
+        "targetText": "Cuvântul englezesc „gas bill” combină „gas”, derivat din cuvântul grecesc „khaos” prin latină, și „bill”, care provine din vechiul francez „bile”, însemnând o declarație sau un document scris."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "factură la gaze",
+    "genus": "feminine",
+    "definition": "Document care detaliază consumul și costurile pentru gaz într-o locuință sau afacere.",
+    "pronunciation": "/fakˈtu.rə la ˈɡaze/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „factură” comes from the Latin „factura” (meaning 'making' or 'manufacturing'), now used in the sense of 'invoice' or 'bill'. „Gaze” is the plural of „gaz”, borrowed from the French „gaz”.",
+        "targetText": "Cuvântul românesc „factură” provine din latină „factura” (care înseamnă „fabricare” sau „realizare”), iar „gaze” este pluralul de la „gaz”, împrumutat din franceza „gaz”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gas",
+      "targetText": "gaz"
+    },
+    {
+      "sourceText": "Bill",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "Electricity bill",
+      "targetText": "factură la electricitate"
+    },
+    {
+      "sourceText": "Water bill",
+      "targetText": "factură la apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I paid the gas bill for last month.",
+      "targetText": "Am plătit factura la gaze pentru luna trecută."
+    },
+    {
+      "sourceText": "The gas bill is higher this month than usual.",
+      "targetText": "Factura la gaze este mai mare luna aceasta decât de obicei."
+    },
+    {
+      "sourceText": "Can you show me the gas bill?",
+      "targetText": "Îmi poți arăta factura la gaze?"
+    },
+    {
+      "sourceText": "We are trying to reduce the gas bill by heating less.",
+      "targetText": "Încercăm să reducem factura la gaze prin încălzirea mai puțin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"gaze\" in Romanian sounds like \"gas\" in English, which helps you link the word to the energy source."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"factură\" sounds like the English \"factor\" or \"factory\"; think of it as the 'making' or 'creation' of a bill."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a \"factură la gaze\" as your monthly 'factory' report of gas usage and costs."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"bill\" in English is a common term for an invoice, so \"gas bill\" is easy to remember as the document showing gas charges."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

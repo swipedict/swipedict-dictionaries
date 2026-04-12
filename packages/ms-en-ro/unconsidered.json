@@ -1,0 +1,105 @@
+{
+  "id": "ms-en-ro-unconsidered",
+  "parent": "ms-ro-necalculat-def337c2@c3d3364baca88fc75ef6c0a9e4878aec",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "unconsidered",
+    "definition": "done without careful thought or reflection; impulsive and lacking planning",
+    "pronunciation": "/ˌʌnkənˈsɪdərd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word \"unconsidered\" is formed by the negation prefix \"un-\" and the adjective \"considered,\" meaning something not carefully thought through.",
+        "targetText": "Adjectivul „unüberlegt“ este format din prefixul negativ „un-“ și „überlegt“, indicând lipsa unei reflecții atente."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is often used to describe negative consequences resulting from impulsive decisions."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "necalculat",
+    "genus": "masculine",
+    "definition": "fără a gândi și fără o considerație atentă",
+    "pronunciation": "/ne.kaʊ̯.luˈlat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "\"Necalculat\" comes from the Latin \"non calculatus,\" meaning \"not calculated,\" indicating an action done without planning or thought.",
+        "targetText": "Adjectivul „necalculat“ derivă din expresia latină „non calculatus“, semnificând ceva făcut fără o planificare atentă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cuvântul indică riscurile unei atitudini cu adevărat nepăsătoare."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "decision",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "reflection",
+      "targetText": "a reflecta"
+    },
+    {
+      "sourceText": "planning",
+      "targetText": "planificare"
+    },
+    {
+      "sourceText": "hesitation",
+      "targetText": "a ezita"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "considered",
+      "targetText": "prudent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "His unconsidered decisions led to problems.",
+      "targetText": "Deciziile sale necalculate au dus la probleme."
+    },
+    {
+      "sourceText": "It is better to act considered than unconsidered.",
+      "targetText": "Este mai bine să acționezi calculat decât necalculat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"unconsidered\" means without thinking — think of it as \"not considered\" or \"not planned.\""
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"necalculat\" sounds like \"not calculated,\" which helps you recall it means 'unconsidered' or 'impulsive.'"
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"calculate\" as planning carefully; \"necalculat\" is the opposite — acting without calculation."
+    },
+    {
+      "lang": "en",
+      "text": "If you make an \"unconsidered\" choice, you might say it was \"off the calculator,\" meaning without planning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

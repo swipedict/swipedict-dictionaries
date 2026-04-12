@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-airplane",
+  "parent": "ms-ro-avion-234d9d38@89c9bd37d51d99ad589e701cf7b1f9e6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "airplane",
+    "genus": "neuter",
+    "definition": "A powered flying vehicle with fixed wings designed for air travel.",
+    "pronunciation": "/ˈɛərˌpleɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'airplane' combines 'air', referring to the atmosphere, and 'plane', derived from 'aeroplane', which comes from Greek roots meaning 'wandering in the air'.",
+        "targetText": "Cuvântul englezesc „airplane” combină „air” (aer) și „plane”, derivat din „aeroplane”, care provine din rădăcini grecești ce înseamnă „rătăcitor în aer”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avion",
+    "genus": "neuter",
+    "definition": "Un vehicul aerian cu aripi, capabil să zboare.",
+    "pronunciation": "/aˈvjon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'avion' is borrowed from the French 'avion', which derives from the Latin 'avis' meaning 'bird'.",
+        "targetText": "Cuvântul românesc „avion” este împrumutat din franceza „avion”, care derivă din latinescul „avis” (pasăre)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to fly",
+      "targetText": "a zbura"
+    },
+    {
+      "sourceText": "flight",
+      "targetText": "zbor"
+    },
+    {
+      "sourceText": "aircraft carrier",
+      "targetText": "portavion"
+    },
+    {
+      "sourceText": "pilot",
+      "targetText": "pilot"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The airplane takes off in five minutes.",
+      "targetText": "Avionul decolează în cinci minute."
+    },
+    {
+      "sourceText": "I built my first airplane model.",
+      "targetText": "Am construit primul meu model de avion."
+    },
+    {
+      "sourceText": "The airplane flies over the mountains.",
+      "targetText": "Avionul zboară peste munți."
+    },
+    {
+      "sourceText": "There are many safety rules on the airplane.",
+      "targetText": "În avion există multe reguli de siguranță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'airplane' by thinking of 'air' as the sky and 'plane' as a flat surface—together, a vehicle that glides through the air."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'avion' sounds like the French word for airplane, which helps you link the two languages easily."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'avion' as related to 'avis', the Latin word for bird, so an 'avion' is like a big bird that flies."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'avion' with the English word 'aviation' to remember it relates to flying and aircraft."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

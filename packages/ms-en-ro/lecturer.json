@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-lecturer",
+  "parent": "ms-ro-lector-b92369a6@1229edc270bf92b7c82385065673d396",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "lecturer",
+    "genus": "masculine",
+    "definition": "a person who teaches at a college or university",
+    "pronunciation": "/ˈlɛk.tʃər.ər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"lecturer\" comes from the Latin verb \"legere\" meaning \"to read.\" It originally referred to someone who reads or delivers lectures, especially in an academic setting.",
+        "targetText": "Cuvântul englezesc „lecturer“ provine din verbul latin „legere“, care înseamnă „a citi“. Inițial desemna pe cineva care citește sau susține prelegeri, în special în mediul academic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Lecturers are often experts in a specific field and bring practical experience into their teaching."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lector",
+    "genus": "masculine",
+    "definition": "o persoană care predă la o universitate oder ein colegiu",
+    "pronunciation": "/ˈlekt͡or/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „lector“ comes from the Latin „lector“, meaning „reader“ or „university professor“. It refers to someone who teaches and imparts knowledge.",
+        "targetText": "Cuvântul românesc „lector“ provine din latinul „lector“, care înseamnă „cititor“ sau „profesor universitar“, desemnând o persoană care predă și transmite cunoștințe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dozenten oder Lektoren haben oft umfangreiche Erfahrung in ihrem Thema und fördern kritisches Denken."
+  },
+  "senses": [
+    {
+      "gloss": "university lecturer",
+      "explanation": {
+        "sourceText": "In the sense that a lecturer teaches at a university.",
+        "targetText": "În sensul că un lector predă la universitate."
+      },
+      "examples": [
+        {
+          "sourceText": "The lecturer gave a lecture.",
+          "targetText": "Lectorul a susținut o prelegere."
+        }
+      ]
+    },
+    {
+      "gloss": "naturally inclined to teach",
+      "explanation": {
+        "sourceText": "This means someone has natural abilities to convey knowledge.",
+        "targetText": "Înseamnă că cineva are abilități naturale de a transmite cunoștințe."
+      },
+      "examples": [
+        {
+          "sourceText": "He is a very gifted lecturer.",
+          "targetText": "El este un lector foarte talentat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "class",
+      "targetText": "clasă"
+    },
+    {
+      "sourceText": "teacher",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "study",
+      "targetText": "studiu"
+    },
+    {
+      "sourceText": "teaching",
+      "targetText": "predare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "student",
+      "targetText": "student"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The lecturer gave an interesting lecture.",
+      "targetText": "Lectorul a susținut o prelegere interesantă."
+    },
+    {
+      "sourceText": "During your studies, you work closely with the lecturer.",
+      "targetText": "În studiu colaborezi îndeaproape cu lectorul."
+    },
+    {
+      "sourceText": "The lecturer has a lot of experience in his field.",
+      "targetText": "Lectorul are multă experiență în domeniul său."
+    },
+    {
+      "sourceText": "The lecturer will offer a workshop next week.",
+      "targetText": "Lectorul va oferi un workshop săptămâna viitoare."
+    },
+    {
+      "sourceText": "The lecturer's questions were challenging.",
+      "targetText": "Întrebările lectorului au fost provocatoare."
+    },
+    {
+      "sourceText": "Can I ask the lecturer?",
+      "targetText": "Pot să întreb la lector?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that a \"lecturer\" is someone who 'lectures' or reads aloud to students, making it easy to connect the word with teaching."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the word \"lecture\" when you hear \"lector\" — both relate to delivering knowledge in a formal setting."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"lector\" with 'lecture' and imagine a professor reading from a book to a class."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"lecturer\" shares roots with \"lecture\"; both come from Latin meaning 'to read,' helping you remember the teaching context."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

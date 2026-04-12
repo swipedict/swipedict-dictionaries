@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-neighbor",
+  "parent": "ms-ro-vecin-e8ec0c8b@e0d1c0cda78885147d540c196dfa116c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "neighbor",
+    "genus": "masculine",
+    "definition": "A person who lives near or next to another, usually in the same building or on the same street.",
+    "pronunciation": "/ˈneɪbər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'neighbor' comes from Old English 'neahgebur', composed of 'neah' meaning 'near' and 'gebur' meaning 'dweller' or 'farmer', literally 'one who dwells nearby'.",
+        "targetText": "Cuvântul englezesc „neighbor” provine din engleza veche 'neahgebur', compus din 'neah' (aproape) și 'gebur' (locuitor sau fermier), însemnând literal 'cel care locuiește aproape'."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vecin",
+    "genus": "masculine",
+    "definition": "Persoană care locuiește în apropiere, de obicei în aceeași clădire sau pe aceeași stradă.",
+    "pronunciation": "/veˈt͡ʃin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'vecin' derives from the Latin 'vicinus', meaning 'neighboring' or 'nearby', with roots in classical Latin.",
+        "targetText": "Cuvântul românesc „vecin” provine din latină, din 'vicinus', care înseamnă 'aproape' sau 'vecin', având rădăcini în latina clasică."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "neighboring house",
+      "targetText": "casa vecină"
+    },
+    {
+      "sourceText": "neighboring country",
+      "targetText": "țară vecină"
+    },
+    {
+      "sourceText": "neighborhood",
+      "targetText": "vecinătate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stranger",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My neighbor is very friendly.",
+      "targetText": "Vecinul meu este foarte prietenos."
+    },
+    {
+      "sourceText": "The neighbors had a party.",
+      "targetText": "Vecinii au făcut o petrecere."
+    },
+    {
+      "sourceText": "I met my neighbor yesterday.",
+      "targetText": "Ieri m-am întâlnit cu vecinul meu."
+    },
+    {
+      "sourceText": "Our neighbors live in the same house.",
+      "targetText": "Vecinii noștri locuiesc în aceeași casă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'vecin' sounds like 'vetch in'—imagine a neighbor planting vetch (a plant) right next door."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'vecin' as related to 'vicinity', which means nearby area, helping you recall it means 'neighbor'."
+    },
+    {
+      "lang": "en",
+      "text": "The 'v' at the start of 'vecin' can remind you of 'very close', just like neighbors live very close to you."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'vecin' to the English word 'vicinal', a rare word meaning 'neighboring', both coming from Latin 'vicinus'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

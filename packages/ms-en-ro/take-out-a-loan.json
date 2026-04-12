@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-take-out-a-loan",
+  "parent": "ms-ro-a-lua-un-credit-0a3ef88f@93edddab619985026552c95fb0fff9a7",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "take out a loan",
+    "definition": "To borrow money from a bank or lender with the agreement to repay it later.",
+    "pronunciation": "/teɪk aʊt ə loʊn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word 'loan' comes from Old English 'læn', meaning something lent or a grant, and 'take out' refers to obtaining or acquiring something, thus 'take out a loan' means to obtain borrowed money.",
+        "targetText": "Cuvântul englezesc „loan” provine din engleza veche „læn”, care înseamnă ceva împrumutat sau acordat, iar expresia „take out” se referă la a obține sau a procura ceva, astfel „take out a loan” înseamnă a obține bani împrumutați."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua un credit",
+    "definition": "A împrumuta bani de la o bancă sau un creditor.",
+    "pronunciation": "/a lua un ˈkredit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'credit' was borrowed from the French 'crédit', which comes from the Latin 'creditum', meaning 'trust' or 'loan'.",
+        "targetText": "Cuvântul românesc „credit” este împrumutat din franceză „crédit”, care provine din latină „creditum”, cu sensul de „încredere” sau „împrumut”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "loan",
+      "targetText": "împrumut"
+    },
+    {
+      "sourceText": "repayment",
+      "targetText": "rambursare"
+    },
+    {
+      "sourceText": "interest",
+      "targetText": "dobânzi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "save",
+      "targetText": "a economisi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I want to take out a loan to buy a car.",
+      "targetText": "Vreau să iau un credit pentru a cumpăra o mașină."
+    },
+    {
+      "sourceText": "The bank approved my loan.",
+      "targetText": "Banca mi-a aprobat un credit."
+    },
+    {
+      "sourceText": "Taking out a loan means borrowing money and paying it back.",
+      "targetText": "A lua un credit înseamnă să împrumuți bani și să îi rambursezi."
+    },
+    {
+      "sourceText": "Many people take out loans to finance larger purchases.",
+      "targetText": "Mulți oameni iau un credit pentru a finanța achiziții mai mari."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'credit' sounds very similar to the English 'credit', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'credit' as trust given by the bank when you borrow money."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'a lua' means 'to take', so 'a lua un credit' literally means 'to take a loan'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'taking out' money from the bank, just like in English, to help recall 'a lua un credit'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-sea",
+  "parent": "ms-ro-mare-81ccdf76@7ae9fd4f97efbadd4068a4f8ebff80c4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sea",
+    "definition": "A large body of salty water that covers a significant part of the Earth's surface.",
+    "pronunciation": "/siː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"sea\" originates from Old English 'sǣ', which traces back to Proto-Germanic *saiwiz, related to the Latin word 'mare'.",
+        "targetText": "Cuvântul englezesc „sea” provine din engleza veche 'sǣ', care își are rădăcinile în proto-germanicul *saiwiz, fiind înrudit cu cuvântul latin 'mare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mare",
+    "genus": "feminine",
+    "definition": "Întindere mare de apă sărată care acoperă o parte semnificativă a suprafeței Pământului.",
+    "pronunciation": "/ˈmare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"mare\" comes directly from the Latin noun 'mare', which also means 'sea' and has roots in Proto-Italic.",
+        "targetText": "Cuvântul românesc „mare” provine direct din substantivul latin 'mare', care înseamnă tot 'mare' și are rădăcini în proto-italică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ocean",
+      "targetText": "ocean"
+    },
+    {
+      "sourceText": "lake",
+      "targetText": "lac"
+    },
+    {
+      "sourceText": "beach",
+      "targetText": "plajă"
+    },
+    {
+      "sourceText": "wave",
+      "targetText": "val"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "land",
+      "targetText": "uscat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The sea is very calm today.",
+      "targetText": "Marea este foarte liniștită astăzi."
+    },
+    {
+      "sourceText": "We go to the sea in summer.",
+      "targetText": "Mergem la mare vara."
+    },
+    {
+      "sourceText": "The sea covers about 71% of the Earth's surface.",
+      "targetText": "Marea acoperă aproximativ 71% din suprafața Pământului."
+    },
+    {
+      "sourceText": "The fish live in the sea.",
+      "targetText": "Peștii trăiesc în mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"mare\" sounds very similar to the English word \"sea\" in meaning, both connected to large bodies of water."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"mare\" in Romanian also means 'big' or 'great', helping you associate the sea as something vast and important."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'marine' which relates to the sea and shares the Latin root 'mare' with the Romanian word."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the vast 'sea' in English and the Romanian 'mare' both covering huge areas of water, making it easier to link the words."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

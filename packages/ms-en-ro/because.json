@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-because",
+  "parent": "ms-ro-pentru-ca-f5fccdf4@8aebb9cf0173f03f3e8fe02c3943a330",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "because",
+    "definition": "A conjunction used to introduce a subordinate clause expressing a reason or cause.",
+    "pronunciation": "/bɪˈkɔːz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'because' originates from the Old English phrase 'bi cause', meaning 'by cause', which itself comes from Latin 'causa' meaning 'reason' or 'cause'.",
+        "targetText": "Cuvântul englezesc „because” provine din expresia engleză veche „bi cause”, care înseamnă „din cauza”, derivată din latinul „causa” însemnând „motiv” sau „cauză”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pentru că",
+    "definition": "O conjuncție care introduce o propoziție subordonată cauzală, um motiv sau o cauză exprimând.",
+    "pronunciation": "/ˈpentru kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian conjunction 'pentru că' consists of the preposition 'pentru' (originally from Latin 'per' + 'pro') and the relative pronoun 'că', which derives from Latin 'quod'.",
+        "targetText": "Conjuncția românească „pentru că” este compusă din prepoziția 'pentru' (provenind din latinul 'per' + 'pro') și pronumele relativ 'că', derivat din latinul 'quod'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "for",
+      "targetText": "căci"
+    },
+    {
+      "sourceText": "therefore",
+      "targetText": "de aceea"
+    },
+    {
+      "sourceText": "although",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "because ... not",
+      "targetText": "pentru că nu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nevertheless",
+      "targetText": "totuși"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I stay at home because I am sick.",
+      "targetText": "Rămân acasă pentru că sunt bolnav."
+    },
+    {
+      "sourceText": "She does not go to work because she is on vacation.",
+      "targetText": "Ea nu merge la muncă pentru că are concediu."
+    },
+    {
+      "sourceText": "We cannot come because the car is broken.",
+      "targetText": "Nu putem veni pentru că mașina este stricată."
+    },
+    {
+      "sourceText": "He studies a lot because he wants to pass the exam.",
+      "targetText": "El învață mult pentru că vrea să treacă examenul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pentru că' by thinking of 'pentru' as 'for' and 'că' as 'that'—together meaning 'because'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'because' as the word that always gives you the reason—like a detective asking 'Why?' and answering with 'because'."
+    },
+    {
+      "lang": "en",
+      "text": "Note that 'because' introduces subordinate clauses just like 'pentru că' in Romanian—both connect main and subordinate clauses with a reason."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying in Romanian 'I stay for that I am sick'—it sounds odd, but that's exactly how 'pentru că' works."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

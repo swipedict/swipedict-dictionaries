@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-fever",
+  "parent": "ms-ro-febra-13fb2741@2f43ea229ad5746ccc5bfe06c7767079",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fever",
+    "genus": "neuter",
+    "definition": "A condition characterized by an elevated body temperature, usually as a symptom of illness.",
+    "pronunciation": "/ˈfiːvər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'fever' originates from the Latin word 'febris', meaning an elevated body temperature or fever.",
+        "targetText": "Cuvântul englezesc „fever” provine din cuvântul latin „febris”, care înseamnă o temperatură corporală ridicată sau febră."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "febră",
+    "genus": "feminine",
+    "definition": "O stare de temperatură corporală ridicată, de obicei simptom al unei boli.",
+    "pronunciation": "/feˈbrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'febră' comes directly from the Latin 'febris', which means 'fever'.",
+        "targetText": "Cuvântul românesc „febră” provine direct din latină, din 'febris', care înseamnă 'febră'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "sweating",
+      "targetText": "transpirație"
+    },
+    {
+      "sourceText": "symptom",
+      "targetText": "simptom"
+    },
+    {
+      "sourceText": "temperature",
+      "targetText": "temperatură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He has a high fever.",
+      "targetText": "Are febră mare."
+    },
+    {
+      "sourceText": "Fever is a sign that the body is fighting an illness.",
+      "targetText": "Febra este un semn că organismul luptă împotriva unei boli."
+    },
+    {
+      "sourceText": "The fever went down yesterday.",
+      "targetText": "Febra a scăzut ieri."
+    },
+    {
+      "sourceText": "You should drink plenty of fluids when you have a fever.",
+      "targetText": "La febră trebuie să bei multă apă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'febră' sounds very similar to the English 'fever' because both come from the Latin 'febris'."
+    },
+    {
+      "lang": "en",
+      "text": "Notice that 'febră' ends with '-ă', a common feminine noun ending in Romanian, which helps identify its gender."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'febră' is a symptom of illness, just like 'fever' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine yourself feeling hot and 'feverish' to connect the English word 'fever' with the Romanian 'febră' for easier recall."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

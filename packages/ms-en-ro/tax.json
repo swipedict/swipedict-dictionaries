@@ -1,0 +1,117 @@
+{
+  "id": "ms-en-ro-tax",
+  "parent": "ms-ro-impozit-178e451b@a44f15352128f3245ce5347ee7fc48f6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tax",
+    "definition": "A compulsory financial charge imposed by a government on individuals or businesses to fund public services and government obligations.",
+    "pronunciation": "/tæks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'tax' originates from the Latin 'taxare', meaning 'to assess' or 'to estimate'. It entered English through Old French and has been used since medieval times to denote a compulsory contribution to state revenue.",
+        "targetText": "Cuvântul englezesc „tax” provine din latinescul 'taxare', care înseamnă 'a evalua' sau 'a estima'. A intrat în limba engleză prin vechea franceză și a fost folosit încă din Evul Mediu pentru a desemna o contribuție obligatorie la veniturile statului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "impozit",
+    "genus": "neuter",
+    "definition": "O taxă obligatorie impusă de stat cetățenilor și companiilor pentru finanțarea cheltuielilor publice.",
+    "pronunciation": "/im.poˈzit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'impozit' derives from the Latin 'impositum', the past participle of 'imponere', meaning 'to impose' or 'to place upon'. It refers to an imposed tax or levy.",
+        "targetText": "Cuvântul românesc „impozit” derivă din latinescul 'impositum', participiul perfect al verbului 'imponere', care înseamnă 'a impune' sau 'a aplica'. Termenul desemnează o taxă impusă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "tax authority",
+      "targetText": "autoritate fiscală"
+    },
+    {
+      "sourceText": "tax declaration",
+      "targetText": "declarație de impozit"
+    },
+    {
+      "sourceText": "tax liability",
+      "targetText": "obligație fiscală"
+    },
+    {
+      "sourceText": "tax rate",
+      "targetText": "cotă de impozitare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "tax exemption",
+      "targetText": "scutire de impozit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The tax must be paid every year.",
+      "targetText": "Impozitul trebuie plătit în fiecare an."
+    },
+    {
+      "sourceText": "Many people pay income tax.",
+      "targetText": "Mulți oameni plătesc impozitul pe venit."
+    },
+    {
+      "sourceText": "The tax declaration must be submitted by April 30th.",
+      "targetText": "Declarația de impozit trebuie depusă până la 30 aprilie."
+    },
+    {
+      "sourceText": "The tax rate varies depending on income.",
+      "targetText": "Cota de impozitare variază în funcție de venit."
+    },
+    {
+      "sourceText": "Tax evasion is illegal.",
+      "targetText": "Evadarea fiscală este ilegală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'impozit' sounds like 'impose it'—think of the government imposing a tax on you."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'tax' and Romanian 'impozit' both relate to something imposed by authority—'impozit' comes from Latin 'imponere' meaning 'to impose'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'impozit' as 'important deposit'—a mandatory payment to the state."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'impozit' with 'impose' in English to remember it’s a compulsory charge."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

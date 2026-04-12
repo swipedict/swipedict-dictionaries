@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-border",
+  "parent": "ms-ro-granita-9d05b59d@46fe52bcdc4f11eaa86ea0cbd5580fab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "border",
+    "genus": "feminine",
+    "definition": "A line or boundary that separates two areas, countries, or regions.",
+    "pronunciation": "/ˈbɔːrdər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"border\" originates from the Old French word 'bordure', meaning 'edge' or 'margin', which itself derives from the verb 'border' meaning 'to form an edge'. This term entered English in the Middle Ages and has been used to describe boundaries or edges between areas.",
+        "targetText": "Cuvântul englezesc „border” provine din cuvântul francez vechi 'bordure', care înseamnă 'margine' sau 'muchie', derivat din verbul 'border' care înseamnă 'a forma o margine'. Acest termen a intrat în limba engleză în Evul Mediu și a fost folosit pentru a descrie limite sau margini între zone."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "graniță",
+    "genus": "feminine",
+    "definition": "Linie sau marcaj care separă două teritorii, țări sau zone.",
+    "pronunciation": "/ɡraˈnit͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"graniță\" was borrowed from a South Slavic language (e.g., Serbian \"granica\") or directly from the German word for border.",
+        "targetText": "Cuvântul românesc „graniță” este împrumutat dintr-o limbă slavă sudică (de ex. sârbă „granica”) sau direct din germanul „Grenze”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "area",
+      "targetText": "zonă"
+    },
+    {
+      "sourceText": "boundary line",
+      "targetText": "linie de frontieră"
+    },
+    {
+      "sourceText": "country",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "neighboring country",
+      "targetText": "țară vecină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "center",
+      "targetText": "mijloc"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The border between Germany and Poland is open.",
+      "targetText": "Granița dintre Germania și Polonia este deschisă."
+    },
+    {
+      "sourceText": "We need to secure the border before the attack.",
+      "targetText": "Trebuie să securizăm granița înainte de asalt."
+    },
+    {
+      "sourceText": "The border runs along the river.",
+      "targetText": "Granița urmează cursul râului."
+    },
+    {
+      "sourceText": "There was a checkpoint at the border.",
+      "targetText": "La graniță a fost un control."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"graniță\" sounds similar to the English word \"granite\"—imagine a granite wall marking a border."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"graniță\" ends with '-iță', a common Romanian noun ending, helping you recognize it as a feminine noun."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'grenade' exploding at the border to remember the word \"graniță\"—both start with 'gran-'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"graniță\" with the English word \"grain\" and picture a border made of a line of grains or seeds."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

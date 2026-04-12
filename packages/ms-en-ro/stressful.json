@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-stressful",
+  "parent": "ms-ro-stresant-d46bb4bc@fda01b4cb7a1436c925800ccc680952f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stressful",
+    "definition": "describing a situation or condition that causes anxiety, pressure, or mental strain",
+    "pronunciation": "/ˈstrɛsfəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"stressful\" comes from \"stress,\" meaning mental or emotional strain or tension, combined with the suffix \"-ful\" indicating 'full of'. It describes situations that cause pressure or anxiety.",
+        "targetText": "Cuvântul „stressig“ provine din englezescul „stressful“, care înseamnă „stresant“ sau „apăsător“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stresant",
+    "genus": "masculine",
+    "definition": "o stare care cauzează anxietate sau presiune; stresant",
+    "pronunciation": "/stresant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"stresant\" comes from the English \"stressful\" and describes burdensome or demanding circumstances.",
+        "targetText": "Cuvântul românesc „stresant“ provine din englezescul „stressful“ și descrie situații apăsătoare sau solicitante."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Frequently used in professional contexts where stress is a common topic."
+  },
+  "senses": [
+    {
+      "gloss": "burdensome",
+      "explanation": {
+        "sourceText": "Burdensome can also apply to situations that are not necessarily physical.",
+        "targetText": "„Belastend“ se poate referi și la situații care nu sunt neapărat fizice."
+      },
+      "examples": [
+        {
+          "sourceText": "This situation can be very burdensome.",
+          "targetText": "Această situație poate fi foarte stresantă."
+        }
+      ]
+    },
+    {
+      "gloss": "stressful",
+      "explanation": {
+        "sourceText": "Stressful describes a state that is unpleasant or anxious.",
+        "targetText": "„Stressig“ descrie o stare neplăcută sau anxioasă."
+      },
+      "examples": [
+        {
+          "sourceText": "This work is stressful.",
+          "targetText": "Această muncă este stresantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "tension",
+      "targetText": "tensiune"
+    },
+    {
+      "sourceText": "pressure",
+      "targetText": "presiune"
+    },
+    {
+      "sourceText": "stress",
+      "targetText": "stres"
+    },
+    {
+      "sourceText": "overload",
+      "targetText": "supraîncărcare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "relaxing",
+      "targetText": "relaxant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The work is stressful.",
+      "targetText": "Munca este stresantă."
+    },
+    {
+      "sourceText": "The day will be stressful.",
+      "targetText": "Ziua va fi stresantă."
+    },
+    {
+      "sourceText": "This exam is very stressful.",
+      "targetText": "Acest examen este foarte stresant."
+    },
+    {
+      "sourceText": "There are many stressful situations.",
+      "targetText": "Există multe situații stresante."
+    },
+    {
+      "sourceText": "This is a stressful time.",
+      "targetText": "Este o perioadă stresantă."
+    },
+    {
+      "sourceText": "Stressful work requires relaxation.",
+      "targetText": "Munca stresantă necesită relaxare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"stressful\" sounds very similar to Romanian \"stresant\"—both describe situations full of pressure."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a stressful day at work to connect the feeling with the Romanian word \"stresant.\""
+    },
+    {
+      "lang": "en",
+      "text": "The root \"stress\" is the same in English and Romanian, making it easier to remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear \"stresant,\" imagine taking deep breaths to manage stress—this helps link the word to its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

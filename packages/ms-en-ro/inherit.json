@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-inherit",
+  "parent": "ms-ro-a-mosteni-4f052793@1e1057b469e594b4a1652101b8077d81",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "inherit",
+    "definition": "To receive property, rights, or titles from someone who has died.",
+    "pronunciation": "/ɪnˈhɛrɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"inherit\" comes from the Latin 'inhereditare', meaning 'to receive as an heir', derived from 'heres' meaning 'heir'.",
+        "targetText": "Cuvântul englezesc „inherit” provine din latină, din termenul 'inhereditare', care înseamnă 'a primi ca moștenitor', derivat din 'heres' ce înseamnă 'moștenitor'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, conjugation: I inherit, you inherit, he/she inherits."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a moșteni",
+    "definition": "A primi bunuri sau drepturi de la o persoană decedată.",
+    "pronunciation": "/a moʃˈteni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a moșteni“ comes from Church Slavonic, from the verb „moštiti“ (to bequeath, to inherit), which derives from the Slavic root „mošt-„.",
+        "targetText": "Verbul românesc „a moșteni” provine din slavonă, de la „moštiti” (a moșteni), derivat din rădăcina slavă „mošt-”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regulă de conjugare: eu moștenesc, tu moștenești, el/ea moștenește."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "inheritance",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "estate",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "bequeath",
+      "targetText": "a lăsa moștenire"
+    },
+    {
+      "sourceText": "legacy",
+      "targetText": "legat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lose",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I inherit my parents' house.",
+      "targetText": "Eu moștenesc casa părinților mei."
+    },
+    {
+      "sourceText": "She inherited a lot of money.",
+      "targetText": "Ea a moștenit mulți bani."
+    },
+    {
+      "sourceText": "We inherit the rights and obligations.",
+      "targetText": "Noi moștenim drepturile și obligațiile."
+    },
+    {
+      "sourceText": "He will inherit the family business.",
+      "targetText": "El va moșteni afacerea familiei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'inherit' sounds like 'in-her-it' — you receive something 'in' your family, 'her' or 'his' property."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a moșteni' starts with 'moș', which means 'old man' — think of an old man passing down his belongings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'moșteni' as 'moș' (old man) + 'teni' (to hold) — holding onto what is passed down."
+    },
+    {
+      "lang": "en",
+      "text": "Conjugation tip: 'eu moștenesc' ends with '-esc', a common ending for Romanian verbs in the first conjugation group."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

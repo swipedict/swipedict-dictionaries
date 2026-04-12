@@ -1,0 +1,117 @@
+{
+  "id": "ms-en-ro-book",
+  "parent": "ms-ro-a-rezerva-dc96702b@7278a00532f4e070f050df1f292da18f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "book",
+    "definition": "To arrange or reserve something in advance, such as accommodation, a flight, or a table.",
+    "pronunciation": "/bʊk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'book' originates from the Old English 'bōcian', which meant to write or register, derived from 'bōc' meaning 'book'. This reflects the practice of recording reservations or entries in a book.",
+        "targetText": "Cuvântul englezesc „book” provine din engleza veche 'bōcian', care însemna a scrie sau a înregistra, derivat din 'bōc' care înseamnă 'carte'. Aceasta reflectă practica de a nota rezervările sau înregistrările într-o carte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, commonly used in everyday English."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a rezerva",
+    "definition": "A face o rezervare pentru ceva, cum ar fi o cameră, un zbor sau o masă.",
+    "pronunciation": "/a reˈzerva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a rezerva' derives from the Latin 'reservare', meaning 'to keep back' or 'to retain'.",
+        "targetText": "Verbul românesc „a rezerva” provine din latinescul 'reservare', care înseamnă 'a păstra' sau 'a reține'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb de conjugarea I, conjugat regulat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "confirm",
+      "targetText": "a confirma"
+    },
+    {
+      "sourceText": "booking",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "reservation",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "cancel",
+      "targetText": "a anula"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "cancel",
+      "targetText": "a anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I book a hotel room for the vacation.",
+      "targetText": "Rezerv o cameră de hotel pentru vacanță."
+    },
+    {
+      "sourceText": "I booked the flight yesterday.",
+      "targetText": "Am rezervat zborul ieri."
+    },
+    {
+      "sourceText": "I used to always book early.",
+      "targetText": "Obișnuiam să rezerv cu mult timp înainte."
+    },
+    {
+      "sourceText": "I will book the restaurant for Saturday.",
+      "targetText": "Voi rezerva restaurantul pentru sâmbătă."
+    },
+    {
+      "sourceText": "Please book the table in time!",
+      "targetText": "Te rog să rezervi masa din timp!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'book' as in a 'book' where you write down your reservations—just like 'a rezerva' means to reserve."
+    },
+    {
+      "lang": "en",
+      "text": "'A rezerva' is a regular verb, making it easy to conjugate for English speakers learning Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'reserve' which sounds similar to 'rezerva' and means to keep something for later."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'book' a table and keep it in your 'reserve'—this helps link 'book' and 'a rezerva'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

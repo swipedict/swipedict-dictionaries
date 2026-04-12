@@ -1,0 +1,107 @@
+{
+  "id": "ms-en-ro-by-the-way",
+  "parent": "ms-ro-apropos-2440feaa@02daa59b33865de36f76cee12f379ed3",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "by the way",
+    "definition": "Used to introduce a casual remark or an additional piece of information.",
+    "pronunciation": "/ˌbaɪ ðə ˈweɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrase 'by the way' originates from the literal meaning of 'along the path' or 'incidentally', used to introduce something said in passing or as an aside.",
+        "targetText": "Expresia engleză „by the way” provine din sensul literal „de-a lungul drumului” sau „întâmplător”, folosită pentru a introduce ceva spus în treacăt sau ca o remarcă laterală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "apropos",
+    "definition": "Adverb folosit pentru a introduce o observație suplimentară sau o remarcă în treacăt.",
+    "pronunciation": "/aproˈpos/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'apropos' comes from the French 'à propos', meaning 'appropriate' or 'by the way'.",
+        "targetText": "Cuvântul românesc „apropos” provine din franceza 'à propos', care înseamnă 'potrivit' sau 'apropos'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "remarkable",
+      "targetText": "remarcabil"
+    },
+    {
+      "sourceText": "incidentally",
+      "targetText": "pe lângă asta"
+    },
+    {
+      "sourceText": "by the way",
+      "targetText": "apropos"
+    },
+    {
+      "sourceText": "additionally",
+      "targetText": "în plus"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "By the way, have you heard the news yet?",
+      "targetText": "Apropos, ai auzit deja vestea?"
+    },
+    {
+      "sourceText": "I wanted to tell you something, by the way.",
+      "targetText": "Voiam să-ți spun apropos ceva."
+    },
+    {
+      "sourceText": "By the way, the weather will be better tomorrow.",
+      "targetText": "Apropos, vremea va fi mai bună mâine."
+    },
+    {
+      "sourceText": "That is by the way very important to know.",
+      "targetText": "Asta este apropos foarte important de știut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'apropos' by thinking of the English phrase 'by the way' which is used to add extra information casually."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'apropos' comes from French, just like many English words, so it sounds familiar and easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'apropos' as a polite way to 'propose' an additional comment in conversation."
+    },
+    {
+      "lang": "en",
+      "text": "When you say something 'by the way', you add something extra—imagine putting a little note on the side of your main message."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

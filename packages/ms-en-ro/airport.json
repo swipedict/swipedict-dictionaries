@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-airport",
+  "parent": "ms-ro-aeroport-9fb0d288@ee1d095b1f58a5100278dfdd53002fc3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "airport",
+    "genus": "masculine",
+    "definition": "A designated place where airplanes take off and land.",
+    "pronunciation": "/ˈɛərˌpɔrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"airport\" combines \"air\" and \"port,\" where \"port\" originally referred to a harbor or a place of safe arrival for ships, later extended metaphorically to mean a place for aircraft.",
+        "targetText": "Cuvântul englezesc „airport” combină „air” și „port”, unde „port” se referea inițial la un port sau un loc sigur de sosire pentru nave, extins ulterior metaforic pentru a desemna un loc pentru aeronave."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aeroport",
+    "genus": "neuter",
+    "definition": "Un loc unde avioanele decolează și aterizează.",
+    "pronunciation": "/a.e.roˈport/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"aeroport\" comes from the French 'aéroport', which is formed from the Greek 'aer' (air) and the Latin 'portus' (harbor).",
+        "targetText": "Cuvântul românesc „aeroport” provine din franceza „aéroport”, format din grecescul „aer” (aer) și latinescul „portus” (port)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "flight",
+      "targetText": "zbor"
+    },
+    {
+      "sourceText": "airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "runway",
+      "targetText": "pistă de decolare"
+    },
+    {
+      "sourceText": "terminal",
+      "targetText": "terminal"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The airport is very large and modern.",
+      "targetText": "Aeroportul este foarte mare și modern."
+    },
+    {
+      "sourceText": "We meet at the airport at 6 PM.",
+      "targetText": "Ne întâlnim la aeroport la ora 18."
+    },
+    {
+      "sourceText": "The airport has many international connections.",
+      "targetText": "Aeroportul are multe legături internaționale."
+    },
+    {
+      "sourceText": "There are many shops and restaurants at the airport.",
+      "targetText": "La aeroport sunt multe magazine și restaurante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"aeroport\" sounds like the English \"airport\" because both come from similar roots meaning 'air' and 'port'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an airport as a 'port in the air' where planes dock, just like ships in a harbor."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix \"aero-\" relates to air, similar to words like 'aerodynamics' or 'aeronautics'."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Romanian word \"aeroport\" to the English word 'airport' to easily recall its meaning and pronunciation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

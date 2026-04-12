@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-environment",
+  "parent": "ms-ro-mediu-inconjurator-004a9477@1b9e63068acd4157bcb1e63e86348986",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "environment",
+    "genus": "feminine",
+    "definition": "The natural surroundings in which humans, animals, and plants live and interact.",
+    "pronunciation": "/ɪnˈvaɪrənmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'environment' comes from the verb 'to environ', meaning 'to surround', which derives from Old French 'environer', based on Latin 'in-' (in) + 'viron' (circle).",
+        "targetText": "Substantivul englezesc „environment” provine de la verbul „to environ”, care înseamnă „a înconjura”, derivat din franceza veche „environer”, bazat pe latină „in-” (în) + „viron” (cerc)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mediu (înconjurător)",
+    "genus": "neuter",
+    "definition": "Mediul natural în care trăiesc oamenii, animalele și plantele.",
+    "pronunciation": "/meˈdju/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'mediu' derives from the Latin 'medium', meaning 'middle' or 'surroundings'.",
+        "targetText": "Cuvântul românesc „mediu” provine din latinul 'medium', care înseamnă 'mijloc' sau 'împrejurimi'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv, maskulinum."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nature",
+      "targetText": "natură"
+    },
+    {
+      "sourceText": "ecology",
+      "targetText": "ecologie"
+    },
+    {
+      "sourceText": "protection",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "surroundings",
+      "targetText": "împrejurimi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "artificial environment",
+      "targetText": "mediu artificial"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The environment must be protected.",
+      "targetText": "Mediul trebuie protejat."
+    },
+    {
+      "sourceText": "We live in a clean environment.",
+      "targetText": "Trăim într-un mediu curat."
+    },
+    {
+      "sourceText": "Environmental pollution is a big problem.",
+      "targetText": "Poluarea mediului este o problemă mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'environment' as everything that 'environs' or surrounds us—just like the Romanian 'mediu' means the middle or surroundings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mediu' sounding like 'medium'—the middle space where life happens, helping you link it to 'environment'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the 'medium' or middle area around you as the 'mediu'—the natural environment supporting all living things."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'mediu' with 'medium' in English, which can mean a channel or space—just like the environment is the space around us."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

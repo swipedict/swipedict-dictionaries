@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-deposit",
+  "parent": "ms-ro-garantie-32184a35@da9c3ea88f3f1abdf78d940c9aafafef",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "deposit",
+    "genus": "feminine",
+    "definition": "A sum of money given as security to ensure the fulfillment of an obligation.",
+    "pronunciation": "/dɪˈpɒzɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'deposit' comes from the Latin 'depositum', meaning 'something laid away', derived from 'deponere' which means 'to put down or away'.",
+        "targetText": "Cuvântul englezesc „deposit” provine din latină 'depositum', care înseamnă 'ceva pus deoparte', derivat din 'deponere', care înseamnă 'a pune jos sau deoparte'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "garanție",
+    "genus": "feminine",
+    "definition": "O sumă de bani depusă ca siguranță pentru a garanta îndeplinirea unei obligații.",
+    "pronunciation": "/ɡaraˈnʦje/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'garanție' comes from the French 'garantie', which derives from the Old French 'garant' (a person who guarantees), of Germanic origin.",
+        "targetText": "Cuvântul românesc „garanție” provine din francezul 'garantie', derivat din vechiul francez 'garant' (persoană care garantează), de origine germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rent",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "pledge",
+      "targetText": "gaj"
+    },
+    {
+      "sourceText": "security",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "release",
+      "targetText": "eliberare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The deposit must be paid before moving in.",
+      "targetText": "Garanția trebuie plătită înainte de mutare."
+    },
+    {
+      "sourceText": "After moving out, you get the deposit back if there are no damages.",
+      "targetText": "După mutare, primești garanția înapoi dacă nu există daune."
+    },
+    {
+      "sourceText": "The deposit serves as security for the landlord.",
+      "targetText": "Garanția servește ca siguranță pentru proprietar."
+    },
+    {
+      "sourceText": "Without a deposit, it is hard to rent an apartment.",
+      "targetText": "Fără garanție este greu să închiriezi un apartament."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'garanție' sounds like 'guarantee' in English, both related to security and assurance."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ție' in Romanian often corresponds to '-tion' in English, helping you spot related nouns."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'garanție' as a 'guarantee' you give when renting, starting with 'gar-' like 'guarantee'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'garanție' to the French 'garantie' to understand its meaning and origin better."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

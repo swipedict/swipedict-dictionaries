@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-blow",
+  "parent": "ms-ro-a-sufla-ea35955f@adc492b5e7e8d148a56e095bc12f7b2d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "blow",
+    "definition": "To expel air through the mouth or to fill something with air by forcing air into it",
+    "pronunciation": "/bloʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"blow\" originates from Old English \"blāwan\", meaning to blow or breathe out air. It is related to similar words in other Germanic languages and has been used since early medieval times.",
+        "targetText": "Cuvântul englezesc „blow” provine din engleza veche „blāwan”, care înseamnă a sufla sau a expira aer. Este înrudit cu cuvinte similare din alte limbi germanice și este folosit încă din perioada medievală timpurie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, commonly used in contexts involving air or gases being forced out. Frequently appears in compound forms and idiomatic expressions related to air movement."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sufla",
+    "definition": "a împinge aer prin ceva sau a umple ceva cu aer",
+    "pronunciation": "/a suˈfla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb „a sufla“ derives from the Latin „sufflare“, meaning to blow. It is composed of „sub-“ (under) and „flare“ (to blow), describing the action of expelling air.",
+        "targetText": "Verbul românesc „a sufla“ provine din latină, din „sufflare“, format din „sub-“ (sub) și „flare“ (a sufla), însemnând a expulza aer."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb. Important in everyday language use, especially when playing instruments or lighting fires."
+  },
+  "senses": [
+    {
+      "gloss": "Produce sound",
+      "explanation": {
+        "sourceText": "Air is used to create a sound, for example when playing an instrument.",
+        "targetText": "Aerul este folosit pentru a produce sunete, de exemplu la un instrument muzical."
+      },
+      "examples": [
+        {
+          "sourceText": "He blows into the instrument.",
+          "targetText": "El suflă în instrument."
+        }
+      ]
+    },
+    {
+      "gloss": "Blow air",
+      "explanation": {
+        "sourceText": "To blow air through something in order to inflate it.",
+        "targetText": "A sufla aer prin ceva pentru a-l umfla."
+      },
+      "examples": [
+        {
+          "sourceText": "We blow up a balloon.",
+          "targetText": "Noi sufllăm un balon."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "balloon",
+      "targetText": "balon"
+    },
+    {
+      "sourceText": "inflate",
+      "targetText": "a umfla"
+    },
+    {
+      "sourceText": "air",
+      "targetText": "aer"
+    },
+    {
+      "sourceText": "whistle",
+      "targetText": "fluier"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "suck out",
+      "targetText": "a elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I blow out the candles.",
+      "targetText": "Eu sufleur lumânările."
+    },
+    {
+      "sourceText": "Can you please blow the dust away?",
+      "targetText": "Suflă praful, te rog."
+    },
+    {
+      "sourceText": "The wind blows strongly.",
+      "targetText": "Vântul suflă tare."
+    },
+    {
+      "sourceText": "We blow up the balloons.",
+      "targetText": "Noi sufllăm baloanele."
+    },
+    {
+      "sourceText": "Are you blowing at the party?",
+      "targetText": "Suflați la petrecere?"
+    },
+    {
+      "sourceText": "They blow in the choir.",
+      "targetText": "Ei suflă în cor."
+    },
+    {
+      "sourceText": "I have blown up the balloon.",
+      "targetText": "Am suflet balonul."
+    },
+    {
+      "sourceText": "He blew air into the balloon.",
+      "targetText": "El sufla aerul în balon."
+    },
+    {
+      "sourceText": "I will blow the whistle.",
+      "targetText": "Voi sufla în fluier."
+    },
+    {
+      "sourceText": "I would blow the melody if I could.",
+      "targetText": "Aș sufla melodia, dacă aș putea."
+    },
+    {
+      "sourceText": "Blow the whistle!",
+      "targetText": "Sufla în fluier!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian verb \"a sufla\" sounds like \"soof-lah\" — think of softly blowing air through a flute to produce music."
+    },
+    {
+      "lang": "en",
+      "text": "Use \"a sufla\" whenever you talk about blowing out candles, inflating balloons, or blowing on a fire to keep it alive."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself blowing air into a balloon — this image helps connect the action with the word \"a sufla\"."
+    },
+    {
+      "lang": "en",
+      "text": "The root \"suf-\" in \"a sufla\" is similar to the English word \"suffocate\" which also relates to air and breathing, helping you remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

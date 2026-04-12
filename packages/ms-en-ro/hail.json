@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-hail",
+  "parent": "ms-ro-a-cadea-grindina-31375777@f781cc1a39c19e43bf77e06b55c3bca8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hail",
+    "definition": "to fall as small balls or lumps of ice from the sky during certain weather conditions",
+    "pronunciation": "/heɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"hail\" originates from Old English \"hagol\" or \"hægol\", which referred to small pellets of frozen rain.",
+        "targetText": "Cuvântul englezesc „hail” provine din engleza veche „hagol” sau „hægol”, care desemnau mici bile sau bucăți de ploaie înghețată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is commonly used to describe the meteorological phenomenon of hail, which typically occurs during thunderstorms."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cădea grindină",
+    "definition": "o formă de precipitații în care bucăți de gheață cad din cer",
+    "pronunciation": "/a kəˈdea ɡrinˈdinə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase \"a cădea grindină\" is an internal formation from the verb \"a cădea\" (from Latin \"cadere\", to fall) and the noun \"grindină\" (from Latin \"grandinā\" for hail).",
+        "targetText": "Expresia românească „a cădea grindină” este formată intern, din verbul „a cădea” (din latină „cadere”, a cădea) și substantivul „grindină” (din latină „grandinā”, grindină)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft im Kontext von Wetterphänomenen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "a specific type of precipitation",
+      "explanation": {
+        "sourceText": "Hail is a specific type of precipitation.",
+        "targetText": "Grindina este o formă specială de precipitații."
+      },
+      "examples": [
+        {
+          "sourceText": "It will hail tomorrow.",
+          "targetText": "Voi ploua grindină mâine."
+        }
+      ]
+    },
+    {
+      "gloss": "hail (the weather phenomenon)",
+      "explanation": {
+        "sourceText": "Used to refer to the weather phenomenon of hail.",
+        "targetText": "Ca în germană, pentru fenomenul meteorologic."
+      },
+      "examples": [
+        {
+          "sourceText": "It is hailing heavily.",
+          "targetText": "Este o grindină puternică."
+        },
+        {
+          "sourceText": "It has been hailing all day today.",
+          "targetText": "A plouat grindină toată ziua."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "snow",
+      "targetText": "zăpadă"
+    },
+    {
+      "sourceText": "storm",
+      "targetText": "furtună"
+    },
+    {
+      "sourceText": "weather",
+      "targetText": "vreme"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "shine",
+      "targetText": "a străluci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "It is hailing heavily.",
+      "targetText": "Este o grindină puternică."
+    },
+    {
+      "sourceText": "It has been hailing all day today.",
+      "targetText": "A plouat grindină toată ziua."
+    },
+    {
+      "sourceText": "It will hail tomorrow.",
+      "targetText": "Voi ploua grindină mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"hail\" by thinking of tiny ice balls hitting your car windshield during a storm."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the Romanian word \"grindină\" with the English word \"grind\" to imagine the rough texture of hailstones."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"hail to the king\" but replace 'king' with 'storm' to remember hail as a weather event."
+    },
+    {
+      "lang": "en",
+      "text": "Practice sentences like \"It will hail tomorrow\" to get comfortable using the verb in context."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

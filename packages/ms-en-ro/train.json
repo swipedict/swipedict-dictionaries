@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-train",
+  "parent": "ms-ro-a-forma-7fa500bb@e9866c0912a3eed8bdba6e958fb694c0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "train",
+    "definition": "to teach or develop skills and knowledge in a particular profession or activity",
+    "pronunciation": "/treɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'train' originates from the Old French 'trainer' meaning 'to drag, pull', which itself comes from the Latin 'trahere' meaning 'to draw or pull'. Over time, it evolved to mean preparing or teaching someone through practice and instruction.",
+        "targetText": "Cuvântul englezesc „train“ provine din franceza veche „trainer“, care înseamnă „a trage“, derivat din latinescul „trahere“, care înseamnă „a trage sau a duce“. În timp, a evoluat să însemne pregătirea sau instruirea cuiva prin practică și învățare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Describes the process of teaching or developing skills in various contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a forma",
+    "definition": "a pregăti pe cineva într-o anumită competență sau profesie",
+    "pronunciation": "/a forˈma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „a forma“ comes from the Latin „formare“, meaning „to shape“ or „to mold“. It is used in education and personal development.",
+        "targetText": "Verbul românesc „a forma“ derivă din latinescul „formare“, care înseamnă „a da formă“ sau „a modela“. Este folosit în educație și dezvoltare personală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Very commonly used in educational institutions."
+  },
+  "senses": [
+    {
+      "gloss": "train (professionally)",
+      "explanation": {
+        "sourceText": "To prepare someone for a profession or field.",
+        "targetText": "A pregăti pe cineva pentru o profesie sau domeniu."
+      },
+      "examples": [
+        {
+          "sourceText": "I will train you in the new program.",
+          "targetText": "Te voi forma în noul program."
+        }
+      ]
+    },
+    {
+      "gloss": "train (personally)",
+      "explanation": {
+        "sourceText": "Also used for personal development.",
+        "targetText": "Folosit și pentru dezvoltarea personală."
+      },
+      "examples": [
+        {
+          "sourceText": "He is constantly training himself.",
+          "targetText": "El se formează constant."
+        }
+      ]
+    },
+    {
+      "gloss": "train (animals)",
+      "explanation": {
+        "sourceText": "Also refers to the training of animals.",
+        "targetText": "Se referă și la dresajul animalelor."
+      },
+      "examples": [
+        {
+          "sourceText": "We are training a dog.",
+          "targetText": "Formăm un câine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "course",
+      "targetText": "curs"
+    },
+    {
+      "sourceText": "teacher",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "student",
+      "targetText": "elev"
+    },
+    {
+      "sourceText": "knowledge",
+      "targetText": "cunoștințe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "untrain",
+      "targetText": "a dezvăța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I train new apprentices.",
+      "targetText": "Eu formez noi ucenici."
+    },
+    {
+      "sourceText": "Do you also train apprentices?",
+      "targetText": "Formezi și tu ucenicii?"
+    },
+    {
+      "sourceText": "She trains the students.",
+      "targetText": "Ea formează elevii."
+    },
+    {
+      "sourceText": "We train within the company.",
+      "targetText": "Noi formăm în companie."
+    },
+    {
+      "sourceText": "Do you train the new employees?",
+      "targetText": "Formați angajații noi?"
+    },
+    {
+      "sourceText": "They train at school.",
+      "targetText": "Ei formează în școală."
+    },
+    {
+      "sourceText": "I have trained the apprentices.",
+      "targetText": "Am format ucenicii."
+    },
+    {
+      "sourceText": "They have trained the students.",
+      "targetText": "Ei au format elevii."
+    },
+    {
+      "sourceText": "He often trained apprentices.",
+      "targetText": "El forma ucenicii des."
+    },
+    {
+      "sourceText": "I had already trained the apprentices when you arrived.",
+      "targetText": "Formasem deja ucenicii când ai sosit."
+    },
+    {
+      "sourceText": "I will train the new apprentices tomorrow.",
+      "targetText": "Voi forma noii ucenici mâine."
+    },
+    {
+      "sourceText": "They will train the employees later.",
+      "targetText": "Ei o să formeze angajații mai târziu."
+    },
+    {
+      "sourceText": "I would train the students if I could.",
+      "targetText": "Aș forma elevii dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you train the apprentices.",
+      "targetText": "Este important să formezi ucenicii."
+    },
+    {
+      "sourceText": "Train the new apprentices!",
+      "targetText": "Formează noii ucenici!"
+    },
+    {
+      "sourceText": "Train the students!",
+      "targetText": "Formați elevii!"
+    },
+    {
+      "sourceText": "The trained apprentices are ready for the exam.",
+      "targetText": "Ucenicii formați sunt pregătiți pentru examen."
+    },
+    {
+      "sourceText": "The students are trained.",
+      "targetText": "Elevii sunt formați."
+    },
+    {
+      "sourceText": "By training the apprentices, I help them.",
+      "targetText": "Formând ucenicii, îi ajut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'train' as preparing someone like training a dog or athlete—both involve teaching skills."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a forma' sounds like 'to form' in English, which helps you recall its meaning of shaping or training."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'train' as guiding someone along a path, just like a train follows tracks—this helps link to 'a forma' meaning to shape or develop."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine apprentices being molded like clay—this visual helps connect 'a forma' with the idea of training and forming skills."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

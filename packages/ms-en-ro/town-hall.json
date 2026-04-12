@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-town-hall",
+  "parent": "ms-ro-primarie-30fb347c@d0f920c69198fdc07326a6c2093e5f74",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "town hall",
+    "definition": "A building where the local government of a town or city is housed and where political decisions are made.",
+    "pronunciation": "/ˈtaʊn ˌhɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'town hall' comes from the combination of 'town', referring to a populated area, and 'hall', meaning a large building or meeting place, originally used for gatherings and administrative purposes.",
+        "targetText": "Termenul englezesc „town hall” provine din combinarea cuvintelor „town”, care desemnează o zonă locuită, și „hall”, care înseamnă o clădire mare sau un loc de întâlnire, folosit inițial pentru adunări și scopuri administrative."
+      },
+      "source": "Etymological dictionaries, historical linguistics"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "primărie",
+    "genus": "feminine",
+    "definition": "Clădirea în care se află administrația unei localități și unde se iau decizii politice locale.",
+    "pronunciation": "/pri.məˈri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'primărie' derives from the Latin 'primarius', meaning 'the first' or 'principal', and was used in the Middle Ages to designate the main administrative institution of a locality.",
+        "targetText": "Cuvântul românesc „primărie” provine din latină, de la 'primarius', care înseamnă 'primul' sau 'principalul', fiind folosit în Evul Mediu pentru a desemna instituția administrativă principală a unei localități."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mayor",
+      "targetText": "primar"
+    },
+    {
+      "sourceText": "municipality",
+      "targetText": "localitate"
+    },
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    },
+    {
+      "sourceText": "administration",
+      "targetText": "administrație"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The town hall is located in the city center.",
+      "targetText": "Primăria se află în centrul orașului."
+    },
+    {
+      "sourceText": "Important decisions for the city are made in the town hall.",
+      "targetText": "La primărie se iau decizii importante pentru oraș."
+    },
+    {
+      "sourceText": "The mayor works in the town hall.",
+      "targetText": "Primarul lucrează la primărie."
+    },
+    {
+      "sourceText": "We go to the town hall to apply for an ID card.",
+      "targetText": "Mergem la primărie să cerem un act de identitate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'primărie' by linking it to 'primary'—the primary place where local decisions are made."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'prim-' in 'primărie' means 'first' or 'main', just like 'prime' in English, indicating importance."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the mayor as the 'prime' official working at the 'primărie'—the town hall."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ărie' in Romanian often denotes a place or institution, similar to '-ery' in English words like 'brewery' or 'bakery'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

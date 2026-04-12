@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-small",
+  "parent": "ms-ro-mic-dfca616d@e801fe6df620fe595711fa15c495a93a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "small",
+    "definition": "Of limited size, quantity, or extent; not large.",
+    "pronunciation": "/smɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"small\" originates from Old English 'smæl', which comes from the Proto-Germanic root *smalaz, meaning 'narrow' or 'thin'. Over time, it evolved to denote something of little size or extent.",
+        "targetText": "Cuvântul englezesc „small” provine din engleza veche 'smæl', care derivă din rădăcina proto-germanică *smalaz, însemnând 'îngust' sau 'subțire'. În timp, a evoluat pentru a desemna ceva de dimensiuni mici sau cuprindere redusă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mic",
+    "definition": "Von geringer Größe oder Ausmaß; nicht groß.",
+    "pronunciation": "/mit͡ʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian adjective „mic” is uncertain; there is no attested Latin origin, and its etymology remains disputed.",
+        "targetText": "Originea adjectivului românesc „mic” este incertă; nu există o etimologie latină atestată, iar proveniența sa rămâne disputată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "big",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "little brother",
+      "targetText": "frate mai mic"
+    },
+    {
+      "sourceText": "short",
+      "targetText": "scurt"
+    },
+    {
+      "sourceText": "tiny",
+      "targetText": "minuscul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "big",
+      "targetText": "mare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The small house is by the lake.",
+      "targetText": "Casa mică este lângă lac."
+    },
+    {
+      "sourceText": "He has a small sister.",
+      "targetText": "El are o soră mică."
+    },
+    {
+      "sourceText": "The dog is small but very brave.",
+      "targetText": "Câinele este mic, dar foarte curajos."
+    },
+    {
+      "sourceText": "I only want a small piece of cake.",
+      "targetText": "Vreau doar o bucată mică de prăjitură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'small' sounds like 'small' in English, meaning little in size—just like the Romanian 'mic'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mic' as short for 'micro', which means very small—this helps link the Romanian word to the English concept."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'small' and Romanian 'mic' both describe something tiny or little, so associating them helps recall."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'small mic' (microphone) to remember 'mic' means small in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

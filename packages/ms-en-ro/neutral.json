@@ -1,0 +1,184 @@
+{
+  "id": "ms-en-ro-neutral",
+  "parent": "ms-ro-neutru-e0913951@d0fb755073b8ffd45cca7eec27e1b98e",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 2,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "neutral",
+    "definition": "Not supporting or favoring any side in a conflict or dispute; unbiased and impartial; in science, having no electrical charge or showing no acidic or basic reaction.",
+    "pronunciation": "/ˈnuːtrəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "From Medieval Latin 'neutralis', derived from Latin 'neuter' meaning 'neither of the two'.",
+        "targetText": "Din latină medievală „neutralis“, derivat din latină „neuter“ (niciunul dintre amândoi)."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Can refer to people, opinions, countries, colors, chemical substances, etc."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neutru",
+    "definition": "imparțial, neinfluențat de simpatii sau antipatii; care nu aparține niciunei părți; (chimie, fizică) care nu prezintă sarcină electrică sau reacție acidă/bazică",
+    "pronunciation": "/ˈne.u.tru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "From French 'neutre', derived from Latin 'neutralis', from 'neuter' (neither of two).",
+        "targetText": "Din franceză „neutre“, derivat din latină „neutralis“, de la „neuter“ (niciunul dintre doi)."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjectiv variabil (neutru, neutră, neutri, neutre)."
+  },
+  "senses": [
+    {
+      "gloss": "neutral (objective, without emotion)",
+      "explanation": {
+        "sourceText": "An objective, unemotional attitude or manner of expression.",
+        "targetText": "O atitudine sau exprimare obiectivă, fără emoții."
+      },
+      "examples": [
+        {
+          "sourceText": "He reported the events in a neutral tone.",
+          "targetText": "A relatat evenimentele pe un ton neutru."
+        }
+      ]
+    },
+    {
+      "gloss": "neutral (impartial)",
+      "explanation": {
+        "sourceText": "Not taking sides in a conflict or debate.",
+        "targetText": "A nu lua partea niciuneia dintre părți într-un conflict sau dezbatere."
+      },
+      "examples": [
+        {
+          "sourceText": "Switzerland is a neutral country.",
+          "targetText": "Elveția este o țară neutră."
+        },
+        {
+          "sourceText": "A referee must be neutral.",
+          "targetText": "Un arbitru trebuie să fie neutru."
+        }
+      ]
+    },
+    {
+      "gloss": "neutral colors",
+      "explanation": {
+        "sourceText": "Colors like gray, beige, white that do not stand out strongly.",
+        "targetText": "Culori precum gri, bej, alb, care nu ies în evidență."
+      },
+      "examples": [
+        {
+          "sourceText": "She prefers neutral colors for her clothing.",
+          "targetText": "Ea preferă culori neutre pentru îmbrăcămintea ei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "balanced",
+      "targetText": "echilibrat"
+    },
+    {
+      "sourceText": "indifference",
+      "targetText": "indiferență"
+    },
+    {
+      "sourceText": "objective",
+      "targetText": "obiectiv"
+    },
+    {
+      "sourceText": "factual",
+      "targetText": "obiectiv"
+    },
+    {
+      "sourceText": "impartial",
+      "targetText": "imparțial"
+    },
+    {
+      "sourceText": "unbiased",
+      "targetText": "lipsit de prejudecăți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "committed",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "biased",
+      "targetText": "părtinitor"
+    },
+    {
+      "sourceText": "polarized",
+      "targetText": "polarizat"
+    },
+    {
+      "sourceText": "prejudiced",
+      "targetText": "subiectiv"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The tone was neutral, without emotions.",
+      "targetText": "Tonul a fost neutru, fără emoții."
+    },
+    {
+      "sourceText": "It is important to remain neutral in this matter.",
+      "targetText": "Este important să rămâi neutru în această problemă."
+    },
+    {
+      "sourceText": "The neutral zone was respected.",
+      "targetText": "Zona neutră a fost respectată."
+    },
+    {
+      "sourceText": "pH 7 is the neutral point on the pH scale.",
+      "targetText": "pH 7 este punctul neutru pe scala pH-ului."
+    },
+    {
+      "sourceText": "He tried to take a neutral position.",
+      "targetText": "El a încercat să adopte o poziție neutră."
+    },
+    {
+      "sourceText": "The colors in this room are very neutral.",
+      "targetText": "Culorile din această cameră sunt foarte neutre."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'neutral' and the Romanian 'neutru' look and sound very similar, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'neutral' gear in a car where no power is applied—just like 'neutru' means not taking sides."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'neutral' as being in the middle, like Switzerland's famous neutrality in politics."
+    },
+    {
+      "lang": "en",
+      "text": "Neutral colors like beige and gray are calm and unobtrusive—just like the meaning of 'neutru'."
+    }
+  ],
+  "media": {
+    "images": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-song",
+  "parent": "ms-ro-cantec-2986a754@4d6edf9fa1852535c8e2e62f43007e10",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "song",
+    "genus": "neuter",
+    "definition": "a musical composition intended to be sung, typically with words",
+    "pronunciation": "/sɒŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"song\" originates from Old English \"sang\", meaning a vocal musical composition or chant.",
+        "targetText": "Cuvântul englezesc „song“ provine din engleza veche „sang“, care însemna o compoziție muzicală vocală sau un cântec."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "\"Song\" is a fundamental element in music and culture."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cântec",
+    "genus": "neuter",
+    "definition": "o piesă muzicală cu voce",
+    "pronunciation": "/ˈkɨn.tec/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cântec\" derives from Latin \"cantus\" (song) and the verb \"canta\" (to sing).",
+        "targetText": "Cuvântul românesc „cântec“ provine din latină, din „cantus“ și verbul „a cânta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Used for vocal pieces in various musical styles."
+  },
+  "senses": [
+    {
+      "gloss": "vocal music",
+      "explanation": {
+        "sourceText": "Refers to a musical piece performed by singing.",
+        "targetText": "Se referă la o interpretare muzicală cântată."
+      },
+      "examples": [
+        {
+          "sourceText": "The singer performed a beautiful song.",
+          "targetText": "Cântărețul a cântat un cântec minunat."
+        }
+      ]
+    },
+    {
+      "gloss": "melody",
+      "explanation": {
+        "sourceText": "Can also denote a melody without lyrics.",
+        "targetText": "Poate desemna și o melodie fără versuri."
+      },
+      "examples": [
+        {
+          "sourceText": "I love the melody of this song.",
+          "targetText": "Îmi place melodia acestui cântec."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "bed",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "pod",
+      "targetText": "pod"
+    },
+    {
+      "sourceText": "sofa",
+      "targetText": "canapea"
+    },
+    {
+      "sourceText": "table",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stand",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "This song has a beautiful melody.",
+      "targetText": "Acest cântec are o melodie frumoasă."
+    },
+    {
+      "sourceText": "The song tells a moving story.",
+      "targetText": "Cântecul spune o poveste emoționantă."
+    },
+    {
+      "sourceText": "Songs connect people across cultures.",
+      "targetText": "Cântecele leagă oamenii din diferite culturi."
+    },
+    {
+      "sourceText": "As a child, I sang many songs.",
+      "targetText": "Când eram copil, cântam multe cântece."
+    },
+    {
+      "sourceText": "Sometimes I listen to old songs that remind me of my childhood.",
+      "targetText": "Uneori ascult cântece vechi care mă fac să-mi amintesc de copilărie."
+    },
+    {
+      "sourceText": "Songs are an important part of our culture.",
+      "targetText": "Cântecele sunt o parte importantă a culturii noastre."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"cântec\" by thinking of the English word \"chant\" which sounds similar and also relates to singing."
+    },
+    {
+      "lang": "en",
+      "text": "Listen to Romanian \"cântece\" (songs) to experience the word in real musical contexts."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"cântec\" with the English word \"cantata\" to link the concept of a sung musical piece."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine your favorite song as \"cântecul meu preferat\" to help remember the Romanian term."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

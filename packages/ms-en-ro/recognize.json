@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-recognize",
+  "parent": "ms-ro-a-recunoaste-85b80f4f@b9c9f394013731dcc631a6bd9c262246",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "recognize",
+    "definition": "To identify someone or something as known or familiar, often through experience or knowledge.",
+    "pronunciation": "/ˈrɛkəɡˌnaɪz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"recognize\" comes from the Latin 'recognoscere', meaning 'to know again' or 'to acknowledge', formed from the prefix 're-' (again) and 'cognoscere' (to know).",
+        "targetText": "Cuvântul englezesc „recognize” provine din latină, din verbul 'recognoscere', care înseamnă 'a cunoaște din nou' sau 'a recunoaște', format din prefixul 're-' (din nou) și 'cognoscere' (a cunoaște)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a recunoaște",
+    "definition": "A percepe și identifica ceva sau pe cineva, de obicei prin experiență sau cunoștințe.",
+    "pronunciation": "/a reku.noˈaʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a recunoaște\" derives from the Latin 'recognoscere', meaning 'to recognize' or 'to acknowledge', composed of the prefix 're-' (again) and 'cognoscere' (to know).",
+        "targetText": "Verbul românesc „a recunoaște” provine din latină, din verbul 'recognoscere', care înseamnă 'a recunoaște' sau 'a accepta', compus din prefixul 're-' (din nou) și 'cognoscere' (a cunoaște)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to show",
+      "targetText": "a arăta"
+    },
+    {
+      "sourceText": "to identify",
+      "targetText": "a identifica"
+    },
+    {
+      "sourceText": "to know",
+      "targetText": "a cunoaște"
+    },
+    {
+      "sourceText": "to perceive",
+      "targetText": "a percepe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to overlook",
+      "targetText": "a trece cu vederea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I recognize him immediately by his voice.",
+      "targetText": "Îl recunosc imediat după voce."
+    },
+    {
+      "sourceText": "Yesterday I recognized the problem.",
+      "targetText": "Ieri am recunoscut problema."
+    },
+    {
+      "sourceText": "In the past, people recognized him easily by his hat.",
+      "targetText": "Pe vremuri îl recunoșteai ușor după pălărie."
+    },
+    {
+      "sourceText": "I will recognize you immediately.",
+      "targetText": "Te voi recunoaște imediat."
+    },
+    {
+      "sourceText": "Recognize your mistakes!",
+      "targetText": "Recunoaște-ți greșelile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'recognize' shares its Latin root with the Romanian 'recunoaște', both related to 'knowing again'."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 're-' in 'recognize' means 'again', helping you remember that it means to know something once more."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'recunoaște' contains 'cunoaște', which means 'to know', linking the meaning to recognition."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'recognize' as 're-cognize'—to 'know again' someone or something familiar."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

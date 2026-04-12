@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-broken",
+  "parent": "ms-ro-terminat-9c178d17@f530989c16cf905ac26a4fbadaeeeedf",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:informal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "broken",
+    "definition": "Describes something that is damaged or no longer functioning properly; here used figuratively to mean exhausted or very tired.",
+    "pronunciation": "/ˈbroʊkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"broken\" comes from the Old English 'brocen', the past participle of 'brecan' meaning 'to break'. It has been used since early English to describe something that is fractured or damaged.",
+        "targetText": "Cuvântul englezesc „broken” provine din engleza veche 'brocen', participiul trecut al verbului 'brecan' care înseamnă 'a sparge'. A fost folosit încă din engleza timpurie pentru a descrie ceva fracturat sau deteriorat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "terminat",
+    "definition": "Erschöpft oder müde, im Sinne von 'kaputt' als Zustand der Erschöpfung.",
+    "pronunciation": "/ter.miˈnat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „terminat” derives from the Latin 'terminare', meaning 'to finish', and is used here to express a state of exhaustion.",
+        "targetText": "Cuvântul românesc „terminat” provine din latină 'terminare', care înseamnă 'a termina' și este folosit aici pentru a exprima starea de epuizare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "drained",
+      "targetText": "terminat"
+    },
+    {
+      "sourceText": "exhausted",
+      "targetText": "epuizat"
+    },
+    {
+      "sourceText": "to break down",
+      "targetText": "a se strica"
+    },
+    {
+      "sourceText": "tired",
+      "targetText": "obosit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rested",
+      "targetText": "odihnit"
+    },
+    {
+      "sourceText": "fit",
+      "targetText": "în formă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am totally broken after the long workday.",
+      "targetText": "Sunt complet terminat după o zi lungă de muncă."
+    },
+    {
+      "sourceText": "After the marathon, she felt broken and tired.",
+      "targetText": "După maraton, s-a simțit terminată și obosită."
+    },
+    {
+      "sourceText": "The old car is broken and no longer runs.",
+      "targetText": "Mașina veche este stricată și nu mai merge."
+    },
+    {
+      "sourceText": "Don't be broken, you can do it!",
+      "targetText": "Nu fi terminat, poți reuși!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"broken\" relates to something damaged or not working, which helps you remember the Romanian \"terminat\" as being 'worn out' or 'exhausted'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"terminat\" like 'terminated' in English, meaning something has ended—just like your energy when you're tired."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-at' in \"terminat\" is common in Romanian adjectives, so spotting it can help you identify descriptive words."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine finishing a task completely—this 'ending' feeling matches the meaning of \"terminat\" as being done or exhausted."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

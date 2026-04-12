@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-debts",
+  "parent": "ms-ro-datorii-990e7f01@27d1be83361d16d9ae3156aee93d1281",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "debts",
+    "genus": "feminine",
+    "definition": "Amounts of money or obligations that a person or entity owes and must repay.",
+    "pronunciation": "/dɛts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'debt' comes from the Old French 'dette', which derives from Latin 'debitum', meaning 'something owed'.",
+        "targetText": "Cuvântul englezesc „debt” provine din franceza veche 'dette', care derivă din latină 'debitum', însemnând 'ceva datorat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "datorii",
+    "genus": "feminine",
+    "definition": "Sume de bani sau obligații pe care cineva trebuie să le plătească sau să le îndeplinească.",
+    "pronunciation": "/daˈto.ri.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'datorii' comes from the Latin 'datorius', derived from 'dare' (to give), indicating an obligation or debt.",
+        "targetText": "Cuvântul românesc „datorii” provine din latină, de la 'datorius', derivat din 'dare' (a da), indicând o obligație sau o datorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "debtor",
+      "targetText": "debitor"
+    },
+    {
+      "sourceText": "liability",
+      "targetText": "obligație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "assets",
+      "targetText": "avere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The company's debts have increased in recent years.",
+      "targetText": "Datoriile companiei au crescut în ultimii ani."
+    },
+    {
+      "sourceText": "He could not repay his debts on time.",
+      "targetText": "El nu a putut să-și plătească datoriile la timp."
+    },
+    {
+      "sourceText": "Many people try to reduce their debts.",
+      "targetText": "Mulți oameni încearcă să-și reducă datoriile."
+    },
+    {
+      "sourceText": "Debts are a significant financial burden.",
+      "targetText": "Datoriile reprezintă o povară financiară mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'datorii' by linking it to the English word 'duty'—both relate to obligations you must fulfill."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'datorii' sounding like 'data'—just as you must return data, you must also repay debts."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'dare' in Latin means 'to give', so 'datorii' are things you have to give back—debts."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'datorii' with the English word 'donate'—both involve giving, but 'datorii' are obligations rather than gifts."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

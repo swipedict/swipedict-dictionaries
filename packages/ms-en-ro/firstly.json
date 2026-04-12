@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-firstly",
+  "parent": "ms-ro-in-primul-rand-944c5441@5fd098ad215c17430b860625c3691d77",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "firstly",
+    "definition": "used to introduce the first point or reason in a sequence or list",
+    "pronunciation": "/ˈfɜːrstli/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"firstly\" is derived from the adjective \"first,\" meaning the initial or earliest, combined with the adverbial suffix \"-ly\" which forms adverbs indicating manner or order.",
+        "targetText": "Cuvântul englezesc „firstly” provine de la adjectivul „first”, care înseamnă primul sau inițial, combinat cu sufixul adverbial „-ly” care formează adverbe ce indică modul sau ordinea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "\"Firstly\" is commonly used in English to enumerate points or arguments, marking the initial item in a list."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în primul rând",
+    "definition": "a preda sau a livra ceva",
+    "pronunciation": "/ɨn ˈprimul rɨnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase „în primul rând” is an internally formed expression composed of the adjective „primul” (from Latin „primus”) and the noun „rând” (row, place).",
+        "targetText": "Expresia românească „în primul rând” este o formare internă, compusă din adjectivul „primul” (din latină „primus”) și substantivul „rând” (șir, loc)."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Wird oft in Diskussionen verwendet, um die Reihenfolge oder Wichtigkeit von Punkten zu verdeutlichen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "pick up",
+      "targetText": "a ridica"
+    },
+    {
+      "sourceText": "give",
+      "targetText": "a oferi"
+    },
+    {
+      "sourceText": "deliver",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "hand over",
+      "targetText": "a înmâna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "keep",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Firstly, we need to identify the problem.",
+      "targetText": "În primul rând, trebuie să identificăm problema."
+    },
+    {
+      "sourceText": "There are many advantages, firstly cost savings.",
+      "targetText": "Există multe avantaje, în primul rând economiile de costuri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of being first in a race to remember „în primul rând” means 'firstly' or 'in the first place'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine standing at the first station of a train line to link „firstly” with „în primul rând”."
+    },
+    {
+      "lang": "en",
+      "text": "Connect „firstly” with the image of a big number 1 on a sign to recall it marks the first point in a list."
+    },
+    {
+      "lang": "en",
+      "text": "Associate „firstly” with an important first step—count your steps and start with 1!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bank-statement",
+  "parent": "ms-ro-extras-de-cont-96426a3c@6e27bea7f3f1c87b01aba7518628f6b3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bank statement",
+    "definition": "An official document issued by a bank listing all transactions and the balance of an account over a specific period.",
+    "pronunciation": "/bæŋk ˈsteɪtmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"bank statement\" combines \"bank\", from Old Italian 'banca' meaning 'bench' or 'table' where moneylenders operated, and \"statement\", derived from the Old French 'estatement', meaning a formal declaration or account. \"Bank\" entered English through Italian, while \"statement\" comes from French and Latin roots related to standing or setting forth information.",
+        "targetText": "Cuvântul englezesc „bank statement” combină „bank”, provenit din italianul vechi 'banca', care însemna 'bancă' sau 'masă' unde funcționau schimbătorii de bani, și „statement”, derivat din francezul vechi 'estatement', care înseamnă o declarație formală sau un raport. „Bank” a intrat în engleză prin italiană, iar „statement” provine din rădăcini franceze și latine legate de a prezenta sau a expune informații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "extras de cont",
+    "genus": "neuter",
+    "definition": "Un document oficial care listează tranzacțiile și soldul unui cont bancar pentru o anumită perioadă.",
+    "pronunciation": "/eksˈtras de kont/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „extras de cont” consists of „extras”, borrowed from the French „extrait” (from Latin „extractus”, meaning 'drawn out'), and „cont”, from the French „compte” (from Late Latin „computus”, meaning 'calculation').",
+        "targetText": "Expresia românească „extras de cont” este formată din „extras”, împrumutat din francezul „extrait” (din latinul „extractus”, „scos afară”), și „cont”, din francezul „compte” (din latinul târziu „computus”, „calcul”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank account",
+      "targetText": "cont bancar"
+    },
+    {
+      "sourceText": "account",
+      "targetText": "cont"
+    },
+    {
+      "sourceText": "balance",
+      "targetText": "sold"
+    },
+    {
+      "sourceText": "transfer",
+      "targetText": "transfer bancar"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I downloaded my bank statement online.",
+      "targetText": "Am descărcat extrasul de cont online."
+    },
+    {
+      "sourceText": "The bank statement shows all transactions from last month.",
+      "targetText": "Extrasul de cont arată toate tranzacțiile din ultima lună."
+    },
+    {
+      "sourceText": "Please check your bank statement carefully.",
+      "targetText": "Vă rugăm să verificați cu atenție extrasul de cont."
+    },
+    {
+      "sourceText": "The bank statement is sent monthly by the bank.",
+      "targetText": "Extrasul de cont este trimis lunar de bancă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'bank statement' as the official 'statement' from your 'bank' listing your money moves."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'statement' as a formal report or declaration, like a summary of your bank account activity."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'extras' sounds like 'extract', which means to pull out important information—just like a bank statement extracts your transactions."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'cont' in Romanian to 'account' in English; both relate to keeping track of money and calculations."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

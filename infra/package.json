@@ -1,0 +1,14 @@
+{
+  "name": "swipedict-dictionaries-infra",
+  "version": "1.0.0",
+  "description": "Dictionary build pipeline — validate, index, compress, and package dictionary entries.",
+  "type": "module",
+  "scripts": {
+    "build": "node cicd.js"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "glob": "^11.0.3"
+  }
+}

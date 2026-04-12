@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-upload",
+  "parent": "ms-ro-a-incarca-da312798@360b7a8a2316e4ebe72a423f2d91aa46",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "upload",
+    "definition": "To transfer data or files from a local device to a remote server or the internet.",
+    "pronunciation": "/ˈʌpˌloʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'upload' is formed from the prefix 'up-' indicating direction and the verb 'load', which means to put a load or burden onto something.",
+        "targetText": "Cuvântul englezesc „upload” este format din prefixul „up-” care indică direcția și verbul „load”, care înseamnă a pune o încărcătură sau o povară pe ceva."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încărca",
+    "definition": "A transfera date sau fișiere de pe un dispozitiv local pe un server sau pe internet.",
+    "pronunciation": "/a ɨn.kɨrˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a încărca” comes from the Latin verb 'incarcare', a derivative of 'carricare' (to load), which itself derives from the Latin 'carrus' meaning cart.",
+        "targetText": "Verbul românesc „a încărca” provine din verbul latin 'incarcare', o derivare a lui 'carricare' (a încărca), derivat din 'carrus' care înseamnă căruță."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "First conjugation verb, regular formation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "file",
+      "targetText": "fișier"
+    },
+    {
+      "sourceText": "download",
+      "targetText": "a descărca"
+    },
+    {
+      "sourceText": "internet",
+      "targetText": "internet"
+    },
+    {
+      "sourceText": "server",
+      "targetText": "server"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "download",
+      "targetText": "a descărca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am uploading the photos to the cloud.",
+      "targetText": "Eu încarc fotografiile în cloud."
+    },
+    {
+      "sourceText": "Can you please upload the file?",
+      "targetText": "Poți, te rog, să încarci fișierul?"
+    },
+    {
+      "sourceText": "He uploaded the video yesterday.",
+      "targetText": "El a încărcat videoclipul ieri."
+    },
+    {
+      "sourceText": "We need to upload the documents before the meeting.",
+      "targetText": "Trebuie să încărcăm documentele înainte de întâlnire."
+    },
+    {
+      "sourceText": "She is currently uploading the music files.",
+      "targetText": "Ea încarcă acum fișierele muzicale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'upload' as 'up' + 'load'—like loading data 'up' onto a server, similar to loading cargo onto a truck."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a încărca' sounds like 'in charge', which can help you recall the idea of putting something 'in charge' or 'loading' data."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'upload' as the opposite of 'download'—'a încărca' vs. 'a descărca' in Romanian, just like putting files up vs. taking them down."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine climbing 'up' a mountain while carrying a load—that's like uploading data 'up' to the cloud."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

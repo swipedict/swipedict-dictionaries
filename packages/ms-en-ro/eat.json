@@ -1,0 +1,148 @@
+{
+  "id": "ms-en-ro-eat",
+  "parent": "ms-ro-a-manca-9cf928d6@3a36e023bb4e70087923ef57aed13cb4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "eat",
+    "definition": "to consume food, especially referring to animals when used in a specific sense",
+    "pronunciation": "/iːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"eat\" comes from Old English \"etan\", meaning to consume food. It has cognates in other Germanic languages and has been used generally for the act of consuming nourishment.",
+        "targetText": "Cuvântul englezesc „eat“ provine din engleza veche „etan“, însemnând a consuma hrană. Are cognate în alte limbi germanice și este folosit în general pentru actul de a consuma hrană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb has irregular conjugation and can describe the act of animals consuming food, as well as humans."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mânca",
+    "definition": "a consuma hrană, în special referitor la animale",
+    "pronunciation": "/a mɨŋˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a mânca“ derives from the Latin „manducare“, meaning 'to eat' or 'to consume food'. It is the general verb for eating, used both for humans and animals.",
+        "targetText": "Verbul românesc „a mânca“ derivă din latină, din „manducare“, însemnând „a mânca“ sau „a consuma hrană“, folosit atât pentru oameni, cât și pentru animale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt hauptsächlich die Handlung des Essens durch Menschen; im übertragenen Sinne auch eine starke Wirkung, wenn verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "animal eating",
+      "explanation": {
+        "sourceText": "Used for animals consuming food.",
+        "targetText": "Folosit pentru animale care consumă hrană."
+      },
+      "examples": [
+        {
+          "sourceText": "The cow eats grass.",
+          "targetText": "Vaca mănâncă iarbă."
+        }
+      ]
+    },
+    {
+      "gloss": "to eat completely",
+      "explanation": {
+        "sourceText": "Can also mean to eat a lot or excessively.",
+        "targetText": "Poate însemna și a mânca mult sau excesiv."
+      },
+      "examples": [
+        {
+          "sourceText": "I eat everything on the table.",
+          "targetText": "Eu mănânc tot de pe masă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "eat",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "feed",
+      "targetText": "furaj"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "starve",
+      "targetText": "a înfometa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I eat the bread.",
+      "targetText": "Eu mănânc pâinea."
+    },
+    {
+      "sourceText": "Do you eat the vegetables?",
+      "targetText": "Mănânci legumele?"
+    },
+    {
+      "sourceText": "The cat eats its fish.",
+      "targetText": "Pisica mănâncă peștele ei."
+    },
+    {
+      "sourceText": "We like to eat pizza.",
+      "targetText": "Noi mâncăm cu plăcere pizza."
+    },
+    {
+      "sourceText": "The dogs eat everything.",
+      "targetText": "Câinii mănâncă tot."
+    },
+    {
+      "sourceText": "I have eaten the meat.",
+      "targetText": "Am mâncat carnea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a mânca\" is the general Romanian verb for \"to eat\", used for both humans and animals."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"mânca\" sounding like \"munch\" in English to help recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The English verb \"eat\" is short and simple, just like the Romanian \"a mânca\" is commonly used in everyday speech."
+    },
+    {
+      "lang": "en",
+      "text": "To remember \"a mânca\", associate it with the English word \"manna\" (food from heaven) to link the idea of nourishment."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

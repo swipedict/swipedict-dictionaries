@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-iron",
+  "parent": "ms-ro-fier-de-calcat-fa360cda@de2691c8d130b394134aa622b1c07588",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "iron",
+    "genus": "neuter",
+    "definition": "An electrical appliance used to smooth clothes by applying heat and pressure.",
+    "pronunciation": "/ˈaɪərn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'iron' comes from Old English 'īsarn', which traces back to a Proto-Germanic root referring to the metal iron, historically used for tools and implements.",
+        "targetText": "Cuvântul englezesc „iron” provine din engleza veche „īsarn”, care are rădăcini în proto-germanică și se referă la metalul fier, folosit istoric pentru unelte și obiecte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fier de călcat",
+    "genus": "neuter",
+    "definition": "Un aparat electric folosit pentru a netezi hainele prin căldură și presiune.",
+    "pronunciation": "/ˈfjer de kəlˈkat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'fier de călcat' consists of 'fier' (iron), borrowed from Latin 'ferrum', and 'călcat', the past participle of 'a călca', which derives from the Latin 'calcāre'.",
+        "targetText": "Expresia românească „fier de călcat” este formată din 'fier' (fier), împrumutat din latină 'ferrum', și 'călcat', participiul verbului 'a călca', derivat din latină 'calcāre'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to iron",
+      "targetText": "a călca"
+    },
+    {
+      "sourceText": "steam",
+      "targetText": "abur"
+    },
+    {
+      "sourceText": "heat",
+      "targetText": "căldură"
+    },
+    {
+      "sourceText": "clothing",
+      "targetText": "îmbrăcăminte"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I use the iron to smooth my shirts.",
+      "targetText": "Folosesc fierul de călcat pentru a netezi cămășile mele."
+    },
+    {
+      "sourceText": "The iron is hot, be careful!",
+      "targetText": "Fierul de călcat este fierbinte, fii atent!"
+    },
+    {
+      "sourceText": "A modern iron often has a steam function.",
+      "targetText": "Un fier de călcat modern are adesea o funcție de abur."
+    },
+    {
+      "sourceText": "The iron is on the ironing board.",
+      "targetText": "Fierul de călcat este pe masa de călcat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'fier de călcat' by thinking of 'fier' as 'iron' in English, the metal that heats up to smooth clothes."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a călca' means 'to step' or 'to press', just like you press clothes with an iron to remove wrinkles."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'iron' as both the metal and the appliance, which helps you connect 'fier' in Romanian to the same concept."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine stepping on wrinkles to flatten them, linking the Romanian 'călcat' with the action of ironing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

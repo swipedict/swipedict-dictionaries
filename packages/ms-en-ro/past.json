@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-past",
+  "parent": "ms-ro-trecut-e12a1705@7d2cde6c759f26a69c67308eb711282f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "past",
+    "genus": "feminine",
+    "definition": "The time that has already gone by; everything that happened before the present moment.",
+    "pronunciation": "/pæst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'past' comes from the Old French 'past', derived from the Latin 'pastus', the past participle of 'pasci' meaning 'to feed' or 'to pass'. It evolved to mean 'gone by' or 'former'.",
+        "targetText": "Cuvântul englezesc „past” provine din vechiul francez „past”, derivat din latinul „pastus”, participiul trecut al verbului „pasci” care înseamnă „a hrăni” sau „a trece”. A evoluat să însemne „trecut” sau „fost”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "trecut",
+    "genus": "neuter",
+    "definition": "Timpul care a trecut; ceea ce s-a întâmplat înainte de prezent.",
+    "pronunciation": "/ˈtrekut/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'trecut' derives from the Latin perfect participle 'transitus', meaning 'passed over' or 'gone beyond'.",
+        "targetText": "Cuvântul românesc „trecut” provine din participiul perfect latin 'transitus', care înseamnă 'trecut', 'pășit peste'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "present",
+      "targetText": "prezent"
+    },
+    {
+      "sourceText": "history",
+      "targetText": "istorie"
+    },
+    {
+      "sourceText": "time",
+      "targetText": "timp"
+    },
+    {
+      "sourceText": "future",
+      "targetText": "viitor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "future",
+      "targetText": "viitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The past cannot be changed.",
+      "targetText": "Trecutul nu poate fi schimbat."
+    },
+    {
+      "sourceText": "There were many changes in the past.",
+      "targetText": "În trecut au fost multe schimbări."
+    },
+    {
+      "sourceText": "He often thinks about his past.",
+      "targetText": "El se gândește des la trecutul său."
+    },
+    {
+      "sourceText": "The past is part of our history.",
+      "targetText": "Trecutul face parte din istoria noastră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'trecut' sounds like 'treat cut'—imagine cutting a treat from the past, something already finished."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'trecut' as related to 'transit'—something that has passed through or gone by."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'past' and Romanian 'trecut' both relate to things that have already happened, so linking them helps recall."
+    },
+    {
+      "lang": "en",
+      "text": "Picture time 'stepping over' (like 'trecut' from Latin 'transitus') to remember it means 'past'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

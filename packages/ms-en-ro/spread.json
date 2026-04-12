@@ -1,0 +1,117 @@
+{
+  "id": "ms-en-ro-spread",
+  "parent": "ms-ro-a-raspandi-ff678e8d@8cac52bef45a6508dd055d4abf96254c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "spread",
+    "definition": "To distribute or make something, especially information or rumors, known to many people.",
+    "pronunciation": "/sprɛd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'spread' comes from Old English 'spraedan', meaning to stretch out or extend, related to the Proto-Germanic root *spreadan.",
+        "targetText": "Verbul englezesc „spread” provine din engleza veche „spraedan”, care înseamnă a întinde sau a extinde, legat de rădăcina proto-germanică *spreadan."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A strong irregular verb; past tense and past participle: spread."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a răspândi",
+    "definition": "A face cunoscut sau a transmite o informație, o veste sau un zvon către un număr mare de persoane.",
+    "pronunciation": "/a rəs.pɨnˈdi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a răspândi' derives from the Latin verb 'pandere', meaning 'to spread out', with the prefix 'ră-' used for intensification.",
+        "targetText": "Verbul românesc „a răspândi” provine din verbul latin 'pandere', care înseamnă 'a întinde, a răspândi', cu prefixul 'ră-' care intensifică acțiunea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation, Partizip: răspândit."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rumor",
+      "targetText": "zvon"
+    },
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "news",
+      "targetText": "vestă"
+    },
+    {
+      "sourceText": "distribution",
+      "targetText": "răspândire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hide",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Many people quickly spread the rumor.",
+      "targetText": "Mulți oameni răspândesc zvonul rapid."
+    },
+    {
+      "sourceText": "He spread the rumor yesterday.",
+      "targetText": "El a răspândit zvonul ieri."
+    },
+    {
+      "sourceText": "In the past, people spread news orally.",
+      "targetText": "Oamenii răspândeau vești pe cale orală în trecut."
+    },
+    {
+      "sourceText": "They will spread the rumor soon.",
+      "targetText": "Ei vor răspândi zvonul în curând."
+    },
+    {
+      "sourceText": "Do not spread false rumors!",
+      "targetText": "Nu răspândi zvonuri false!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'spread' sounds like 'spread' in English, meaning to stretch or extend, just like 'a răspândi' means to spread or distribute."
+    },
+    {
+      "lang": "en",
+      "text": "Think of spreading butter on bread to remember 'a răspândi'—you are making something cover a wide area."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'ră-' in Romanian intensifies the action, similar to how 're-' or 'pre-' can modify verbs in English."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'pandere' (Latin root of 'a răspândi') with 'expand' in English to recall the idea of spreading out."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

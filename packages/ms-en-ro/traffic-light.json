@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-traffic-light",
+  "parent": "ms-ro-semafor-ead97851@799ffb7b7714f5617213560a00c72c9b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "traffic light",
+    "genus": "feminine",
+    "definition": "A signaling device with red, yellow, and green lights used to control vehicle and pedestrian traffic at intersections.",
+    "pronunciation": "/ˈtræfɪk laɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'traffic light' combines 'traffic', from the Old French 'trafic' meaning movement of vehicles, and 'light', referring to the colored signals used to regulate traffic flow.",
+        "targetText": "Cuvântul englezesc „traffic light” combină „traffic”, provenit din franceza veche „trafic” care înseamnă mișcarea vehiculelor, și „light”, referindu-se la semnalele colorate folosite pentru a regla circulația."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "semafor",
+    "genus": "neuter",
+    "definition": "Un dispozitiv cu lumini roșii, galbene și verzi pentru reglarea traficului rutier.",
+    "pronunciation": "/seˈma.for/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'semafor' was borrowed from the French 'sémaphore', which in turn derives from the Greek words 'sema' (sign) and 'phoros' (bearing).",
+        "targetText": "Cuvântul românesc „semafor” este împrumutat din francezul „sémaphore”, care provine din grecescul 'sema' (semn) și 'phoros' (purtător)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "traffic light signal",
+      "targetText": "lumina semaforului"
+    },
+    {
+      "sourceText": "pedestrian traffic light",
+      "targetText": "semafor pentru pietoni"
+    },
+    {
+      "sourceText": "road traffic",
+      "targetText": "trafic rutier"
+    },
+    {
+      "sourceText": "traffic",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The traffic light is red, you must wait.",
+      "targetText": "Semaforul este roșu, trebuie să aștepți."
+    },
+    {
+      "sourceText": "You may go when the light is green.",
+      "targetText": "La verde poți să mergi."
+    },
+    {
+      "sourceText": "The traffic light at the intersection is not working.",
+      "targetText": "Semaforul de la intersecție nu funcționează."
+    },
+    {
+      "sourceText": "Please stop at the traffic light.",
+      "targetText": "Te rog să oprești la semafor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'semafor' comes from French 'sémaphore', which means 'sign bearer'—think of it as a device that 'carries' signals to guide traffic."
+    },
+    {
+      "lang": "en",
+      "text": "The English term 'traffic light' is easy to remember because it literally describes lights that control traffic flow."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the colors red, yellow, and green as universal signals for stop, caution, and go—just like at a traffic light or 'semafor'."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize waiting at a busy intersection for the green light to proceed; this helps link the Romanian 'semafor' with the English 'traffic light'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

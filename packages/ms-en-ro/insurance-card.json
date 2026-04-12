@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-insurance-card",
+  "parent": "ms-ro-card-de-asigurat-6a8dc4d1@fd16c44f4cf5fd0be250e4def54efc0d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "insurance card",
+    "genus": "feminine",
+    "definition": "A card that proves a person's health insurance coverage and is used within the healthcare system.",
+    "pronunciation": "/ɪnˈʃʊərəns kɑːrd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'insurance card' combines 'insurance'—from Old French 'asseurance', derived from Latin 'securus' meaning 'secure' or 'safe'—and 'card', which comes from the Old French 'carte', originally from Latin 'charta' meaning 'paper' or 'document'.",
+        "targetText": "Cuvântul englezesc „insurance card” combină „insurance” — din franceza veche 'asseurance', derivat din latină 'securus', care înseamnă 'sigur' sau 'protejat' — și „card”, care provine din franceza veche 'carte', inițial din latină 'charta', însemnând 'hârtie' sau 'document'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Compound of 'insurance' (protection or coverage) and 'card' (a small flat piece of material used for identification)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "card de asigurat",
+    "genus": "neuter",
+    "definition": "Un card care dovedește că o persoană este asigurată în sistemul de sănătate.",
+    "pronunciation": "/kard de asiɡˈurat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'asigurat' comes from the Latin verb 'assecurare', meaning 'to insure', which entered Romanian through Italian.",
+        "targetText": "Cuvântul românesc „asigurat” provine din verbul latin 'assecurare', care înseamnă 'a asigura', pătruns în limba română prin intermediul italianei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Compound of 'card' (borrowed from English) and 'asigurat' (past participle of 'a asigura')."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "healthcare system",
+      "targetText": "sistem de sănătate"
+    },
+    {
+      "sourceText": "health insurance",
+      "targetText": "asigurare de sănătate"
+    },
+    {
+      "sourceText": "insured person",
+      "targetText": "asigurat"
+    },
+    {
+      "sourceText": "insurance",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The insurance card must be presented at every doctor's visit.",
+      "targetText": "Cardul de asigurat trebuie prezentat la fiecare vizită la medic."
+    },
+    {
+      "sourceText": "Without the insurance card, treatment can become more expensive.",
+      "targetText": "Fără cardul de asigurat, tratamentul poate fi mai scump."
+    },
+    {
+      "sourceText": "The insurance card contains important information about the insured person.",
+      "targetText": "Cardul de asigurat conține informații importante despre asigurat."
+    },
+    {
+      "sourceText": "Please keep your insurance card safe.",
+      "targetText": "Vă rugăm să păstrați bine cardul de asigurat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'asigurat' sounds like 'assured' in English, which means guaranteed or insured—helping you link the Romanian word to insurance."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an 'insurance card' as your 'ID card' for health coverage—both are cards proving your status."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'card' is borrowed from English, so it’s easy to remember as it sounds the same."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you’re 'assuring' your health with a card—'asigurat' means insured, so the 'card de asigurat' is your proof."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "ms-en-ro-brilliant",
+  "parent": "ms-ro-stralucitor-23ece44f@4efa0ba1af044fda2a3b045d0476760f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "brilliant",
+    "definition": "exceptionally clever or talented; shining brightly or with great intelligence; outstanding in quality or performance",
+    "pronunciation": "/ˈbrɪljənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "From the French word 'brillant', meaning shining or sparkling, which comes from the present participle of 'briller' meaning to shine.",
+        "targetText": "Cuvântul englezesc „brilliant” provine din francezul „brillant”, care înseamnă strălucitor sau sclipitor, participiul prezent al verbului „briller” care înseamnă a străluci."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Can refer to light, colors, ideas, achievements, or people. Also denotes a specially cut diamond."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "strălucitor",
+    "definition": "care strălucește, care emite sau reflectă o lumină puternică; remarcabil, excepțional, excelent",
+    "pronunciation": "/strə.lu.t͡ʃiˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „strălucitor” is an internal derivation from the verb „a străluci” (to shine, to glow) with the agent suffix „-tor”; it is not a direct borrowing from French, though there may be semantic influence.",
+        "targetText": "Cuvântul românesc „strălucitor” este format intern din verbul „a străluci” cu sufixul agent „-tor”; nu este un împrumut direct din franceză, deși poate exista o influență semantică."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjectiv variabil (strălucitor, strălucitoare, strălucitori, strălucitoare). 'Briliant' ca substantiv desemnează un diamant."
+  },
+  "senses": [
+    {
+      "gloss": "brilliant (shining, sparkling)",
+      "explanation": {
+        "sourceText": "Describes physical brightness or radiant light.",
+        "targetText": "Descrie strălucirea fizică sau luminozitatea puternică."
+      },
+      "examples": [
+        {
+          "sourceText": "The diamond was cut brilliantly.",
+          "targetText": "Diamantul era tăiat briliant."
+        },
+        {
+          "sourceText": "The stars shone brilliantly in the sky.",
+          "targetText": "Stelele străluceau briliant pe cer."
+        }
+      ]
+    },
+    {
+      "gloss": "brilliant (outstanding, excellent)",
+      "explanation": {
+        "sourceText": "Describes exceptional quality, intelligence, or performance.",
+        "targetText": "Descrie o calitate, inteligență sau performanță remarcabilă."
+      },
+      "examples": [
+        {
+          "sourceText": "She had a brilliant idea.",
+          "targetText": "Ea a avut o idee strălucitoare."
+        },
+        {
+          "sourceText": "His analysis was brilliant.",
+          "targetText": "Analiza sa a fost briliantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "excellent",
+      "targetText": "remarcabil"
+    },
+    {
+      "sourceText": "ingenious",
+      "targetText": "genial"
+    },
+    {
+      "sourceText": "shine",
+      "targetText": "strălucire"
+    },
+    {
+      "sourceText": "shining",
+      "targetText": "strălucitor"
+    },
+    {
+      "sourceText": "outstanding",
+      "targetText": "excelent"
+    },
+    {
+      "sourceText": "intelligence",
+      "targetText": "inteligență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dark",
+      "targetText": "întunecat"
+    },
+    {
+      "sourceText": "ordinary",
+      "targetText": "obișnuit"
+    },
+    {
+      "sourceText": "dull",
+      "targetText": "mat"
+    },
+    {
+      "sourceText": "mediocre",
+      "targetText": "mediocru"
+    },
+    {
+      "sourceText": "blunt",
+      "targetText": "tern"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The atmosphere at the concert was simply brilliant.",
+      "targetText": "Atmosfera de la concert a fost pur și simplu strălucitoare."
+    },
+    {
+      "sourceText": "She has brilliant ideas for the project.",
+      "targetText": "Ea are idei strălucitoare pentru proiect."
+    },
+    {
+      "sourceText": "His brilliant smile enchanted everyone.",
+      "targetText": "Zâmbetul său strălucitor a fermecat pe toată lumea."
+    },
+    {
+      "sourceText": "The brilliant scientist received an award.",
+      "targetText": "Savantul briliant a primit un premiu."
+    },
+    {
+      "sourceText": "The colors in the painting are brilliant.",
+      "targetText": "Culorile din tablou sunt strălucitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'brilliant' by thinking of a shining diamond—bright and exceptional, just like the Romanian 'strălucitor'."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'brilliant' sounds like 'brilliant' in Romanian, which means shining or outstanding—easy to link!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of a brilliant idea lighting up your mind, just like 'strălucitor' means shining or glowing."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'strălucitor' with 'stralucire' (shine) and remember the English 'brilliant' means bright or excellent."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

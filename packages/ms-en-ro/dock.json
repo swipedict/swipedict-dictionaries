@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-dock",
+  "parent": "ms-ro-a-acosta-eff04bd2@1d9932076c629c44d5dd106cba06c2fd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "dock",
+    "definition": "To bring a ship to a berth or harbor and secure it there.",
+    "pronunciation": "/dɒk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'dock' originates from the noun 'dock', which comes from Middle English, related to Old Norse 'dokkr', meaning a water basin or a place where ships are moored.",
+        "targetText": "Cuvântul englezesc „dock” provine din substantivul „dock”, care are origini în engleza mijlocie și este legat de vechiul norvegian „dokkr”, însemnând o bazin de apă sau un loc unde navele sunt acostate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acosta",
+    "definition": "A aduce o navă la mal sau la chei și a o fixa acolo.",
+    "pronunciation": "/a aˈkosta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a acosta' derives from the Italian 'accostare', meaning 'to approach' or 'to dock', which comes from the Latin 'ad' + 'costa' (coast).",
+        "targetText": "Verbul românesc „a acosta” provine din italianul 'accostare', care înseamnă 'a se apropia' sau 'a acosta', derivat din latinul 'ad' + 'costa' (țărm)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "undock (ship)",
+      "targetText": "a pleca (navă)"
+    },
+    {
+      "sourceText": "mooring",
+      "targetText": "ancorare"
+    },
+    {
+      "sourceText": "harbor",
+      "targetText": "port"
+    },
+    {
+      "sourceText": "berth",
+      "targetText": "loc de acostare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "undock (ship)",
+      "targetText": "a pleca (navă)"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The ship docks in the harbor.",
+      "targetText": "Nava acostează în port."
+    },
+    {
+      "sourceText": "We have to dock before it gets dark.",
+      "targetText": "Trebuie să acostăm înainte să se întunece."
+    },
+    {
+      "sourceText": "The ship docked safely at the pier.",
+      "targetText": "Nava a acostat în siguranță la dig."
+    },
+    {
+      "sourceText": "Please dock and secure!",
+      "targetText": "Vă rugăm să acostați și să fixați!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dock' as the place where ships come in—just like 'a acosta' means to bring a ship to shore."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a acosta' sounding like 'a coast'—ships dock along the coast."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'dock' and Romanian 'a acosta' both relate to ships arriving safely at a harbor."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a ship 'docking' as 'a acosta'—both mean to approach and tie up at the shore."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

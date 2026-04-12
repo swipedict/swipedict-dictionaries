@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-article",
+  "parent": "ms-ro-articol-50cbe501@b92a2910a5d37b4fa8cc3438131e69f4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "article",
+    "genus": "masculine",
+    "definition": "A single item, object, or a distinct section of text in a newspaper or legal document.",
+    "pronunciation": "/ˈɑːrtɪkəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'article' comes from the Latin 'articulus', meaning 'a small joint' or 'a section'.",
+        "targetText": "Cuvântul englezesc „article” provine din latină 'articulus', care înseamnă 'membre mic' sau 'secțiune'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "articol",
+    "genus": "neuter",
+    "definition": "Un obiect individual, un articol sau o secțiune dintr-un text, ziar sau lege.",
+    "pronunciation": "/arˈtikol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „articol” derives from the Latin 'articulus', which means 'a small joint' or 'section'.",
+        "targetText": "Cuvântul românesc „articol” provine din latină 'articulus', care înseamnă 'membre mic' sau 'secțiune'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "section",
+      "targetText": "secțiune"
+    },
+    {
+      "sourceText": "object",
+      "targetText": "obiect"
+    },
+    {
+      "sourceText": "law",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "text",
+      "targetText": "text"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I am reading an article in the newspaper.",
+      "targetText": "Citesc un articol în ziar."
+    },
+    {
+      "sourceText": "The article in the legal code is very important.",
+      "targetText": "Articolul din codul de legi este foarte important."
+    },
+    {
+      "sourceText": "This article is made of leather.",
+      "targetText": "Acest articol este făcut din piele."
+    },
+    {
+      "sourceText": "There are many different articles in the supermarket.",
+      "targetText": "În supermarket sunt multe articole diferite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word ends with '-ol', a common ending in many Latin-based loanwords, making it easier to recognize as a borrowed term."
+    },
+    {
+      "lang": "en",
+      "text": "Both the English word 'article' and the Romanian 'articol' come from the Latin 'articulus'—think of a small part or section to remember the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine an article as a small link in a chain of texts or objects—this helps you remember it as a section or item."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'articol' with the English 'article'—similar in sound and meaning, which makes learning easier."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

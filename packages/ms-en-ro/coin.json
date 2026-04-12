@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-coin",
+  "parent": "ms-ro-moneda-13b72b59@8cabbcb45ef9a7231970a7d913f44d2f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "coin",
+    "genus": "feminine",
+    "definition": "A small, flat, typically round piece of metal used as money.",
+    "pronunciation": "/kɔɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"coin\" comes from the Old French 'coign', meaning a wedge or corner, which was later used to describe a piece of metal stamped for currency. The term evolved through Medieval Latin 'cuneus', meaning wedge, reflecting the shape or the process of cutting metal pieces.",
+        "targetText": "Cuvântul englezesc „coin” provine din vechea franceză 'coign', care înseamnă pană sau colț, folosit ulterior pentru a desemna o bucată de metal ștanțată pentru monedă. Termenul a evoluat prin latina medievală 'cuneus', care înseamnă pană, reflectând forma sau procesul de tăiere a bucăților de metal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "monedă",
+    "genus": "feminine",
+    "definition": "Un obiect mic, rotund, din metal, folosit ca mijloc de plată.",
+    "pronunciation": "/moˈnedə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"monedă\" derives directly from Latin 'moneta', which originally referred to the temple of the Roman goddess Juno Moneta, where coins were minted.",
+        "targetText": "Cuvântul românesc „monedă” provine direct din latină 'moneta', care inițial desemna templul zeiței romane Juno Moneta, unde se băteau monede."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "banknote",
+      "targetText": "bancnotă"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "cash register",
+      "targetText": "casă (de marcat)"
+    },
+    {
+      "sourceText": "currency",
+      "targetText": "monedă (sens larg)"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I found an old coin from the 19th century.",
+      "targetText": "Am găsit o monedă veche din secolul al XIX-lea."
+    },
+    {
+      "sourceText": "Please give me a coin for the shopping cart.",
+      "targetText": "Te rog, dă-mi o monedă pentru căruciorul de cumpărături."
+    },
+    {
+      "sourceText": "The coin fell on the floor and rolled away.",
+      "targetText": "Moneda a căzut pe jos și a rostogolit."
+    },
+    {
+      "sourceText": "In Romania, there are coins of 1, 5, 10, 50 bani.",
+      "targetText": "În România există monede de 1, 5, 10, 50 bani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word \"monedă\" sounds like \"money\" and relates to coins and currency."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"monedă\" as similar to the English word \"monetary,\" which relates to money and finance."
+    },
+    {
+      "lang": "en",
+      "text": "The root of \"monedă\" comes from the Latin 'moneta', linked to the temple where coins were made—helping you connect history with the word."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine tossing a \"monedă\" (coin) into a wishing well and wishing for \"bani\" (money) to remember the word and its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

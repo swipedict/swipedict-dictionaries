@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-guest",
+  "parent": "ms-ro-oaspet-53a673fd@2c55383124082b42c26da64476be1e00",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "guest",
+    "genus": "masculine",
+    "definition": "A person who is invited to or temporarily stays at a place.",
+    "pronunciation": "/ɡɛst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"guest\" originates from Old English 'gæst', which traces back to the Proto-Indo-European root *ghos-ti-, meaning 'stranger' or 'visitor'.",
+        "targetText": "Cuvântul englezesc „guest” provine din engleza veche 'gæst', care derivă din rădăcina indo-europeană *ghos-ti-, ce înseamnă „străin” sau „vizitator”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "oaspeț",
+    "genus": "masculine",
+    "definition": "Persoană care este invitată sau care stă temporar într-un loc.",
+    "pronunciation": "/oasˈpet͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"oaspeț\" derives from the Latin 'hospes, hospitis', meaning 'guest' or 'host', and entered the Romanian language through Vulgar Latin.",
+        "targetText": "Cuvântul românesc „oaspeț” provine din latină 'hospes, hospitis', care însemna „oaspeț” sau „gazdă” și a intrat în limba română prin latina populară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "visitor",
+      "targetText": "vizitator"
+    },
+    {
+      "sourceText": "invitation",
+      "targetText": "invitație"
+    },
+    {
+      "sourceText": "host",
+      "targetText": "gazdă"
+    },
+    {
+      "sourceText": "overnight stay",
+      "targetText": "pensie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "host",
+      "targetText": "gazdă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The guest arrived on time for the party.",
+      "targetText": "Oaspețul a venit punctual la petrecere."
+    },
+    {
+      "sourceText": "We invited many guests.",
+      "targetText": "Am invitat mulți oaspeți."
+    },
+    {
+      "sourceText": "The guest feels comfortable here.",
+      "targetText": "Oaspețul se simte bine aici."
+    },
+    {
+      "sourceText": "As a guest, one should be polite.",
+      "targetText": "Ca oaspeț, trebuie să fii politicos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"oaspeț\" sounds like \"oasis\" plus \"pet\" — imagine a guest as a cherished pet welcomed in a peaceful oasis."
+    },
+    {
+      "lang": "en",
+      "text": "The ending \"-peț\" in \"oaspeț\" can remind you of \"pet\", helping you associate a guest with someone cared for warmly."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the Latin root 'hospes' meaning both guest and host, which explains why \"oaspeț\" can relate to both roles."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word \"guest\" with \"oaspeț\" by focusing on the shared idea of a visitor who is temporarily welcomed."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

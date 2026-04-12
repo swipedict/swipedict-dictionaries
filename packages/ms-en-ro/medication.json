@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-medication",
+  "parent": "ms-ro-medicament-9a9c723a@5edd1c2967553357f69acb194b79697c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "medication",
+    "genus": "neuter",
+    "definition": "A substance or preparation used to prevent, treat, or cure diseases or medical conditions.",
+    "pronunciation": "/ˌmɛdɪkˈeɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"medication\" comes from the Latin 'medicatio', meaning 'healing' or 'treatment', derived from 'medicare' which means 'to heal' or 'to treat'.",
+        "targetText": "Cuvântul englezesc „medication” provine din latină, de la 'medicatio', care înseamnă 'vindecare' sau 'tratament', derivat din 'medicare' care înseamnă 'a vindeca' sau 'a trata'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "medicament",
+    "genus": "neuter",
+    "definition": "Substanță sau preparat folosit pentru prevenirea, tratarea sau vindecarea bolilor.",
+    "pronunciation": "/mediˈkament/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"medicament\" derives directly from the Latin 'medicamentum', meaning 'remedy', which comes from 'medicare' (to treat, to heal).",
+        "targetText": "Cuvântul românesc „medicament” provine direct din latină, de la 'medicamentum', care înseamnă 'remediu', derivat din 'medicare' (a trata, a vindeca)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "drug",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "remedy",
+      "targetText": "remediu"
+    },
+    {
+      "sourceText": "tablet",
+      "targetText": "comprimat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "poison",
+      "targetText": "otrava"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The medication must be taken three times a day.",
+      "targetText": "Medicamentul trebuie administrat de trei ori pe zi."
+    },
+    {
+      "sourceText": "The doctor prescribed a new medication for the pain.",
+      "targetText": "Doctorul a prescris un medicament nou pentru dureri."
+    },
+    {
+      "sourceText": "Many medications have side effects.",
+      "targetText": "Multe medicamente au efecte secundare."
+    },
+    {
+      "sourceText": "Please keep the medication out of reach of children.",
+      "targetText": "Vă rugăm să păstrați medicamentul departe de copii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"medication\" sounds similar to the Romanian \"medicament\", making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the ending '-tion' in \"medication\", a common English noun suffix derived from Latin, similar to words like 'education' or 'information'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a doctor giving you medication to heal you—'medicare' in Latin means to treat or heal, which is the root of the word."
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"medication\" with the English word \"medicine\"; both come from the same Latin root related to healing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-tomorrow",
+  "parent": "ms-ro-maine-5a56ee03@77d249eb682b91fa87ad98206b837fb9",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tomorrow",
+    "definition": "The day after today; on the following day.",
+    "pronunciation": "/təˈmɒroʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'tomorrow' comes from Old English 'to morgenne', meaning 'at morning' or 'on the morrow', originally referring to the next day.",
+        "targetText": "Cuvântul englezesc „tomorrow” provine din engleza veche 'to morgenne', care însemna 'dimineața' sau 'în ziua următoare', referindu-se inițial la ziua următoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mâine",
+    "definition": "Der Tag nach heute; am folgenden Tag.",
+    "pronunciation": "/ˈmɨjne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'mâine' derives from the Latin 'mane', meaning 'early in the morning', and refers to the next day.",
+        "targetText": "Cuvântul românesc „mâine” provine din latinescul 'mane', care înseamnă 'dimineața devreme', desemnând ziua următoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "yesterday",
+      "targetText": "ieri"
+    },
+    {
+      "sourceText": "today",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "day",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "day after tomorrow",
+      "targetText": "poimâine"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "yesterday",
+      "targetText": "ieri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I will come to visit tomorrow.",
+      "targetText": "Vin mâine în vizită."
+    },
+    {
+      "sourceText": "Tomorrow the weather will be better.",
+      "targetText": "Mâine vremea va fi mai bună."
+    },
+    {
+      "sourceText": "We will meet tomorrow morning.",
+      "targetText": "Ne întâlnim mâine dimineață."
+    },
+    {
+      "sourceText": "Tomorrow is a holiday.",
+      "targetText": "Mâine este o sărbătoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'mâine' sounding like 'mine'—imagine the next day belongs to you, 'my day' = 'mâine'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember: 'tomorrow' means the next day, just like 'mâine' in Romanian refers to the following day."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine saying: 'I will come tomorrow (mâine)', meaning the next day that is yours."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'mâine' to the Latin root 'mane' meaning early morning, just like 'tomorrow' relates to the next morning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

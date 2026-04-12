@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-judgment",
+  "parent": "ms-ro-judecata-ea323d55@d89bf918fe5c0a939972a4e958fddc87",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "judgment",
+    "definition": "A formal decision or evaluation, typically made by a court or authority, that assesses a situation and determines an outcome.",
+    "pronunciation": "/ˈdʒʌdʒmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'judgment' derives from the Old French 'jugement', which comes from the Latin 'judicium', meaning 'a decision or trial'. It is related to the verb 'judge', originating from Latin 'judicare', meaning 'to judge or decide'.",
+        "targetText": "Cuvântul englezesc „judgment” provine din franceza veche 'jugement', care la rândul său derivă din latină 'judicium', însemnând 'decizie sau proces'. Este legat de verbul 'judge', care provine din latină 'judicare', însemnând 'a judeca sau a decide'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "judecată",
+    "genus": "neuter",
+    "definition": "O decizie formală sau o evaluare făcută de o instanță sau o autoritate, care apreciază un fapt și stabilește un rezultat.",
+    "pronunciation": "/dʒu.deˈkat͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'judecată' comes from the Latin verb 'judicare', meaning 'to judge' or 'to give a sentence'. It developed in Romanian as a noun referring to the action or result of judging.",
+        "targetText": "Cuvântul românesc „judecată” provine din verbul latin 'judicare', care înseamnă 'a judeca' sau 'a da o sentință'. În română, s-a dezvoltat ca substantiv care desemnează acțiunea sau rezultatul judecății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "decision",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "judge",
+      "targetText": "judecător"
+    },
+    {
+      "sourceText": "verdict",
+      "targetText": "sentință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "acquittal",
+      "targetText": "achitare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The court has delivered a judgment.",
+      "targetText": "Instanța a dat o judecată."
+    },
+    {
+      "sourceText": "The judgment was in his favor.",
+      "targetText": "Judecata a fost în favoarea lui."
+    },
+    {
+      "sourceText": "He accepted the judgment without objection.",
+      "targetText": "El a acceptat judecata fără obiecții."
+    },
+    {
+      "sourceText": "The judgment was announced in writing.",
+      "targetText": "Judecata a fost pronunțată în scris."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'judgment' sounds like 'judge meant' — the decision the judge meant to make."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'judecată' shares the root with English 'judge' and 'judgment', all coming from Latin 'judicare'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'judecată' as the Romanian version of 'judgment'—both relate to making a formal decision."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ată' in Romanian often turns verbs into nouns, similar to how English uses '-ment' in 'judgment'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

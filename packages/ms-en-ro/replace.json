@@ -1,0 +1,200 @@
+{
+  "id": "ms-en-ro-replace",
+  "parent": "ms-ro-a-inlocui-26360c50@5a67c5849e82a5bdb6dca4013f1f6fec",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "replace",
+    "definition": "to take the place of something with another or to put something new in the position of the old",
+    "pronunciation": "/rɪˈpleɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"replace\" comes from the prefix \"re-\" meaning 'again' and the verb \"place\", originally meaning 'to put something in a particular position again or instead of something else'.",
+        "targetText": "Cuvântul englezesc „replace” provine din prefixul „re-” care înseamnă „din nou” și verbul „place”, inițial cu sensul de „a pune ceva într-o poziție anume din nou sau în locul altcuiva/altceva”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used when talking about exchanging objects or data."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a înlocui",
+    "definition": "a schimba ceva cu altceva sau a lua un loc",
+    "pronunciation": "/ɨnloˈkui/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a înlocui” derives from the Latin „locare” (to place, to put) with the prefix „în-” (in, inside), together meaning to put something in place of another.",
+        "targetText": "Verbul românesc „a înlocui” derivă din latină, de la „locare“ („a pune, a așeza“) și prefixul „în-“ („înăuntru“), având sensul de „a pune în locul cuiva/ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb regulat de conjugarea I (-i). Este folosit frecvent pentru a descrie schimbarea sau înlocuirea unor lucruri."
+  },
+  "senses": [
+    {
+      "gloss": "Replacement",
+      "explanation": {
+        "sourceText": "The action of substituting something with something else.",
+        "targetText": "Acțiunea de a schimba ceva cu altceva."
+      },
+      "examples": [
+        {
+          "sourceText": "I expect you to replace the old part.",
+          "targetText": "Aștept să înlocuiești piesa veche."
+        }
+      ]
+    },
+    {
+      "gloss": "Substitution",
+      "explanation": {
+        "sourceText": "To substitute or exchange one thing for another.",
+        "targetText": "A înlocui ceva cu altceva, a substitui."
+      },
+      "examples": [
+        {
+          "sourceText": "We can replace the invoice.",
+          "targetText": "Putem înlocui factura."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "exchange",
+      "targetText": "schimb"
+    },
+    {
+      "sourceText": "replacement",
+      "targetText": "înlocuitor"
+    },
+    {
+      "sourceText": "new",
+      "targetText": "nou"
+    },
+    {
+      "sourceText": "swap",
+      "targetText": "schimb"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "keep",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I replace the old part.",
+      "targetText": "Eu înlocuiesc piesa veche."
+    },
+    {
+      "sourceText": "Do you replace the batteries?",
+      "targetText": "Îi înlocuiești bateriile?"
+    },
+    {
+      "sourceText": "The mechanic replaces the defective part.",
+      "targetText": "Mecanicul înlocuiește piesa defectă."
+    },
+    {
+      "sourceText": "We replace the old machines.",
+      "targetText": "Noi înlocuim mașinile vechi."
+    },
+    {
+      "sourceText": "Do you replace the software?",
+      "targetText": "Voi înlocuiți software-ul?"
+    },
+    {
+      "sourceText": "They replace the damaged products.",
+      "targetText": "Ei înlocuiesc produsele deteriorate."
+    },
+    {
+      "sourceText": "I have already replaced the printer.",
+      "targetText": "Am înlocuit imprimanta deja."
+    },
+    {
+      "sourceText": "They installed and replaced the software update.",
+      "targetText": "Au instalat și înlocuit actualizarea software-ului."
+    },
+    {
+      "sourceText": "He often replaced the defective parts.",
+      "targetText": "El înlocuia adesea piesele defecte."
+    },
+    {
+      "sourceText": "I had already replaced the part when you arrived.",
+      "targetText": "Înlocuisem deja piesa când ai venit."
+    },
+    {
+      "sourceText": "I will replace the defective lamp tomorrow.",
+      "targetText": "Voi înlocui lampa defectă mâine."
+    },
+    {
+      "sourceText": "She will replace the software soon.",
+      "targetText": "Ea o să înlocuiască software-ul curând."
+    },
+    {
+      "sourceText": "I would replace the part if I had one.",
+      "targetText": "Aș înlocui piesa, dacă aș avea."
+    },
+    {
+      "sourceText": "It is necessary that you replace the old part.",
+      "targetText": "Este necesar să înlocuiești piesa veche."
+    },
+    {
+      "sourceText": "Please replace the sign!",
+      "targetText": "Înlocuiește tabela, te rog!"
+    },
+    {
+      "sourceText": "Replace the old books!",
+      "targetText": "Înlocuiți cărțile vechi!"
+    },
+    {
+      "sourceText": "The replaced device is now functional.",
+      "targetText": "Dispozitivul înlocuit funcționează acum."
+    },
+    {
+      "sourceText": "The software was replaced.",
+      "targetText": "Software-ul a fost înlocuit."
+    },
+    {
+      "sourceText": "By replacing the old part, they improved the machine.",
+      "targetText": "Înlocuind piesa veche, au îmbunătățit mașina."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'replace' starts with 're-', meaning 'again', so think of putting something back or in place again."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a înlocui' contains 'în-' meaning 'in' and 'locui' related to 'place'—imagine putting something 'in place' to remember it means 'to replace'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English sentence: 'I replace my old jacket with a new one' and the Romanian 'Eu înlocuiesc vechea jachetă cu una nouă'—the similar structure helps memorization!"
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word 'replace' with 're-' (again) + 'place' (to put), which helps you recall the Romanian 'a înlocui' meaning 'to put in place of another'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-create",
+  "parent": "ms-ro-a-crea-ef7278a7@715c6805c696da340e0749a10305bc20",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "create",
+    "definition": "to bring something into existence or to compose something, often in written or constructed form",
+    "pronunciation": "/kriˈeɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"create\" comes from the Latin \"creare\", meaning \"to bring forth, produce, or make\". It entered English through Old French and has been used to describe the act of bringing something new into existence.",
+        "targetText": "Cuvântul englezesc „create“ provine din latină, de la „creare“, care înseamnă „a aduce la existență, a produce sau a face“. A intrat în limba engleză prin franceza veche și este folosit pentru a descrie actul de a aduce ceva nou în existență."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts involving documents, constructions, and products."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a crea",
+    "definition": "a face sau a compune ceva, adesea în formă scrisă",
+    "pronunciation": "/a kreˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a crea“ derives from the Latin „creare“, meaning „to create“ or „to produce“. It is used to describe the origin of art, ideas, and objects.",
+        "targetText": "Verbul românesc „a crea“ derivă din latină, de la „creare“, cu sensul de „a crea“ sau „a produce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Used to describe the act of creating or developing something."
+  },
+  "senses": [
+    {
+      "gloss": "Develop",
+      "explanation": {
+        "sourceText": "\"Create\" also includes the process of developing.",
+        "targetText": "„Erstellen“ include și procesul de dezvoltare."
+      },
+      "examples": [
+        {
+          "sourceText": "He develops software.",
+          "targetText": "El dezvoltă software."
+        }
+      ]
+    },
+    {
+      "gloss": "Produce",
+      "explanation": {
+        "sourceText": "In an industrial context, 'create' is used synonymously with 'produce'.",
+        "targetText": "În context industrial, „erstellen“ este sinonim cu „a produce“."
+      },
+      "examples": [
+        {
+          "sourceText": "The factory creates new products.",
+          "targetText": "Fabrica creează produse noi."
+        }
+      ]
+    },
+    {
+      "gloss": "Make",
+      "explanation": {
+        "sourceText": "In a broader sense, 'create' also means 'to make'.",
+        "targetText": "În sens larg, „erstellen“ înseamnă și „a crea“."
+      },
+      "examples": [
+        {
+          "sourceText": "We create new opportunities.",
+          "targetText": "Creăm noi oportunități."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "report",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "document",
+      "targetText": "document"
+    },
+    {
+      "sourceText": "plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "project",
+      "targetText": "proiect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "destroy",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I create a new website.",
+      "targetText": "Eu creez un nou site web."
+    },
+    {
+      "sourceText": "Are you creating the presentation?",
+      "targetText": "Crezi prezentarea?"
+    },
+    {
+      "sourceText": "The developer creates the application.",
+      "targetText": "Dezvoltatorul creează aplicația."
+    },
+    {
+      "sourceText": "We create a new product.",
+      "targetText": "Noi creăm un nou produs."
+    },
+    {
+      "sourceText": "Are you creating the reports?",
+      "targetText": "Voi creați rapoartele?"
+    },
+    {
+      "sourceText": "They create the new designs.",
+      "targetText": "Ei creează noile design-uri."
+    },
+    {
+      "sourceText": "I have created the concept.",
+      "targetText": "Am creat conceptul."
+    },
+    {
+      "sourceText": "They have created the structure.",
+      "targetText": "Au creat structura."
+    },
+    {
+      "sourceText": "He created the plans every year.",
+      "targetText": "El crea planurile în fiecare an."
+    },
+    {
+      "sourceText": "I had already created the file when you arrived.",
+      "targetText": "Creasem deja fișierul când ai venit."
+    },
+    {
+      "sourceText": "I will create the new design.",
+      "targetText": "Voi crea noul design."
+    },
+    {
+      "sourceText": "She will create the new app.",
+      "targetText": "Ea o să creeze aplicația nouă."
+    },
+    {
+      "sourceText": "I would create the document if I could.",
+      "targetText": "Aș crea documentul dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you create the plans.",
+      "targetText": "Este necesar să creezi planurile."
+    },
+    {
+      "sourceText": "Create the new layout!",
+      "targetText": "Creează noul design!"
+    },
+    {
+      "sourceText": "Create the new rules!",
+      "targetText": "Creați noile reguli!"
+    },
+    {
+      "sourceText": "The created document is important.",
+      "targetText": "Documentul creat este important."
+    },
+    {
+      "sourceText": "The file is now created.",
+      "targetText": "Fișierul este acum creat."
+    },
+    {
+      "sourceText": "By creating the report, they obtained important information.",
+      "targetText": "Creând raportul, au obținut informații importante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"a crea\" sounds like \"create\" in English, making it easy to connect the Romanian verb with the English meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Focus on the present tense endings: \"-ez\" (I), \"-ezi\" (you), \"-ează\" (he/she/it) to master conjugating \"a crea\"."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"crea\" as related to \"creativity\"—this helps you remember that \"a crea\" means \"to create\" or \"to make something new.\""
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"create\" with the idea of bringing something into existence—ask yourself, \"What can I create?\" and link it to \"a crea.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

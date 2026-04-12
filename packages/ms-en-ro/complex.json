@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-complex",
+  "parent": "ms-ro-complex-d3947341@4e05622668ae02ed4436a27d0f62d127",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "complex",
+    "definition": "Consisting of many interconnected parts, making it difficult to understand or analyze.",
+    "pronunciation": "/ˈkɒm.plɛks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective \"complex\" derives from the Latin noun 'complexus', meaning 'embraced' or 'composed of parts', and entered English through French.",
+        "targetText": "Cuvântul englezesc „complex” provine din substantivul latin 'complexus', care înseamnă 'cuprins' sau 'format din părți', fiind preluat în engleză prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "complex",
+    "definition": "Ceva format din multe părți interconectate, dificil de înțeles sau analizat.",
+    "pronunciation": "/komˈpleks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"complex\" was borrowed from the French \"complexe\", which in turn comes from the Latin \"complexus\" ('embraced', 'composed').",
+        "targetText": "Cuvântul românesc „complex” este împrumutat din francezul „complexe”, care provine din latinul „complexus”, cu sensul de 'cuprins' sau 'îmbinat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "complicated",
+      "targetText": "complicat"
+    },
+    {
+      "sourceText": "structure",
+      "targetText": "structură"
+    },
+    {
+      "sourceText": "system",
+      "targetText": "sistem"
+    },
+    {
+      "sourceText": "composed of multiple parts",
+      "targetText": "format din mai multe părți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "simple",
+      "targetText": "simplu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "This is a complex problem that requires a lot of analysis.",
+      "targetText": "Aceasta este o problemă complexă care necesită multă analiză."
+    },
+    {
+      "sourceText": "The complex structure of the building impresses many architects.",
+      "targetText": "Structura complexă a clădirii impresionează mulți arhitecți."
+    },
+    {
+      "sourceText": "He has a complex personality with many facets.",
+      "targetText": "El are o personalitate complexă, cu multe fațete."
+    },
+    {
+      "sourceText": "The complex relationships are hard to understand.",
+      "targetText": "Legăturile complexe sunt greu de înțeles."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'complex' as something made of many parts, like a complex puzzle that’s tricky to solve."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'complex' sounds almost the same as English 'complex', making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'complex' as a group of buildings or ideas connected together, just like the Romanian word."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'complexus' means 'embraced' or 'composed', which helps explain the meaning of 'complex'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

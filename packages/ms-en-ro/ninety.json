@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-ninety",
+  "parent": "ms-ro-nouazeci-f1d21fe5@4de895da94df909105691a77cf853ddc",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ninety",
+    "definition": "The number 90, representing nine times ten, a multiple of ten.",
+    "pronunciation": "/ˈnaɪnti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'ninety' comes from the Old English 'nigontig', which combines 'nine' and a suffix related to 'ten' to indicate multiples of ten.",
+        "targetText": "Cuvântul englezesc „ninety” provine din engleza veche „nigontig”, care combină „nine” și un sufix legat de „ten” pentru a indica multipli de zece."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nouăzeci",
+    "definition": "Numărul 90, neun mal zehn.",
+    "pronunciation": "/nouəˈzet͡ʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian numeral 'nouăzeci' is composed of 'nouă' (9) and 'zeci' (tens), both derived from Latin.",
+        "targetText": "Cuvântul românesc „nouăzeci” este compus din 'nouă' (9) și 'zeci' (zeci), ambele derivate din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "eighty",
+      "targetText": "optzeci"
+    },
+    {
+      "sourceText": "nine",
+      "targetText": "nouă"
+    },
+    {
+      "sourceText": "seventy",
+      "targetText": "șaptezeci"
+    },
+    {
+      "sourceText": "ten",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ninety is a round number.",
+      "targetText": "Nouăzeci este un număr rotund."
+    },
+    {
+      "sourceText": "The car costs ninety thousand euros.",
+      "targetText": "Mașina costă nouăzeci de mii de euro."
+    },
+    {
+      "sourceText": "She is ninety years old.",
+      "targetText": "Ea are nouăzeci de ani."
+    },
+    {
+      "sourceText": "Ninety percent of the students passed.",
+      "targetText": "Nouăzeci la sută dintre elevi au promovat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian 'nouăzeci' is made from 'nouă' (nine) and 'zeci' (tens), similar to how 'ninety' combines 'nine' and a suffix related to 'ten' in English."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-zeci' is common in Romanian for multiples of ten like 20, 30, 40, making it easy to spot numbers."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'zeci' comes from Latin 'decem' meaning ten, so it always relates to tens in Romanian numbers."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine having nine 'zeci' (tens) to recall how 90 is formed in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

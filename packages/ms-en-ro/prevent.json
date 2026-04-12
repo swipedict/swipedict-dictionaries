@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-prevent",
+  "parent": "ms-ro-a-impiedica-19fc9b02@64272ec450b9c19fcda876ced9b3c2f5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prevent",
+    "definition": "To take action to stop something from happening or to make it impossible.",
+    "pronunciation": "/prɪˈvɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'prevent' comes from the Latin 'praevenire', meaning 'to come before' or 'to anticipate'.",
+        "targetText": "Verbul englezesc „prevent” provine din latină 'praevenire', care înseamnă „a veni înainte” sau „a anticipa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împiedica",
+    "definition": "A face ceva astfel încât altceva să nu se întâmple sau să nu fie posibil.",
+    "pronunciation": "/a ɨmpjeˈdika/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a împiedica' derives from the Latin 'impedicare', meaning 'to bind tightly, to hinder'.",
+        "targetText": "Verbul românesc „a împiedica” provine din latină 'impedicare', care înseamnă „a lega strâns, a împiedica”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to block",
+      "targetText": "a bloca"
+    },
+    {
+      "sourceText": "to hinder",
+      "targetText": "a împiedica"
+    },
+    {
+      "sourceText": "to stop",
+      "targetText": "a opri"
+    },
+    {
+      "sourceText": "to avoid",
+      "targetText": "a evita"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to enable",
+      "targetText": "a permite"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I prevent the water from leaking.",
+      "targetText": "Eu împiedic să curgă apa."
+    },
+    {
+      "sourceText": "He prevented the accident.",
+      "targetText": "El a împiedicat accidentul."
+    },
+    {
+      "sourceText": "We prevented the catastrophe.",
+      "targetText": "Am împiedicat catastrofa."
+    },
+    {
+      "sourceText": "They will prevent the problem.",
+      "targetText": "Ei vor împiedica problema."
+    },
+    {
+      "sourceText": "Prevent that immediately!",
+      "targetText": "Împiedică asta imediat!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'prevent' sounds like 'pre-vent'—think of stopping something before it 'vents' or happens, just like 'a împiedica' means to stop or hinder."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a împiedica' shares the root 'pied' which means 'foot' in French—imagine putting your foot down to block or prevent something."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'impediment' meaning obstacle; 'a împiedica' is related and means to create an obstacle or prevent."
+    },
+    {
+      "lang": "en",
+      "text": "The Latin root 'impedicare' means 'to bind tightly'—so 'a împiedica' is like tying something up to stop it from moving or happening."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

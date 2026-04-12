@@ -1,0 +1,177 @@
+{
+  "id": "ms-en-ro-amount-to",
+  "parent": "ms-ro-a-se-ridica-7ef7d330@c447b55244d738f3355baab8f11ee2ae",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "amount to",
+    "definition": "to total or add up to a specific sum or quantity",
+    "pronunciation": "/əˈmaʊnt tuː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase \"amount to\" originates from the noun \"amount,\" which comes from Old French 'amont' meaning 'a sum' or 'total,' combined with the verb 'to' indicating direction or result. It is used to express the total sum or extent of something.",
+        "targetText": "Expresia engleză „amount to” provine de la substantivul „amount”, care are originea în franceza veche „amont”, însemnând „sumă” sau „total”, combinată cu verbul „to” care indică direcția sau rezultatul. Este folosită pentru a exprima suma totală sau întinderea unui lucru."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Primarily used to indicate sums or measurements, often in mathematical or financial contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se ridica",
+    "definition": "a constitui o sumă sau o cantitate specifică",
+    "pronunciation": "/a se ri.diˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a se ridica” is an internal derivation from „ridica” (to raise, to lift), which comes from the Latin „erigere”. The meaning in the sense of 'to amount to a sum' is a modern extension of the basic meaning.",
+        "targetText": "Verbul românesc „a se ridica” este o formare internă din „ridica” (a înălța, a ridica), provenit din latinul „erigere”. Sensul de 'a se ridica la o sumă' este o extensie modernă a sensului de bază."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Often used in mathematics or financial matters."
+  },
+  "senses": [
+    {
+      "gloss": "Amount",
+      "explanation": {
+        "sourceText": "The word is often used in financial contexts.",
+        "targetText": "Cuvânt folosit frecvent în contexte financiare."
+      },
+      "examples": [
+        {
+          "sourceText": "My account balance amounts to 100 euros.",
+          "targetText": "Soldul meu se ridică la 100 de euro."
+        }
+      ]
+    },
+    {
+      "gloss": "Costs",
+      "explanation": {
+        "sourceText": "Often used to describe the level of expenses.",
+        "targetText": "Folosit pentru a descrie valoarea cheltuielilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Our expenses amount to 1000 euros per month.",
+          "targetText": "Cheltuielile noastre se ridică la 1000 de euro pe lună."
+        }
+      ]
+    },
+    {
+      "gloss": "Price",
+      "explanation": {
+        "sourceText": "Also used for the price of goods.",
+        "targetText": "De asemenea folosit pentru prețul bunurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Does the ticket amount to 20 euros?",
+          "targetText": "Se ridică biletul la 20 de euro?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "expenses",
+      "targetText": "cheltuieli"
+    },
+    {
+      "sourceText": "amount",
+      "targetText": "sumă"
+    },
+    {
+      "sourceText": "costs",
+      "targetText": "costuri"
+    },
+    {
+      "sourceText": "prices",
+      "targetText": "prețuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reduce",
+      "targetText": "a reduce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My account balance amounts to 100 euros.",
+      "targetText": "Soldul meu se ridică la 100 de euro."
+    },
+    {
+      "sourceText": "Does the ticket amount to 20 euros?",
+      "targetText": "Se ridică biletul la 20 de euro?"
+    },
+    {
+      "sourceText": "The bill amounts to a total of 50 euros.",
+      "targetText": "Factura se ridică în total la 50 de euro."
+    },
+    {
+      "sourceText": "Our expenses amount to 1000 euros per month.",
+      "targetText": "Cheltuielile noastre se ridică la 1000 de euro pe lună."
+    },
+    {
+      "sourceText": "Do your debts amount to a lot?",
+      "targetText": "Se ridică mult datoriile voastre?"
+    },
+    {
+      "sourceText": "Their expenses amount to more than expected.",
+      "targetText": "Cheltuielile lor se ridică mai mult decât ne așteptam."
+    },
+    {
+      "sourceText": "My budget amounted to 500 euros.",
+      "targetText": "Bugetul meu s-a ridicat la 500 de euro."
+    },
+    {
+      "sourceText": "The bill used to amount to 30 euros.",
+      "targetText": "Factura se ridica mai devreme la 30 de euro."
+    },
+    {
+      "sourceText": "I will set aside 200 euros; it will then amount to a total of 700 euros.",
+      "targetText": "Voi pune deoparte 200 de euro; se va ridica apoi în total la 700 de euro."
+    },
+    {
+      "sourceText": "I would say it could amount to 100 euros.",
+      "targetText": "Aș zice că s-ar putea ridica la 100 de euro."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'amount to' as how numbers 'add up' or 'total' to a final sum, similar to a bill or score."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Romanian phrase 'se ridică la ...' as a fixed expression meaning 'amount to' or 'sum up to'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'amount to' with everyday expenses or bills to anchor its meaning practically."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize numbers 'rising up' or 'lifting' to a total, linking the English phrase with the Romanian verb 'a se ridica' (to rise)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

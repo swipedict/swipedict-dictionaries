@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-drop-off",
+  "parent": "ms-ro-a-lasa-febadf41@8a8b73d3dbedd718cd5f405c6524f35f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "drop off",
+    "definition": "to leave someone or something at a particular place or to remove something",
+    "pronunciation": "/drɒp ɔf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrasal verb 'drop off' combines the verb 'drop', meaning to let something fall, with the particle 'off', indicating removal or separation.",
+        "targetText": "Cuvântul englezesc „drop off” combină verbul „drop”, care înseamnă a lăsa să cadă ceva, cu particula „off”, care indică îndepărtarea sau separarea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "This verb is commonly used to describe leaving people or items at a specific location."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa",
+    "definition": "a lua deoparte sau a îndepărta ceva",
+    "pronunciation": "/a ləˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a lăsa' derives from the Latin 'lassare', meaning 'to release' or 'to leave behind'. It describes the act of leaving something in a place.",
+        "targetText": "Verbul românesc „a lăsa” provine din latinescul „lassare”, care înseamnă „a elibera” sau „a lăsa în urmă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regulary conjugated verb of the 1st conjugation (-a). Used to indicate leaving people or things behind."
+  },
+  "senses": [
+    {
+      "gloss": "drop off (remove)",
+      "explanation": {
+        "sourceText": "Refers to taking something away or removing it.",
+        "targetText": "Se referă la îndepărtarea a ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Drop the book off!",
+          "targetText": "Lasă cartea!"
+        }
+      ]
+    },
+    {
+      "gloss": "drop off (someone)",
+      "explanation": {
+        "sourceText": "In the sense of leaving someone at a specific place.",
+        "targetText": "În sensul de a lăsa pe cineva într-un loc anume."
+      },
+      "examples": [
+        {
+          "sourceText": "I drop him off at the train station.",
+          "targetText": "Eu îl las la gară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "pick up",
+      "targetText": "a ridica"
+    },
+    {
+      "sourceText": "remove",
+      "targetText": "a elimina"
+    },
+    {
+      "sourceText": "put",
+      "targetText": "a pune"
+    },
+    {
+      "sourceText": "sit",
+      "targetText": "așeza"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bring",
+      "targetText": "a aduce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I drop him off at the train station.",
+      "targetText": "Eu îl las la gară."
+    },
+    {
+      "sourceText": "Do you drop off the bag?",
+      "targetText": "Lași tu geanta?"
+    },
+    {
+      "sourceText": "He drops me off at the bus stop.",
+      "targetText": "El mă lasă la stație."
+    },
+    {
+      "sourceText": "We drop off the suitcases at the hotel.",
+      "targetText": "Noi lăsăm bagajele la hotel."
+    },
+    {
+      "sourceText": "Do you drop off the children?",
+      "targetText": "Lăsați voi copiii?"
+    },
+    {
+      "sourceText": "They drop off the groceries.",
+      "targetText": "Ei lasă cumpărăturile."
+    },
+    {
+      "sourceText": "I dropped him off at the airport.",
+      "targetText": "L-am lăsat la aeroport."
+    },
+    {
+      "sourceText": "He dropped us off in front of the hotel.",
+      "targetText": "El ne lăsa în fața hotelului."
+    },
+    {
+      "sourceText": "I will drop her off in front of the house.",
+      "targetText": "Voi lăsa înainte de casă."
+    },
+    {
+      "sourceText": "Drop the book off!",
+      "targetText": "Lasă cartea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'drop off' as when you 'drop' something 'off' at a place, like dropping a package at the post office."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'drop off' as leaving someone or something behind, similar to 'leave' or 'deliver'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a lăsa' sounds like 'a leave' in English, which helps link the meaning of leaving or letting go."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'drop off the kids at school' to remember the everyday use of 'a lăsa' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

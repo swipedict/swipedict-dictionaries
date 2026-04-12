@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-sky",
+  "parent": "ms-ro-cer-13512399@fb29797bcf58b940df61162e791987e5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sky",
+    "genus": "masculine",
+    "definition": "The expanse of air over the Earth where clouds, the sun, moon, and stars appear; also considered the place where souls go after death.",
+    "pronunciation": "/skaɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"sky\" comes from Old Norse 'ský', meaning 'cloud', which later broadened to mean the atmosphere or heavens above.",
+        "targetText": "Cuvântul englezesc „sky” provine din vechiul norvegian 'ský', care însemna 'nor' și ulterior a căpătat sensul de atmosferă sau cer de deasupra."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cer",
+    "genus": "neuter",
+    "definition": "Spațiul vizibil deasupra Pământului, unde se află norii, soarele, luna și stelele; de asemenea, locul considerat a fi destinul după moarte.",
+    "pronunciation": "/tʃer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cer\" derives from the Latin 'caelum', which originally meant 'sky' or 'air' and was adopted into Romanian from classical Latin.",
+        "targetText": "Cuvântul românesc „cer” provine din latinul 'caelum', care inițial însemna 'cer' sau 'aer' și a fost preluat în română din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "moon",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "sun",
+      "targetText": "soare"
+    },
+    {
+      "sourceText": "star",
+      "targetText": "stea"
+    },
+    {
+      "sourceText": "cloud",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "earth",
+      "targetText": "pământ"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The sky is clear and blue today.",
+      "targetText": "Cerul este astăzi senin și albastru."
+    },
+    {
+      "sourceText": "The stars shine in the sky at night.",
+      "targetText": "Stelele strălucesc pe cer noaptea."
+    },
+    {
+      "sourceText": "It is said that the soul goes to the sky after death.",
+      "targetText": "Se spune că sufletul merge în cer după moarte."
+    },
+    {
+      "sourceText": "The clouds move quickly across the sky.",
+      "targetText": "Norii trec repede pe cer."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'cer' sounds like 'chair' without the 'h'—imagine sitting on a chair looking up at the sky."
+    },
+    {
+      "lang": "en",
+      "text": "'Cer' is short and crisp, just like a clear, sunny sky."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the sky as a big tent (Romanian 'cort'), and 'cer' sounds similar—helping you picture the sky as a protective cover."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'cer' to the Latin root 'caelum', which also appears in other Romance languages like Italian 'cielo'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

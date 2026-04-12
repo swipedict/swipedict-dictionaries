@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-cellar",
+  "parent": "ms-ro-subsol-6cbf02e9@08d9f9a0777abc49444e49ae33befffe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cellar",
+    "genus": "masculine",
+    "definition": "A room located below ground level in a building, typically used for storage or as an additional space.",
+    "pronunciation": "/ˈsɛl.ər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"cellar\" originates from the Latin word 'cellarium', meaning 'storeroom' or 'pantry', which passed into Old French and then Middle English.",
+        "targetText": "Cuvântul englezesc „cellar” provine din latinescul 'cellarium', care înseamnă 'depozit' sau 'cămară', și a intrat în limba engleză prin franceza veche și engleza mijlocie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "subsol",
+    "genus": "neuter",
+    "definition": "O încăpere situată sub nivelul solului într-o clădire, folosită de obicei pentru depozitare sau ca spațiu suplimentar.",
+    "pronunciation": "/subˈsol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"subsol\" derives from the Latin 'subsolum', composed of 'sub' (under) and 'solum' (ground), literally meaning 'under the ground'.",
+        "targetText": "Cuvântul românesc „subsol” provine din latinescul 'subsolum', format din 'sub' (sub) și 'solum' (sol), însemnând literal 'sub pământ'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cellar window",
+      "targetText": "fereastră de subsol"
+    },
+    {
+      "sourceText": "cellar vault",
+      "targetText": "bolta subsolului"
+    },
+    {
+      "sourceText": "cellar room",
+      "targetText": "încăpere din subsol"
+    },
+    {
+      "sourceText": "pantry",
+      "targetText": "cămară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "attic",
+      "targetText": "mansardă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The cellar is cool and well suited for storing wine.",
+      "targetText": "Subsolul este răcoros și este potrivit pentru depozitarea vinului."
+    },
+    {
+      "sourceText": "We have stored many old pieces of furniture in the cellar.",
+      "targetText": "Am păstrat multe piese vechi de mobilă în subsol."
+    },
+    {
+      "sourceText": "The heating system of the house is located in the cellar.",
+      "targetText": "În subsol se află instalația de încălzire a casei."
+    },
+    {
+      "sourceText": "The cellar is often damp, so it should be well ventilated.",
+      "targetText": "Subsolul este adesea umed, de aceea trebuie bine aerisit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'cellar' sounds like 'seller'—imagine a wine seller storing bottles in the cellar."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'subsol' breaks down into 'sub' meaning 'under' and 'sol' meaning 'ground', so it literally means 'under the ground'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'cellar' as a cool, underground room where you 'cell' or keep your goods safe."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'subsol', picture going 'sub' (under) the 'sol' (soil) to reach the basement."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-butchery",
+  "parent": "ms-ro-macelarie-b728718a@6f4b05c52ec6d47c3f9fa89f8a8f594e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:work-education",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "butchery",
+    "genus": "feminine",
+    "definition": "A shop or business where meat is prepared and sold; a place specializing in meat cutting and sales.",
+    "pronunciation": "/ˈbʊtʃəri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'butchery' derives from 'butcher', which comes from Old French 'bouchier', meaning a person who cuts meat, combined with the suffix '-y' indicating a place or practice.",
+        "targetText": "Cuvântul englezesc „butchery” provine de la „butcher”, care vine din franceza veche „bouchier”, însemnând o persoană care taie carne, combinat cu sufixul „-y” care indică un loc sau o practică."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "măcelărie",
+    "genus": "feminine",
+    "definition": "Un magazin sau atelier unde se prelucrează și se vinde carne; măcelărie.",
+    "pronunciation": "/mə.t͡ʃeˈlə.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'măcelărie' comes from the Slavic 'mъčelь', meaning 'butcher', with the Romanian suffix '-ărie' used to denote places or shops.",
+        "targetText": "Cuvântul românesc „măcelărie” provine din slavona 'mъčelь', care înseamnă 'măcelar', la care s-a adăugat sufixul românesc '-ărie' pentru a desemna locuri sau magazine."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "meat",
+      "targetText": "carne"
+    },
+    {
+      "sourceText": "butchery",
+      "targetText": "măcelărie"
+    },
+    {
+      "sourceText": "butcher",
+      "targetText": "măcelar"
+    },
+    {
+      "sourceText": "sausage",
+      "targetText": "cârnat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I go to the butchery to buy fresh meat.",
+      "targetText": "Merg la măcelărie să cumpăr carne proaspătă."
+    },
+    {
+      "sourceText": "The butchery is open today.",
+      "targetText": "Măcelăria este deschisă astăzi."
+    },
+    {
+      "sourceText": "There are various types of sausages at the butchery.",
+      "targetText": "La măcelărie există diferite tipuri de cârnați."
+    },
+    {
+      "sourceText": "The butchery is located next to the supermarket.",
+      "targetText": "Măcelăria se află lângă supermarket."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'măcelărie' ends with '-ărie', a common suffix for shops, similar to English '-ery' as in 'butchery'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'măcelărie' sounding like 'muzzle-ery'—imagine a place where meat is 'muzzled' or prepared."
+    },
+    {
+      "lang": "en",
+      "text": "Knowing that 'măcelar' means 'butcher' helps you connect the person with the place 'măcelărie'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'butchery' in English refers both to the act of cutting meat and the place where it happens, similar to 'măcelărie'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

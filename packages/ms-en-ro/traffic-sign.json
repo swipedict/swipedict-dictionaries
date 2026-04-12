@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-traffic-sign",
+  "parent": "ms-ro-indicator-rutier-5afffd1b@4f4c2c8d6cd4594eaadb25d0b7ed8eda",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "traffic sign",
+    "genus": "neuter",
+    "definition": "A sign placed on roads to regulate, warn, or inform road users.",
+    "pronunciation": "/ˈtræfɪk saɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'traffic sign' combines 'traffic', from Old French 'trafic' meaning trade or movement, and 'sign', from Latin 'signum' meaning mark or indication.",
+        "targetText": "Termenul englezesc „traffic sign” combină „traffic”, din franceza veche 'trafic' însemnând comerț sau mișcare, și „sign”, din latină 'signum' însemnând semn sau indicație."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "Compound of 'traffic' (movement of vehicles) and 'sign' (a symbol or indicator)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "indicator rutier",
+    "genus": "neuter",
+    "definition": "Un semn folosit pe drumuri pentru a regla, avertiza sau informa participanții la trafic.",
+    "pronunciation": "/in.diˈka.tor ruˈti.er/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'indicator rutier' derives from Latin 'indicare' (to show) and 'rutius' (relating to roads, from Latin 'rūta' meaning road), with 'rutier' formed as an adjective related to roads.",
+        "targetText": "Expresia românească „indicator rutier” provine din latină, de la 'indicare' (a arăta) și 'rutier' derivat din 'rută' (drum), formând un adjectiv legat de drumuri."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Kompositum aus 'indicator' (Zeichen, Anzeiger) und 'rutier' (zum Straßenverkehr gehörend)."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Traffic light",
+      "targetText": "semafor"
+    },
+    {
+      "sourceText": "Road sign",
+      "targetText": "semn de circulație"
+    },
+    {
+      "sourceText": "Traffic",
+      "targetText": "trafic"
+    },
+    {
+      "sourceText": "Warning sign",
+      "targetText": "semn de avertizare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The traffic sign indicates a speed limit.",
+      "targetText": "Indicatorul rutier arată o limită de viteză."
+    },
+    {
+      "sourceText": "Please pay attention to the new traffic sign at the intersection.",
+      "targetText": "Te rog să observi noul indicator rutier de la intersecție."
+    },
+    {
+      "sourceText": "Traffic signs help to prevent accidents.",
+      "targetText": "Indicatoarele rutiere ajută la evitarea accidentelor."
+    },
+    {
+      "sourceText": "The red traffic sign means 'Stop'.",
+      "targetText": "Indicatorul rutier roșu înseamnă 'Opriți'."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'traffic sign' as the road's way of 'signing' instructions to drivers, just like a signature guides a letter."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'indicator' sounds like 'indicator' in English, meaning a pointer or signal, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'rutier' relates to 'route' in English, helping you connect it to roads and traffic."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a traffic sign as an 'indicator' that 'routes' you safely, combining both parts of the Romanian term."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "ms-en-ro-introduce",
+  "parent": "ms-ro-a-introduce-50f8a180@6c34d9de284a2dce45438c213df66093",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "introduce",
+    "definition": "To put data or information into a system or machine.",
+    "pronunciation": "/ˌɪn.trəˈdus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"introduce\" comes from the Latin 'introducere', meaning 'to lead in' or 'to bring in'. It is commonly used to describe the act of putting information into a system or database.",
+        "targetText": "Cuvântul englezesc „introduce” provine din latină, de la „introducere”, care înseamnă „a conduce înăuntru” sau „a aduce înăuntru”. Este folosit frecvent pentru a descrie acțiunea de a introduce informații într-un sistem sau o bază de date."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in computing and data contexts when entering or submitting data into a system."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a introduce",
+    "definition": "a introduce date sau informații într-un sistem sau o mașină",
+    "pronunciation": "/a in.tɾoˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb „a introduce” is related to the Latin „introducere”, meaning „to lead in” or „to bring in”. It is often used to describe putting information into a system or database.",
+        "targetText": "Verbul românesc „a introduce“ provine din latină, de la „introducere“, format din „intro-“ (înăuntru) și „ducere“ (a conduce). Înseamnă a pune sau a introduce ceva într-un spațiu sau sistem."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cuvântul este folosit frecvent în contexte legate de calculatoare și date."
+  },
+  "senses": [
+    {
+      "gloss": "Entering data",
+      "explanation": {
+        "sourceText": "The process of entering data into a system.",
+        "targetText": "Procesul de a introduce date într-un sistem."
+      },
+      "examples": [
+        {
+          "sourceText": "I enter the data.",
+          "targetText": "Introduc datele."
+        }
+      ]
+    },
+    {
+      "gloss": "Entering information",
+      "explanation": {
+        "sourceText": "Refers to inputting information into a database.",
+        "targetText": "Se referă la introducerea informațiilor într-o bază de date."
+      },
+      "examples": [
+        {
+          "sourceText": "Do you enter the information?",
+          "targetText": "Introduci informațiile?"
+        }
+      ]
+    },
+    {
+      "gloss": "Entering a password",
+      "explanation": {
+        "sourceText": "The act of entering a password into a system.",
+        "targetText": "Introducerea unei parole într-un sistem."
+      },
+      "examples": [
+        {
+          "sourceText": "Please enter your password.",
+          "targetText": "Te rog introdu parola."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "data",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "input",
+      "targetText": "introducere"
+    },
+    {
+      "sourceText": "program",
+      "targetText": "program"
+    },
+    {
+      "sourceText": "system",
+      "targetText": "sistem"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "spend",
+      "targetText": "a cheltui"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I enter the data.",
+      "targetText": "Introduc datele."
+    },
+    {
+      "sourceText": "Do you enter the password?",
+      "targetText": "Introduci parola?"
+    },
+    {
+      "sourceText": "He enters the information.",
+      "targetText": "El introduce informațiile."
+    },
+    {
+      "sourceText": "We enter the data.",
+      "targetText": "Introducem datele."
+    },
+    {
+      "sourceText": "Do you enter the changes?",
+      "targetText": "Introduceți modificările?"
+    },
+    {
+      "sourceText": "They enter the data into the system.",
+      "targetText": "Ei introduc datele în sistem."
+    },
+    {
+      "sourceText": "I have entered the data.",
+      "targetText": "Am introdus datele."
+    },
+    {
+      "sourceText": "I will enter the information.",
+      "targetText": "Voi introduce informațiile."
+    },
+    {
+      "sourceText": "Enter the data!",
+      "targetText": "Introdu datele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"introduce\" as bringing something in, just like you bring information into a system."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb \"a introduce\" sounds like the English \"introduce\"; both involve the idea of bringing or putting something inside."
+    },
+    {
+      "lang": "en",
+      "text": "Remember \"intro-\" means 'inside' or 'inward' in Latin roots, helping you link \"introduce\" with \"a introduce\"."
+    },
+    {
+      "lang": "en",
+      "text": "In computing, you 'introduce' data into a system, just like the Romanian \"a introduce\" means to input data."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

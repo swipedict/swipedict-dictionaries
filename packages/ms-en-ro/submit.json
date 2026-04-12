@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-submit",
+  "parent": "ms-ro-a-preda-fadde367@0fdc44827805aa6c3269e8cdc5b1a857",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "submit",
+    "definition": "to hand over or deliver something, often formally or officially",
+    "pronunciation": "/səbˈmɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb “submit” comes from the Latin roots 'sub-' meaning 'under' and 'mittere' meaning 'to send', originally meaning 'to send under' or 'to yield'.",
+        "targetText": "Cuvântul englezesc „submit” provine din rădăcinile latine „sub-” care înseamnă „sub” și „mittere” care înseamnă „a trimite”, având inițial sensul de „a trimite sub” sau „a ceda”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in various contexts such as handing in assignments, documents, or returning items."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a preda",
+    "definition": "a preda sau a livra ceva",
+    "pronunciation": "/a preˈda/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb “a preda” derives from the Latin expression 'prae dare', meaning 'to give before' or 'to hand over'.",
+        "targetText": "Verbul românesc „a preda” provine din expresia latină 'prae dare', care înseamnă 'a da înainte' sau 'a înmâna', cu sensul de 'a preda' sau 'a transmite'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„A preda“ is often used in academic and administrative contexts, e.g., when submitting assignments or documents."
+  },
+  "senses": [
+    {
+      "gloss": "to return something",
+      "explanation": {
+        "sourceText": "Giving back something that was borrowed.",
+        "targetText": "A returna ceva împrumutat."
+      },
+      "examples": [
+        {
+          "sourceText": "I submit the book.",
+          "targetText": "Eu predau cartea."
+        }
+      ]
+    },
+    {
+      "gloss": "to hand over something",
+      "explanation": {
+        "sourceText": "Means to give something to another person.",
+        "targetText": "Înseamnă a da ceva unei alte persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "I submit the letter.",
+          "targetText": "Eu predau scrisoarea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "collection",
+      "targetText": "ridicare"
+    },
+    {
+      "sourceText": "delivery",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "handover",
+      "targetText": "predare"
+    },
+    {
+      "sourceText": "to offer",
+      "targetText": "a oferi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "receive",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I submit the package.",
+      "targetText": "Eu predau pachetul."
+    },
+    {
+      "sourceText": "Do you submit the documents?",
+      "targetText": "Predai documentele?"
+    },
+    {
+      "sourceText": "He submits the exam.",
+      "targetText": "El predă examenul."
+    },
+    {
+      "sourceText": "We submit the books.",
+      "targetText": "Noi predăm cărțile."
+    },
+    {
+      "sourceText": "Do you (plural) submit the forms?",
+      "targetText": "Predați formularele?"
+    },
+    {
+      "sourceText": "They submit the devices.",
+      "targetText": "Ei predau echipamentele."
+    },
+    {
+      "sourceText": "I have submitted the document.",
+      "targetText": "Am predat documentul."
+    },
+    {
+      "sourceText": "He submitted the book when I arrived.",
+      "targetText": "El predă cartea când am sosit."
+    },
+    {
+      "sourceText": "I will submit the task.",
+      "targetText": "Voi preda sarcina."
+    },
+    {
+      "sourceText": "Submit the notebook!",
+      "targetText": "Predă caietul!"
+    },
+    {
+      "sourceText": "Submitting, I thought about the grade.",
+      "targetText": "Predând, m-am gândit la notă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'submit' as 'sending under'—like handing something under your control to someone else, which helps remember 'a preda' means to hand over."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a preda' sounds like 'to preach' in English, which involves delivering a message—this can help link the idea of handing something over."
+    },
+    {
+      "lang": "en",
+      "text": "Remember school homework: you 'submit' your assignments, and in Romanian you 'preda' them—both mean handing in work."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'submit' and Romanian 'a preda' both relate to giving or handing over, so think of 'pre' as 'before' and 'mit' as 'send' to connect the meanings."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

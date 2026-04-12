@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-unfurnished",
+  "parent": "ms-ro-nemobilat-36ff31ce@3c361f9ce060a0d71951ad7e3d271d8b",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "unfurnished",
+    "definition": "Describes a room or apartment that is not equipped with furniture.",
+    "pronunciation": "/ʌnˈfɜrnɪʃt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English adjective 'unfurnished' is formed from the prefix 'un-' meaning 'not' and the verb 'furnish', which comes from the Old French 'fournir', derived from Latin 'furnire' meaning 'to supply'.",
+        "targetText": "Adjectivul englezesc „unfurnished” este format din prefixul 'un-' care înseamnă 'fără' și verbul 'furnish', care provine din franceza veche 'fournir', derivat din latină 'furnire' cu sensul de 'a aproviziona'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nemobilat",
+    "definition": "Fără mobilă, neamenajat cu mobilier, de obicei referitor la locuințe sau camere.",
+    "pronunciation": "/nemoˈbilat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian adjective 'nemobilat' derives from the Latin word 'mobilis', with the negating prefix 'ne-' and the suffix '-at' indicating a state or characteristic.",
+        "targetText": "Adjectivul românesc „nemobilat” derivă din cuvântul latin 'mobilis', cu prefixul negativ 'ne-' și sufixul '-at' care indică o stare sau caracteristică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to furnish",
+      "targetText": "amenaja"
+    },
+    {
+      "sourceText": "furniture",
+      "targetText": "mobilă"
+    },
+    {
+      "sourceText": "furnished",
+      "targetText": "mobilat"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "locuință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "furnished",
+      "targetText": "mobilat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The apartment is unfurnished and ready for your own furnishing.",
+      "targetText": "Locuința este nemobilată și gata pentru amenajarea proprie."
+    },
+    {
+      "sourceText": "We are looking for an unfurnished apartment in the city center.",
+      "targetText": "Căutăm o locuință nemobilată în centrul orașului."
+    },
+    {
+      "sourceText": "Unfurnished rooms are often cheaper than furnished ones.",
+      "targetText": "Camerele nemobilate sunt adesea mai ieftine decât cele mobilate."
+    },
+    {
+      "sourceText": "The unfurnished apartment offers a lot of freedom in decoration.",
+      "targetText": "Locuința nemobilată oferă multă libertate în amenajare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'unfurnished' by thinking of 'un-' as 'not' and 'furnished' as 'with furniture'—so 'unfurnished' means 'without furniture'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'nemobilat' starts with 'ne-' which is like English 'un-', and 'mobilat' relates to 'mobile' or 'movable', hinting at furniture."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mobilat' as 'furnished' because it sounds like 'mobile'—furniture is movable, so 'nemobilat' means 'not furnished'."
+    },
+    {
+      "lang": "en",
+      "text": "If you imagine an empty apartment, it's 'unfurnished' in English and 'nemobilat' in Romanian—both start with a negation prefix."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

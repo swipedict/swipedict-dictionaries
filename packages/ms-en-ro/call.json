@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-call",
+  "parent": "ms-ro-a-suna-59d0e076@9425a8b6b1494cfe91d163a77ddb293d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "call",
+    "definition": "to contact someone by telephone",
+    "pronunciation": "/kɔːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'call' originates from the Old English 'ceallian', meaning 'to cry out or shout'. Over time, it evolved to include the sense of summoning or contacting someone, especially by telephone.",
+        "targetText": "Cuvântul englezesc „call“ provine din engleza veche „ceallian“, care înseamnă „a striga“ sau „a chema“. În timp, a căpătat sensul de a chema sau a contacta pe cineva, în special prin telefon."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in communication contexts, especially for telephone calls."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a suna",
+    "definition": "a contacta pe cineva prin telefon",
+    "pronunciation": "/a sunˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb derives from the Latin 'sonare', meaning 'to sound' or 'to make a noise', and describes the signaling of a call.",
+        "targetText": "Verbul românesc provine din latină, din „sonare“, care înseamnă „a suna“ sau „a face un sunet“, și descrie semnalizarea unui apel."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Means to call or contact someone."
+  },
+  "senses": [
+    {
+      "gloss": "telephone call",
+      "explanation": {
+        "sourceText": "Refers to the action of making or receiving a phone call.",
+        "targetText": "Se referă la acțiunea unui apel telefonic primit sau efectuat."
+      },
+      "examples": [
+        {
+          "sourceText": "I have an important conversation on the phone.",
+          "targetText": "Am avut o discuție importantă la telefon."
+        }
+      ]
+    },
+    {
+      "gloss": "to contact by phone",
+      "explanation": {
+        "sourceText": "General meaning of contacting someone via telephone.",
+        "targetText": "Sens general de a contacta pe cineva prin telefon."
+      },
+      "examples": [
+        {
+          "sourceText": "I will call my parents.",
+          "targetText": "Voi suna părinții mei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "conversation",
+      "targetText": "conversație"
+    },
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "telephone",
+      "targetText": "telefon"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hang up",
+      "targetText": "a termina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am calling you.",
+      "targetText": "Te sun."
+    },
+    {
+      "sourceText": "I called you.",
+      "targetText": "Te-am sunat."
+    },
+    {
+      "sourceText": "I will call you.",
+      "targetText": "Te voi suna."
+    },
+    {
+      "sourceText": "Call me later!",
+      "targetText": "Sună-mă mai târziu!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'call' and 'a suna' both relate to making a sound or signal to reach someone."
+    },
+    {
+      "lang": "en",
+      "text": "The 'a' at the start of 'a suna' is like the English infinitive 'to', helping you recognize it as a verb."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'call' as shouting out to someone, similar to how 'a suna' comes from 'sonare' meaning to sound."
+    },
+    {
+      "lang": "en",
+      "text": "In Romanian, 'a suna' often needs a direct object, like 'Te sun' meaning 'I call you', similar to English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

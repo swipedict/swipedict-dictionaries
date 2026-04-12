@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-complaint",
+  "parent": "ms-ro-plangere-30d6531f@c9f18a3446881fb6067d86c69e7f6c97",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "complaint",
+    "genus": "feminine",
+    "definition": "A statement expressing dissatisfaction or a formal allegation, often made in a legal context.",
+    "pronunciation": "/kəmˈpleɪnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'complaint' derives from the Old French 'complaindre', which comes from Latin 'complangere', meaning 'to lament' or 'to bewail'. It originally referred to expressing grief or sorrow, later evolving to mean a formal expression of dissatisfaction.",
+        "targetText": "Cuvântul englezesc „complaint” provine din vechiul francez 'complaindre', care la rândul său derivă din latină 'complangere', însemnând 'a jelui' sau 'a deplânge'. Inițial se referea la exprimarea durerii sau a tristeții, ulterior evoluând către sensul de exprimare formală a nemulțumirii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plângere",
+    "genus": "feminine",
+    "definition": "Exprimarea unei nemulțumiri sau reclamații, adesea formală, inclusiv în context juridic.",
+    "pronunciation": "/plɨnˈd͡ʒe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun 'plângere' derives from the Latin verb 'plangere', which originally meant 'to strike' (especially the chest as a sign of mourning) and later 'to lament' or 'to complain', also used in a legal sense for complaints.",
+        "targetText": "Substantivul românesc „plângere” derivă din verbul latin 'plangere', care inițial însemna 'a lovi' (în special pieptul ca semn de doliu) și ulterior 'a deplânge' sau 'a se plânge', fiind folosit și în sens juridic pentru reclamații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "accusation",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "grievance",
+      "targetText": "reclamație"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "tribunal"
+    },
+    {
+      "sourceText": "to complain",
+      "targetText": "a se plânge"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "praise",
+      "targetText": "laudă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The complaint was filed with the court.",
+      "targetText": "Plângerea a fost depusă la tribunal."
+    },
+    {
+      "sourceText": "He filed a complaint against the landlord because of the poor living conditions.",
+      "targetText": "El a făcut plângere împotriva proprietarului din cauza condițiilor proaste de locuit."
+    },
+    {
+      "sourceText": "The complaint was dismissed.",
+      "targetText": "Plângerea a fost respinsă."
+    },
+    {
+      "sourceText": "She expressed her complaint about the unfair treatment.",
+      "targetText": "Ea și-a exprimat plângerea privind tratamentul nedrept."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'complaint' by thinking of 'com-' meaning 'together' and 'plaint' related to 'plaintive' or sad sounds, so a complaint is a shared expression of dissatisfaction."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'plângere' sounds like 'plunge' with a soft 'g'—imagine plunging into your feelings to express a complaint."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a legal complaint as a formal way to 'complain' officially, which helps link the English 'complaint' and Romanian 'plângere'."
+    },
+    {
+      "lang": "en",
+      "text": "The root 'plang-' in 'plângere' is similar to 'plangent' in English, meaning mournful or lamenting, which connects to the idea of expressing sorrow or dissatisfaction."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

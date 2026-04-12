@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-office",
+  "parent": "ms-ro-birou-f681255c@229ca9982febb1e7d90f7985ad347fd5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "office",
+    "genus": "neuter",
+    "definition": "A room or place where professional or administrative work is carried out.",
+    "pronunciation": "/ˈɒfɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'office' comes from the Latin 'officium', meaning a service or duty, which evolved through Old French into the modern English term referring to a place of work.",
+        "targetText": "Cuvântul englezesc „office” provine din latină, din termenul 'officium', care însemna un serviciu sau o datorie, evoluând prin franceza veche în termenul englez modern care desemnează un loc de muncă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "birou",
+    "genus": "neuter",
+    "definition": "O cameră sau un loc unde se desfășoară activități profesionale sau administrative.",
+    "pronunciation": "/biˈru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'birou' was borrowed from the French 'bureau', which originally meant 'desk' and comes from Old French 'burel', a type of coarse woolen cloth.",
+        "targetText": "Cuvântul românesc „birou” este împrumutat din franceza 'bureau', care inițial însemna 'birou' sau 'masă de scris', derivat din vechea franceză 'burel' (stofă groasă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "work",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "boss",
+      "targetText": "șef"
+    },
+    {
+      "sourceText": "colleague",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "desk",
+      "targetText": "birou (mobilă)"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I work in the office from Monday to Friday.",
+      "targetText": "Lucrez la birou de luni până vineri."
+    },
+    {
+      "sourceText": "The office is furnished in a modern style.",
+      "targetText": "Biroul este amenajat modern."
+    },
+    {
+      "sourceText": "There are many colleagues in the office.",
+      "targetText": "La birou sunt mulți colegi."
+    },
+    {
+      "sourceText": "The office is located in the city center.",
+      "targetText": "Biroul se află în centrul orașului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'birou' sounds like 'bureau', the French word for office or desk, which helps connect it to the English 'office'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an office as a 'bureau' where business happens—this links the Romanian 'birou' to the English concept."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'office' comes from Latin 'officium', meaning duty or service, so an office is where duties are performed."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize sitting at your office desk ('birou') working—this image helps you remember the Romanian word easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

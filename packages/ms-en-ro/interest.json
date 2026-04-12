@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-interest",
+  "parent": "ms-ro-dobanda-5e62beaa@351808e6c180e9d36e223172421cdeb3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "interest",
+    "genus": "masculine",
+    "definition": "A sum of money paid as a charge for the use of borrowed capital.",
+    "pronunciation": "/ˈɪntrəst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'interest' comes from the Latin 'interesse', meaning 'to be between' or 'to matter', originally referring to a legal penalty or compensation.",
+        "targetText": "Cuvântul englezesc „interest” provine din latinescul 'interesse', care înseamnă 'a fi între' sau 'a conta', referindu-se inițial la o penalitate legală sau compensație."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dobândă",
+    "genus": "feminine",
+    "definition": "Suma de bani plătită ca remunerație pentru capitalul împrumutat.",
+    "pronunciation": "/doˈbɨndə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'dobândă' derives from the Latin 'debondu(m)', related to the verb 'debere' (to owe, must), meaning a payment owed.",
+        "targetText": "Cuvântul românesc „dobândă” provine din latinul 'debondu(m)', legat de verbul 'debere' (a datora, a trebui), având sensul unei plăți datorate."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "interest rate",
+      "targetText": "rata dobânzii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "repayment",
+      "targetText": "rambursare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The bank charges high interest on the loan.",
+      "targetText": "Banca percepe dobânzi mari pentru credit."
+    },
+    {
+      "sourceText": "The interest on the savings account is currently low.",
+      "targetText": "Dobânzile la contul de economii sunt în prezent scăzute."
+    },
+    {
+      "sourceText": "He pays the interest on his loan every month.",
+      "targetText": "El plătește în fiecare lună dobânda pentru creditul său."
+    },
+    {
+      "sourceText": "Interest rates are rising due to inflation.",
+      "targetText": "Dobânzile cresc din cauza inflației."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'dobândă' sounds like 'do-bondă'—think of 'doing a bond' or paying a fee for borrowed money."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'interest' is often singular or plural, but in Romanian 'dobândă' is singular when referring to interest as a concept."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'dobândă' as a 'double reward' (dob-) for lending money, helping you recall it means interest."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'dobândă' to the Latin root 'debere' meaning 'to owe'—interest is money you owe for borrowed capital."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

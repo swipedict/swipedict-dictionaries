@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-exclude",
+  "parent": "ms-ro-a-exclude-ab89db18@767a98af734fd400356d0a9f73ccf3c0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "exclude",
+    "definition": "to keep someone or something out of a group or not allow participation",
+    "pronunciation": "/ɪkˈskluːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"exclude\" comes from the Latin verb \"excludere,\" meaning 'to shut out' or 'to keep out.' It is formed from \"ex-\" meaning 'out' and \"claudere\" meaning 'to shut.'",
+        "targetText": "Cuvântul englezesc „exclude“ provine din verbul latin „excludere“, care înseamnă „a închide afară“ sau „a ține departe“. Este format din prefixul „ex-“ care înseamnă „afară“ și „claudere“ care înseamnă „a închide“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used when someone or something is prevented from joining or participating, often in social contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a exclude",
+    "definition": "a ține pe cineva sau ceva departe de ceva sau a nu permite participarea",
+    "pronunciation": "/a eksˈklude/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a exclude“ derives from the Latin „excludere“, meaning to keep someone away or not allow participation. It describes the act of preventing entry or involvement of persons or things.",
+        "targetText": "Verbul român „a exclude“ derivă din lat. „excludere“, însemnând a ține pe cineva departe sau a nu permite participarea."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regular first conjugation verb (-e). Often used in social contexts."
+  },
+  "senses": [
+    {
+      "gloss": "to exclude (member from a group)",
+      "explanation": {
+        "sourceText": "This refers to the exclusion of people from social groups.",
+        "targetText": "Se referă la excluderea persoanelor din grupuri sociale."
+      },
+      "examples": [
+        {
+          "sourceText": "He excludes the members.",
+          "targetText": "El exclude membrii."
+        }
+      ]
+    },
+    {
+      "gloss": "to exclude (part of a possibility)",
+      "explanation": {
+        "sourceText": "In this context, it means not considering certain options.",
+        "targetText": "În acest context, înseamnă a nu lua în considerare anumite opțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "We exclude all possibilities.",
+          "targetText": "Noi excludem toate posibilitățile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "group",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "person",
+      "targetText": "persoană"
+    },
+    {
+      "sourceText": "part",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "access",
+      "targetText": "acces"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "include",
+      "targetText": "a include"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I exclude you.",
+      "targetText": "Te exclud."
+    },
+    {
+      "sourceText": "Do you exclude her?",
+      "targetText": "O excluzi?"
+    },
+    {
+      "sourceText": "He excludes the members.",
+      "targetText": "El exclude membrii."
+    },
+    {
+      "sourceText": "We exclude all possibilities.",
+      "targetText": "Noi excludem toate posibilitățile."
+    },
+    {
+      "sourceText": "Do you exclude the chances?",
+      "targetText": "Excludeti oportunitățile?"
+    },
+    {
+      "sourceText": "They exclude the access.",
+      "targetText": "Ei exclud accesul."
+    },
+    {
+      "sourceText": "I have excluded him.",
+      "targetText": "L-am exclus."
+    },
+    {
+      "sourceText": "They often excluded me.",
+      "targetText": "Ei mă excluzau adesea."
+    },
+    {
+      "sourceText": "I will exclude you.",
+      "targetText": "Te voi exclude."
+    },
+    {
+      "sourceText": "I would exclude the offer.",
+      "targetText": "Aș exclude oferta."
+    },
+    {
+      "sourceText": "Exclude that!",
+      "targetText": "Exclu acest lucru!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'exclude' as 'ex' (out) + 'clude' (close) — to close someone out of a group or activity."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'a exclude' is like 'exclude' in English, making it easier to recall its meaning of keeping someone or something out."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-e' in 'excludem' sounds like the English 'em' in 'them,' helping you associate it with 'we exclude.'"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a club door closing on someone to 'exclude' them — this visual helps link the Romanian verb to its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

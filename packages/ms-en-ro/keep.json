@@ -1,0 +1,148 @@
+{
+  "id": "ms-en-ro-keep",
+  "parent": "ms-ro-a-pastra-f792b485@056663644e235206e15912f3ea776770",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "keep",
+    "definition": "to hold onto something that belongs to someone or not give it back",
+    "pronunciation": "/kiːp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"keep\" comes from Old English \"cepan\", meaning to seize, hold, or observe.",
+        "targetText": "Cuvântul englezesc „keep” provine din engleza veche „cepan”, care înseamnă a prinde, a ține sau a observa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used to describe holding or retaining objects or information."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a păstra",
+    "definition": "a reține ceva care aparține cuiva sau a nu-l returna",
+    "pronunciation": "/a pəsˈtra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a păstra\" is a loanword from Old Slavic \"pastriti\" (to guard, to preserve).",
+        "targetText": "Verbul românesc „a păstra” este împrumutat din slavona veche „pastriti” (a păzi, a conserva)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Used to preserve both material and immaterial things."
+  },
+  "senses": [
+    {
+      "gloss": "to store",
+      "explanation": {
+        "sourceText": "Used in connection with physical objects.",
+        "targetText": "Folosit pentru a păstra obiecte materiale."
+      },
+      "examples": [
+        {
+          "sourceText": "I will keep the photos.",
+          "targetText": "Voi păstra fotografiile."
+        }
+      ]
+    },
+    {
+      "gloss": "to retain information",
+      "explanation": {
+        "sourceText": "Used for memory and knowledge retention.",
+        "targetText": "Folosit pentru a reține informații în memorie."
+      },
+      "examples": [
+        {
+          "sourceText": "I keep the data in my mind.",
+          "targetText": "Îmi țin datele în minte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "possession",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "gift",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "saving",
+      "targetText": "economisire"
+    },
+    {
+      "sourceText": "value",
+      "targetText": "valoare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "give away",
+      "targetText": "a preda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I keep the information for you.",
+      "targetText": "Eu păstrez informațiile pentru tine."
+    },
+    {
+      "sourceText": "I kept the secret.",
+      "targetText": "Am păstrat secretul."
+    },
+    {
+      "sourceText": "I will keep the book.",
+      "targetText": "Voi păstra cartea."
+    },
+    {
+      "sourceText": "I would keep the data if it is useful.",
+      "targetText": "Aș păstra datele dacă sunt utile."
+    },
+    {
+      "sourceText": "Keep it secret!",
+      "targetText": "Păstrează-l secret!"
+    },
+    {
+      "sourceText": "The kept items are important.",
+      "targetText": "Obiectele păstrate sunt importante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'a păstra' as 'to preserve'—like preserving memories or treasures you want to keep safe."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'păstra' resembles 'pastry'—imagine keeping your favorite pastry fresh by storing it carefully."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'a păstra' by linking it to the English word 'past'—you keep things from the past by preserving them."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'patron' who keeps and protects valuable things; 'păstra' sounds similar and means to keep or preserve."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

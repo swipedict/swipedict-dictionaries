@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-check-in",
+  "parent": "ms-ro-a-face-check-in-228b72d0@e4af7904522d1bb2045ef3251eefc35c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "check in",
+    "definition": "To register oneself at an airline, hotel, or similar service provider in order to receive a service.",
+    "pronunciation": "/ˈtʃɛk ɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrasal verb 'check in' combines 'check', meaning to verify or register, with the preposition 'in', indicating entry or arrival, originally used in contexts like hotels and airports.",
+        "targetText": "Cuvântul englezesc „check in” este un verb frazal format din „check”, care înseamnă a verifica sau a te înregistra, și prepoziția „in”, care indică intrarea sau sosirea, folosit inițial în contexte precum hoteluri și aeroporturi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a face check-in",
+    "definition": "A se înregistra la o companie aeriană, hotel sau altă instituție pentru a beneficia de un serviciu.",
+    "pronunciation": "/a ˈfa.t͡ʃe ˈtʃek.in/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term „a face check-in” is a direct borrowing from English, where „check-in” refers to the process of registering at a hotel or airport.",
+        "targetText": "Termenul românesc „a face check-in” provine direct din engleză, unde „check-in” înseamnă procesul de înregistrare la hotel sau aeroport."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A compound verb frequently used in travel and tourism contexts."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "check out",
+      "targetText": "a face check-out"
+    },
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "reservation",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "reception",
+      "targetText": "recepție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "check out",
+      "targetText": "a face check-out"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have to check in at the airport.",
+      "targetText": "Trebuie să fac check-in la aeroport."
+    },
+    {
+      "sourceText": "We checked in online to save time.",
+      "targetText": "Am făcut check-in online ca să economisim timp."
+    },
+    {
+      "sourceText": "Please remember to check in on time.",
+      "targetText": "Vă rugăm să vă amintiți să faceți check-in la timp."
+    },
+    {
+      "sourceText": "After checking in, you can drop off your luggage.",
+      "targetText": "După check-in puteți preda bagajul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'check in' as the phrase you say when you arrive at a hotel or airport to register yourself."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'check' as verifying your identity and 'in' as entering a place—together meaning to register upon arrival."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian phrase 'a face check-in' uses the English term directly, so associating it with the English phrase helps you remember it easily."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the sound 'check in' as checking a box when you arrive somewhere, making it easier to recall the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-blood-draw",
+  "parent": "ms-ro-a-recolta-sange-4df8aaab@c953c14ea9a9a9ebfc7829ab58554584",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "blood draw",
+    "definition": "The act of taking blood from the body, usually for medical testing purposes.",
+    "pronunciation": "/blʌd drɔː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase 'blood draw' combines the noun 'blood' from Old English 'blōd', referring to the vital fluid circulating in the body, and the verb 'draw', from Old English 'dragan', meaning to pull or take out.",
+        "targetText": "Expresia englezească „blood draw” combină substantivul „blood” din engleza veche „blōd”, referindu-se la lichidul vital care circulă în corp, și verbul „draw”, din engleza veche „dragan”, care înseamnă a trage sau a scoate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a recolta sânge",
+    "definition": "A preleva sânge din corp, de obicei pentru analize medicale.",
+    "pronunciation": "/a re.koˈlta ˈsɨn.d͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a recolta” derives from the Latin 'recolligere', meaning 'to gather again' or 'to harvest'.",
+        "targetText": "Verbul românesc „a recolta” provine din latinul 'recolligere', care înseamnă 'a aduna din nou' sau 'a recolta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "blood",
+      "targetText": "sânge"
+    },
+    {
+      "sourceText": "take",
+      "targetText": "a lua"
+    },
+    {
+      "sourceText": "examination",
+      "targetText": "analiză"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The doctor draws blood from the patient.",
+      "targetText": "Doctorul recoltează sânge de la pacient."
+    },
+    {
+      "sourceText": "Blood draw is important for diagnosis.",
+      "targetText": "Recoltarea sângelui este importantă pentru diagnostic."
+    },
+    {
+      "sourceText": "I had blood drawn today.",
+      "targetText": "Astăzi mi s-a recoltat sânge."
+    },
+    {
+      "sourceText": "Hygienic procedures must be followed during blood draw.",
+      "targetText": "La recoltarea sângelui trebuie să se lucreze igienic."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a recolta' sounds like 're-collect', which helps you recall it means 'to gather again' or 'harvest'—just like collecting blood samples."
+    },
+    {
+      "lang": "en",
+      "text": "The verb 'a recolta' is regular and ends with -a, typical for many Romanian verbs, making conjugation easier to learn."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'recolting' blood like harvesting crops—this visual helps link the medical action to the word."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'sânge' with the English word 'sanguine' (relating to blood) to remember it means 'blood'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

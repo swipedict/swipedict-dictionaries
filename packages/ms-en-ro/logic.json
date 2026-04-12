@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-logic",
+  "parent": "ms-ro-logica-e3b8d8d5@ac9826941aebbd5aa94db5764956bb4a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "logic",
+    "genus": "feminine",
+    "definition": "The study of the principles of correct reasoning and valid inference.",
+    "pronunciation": "/ˈlɒdʒɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"logic\" derives from the Greek term 'logikḗ', meaning 'the art of reasoning', and entered English through Latin 'logica'.",
+        "targetText": "Cuvântul englezesc „logic“ provine din termenul grecesc 'logikḗ', care înseamnă 'arta raționamentului', și a intrat în limba engleză prin latina 'logica'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "logică",
+    "genus": "feminine",
+    "definition": "Știința principiilor gândirii corecte și a raționamentului.",
+    "pronunciation": "/loˈdʒikə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „logică“ stammt direkt vom lateinischen ‚logica‘ ab, das wiederum aus dem Griechischen ‚logikḗ‘ entlehnt wurde, und bezeichnet die Wissenschaft des richtigen Denkens.",
+        "targetText": "Cuvântul românesc „logică“ provine direct din latină, ‚logica‘, care la rândul său este împrumutat din grecescul ‚logikḗ‘, desemnând știința gândirii corecte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "argument",
+      "targetText": "argument"
+    },
+    {
+      "sourceText": "thinking",
+      "targetText": "gândire"
+    },
+    {
+      "sourceText": "inference",
+      "targetText": "concluzie"
+    },
+    {
+      "sourceText": "reason",
+      "targetText": "rațiune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nonsense",
+      "targetText": "absurditate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The logic behind this argument is clear and convincing.",
+      "targetText": "Logica din spatele acestui argument este clară și convingătoare."
+    },
+    {
+      "sourceText": "Logic plays a central role in philosophy.",
+      "targetText": "În filozofie, logica joacă un rol central."
+    },
+    {
+      "sourceText": "You must understand the logic of the statements precisely.",
+      "targetText": "Trebuie să înțelegi exact logica afirmațiilor."
+    },
+    {
+      "sourceText": "Logic helps us avoid errors in thinking.",
+      "targetText": "Logica ne ajută să evităm greșelile în gândire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the word 'logic' as linked to 'logos', the Greek word for reason or word, helping you remember it relates to thinking clearly."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'logică' sounds very similar to the English 'logic'—just remember the soft 'că' ending as a feminine noun."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ică' is a common feminine noun ending in Romanian, so think of 'logică' as the 'science of reasoning', feminine and important."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a 'logical' sequence of steps you follow in English, and in Romanian you describe it as 'logică'—they are almost twins!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

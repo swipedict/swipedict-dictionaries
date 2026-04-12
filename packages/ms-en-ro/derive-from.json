@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-derive-from",
+  "parent": "ms-ro-a-proveni-din-afd007b2@67975abafea5bfa754924cadd081363f",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "derive from",
+    "definition": "To indicate the origin or source of something or someone.",
+    "pronunciation": "/dɪˈraɪv frəm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'derive' comes from the Latin 'derivare', meaning 'to draw off (water) from a source', and by extension 'to originate from'.",
+        "targetText": "Verbul englezesc „derive” provine din latinescul 'derivare', care înseamnă 'a trage (apă) dintr-o sursă', și prin extensie 'a proveni din'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The preposition 'from' is used to indicate origin."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a proveni din",
+    "definition": "A indica originea sau proveniența cuiva sau a ceva.",
+    "pronunciation": "/a proˈveni din/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a proveni' comes from the Latin 'provenire', meaning 'to come forth' or 'to originate'.",
+        "targetText": "Verbul românesc „a proveni” provine din latinescul 'provenire', care înseamnă 'a ieși' sau 'a proveni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Präposition 'din' wird verwendet, um die Herkunft anzugeben."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "descend",
+      "targetText": "a se trage"
+    },
+    {
+      "sourceText": "come from",
+      "targetText": "a veni"
+    },
+    {
+      "sourceText": "origin",
+      "targetText": "origine"
+    },
+    {
+      "sourceText": "source",
+      "targetText": "proveniență"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "He derives from Germany.",
+      "targetText": "El provine din Germania."
+    },
+    {
+      "sourceText": "This tradition derives from the Middle Ages.",
+      "targetText": "Această tradiție provine din Evul Mediu."
+    },
+    {
+      "sourceText": "Many people derive from different countries.",
+      "targetText": "Mulți oameni provin din țări diferite."
+    },
+    {
+      "sourceText": "The word derives from Latin.",
+      "targetText": "Cuvântul provine din limba latină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a proveni' sounds like 'proven' in English, which relates to something coming from a source or origin."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian preposition 'din' means 'from' in English, both showing origin or source."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'derive' as drawing water from a spring, just like 'a proveni din' indicates where something comes from."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone 'provenit' (come) from a 'stem' or root, linking the idea of origin and family roots."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

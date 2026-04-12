@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-interrupt",
+  "parent": "ms-ro-a-intrerupe-0ce19d76@b252d87d22d240617dc08e0ea7148bb2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "interrupt",
+    "definition": "to stop something briefly or to break the continuity of an action or process",
+    "pronunciation": "/ˌɪntəˈrʌpt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'interrupt' comes from the Latin 'interrumpere', composed of 'inter-' meaning 'between' and 'rumpere' meaning 'to break'.",
+        "targetText": "Cuvântul englezesc „interrupt“ provine din latinul „interrumpere“, compus din „inter-“ (între) și „rumpere“ (a rupe)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "It is used when someone stops or disturbs an ongoing process or communication."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întrerupe",
+    "definition": "a opri temporar ceva sau a întrerupe o acțiune",
+    "pronunciation": "/ɨntrəˈupe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'a întrerupe' derives from the Latin 'interrumpere', meaning 'to break between'. It consists of the prefix 'în-' and the root 'trupere' (to break).",
+        "targetText": "Verbul românesc „a întrerupe“ derivă din latinescul „interrumpere“, compus din prefixul „în-“ și verbul „rumpere“ (a rupe), însemnând „a opri“ sau „a întrerupe“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um auszudrücken, dass eine Handlung gestoppt oder unterbrochen wird, sei es in Gesprächen oder Aktivitäten."
+  },
+  "senses": [
+    {
+      "gloss": "Breaks during work",
+      "explanation": {
+        "sourceText": "Interruptions can also refer to breaks during work.",
+        "targetText": "„Întreruperea“ poate desemna și pauze în timpul muncii."
+      },
+      "examples": [
+        {
+          "sourceText": "It is important to take breaks during work.",
+          "targetText": "Este important să faci pauze în timpul muncii."
+        }
+      ]
+    },
+    {
+      "gloss": "Interruptions in conversations",
+      "explanation": {
+        "sourceText": "When there is no continuity, interruptions occur.",
+        "targetText": "Când nu există continuitate, apar întreruperi."
+      },
+      "examples": [
+        {
+          "sourceText": "The constant phone interrupts the conversations.",
+          "targetText": "Telefonul constant întrerupe discuțiile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "action",
+      "targetText": "acțiune"
+    },
+    {
+      "sourceText": "conversation",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "break",
+      "targetText": "pauză"
+    },
+    {
+      "sourceText": "disturbance",
+      "targetText": "deranj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "continue",
+      "targetText": "a continua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I interrupt our discussion.",
+      "targetText": "Întrebupt discuția noastră."
+    },
+    {
+      "sourceText": "I have interrupted the conversation.",
+      "targetText": "Am întrerupt conversația."
+    },
+    {
+      "sourceText": "I will interrupt the presentation.",
+      "targetText": "Voi întrerupe prezentarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'interrupt' by thinking of 'inter-' meaning 'between' and 'rupt' meaning 'break' — so it means to break in between something."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a întrerupe' sounds like 'interrupt' and shares the root 'rupere' meaning 'to break' — connect the sound and meaning!"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone interrupting a conversation by 'breaking' the flow — this helps link 'a întrerupe' with 'interrupt'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'rupture' (a break) to recall the root in 'a întrerupe' which also involves breaking or stopping."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

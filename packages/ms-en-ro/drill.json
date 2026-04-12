@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-drill",
+  "parent": "ms-ro-a-perfore-1e33b413@fb7f0093b238b09f1d62436b14799cd7",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "drill",
+    "definition": "to make a hole in a material using a tool with a rotating bit",
+    "pronunciation": "/drɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Old English 'dryllan', meaning to bore a hole or pierce, related to the action of making holes.",
+        "targetText": "Cuvântul englezesc „drill“ provine din engleza veche „dryllan“, care însemna a face o gaură sau a străpunge, legat de acțiunea de a face găuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb describing the action of making holes in materials."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a perfore",
+    "definition": "a face o gaură într-un material folosind un burghiu",
+    "pronunciation": "/a peʁfoˈre/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin 'perforare', meaning 'to pierce' or 'to bore', related to the verb 'forare'.",
+        "targetText": "Provine din latinescul „perforare“, care înseamnă „a străpunge“ sau „a găuri“, înrudit cu verbul „forare“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb (-a). Commonly used in crafts and technical contexts."
+  },
+  "senses": [
+    {
+      "gloss": "drill machine",
+      "explanation": {
+        "sourceText": "A tool used for making holes.",
+        "targetText": "Un instrument folosit pentru a face găuri."
+      },
+      "examples": [
+        {
+          "sourceText": "The drill machine is very powerful.",
+          "targetText": "Mașina de perforat este foarte puternică."
+        }
+      ]
+    },
+    {
+      "gloss": "self-drilling screw",
+      "explanation": {
+        "sourceText": "A special screw used for drilling.",
+        "targetText": "Un șurub special folosit pentru perforare."
+      },
+      "examples": [
+        {
+          "sourceText": "I need a self-drilling screw.",
+          "targetText": "Am nevoie de o șurub de perforare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "drill bit",
+      "targetText": "burghiu"
+    },
+    {
+      "sourceText": "craft",
+      "targetText": "meșteșug"
+    },
+    {
+      "sourceText": "material",
+      "targetText": "material"
+    },
+    {
+      "sourceText": "tool",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to clog",
+      "targetText": "a închide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I drill a hole in the wall.",
+      "targetText": "Eu perforez un orificiu în perete."
+    },
+    {
+      "sourceText": "Are you drilling the wood?",
+      "targetText": "Perforezi lemnul?"
+    },
+    {
+      "sourceText": "The craftsman drills the metal.",
+      "targetText": "Meșteșugarul perforează metalul."
+    },
+    {
+      "sourceText": "We will drill tomorrow!",
+      "targetText": "Noi perforăm mâine!"
+    },
+    {
+      "sourceText": "Are you drilling the tiles?",
+      "targetText": "Perforați plăcile?"
+    },
+    {
+      "sourceText": "They like to drill.",
+      "targetText": "Ei perforază cu plăcere."
+    },
+    {
+      "sourceText": "I have drilled a new hole.",
+      "targetText": "Am perforat o nouă gaură."
+    },
+    {
+      "sourceText": "He drilled the metal beforehand.",
+      "targetText": "El perfora metalul anterior."
+    },
+    {
+      "sourceText": "We will drill the wood.",
+      "targetText": "Noi vom perfora lemnul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'drill' as a tool that 'drills' holes, just like the Romanian 'a perfore' means to pierce or bore."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'perfore' sounds like 'perform' — imagine performing the action of making a perfect hole with a drill."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'perfore' with the Latin root 'perforare' meaning 'to pierce' — this helps link the Romanian verb to its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The endings '-ez', '-ezi', '-ează' in Romanian verbs like 'a perfore' can be remembered as little holes opening up, just like drilling."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

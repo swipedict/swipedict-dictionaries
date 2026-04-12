@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-quay",
+  "parent": "ms-ro-chei-62f75b77@e7f8d561137458ba0e97e7763b57de01",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "quay",
+    "genus": "masculine",
+    "definition": "A solid, constructed platform beside water where ships can dock to load and unload.",
+    "pronunciation": "/kiː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"quay\" originates from the Middle English 'key', which was borrowed from Middle Dutch 'key', originally referring to a reinforced platform for ships to dock.",
+        "targetText": "Cuvântul englezesc „quay” provine din engleza mijlocie 'key', împrumutat din olandeza mijlocie 'key', desemnând inițial o platformă consolidată pentru acostarea navelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "chei",
+    "genus": "neuter",
+    "definition": "O platformă sau o construcție solidă pe malul apei, unde acostă navele.",
+    "pronunciation": "/kej/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"chei\" (in the sense of 'quay') comes from Modern Greek 'kaí', which designated a fortified docking place.",
+        "targetText": "Cuvântul românesc „chei” (cu sensul de 'dig' sau 'platformă portuară') provine din grecescul modern 'kaí', care desemna un loc de acostare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dock",
+      "targetText": "loc de acostare"
+    },
+    {
+      "sourceText": "harbor",
+      "targetText": "port"
+    },
+    {
+      "sourceText": "pier",
+      "targetText": "dig"
+    },
+    {
+      "sourceText": "ship",
+      "targetText": "navă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The ship docked at the quay.",
+      "targetText": "Nava a acostat la chei."
+    },
+    {
+      "sourceText": "The harbor has several quays for large ships.",
+      "targetText": "Portul are mai multe chei pentru nave mari."
+    },
+    {
+      "sourceText": "Many people stood on the quay to watch the arrival.",
+      "targetText": "La chei stăteau mulți oameni să vadă sosirea."
+    },
+    {
+      "sourceText": "The goods were unloaded at the quay.",
+      "targetText": "Mărfurile au fost descărcate la chei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'quay' sounds like 'key'—think of it as the 'key' place where ships unlock access to the land."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'chei' sounds like 'keys' in English, which can help you recall that it refers to multiple docking places."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'quay' and 'chei' relate to water and ships—focus on the 'k' sound to link them in your mind."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine walking along a 'quay' and finding many 'chei' (keys) hanging around—this helps you remember pronunciation and meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

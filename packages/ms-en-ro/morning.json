@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-morning",
+  "parent": "ms-ro-dimineata-1dd4f97f@a0c87433e0fe571778538ff147603dbb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "morning",
+    "genus": "masculine",
+    "definition": "the early part of the day, typically from sunrise until noon",
+    "pronunciation": "/ˈmɔːrnɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"morning\" originates from Old English \"morgen\", meaning the beginning of the day or the time around sunrise. It is related to similar words in other Germanic languages that denote the start of the day.",
+        "targetText": "Cuvântul englezesc „morning” provine din engleza veche „morgen”, care înseamnă începutul zilei sau timpul din jurul răsăritului soarelui. Este înrudit cu cuvinte similare din alte limbi germanice care desemnează începutul zilei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Morning is often associated with new beginnings and fresh energy."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dimineața",
+    "genus": "feminine",
+    "definition": "prima parte a zilei după răsăritul soarelui",
+    "pronunciation": "/diminˈe̯atsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"dimineața\" comes from Old Church Slavonic 'dъminŭ', meaning 'morning' or 'early day'.",
+        "targetText": "Cuvântul românesc „dimineața” provine din slavona veche 'dъminŭ', care înseamnă 'dimineață' sau 'ziua de dimineață'."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In Romania, morning is an important time for drinking coffee."
+  },
+  "senses": [
+    {
+      "gloss": "morning (start of a new day)",
+      "explanation": {
+        "sourceText": "Implies new beginnings and possibilities.",
+        "targetText": "Sugerează începuturi noi și posibilități."
+      },
+      "examples": [
+        {
+          "sourceText": "In the morning, we can make new plans.",
+          "targetText": "Mâine putem face planuri noi."
+        }
+      ]
+    },
+    {
+      "gloss": "morning (time of day)",
+      "explanation": {
+        "sourceText": "Refers to the part of the day after waking up.",
+        "targetText": "Se referă la partea zilei după trezire."
+      },
+      "examples": [
+        {
+          "sourceText": "I enjoy the peace of the morning.",
+          "targetText": "Îmi place liniștea dimineții."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "today",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "month",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "day",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "week",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "yesterday",
+      "targetText": "ieri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Every morning I go jogging.",
+      "targetText": "În fiecare dimineață mă duc la jogging."
+    },
+    {
+      "sourceText": "The morning begins early with the first light.",
+      "targetText": "Dimineața începe devreme cu prima lumină."
+    },
+    {
+      "sourceText": "Morning is a good time to learn something new.",
+      "targetText": "Dimineața este o zi bună pentru a învăța ceva nou."
+    },
+    {
+      "sourceText": "I drink a coffee every morning.",
+      "targetText": "Beau o cafea în fiecare dimineață."
+    },
+    {
+      "sourceText": "Morning is my favorite time of day.",
+      "targetText": "Dimineața este timpul meu preferat din zi."
+    },
+    {
+      "sourceText": "In the morning, I like to listen to music.",
+      "targetText": "Dimineața îmi place să ascult muzică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"dimineața\" as the 'dawn' of your day—just like 'diminutive' means small, 'dimineața' marks the small, fresh start of the day!"
+    },
+    {
+      "lang": "en",
+      "text": "Coffee lovers: remember that \"morning\" is your cue for \"dimineața\" and a delicious cup of coffee!"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine opening a door to a new day full of light—that's how you remember \"dimineața\" as the morning."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"dimineața\" sounds like 'diminish'—think of the night diminishing as the morning arrives."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

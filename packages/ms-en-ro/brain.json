@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-brain",
+  "parent": "ms-ro-creier-51cf1794@b49bddd6a4e0bb9c9bd755ca55926abf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "brain",
+    "genus": "neuter",
+    "definition": "The organ inside the head responsible for thinking, memory, and controlling bodily functions.",
+    "pronunciation": "/breɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'brain' originates from the Old English 'brægen', which is related to similar words in other Germanic languages and refers to the organ inside the skull responsible for thought and control.",
+        "targetText": "Cuvântul englezesc „brain” provine din engleza veche 'brægen', care este înrudit cu cuvinte similare din alte limbi germanice și se referă la organul din craniu responsabil pentru gândire și control."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "creier",
+    "genus": "neuter",
+    "definition": "Organul din cap responsabil pentru gândire, memorie și controlul corpului.",
+    "pronunciation": "/kreˈjer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'creier' derives from the Latin 'cerebrum', meaning brain, and is similar in many Romance languages.",
+        "targetText": "Cuvântul românesc „creier” provine din latină, de la 'cerebrum', care înseamnă creier și este similar în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "thinking",
+      "targetText": "gândire"
+    },
+    {
+      "sourceText": "memory",
+      "targetText": "memorie"
+    },
+    {
+      "sourceText": "brain cell",
+      "targetText": "celulă nervoasă"
+    },
+    {
+      "sourceText": "nerve",
+      "targetText": "nerv"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The brain processes information from the environment.",
+      "targetText": "Creierul procesează informații din mediul înconjurător."
+    },
+    {
+      "sourceText": "A healthy brain is important for learning.",
+      "targetText": "Un creier sănătos este important pentru învățare."
+    },
+    {
+      "sourceText": "The brain controls all bodily functions.",
+      "targetText": "Creierul controlează toate funcțiile corpului."
+    },
+    {
+      "sourceText": "The brain consists of billions of nerve cells.",
+      "targetText": "Creierul este format din miliarde de celule nervoase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'creier' sounds like 'crier'—imagine a town crier shouting out thoughts from the brain."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'brain' and Romanian 'creier' both relate to the Latin root 'cerebrum', so think of 'cerebral' to link them."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'creier' ending with '-ier' like many Romanian nouns from Latin, helping you recognize it as a noun."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize your brain as a 'circle' (sounds like 'creier') of thoughts controlling everything inside your head."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

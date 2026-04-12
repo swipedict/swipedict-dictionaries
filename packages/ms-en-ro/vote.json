@@ -1,0 +1,164 @@
+{
+  "id": "ms-en-ro-vote",
+  "parent": "ms-ro-a-vota-cf92cc39@07192685acb94a83a691ea78204c64e4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "vote",
+    "definition": "to make a decision or express a choice by casting a ballot or raising a hand",
+    "pronunciation": "/voʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'vote' comes from the Latin 'votare', meaning 'to vow or wish'. It entered English through Old French and has been used since the late Middle Ages to describe the act of expressing a choice or decision.",
+        "targetText": "Cuvântul englezesc „vote“ provine din latină, de la „votare“, care înseamnă „a face un jurământ sau a dori“. A intrat în limba engleză prin franceza veche și este folosit din Evul Mediu târziu pentru a desemna actul de a exprima o alegere sau o decizie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word is commonly used in political contexts when referring to elections or decision-making processes."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vota",
+    "definition": "a lua o decizie prin vot",
+    "pronunciation": "/a voˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a vota' derives from the Latin 'votāre', meaning 'to wish' or 'to vote', and is used for the act of choosing by voting.",
+        "targetText": "Verbul românesc „a vota“ provine din latină, de la „votāre“, care înseamnă „a dori“ sau „a vota“, folosit pentru exprimarea alegerii prin vot."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Particularly relevant in political or organizational contexts."
+  },
+  "senses": [
+    {
+      "gloss": "Voting on a decision",
+      "explanation": {
+        "sourceText": "The word can also describe a vote as an expression of opinion.",
+        "targetText": "Poate desemna și o votare pentru exprimarea unei opinii."
+      },
+      "examples": [
+        {
+          "sourceText": "The vote was very close.",
+          "targetText": "Votarea a fost foarte strânsă."
+        }
+      ]
+    },
+    {
+      "gloss": "Election",
+      "explanation": {
+        "sourceText": "The word is used when referring to an election or decision.",
+        "targetText": "Cuvântul este folosit pentru a desemna o alegere sau decizie."
+      },
+      "examples": [
+        {
+          "sourceText": "The election will take place next week.",
+          "targetText": "Alegerea are loc săptămâna viitoare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "participation",
+      "targetText": "participare"
+    },
+    {
+      "sourceText": "stance",
+      "targetText": "poziție"
+    },
+    {
+      "sourceText": "opinion",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "choice",
+      "targetText": "alegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "decide",
+      "targetText": "decide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I vote on the proposal.",
+      "targetText": "Eu votez asupra propunerii."
+    },
+    {
+      "sourceText": "Are you voting for this project?",
+      "targetText": "Votezi pentru acest proiect?"
+    },
+    {
+      "sourceText": "He votes in the committee.",
+      "targetText": "El votează în comitet."
+    },
+    {
+      "sourceText": "We vote together.",
+      "targetText": "Noi votăm împreună."
+    },
+    {
+      "sourceText": "Are you voting against the proposal?",
+      "targetText": "Votați împotriva propunerii?"
+    },
+    {
+      "sourceText": "They vote for the new plan.",
+      "targetText": "Ei votează pentru noul plan."
+    },
+    {
+      "sourceText": "I voted for it.",
+      "targetText": "Am votat pentru asta."
+    },
+    {
+      "sourceText": "He voted in the council.",
+      "targetText": "El vota în consiliu."
+    },
+    {
+      "sourceText": "I will vote then.",
+      "targetText": "Voi vota atunci."
+    },
+    {
+      "sourceText": "Please vote!",
+      "targetText": "Votează, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'vote' sounds like 'boat'—imagine casting your ballot like casting a boat onto a river of choices."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'vote' as a way to 'voice' your opinion—both start with 'v' and involve expressing yourself."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a vota' is very close to the English 'vote'—easy to remember because they share the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "When you 'vote', you 'note' your choice—link the sound of 'vote' with 'note' to recall the act of marking your preference."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-stable",
+  "parent": "ms-ro-stabil-08d4ea76@f92ebe7a7ddef53ea2cca4536f30c4a7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stable",
+    "definition": "firmly fixed or not likely to change, move, or fail; steady and reliable",
+    "pronunciation": "/ˈsteɪbəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'stable' comes from the Latin 'stabilis', meaning 'firm' or 'steadfast'.",
+        "targetText": "Cuvântul englezesc „stable“ provine din latinescul „stabilis“, care înseamnă „solid“ sau „constant“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in both technical and everyday contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stabil",
+    "genus": "adjective",
+    "definition": "fermit sau sigur în structura sa, nu ușor mișcabil sau modificabil",
+    "pronunciation": "/staˈbil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'stabil' also derives from the Latin 'stabilis' and means 'firm' or 'unchangeable'.",
+        "targetText": "Cuvântul românesc „stabil“ provine tot din latinescul „stabilis“ și înseamnă „solid“ sau „nemodificabil“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet wird es oft in technischen und alltäglichen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "stable (firm)",
+      "explanation": {
+        "sourceText": "In English, 'stable' describes something that cannot be easily moved.",
+        "targetText": "În germană, „stabil“ descrie ceva greu de mutat."
+      },
+      "examples": [
+        {
+          "sourceText": "A stable table.",
+          "targetText": "O masă stabilă."
+        }
+      ]
+    },
+    {
+      "gloss": "stable (reliable)",
+      "explanation": {
+        "sourceText": "'Stable' is often used to describe reliability.",
+        "targetText": "„Stabil“ este folosit și pentru a descrie fiabilitatea."
+      },
+      "examples": [
+        {
+          "sourceText": "A stable plan.",
+          "targetText": "Un plan stabil."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "durable",
+      "targetText": "durabil"
+    },
+    {
+      "sourceText": "firm",
+      "targetText": "ferm"
+    },
+    {
+      "sourceText": "robust",
+      "targetText": "rezistent"
+    },
+    {
+      "sourceText": "secure",
+      "targetText": "sigur"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unstable",
+      "targetText": "instabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The table is very stable.",
+      "targetText": "Masa este foarte stabilă."
+    },
+    {
+      "sourceText": "We need a stable solution.",
+      "targetText": "Avem nevoie de o soluție stabilă."
+    },
+    {
+      "sourceText": "The team has a stable collaboration.",
+      "targetText": "Echipa are o colaborare stabilă."
+    },
+    {
+      "sourceText": "His health is stable.",
+      "targetText": "Sănătatea lui este stabilă."
+    },
+    {
+      "sourceText": "The economy remains stable.",
+      "targetText": "Economia rămâne stabilă."
+    },
+    {
+      "sourceText": "The structure is stable and reliable.",
+      "targetText": "Construcția este stabilă și de încredere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'stable' sounds like 'stay able'—something that can stay firm and not fall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'stable' horse barn—strong and steady, just like the Romanian 'stabil'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'stabil' is very close to English 'stable', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a stable table that won’t wobble during your meal—that’s 'stabil' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

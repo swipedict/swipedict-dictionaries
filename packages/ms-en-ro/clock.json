@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-clock",
+  "parent": "ms-ro-ceas-f321f45a@720765f487b904559971362bfb51b16e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "clock",
+    "definition": "A device used to measure and display time, typically featuring a dial with hands or a digital display.",
+    "pronunciation": "/klɒk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'clock' comes from the Middle English 'clokke', which was borrowed from the Old North French 'cloque', meaning 'bell', originally from the Medieval Latin 'clocca'.",
+        "targetText": "Cuvântul englezesc „clock” provine din engleza mijlocie 'clokke', împrumutat din franceza veche nordică 'cloque', care înseamnă 'clopot', originar din latina medievală 'clocca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ceas",
+    "genus": "neuter",
+    "definition": "Dispozitiv pentru măsurarea și afișarea timpului, de obicei cu cadran și ace sau digital.",
+    "pronunciation": "/tʃe̯as/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'ceas' derives from the Latin 'clāssis', which originally meant 'class' or 'class of ships', but in the Middle Ages was adopted to designate time-measuring instruments.",
+        "targetText": "Cuvântul românesc „ceas” provine din latină, din termenul 'clāssis', care inițial însemna 'clasă' sau 'clasă de nave', dar în Evul Mediu a fost preluat pentru a desemna instrumente de măsurare a timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv masculin, plural: ceasuri."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "minute",
+      "targetText": "minut"
+    },
+    {
+      "sourceText": "second",
+      "targetText": "secundă"
+    },
+    {
+      "sourceText": "alarm clock",
+      "targetText": "ceas deșteptător"
+    },
+    {
+      "sourceText": "time",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The clock shows 3 o'clock in the afternoon.",
+      "targetText": "Ceasul arată ora trei după-amiaza."
+    },
+    {
+      "sourceText": "I bought a new clock.",
+      "targetText": "Am cumpărat un ceas nou."
+    },
+    {
+      "sourceText": "The alarm clock rings at 7 o'clock.",
+      "targetText": "Ceasul deșteptător sună la ora șapte."
+    },
+    {
+      "sourceText": "The clock on the wall is very old.",
+      "targetText": "Ceasul de pe perete este foarte vechi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ceas' sounds like 'chess'—imagine playing chess while watching the clock to keep track of your time."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'ceas' comes from Latin, just like many English words starting with 'c', such as 'class' or 'clock'."
+    },
+    {
+      "lang": "en",
+      "text": "'Ceas' is a short, simple word like 'clock', both easy to say and related to time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of having a 'ceas' on your wrist helping you 'check' your appointments—the English word 'check' sounds similar and can help you remember 'ceas'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

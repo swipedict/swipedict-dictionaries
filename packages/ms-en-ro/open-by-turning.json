@@ -1,0 +1,217 @@
+{
+  "id": "ms-en-ro-open-by-turning",
+  "parent": "ms-ro-a-desface-e9852b64@241f1fc4e97a279b03c7a381791b543d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "open by turning",
+    "definition": "to open something by rotating or twisting it",
+    "pronunciation": "/ˈoʊpən baɪ ˈtɜrnɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase 'open by turning' describes the action of opening something by rotating it. The verb 'turn' comes from Old English 'turnian', from Latin 'tornare', meaning 'to turn on a lathe'.",
+        "targetText": "Expresia „open by turning” descrie acțiunea de a deschide ceva prin rotire. Verbul „turn” provine din engleza veche „turnian”, din latină „tornare”, care înseamnă „a roti pe o strungă”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "This phrase is commonly used in everyday and technical contexts, such as opening bottles, faucets, or knobs."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a desface",
+    "definition": "a deschide ceva prin rotire",
+    "pronunciation": "/a desˈfa.ke/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a desface' derives from Latin 'disfacere', composed of 'dis-' (away) and 'facere' (to do/make), meaning 'to open or separate something'.",
+        "targetText": "Românescul „a desface” derivă din latină, din „disfacere”, compus din „dis-“ (departe) și „facere” (a face), însemnând „a deschide sau a despărți ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regulary conjugated verb of the 4th conjugation (-i). Frequently used to describe opening containers or packages."
+  },
+  "senses": [
+    {
+      "gloss": "open a bottle by turning",
+      "explanation": {
+        "sourceText": "Opening a bottle by twisting its cap.",
+        "targetText": "Deschiderea unei sticle prin rotirea dopului."
+      },
+      "examples": [
+        {
+          "sourceText": "I open the bottle by turning it.",
+          "targetText": "Eu desfac sticla."
+        }
+      ]
+    },
+    {
+      "gloss": "turn up a fan",
+      "explanation": {
+        "sourceText": "Increasing the fan speed by turning the control knob.",
+        "targetText": "Mărirea vitezei ventilatorului prin rotirea regulatorului."
+      },
+      "examples": [
+        {
+          "sourceText": "We turn up the fan.",
+          "targetText": "Noi desfacem ventilatorul."
+        }
+      ]
+    },
+    {
+      "gloss": "turn on a faucet",
+      "explanation": {
+        "sourceText": "Opening the faucet by turning its handle.",
+        "targetText": "Deschiderea robinetului prin rotirea mânerului."
+      },
+      "examples": [
+        {
+          "sourceText": "Do you turn on the faucet?",
+          "targetText": "Desfaci robinetul?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "bottle",
+      "targetText": "sticlă"
+    },
+    {
+      "sourceText": "control knob",
+      "targetText": "reglator"
+    },
+    {
+      "sourceText": "faucet",
+      "targetText": "robinet"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "close by turning",
+      "targetText": "a închide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I open the bottle by turning it.",
+      "targetText": "Eu desfac sticla."
+    },
+    {
+      "sourceText": "Do you turn on the faucet?",
+      "targetText": "Desfaci robinetul?"
+    },
+    {
+      "sourceText": "He turns the control knob up.",
+      "targetText": "El desface regulatorul."
+    },
+    {
+      "sourceText": "We turn up the fan.",
+      "targetText": "Noi desfacem ventilatorul."
+    },
+    {
+      "sourceText": "Do you turn up the radio?",
+      "targetText": "Desfaceți radio-ul?"
+    },
+    {
+      "sourceText": "They open the door by turning it.",
+      "targetText": "Ei desfac ușa."
+    },
+    {
+      "sourceText": "I have opened the bottle by turning it.",
+      "targetText": "Am desfăcut sticla."
+    },
+    {
+      "sourceText": "They have turned up the radio.",
+      "targetText": "Au desfăcut radioul."
+    },
+    {
+      "sourceText": "He turned up the ventilation.",
+      "targetText": "El desfăcea ventilația."
+    },
+    {
+      "sourceText": "I had already turned on the faucet.",
+      "targetText": "Desfăcusem deja robinetul."
+    },
+    {
+      "sourceText": "I will open the bottle by turning it tomorrow.",
+      "targetText": "Voi desfăcea sticla mâine."
+    },
+    {
+      "sourceText": "She will open the door by turning it.",
+      "targetText": "Ea o să desfacă ușa."
+    },
+    {
+      "sourceText": "I would open the bottle by turning it if I could.",
+      "targetText": "Aș desfăcea sticla dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you turn on the faucet.",
+      "targetText": "Este necesar să desfaci robinetul."
+    },
+    {
+      "sourceText": "Turn the bottle open!",
+      "targetText": "Desfacă sticla!"
+    },
+    {
+      "sourceText": "Turn the devices up!",
+      "targetText": "Desfaceți echipamentele!"
+    },
+    {
+      "sourceText": "The opened bottle is closed.",
+      "targetText": "Sticla desfăcută este închisă."
+    },
+    {
+      "sourceText": "The door is now open by turning.",
+      "targetText": "Ușa este acum desfăcută."
+    },
+    {
+      "sourceText": "While I was opening the bottle by turning it, it slipped from my hand.",
+      "targetText": "Desfăcând sticla, m-a scăpat din mână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'a desface' as 'to unfasten' by turning, like twisting off a bottle cap."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine opening a jar or bottle every time you say 'desface' to link the action with the word."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the 'des-' prefix as 'dis-' meaning 'undo' or 'open up', and 'face' like 'to make' or 'do'."
+    },
+    {
+      "lang": "en",
+      "text": "Practice describing everyday actions like turning on a faucet or opening a door using 'desface' to reinforce memory."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize turning knobs or caps counterclockwise to 'desface' and clockwise to 'a închide' (to close)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

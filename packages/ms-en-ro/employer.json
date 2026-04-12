@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-employer",
+  "parent": "ms-ro-angajator-ba47c52a@49f04f848a22019775aaa53be554694b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "employer",
+    "genus": "masculine",
+    "definition": "A person or organization that hires people to work and pays their wages or salaries.",
+    "pronunciation": "/ɪmˈplɔɪər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'employer' comes from the verb 'employ', which originates from the Old French 'employer', meaning 'to use or engage'. The suffix '-er' denotes someone who performs the action.",
+        "targetText": "Cuvântul englezesc „employer” provine de la verbul „employ”, care are originea în vechea limbă franceză „employer”, însemnând „a folosi sau a angaja”. Sufixul „-er” indică persoana care efectuează acțiunea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "angajator",
+    "genus": "masculine",
+    "definition": "Persoană sau organizație care oferă muncă și plătește salarii.",
+    "pronunciation": "/anɡaˈd͡ʒator/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'angajator' is derived from the French verb 'engager' ('to hire, to commit'), with the Romanian suffix '-tor' added to indicate the agent performing the action.",
+        "targetText": "Cuvântul românesc „angajator” este derivat din verbul francez „engager” („a angaja, a obliga”), la care s-a adăugat sufixul românesc „-tor” pentru agent."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "employment contract",
+      "targetText": "contract de muncă"
+    },
+    {
+      "sourceText": "company",
+      "targetText": "firmă"
+    },
+    {
+      "sourceText": "salary",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The employer pays the salary.",
+      "targetText": "Angajatorul plătește salariul."
+    },
+    {
+      "sourceText": "My employer is very friendly.",
+      "targetText": "Angajatorul meu este foarte prietenos."
+    },
+    {
+      "sourceText": "The employer offers many benefits.",
+      "targetText": "Angajatorul oferă multe beneficii."
+    },
+    {
+      "sourceText": "The employer terminated the contract.",
+      "targetText": "Angajatorul a reziliat contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'employer' as the one who 'employs' or hires people—think of the root 'employ' plus the agent suffix '-er'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'angajator' comes from French 'engager', similar to English 'engage', so both relate to hiring or committing someone."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'angajator' as someone who 'engages' workers—this helps link the sound and meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The '-tor' suffix in Romanian is like the English '-er' ending, marking the person who does the action, just like 'employer'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

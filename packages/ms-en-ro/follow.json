@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-follow",
+  "parent": "ms-ro-a-urma-52d9faec@756b02fe17cb0e1e728d78505bcc6760",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "follow",
+    "definition": "to go or come after someone or something, to move behind or pursue",
+    "pronunciation": "/ˈfɒloʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"follow\" originates from Old English \"folgian\", meaning to act in accordance with or to come after. It is related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „follow” provine din engleza veche „folgian”, care înseamnă a acționa în conformitate cu ceva sau a veni după ceva. Este înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A strong verb commonly used to describe the action of moving behind or pursuing someone or something."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a urma",
+    "definition": "a merge după cineva sau ceva",
+    "pronunciation": "/a ˈurma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a urma“ derives from the Latin „sequi“, meaning to follow or to go after someone.",
+        "targetText": "Verbul românesc „a urma“ derivă din latină, de la „sequi“, însemnând a urma sau a merge după cineva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used to describe following people or ideas."
+  },
+  "senses": [
+    {
+      "gloss": "Following as movement",
+      "explanation": {
+        "sourceText": "Used to physically follow someone.",
+        "targetText": "Este folosit pentru a urma fizic pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "I follow a path.",
+          "targetText": "Urmăresc un drum."
+        },
+        {
+          "sourceText": "The children follow the teacher.",
+          "targetText": "Copiii îl urmează pe profesor."
+        }
+      ]
+    },
+    {
+      "gloss": "Following in a discussion",
+      "explanation": {
+        "sourceText": "Also used to follow someone in a conversation.",
+        "targetText": "Este folosit și pentru a urmări o discuție."
+      },
+      "examples": [
+        {
+          "sourceText": "I can follow you well.",
+          "targetText": "Pot să te urma bine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "people",
+      "targetText": "oameni"
+    },
+    {
+      "sourceText": "direction",
+      "targetText": "direcție"
+    },
+    {
+      "sourceText": "step",
+      "targetText": "pas"
+    },
+    {
+      "sourceText": "path",
+      "targetText": "drum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lead",
+      "targetText": "preceda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I follow you home.",
+      "targetText": "Eu te urma spre casă."
+    },
+    {
+      "sourceText": "They followed the advice.",
+      "targetText": "Ei au urmat sfatul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"follow\" sounds like \"fall low\" — imagine falling behind someone as you follow them."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"a urma\" as similar to \"a trail\" or \"a trace\" — you follow a trail to find your way."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"follow\" and Romanian \"urma\" both relate to moving behind or tracking someone."
+    },
+    {
+      "lang": "en",
+      "text": "Picture following footsteps (\"urme\" in Romanian) to remember \"a urma\" means to follow."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

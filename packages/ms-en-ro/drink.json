@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-drink",
+  "parent": "ms-ro-bautura-0484481d@9f74f99badcdefb39d9b8bae7cd5057c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "drink",
+    "genus": "neuter",
+    "definition": "A liquid intended for consumption by swallowing.",
+    "pronunciation": "/drɪŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"drink\" originates from the verb 'to drink', referring to the act of swallowing liquids, with the noun form representing the substance consumed.",
+        "targetText": "Cuvântul englezesc „drink” provine din verbul 'to drink', referindu-se la actul de a înghiți lichide, forma de substantiv desemnând substanța consumată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "băutură",
+    "genus": "feminine",
+    "definition": "O lichidă destinată a fi băută.",
+    "pronunciation": "/bəˈu̯tu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun „băutură“ derives from the verb 'a bea' (to drink), formed with the suffix '-tură' which indicates an action or its result.",
+        "targetText": "Substantivul românesc „băutură” provine din verbul 'a bea' (a bea), format cu sufixul '-tură' care indică acțiunea sau rezultatul acesteia."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Alcohol",
+      "targetText": "alcool"
+    },
+    {
+      "sourceText": "Juice",
+      "targetText": "suc"
+    },
+    {
+      "sourceText": "to drink",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "Water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I would like a cold drink.",
+      "targetText": "Vreau o băutură rece."
+    },
+    {
+      "sourceText": "Alcoholic drinks should be enjoyed in moderation.",
+      "targetText": "Băuturile alcoolice trebuie consumate cu măsură."
+    },
+    {
+      "sourceText": "The drink is fresh and tasty.",
+      "targetText": "Băutura este proaspătă și gustoasă."
+    },
+    {
+      "sourceText": "Please bring me a drink.",
+      "targetText": "Vă rog să-mi aduceți o băutură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word „băutură” by linking it to the English verb 'to drink' since both relate to liquids you consume."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-tură' in Romanian often indicates an action or its result, similar to how 'drink' can mean both the action and the liquid."
+    },
+    {
+      "lang": "en",
+      "text": "The start 'bău-' sounds a bit like 'bow'—imagine bowing after enjoying a refreshing drink."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'băutură' as 'bought-ura'—you buy a drink and enjoy it, helping you remember the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

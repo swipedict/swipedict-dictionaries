@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-flight",
+  "parent": "ms-ro-zbor-32fbe7d2@118167e504f4a90df308f7e15ed6af80",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "flight",
+    "genus": "masculine",
+    "definition": "The act or process of moving through the air, typically by an airplane or other flying device.",
+    "pronunciation": "/flaɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"flight\" comes from the Old English 'flyht', which traces back to the Proto-Germanic root *fleug-, related to the concept of flying or moving swiftly through the air.",
+        "targetText": "Cuvântul englezesc „flight” provine din engleza veche 'flyht', care derivă din rădăcina proto-germanică *fleug-, legată de conceptul de a zbura sau a se mișca rapid prin aer."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zbor",
+    "genus": "neuter",
+    "definition": "Mișcarea prin aer, de obicei cu un avion sau alt mijloc de zbor.",
+    "pronunciation": "/zbor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"zbor\" is an internal derivation from the Romanian verb \"a zbura\" (to fly), whose origin is uncertain but is considered an internal Romanian creation.",
+        "targetText": "Cuvântul românesc „zbor” este format intern în limba română, derivat de la verbul „a zbura”, a cărui origine este incertă, dar considerată creație internă românească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "airport",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "airplane",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "pilot",
+      "targetText": "pilot"
+    },
+    {
+      "sourceText": "journey",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The flight to Bucharest takes two hours.",
+      "targetText": "Zborul spre București durează două ore."
+    },
+    {
+      "sourceText": "I booked a flight.",
+      "targetText": "Am rezervat un zbor."
+    },
+    {
+      "sourceText": "The flight was very smooth.",
+      "targetText": "Zborul a fost foarte liniștit."
+    },
+    {
+      "sourceText": "The flight departs at 10 o'clock.",
+      "targetText": "Zborul pleacă la ora 10."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'zbor' sounds like 'soar'—imagine soaring high in the sky when you think of flying."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'zbor' as related to 'zoom'—both suggest fast movement through the air."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'flight' and Romanian 'zbor' both describe the act of flying, so linking them helps recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a bird 'zipping' through the air to connect the sound of 'zbor' with flying."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-claimant",
+  "parent": "ms-ro-reclamant-ed22eb43@0628340abfc587c1defa60ce83c00204",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "claimant",
+    "genus": "masculine",
+    "definition": "A person who makes a formal demand for something, especially in a legal context, such as initiating a lawsuit against someone.",
+    "pronunciation": "/ˈkleɪmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"claimant\" derives from the verb \"claim,\" which comes from the Latin 'clamare' meaning 'to call out or shout.' It entered English through Old French, carrying the sense of asserting a right or demand.",
+        "targetText": "Cuvântul englezesc „claimant” provine de la verbul „claim”, care derivă din latină, din 'clamare', însemnând 'a striga sau a chema'. A intrat în limba engleză prin franceza veche, păstrând sensul de a afirma un drept sau o cerere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "reclamant",
+    "genus": "masculine",
+    "definition": "Persoană care depune o plângere sau o cerere în instanță împotriva cuiva.",
+    "pronunciation": "/re.klaˈmant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „reclamant” comes from the Latin verb 'reclamare', meaning 'to shout against, to call back loudly.' It was adopted into Romanian through French.",
+        "targetText": "Cuvântul românesc „reclamant” provine din verbul latin 'reclamare', care înseamnă 'a striga împotriva, a răspunde cu voce tare'. A fost preluat în română prin intermediul limbii franceze."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Defendant",
+      "targetText": "inculpat"
+    },
+    {
+      "sourceText": "Court",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Lawsuit",
+      "targetText": "plângere"
+    },
+    {
+      "sourceText": "Lawyer",
+      "targetText": "avocat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Respondent",
+      "targetText": "pârât"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The claimant filed a lawsuit against the respondent.",
+      "targetText": "Reclamantul a depus o plângere împotriva pârâtului."
+    },
+    {
+      "sourceText": "In the trial, the claimant presents their claims before the court.",
+      "targetText": "În proces, reclamantul își susține cererile în fața instanței."
+    },
+    {
+      "sourceText": "The claimant demands compensation.",
+      "targetText": "Reclamantul solicită despăgubiri."
+    },
+    {
+      "sourceText": "The claimant appeared in court to explain their claim.",
+      "targetText": "Reclamantul a apărut în instanță pentru a-și explica plângerea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'claimant' as someone who 'claims' something, like a legal claim—easy to connect with the English verb 'to claim.'"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'reclamant' sounds like 'reclaim' in English, which also means to demand or take back something—helpful to remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a claimant as a person who 'calls out' their rights loudly in court, linking to the Latin root 'clamare' meaning 'to shout.'"
+    },
+    {
+      "lang": "en",
+      "text": "If you know the French word 'réclamer' meaning 'to demand,' it’s a close cousin to 'reclamant'—both involve asserting a right."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

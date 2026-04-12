@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-accurate",
+  "parent": "ms-ro-corect-b252d056@67a665193c4689d304881a5b4d0f85e4",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "accurate",
+    "definition": "correct or appropriate in relation to a particular situation or request",
+    "pronunciation": "/ˈækjʊrət/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"accurate\" comes from the Latin \"accuratus\", meaning carefully done or correct.",
+        "targetText": "Cuvântul englez „accurate” provine din latină „accuratus”, care înseamnă făcut cu grijă sau corect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in factual or scientific contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "corect",
+    "genus": "masculine",
+    "definition": "corect sau adecvat în raport cu o anumită situație sau solicitare",
+    "pronunciation": "/koˈrekt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word \"corect\" comes from the Latin \"correctus\", meaning \"correct\".",
+        "targetText": "Cuvântul „corect” provine din latină „correctus”, care înseamnă „corect”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in formalen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Appropriateness",
+      "explanation": {
+        "sourceText": "Means being suitable for the situation.",
+        "targetText": "Înseamnă a fi adecvat situației."
+      },
+      "examples": [
+        {
+          "sourceText": "The behavior was accurate.",
+          "targetText": "Comportamentul a fost corect."
+        }
+      ]
+    },
+    {
+      "gloss": "Correctness",
+      "explanation": {
+        "sourceText": "Emphasizes precision in a situation.",
+        "targetText": "Evidențiază precizia într-o situație."
+      },
+      "examples": [
+        {
+          "sourceText": "The study has accurate results.",
+          "targetText": "Studiul are rezultate corecte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "appropriate",
+      "targetText": "adecvat"
+    },
+    {
+      "sourceText": "credible",
+      "targetText": "credibil"
+    },
+    {
+      "sourceText": "correct",
+      "targetText": "corect"
+    },
+    {
+      "sourceText": "suitable",
+      "targetText": "potrivit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wrong",
+      "targetText": "nepotrivit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The information in the report is accurate.",
+      "targetText": "Informațiile din raport sunt corecte."
+    },
+    {
+      "sourceText": "It is important that the facts are accurate.",
+      "targetText": "Este important ca faptele să fie corecte."
+    },
+    {
+      "sourceText": "If the assumption is accurate, we must act.",
+      "targetText": "Dacă presupunerea este corectă, trebuie să acționăm."
+    },
+    {
+      "sourceText": "Accurate statements are crucial in argumentation.",
+      "targetText": "Afirmațiile corecte sunt esențiale în argumentare."
+    },
+    {
+      "sourceText": "All accurate points were addressed in the discussion.",
+      "targetText": "Toate punctele corecte au fost discutate."
+    },
+    {
+      "sourceText": "The results must be accurate and verifiable.",
+      "targetText": "Rezultatele trebuie să fie corecte și verificabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"accurate\" sounds like \"a cure rate\" — something precise and correct, just like \"corect\" means correct."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"accurate\" as hitting the bullseye — the perfect, correct spot, similar to how \"corect\" means right or proper."
+    },
+    {
+      "lang": "en",
+      "text": "Mnemonic: \"If your facts are accurate, you’re 'corect' in Romanian!\""
+    },
+    {
+      "lang": "en",
+      "text": "Link \"accurate\" with \"correct\" and \"corect\" — all share the idea of precision and truth."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

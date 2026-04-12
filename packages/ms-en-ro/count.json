@@ -1,0 +1,116 @@
+{
+  "id": "ms-en-ro-count",
+  "parent": "ms-ro-a-numara-59a49c78@0594bcd7a746777d75eb186cf55f3874",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "count",
+    "definition": "The action of determining or naming quantities or numbers in order.",
+    "pronunciation": "/kaʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'count' originates from Old English 'countian', borrowed from Latin 'computare', meaning 'to calculate or reckon'.",
+        "targetText": "Verbul englezesc „count” provine din engleza veche 'countian', împrumutat din latină 'computare', care înseamnă 'a calcula sau a socoti'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a număra",
+    "definition": "A determina sau a rosti în ordine cantități sau cifre.",
+    "pronunciation": "/a nu.məˈrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a număra' derives from the Latin verb 'numerare', meaning 'to count' or 'to number', which comes from the Latin noun 'numerus' for 'number'.",
+        "targetText": "Verbul românesc „a număra” provine din verbul latin 'numerare', care înseamnă 'a număra' sau 'a numerota', derivat din substantivul latin 'numerus' pentru 'număr'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, regelmäßige Bildung."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "number",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "digit",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "countable",
+      "targetText": "numărabil"
+    },
+    {
+      "sourceText": "counting",
+      "targetText": "numărând"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignore",
+      "targetText": "a ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I count the apples in the basket.",
+      "targetText": "Eu număr merele din coș."
+    },
+    {
+      "sourceText": "Can you count to ten?",
+      "targetText": "Poți să numeri până la zece?"
+    },
+    {
+      "sourceText": "She counts every cent carefully.",
+      "targetText": "Ea numără fiecare ban cu atenție."
+    },
+    {
+      "sourceText": "We count the votes in the election.",
+      "targetText": "Numărăm voturile la alegeri."
+    },
+    {
+      "sourceText": "Count to three and then jump.",
+      "targetText": "Numără până la trei și apoi sari."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian 'a număra' sounds like 'number', which helps you remember it relates to counting."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a număra' as 'to number' things in order, just like numbering pages in a book."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'a număra' comes from Latin 'numerare', it’s related to English words like 'numeral' and 'numerous'."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'număra', imagine counting coins or steps, reinforcing the idea of counting."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-stop",
+  "parent": "ms-ro-a-se-opri-0eccd5c9@78cc7012e1b053a8398677098fb6ba65",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "stop",
+    "definition": "to cease doing something; to bring an activity or action to an end",
+    "pronunciation": "/stɒp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"stop\" originates from Middle English, likely from Old English \"stoppian\" meaning to block or obstruct, related to the noun \"stop\" meaning a cessation or obstruction.",
+        "targetText": "Cuvântul englezesc „stop” provine din engleza mijlocie, probabil din vechea engleză „stoppian” care înseamnă a bloca sau a obstrucționa, legat de substantivul „stop” care înseamnă încetare sau obstrucție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used in various contexts to express the ending of an action or habit."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se opri",
+    "definition": "a înceta o activitate; a nu mai face ceva",
+    "pronunciation": "/a se oˈpri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a se opri” is an internally formed verb derived from „opri”, which comes from the Latin „operire” meaning \"to cover, to close\".",
+        "targetText": "Verbul românesc „a se opri” este format intern, derivat din „opri”, care provine din latinul „operire” („a acoperi, a închide”)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regular first conjugation verb. Usage includes ending actions or stopping movement."
+  },
+  "senses": [
+    {
+      "gloss": "Ceasing to perform an activity",
+      "explanation": {
+        "sourceText": "As in English: the ending of an action.",
+        "targetText": "Ca în germană: încetarea unei acțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "I stop smoking.",
+          "targetText": "Eu mă opresc din fumat."
+        },
+        {
+          "sourceText": "We stop now.",
+          "targetText": "Noi ne oprim acum."
+        }
+      ]
+    },
+    {
+      "gloss": "Stopping",
+      "explanation": {
+        "sourceText": "Refers more generally to the halting of an activity.",
+        "targetText": "Se referă la oprirea generală a unei activități."
+      },
+      "examples": [
+        {
+          "sourceText": "He stops when he is tired.",
+          "targetText": "El se oprește când este obosit."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "work",
+      "targetText": "a lucra"
+    },
+    {
+      "sourceText": "learn",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "close",
+      "targetText": "a închide"
+    },
+    {
+      "sourceText": "play",
+      "targetText": "a juca"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "begin",
+      "targetText": "a începe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I stop smoking.",
+      "targetText": "Eu mă opresc din fumat."
+    },
+    {
+      "sourceText": "Will you please stop that?",
+      "targetText": "Te oprești, te rog?"
+    },
+    {
+      "sourceText": "He stops when he is tired.",
+      "targetText": "El se oprește când este obosit."
+    },
+    {
+      "sourceText": "We stop now.",
+      "targetText": "Noi ne oprim acum."
+    },
+    {
+      "sourceText": "Will you please stop arguing?",
+      "targetText": "Voi vă opriți, vă rog, din a vă certa?"
+    },
+    {
+      "sourceText": "They do not stop talking.",
+      "targetText": "Ei nu se opresc din vorbit."
+    },
+    {
+      "sourceText": "I stopped working yesterday.",
+      "targetText": "M-am oprit din a munci ieri."
+    },
+    {
+      "sourceText": "He used to stop playing every Sunday.",
+      "targetText": "El se oprea din a juca în fiecare duminică."
+    },
+    {
+      "sourceText": "I will stop tomorrow.",
+      "targetText": "Mâine mă voi opri."
+    },
+    {
+      "sourceText": "I would stop if I could.",
+      "targetText": "M-aș opri, dacă aș putea."
+    },
+    {
+      "sourceText": "Stop!",
+      "targetText": "Oprește-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"stop\" is a very common English verb meaning to end an action, which matches the Romanian reflexive verb \"a se opri\" meaning to stop oneself."
+    },
+    {
+      "lang": "en",
+      "text": "The reflexive pronoun \"se\" in Romanian indicates the action is done to oneself, so \"a se opri\" literally means \"to stop oneself.\""
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"stop\" as a quick command, just like the Romanian imperative \"Oprește-te!\" which means \"Stop!\""
+    },
+    {
+      "lang": "en",
+      "text": "Practice conjugating \"a opri\" to get comfortable using it in different tenses, just like you practice \"stop\" in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

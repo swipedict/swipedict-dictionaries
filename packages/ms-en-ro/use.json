@@ -1,0 +1,144 @@
+{
+  "id": "ms-en-ro-use",
+  "parent": "ms-ro-a-folosi-71167d64@24c5a215a1f0fdb57ce378fe68a79eb6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "use",
+    "definition": "to put something into service or apply it for a particular purpose or function",
+    "pronunciation": "/juːz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"use\" comes from the Old French \"user\", which derives from Latin \"uti\", meaning to employ or make use of something. It generally means to apply or put into service.",
+        "targetText": "Cuvântul englezesc „use“ provine din franceza veche „user“, care la rândul său derivă din latină „uti“, însemnând a folosi sau a întrebuința ceva. În general, înseamnă a aplica sau a pune în serviciu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The word often describes the process of actively employing something, whether a tool or resources."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a folosi",
+    "definition": "a așeza ceva într-un anumit loc sau într-o anumită stare",
+    "pronunciation": "/a foˈlosi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a folosi“ derives from the Latin „fulcire“, meaning \"to support, to use.\" It expresses the active application of means or tools.",
+        "targetText": "Verbul românesc „a folosi“ provine din latinescul „fulcire“, care înseamnă „a sprijini, a folosi“. Exprimă utilizarea activă a unor mijloace sau unelte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in praktischen Situationen verwendet, um die Anwendung von Techniken oder Ressourcen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Application of techniques",
+      "explanation": {
+        "sourceText": "Refers to implementing methods or procedures.",
+        "targetText": "Se referă la aplicarea metodelor sau procedurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "We use the new method.",
+          "targetText": "Folosim noua metodă."
+        }
+      ]
+    },
+    {
+      "gloss": "Use of a tool",
+      "explanation": {
+        "sourceText": "Often used in craft or technical contexts.",
+        "targetText": "Este folosit frecvent în contexte meșteșugărești sau tehnice."
+      },
+      "examples": [
+        {
+          "sourceText": "I use the tool.",
+          "targetText": "Eu folosesc unealta."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "usage",
+      "targetText": "utilizare"
+    },
+    {
+      "sourceText": "application",
+      "targetText": "aplicație"
+    },
+    {
+      "sourceText": "position",
+      "targetText": "poziție"
+    },
+    {
+      "sourceText": "tool",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "remove",
+      "targetText": "a îndepărta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "We use the new method.",
+      "targetText": "Eu folosesc noua metodă."
+    },
+    {
+      "sourceText": "He uses the device immediately.",
+      "targetText": "El folosește imediat dispozitivul."
+    },
+    {
+      "sourceText": "We have used the technical resources.",
+      "targetText": "Am folosit resursele tehnice."
+    },
+    {
+      "sourceText": "I will use the material tomorrow.",
+      "targetText": "Voi folosi materialul mâine."
+    },
+    {
+      "sourceText": "Use this tool!",
+      "targetText": "Folosește acest instrument!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'use' sounds like 'juice'—just like juice powers you up, using something means putting it to work."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'use' as 'utility'—both start with 'u' and relate to making something useful."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a folosi' sounds like 'follow see'—imagine following instructions to use a tool correctly."
+    },
+    {
+      "lang": "en",
+      "text": "When you 'use' something, you 'utilize' it—both words share the root 'util-', meaning usefulness."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

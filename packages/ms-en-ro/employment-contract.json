@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-employment-contract",
+  "parent": "ms-ro-contract-de-munca-fddf6c01@2407afe47eae55a8694a96ec747a999b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "employment contract",
+    "genus": "masculine",
+    "definition": "A formal agreement that specifies the terms and conditions of work between an employer and an employee.",
+    "pronunciation": "/ɪmˈplɔɪmənt ˈkɒntrækt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'employment contract' combines 'employment', derived from the verb 'employ' meaning to hire or engage, and 'contract', which comes from Latin 'contractus', meaning an agreement or pact.",
+        "targetText": "Cuvântul englezesc „employment contract” combină „employment”, derivat din verbul „employ” care înseamnă a angaja sau a utiliza, și „contract”, care provine din latină, din 'contractus', însemnând un acord sau pact."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "contract de muncă",
+    "genus": "neuter",
+    "definition": "Un acord scris care reglementează condițiile muncii între angajator și angajat.",
+    "pronunciation": "/konˈtrakt de ˈmunkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'contract' comes from the Latin 'contractus' ('agreement'), while 'muncă' originates from Slavic and means 'work'.",
+        "targetText": "Cuvântul românesc „contract” provine din latină, din 'contractus' ('înțelegere'), iar 'muncă' provine din slavă și înseamnă 'muncă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "employer",
+      "targetText": "angajator"
+    },
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "employment",
+      "targetText": "ocupare"
+    },
+    {
+      "sourceText": "salary",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have signed an employment contract.",
+      "targetText": "Am semnat un contract de muncă."
+    },
+    {
+      "sourceText": "The employment contract regulates the working hours.",
+      "targetText": "Contractul de muncă reglementează orele de lucru."
+    },
+    {
+      "sourceText": "The employment contract is fixed-term.",
+      "targetText": "Contractul de muncă este pe durată determinată."
+    },
+    {
+      "sourceText": "The duties of both parties are stated in the employment contract.",
+      "targetText": "În contractul de muncă sunt stipulate obligațiile ambelor părți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'contract de muncă' by linking 'contract' to the English 'contract' and 'muncă' sounds like 'monk', who works hard in a monastery."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'contract' is a common English term derived from Latin, making it easy to recognize in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an 'employment contract' as a formal paper you sign before starting a job, just like in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'munch' (sounds like 'muncă') on your work tasks after signing your 'contract'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

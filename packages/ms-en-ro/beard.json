@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-beard",
+  "parent": "ms-ro-barba-3ffda7f7@1192188e97e731eea46106b55e002009",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "beard",
+    "genus": "masculine",
+    "definition": "Facial hair that grows on the chin and cheeks of a man.",
+    "pronunciation": "/bɪərd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"beard\" originates from Old English 'beard', which comes from the Proto-Germanic root *bardaz meaning 'facial hair'.",
+        "targetText": "Cuvântul englezesc „beard” provine din engleza veche 'beard', care la rândul său derivă din rădăcina proto-germanică *bardaz și înseamnă 'păr facial'."
+      },
+      "source": "Etymological Dictionaries"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "barbă",
+    "genus": "feminine",
+    "definition": "Părul care crește pe bărbie și obraji, besonders im Gesicht.",
+    "pronunciation": "/barbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"barbă\" comes directly from the Latin \"barba\", meaning 'beard', which traces back to the Indo-European root *bharbh-.",
+        "targetText": "Cuvântul românesc „barbă” provine direct din latinul „barba”, care înseamnă „păr facial” și are origine indo-europeană."
+      },
+      "source": "Etymological Studies"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "face",
+      "targetText": "față"
+    },
+    {
+      "sourceText": "hair",
+      "targetText": "păr"
+    },
+    {
+      "sourceText": "chin",
+      "targetText": "bărbie"
+    },
+    {
+      "sourceText": "mustache",
+      "targetText": "mustăți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "clean-shaven",
+      "targetText": "bărbierit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "He wears a long beard.",
+      "targetText": "El poartă o barbă lungă."
+    },
+    {
+      "sourceText": "The beard grows quickly.",
+      "targetText": "Barba crește repede."
+    },
+    {
+      "sourceText": "Many men let their beard grow.",
+      "targetText": "Mulți bărbați își lasă barba să crească."
+    },
+    {
+      "sourceText": "The beard covers the chin and cheeks.",
+      "targetText": "Barba acoperă bărbia și obrajii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'barbă' by linking it to the English word 'barber', who takes care of beards and mustaches."
+    },
+    {
+      "lang": "en",
+      "text": "The ending 'ă' in 'barbă' sounds like the 'a' in 'sofa'—a common feminine noun ending in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a man with a magnificent beard ('barbă') decorating his face to recall the word easily."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'beard' and Romanian 'barbă' share Latin roots, so they sound somewhat alike and mean the same."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

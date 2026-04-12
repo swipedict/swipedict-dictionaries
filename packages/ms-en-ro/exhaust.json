@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-exhaust",
+  "parent": "ms-ro-evacuare-5a8e3adf@0b90c823621ab831bd3e70736a8dd440",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "exhaust",
+    "genus": "masculine",
+    "definition": "Part of a vehicle through which waste gases are expelled.",
+    "pronunciation": "/ɪɡˈzɔːst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"exhaust\" comes from the Latin 'exhaurire', meaning 'to draw out or drain away', reflecting the process of expelling gases or fluids.",
+        "targetText": "Cuvântul englezesc „exhaust” provine din latină, din termenul 'exhaurire', care înseamnă 'a scoate afară sau a drena', reflectând procesul de eliminare a gazelor sau lichidelor."
+      },
+      "source": "Etymological English Sources"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "evacuare",
+    "genus": "feminine",
+    "definition": "Componenta unui vehicul prin care sunt evacuate gazele de eșapament.",
+    "pronunciation": "/e.va.kuˈa.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term „evacuare” derives from the Latin „evacuare”, meaning 'to empty out, clear, evacuate'.",
+        "targetText": "Cuvântul românesc „evacuare” provine din latinescul 'evacuare', care înseamnă 'a scoate afară, a evacua'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "exhaust gas",
+      "targetText": "gaz de eșapament"
+    },
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "engine",
+      "targetText": "motor"
+    },
+    {
+      "sourceText": "pipe",
+      "targetText": "țeavă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The exhaust is damaged and needs to be repaired.",
+      "targetText": "Evacuarea este deteriorată și trebuie reparată."
+    },
+    {
+      "sourceText": "The car has a loud exhaust.",
+      "targetText": "Mașina are o evacuare zgomotoasă."
+    },
+    {
+      "sourceText": "The exhaust directs the gases away from the engine.",
+      "targetText": "Evacuarea conduce gazele de eșapament departe de motor."
+    },
+    {
+      "sourceText": "A faulty exhaust can pollute the environment.",
+      "targetText": "O evacuare defectă poate polua mediul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'exhaust' as the part that 'exits' the gases from a car, similar to 'evacuare' which means to evacuate or empty out."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'evacuare' as related to 'evacuate' in English, both meaning to remove or clear out something."
+    },
+    {
+      "lang": "en",
+      "text": "The '-are' ending in 'evacuare' is common in Romanian nouns that describe actions or processes, like 'evacuate' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine the exhaust gases being 'evacuated' through the 'evacuare' pipe of a car."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

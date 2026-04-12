@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-storm",
+  "parent": "ms-ro-furtuna-79e7039f@d7e25f63913d2649c39aa5a84da8c160",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "storm",
+    "genus": "masculine",
+    "definition": "A very strong and violent wind, often accompanied by rain, thunder, or lightning.",
+    "pronunciation": "/stɔːrm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'storm' originates from Old English 'storm', which comes from the Proto-Germanic root *sturmaz meaning 'strong wind' or 'attack'.",
+        "targetText": "Cuvântul englez „storm” provine din engleza veche 'storm', derivat din rădăcina proto-germanică *sturmaz, însemnând 'vânt puternic' sau 'atac'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "furtună",
+    "genus": "feminine",
+    "definition": "Vânt foarte puternic și violent, adesea însoțit de ploaie sau tunete.",
+    "pronunciation": "/furˈtunə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'furtună' derives from the Latin 'furia', meaning 'rage' or 'anger', and evolved to denote a violent storm or tempest.",
+        "targetText": "Cuvântul românesc „furtună” derivă din latină, din termenul 'furia', care însemna 'furie' sau 'mânie', evoluând spre sensul de furtună puternică sau vijelie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "thunderstorm",
+      "targetText": "furtună cu tunete"
+    },
+    {
+      "sourceText": "hurricane",
+      "targetText": "uragan"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "wind",
+      "targetText": "vânt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "calm",
+      "targetText": "liniște"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The storm destroyed many trees in the forest.",
+      "targetText": "Furtuna a distrus mulți copaci în pădure."
+    },
+    {
+      "sourceText": "We need to take shelter from the storm.",
+      "targetText": "Trebuie să ne adăpostim de furtună."
+    },
+    {
+      "sourceText": "The storm came suddenly and was very strong.",
+      "targetText": "Furtuna a venit brusc și a fost foarte puternică."
+    },
+    {
+      "sourceText": "After the storm, the sky was clear again.",
+      "targetText": "După furtună, cerul a devenit din nou senin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'furtună' sounds like 'for tune'—imagine a storm as nature’s powerful 'tune' playing loudly."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'furtună' comes from Latin 'furia' meaning 'rage'—think of a storm as nature’s furious outburst."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'furtună' as a strong force that 'does' something ('tună' sounds like 'to do' in English), so a storm is nature 'doing' its power."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'storm' with 'furious'—both describe something wild and intense, helping you remember 'furtună' as a strong wind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

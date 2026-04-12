@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-employee",
+  "parent": "ms-ro-angajat-44156c0b@48c9e5755034ac22f02082211c2ee7e7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "employee",
+    "genus": "masculine",
+    "definition": "A person who is hired to perform work or services in exchange for payment.",
+    "pronunciation": "/ɪmˈplɔɪ.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'employee' comes from the French 'employé', the past participle of 'employer', meaning 'to use' or 'to hire'. It entered English in the 19th century to denote a person hired to work.",
+        "targetText": "Cuvântul englezesc „employee” provine din francezul 'employé', participiul trecut al verbului 'employer', care înseamnă 'a folosi' sau 'a angaja'. A intrat în limba engleză în secolul al XIX-lea pentru a desemna o persoană angajată să muncească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "angajat",
+    "genus": "masculine",
+    "definition": "Persoană care acceptă un loc de muncă și primește salariu.",
+    "pronunciation": "/anɡaˈd͡ʒat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'angajat' is borrowed from the French 'engagé', the past participle of 'engager', meaning 'to hire' or 'to engage someone'.",
+        "targetText": "Cuvântul românesc „angajat” este împrumutat din franceza 'engagé', participiul verbului 'engager', care înseamnă 'a angaja' sau 'a angaja pe cineva'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "employer",
+      "targetText": "angajator"
+    },
+    {
+      "sourceText": "employment contract",
+      "targetText": "contract de muncă"
+    },
+    {
+      "sourceText": "employment",
+      "targetText": "ocupare"
+    },
+    {
+      "sourceText": "salary",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "employer",
+      "targetText": "angajator"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The employee works hard.",
+      "targetText": "Angajatul muncește din greu."
+    },
+    {
+      "sourceText": "The employee receives their salary at the end of the month.",
+      "targetText": "Angajatul primește salariul la sfârșitul lunii."
+    },
+    {
+      "sourceText": "Many employees are satisfied with their job.",
+      "targetText": "Mulți angajați sunt mulțumiți de locul lor de muncă."
+    },
+    {
+      "sourceText": "The employee signed the contract.",
+      "targetText": "Angajatul a semnat contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'angajat' sounds like 'engaged'—someone who is committed and involved, just like an employee."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'angajat' comes from French 'engagé', similar to the English 'engage', helping you link it to hiring or employment."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an employee as someone 'engaged' in work, which helps recall the Romanian 'angajat'."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'angajat' shares roots with 'engage', so connect it to the idea of being hired or employed."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

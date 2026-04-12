@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-light",
+  "parent": "ms-ro-a-aprinde-c9b87ff7@f7bef3f2949545e26d853c09f42e96a2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "light",
+    "definition": "To cause something to start burning or to illuminate.",
+    "pronunciation": "/laɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'light' originates from the Old English 'līhtan', meaning 'to ignite or set on fire', which is related to the adjective 'light' referring to brightness or illumination.",
+        "targetText": "Cuvântul englezesc „light” provine din engleza veche „līhtan”, care însemna „a aprinde sau a pune foc”, fiind legat de adjectivul „light” care se referă la luminozitate sau iluminare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb of regular conjugation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aprinde",
+    "definition": "A pune foc la ceva, astfel încât să ardă.",
+    "pronunciation": "/a aˈprinde/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a aprinde' derives from the Latin 'apprehendere', which originally meant 'to grasp'. In Romanian, the meaning evolved to 'to ignite' through the sense of 'grasping something and setting it on fire'.",
+        "targetText": "Verbul românesc 'a aprinde' derivă din latină, din 'apprehendere', care inițial însemna 'a apuca', dar în română a evoluat spre sensul de 'a aprinde focul'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation, Partizip: aprins."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "burn",
+      "targetText": "a arde"
+    },
+    {
+      "sourceText": "fire",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "candle",
+      "targetText": "lumânare"
+    },
+    {
+      "sourceText": "light",
+      "targetText": "lumină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "extinguish",
+      "targetText": "a stinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I light the candle.",
+      "targetText": "Eu aprind lumânarea."
+    },
+    {
+      "sourceText": "He lit the fire in the fireplace.",
+      "targetText": "El a aprins focul în șemineu."
+    },
+    {
+      "sourceText": "We light the campfire.",
+      "targetText": "Noi aprindem focul de tabără."
+    },
+    {
+      "sourceText": "Please light the light!",
+      "targetText": "Te rog, aprinde lumina!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a aprinde' sounds like 'a-prin-de', imagine pressing a button to turn on the light."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'aprinde' as related to 'apprehend'—you 'grasp' the fire to light it."
+    },
+    {
+      "lang": "en",
+      "text": "Use 'a aprinde' for both lighting fires and turning on lights, so it covers all 'switching on' actions."
+    },
+    {
+      "lang": "en",
+      "text": "The past participle 'aprins' sounds like 'caught'—something caught fire or was ignited."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

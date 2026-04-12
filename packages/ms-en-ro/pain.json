@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-pain",
+  "parent": "ms-ro-durere-bc6e6c2f@e27a0b75d4b317d1bf59948377422898",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pain",
+    "definition": "an unpleasant physical or emotional sensation indicating discomfort or suffering",
+    "pronunciation": "/peɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'pain' comes from the Old French 'peine', which derives from Latin 'poena' meaning 'punishment' or 'penalty'. Over time, it evolved to mean physical suffering or distress.",
+        "targetText": "Cuvântul englezesc „pain” provine din franceza veche „peine”, care derivă din latină „poena” însemnând „pedeapsă” sau „penalitate”. În timp, a evoluat să însemne suferință fizică sau durere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Pain is an important indicator of health issues.",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "durere",
+    "genus": "feminine",
+    "definition": "o senzație neplăcută fizică sau emoțională",
+    "pronunciation": "/duˈre.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian 'durere' comes from the Latin 'dolor', which also means 'pain', and has cognates in other Romance languages such as Italian 'dolore'.",
+        "targetText": "Cuvântul românesc „durere” provine din latinul „dolor”, care înseamnă „durere”. Are corespondențe în alte limbi romanice, precum italianul „dolore”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Există multe tipuri de dureri, atât fizice, cât și emoționale."
+  },
+  "senses": [
+    {
+      "gloss": "Emotional pain",
+      "explanation": {
+        "sourceText": "For emotional pain.",
+        "targetText": "Pentru dureri emoționale."
+      },
+      "examples": [
+        {
+          "sourceText": "Pain can sometimes be overwhelming.",
+          "targetText": "Durerea poate fi uneori copleșitoare."
+        }
+      ]
+    },
+    {
+      "gloss": "Physical pain",
+      "explanation": {
+        "sourceText": "For physical pain.",
+        "targetText": "Pentru dureri fizice."
+      },
+      "examples": [
+        {
+          "sourceText": "I have a sharp pain in my back.",
+          "targetText": "Am o durere ascuțită în spate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "headache",
+      "targetText": "durere de cap"
+    },
+    {
+      "sourceText": "pain relief",
+      "targetText": "ameliorare a durerii"
+    },
+    {
+      "sourceText": "painkiller",
+      "targetText": "medicament pentru durere"
+    },
+    {
+      "sourceText": "toothache",
+      "targetText": "durere de dinți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "well-being",
+      "targetText": "bunăstare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have a sharp pain in my back.",
+      "targetText": "Am o durere ascuțită în spate."
+    },
+    {
+      "sourceText": "Pain can sometimes be overwhelming.",
+      "targetText": "Durerea poate fi uneori copleșitoare."
+    },
+    {
+      "sourceText": "After the accident, I had severe pain.",
+      "targetText": "După accident, am avut dureri mari."
+    },
+    {
+      "sourceText": "She complained about headaches.",
+      "targetText": "Se plângea de dureri de cap."
+    },
+    {
+      "sourceText": "There are medicines that relieve pain.",
+      "targetText": "Există medicamente care reduc durerea."
+    },
+    {
+      "sourceText": "The dentist treats the pain.",
+      "targetText": "Stomatologul tratează durerea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'durere' sounds like 'durable'—think of pain as something that can last or persist."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'durere' with 'endure' to recall the idea of enduring pain."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'durere' as 'door' + 'air'—imagine pain entering through a door and filling the air."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'durere' with 'during'—pain often happens during difficult times."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

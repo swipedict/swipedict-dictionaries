@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-allergy",
+  "parent": "ms-ro-alergie-9b005fb8@bcfeafe45d944e4d8b68530d27ee5b6e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "allergy",
+    "genus": "feminine",
+    "definition": "An immune system's hypersensitive reaction to certain substances.",
+    "pronunciation": "/ˈæl.ɚ.dʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"allergy\" originates from the Greek 'allergia', composed of 'allos' meaning 'other' and 'ergon' meaning 'work' or 'effect'. It was adopted into medical terminology in the early 20th century.",
+        "targetText": "Cuvântul englezesc „allergy” provine din grecescul 'allergia', format din 'allos' (alt) și 'ergon' (efect), fiind preluat în terminologia medicală la începutul secolului XX."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "alergie",
+    "genus": "feminine",
+    "definition": "Reacție de hipersensibilitate a sistemului imunitar la anumite substanțe.",
+    "pronunciation": "/aˈler.d͡ʒi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"alergie\" is borrowed from French 'allergie', which in turn comes from the Greek 'allergia' (from 'allos' = other and 'ergon' = effect).",
+        "targetText": "Cuvântul românesc „alergie” este împrumutat din franceză 'allergie', care provine din grecescul 'allergia' (de la 'allos' = alt și 'ergon' = efect)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hay fever",
+      "targetText": "rinita alergică"
+    },
+    {
+      "sourceText": "immune system",
+      "targetText": "sistem imunitar"
+    },
+    {
+      "sourceText": "reaction",
+      "targetText": "reacție"
+    },
+    {
+      "sourceText": "symptom",
+      "targetText": "simptom"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "tolerance",
+      "targetText": "toleranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Many people suffer from an allergy to pollen.",
+      "targetText": "Mulți oameni suferă de o alergie la polen."
+    },
+    {
+      "sourceText": "The allergy causes sneezing and itching.",
+      "targetText": "Alergia provoacă strănut și mâncărime."
+    },
+    {
+      "sourceText": "He has an allergy to nuts.",
+      "targetText": "El are o alergie la nuci."
+    },
+    {
+      "sourceText": "The allergy can be treated with medication.",
+      "targetText": "Alergia poate fi tratată cu medicamente."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'alergie' sounds very similar to the English 'allergy', making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'allergy' as an 'altered reaction'—the Greek roots 'allos' (other) and 'ergon' (work) help explain this."
+    },
+    {
+      "lang": "en",
+      "text": "The 'g' in Romanian 'alergie' is pronounced like the English 'j' in 'jump', so it sounds like 'a-ler-jee-eh'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the word 'alergie' with common symptoms like sneezing and itching to make it more memorable."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

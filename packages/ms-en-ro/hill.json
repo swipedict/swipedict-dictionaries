@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-hill",
+  "parent": "ms-ro-deal-e3fec116@5f47f4b0ddf06c0a33845b3856be4c2e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:unknown",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hill",
+    "definition": "A natural elevation of the earth's surface, smaller than a mountain.",
+    "pronunciation": "/hɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"hill\" comes from Old English 'hyll', meaning a small natural elevation or mound, and is related to similar words in other Germanic languages.",
+        "targetText": "Cuvântul englezesc „hill” provine din engleza veche 'hyll', care însemna o mică înălțime naturală sau moviliță, fiind înrudit cu cuvinte similare din alte limbi germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "deal",
+    "genus": "neuter",
+    "definition": "O înălțime naturală a terenului, mai mică decât un munte.",
+    "pronunciation": "/deal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian word \"deal\" is uncertain; there is no confirmed Latin source, and its etymology remains debated.",
+        "targetText": "Originea cuvântului românesc „deal” este nesigură; nu există o sursă latină atestată, iar etimologia este disputată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mountain",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "elevation",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "height",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "valley",
+      "targetText": "vale"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "valley",
+      "targetText": "vale"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The hill is covered with grass.",
+      "targetText": "Dealul este acoperit cu iarbă."
+    },
+    {
+      "sourceText": "We hiked up the hill to enjoy the view.",
+      "targetText": "Am urcat pe deal pentru a ne bucura de priveliște."
+    },
+    {
+      "sourceText": "The small hill lies next to the river.",
+      "targetText": "Micul deal se află lângă râu."
+    },
+    {
+      "sourceText": "An old oak tree stands on the hill.",
+      "targetText": "Pe deal se află un stejar bătrân."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'hill' sounds like 'hill' in Romanian 'deal'—both mean a small natural rise in the land."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that a 'hill' is smaller than a mountain, just like 'deal' is smaller than 'munte' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English phrase 'over the hill' to remember 'hill' means a natural elevation, which matches the Romanian 'deal'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'deal' sounds like the English word 'deal' (a business agreement), but here it means a small hill—imagine making a 'deal' on top of a hill!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

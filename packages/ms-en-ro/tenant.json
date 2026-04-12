@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-tenant",
+  "parent": "ms-ro-chirias-c90a7b93@d04334dcf74b15e4542885b49d69896a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tenant",
+    "genus": "masculine",
+    "definition": "A person who rents and occupies land, a house, or an apartment from a landlord.",
+    "pronunciation": "/ˈtɛnənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"tenant\" originates from the Old French 'tenant', meaning 'holding' or 'possessing', which itself derives from the Latin verb 'tenere', meaning 'to hold'. It refers to someone who holds or occupies property by rent.",
+        "targetText": "Cuvântul englezesc „tenant” provine din franceza veche 'tenant', care înseamnă 'ținând' sau 'posedând', și derivă din verbul latin 'tenere', care înseamnă 'a ține'. Se referă la cineva care deține sau ocupă o proprietate prin închiriere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "chiriaș",
+    "genus": "masculine",
+    "definition": "Persoană care închiriază o locuință sau o casă contra cost.",
+    "pronunciation": "/kiˈri.aʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"chiriaș\" is formed from \"chirie\" (from Modern Greek \"kiriá\" via Turkish \"kira\") with the Romanian suffix \"-aș\".",
+        "targetText": "Cuvântul românesc „chiriaș” este format din „chirie” (din grecescul modern „kiriá” prin turcescul „kira”) și sufixul românesc „-aș”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "rent",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "landlord",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "locuință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "landlord",
+      "targetText": "proprietar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The tenant pays the rent every month.",
+      "targetText": "Chiriașul plătește chiria în fiecare lună."
+    },
+    {
+      "sourceText": "The tenant signed the lease agreement.",
+      "targetText": "Chiriașul a semnat contractul de închiriere."
+    },
+    {
+      "sourceText": "The tenant has been living in the apartment for a year.",
+      "targetText": "Chiriașul locuiește în apartament de un an."
+    },
+    {
+      "sourceText": "The tenant must keep the apartment clean.",
+      "targetText": "Chiriașul trebuie să păstreze apartamentul curat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'tenant' as someone who 'holds' a place temporarily—think of 'tenure' which shares the same root."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'chiriaș' sounds like 'key-ree-ash'—imagine a tenant holding the 'key' to their rented home."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'rent' and the Romanian 'chirie'—both relate to paying for a place to live."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-aș' in Romanian often denotes a person associated with something, so 'chiriaș' is the person associated with 'chirie' (rent)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

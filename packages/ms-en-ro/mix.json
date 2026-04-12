@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-mix",
+  "parent": "ms-ro-a-amesteca-91115bc7@9e2667175509d5fc7bd4e378faa9156b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mix",
+    "definition": "To combine or shuffle cards to change their order randomly.",
+    "pronunciation": "/mɪks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'mix' originates from the Latin 'miscere', meaning 'to mingle' or 'to blend'. It entered English through Old English and has been used to describe the action of combining substances or elements.",
+        "targetText": "Cuvântul englezesc „mix” provine din latină, din verbul 'miscere', care înseamnă 'a amesteca' sau 'a combina'. A intrat în limba engleză prin engleza veche și este folosit pentru a descrie acțiunea de a combina substanțe sau elemente."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a amesteca",
+    "definition": "A combina sau a schimba ordinea cărților pentru a le face aleatorii.",
+    "pronunciation": "/a ameˈstʃeka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a amesteca' derives from the Latin verb 'admiscēre', meaning 'to add' or 'to mix'.",
+        "targetText": "Verbul românesc „a amesteca” provine din verbul latin 'admiscēre', care înseamnă 'a adăuga' sau 'a amesteca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der ersten Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cards",
+      "targetText": "cărți (de joc)"
+    },
+    {
+      "sourceText": "mix (general)",
+      "targetText": "a amesteca"
+    },
+    {
+      "sourceText": "play (cards)",
+      "targetText": "a juca (cărți)"
+    },
+    {
+      "sourceText": "deal (cards)",
+      "targetText": "a împărți (cărțile)"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sort",
+      "targetText": "a sorta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I shuffle the cards before the game.",
+      "targetText": "Eu amestec cărțile înainte de joc."
+    },
+    {
+      "sourceText": "Can you please mix the cards?",
+      "targetText": "Poți, te rog, să amesteci cărțile?"
+    },
+    {
+      "sourceText": "He mixed the cards thoroughly.",
+      "targetText": "El a amestecat cărțile temeinic."
+    },
+    {
+      "sourceText": "After mixing, the cards are dealt.",
+      "targetText": "După amestecare, cărțile sunt împărțite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'mix' comes from Latin 'miscere', meaning to blend or combine, just like the Romanian 'a amesteca'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mix' as putting ingredients together, which helps you remember 'a amesteca' means to mix or shuffle."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'amesteca' in Romanian can remind you of 'a mess'—when you mix things, it can get a bit messy!"
+    },
+    {
+      "lang": "en",
+      "text": "When you shuffle cards, imagine you 'mix' them like a salad, just like 'a amesteca' means to mix ingredients."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

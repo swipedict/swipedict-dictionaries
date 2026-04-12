@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-in",
+  "parent": "ms-ro-in-2b2e80c2@5e307778cd7f5f28b765faacd9eafd43",
+  "part_of_speech": "preposition",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "in",
+    "definition": "A preposition used to indicate location or direction within something.",
+    "pronunciation": "/ɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"in\" originates from Old English \"in\", which comes from Latin \"in\", meaning \"inside\" or \"within\".",
+        "targetText": "Cuvântul englezesc „in” provine din engleza veche „in”, care la rândul său derivă din latină „in”, cu sensul de „înăuntru” sau „în interior”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în",
+    "definition": "Prepoziție care exprimă poziția sau direcția în interiorul a ceva.",
+    "pronunciation": "/ɨn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „în” comes directly from Latin 'in', with the same prepositional function.",
+        "targetText": "Cuvântul românesc „în” provine direct din latină, din 'in', având aceeași funcție prepozițională."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "on",
+      "targetText": "pe"
+    },
+    {
+      "sourceText": "next to",
+      "targetText": "lângă"
+    },
+    {
+      "sourceText": "above",
+      "targetText": "deasupra"
+    },
+    {
+      "sourceText": "under",
+      "targetText": "sub"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The book is in the bag.",
+      "targetText": "Cartea este în geantă."
+    },
+    {
+      "sourceText": "I am going in the house.",
+      "targetText": "Merg în casă."
+    },
+    {
+      "sourceText": "There are many people in the city.",
+      "targetText": "În oraș sunt mulți oameni."
+    },
+    {
+      "sourceText": "The picture hangs in the kitchen.",
+      "targetText": "Tabloul atârnă în bucătărie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian 'în' sounds almost exactly like the English 'in', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'în' comes directly from Latin 'in', just like the English preposition."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'în' as always indicating something is inside or within something else."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine walking 'in' a room — in Romanian, you say 'în', which sounds very similar."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

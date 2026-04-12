@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-tooth",
+  "parent": "ms-ro-dinte-d87c5116@6a1abbb52618f8d406048021495e04d0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "tooth",
+    "genus": "masculine",
+    "definition": "a hard, bony structure in the jaw used for biting and chewing food",
+    "pronunciation": "/tuːθ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"tooth\" comes from Old English \"tōþ\", which traces back to the Proto-Indo-European root meaning \"sharp\" or \"to cut.\"",
+        "targetText": "Cuvântul englezesc „tooth” provine din engleza veche „tōþ”, care are rădăcini indo-europene ce înseamnă „ascuțit” sau „a tăia”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Teeth are essential for chewing food and helping with speech articulation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dinte",
+    "genus": "masculine",
+    "definition": "o parte tare, osoasă a maxilarului, folosită pentru a mesteca mâncarea",
+    "pronunciation": "/ˈdinte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"dinte\" derives from the Latin \"dentem\", plural \"dentes\", meaning \"teeth\", with an Indo-European root meaning \"sharp.\"",
+        "targetText": "Cuvântul românesc „dinte“ provine din latină, de la „dentem“, plural „dentes“, însemnând „dinți“, cu o rădăcină indo-europeană ce înseamnă „ascuțit“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "În limba română există multe expresii care folosesc cuvântul „dinte“, mai ales în contexte legate de sănătate."
+  },
+  "senses": [
+    {
+      "gloss": "tooth (figurative: sharp)",
+      "explanation": {
+        "sourceText": "Uses the word metaphorically to describe something sharp or cutting.",
+        "targetText": "Folosește cuvântul metaforic pentru a descrie ceva ascuțit sau tăios."
+      },
+      "examples": [
+        {
+          "sourceText": "The weather has a sharp tooth today.",
+          "targetText": "Vremea are un dinte ascuțit astăzi."
+        }
+      ]
+    },
+    {
+      "gloss": "tooth (body part)",
+      "explanation": {
+        "sourceText": "Refers to the body structure in the mouth used for chewing.",
+        "targetText": "Se referă la structura corporală din gură folosită pentru mestecat."
+      },
+      "examples": [
+        {
+          "sourceText": "I have a toothache.",
+          "targetText": "Am un dinte inflamat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "chew",
+      "targetText": "mesteca"
+    },
+    {
+      "sourceText": "mouth",
+      "targetText": "gură"
+    },
+    {
+      "sourceText": "dentist",
+      "targetText": "dentist"
+    },
+    {
+      "sourceText": "gum",
+      "targetText": "gingie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "jaw",
+      "targetText": "maxilar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I definitely need to go to the dentist.",
+      "targetText": "Trebuie să merg neapărat la dentist."
+    },
+    {
+      "sourceText": "My teeth are very sensitive.",
+      "targetText": "Dinții mei sunt foarte sensibili."
+    },
+    {
+      "sourceText": "Brushing teeth is important for health.",
+      "targetText": "Periajul dinților este important pentru sănătate."
+    },
+    {
+      "sourceText": "He lost a tooth.",
+      "targetText": "A pierdut un dinte."
+    },
+    {
+      "sourceText": "The dentist gave me a filling.",
+      "targetText": "Dentistul mi-a făcut un plomb."
+    },
+    {
+      "sourceText": "It is important to visit the dentist regularly.",
+      "targetText": "Este important să mergi regulat la dentist."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"dinte\" sounds like \"dint\" in English, which can remind you of the small ridges on a tooth."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"dental\" to connect with \"dinte\" since both relate to teeth."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine biting into a delicious apple and feeling your \"dinte\" working hard—that's your Romanian word for tooth!"
+    },
+    {
+      "lang": "en",
+      "text": "The word \"dinte\" starts with 'din', like 'dinner'—teeth are important for eating your dinner."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

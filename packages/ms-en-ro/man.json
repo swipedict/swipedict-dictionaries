@@ -1,0 +1,122 @@
+{
+  "id": "ms-en-ro-man",
+  "parent": "ms-ro-barbat-12b5edb8@3780281e0289c505382f35d163d3d384",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "man",
+    "genus": "masculine",
+    "definition": "an adult male human being",
+    "pronunciation": "/mæn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"man\" originates from Old English \"mann\", which originally meant \"person\" or \"human being\" and later came to specifically denote an adult male.",
+        "targetText": "Cuvântul englezesc „man” provine din engleza veche „mann”, care inițial însemna „persoană” sau „ființă umană” și ulterior a ajuns să desemneze în mod specific un bărbat adult."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In many cultures, a man is traditionally considered the primary breadwinner and head of the family."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bărbat",
+    "genus": "masculine",
+    "definition": "o persoană adultă de sex masculin",
+    "pronunciation": "/bəˈrbat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bărbat\" comes from Old Slavic \"bratŭ\" (brother), with its meaning evolving in Romanian to \"man\" or \"husband\".",
+        "targetText": "Cuvântul românesc „bărbat” provine din vechiul slav „bratŭ” („frate”), cu evoluție semantică în română către sensul de „bărbat adult” sau „soț”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Bărbat“ poate fi folosit și pentru a desemna „soț”."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "brother",
+      "targetText": "frate"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "son",
+      "targetText": "fiul"
+    },
+    {
+      "sourceText": "father",
+      "targetText": "tată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "woman",
+      "targetText": "femeie"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The man is wearing a suit to work.",
+      "targetText": "Bărbatul poartă un costum la muncă."
+    },
+    {
+      "sourceText": "A good man helps others.",
+      "targetText": "Un bărbat bun ajută pe ceilalți."
+    },
+    {
+      "sourceText": "The man has many hobbies.",
+      "targetText": "Bărbatul are multe hobby-uri."
+    },
+    {
+      "sourceText": "He is a strong man.",
+      "targetText": "El este un bărbat puternic."
+    },
+    {
+      "sourceText": "The man has a dog.",
+      "targetText": "Bărbatul are un câine."
+    },
+    {
+      "sourceText": "We met a friendly man.",
+      "targetText": "Am întâlnit un bărbat prietenos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"bărbat\" sounds like \"bar-bat\" — imagine a strong man batting at challenges in a bar to protect his family."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"bărbat\" as related to \"brother\" since it originally comes from a word meaning brother, helping you link it to male family members."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"man\" is simple and common, while \"bărbat\" is a bit longer — picture a man saying \"bar-bat\" proudly as a grown male."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"bărbat\" with the English word \"bar\" and \"bat\" to create a vivid image of a man standing strong, like a protector in a bar fight."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

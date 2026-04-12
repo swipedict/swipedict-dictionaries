@@ -1,0 +1,204 @@
+{
+  "id": "ms-en-ro-contain",
+  "parent": "ms-ro-a-contine-3721320b@8c65b27fa428fa27ec8dc96c6785bdba",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "contain",
+    "definition": "to have something inside or include something within",
+    "pronunciation": "/kənˈteɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"contain\" originates from the Latin verb \"continere,\" which means \"to hold together\" or \"to enclose.\" It entered English through Old French and has been used to express the idea of holding or including something within.",
+        "targetText": "Cuvântul englezesc „contain” provine din verbul latin „continere”, care înseamnă „a ține împreună” sau „a închide”. A intrat în limba engleză prin franceza veche și este folosit pentru a exprima ideea de a ține sau a include ceva în interior."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb. Commonly used in phrases like \"to contain something\" or \"contained in something.\""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a conține",
+    "definition": "a include sau a cuprinde ceva",
+    "pronunciation": "/a konˈt͡sine/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a conține” derives from the Latin „continere,” meaning \"to hold\" or \"to include,\" expressing the concept of containing something.",
+        "targetText": "Verbul românesc „a conține” provine din latină, din „continere”, care înseamnă „a ține” sau „a cuprinde” și exprimă ideea de a include ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 3rd conjugation. Often used to describe quantities or components within a larger context."
+  },
+  "senses": [
+    {
+      "gloss": "Content",
+      "explanation": {
+        "sourceText": "Refers to what is inside or included in something.",
+        "targetText": "Se referă la ceea ce este inclus într-un obiect sau context."
+      },
+      "examples": [
+        {
+          "sourceText": "The content of the book is very interesting.",
+          "targetText": "Conținutul cărții este foarte interesant."
+        }
+      ]
+    },
+    {
+      "gloss": "Extent",
+      "explanation": {
+        "sourceText": "Can also refer to the scope or range of something.",
+        "targetText": "Poate desemna și extinderea sau aria unui lucru."
+      },
+      "examples": [
+        {
+          "sourceText": "The extent of the project is large.",
+          "targetText": "Extinderea proiectului este mare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "content",
+      "targetText": "conținut"
+    },
+    {
+      "sourceText": "scope",
+      "targetText": "domeniu"
+    },
+    {
+      "sourceText": "packaging",
+      "targetText": "ambalaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "remove",
+      "targetText": "a îndepărta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The package contains important documents.",
+      "targetText": "Pachetul conține documente importante."
+    },
+    {
+      "sourceText": "Does this soup contain gluten?",
+      "targetText": "Conține această supă gluten?"
+    },
+    {
+      "sourceText": "The report contains all relevant information.",
+      "targetText": "Raportul conține toate informațiile relevante."
+    },
+    {
+      "sourceText": "We contain the results for further examinations.",
+      "targetText": "Noi conținem rezultatele pentru examinări ulterioare."
+    },
+    {
+      "sourceText": "Do you contain all necessary data?",
+      "targetText": "Conțineți toate informațiile necesare?"
+    },
+    {
+      "sourceText": "The books contain many useful tips.",
+      "targetText": "Cărțile conțin multe sfaturi utile."
+    },
+    {
+      "sourceText": "I have carefully contained the materials.",
+      "targetText": "Am conținut materialele cu atenție."
+    },
+    {
+      "sourceText": "They contained many data in their analysis.",
+      "targetText": "Ei au conținut multe date în analiza lor."
+    },
+    {
+      "sourceText": "Previously, this series contained many interesting articles.",
+      "targetText": "În trecut, această serie conținea multe articole interesante."
+    },
+    {
+      "sourceText": "I had contained all relevant statistics before the conversation.",
+      "targetText": "Continasem toate statisticile relevante înainte de a purta conversația."
+    },
+    {
+      "sourceText": "I will contain many new articles in the new edition.",
+      "targetText": "Voi conține multe articole noi în noua ediție."
+    },
+    {
+      "sourceText": "The new book will contain valuable information.",
+      "targetText": "Cartea nouă va conține informații valoroase."
+    },
+    {
+      "sourceText": "I would contain important notes if I could.",
+      "targetText": "Aș conține informații importante, dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you can contain such details.",
+      "targetText": "Este important să poți conține astfel de detalii."
+    },
+    {
+      "sourceText": "Contain this information in your presentation!",
+      "targetText": "Conține aceste informații în prezentarea ta!"
+    },
+    {
+      "sourceText": "Contain all important data!",
+      "targetText": "Conțineți toate datele importante!"
+    },
+    {
+      "sourceText": "The contained materials are very useful.",
+      "targetText": "Materialele conținute sunt foarte utile."
+    },
+    {
+      "sourceText": "The files are now contained.",
+      "targetText": "Fișierele sunt acum conținute."
+    },
+    {
+      "sourceText": "By containing these parts, the results improved.",
+      "targetText": "Conținând aceste părți, rezultatele s-au îmbunătățit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"contain\" often relates to holding or including something inside, like a container holds items."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb \"a conține\" sounds similar to \"contain,\" making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a food label: \"This soup contains vegetables\" – \"Această supă conține legume\" to link practical usage."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a box that contains objects to remember the meaning of \"a conține.\""
+    },
+    {
+      "lang": "en",
+      "text": "Note that \"contain\" is irregular in English, so pay attention to its forms in different tenses."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

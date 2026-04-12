@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-pay-cash",
+  "parent": "ms-ro-a-plati-cash-5dcf261f@d0840a5e80c4d9a2aee0a5741fae06b3",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pay cash",
+    "definition": "To make a payment using physical money directly, without using electronic or other payment methods.",
+    "pronunciation": "/peɪ kæʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase \"pay cash\" combines the verb \"pay,\" which comes from the Old French 'paier' meaning 'to settle a debt,' with the noun \"cash,\" derived from the Middle French 'caisse' meaning 'money box' or 'funds,' referring to physical money.",
+        "targetText": "Expresia „pay cash” combină verbul „pay”, care provine din franceza veche 'paier' însemnând „a plăti o datorie”, cu substantivul „cash”, derivat din franceza mijlocie 'caisse' care înseamnă „cutie de bani” sau „fonduri”, referindu-se la bani fizici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase using the verb \"pay\" and the loanword \"cash.\""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a plăti cash",
+    "definition": "A efectua o plată direct cu bani lichizi, fără a folosi mijloace electronice sau alte metode de plată.",
+    "pronunciation": "/a pləˈti kaʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a plăti” derives from the Latin „placitare,” which meant 'to claim a debt.' The word „cash” is a loanword from the English „cash,” meaning 'physical money.'",
+        "targetText": "Verbul românesc „a plăti” provine din latinul „placitare”, care însemna „a revendica o datorie”. Termenul „cash” este un împrumut din englezescul „cash”, cu sensul de „bani lichizi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase with the verb „a plăti” and the loanword „cash”."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cash",
+      "targetText": "bani lichizi"
+    },
+    {
+      "sourceText": "to pay",
+      "targetText": "a plăti"
+    },
+    {
+      "sourceText": "credit card",
+      "targetText": "card de credit"
+    },
+    {
+      "sourceText": "invoice",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "pay on invoice",
+      "targetText": "a plăti pe factură"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I would like to pay cash, please.",
+      "targetText": "Aș dori să plătesc cash, vă rog."
+    },
+    {
+      "sourceText": "Can I pay cash here?",
+      "targetText": "Pot să plătesc cash aici?"
+    },
+    {
+      "sourceText": "Many people prefer to pay cash to keep track of their expenses.",
+      "targetText": "Mulți oameni preferă să plătească cash pentru a avea control asupra cheltuielilor."
+    },
+    {
+      "sourceText": "Paying cash is often faster than using a card.",
+      "targetText": "A plăti cash este adesea mai rapid decât cu cardul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"cash\" means physical money in English, so \"a plăti cash\" literally means to pay with real money."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English phrase \"pay cash\" when you want to say \"a plăti cash\" in Romanian—both mean paying directly with money."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine handing over actual bills and coins when you say \"a plăti cash\"—this helps connect the phrase to paying physically."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Romanian verb \"a plăti\" to the English \"pay\"—both mean to settle a debt or make a payment."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

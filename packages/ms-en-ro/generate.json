@@ -1,0 +1,132 @@
+{
+  "id": "ms-en-ro-generate",
+  "parent": "ms-ro-a-genera-40a4424e@87a26053e18d0925b4a6d51f91f4df0e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "generate",
+    "definition": "to produce or create something, often used in technical or creative contexts",
+    "pronunciation": "/ˈdʒɛnəˌreɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"generate\" comes from the Latin \"generare,\" meaning to produce or create.",
+        "targetText": "Cuvântul englezesc „generate“ provine din latină, de la „generare“, cu sensul de a produce sau a crea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb, frequently used in technical and creative contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a genera",
+    "definition": "a crea sau a produce ceva",
+    "pronunciation": "/a d͡ʒeˈneɾa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a genera“ derives from Latin „generare“, meaning to produce or create. It covers both material and immaterial creation.",
+        "targetText": "Verbul românesc „a genera“ derivă din latină, de la „generare“, cu sensul de „a produce“ sau „a crea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Important for creative and technical processes."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "production",
+      "targetText": "fabricare"
+    },
+    {
+      "sourceText": "innovation",
+      "targetText": "inovație"
+    },
+    {
+      "sourceText": "creation",
+      "targetText": "creație"
+    },
+    {
+      "sourceText": "product",
+      "targetText": "produs"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "destroy",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I generate a new idea.",
+      "targetText": "Eu generez o idee nouă."
+    },
+    {
+      "sourceText": "Do you generate the report?",
+      "targetText": "Generezi raportul?"
+    },
+    {
+      "sourceText": "She generates a solution.",
+      "targetText": "Ea generează o soluție."
+    },
+    {
+      "sourceText": "We generate new knowledge.",
+      "targetText": "Noi generăm cunoștințe noi."
+    },
+    {
+      "sourceText": "Do you (plural) generate the products?",
+      "targetText": "Generați produsele?"
+    },
+    {
+      "sourceText": "They generate innovative solutions.",
+      "targetText": "Ei generează soluții inovatoare."
+    },
+    {
+      "sourceText": "I have generated the program.",
+      "targetText": "Am generat programul."
+    },
+    {
+      "sourceText": "He generated the image.",
+      "targetText": "El genera imaginea."
+    },
+    {
+      "sourceText": "I will generate new content.",
+      "targetText": "Voi genera noi conținuturi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'generator' that produces electricity—'generate' means to produce or create something."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'generate' by linking it to 'generation'—both relate to producing or creating new things."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a scientist generating new ideas in a lab to recall the meaning of 'a genera'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a genera' sounds like 'generate' in English, making it easier to remember as they share the same Latin root."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

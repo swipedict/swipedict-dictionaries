@@ -1,0 +1,144 @@
+{
+  "id": "ms-en-ro-store",
+  "parent": "ms-ro-a-depozita-f053f8ae@a5917e5573212b0469ccf200754c6847",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "store",
+    "definition": "to keep or put something away safely, often in a particular place or container for future use",
+    "pronunciation": "/stɔːr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"store\" originates from the Old French \"estorer\", meaning to build or establish, which itself comes from Latin \"instaurare\" meaning to renew or restore.",
+        "targetText": "Cuvântul englezesc „store“ provine din vechea limbă franceză „estorer“, care înseamnă a construi sau a înființa, iar aceasta provine din latină „instaurare“, care înseamnă a reînnoi sau a restaura."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is commonly used to describe the action of keeping goods or items safely. In contexts like computing, it also refers to saving data for later use."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a depozita",
+    "definition": "a păstra sau a stoca ceva, adesea într-o cameră sau recipient specific",
+    "pronunciation": "/de.po.ziˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a depozita“ comes from the Latin „deponere“, meaning to put down or deposit, and is related to the noun „depozit“, a place where items are kept.",
+        "targetText": "Verbul românesc „a depozita“ provine din latină, de la „deponere“, care înseamnă „a pune jos, a depozita“, fiind legat de substantivul „depozit“, locul unde se păstrează obiecte."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regulă de conjugare: verb regulat de prima conjugare (-a). Este folosit frecvent în comerț și în depozitarea mărfurilor."
+  },
+  "senses": [
+    {
+      "gloss": "To put away goods safely",
+      "explanation": {
+        "sourceText": "When something is kept securely for future use.",
+        "targetText": "Atunci când păstrezi ceva în siguranță."
+      },
+      "examples": [
+        {
+          "sourceText": "I will store the newly bought furniture.",
+          "targetText": "Voi depozita mobila nou cumpărată."
+        }
+      ]
+    },
+    {
+      "gloss": "Storage place",
+      "explanation": {
+        "sourceText": "Used to describe a place where things are kept.",
+        "targetText": "Folosit pentru a descrie un loc unde se păstrează lucruri."
+      },
+      "examples": [
+        {
+          "sourceText": "The goods are stored in the warehouse.",
+          "targetText": "Produsele sunt depozitate în depozit."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "storage",
+      "targetText": "păstrare"
+    },
+    {
+      "sourceText": "container",
+      "targetText": "recipient"
+    },
+    {
+      "sourceText": "warehouse",
+      "targetText": "depozit"
+    },
+    {
+      "sourceText": "stock",
+      "targetText": "rezervă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "remove",
+      "targetText": "a scoate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I store the furniture in the basement.",
+      "targetText": "Îmi depozitez mobila în pivniță."
+    },
+    {
+      "sourceText": "I have stored the goods.",
+      "targetText": "Am depozitat produsele."
+    },
+    {
+      "sourceText": "I will store the supplies.",
+      "targetText": "Voi depozita proviziile."
+    },
+    {
+      "sourceText": "I would store the boxes if I had time.",
+      "targetText": "Aș depozita cutiile dacă aș avea timp."
+    },
+    {
+      "sourceText": "While storing the books, I also sort them.",
+      "targetText": "Depozitând cărțile, le și sortezi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of a 'store' as a place where things are kept safe—just like you 'store' your belongings in a closet or a warehouse."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the word 'store' sounds like 'store' in English, which means a shop or a place to keep things—this helps link it to 'a depozita'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'store' your treasures in a 'deposit' box—this connects the Romanian 'depozita' with the English 'store'."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'deposit' in English shares the same root as 'a depozita', so think of depositing money as safely putting something away."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

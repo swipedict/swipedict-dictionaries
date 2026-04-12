@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-village",
+  "parent": "ms-ro-sat-8278e0d8@d646864f7e7e22cee100dcff315120ea",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "village",
+    "definition": "a small community or group of houses in a rural area, smaller than a town",
+    "pronunciation": "/ˈvɪlɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"village\" comes from the Old French \"village\", which referred to a group of houses or a settlement. It ultimately derives from the Latin \"villaticum\", meaning a farmstead or estate.",
+        "targetText": "Cuvântul englezesc „village” provine din franceza veche „village”, care desemna un grup de case sau o așezare. În cele din urmă derivă din latină, din „villaticum”, care însemna o fermă sau o moșie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Villages are often rural communities with fewer inhabitants than towns.",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sat",
+    "genus": "neuter",
+    "definition": "o așezare mică sau comună",
+    "pronunciation": "/sat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"sat\" comes from Old Slavic \"selo\" or \"sătŭ\", which referred to a village or rural settlement.",
+        "targetText": "Cuvântul românesc „sat” provine din slavona veche „selo” sau „sătŭ”, care desemna o așezare rurală sau un sat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Villages are often smaller communities with a rural character."
+  },
+  "senses": [
+    {
+      "gloss": "settlement",
+      "explanation": {
+        "sourceText": "In a broader sense, 'sat' denotes a small settlement.",
+        "targetText": "În sens larg, „sat“ desemnează o așezare mică."
+      },
+      "examples": [
+        {
+          "sourceText": "The village is known for its beauty.",
+          "targetText": "Satul este cunoscut pentru frumusețea sa."
+        }
+      ]
+    },
+    {
+      "gloss": "hamlet",
+      "explanation": {
+        "sourceText": "'Sat' can also refer to a hamlet, an even smaller settlement.",
+        "targetText": "„Sat“ poate desemna și un cătun, o așezare mai mică."
+      },
+      "examples": [
+        {
+          "sourceText": "There is a hamlet in this region.",
+          "targetText": "Există un cătun în această regiune."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "farm",
+      "targetText": "fermă"
+    },
+    {
+      "sourceText": "community",
+      "targetText": "comunitate"
+    },
+    {
+      "sourceText": "country",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "neighbor",
+      "targetText": "vecin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I live in a small village.",
+      "targetText": "Locuiesc într-un sat mic."
+    },
+    {
+      "sourceText": "The village has a very beautiful landscape.",
+      "targetText": "Satul are un peisaj foarte frumos."
+    },
+    {
+      "sourceText": "There is a small shop in the village.",
+      "targetText": "În sat există un mic magazin."
+    },
+    {
+      "sourceText": "The people in the village are very friendly.",
+      "targetText": "Oamenii din sat sunt foarte prietenoși."
+    },
+    {
+      "sourceText": "The village is known for its traditions.",
+      "targetText": "Satul este cunoscut pentru tradițiile sale."
+    },
+    {
+      "sourceText": "A festival takes place in the village every summer.",
+      "targetText": "În sat are loc o sărbătoare în fiecare vară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'sat' by thinking of a 'satellite' orbiting a small village—small but important."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a quiet village where everyone says 'sat' instead of 'set'—easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'sat' with the English word 'settlement' to remember it means a small community."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sat' as sounding like 'sat' in English, as if the village 'sat' quietly in the countryside."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

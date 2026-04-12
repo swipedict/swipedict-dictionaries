@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-training",
+  "parent": "ms-ro-formare-af32a8eb@6444168b32f93a83d37e0c6fcb458e9d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "training",
+    "genus": "feminine",
+    "definition": "The process of learning skills and acquiring knowledge, especially for a specific job or profession.",
+    "pronunciation": "/ˈtreɪnɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"training\" comes from the verb \"train,\" which derives from the Old French 'trainer' meaning 'to drag, pull,' and ultimately from Latin 'trahere' meaning 'to draw or pull.' Over time, it evolved to mean the act of teaching or developing skills.",
+        "targetText": "Cuvântul englezesc „training” provine din verbul „train”, care derivă din vechiul francez 'trainer', însemnând 'a trage, a trage după sine', și în cele din urmă din latină 'trahere', care înseamnă 'a trage sau a trage după sine'. În timp, a evoluat să însemne actul de a învăța sau de a dezvolta abilități."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "formare",
+    "genus": "feminine",
+    "definition": "Procesul de învățare și dobândire a cunoștințelor și abilităților, în special în context profesional.",
+    "pronunciation": "/forˈmare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun „formare” comes directly from the Latin verb 'formare', meaning 'to shape' or 'to form', which is the root of many Romance languages.",
+        "targetText": "Substantivul românesc „formare” provine direct din verbul latin 'formare', care înseamnă 'a forma', 'a modela' și stă la baza multor limbi romanice."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "trainer",
+      "targetText": "formator"
+    },
+    {
+      "sourceText": "apprenticeship",
+      "targetText": "ucenicie"
+    },
+    {
+      "sourceText": "school",
+      "targetText": "școală"
+    },
+    {
+      "sourceText": "further training",
+      "targetText": "perfecționare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignorance",
+      "targetText": "necunoaștere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The training lasts three years.",
+      "targetText": "Formarea durează trei ani."
+    },
+    {
+      "sourceText": "He completed training as an electrician.",
+      "targetText": "El a făcut o formare ca electrician."
+    },
+    {
+      "sourceText": "Many young people start training after school.",
+      "targetText": "Mulți tineri încep o formare după școală."
+    },
+    {
+      "sourceText": "Training is important for starting a career.",
+      "targetText": "Formarea este importantă pentru intrarea în profesie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'training' comes from 'train,' which originally meant to pull or drag—think of pulling your skills forward!"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'formare' sounds like 'form' in English, helping you recall it means shaping or forming skills."
+    },
+    {
+      "lang": "en",
+      "text": "Both 'training' and 'formare' involve developing or shaping abilities, linking the English and Romanian concepts."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine yourself in training as molding clay—'formare' literally means to form or shape, just like your skills."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-bus-stop",
+  "parent": "ms-ro-statie-2a28010d@f91e1926639fcb2f98faa67b7f76f3e8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bus stop",
+    "genus": "feminine",
+    "definition": "A designated place where buses or trams stop to allow passengers to get on or off.",
+    "pronunciation": "/ˈbʌs stɒp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'bus stop' combines 'bus', which is short for 'omnibus' derived from Latin meaning 'for all', and 'stop', from Old English 'stoppian', meaning to cease movement or halt.",
+        "targetText": "Cuvântul englezesc „bus stop” combină „bus”, prescurtare de la „omnibus” derivat din latină, însemnând „pentru toți”, și „stop”, din engleza veche „stoppian”, care înseamnă a opri mișcarea sau a se opri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stație",
+    "genus": "feminine",
+    "definition": "Loc unde mijloacele de transport în comun, cum ar fi autobuzele sau tramvaiele, opresc pentru a permite urcarea sau coborârea pasagerilor.",
+    "pronunciation": "/staˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „stație” comes from the Latin 'statio', meaning 'a standing place' or 'post', used in the Middle Ages to designate a stopping or resting place for travelers.",
+        "targetText": "Cuvântul românesc „stație” provine din latină, din 'statio', care însemna 'loc de staționare' sau 'post', folosit în Evul Mediu pentru a desemna un loc de oprire sau popas pentru călători."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "timetable",
+      "targetText": "orar"
+    },
+    {
+      "sourceText": "tram",
+      "targetText": "tramvai"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The bus stop is only 200 meters from here.",
+      "targetText": "Stația este la doar 200 de metri de aici."
+    },
+    {
+      "sourceText": "Many people are waiting for the bus at the bus stop.",
+      "targetText": "La stație așteaptă mulți oameni autobuzul."
+    },
+    {
+      "sourceText": "The bus stops at every bus stop.",
+      "targetText": "Autobuzul oprește la fiecare stație."
+    },
+    {
+      "sourceText": "Please get off at the next bus stop.",
+      "targetText": "Vă rugăm să coborâți la următoarea stație."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word „stație” sounds like the English word 'station', which helps you remember it as a place where vehicles stop."
+    },
+    {
+      "lang": "en",
+      "text": "„Stație” comes from Latin 'statio', similar to Italian 'stazione', so if you know other Romance languages, it’s easier to learn."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a big sign at every „stație” that says 'Stop' to remember it’s a stopping point for buses and trams."
+    },
+    {
+      "lang": "en",
+      "text": "Connect „stație” with the English verb 'stand' since vehicles stand still there to pick up and drop off passengers."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-transmitter",
+  "parent": "ms-ro-post-de-emisie-b6f9f50b@2af6c13c78dbabdc1d5b6826e3a1bcfc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "transmitter",
+    "definition": "A device or station that sends out signals, especially radio or television signals.",
+    "pronunciation": "/trænsˈmɪtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'transmitter' comes from the verb 'transmit', which derives from Latin 'transmittere', meaning 'to send across'.",
+        "targetText": "Cuvântul englezesc „transmitter” provine de la verbul „transmit”, care derivă din latină „transmittere”, însemnând „a trimite peste”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "post de emisie",
+    "genus": "neuter",
+    "definition": "Un dispozitiv sau o stație care transmite semnale, în special semnale de radio sau televiziune.",
+    "pronunciation": "/post de eˈmi.si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term 'post de emisie' consists of 'post' (from Latin 'postis' meaning 'post, stake') and 'emisie' (from Latin 'emissio', meaning 'sending out'), together referring to a broadcasting station.",
+        "targetText": "Termenul românesc „post de emisie” este compus din „post” (din latină 'postis', însemnând 'stâlp, post') și „emisie” (din latină 'emissio', însemnând 'emitere'), desemnând o instalație de transmisie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Receiver",
+      "targetText": "receptor"
+    },
+    {
+      "sourceText": "Television",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "Broadcast",
+      "targetText": "radiodifuziune"
+    },
+    {
+      "sourceText": "Signal",
+      "targetText": "semnal"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The television transmitter broadcasts the program live.",
+      "targetText": "Postul de emisie transmite programul în direct."
+    },
+    {
+      "sourceText": "The transmitter sends on multiple frequencies.",
+      "targetText": "Postul de emisie emite pe mai multe frecvențe."
+    },
+    {
+      "sourceText": "The transmitter has a large range.",
+      "targetText": "Postul de emisie are o rază mare de acoperire."
+    },
+    {
+      "sourceText": "The transmitter was modernized to transmit digital signals.",
+      "targetText": "Postul de emisie a fost modernizat pentru a transmite semnale digitale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'transmitter' by thinking of 'transmit' which means to send something across, just like a 'post de emisie' sends signals."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'emisie' sounds like the English 'emission', both meaning 'sending out', which helps link 'post de emisie' to 'transmitter'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'post' as a station or place, so 'post de emisie' is literally a 'place of emission' or a broadcasting station."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'post de emisie' with the English word 'post' (like a mail post) that sends messages, helping you remember it means 'transmitter'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

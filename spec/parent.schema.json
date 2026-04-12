@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Parent Vocabulary Entry Schema (v1)",
+  "description": "A generic schema for a single-language parent vocabulary entry. Validates entries like 'ms-ro-urs.json' or 'peter-es-oso.json'.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "The unique identifier for the parent entry, following the pattern 'author-lang-slug'.",
+      "pattern": "^[a-z]+-[a-z]{2}-[\\w-]+$"
+    },
+    "lang": {
+      "type": "string",
+      "description": "The two-letter ISO 639-1 language code for this entry.",
+      "pattern": "^[a-z]{2}$"
+    },
+    "part_of_speech": {
+      "type": "string",
+      "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "pronoun", "interjection", "phrase", "numeral"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-zA-Z0-9_-]+:[a-zA-Z0-9_-]+$" }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "author": { "type": "string" },
+        "source": { "type": "string" },
+        "contentVersion": { "type": "integer", "minimum": 1 },
+        "schemaVersion": { "type": "string", "pattern": "^\\d+\\.\\d+(\\.\\d+)?$" }
+      },
+      "required": ["author", "source", "contentVersion", "schemaVersion"]
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "headword": { "type": "string" },
+        "definition": { "type": "string" },
+        "pronunciation": { "type": "string" },
+        "etymology": {
+          "description": "Etymological information about the headword.",
+          "type": "object",
+          "properties": {
+            "text": { "type": "string" },
+            "source": { "type": "string" }
+          },
+          "required": ["text", "source"]
+        },
+        "genus": { "type": "string", "enum": ["masculine", "feminine", "neuter"] }
+      },
+      "required": ["headword", "definition"]
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": { "text": { "type": "string" } },
+        "required": ["text"]
+      }
+    },
+    "relatedWords": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": { "text": { "type": "string" } },
+        "required": ["text"]
+      }
+    },
+    "media": {
+      "type": "object",
+      "properties": {
+        "images": { "type": "array", "items": { "type": "string", "format": "uri-reference" } },
+        "audio": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "path": {
+                "description": "A dot-notation path to the text field this audio corresponds to (e.g., 'data.headword', 'data.etymology').",
+                "type": "string",
+                "pattern": "^[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+|\\.\\d+)*$"
+              },
+              "lang": { "type": "string" },
+              "url": { "type": "string", "format": "uri-reference" }
+            },
+            "required": ["path", "lang", "url"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["id", "lang", "part_of_speech", "tags", "metadata", "data"],
+  "additionalProperties": false
+}

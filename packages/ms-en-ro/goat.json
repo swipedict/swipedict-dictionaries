@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-goat",
+  "parent": "ms-ro-capra-4bdb4878@4cd32e9ca0123f44f7dcf6fa0a77cdf9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "goat",
+    "genus": "feminine",
+    "definition": "A domesticated animal raised for its milk and meat.",
+    "pronunciation": "/ɡoʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'goat' comes from Old English 'gāt', which is related to the Germanic root *gaitaz, referring to the animal known for its agility and climbing ability.",
+        "targetText": "Cuvântul englezesc „goat” provine din engleza veche 'gāt', legat de rădăcina germanică *gaitaz, referindu-se la animalul cunoscut pentru agilitatea și abilitatea sa de a se cățăra."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "capră",
+    "genus": "feminine",
+    "definition": "Un animal domestic crescut pentru lapte și carne.",
+    "pronunciation": "/ˈkaprə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'capră' derives from the Latin 'capra', meaning 'goat', and was adopted directly from Latin.",
+        "targetText": "Cuvântul românesc „capră” provine din latinul 'capra', care înseamnă 'capră', fiind preluat direct din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "farmer",
+      "targetText": "țăran"
+    },
+    {
+      "sourceText": "milk",
+      "targetText": "lapte"
+    },
+    {
+      "sourceText": "sheep",
+      "targetText": "oaie"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The goat gives milk.",
+      "targetText": "Capra dă lapte."
+    },
+    {
+      "sourceText": "There are many goats on the farm.",
+      "targetText": "La fermă sunt multe capre."
+    },
+    {
+      "sourceText": "The goat climbs the hill.",
+      "targetText": "Capra urcă pe deal."
+    },
+    {
+      "sourceText": "Goats are very curious animals.",
+      "targetText": "Caprele sunt animale foarte curioase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'capră' sounds like the English word 'cap', so imagine a goat wearing a little cap to remember it."
+    },
+    {
+      "lang": "en",
+      "text": "'Capră' ends with '-ă', a common ending for feminine nouns in Romanian, similar to how English feminine nouns often end with '-a' sounds."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'capră' as related to the Latin root 'capra', which is the origin of the English word 'capricious'—goats are known for their lively and unpredictable behavior."
+    },
+    {
+      "lang": "en",
+      "text": "Goats are often found on farms; picture a friendly farm goat when you hear 'capră' to help you remember the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

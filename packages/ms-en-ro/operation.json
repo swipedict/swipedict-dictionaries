@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-operation",
+  "parent": "ms-ro-servire-b244b9c2@134caab997ddafff26712eb4d458d068",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "operation",
+    "genus": "feminine",
+    "definition": "The act or process of controlling or using a device or machine; also refers to the service provided in a restaurant.",
+    "pronunciation": "/ˌɒpəˈreɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"operation\" comes from the Latin 'operatio', meaning 'work' or 'performance', derived from 'operari' which means 'to work' or 'to perform'.",
+        "targetText": "Cuvântul englezesc „operation” provine din latină 'operatio', care înseamnă 'lucrare' sau 'execuție', derivat din 'operari' care înseamnă 'a lucra' sau 'a executa'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "servire",
+    "genus": "feminine",
+    "definition": "Acțiunea de a folosi sau controla un aparat ori serviciul oferit clienților într-un restaurant.",
+    "pronunciation": "/serˈvi.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"servire\" comes from the Latin 'servire', meaning 'to serve' or 'to attend'.",
+        "targetText": "Cuvântul românesc „servire” provine din latină 'servire', care înseamnă 'a servi' sau 'a deservi'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to operate",
+      "targetText": "a servi"
+    },
+    {
+      "sourceText": "use",
+      "targetText": "utilizare"
+    },
+    {
+      "sourceText": "customer",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "service",
+      "targetText": "serviciu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The operation of the machine is simple.",
+      "targetText": "Servirea mașinii este simplă."
+    },
+    {
+      "sourceText": "The service in the restaurant was very friendly.",
+      "targetText": "La restaurant servirea a fost foarte prietenoasă."
+    },
+    {
+      "sourceText": "Please read the instruction manual before operation.",
+      "targetText": "Vă rugăm să citiți manualul de utilizare înainte de servire."
+    },
+    {
+      "sourceText": "The operation is done by pressing a button.",
+      "targetText": "Servirea se face prin apăsarea unui buton."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"operation\" as the process of making something work, like operating a machine or providing a service."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"servire\" sounds like 'serve', which helps you recall its meaning related to service or serving."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a waiter operating in a restaurant, serving customers—that links 'operation' and 'servire' as controlling and serving."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'operation' with 'service' in English, both involving action and assistance."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

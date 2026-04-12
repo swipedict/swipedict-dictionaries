@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-open",
+  "parent": "ms-ro-a-deschide-04882e5d@6265833d822fcb89b783f33e786d6341",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "open",
+    "definition": "to move something so that it is no longer closed, such as a door, window, or container",
+    "pronunciation": "/ˈoʊpən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"open\" comes from the Old English \"openian\", which means to uncover or make accessible. It is related to the Proto-Germanic root *upaną, meaning 'to open, uncover'.",
+        "targetText": "Cuvântul englezesc „open” provine din vechiul englez „openian”, care înseamnă a descoperi sau a face accesibil. Este legat de rădăcina proto-germanică *upaną, care înseamnă „a deschide, a descoperi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used for opening physical objects or metaphorical concepts, such as \"to open up to new opportunities.\""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a deschide",
+    "definition": "a deschide o ușă, o fereastră sau un recipient",
+    "pronunciation": "/a deˈʃki.de/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a deschide” derives from the Latin „discludere” (\"to open, to separate\") or „discidere\" (\"to split, to cut apart\").",
+        "targetText": "Verbul românesc „a deschide” provine din latinescul „discludere” („a deschide, a separa”) sau „discidere” („a despărți, a tăia”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb. Commonly used in everyday situations to open doors, windows, book covers, etc."
+  },
+  "senses": [
+    {
+      "gloss": "To find a way",
+      "explanation": {
+        "sourceText": "Used mainly in a figurative sense.",
+        "targetText": "Folosit mai ales în sens figurat."
+      },
+      "examples": [
+        {
+          "sourceText": "Sometimes you have to open new perspectives.",
+          "targetText": "Uneori trebuie să deschidem noi perspective."
+        }
+      ]
+    },
+    {
+      "gloss": "To open (a door, window)",
+      "explanation": {
+        "sourceText": "Used in everyday English for opening access points.",
+        "targetText": "Utilizat în viața de zi cu zi pentru a deschide accesul."
+      },
+      "examples": [
+        {
+          "sourceText": "I open the door.",
+          "targetText": "Eu deschid ușa."
+        },
+        {
+          "sourceText": "Could someone open the window?",
+          "targetText": "Poate cineva să deschidă fereastra?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "container",
+      "targetText": "recipient"
+    },
+    {
+      "sourceText": "window",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "to open",
+      "targetText": "a deschide"
+    },
+    {
+      "sourceText": "door",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "close",
+      "targetText": "a închide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I open the door.",
+      "targetText": "Eu deschid ușa."
+    },
+    {
+      "sourceText": "Do you open the window?",
+      "targetText": "Deschizi fereastra?"
+    },
+    {
+      "sourceText": "He opens the suitcase.",
+      "targetText": "El deschide valiza."
+    },
+    {
+      "sourceText": "We open the windows today.",
+      "targetText": "Noi deschidem astăzi feroneria."
+    },
+    {
+      "sourceText": "Do you open the books?",
+      "targetText": "Deschideți cărțile?"
+    },
+    {
+      "sourceText": "They open the presents.",
+      "targetText": "Ei deschid cadourile."
+    },
+    {
+      "sourceText": "I opened the drawer.",
+      "targetText": "Am deschis sertarul."
+    },
+    {
+      "sourceText": "He was opening the book.",
+      "targetText": "El deschidea cartea."
+    },
+    {
+      "sourceText": "I will open my eyes.",
+      "targetText": "Voi deschide ochii."
+    },
+    {
+      "sourceText": "I would open the game if I could.",
+      "targetText": "Aș deschide jocul, dacă aș putea."
+    },
+    {
+      "sourceText": "Open that!",
+      "targetText": "Deschide asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"open\" is a very common English verb meaning to make something accessible, just like \"a deschide\" in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase \"open door policy\" to connect the idea of \"open\" with welcoming and accessibility, similar to \"a deschide\"."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word \"deschide\" sounds like \"des-chee-deh\"; imagine 'des' as a prefix meaning 'apart' and 'chide' like 'key' to unlock or open something."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word \"open\" with the Romanian \"ușă\" (door) by remembering that you open a door to enter a new place."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

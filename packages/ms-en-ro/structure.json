@@ -1,0 +1,154 @@
+{
+  "id": "ms-en-ro-structure",
+  "parent": "ms-ro-constructie-ebdbb465@9155a5856327b89202417406c6f73348",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "structure",
+    "genus": "neuter",
+    "definition": "a constructed object such as a building or a bridge",
+    "pronunciation": "/ˈstrʌktʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'structure' comes from the Latin 'structura', meaning 'a fitting together, building'. It derives from the verb 'struere', which means 'to pile up, arrange'.",
+        "targetText": "Cuvântul englezesc „structure“ provine din latinul „structura“, care înseamnă „a asambla, construi“. Derivă din verbul „struere“, care înseamnă „a aduna, a aranja“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A structure can be anything from a house to bridges and monuments."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "construcție",
+    "genus": "feminine",
+    "definition": "un obiect construit, cum ar fi o clădire sau un pod",
+    "pronunciation": "/konstrukˈtsi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'construcție' comes from the Latin 'constructio', derived from 'construere' ('to build together').",
+        "targetText": "Cuvântul românesc „construcție“ provine din latinul „constructio“, derivat de la „construere“ („a construi“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Construcții sind wichtige Teile der Infrastruktur."
+  },
+  "senses": [
+    {
+      "gloss": "structure (bridge)",
+      "explanation": {
+        "sourceText": "Also used in the sense of 'bridge'.",
+        "targetText": "Folosit și în sensul de „pod“."
+      },
+      "examples": [
+        {
+          "sourceText": "This bridge is a fascinating structure.",
+          "targetText": "Acest pod este o construcție fascinantă."
+        }
+      ]
+    },
+    {
+      "gloss": "structure (building)",
+      "explanation": {
+        "sourceText": "Used in the sense of 'building'.",
+        "targetText": "Folosit în sensul de „clădire“."
+      },
+      "examples": [
+        {
+          "sourceText": "The structure is impressive.",
+          "targetText": "Construcția este impresionantă."
+        },
+        {
+          "sourceText": "The structure was built many years ago.",
+          "targetText": "Construcția a fost realizată cu mulți ani în urmă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "architecture",
+      "targetText": "arhitectură"
+    },
+    {
+      "sourceText": "construction",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "bridge",
+      "targetText": "pod"
+    },
+    {
+      "sourceText": "building",
+      "targetText": "clădire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "demolition",
+      "targetText": "demolare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The structure is impressive.",
+      "targetText": "Construcția este impresionantă."
+    },
+    {
+      "sourceText": "The structure was built many years ago.",
+      "targetText": "Construcția a fost realizată cu mulți ani în urmă."
+    },
+    {
+      "sourceText": "Architects design large structures.",
+      "targetText": "Arhitecții proiectează mari construcții."
+    },
+    {
+      "sourceText": "The structural stability of the building was checked.",
+      "targetText": "Statica construcției a fost verificată."
+    },
+    {
+      "sourceText": "Beautiful structures are tourist attractions.",
+      "targetText": "Construcții frumoase sunt atracții turistice."
+    },
+    {
+      "sourceText": "The new structure will be inaugurated soon.",
+      "targetText": "Noua construcție va fi inaugurată în curând."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'structure' as the way parts are arranged to form a whole, like building blocks stacked together."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'construcție' sounds like 'construction', which also relates to building something."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize famous structures like the Eiffel Tower or Golden Gate Bridge to connect the word with impressive buildings."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'construcție', imagine the strong framework that holds a building together."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

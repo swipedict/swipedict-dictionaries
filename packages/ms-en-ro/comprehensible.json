@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-comprehensible",
+  "parent": "ms-ro-comprehensibil-0f590426@270ffc64cf6fa447c1dc28c8256bf574",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "comprehensible",
+    "definition": "able to be understood or grasped mentally; clear enough to be mentally processed or appreciated",
+    "pronunciation": "/ˌkɒmprɪˈhɛn.sɪ.bəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the verb 'comprehend' meaning to grasp or understand, combined with the suffix '-ible' indicating capability.",
+        "targetText": "Cuvântul englezesc „comprehensible” derivă din verbul „comprehend”, care înseamnă a înțelege sau a cuprinde, combinat cu sufixul „-ible” care indică capacitatea de a face ceva."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Commonly used to describe concepts, explanations, or reasons that are easy to understand or follow."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "comprehensibil",
+    "definition": "care poate fi înțeles, priceput sau conceput (cu mintea); inteligibil",
+    "pronunciation": "/kom.pre.henˈsi.bil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian „comprehensibil” is a borrowing from the French „compréhensible”, which in turn comes from the Latin „comprehensibilis”.",
+        "targetText": "Românescul „comprehensibil” este un împrumut din francezul „compréhensible”, care provine la rândul său din latinescul „comprehensibilis”."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjectiv variabil (comprehensibil, comprehensibilă, comprehensibili, comprehensibile). Synonyme: inteligibil, de înțeles."
+  },
+  "senses": [
+    {
+      "gloss": "comprehensible (understandable, clear)",
+      "explanation": {
+        "sourceText": "Something is presented or explained in a way that it can be easily understood.",
+        "targetText": "Ceva este prezentat sau explicat astfel încât să poată fi ușor înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "His reasons were entirely comprehensible.",
+          "targetText": "Motivele sale erau pe deplin comprehensibile."
+        },
+        {
+          "sourceText": "Make it comprehensible to us!",
+          "targetText": "Faceți-ne să înțelegem! / Explicați-ne pe înțelesul nostru!"
+        }
+      ]
+    },
+    {
+      "gloss": "to make something comprehensible (to explain)",
+      "explanation": {
+        "sourceText": "To explain something in such a way that it becomes understandable.",
+        "targetText": "A explica ceva astfel încât să fie înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "The teacher tried to make the complex theory comprehensible to the students.",
+          "targetText": "Profesorul a încercat să le facă elevilor teoria complexă comprehensibilă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "explain",
+      "targetText": "a explica"
+    },
+    {
+      "sourceText": "clear",
+      "targetText": "clar"
+    },
+    {
+      "sourceText": "understandable",
+      "targetText": "comprehensibil"
+    },
+    {
+      "sourceText": "mind",
+      "targetText": "minte"
+    },
+    {
+      "sourceText": "intelligible",
+      "targetText": "inteligibil"
+    },
+    {
+      "sourceText": "understand",
+      "targetText": "a înțelege"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "incomprehensible",
+      "targetText": "incomprehensibil"
+    },
+    {
+      "sourceText": "unintelligible",
+      "targetText": "neinteligibil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The explanations were comprehensible and simple.",
+      "targetText": "Explicațiile au fost comprehensibile și simple."
+    },
+    {
+      "sourceText": "It is important to convey comprehensible content.",
+      "targetText": "Este important să transmitem conținuturi comprehensibile."
+    },
+    {
+      "sourceText": "His reaction is not comprehensible to me.",
+      "targetText": "Reacția sa nu este comprehensibilă pentru mine."
+    },
+    {
+      "sourceText": "He quickly understood that he had made a mistake.",
+      "targetText": "A înțeles repede (i s-a făcut clar) că făcuse o greșeală."
+    },
+    {
+      "sourceText": "That is perfectly comprehensible!",
+      "targetText": "Acest lucru este perfect comprehensibil!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “comprehensibil” closely resembles the English “comprehensible,” making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English verb “comprehend,” which means to understand fully—this is the root of “comprehensibil.”"
+    },
+    {
+      "lang": "en",
+      "text": "The suffix “-ible” in English often means “able to be,” so “comprehensible” means “able to be understood.”"
+    },
+    {
+      "lang": "en",
+      "text": "If something is comprehensible, it’s like a clear explanation that your mind can easily grasp—just like the Romanian equivalent."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

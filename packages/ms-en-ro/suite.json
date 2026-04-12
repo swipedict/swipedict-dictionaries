@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-suite",
+  "parent": "ms-ro-suita-b1ed204b@9a69a7d8affa100953bff2b1a676bdc9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "suite",
+    "genus": "feminine",
+    "definition": "A set of connected rooms, typically in a hotel or apartment, used together as a single unit.",
+    "pronunciation": "/swiːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'suite' comes from French, where it originally meant 'sequence' or 'series', derived from the verb 'suivre' meaning 'to follow'.",
+        "targetText": "Cuvântul englezesc „suite” provine din franceză, unde inițial însemna 'urmă' sau 'șir', derivat din verbul 'suivre' (a urma)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "suită",
+    "genus": "feminine",
+    "definition": "Un grup de camere alăturate, de obicei într-un hotel sau apartament, folosite împreună ca o unitate.",
+    "pronunciation": "/suˈitə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'suită' comes directly from the French 'suite', meaning 'sequence' or 'series', derived from the verb 'suivre' (to follow).",
+        "targetText": "Cuvântul românesc „suită” provine direct din francezul 'suite', care înseamnă 'urmă' sau 'șir', derivat din verbul 'suivre' (a urma)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hallway",
+      "targetText": "hol"
+    },
+    {
+      "sourceText": "hotel",
+      "targetText": "hotel"
+    },
+    {
+      "sourceText": "apartment",
+      "targetText": "apartament"
+    },
+    {
+      "sourceText": "room",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The suite in the hotel has a large living room and two bedrooms.",
+      "targetText": "Suită din hotel are un living mare și două dormitoare."
+    },
+    {
+      "sourceText": "We booked a suite for our stay.",
+      "targetText": "Am rezervat o suită pentru șederea noastră."
+    },
+    {
+      "sourceText": "The suite offers a beautiful view of the city.",
+      "targetText": "Suită oferă o priveliște frumoasă asupra orașului."
+    },
+    {
+      "sourceText": "There is also a small kitchen in the suite.",
+      "targetText": "În suită există și o bucătărie mică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'suită' sounds almost like the English 'suite'—both come from French and mean a connected series or set."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the French verb 'suivre' meaning 'to follow' to think of a 'suite' as a sequence of rooms that follow one another."
+    },
+    {
+      "lang": "en",
+      "text": "Note that 'suită' in Romanian can refer not only to rooms but also to a sequence of things, similar to how 'suite' is used in English for a series."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine walking through a 'suite' like a suite of musical pieces—several parts that belong together."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

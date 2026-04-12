@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-ferry",
+  "parent": "ms-ro-feribot-1651ee6d@1f2436a7ab2f91f62f93dfb366ac24c8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ferry",
+    "genus": "feminine",
+    "definition": "A boat or ship used to carry passengers, vehicles, or goods across a body of water, usually between two fixed points.",
+    "pronunciation": "/ˈfɛri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'ferry' originates from Old French 'ferre', related to the verb 'to carry' or 'to transport', reflecting its function as a means of crossing water.",
+        "targetText": "Cuvântul englezesc „ferry” provine din franceza veche 'ferre', legat de verbul 'a transporta' sau 'a purta', reflectând funcția sa de mijloc de traversare a apei."
+      },
+      "source": "Etymological dictionaries, linguistic studies"
+    },
+    "additional": "Feminine noun in English, plural: ferries."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "feribot",
+    "genus": "neuter",
+    "definition": "Un vas sau barcă folosită pentru transportul persoanelor, vehiculelor sau mărfurilor peste o apă, de obicei între două puncte fixe.",
+    "pronunciation": "/fe.riˈbot/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'feribot' comes from the French 'ferry-boat', composed of 'ferry' (ferry) and 'boat', borrowed in the 19th century.",
+        "targetText": "Cuvântul românesc „feribot” provine din franceza 'ferry-boat', compus din 'ferry' (feribot) și 'boat' (barcă), împrumutat în secolul al XIX-lea."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Substantiv masculin, plural: feriboturi."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "boat",
+      "targetText": "barcă"
+    },
+    {
+      "sourceText": "bridge",
+      "targetText": "pod"
+    },
+    {
+      "sourceText": "ship",
+      "targetText": "navă"
+    },
+    {
+      "sourceText": "transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The ferry safely carries cars and passengers across the river.",
+      "targetText": "Feribotul transportă mașinile și pasagerii în siguranță peste râu."
+    },
+    {
+      "sourceText": "We are waiting for the ferry to reach the island.",
+      "targetText": "Așteptăm feribotul pentru a ajunge pe insulă."
+    },
+    {
+      "sourceText": "The ferry departs every 30 minutes between the two cities.",
+      "targetText": "Feribotul pleacă la fiecare 30 de minute între cele două orașe."
+    },
+    {
+      "sourceText": "On the ferry, you can enjoy the beautiful view of the water.",
+      "targetText": "Pe feribot poți să te bucuri de priveliștea frumoasă asupra apei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'ferry' sounds like 'carry', which helps you remember it carries people and vehicles across water."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'ferry boat' as a floating bridge that transports cars and passengers—this links well to the Romanian 'feribot'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'feribot' is borrowed from French 'ferry-boat', which is very close to English, making it easy to recognize."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine waiting for the ferry every 30 minutes to cross a river or reach an island—this routine helps fix the word in your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

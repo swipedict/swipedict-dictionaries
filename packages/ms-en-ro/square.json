@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-square",
+  "parent": "ms-ro-patrat-65e6b284@e5c9ef3efd8c8d8b9a0521ff6034f04f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "square",
+    "definition": "A geometric shape with four equal sides and four right angles.",
+    "pronunciation": "/skwɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'square' comes from the Old French 'esquarre', derived from Latin 'quadratus', the past participle of 'quadrare', meaning 'to make square' or 'to set square'.",
+        "targetText": "Cuvântul englezesc „square” provine din vechea franceză „esquarre”, derivată din latinescul „quadratus”, participiul verbului „quadrare”, care înseamnă „a face pătrat” sau „a așeza în unghi drept”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pătrat",
+    "genus": "neuter",
+    "definition": "O figură geometrică cu patru laturi egale și patru unghiuri drepte.",
+    "pronunciation": "/pəˈtrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'pătrat' comes from the Latin 'quadratus', the past participle of 'quadrare', meaning 'to make square'.",
+        "targetText": "Cuvântul românesc „pătrat” provine din latinescul 'quadratus', participiul verbului 'quadrare', care înseamnă 'a face pătrat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "triangle",
+      "targetText": "triunghi"
+    },
+    {
+      "sourceText": "geometry",
+      "targetText": "geometrie"
+    },
+    {
+      "sourceText": "circle",
+      "targetText": "cerc"
+    },
+    {
+      "sourceText": "rectangle",
+      "targetText": "dreptunghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The square has four sides of equal length.",
+      "targetText": "Pătratul are patru laturi egale."
+    },
+    {
+      "sourceText": "The area of a square is calculated by squaring the length of one side.",
+      "targetText": "Suprafața unui pătrat se calculează prin pătratul lungimii laturii."
+    },
+    {
+      "sourceText": "A square is a special type of rectangle.",
+      "targetText": "Un pătrat este o formă specială de dreptunghi."
+    },
+    {
+      "sourceText": "In geometry, you learn many properties of squares.",
+      "targetText": "La geometrie înveți multe proprietăți ale pătratelor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pătrat' sounds like 'pat rat'—imagine a rat taking a nap on a square mat to recall the shape."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'square' and Romanian 'pătrat' both come from Latin 'quadratus', so think of 'quad' meaning four sides to connect them."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize drawing a square with a paintbrush ('pătrat' starts with 'p' like 'paint') to link the word with the shape."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a square as a perfect 'plate' (sounds like 'pătrat')—flat and even on all sides."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

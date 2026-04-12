@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-fill",
+  "parent": "ms-ro-a-completa-7f764ec8@752f9a5b48c3252b5e80624488dbaa25",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fill",
+    "definition": "To put information or material into a form or space until it is complete or full.",
+    "pronunciation": "/fɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'fill' comes from Old English 'fyllan', meaning to make full or to supply.",
+        "targetText": "Cuvântul englezesc „fill” provine din engleza veche „fyllan”, care înseamnă a face plin sau a umple."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a completa",
+    "definition": "A introduce informațiile necesare într-un formular sau a umple un spațiu gol.",
+    "pronunciation": "/a kom.pleˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a completa' derives from the Latin 'complēre', meaning 'to finish' or 'to fill up'.",
+        "targetText": "Verbul românesc „a completa” provine din latină, din 'complēre', care înseamnă 'a umple' sau 'a completa'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to submit (a form)",
+      "targetText": "a trimite un formular"
+    },
+    {
+      "sourceText": "to fill out (a form)",
+      "targetText": "a completa un formular"
+    },
+    {
+      "sourceText": "to enter (data)",
+      "targetText": "a înscrie"
+    },
+    {
+      "sourceText": "to fill",
+      "targetText": "a umple"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to leave blank",
+      "targetText": "a lăsa gol"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Please fill out the form.",
+      "targetText": "Vă rog să completați formularul."
+    },
+    {
+      "sourceText": "I filled out the form yesterday.",
+      "targetText": "Am completat formularul ieri."
+    },
+    {
+      "sourceText": "Can you fill out the form for me?",
+      "targetText": "Poți să completezi formularul pentru mine?"
+    },
+    {
+      "sourceText": "The form must be completely filled out.",
+      "targetText": "Formularul trebuie să fie complet completat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a completa' sounds like 'complete', which helps you associate it with filling out something fully."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'complete' as finishing a task, just like filling in all the blanks on a form."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'fill' and Romanian 'a completa' both involve making something whole or full."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine completing a puzzle — every piece must be filled in, just like completing a form."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

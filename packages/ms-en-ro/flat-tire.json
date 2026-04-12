@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-flat-tire",
+  "parent": "ms-ro-pana-de-cauciuc-5266ce41@5679c7c638b3e6eba23757d54e33a9bf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "flat tire",
+    "genus": "feminine",
+    "definition": "An unexpected problem with a tire, usually a puncture or blowout, that prevents continuing to drive.",
+    "pronunciation": "/flæt ˈtaɪər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'flat tire' combines 'flat', referring to the loss of air pressure, and 'tire', which originally meant a metal band around a wheel and later came to mean the rubber covering of a wheel.",
+        "targetText": "Termenul englezesc „flat tire” combină „flat”, referindu-se la pierderea presiunii aerului, și „tire”, care inițial însemna o bandă metalică în jurul unei roți și ulterior a ajuns să desemneze acoperirea de cauciuc a roții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pană de cauciuc",
+    "genus": "feminine",
+    "definition": "O problemă neașteptată la un cauciuc, de obicei o gaură sau o explozie, care împiedică continuarea deplasării.",
+    "pronunciation": "/ˈpanə de kauˈtʃuk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression 'pană de cauciuc' consists of 'pană' (from Latin 'pinna', originally 'feather' and later 'point' or 'puncture') and 'cauciuc' (from English 'caoutchouc', borrowed from the indigenous South American word for natural rubber).",
+        "targetText": "Expresia românească „pană de cauciuc” este formată din „pană” (din latină 'pinna', inițial 'pana' sau 'vârf', ulterior 'defecțiune') și „cauciuc” (împrumutat din englezescul 'caoutchouc', provenit din cuvântul indigen sud-american pentru cauciuc natural)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Breakdown",
+      "targetText": "defecțiune"
+    },
+    {
+      "sourceText": "Tire",
+      "targetText": "cauciuc"
+    },
+    {
+      "sourceText": "Workshop",
+      "targetText": "atelier"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I had a flat tire on the highway yesterday.",
+      "targetText": "Ieri am avut o pană de cauciuc pe autostradă."
+    },
+    {
+      "sourceText": "In case of a flat tire, you should set up the warning triangle.",
+      "targetText": "La o pană de cauciuc trebuie să pui triunghiul reflectorizant."
+    },
+    {
+      "sourceText": "The flat tire delayed our trip by an hour.",
+      "targetText": "Pana de cauciuc ne-a întârziat călătoria cu o oră."
+    },
+    {
+      "sourceText": "He learned how to repair a flat tire by himself.",
+      "targetText": "El a învățat cum să repare singur o pană de cauciuc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'pană de cauciuc' by thinking of 'pană' like 'puncture' and 'cauciuc' sounding like 'couch'—imagine a tire as soft as a couch cushion that got a puncture."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'cauciuc' comes from 'caoutchouc', an exotic word for rubber—think of a rubber tire to link it with 'cauciuc'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'pană' as similar to 'pane' in English, meaning a break or failure, which helps you remember it means 'puncture' or 'flat tire' in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine your car has a 'pană' (puncture), and you need to change the 'cauciuc' (tire)—this scenario helps connect both words with the situation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

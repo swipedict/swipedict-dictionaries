@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-basement",
+  "parent": "ms-ro-subsol-6cbf02e9@08d9f9a0777abc49444e49ae33befffe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "basement",
+    "definition": "A room or set of rooms located below the ground floor of a building, typically used for storage or additional living space.",
+    "pronunciation": "/ˈbeɪsmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'basement' comes from the word 'base' combined with the suffix '-ment', indicating a structure built at the base or bottom of a building.",
+        "targetText": "Cuvântul englezesc „basement” provine de la cuvântul „base” combinat cu sufixul „-ment”, indicând o structură construită la baza sau partea de jos a unei clădiri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "subsol",
+    "genus": "neuter",
+    "definition": "O încăpere situată sub nivelul solului într-o clădire, folosită de obicei pentru depozitare sau ca spațiu suplimentar.",
+    "pronunciation": "/subˈsol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'subsol' derives from the Latin 'subsolum', composed of 'sub' (under) and 'solum' (ground), literally meaning 'under the ground'.",
+        "targetText": "Cuvântul românesc „subsol” provine din latinescul 'subsolum', format din 'sub' (sub) și 'solum' (sol), însemnând literal 'sub pământ'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "basement window",
+      "targetText": "fereastră de subsol"
+    },
+    {
+      "sourceText": "basement vault",
+      "targetText": "bolta subsolului"
+    },
+    {
+      "sourceText": "basement room",
+      "targetText": "încăpere din subsol"
+    },
+    {
+      "sourceText": "pantry",
+      "targetText": "cămară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "attic",
+      "targetText": "mansardă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The basement is cool and suitable for storing wine.",
+      "targetText": "Subsolul este răcoros și este potrivit pentru depozitarea vinului."
+    },
+    {
+      "sourceText": "We stored many old pieces of furniture in the basement.",
+      "targetText": "Am păstrat multe piese vechi de mobilă în subsol."
+    },
+    {
+      "sourceText": "The heating system of the house is located in the basement.",
+      "targetText": "În subsol se află instalația de încălzire a casei."
+    },
+    {
+      "sourceText": "The basement is often damp, so it should be well ventilated.",
+      "targetText": "Subsolul este adesea umed, de aceea trebuie bine aerisit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'basement' as the base or bottom part of a building, just like 'subsol' means under the ground in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'base' + '-ment' in English to recall that a basement is the foundational lower level, similar to 'subsol' which literally means 'under the ground'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'subsol' breaks down into 'sub' (under) and 'sol' (ground), so imagine going under the soil to find the basement."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word 'basement' with 'base' and 'cement' (building materials) to remember it's the bottom part of a house, like 'subsol' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

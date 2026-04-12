@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-food",
+  "parent": "ms-ro-mancare-4ad4f6a7@fafda048e393ebea0f5f6ef3f50981b9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "food",
+    "genus": "neuter",
+    "definition": "Substances that people or animals eat or drink to sustain life and growth.",
+    "pronunciation": "/fuːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun \"food\" originates from the Old English word 'fōda', meaning nourishment or sustenance, which derives from the Proto-Germanic root *fōdą related to feeding and eating.",
+        "targetText": "Cuvântul englezesc „food” provine din vechiul englezesc 'fōda', care însemna hrană sau substanță nutritivă, derivat din rădăcina proto-germanică *fōdą legată de hrănire și consum."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mâncare",
+    "genus": "feminine",
+    "definition": "Alimente sau masă care se consumă pentru a se hrăni.",
+    "pronunciation": "/mɨnˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun \"mâncare\" derives from the Latin verb 'manducare', meaning 'to chew' or 'to eat', representing a popular linguistic evolution.",
+        "targetText": "Substantivul românesc „mâncare” provine din latină, din verbul 'manducare', care însemna 'a mesteca' sau 'a mânca', fiind o evoluție populară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "eat (verb)",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "groceries",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "meal",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "dish",
+      "targetText": "fel de mâncare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fasting",
+      "targetText": "post"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The food tastes very good.",
+      "targetText": "Mâncarea este foarte gustoasă."
+    },
+    {
+      "sourceText": "We have the meal at 7 PM.",
+      "targetText": "Avem masa la ora 19."
+    },
+    {
+      "sourceText": "The food is ready.",
+      "targetText": "Mâncarea este gata."
+    },
+    {
+      "sourceText": "I like Italian food.",
+      "targetText": "Îmi place mâncarea italiană."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'mâncare' sounds like 'munch car'—imagine munching food in a car to remember it means 'food'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'mâncare' comes from Latin 'manducare', similar to 'mandible' which relates to chewing—both share the chewing idea."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mâncare' as 'man care'—a man caring for himself by eating good food."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'mâncare' with the English word 'munch'—both relate to eating and sound somewhat alike."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

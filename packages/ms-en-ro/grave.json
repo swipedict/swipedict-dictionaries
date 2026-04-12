@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-grave",
+  "parent": "ms-ro-mormant-c2812467@6382cf187382a299342d0cb70655f74e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "grave",
+    "definition": "A place where a dead person is buried; a burial site for the deceased.",
+    "pronunciation": "/ɡreɪv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"grave\" originates from Old English 'græf', meaning a pit or trench dug in the ground, related to the Proto-Germanic term for a hollow or ditch.",
+        "targetText": "Cuvântul englezesc „grave” provine din engleza veche 'græf', care însemna o groapă sau șanț săpat în pământ, fiind legat de termenul proto-germanic pentru o adâncitură sau șanț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mormânt",
+    "genus": "neuter",
+    "definition": "Loc unde este îngropată o persoană decedată; o groapă pentru odihna morților.",
+    "pronunciation": "/morˈmɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"mormânt\" derives from the Latin 'monumentum', which originally meant a monument or memorial and later took on the meaning of a burial place.",
+        "targetText": "Cuvântul românesc „mormânt” derivă din latinul 'monumentum', care inițial desemna un monument sau o amintire, iar mai târziu a căpătat sensul de loc de îngropăciune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "funeral",
+      "targetText": "înmormântare"
+    },
+    {
+      "sourceText": "cemetery",
+      "targetText": "cimitir"
+    },
+    {
+      "sourceText": "gravestone",
+      "targetText": "cruce de mormânt"
+    },
+    {
+      "sourceText": "coffin",
+      "targetText": "sicriu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "life",
+      "targetText": "viață"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The grave is decorated with flowers.",
+      "targetText": "Mormântul este împodobit cu flori."
+    },
+    {
+      "sourceText": "We visited our grandparents' grave.",
+      "targetText": "Am vizitat mormântul bunicilor noștri."
+    },
+    {
+      "sourceText": "The grave is located in the cemetery on the outskirts of town.",
+      "targetText": "Mormântul se află în cimitir la marginea localității."
+    },
+    {
+      "sourceText": "Many people place candles on the grave.",
+      "targetText": "Mulți oameni pun lumânări pe mormânt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"mormânt\" sounds like \"monument\", which helps you recall that a grave is often a memorial place."
+    },
+    {
+      "lang": "en",
+      "text": "The beginning 'mor-' in \"mormânt\" is similar to the English word 'mort' (meaning death in French), linking it to death and burial."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a grave as a 'monument' to rest, which connects the Romanian word \"mormânt\" to its Latin roots."
+    },
+    {
+      "lang": "en",
+      "text": "Link the English word 'grave' with the Romanian 'mormânt' by remembering both relate to places where people are laid to rest."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

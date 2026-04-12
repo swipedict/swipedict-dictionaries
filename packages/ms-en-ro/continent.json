@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-continent",
+  "parent": "ms-ro-continent-6cc70c7c@a34d4c713706cc70bd91ce1813e9d1ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "continent",
+    "genus": "masculine",
+    "definition": "A large continuous expanse of land on Earth, distinguished from oceans.",
+    "pronunciation": "/kənˈtɪnənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"continent\" comes from the Latin 'continentem' (accusative of 'continens'), meaning 'holding together' or 'continuous', and was borrowed into English through French.",
+        "targetText": "Cuvântul englezesc „continent” provine din latină, de la 'continentem' (acusativul lui 'continens'), care înseamnă 'care ține împreună' sau 'continuu', fiind împrumutat în engleză prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "continent",
+    "genus": "neuter",
+    "definition": "O mare întindere de uscat continuu, delimitată de oceane.",
+    "pronunciation": "/kon.tiˈnent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"continent\" was borrowed in the 19th century from the French \"continent\", which in turn comes from the Latin \"continentem\" (accusative of \"continens\", 'holding together').",
+        "targetText": "Cuvântul românesc „continent” a fost împrumutat în secolul al XIX-lea din francezul „continent”, care provine din latinul „continentem” (acusativul lui „continens”, „care ține împreună”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "peninsula",
+      "targetText": "peninsulă"
+    },
+    {
+      "sourceText": "island",
+      "targetText": "insulă"
+    },
+    {
+      "sourceText": "country",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "ocean",
+      "targetText": "ocean"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sea",
+      "targetText": "mare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Europe is a continent with many countries.",
+      "targetText": "Europa este un continent cu multe țări."
+    },
+    {
+      "sourceText": "Africa is the second largest continent on Earth.",
+      "targetText": "Africa este al doilea cel mai mare continent de pe Pământ."
+    },
+    {
+      "sourceText": "The continent Australia is also a country.",
+      "targetText": "Continentul Australia este și o țară."
+    },
+    {
+      "sourceText": "Some continents are separated from each other by oceans.",
+      "targetText": "Unele continente sunt separate unele de altele prin oceane."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the English word 'continent' shares its root with the Romanian 'continent', both meaning a large landmass holding many countries together."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a 'continent' as a giant 'container' of land—this helps link the sound and meaning to the Romanian 'continent'."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ent' in 'continent' is clearly pronounced in Romanian, unlike in English where it can be softer—practice saying the Romanian word with a clear 't' at the end."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English 'continent' with the French 'continent' and Romanian 'continent'—all three come from the Latin root meaning 'holding together'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

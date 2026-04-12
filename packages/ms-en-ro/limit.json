@@ -1,0 +1,120 @@
+{
+  "id": "ms-en-ro-limit",
+  "parent": "ms-ro-a-limita-a266ae80@bf0bda38dbea62d06df820051018dcf9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "limit",
+    "definition": "to set a boundary on the size, amount, or extent of something",
+    "pronunciation": "/ˈlɪmɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"limit\" comes from the Latin verb \"limitare,\" meaning 'to set boundaries,' which derives from \"limes,\" meaning 'boundary' or 'border.'",
+        "targetText": "Verbul „limit“ provine din verbul latin „limitare“, care înseamnă „a stabili limite“, derivat din „limes“, care înseamnă „graniță“ sau „hotar“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Used to restrict measurements or possibilities."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a limita",
+    "definition": "a restricționa dimensiunile sau semnificația cuiva",
+    "pronunciation": "/a li.miˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „a limita“ derives from the Latin „limitare“, coming from „limes“ (boundary), related to the English word \"limit.\"",
+        "targetText": "Românescul „a limita“ derivă din latină, de la „limitare“, provenind din „limes“ (graniță), înrudit cu germana „Grenze“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Often used in legal or formal contexts."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "restriction",
+      "targetText": "restricție"
+    },
+    {
+      "sourceText": "boundary",
+      "targetText": "graniță"
+    },
+    {
+      "sourceText": "limit",
+      "targetText": "limită"
+    },
+    {
+      "sourceText": "framework",
+      "targetText": "cadru"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "expand",
+      "targetText": "a extinde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I limit the number of participants.",
+      "targetText": "Eu limitez numărul participanților."
+    },
+    {
+      "sourceText": "I have limited the freedom.",
+      "targetText": "Am limitat libertatea."
+    },
+    {
+      "sourceText": "I will limit the time.",
+      "targetText": "Voi limita timpul."
+    },
+    {
+      "sourceText": "I would limit the costs if necessary.",
+      "targetText": "Aș limita costurile dacă ar fi necesar."
+    },
+    {
+      "sourceText": "Limit the reasons to three!",
+      "targetText": "Limitează motivele la trei!"
+    },
+    {
+      "sourceText": "The limited resource will soon be scarce again.",
+      "targetText": "Resursa limitată va fi din nou rară în curând."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word \"limit\"—it means to set a boundary or restriction, just like the Romanian \"a limita.\""
+    },
+    {
+      "lang": "en",
+      "text": "Connect \"a limita\" with the English plural \"limits\" to remember it involves boundaries or frames."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"limit\" sounds like \"limit\" in English, making it easy to recall the meaning of \"a limita.\""
+    },
+    {
+      "lang": "en",
+      "text": "Imagine putting a 'limit' sign on a road to help remember that \"a limita\" means to restrict or set boundaries."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

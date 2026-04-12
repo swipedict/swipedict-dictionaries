@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-pull",
+  "parent": "ms-ro-a-trage-24147aa1@41d8e33ae7cf29a92af3fafc1dae01f2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "pull",
+    "definition": "to move something towards oneself or in a particular direction by exerting force",
+    "pronunciation": "/pʊl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'pull' originates from Old English 'pullian', meaning 'to pull, drag', and is related to the Proto-Germanic root *puljanan. It has cognates in other Germanic languages and has been used since early English to describe drawing or tugging actions.",
+        "targetText": "Verbul englezesc „pull“ provine din engleza veche „pullian“, care înseamnă „a trage, a smulge“, fiind legat de rădăcina proto-germanică *puljanan. Are cognate în alte limbi germanice și este folosit de timpuriu pentru a descrie acțiuni de tragere sau smulgere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. It can also be used metaphorically to mean attracting attention or support."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trage",
+    "definition": "a se mișca într-o direcție specifică sau a atrage ceva",
+    "pronunciation": "/a traˈɡe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a trage' comes from the Latin 'tragere', meaning 'to pull', and is related to other Romance languages. It describes the action of moving something by applying force.",
+        "targetText": "Verbul românesc „a trage“ provine din latină „tragere“, însemnând „a trage“, fiind înrudit cu alte limbi romanice și exprimând acțiunea de a mișca ceva prin aplicarea forței."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 3rd conjugation. Widely used in physical and metaphorical contexts, e.g., 'to pull someone'. It is closely related to 'a purta' (to carry)."
+  },
+  "senses": [
+    {
+      "gloss": "Attracting",
+      "explanation": {
+        "sourceText": "In the sense of 'someone pulls something towards themselves'.",
+        "targetText": "În sensul de a atrage ceva către sine."
+      },
+      "examples": [
+        {
+          "sourceText": "I pull the coat on.",
+          "targetText": "Eu trag paltonul spre mine."
+        }
+      ]
+    },
+    {
+      "gloss": "Removing",
+      "explanation": {
+        "sourceText": "In a context of pulling out or separating.",
+        "targetText": "Acțiunea de a scoate sau separa prin tragere."
+      },
+      "examples": [
+        {
+          "sourceText": "I pull out the pens.",
+          "targetText": "Eu scot pixurile."
+        }
+      ]
+    },
+    {
+      "gloss": "Leading",
+      "explanation": {
+        "sourceText": "Pulling can also mean guiding or leading something.",
+        "targetText": "Acțiunea de a conduce sau ghida ceva prin tragere."
+      },
+      "examples": [
+        {
+          "sourceText": "He pulls attention to himself.",
+          "targetText": "El atrage atenția asupra sa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Movement",
+      "targetText": "mișcare"
+    },
+    {
+      "sourceText": "Lift",
+      "targetText": "a ridica"
+    },
+    {
+      "sourceText": "Push",
+      "targetText": "a împinge"
+    },
+    {
+      "sourceText": "Transport",
+      "targetText": "a transporta"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "push",
+      "targetText": "a împinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I pull the cart.",
+      "targetText": "Eu trag căruța."
+    },
+    {
+      "sourceText": "Do you pull the door open?",
+      "targetText": "Tragi ușa?"
+    },
+    {
+      "sourceText": "The dog pulls the cart.",
+      "targetText": "Câinele trage căruța."
+    },
+    {
+      "sourceText": "We pull the curtains closed.",
+      "targetText": "Noi tragem perdelele."
+    },
+    {
+      "sourceText": "Do you pull the horse?",
+      "targetText": "Trageți calul?"
+    },
+    {
+      "sourceText": "They pull the drawers open.",
+      "targetText": "Ei trag sertarele."
+    },
+    {
+      "sourceText": "I pulled the bag.",
+      "targetText": "Am tras geanta."
+    },
+    {
+      "sourceText": "They pulled the brakes.",
+      "targetText": "Au tras frânele."
+    },
+    {
+      "sourceText": "He pulled the rope every day.",
+      "targetText": "El trăgea frânghia în fiecare zi."
+    },
+    {
+      "sourceText": "I had already pulled the leash before you arrived.",
+      "targetText": "Trasem lanțul înainte să vii."
+    },
+    {
+      "sourceText": "I will pull the wardrobe.",
+      "targetText": "Voi trage dulapul."
+    },
+    {
+      "sourceText": "She will pull the boat.",
+      "targetText": "Ea o să tragă barca."
+    },
+    {
+      "sourceText": "I would pull it if I could.",
+      "targetText": "Aș trage, dacă aș putea."
+    },
+    {
+      "sourceText": "It is necessary that you pull the rope.",
+      "targetText": "Este necesar să tragi frânghia."
+    },
+    {
+      "sourceText": "Pull the records!",
+      "targetText": "Trage recordele!"
+    },
+    {
+      "sourceText": "Pull the curtains!",
+      "targetText": "Trageți perdelele!"
+    },
+    {
+      "sourceText": "The pulled picture is interesting.",
+      "targetText": "Imaginea trasă este interesantă."
+    },
+    {
+      "sourceText": "The picture has been pulled.",
+      "targetText": "Imaginea a fost trasă."
+    },
+    {
+      "sourceText": "By pulling the rope, he performed the movement.",
+      "targetText": "Trăgând frânghia, a realizat mișcarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a trage' sounds like 'to drag' in English, which also means to pull something along."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a trage' as 'to pull'—both start with 'tr' and involve moving something towards you."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine pulling a 'trailer'—the 'tra' sound helps link 'a trage' with pulling or towing."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'traction' relates to pulling force, similar to 'a trage' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

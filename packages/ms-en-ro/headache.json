@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-headache",
+  "parent": "ms-ro-durere-de-cap-61431c54@221bb47376351591affc6a8e165e6230",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "headache",
+    "genus": "masculine",
+    "definition": "Pain experienced in the head region.",
+    "pronunciation": "/ˈhɛd.eɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"headache\" is a compound of \"head\" and \"ache.\" \"Head\" comes from Old English 'heafod', referring to the upper part of the body, while \"ache\" derives from Old English 'æce', meaning pain or distress.",
+        "targetText": "Cuvântul englezesc „headache” este o compunere din „head” și „ache”. „Head” provine din engleza veche 'heafod', referindu-se la partea superioară a corpului, iar „ache” derivă din engleza veche 'æce', care înseamnă durere sau suferință."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "durere de cap",
+    "genus": "feminine",
+    "definition": "Durere resimțită în zona capului.",
+    "pronunciation": "/duˈre.re de kap/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian phrase \"durere de cap\" consists of the Latin word \"durere\" (pain), which comes directly from the Latin verb 'dolēre', and \"cap\", which derives from the Latin 'caput' (head).",
+        "targetText": "Expresia românească „durere de cap” este formată din cuvântul latin „durere” (durere), derivat direct din verbul latin 'dolēre', și „cap”, care provine din latinul 'caput' (cap)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "head",
+      "targetText": "cap"
+    },
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "migraine",
+      "targetText": "migrenă"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have a headache after working long hours at the computer.",
+      "targetText": "Am dureri de cap după ce am lucrat mult timp la calculator."
+    },
+    {
+      "sourceText": "Headaches can be caused by stress.",
+      "targetText": "Durerile de cap pot fi cauzate de stres."
+    },
+    {
+      "sourceText": "If you have a headache, you should drink plenty of water.",
+      "targetText": "Dacă ai dureri de cap, ar trebui să bei multă apă."
+    },
+    {
+      "sourceText": "Sometimes medication helps against headaches.",
+      "targetText": "Uneori, medicamentele ajută împotriva durerilor de cap."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'durere de cap' as 'durere' meaning pain, 'de' meaning of, and 'cap' meaning head—it's a direct translation of 'headache.'"
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'cap' sounds like the English 'cap' (a hat), which you wear on your head—helping you remember 'cap' means head."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a headache as your 'head' having an 'ache'—this helps link the English word to the Romanian phrase."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'durere' with the Latin root 'dolēre' meaning to hurt, similar to Italian 'dolore'—this shows the shared Romance language origin."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

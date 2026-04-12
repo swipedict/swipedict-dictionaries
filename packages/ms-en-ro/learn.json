@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-learn",
+  "parent": "ms-ro-a-invata-63032e43@d4d5cd86972ae270f9425167a65b3bb1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "learn",
+    "definition": "to acquire knowledge or skills through study, experience, or teaching",
+    "pronunciation": "/lɜːrn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"learn\" originates from Old English \"leornian\", meaning to get knowledge or experience.",
+        "targetText": "Cuvântul englezesc „learn” provine din engleza veche „leornian”, care înseamnă a dobândi cunoștințe sau experiență."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb, commonly used in educational contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a învăța",
+    "definition": "a dobândi cunoștințe sau abilități",
+    "pronunciation": "/ɨn.vəˈtsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a învăța“ comes from the Late Latin „invītiare“ (to instruct, to teach), which evolved to mean learning.",
+        "targetText": "Verbul românesc „a învăța“ provine din latinul târziu „invītiare” (a informa, a instrui), care a evoluat cu sensul de „a învăța”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Frequently used in academic contexts."
+  },
+  "senses": [
+    {
+      "gloss": "memorize",
+      "explanation": {
+        "sourceText": "This means to repeat something from memory.",
+        "targetText": "Înseamnă a repeta ceva din memorie."
+      },
+      "examples": [
+        {
+          "sourceText": "I have to memorize the vocabulary.",
+          "targetText": "Trebuie să învăț vocabulele pe de rost."
+        }
+      ]
+    },
+    {
+      "gloss": "learning through experience",
+      "explanation": {
+        "sourceText": "This means to learn by one's own experiences.",
+        "targetText": "Înseamnă a învăța prin experiență proprie."
+      },
+      "examples": [
+        {
+          "sourceText": "I learn a lot through practical experience.",
+          "targetText": "Învăț mult din experiența practică."
+        }
+      ]
+    },
+    {
+      "gloss": "self-study",
+      "explanation": {
+        "sourceText": "This means to study alone.",
+        "targetText": "Înseamnă a studia singur."
+      },
+      "examples": [
+        {
+          "sourceText": "I do self-study in various subjects.",
+          "targetText": "Fac studiu individual la diferite materii."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "book",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "teacher",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "school",
+      "targetText": "școală"
+    },
+    {
+      "sourceText": "studies",
+      "targetText": "studii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "forget",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I learn new things every day.",
+      "targetText": "Eu învăț lucruri noi în fiecare zi."
+    },
+    {
+      "sourceText": "Are you studying for the exam?",
+      "targetText": "Învoci pentru examen?"
+    },
+    {
+      "sourceText": "She learns the new language quickly.",
+      "targetText": "Ea învață rapid limba nouă."
+    },
+    {
+      "sourceText": "We study together for the exam.",
+      "targetText": "Noi învățăm împreună pentru examen."
+    },
+    {
+      "sourceText": "Are you learning the vocabulary?",
+      "targetText": "Învățați vocabulele?"
+    },
+    {
+      "sourceText": "They learn diligently.",
+      "targetText": "Ei învață cu sârguință."
+    },
+    {
+      "sourceText": "I have learned German.",
+      "targetText": "Am învățat limba germană."
+    },
+    {
+      "sourceText": "They have learned many things.",
+      "targetText": "Au învățat multe lucruri."
+    },
+    {
+      "sourceText": "He always studied diligently at school.",
+      "targetText": "El învăța mereu cu sârguință."
+    },
+    {
+      "sourceText": "We had already learned a lot before the course started.",
+      "targetText": "Noi învățasem deja multe înainte de a începe cursul."
+    },
+    {
+      "sourceText": "I will learn a new topic now.",
+      "targetText": "Voi învăța acum un subiect nou."
+    },
+    {
+      "sourceText": "She will learn a lot after class.",
+      "targetText": "Ea o să învețe mult după cursuri."
+    },
+    {
+      "sourceText": "I would learn more if I had more time.",
+      "targetText": "Aș învăța mai mult dacă aș avea mai mult timp."
+    },
+    {
+      "sourceText": "It is important that you learn every day.",
+      "targetText": "Este important să înveți în fiecare zi."
+    },
+    {
+      "sourceText": "Learn the new words!",
+      "targetText": "Învață cuvintele noi!"
+    },
+    {
+      "sourceText": "Learn the vocabulary!",
+      "targetText": "Învățați vocabulele!"
+    },
+    {
+      "sourceText": "The learned knowledge is valuable.",
+      "targetText": "Cunoștințele învățate sunt valoroase."
+    },
+    {
+      "sourceText": "The course is now learned.",
+      "targetText": "Cursul este acum învățat."
+    },
+    {
+      "sourceText": "By learning about the topic, I understand it better.",
+      "targetText": "Învățând despre acest subiect, înțeleg mai bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"learn\" and Romanian \"a învăța\" both mean to acquire knowledge or skills, whether at school or in everyday life."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian verb endings in present tense are: -u (I), -i (you singular), -ă (he/she), -ăm (we), -ați (you plural), -ă (they). Try to associate these with English pronouns."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"Învățăm împreună\" (We learn together) to practice conjugation and remember the communal aspect of learning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"invest\" to remember the Latin root \"invītiare\" related to teaching and learning—investing time in knowledge."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

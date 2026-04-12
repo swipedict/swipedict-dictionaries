@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-boss",
+  "parent": "ms-ro-sef-50ed1a62@3c2078e953758c7bf16b654488b02b11",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "boss",
+    "genus": "masculine",
+    "definition": "A person who is in charge of a group, department, or organization.",
+    "pronunciation": "/bɒs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'boss' comes from the Dutch 'baas', meaning 'master' or 'overseer', originally from Middle Dutch.",
+        "targetText": "Cuvântul englezesc „boss” provine din olandeza „baas”, care înseamnă „stăpân” sau „supraveghetor”, originar din olandeza mijlocie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șef",
+    "genus": "masculine",
+    "definition": "Persoana care conduce un grup, o secție sau o organizație.",
+    "pronunciation": "/ʃef/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'șef' comes directly from the French 'chef', which derives from the Latin 'caput'.",
+        "targetText": "Cuvântul românesc 'șef' provine direct din franceza 'chef', derivat din latină 'caput'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "executive floor",
+      "targetText": "conducere superioară"
+    },
+    {
+      "sourceText": "colleague",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "management",
+      "targetText": "conducere"
+    },
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The boss gives the instructions.",
+      "targetText": "Șeful dă instrucțiunile."
+    },
+    {
+      "sourceText": "My boss is very friendly.",
+      "targetText": "Șeful meu este foarte prietenos."
+    },
+    {
+      "sourceText": "The female boss leads the team well.",
+      "targetText": "Șefa conduce bine echipa."
+    },
+    {
+      "sourceText": "The boss has the final word.",
+      "targetText": "Șeful are ultimul cuvânt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'boss' as the person who 'bosses' others around, making it easy to remember it's the leader."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'șef' sounds like 'chef' in English, which means 'head cook'—both are leaders in their domain."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'șef' comes from French 'chef', meaning 'head'—just like a boss is the head of a team."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine your boss wearing a chef’s hat to remember 'șef'—the leader who 'cooks up' the plans."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

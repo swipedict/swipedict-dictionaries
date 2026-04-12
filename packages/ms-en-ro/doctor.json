@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-doctor",
+  "parent": "ms-ro-doctor-1fc0f36a@a85c15acae46b9b823f83c88abf10cb2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "doctor",
+    "genus": "masculine",
+    "definition": "A person who is medically trained and qualified to treat illnesses and injuries.",
+    "pronunciation": "/ˈdɒktər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'doctor' comes from the Latin 'doctor', meaning 'teacher' or 'scholar', originally used to denote someone who imparts knowledge, and later adopted to refer to medical practitioners.",
+        "targetText": "Cuvântul englezesc „doctor” provine din latinul 'doctor', care înseamnă 'profesor' sau 'învățat', folosit ulterior pentru medici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "doctor",
+    "genus": "masculine",
+    "definition": "O persoană calificată medical, care tratează boli.",
+    "pronunciation": "/dokˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'doctor' derives from the Latin 'doctor', meaning 'teacher' or 'scholar', later used for medical doctors.",
+        "targetText": "Cuvântul românesc „doctor” provine din latinul 'doctor', care înseamnă 'profesor' sau 'învățat', folosit ulterior pentru medici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "medicine",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "patient",
+      "targetText": "pacient"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The doctor examines the patient.",
+      "targetText": "Doctorul examinează pacientul."
+    },
+    {
+      "sourceText": "I have an appointment with the doctor tomorrow.",
+      "targetText": "Am o programare la doctor mâine."
+    },
+    {
+      "sourceText": "The doctor prescribes medication.",
+      "targetText": "Doctorul prescrie medicamente."
+    },
+    {
+      "sourceText": "A good doctor listens carefully.",
+      "targetText": "Un doctor bun ascultă bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'doctor' is almost identical to the English 'doctor'—both come from Latin."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'doctor' originally meant 'teacher' before it was used for medical professionals."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a doctor as someone who brings knowledge and healing—this helps you remember the word easily."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the Romanian 'doctor' with the English 'doctor'—they sound the same and mean the same."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

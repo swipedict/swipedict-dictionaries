@@ -1,0 +1,144 @@
+{
+  "id": "ms-en-ro-load",
+  "parent": "ms-ro-a-incarca-da312798@360b7a8a2316e4ebe72a423f2d91aa46",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "load",
+    "definition": "to put or fill something into a container or onto a vehicle",
+    "pronunciation": "/loʊd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"load\" originates from Old English \"ladan\", meaning to bring or carry a burden, which evolved into the sense of filling or putting a burden onto something.",
+        "targetText": "Cuvântul englezesc „load“ provine din engleza veche „ladan“, care însemna a aduce sau a purta o povară, evoluând în sensul de a umple sau a pune o povară pe ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "This verb is commonly used to describe filling or putting items onto vehicles or containers. It can also be used figuratively, for example, when referring to loading data."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încărca",
+    "definition": "a umple sau a pune ceva într-un recipient sau pe un vehicul",
+    "pronunciation": "/ɨn.kərˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Borrowed from Latin \"incaricare\", it means to load and is related to \"încărcătură\" (load).",
+        "targetText": "Vom lateinischen „incaricare“ entlehnt, bedeutet es beladen und ist verwandt mit „încărcătură“ (Last)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regulary conjugated verb of the 1st conjugation (-a). It is frequently used to describe loading vehicles or uploading data. It can also be used figuratively."
+  },
+  "senses": [
+    {
+      "gloss": "Loading (physical)",
+      "explanation": {
+        "sourceText": "The verb describes filling or putting a load onto something.",
+        "targetText": "Verbul descrie umplerea sau încărcarea."
+      },
+      "examples": [
+        {
+          "sourceText": "The truck is about to be loaded.",
+          "targetText": "Camionul va fi încărcat în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "Loading (data)",
+      "explanation": {
+        "sourceText": "Used for uploading or loading data.",
+        "targetText": "Folosit pentru încărcarea datelor."
+      },
+      "examples": [
+        {
+          "sourceText": "I am loading the app.",
+          "targetText": "Încărc aplicația."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "bed",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "food",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "suitcase",
+      "targetText": "valiză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unload",
+      "targetText": "a descărca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am loading the bus.",
+      "targetText": "Încărc vehiculul."
+    },
+    {
+      "sourceText": "I have loaded the boxes.",
+      "targetText": "Am încărcat cutiile."
+    },
+    {
+      "sourceText": "I will load the program.",
+      "targetText": "Voi încărca programul."
+    },
+    {
+      "sourceText": "I would load the car if I could.",
+      "targetText": "Aș încărca mașina dacă aș putea."
+    },
+    {
+      "sourceText": "By loading the data, I save time.",
+      "targetText": "Încărcând datele, economisesc timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'load' as putting a heavy load onto a truck—this helps remember the meaning of 'a încărca'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember your phone 'loading' an app—this connects to the idea of 'a încărca' meaning to upload or fill."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine loading a suitcase before a trip to recall 'a încărca' as putting things into a container."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'load' sounds like 'lode', a rich source—think of 'a încărca' as putting valuable things in."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

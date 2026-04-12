@@ -1,0 +1,136 @@
+{
+  "id": "ms-en-ro-reckless",
+  "parent": "ms-ro-neglijent-f937a591@71dea62753de7a1967169cc7051b1b2f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "reckless",
+    "definition": "someone who acts without careful thought or concern for the consequences",
+    "pronunciation": "/ˈrɛkləs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"reckless\" combines \"reck\" meaning 'care' or 'regard' and the suffix \"-less\" meaning 'without', thus describing someone acting without care or consideration.",
+        "targetText": "Cuvântul englezesc „reckless“ combină „reck“ care înseamnă 'grijă' sau 'considerație' și sufixul „-less“ care înseamnă 'fără', descriind astfel pe cineva care acționează fără grijă sau considerație."
+      },
+      "source": "Etymological Dictionaries, AI"
+    },
+    "additional": "Reckless decisions are often driven by emotions and can lead to serious consequences."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neglijent",
+    "genus": "masculine",
+    "definition": "cineva care acționează fără a gândi la consecințe, într-un mod iresponsabil sau nepăsător",
+    "pronunciation": "/ne.ɡliˈʒent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „neglijent“ comes from the Latin „negligentem“, meaning 'careless', describing inattentive behavior.",
+        "targetText": "Cuvântul românesc „neglijent“ provine din latină, de la „negligentem“, care înseamnă „neglijent“, descriind un comportament neglijent."
+      },
+      "source": "Etymological Dictionaries, AI"
+    },
+    "additional": "Neglijența este adesea cauza multor accidente."
+  },
+  "senses": [
+    {
+      "gloss": "recklessness",
+      "explanation": {
+        "sourceText": "'Neglijență' also means 'recklessness' in Romanian.",
+        "targetText": "„Neglijență“ înseamnă și „ușurință“ sau „neglijență“ în română."
+      },
+      "examples": [
+        {
+          "sourceText": "Recklessness can lead to serious problems.",
+          "targetText": "Neglijența poate duce la probleme grave."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "risk",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "carefulness",
+      "targetText": "atenție"
+    },
+    {
+      "sourceText": "consideration",
+      "targetText": "considerație"
+    },
+    {
+      "sourceText": "caution",
+      "targetText": "prudență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reasonable",
+      "targetText": "rațional"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Reckless decisions can lead to regrettable consequences.",
+      "targetText": "Deciziile neglijente pot duce la consecințe regretabile."
+    },
+    {
+      "sourceText": "It is reckless not to take precautions.",
+      "targetText": "Este neglijent să nu iei măsuri de precauție."
+    },
+    {
+      "sourceText": "He often acts recklessly and does not think.",
+      "targetText": "Acesta acționează adesea neglijent și nu se gândește."
+    },
+    {
+      "sourceText": "Reckless drivers often cause accidents.",
+      "targetText": "Șoferii neglijenți provoacă adesea accidente."
+    },
+    {
+      "sourceText": "Going out without an umbrella in the rain is considered reckless.",
+      "targetText": "Este considerat neglijent să ieși fără umbrela atunci când plouă."
+    },
+    {
+      "sourceText": "Being reckless can have serious consequences.",
+      "targetText": "A fi neglijent poate avea consecințe grave."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'reckless' by thinking of 'wreck'—acting carelessly can cause a wreck, just like being 'neglijent'."
+    },
+    {
+      "lang": "en",
+      "text": "The 'less' in 'reckless' means 'without'—so 'without reck' or care, similar to 'neglijent'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a reckless driver ignoring safety—this helps recall the meaning of 'neglijent'."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'neglijent' to 'negligent' in English, both meaning careless or inattentive."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

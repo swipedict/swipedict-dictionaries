@@ -1,0 +1,185 @@
+{
+  "id": "ms-en-ro-go",
+  "parent": "ms-ro-a-merge-9a4afd5d@e69ffdc547f26f91f01c2f10d47e6271",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "go",
+    "definition": "to move or proceed on foot or by any means from one place to another",
+    "pronunciation": "/ɡoʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"go\" originates from Old English \"gān\" and is related to other Germanic languages' words meaning to move or walk.",
+        "targetText": "Cuvântul englezesc „go” provine din engleza veche „gān” și este înrudit cu alte cuvinte din limbile germanice care înseamnă a se mișca sau a merge."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb. Commonly used to describe movement and travel."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a merge",
+    "definition": "a se deplasa cu picioarele",
+    "pronunciation": "/a ˈmerd͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian verb \"a merge\" is debated; it has traditionally been linked to the Latin \"mergere\" (to immerse, to sink), but this derivation is uncertain.",
+        "targetText": "Originea verbului românesc „a merge” este controversată; deși a fost asociat tradițional cu latinescul „mergere” („a scufunda”), această etimologie este nesigură și disputată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "to cover a distance",
+      "explanation": {
+        "sourceText": "Can also mean to travel a certain distance.",
+        "targetText": "Poate însemna și a parcurge o distanță."
+      },
+      "examples": [
+        {
+          "sourceText": "I go home.",
+          "targetText": "Merg acasă."
+        }
+      ]
+    },
+    {
+      "gloss": "to move about",
+      "explanation": {
+        "sourceText": "Means to move on foot or to walk.",
+        "targetText": "Înseamnă a se deplasa pe jos sau a merge."
+      },
+      "examples": [
+        {
+          "sourceText": "I go to school.",
+          "targetText": "Merg la școală."
+        }
+      ]
+    },
+    {
+      "gloss": "used verbally in expressions",
+      "explanation": {
+        "sourceText": "Used in various idiomatic expressions, e.g., \"I am doing well.\"",
+        "targetText": "Este folosit în diverse expresii, de exemplu „Mie îmi merge bine“."
+      },
+      "examples": [
+        {
+          "sourceText": "I am doing well.",
+          "targetText": "Mie îmi merge bine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "run",
+      "targetText": "a alerga"
+    },
+    {
+      "sourceText": "travel",
+      "targetText": "a călători"
+    },
+    {
+      "sourceText": "jump",
+      "targetText": "a sări"
+    },
+    {
+      "sourceText": "hike",
+      "targetText": "a hoinări"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stand",
+      "targetText": "a sta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I go home.",
+      "targetText": "Eu merg acasă."
+    },
+    {
+      "sourceText": "Do you go to school?",
+      "targetText": "Mergi la școală?"
+    },
+    {
+      "sourceText": "He often goes to the cinema.",
+      "targetText": "El merge adesea la cinema."
+    },
+    {
+      "sourceText": "We go for a walk together.",
+      "targetText": "Noi mergem împreună la plimbare."
+    },
+    {
+      "sourceText": "Are you going swimming tomorrow?",
+      "targetText": "Mergeți mâine la înot?"
+    },
+    {
+      "sourceText": "They go to the park every Sunday.",
+      "targetText": "Ei merg în parc în fiecare duminică."
+    },
+    {
+      "sourceText": "I went home.",
+      "targetText": "Am mers acasă."
+    },
+    {
+      "sourceText": "He went to work on foot every day.",
+      "targetText": "El mergea în fiecare zi pe jos la muncă."
+    },
+    {
+      "sourceText": "I will go tomorrow.",
+      "targetText": "Voi merge mâine."
+    },
+    {
+      "sourceText": "I would go if I had time.",
+      "targetText": "Aș merge dacă aș avea timp."
+    },
+    {
+      "sourceText": "Go now!",
+      "targetText": "Mergi acum!"
+    },
+    {
+      "sourceText": "The person who is going is my friend.",
+      "targetText": "Persoana care merge este prietenul meu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"go\" as the basic verb for movement—think of the phrase \"Ready, set, go!\" to connect it with action."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"a merge\" sounds like \"a merge\" in English, which means to proceed or move forward, helping you recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Use the command form \"Mergi!\" to remember it means \"Go!\" in Romanian, similar to the English imperative."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"merge\" in English computing terms (to combine or move together) to link with the idea of moving or going somewhere."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

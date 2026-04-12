@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-weather-forecast",
+  "parent": "ms-ro-prognoza-meteo-7e500ca0@c07c715b6a982fb2aae18467d6ef7806",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "weather forecast",
+    "genus": "feminine",
+    "definition": "A prediction or estimate of future weather conditions based on meteorological data.",
+    "pronunciation": "/ˈwɛðər ˈfɔːrkæst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'weather forecast' combines 'weather', which comes from Old English 'weder' related to the Proto-Indo-European root *wed- meaning 'wet' or 'water', and 'forecast', derived from the verb 'to forecast', meaning to predict or estimate beforehand.",
+        "targetText": "Termenul englezesc „weather forecast” combină „weather”, care provine din engleza veche „weder” legat de rădăcina proto-indo-europeană *wed- ce înseamnă „umed” sau „apă”, și „forecast”, derivat din verbul „to forecast”, care înseamnă a prezice sau estima în avans."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prognoză meteo",
+    "genus": "feminine",
+    "definition": "Previziunea sau estimarea stării vremii viitoare, bazată pe date meteorologice.",
+    "pronunciation": "/proɡˈno.zə meˈte.o/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'prognoză' comes from the Latin 'prognōsis', which itself derives from the Greek 'πρόγνωσις' (prógnōsis), meaning 'prediction'. 'Meteo' is a shortened form of 'meteorologic', also derived from the Greek 'μετεωρολογικός' (meteorologikós).",
+        "targetText": "Cuvântul românesc „prognoză“ provine din latină, din „prognōsis“, care la rândul său vine din greaca „πρόγνωσις“ (prógnōsis), însemnând „previziune“. „Meteo“ este o formă prescurtată a cuvântului „meteorologic“, derivat din greaca „μετεωρολογικός“ (meteorologikós)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Meteorology",
+      "targetText": "meteorologie"
+    },
+    {
+      "sourceText": "Forecast",
+      "targetText": "previziune"
+    },
+    {
+      "sourceText": "Weather",
+      "targetText": "vreme"
+    },
+    {
+      "sourceText": "Cloud",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The weather forecast predicts rain for tomorrow.",
+      "targetText": "Prognoza meteo anunță ploaie pentru mâine."
+    },
+    {
+      "sourceText": "According to the weather forecast, it will be sunny next week.",
+      "targetText": "Conform prognozei meteo, săptămâna viitoare va fi însorit."
+    },
+    {
+      "sourceText": "The weather forecast helps us plan the day better.",
+      "targetText": "Prognoza meteo ne ajută să planificăm mai bine ziua."
+    },
+    {
+      "sourceText": "The weather forecast was announced on the radio.",
+      "targetText": "Prognoza meteo a fost anunțată la radio."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'weather forecast' as your daily 'weather report' that helps you prepare for rain or shine."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'prognoză' sounds like 'prognosis' in English, both meaning a prediction or forecast."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'meteo' relates to 'meteorology', the scientific study of weather, making 'prognoză meteo' easy to connect with weather forecasting."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a meteor (like a shooting star) forecasting the weather — this links 'meteo' with 'prognoză' in your mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-brake",
+  "parent": "ms-ro-a-frana-0be864ca@701325160659525ff4143d1071d79b48",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "brake",
+    "definition": "To slow down or stop the movement of a vehicle or machine.",
+    "pronunciation": "/breɪk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"brake\" originates from Old English \"bracan\" meaning to break or shatter, related to the concept of stopping or interrupting motion.",
+        "targetText": "Cuvântul englezesc „brake” provine din engleza veche „bracan”, care înseamnă a rupe sau a zdrobi, legat de conceptul de a opri sau întrerupe mișcarea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a frâna",
+    "definition": "A reduce viteza unui vehicul sau a-l opri.",
+    "pronunciation": "/a ˈfrɨ.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a frâna” derives from the Slavic word 'frana', meaning 'brake'.",
+        "targetText": "Verbul românesc „a frâna” provine din slavonul 'frana', care înseamnă 'a frâna'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Stop",
+      "targetText": "a opri"
+    },
+    {
+      "sourceText": "Brake",
+      "targetText": "frână"
+    },
+    {
+      "sourceText": "Vehicle",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "Speed",
+      "targetText": "viteză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "accelerate",
+      "targetText": "a accelera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I brake when I see an intersection.",
+      "targetText": "Eu frânez când văd o intersecție."
+    },
+    {
+      "sourceText": "The car brakes suddenly.",
+      "targetText": "Mașina frânează brusc."
+    },
+    {
+      "sourceText": "Please brake carefully on ice.",
+      "targetText": "Te rog să frânezi cu grijă pe gheață."
+    },
+    {
+      "sourceText": "He braked to avoid an accident.",
+      "targetText": "A frânat pentru a evita un accident."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a frâna' sounds like 'fran'—imagine a friend named Fran pressing the brake to stop the car."
+    },
+    {
+      "lang": "en",
+      "text": "The verb ends with -a, typical for Romanian first conjugation verbs, making it easier to conjugate."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a frâna' as coming from a Slavic root meaning 'brake', which helps link the meaning clearly."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'brake' with Romanian 'a frâna' through their shared meaning of slowing down or stopping."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

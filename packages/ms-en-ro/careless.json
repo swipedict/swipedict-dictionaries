@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-careless",
+  "parent": "ms-ro-neglijent-f937a591@71dea62753de7a1967169cc7051b1b2f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "careless",
+    "definition": "not paying enough attention; acting without caution or consideration of risk",
+    "pronunciation": "/ˈkɛərləs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective \"careless\" is formed from \"care\" plus the suffix \"-less,\" meaning without care or attention.",
+        "targetText": "Adjectivul „careless” este format din cuvântul „care” și sufixul „-less”, însemnând fără grijă sau atenție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Careless actions can lead to serious consequences, especially in risky situations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neglijent",
+    "genus": "masculine",
+    "definition": "a nu fi atent; a risca ceva",
+    "pronunciation": "/ne.ɡliˈʒent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "\"Neglijent\" comes from the French \"négligent,\" derived from Latin \"negligere\" meaning to neglect, and describes inattentive behavior.",
+        "targetText": "Adjectivul „neglijent” provine din franceza „négligent”, derivat din latină „negligere”, însemnând neglijent sau neatenționat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Neglijența poate cauza accidente și neplăceri în viața de zi cu zi."
+  },
+  "senses": [
+    {
+      "gloss": "reckless",
+      "explanation": {
+        "sourceText": "Means acting without sufficient thought.",
+        "targetText": "Înseamnă a acționa fără suficientă reflecție."
+      },
+      "examples": [
+        {
+          "sourceText": "His careless manner can cause problems.",
+          "targetText": "Natura lui neglijentă poate provoca probleme."
+        }
+      ]
+    },
+    {
+      "gloss": "not paying attention",
+      "explanation": {
+        "sourceText": "Means risking things through inattentiveness.",
+        "targetText": "Înseamnă a risca lucruri prin neatenție."
+      },
+      "examples": [
+        {
+          "sourceText": "Careless people often overlook dangers.",
+          "targetText": "Oamenii neglijenți adesea ignoră pericolele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "attention",
+      "targetText": "atenție"
+    },
+    {
+      "sourceText": "danger",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "risk",
+      "targetText": "riscuri"
+    },
+    {
+      "sourceText": "carefulness",
+      "targetText": "atenție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "careful",
+      "targetText": "prudent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "His careless behavior led to an accident.",
+      "targetText": "Comportamentul său neglijent a dus la un accident."
+    },
+    {
+      "sourceText": "Careless decisions can become costly.",
+      "targetText": "Deciziile neglijente pot deveni costisitoare."
+    },
+    {
+      "sourceText": "She always made careless remarks.",
+      "targetText": "Ea face întotdeauna comentarii neglijente."
+    },
+    {
+      "sourceText": "Careless drivers often have trouble with the police.",
+      "targetText": "Șoferii neglijenți au adesea probleme cu poliția."
+    },
+    {
+      "sourceText": "It is careless to drive on icy roads.",
+      "targetText": "Este neglijent să conduci pe gheață."
+    },
+    {
+      "sourceText": "Acting carelessly can have serious consequences.",
+      "targetText": "A acționa neglijent poate avea consecințe grave."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'careless' by thinking of someone who 'lacks care'—just like 'neglijent' means not paying enough attention."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'neglijent' sounds like 'negligent' in English, which also means careless or inattentive."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a careless person dropping something because they didn’t pay attention—that helps link 'careless' to 'neglijent'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'neglijent' as 'neglecting' your duties, which is a good way to remember it means careless."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

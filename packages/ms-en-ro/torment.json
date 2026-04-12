@@ -1,0 +1,213 @@
+{
+  "id": "ms-en-ro-torment",
+  "parent": "ms-ro-a-chinui-f3bd0d44@88e0305432f244965e450aca032d0e22",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:hungarian",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "torment",
+    "definition": "to cause someone to suffer physically or emotionally through pain or worry",
+    "pronunciation": "/ˈtɔːrmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'torment' comes from the Latin 'tormentum', meaning a means of twisting or torture, originally referring to a device for twisting or torture, and later extended to mean causing severe physical or mental suffering.",
+        "targetText": "Verbul englezesc „torment“ provine din latină, din cuvântul „tormentum“, care înseamnă un mijloc de răsucire sau tortură, inițial referindu-se la un dispozitiv de tortură, și ulterior extins pentru a desemna cauzarea suferinței fizice sau mentale severe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in both emotional and physical contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a chinui",
+    "definition": "a provoca durere sau suferință cuiva",
+    "pronunciation": "/a kɪˈnui/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a chinui' derives from the Hungarian 'kín', meaning 'torture' or 'agony', and expresses both physical and emotional pain.",
+        "targetText": "Verbul românesc „a chinui“ provine din maghiara „kín“, care înseamnă tortură sau suferință, și exprimă durere fizică sau emoțională."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Often used when talking about stress or suffering."
+  },
+  "senses": [
+    {
+      "gloss": "To torture",
+      "explanation": {
+        "sourceText": "Can be used to describe someone suffering physical pain.",
+        "targetText": "Poate descrie și suferința fizică cauzată de tortură."
+      },
+      "examples": [
+        {
+          "sourceText": "The torture was unbearable.",
+          "targetText": "Tortura a fost insuportabilă."
+        }
+      ]
+    },
+    {
+      "gloss": "To suffer",
+      "explanation": {
+        "sourceText": "In an emotional context, it can also mean 'to suffer'.",
+        "targetText": "În context emoțional, poate însemna și a suferi."
+      },
+      "examples": [
+        {
+          "sourceText": "I suffer from severe self-doubt.",
+          "targetText": "Sufăr din cauza îndoielilor de sine."
+        }
+      ]
+    },
+    {
+      "gloss": "To plague",
+      "explanation": {
+        "sourceText": "'To plague' also means to bother someone with constant worries.",
+        "targetText": "A chinui poate însemna și a deranja pe cineva cu griji constante."
+      },
+      "examples": [
+        {
+          "sourceText": "Worries plague me.",
+          "targetText": "Grijile mă chinuiesc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "to torture",
+      "targetText": "a tortura"
+    },
+    {
+      "sourceText": "suffering",
+      "targetText": "suferință"
+    },
+    {
+      "sourceText": "pain",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "worry",
+      "targetText": "grijă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to ease",
+      "targetText": "a ușura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I torment myself with my thoughts.",
+      "targetText": "Mă chinui cu gândurile mele."
+    },
+    {
+      "sourceText": "Do you torment yourself?",
+      "targetText": "Te chinuiești?"
+    },
+    {
+      "sourceText": "She torments herself with the decision.",
+      "targetText": "Se chinuie cu decizia."
+    },
+    {
+      "sourceText": "We torment ourselves with worries.",
+      "targetText": "Ne chinuim cu grijile."
+    },
+    {
+      "sourceText": "Do you torment yourselves too much?",
+      "targetText": "Vă chinuiți prea mult?"
+    },
+    {
+      "sourceText": "They torment themselves because of the exams.",
+      "targetText": "Ei se chinuiesc din cauza examenelor."
+    },
+    {
+      "sourceText": "I tormented myself yesterday.",
+      "targetText": "M-am chinuit ieri."
+    },
+    {
+      "sourceText": "They tormented themselves with the situation.",
+      "targetText": "S-au chinuit cu situația."
+    },
+    {
+      "sourceText": "He often tormented himself at school.",
+      "targetText": "Se chinuia adesea la școală."
+    },
+    {
+      "sourceText": "I had tormented myself for a long time before I asked for help.",
+      "targetText": "M-am chinuit de mult înainte de a cere ajutor."
+    },
+    {
+      "sourceText": "I will not torment myself.",
+      "targetText": "Nu mă voi chinui."
+    },
+    {
+      "sourceText": "She will not torment herself.",
+      "targetText": "Ea nu se va chinui."
+    },
+    {
+      "sourceText": "I would torment myself less if I knew everything would be fine.",
+      "targetText": "M-aș chinui mai puțin dacă aș ști că totul va fi bine."
+    },
+    {
+      "sourceText": "It is necessary that you do not torment yourself.",
+      "targetText": "Este necesar să nu te chinui."
+    },
+    {
+      "sourceText": "Do not torment yourself!",
+      "targetText": "Nu te chinui!"
+    },
+    {
+      "sourceText": "Do not torment yourselves unnecessarily!",
+      "targetText": "Nu vă chinuiți inutil!"
+    },
+    {
+      "sourceText": "The tormented soul found peace.",
+      "targetText": "Sufletul chinuit a găsit liniște."
+    },
+    {
+      "sourceText": "The problems were tormented.",
+      "targetText": "Problemele au fost chinuite."
+    },
+    {
+      "sourceText": "Tormenting ourselves about the situation, we found solutions.",
+      "targetText": "Chinuiți de situație, am găsit soluții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'torment' sounds like 'torn mint'—imagine a mint leaf torn apart, causing discomfort, just like 'a chinui' means to cause suffering."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian root 'chin' means 'agony'—think of 'chin' as 'keen' pain that you feel deeply."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'Nu te chinui!' meaning 'Don't torment yourself!' to practice the negative imperative form."
+    },
+    {
+      "lang": "en",
+      "text": "The verb 'a chinui' conjugates regularly with '-i' endings, similar to many English verbs ending in '-y' (like 'carry'), making it easier to remember."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

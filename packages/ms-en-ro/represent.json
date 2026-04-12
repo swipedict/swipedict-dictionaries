@@ -1,0 +1,200 @@
+{
+  "id": "ms-en-ro-represent",
+  "parent": "ms-ro-a-reprezenta-a95dc2a3@f7068762d2b246f4d7a4f1271b1aa032",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "represent",
+    "definition": "to present or show something in a particular way",
+    "pronunciation": "/ˌrɛprɪˈzɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"represent\" comes from the Latin 'repraesentare', meaning 'to present' or 'to show'. It entered English through Old French and has been used to describe the act of presenting or depicting something, either visually or conceptually.",
+        "targetText": "Cuvântul englezesc „represent“ provine din latinul „repraesentare“, care înseamnă „a prezenta“ sau „a arăta“. A intrat în limba engleză prin franceza veche și este folosit pentru a descrie actul de a prezenta sau a reprezenta ceva, fie vizual, fie conceptual."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb. Often used in art or content presentation. In modern usage, it also has metaphorical meanings."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reprezenta",
+    "definition": "a prezenta sau a arăta ceva într-un anumit mod",
+    "pronunciation": "/a re.pɨ.zenˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word \"a reprezenta\" comes from the Latin \"repraesentare\", meaning \"to present, to show\". It is a common expression in Romanian when talking about art, theater, or presentations.",
+        "targetText": "Cuvântul românesc „a reprezenta“ derivă din latinescul „repraesentare“, care înseamnă „a prezenta“ sau „a arăta“. Este folosit frecvent în artă și teatru."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Used to express various representations and interpretations, both artistic and theoretical."
+  },
+  "senses": [
+    {
+      "gloss": "Interpretation",
+      "explanation": {
+        "sourceText": "The word often describes creative approaches to presentation.",
+        "targetText": "Cuvântul descrie adesea abordările creative ale prezentării."
+      },
+      "examples": [
+        {
+          "sourceText": "The interpretation of the work was innovative.",
+          "targetText": "Interpretarea lucrării a fost inovatoare."
+        }
+      ]
+    },
+    {
+      "gloss": "Presentation",
+      "explanation": {
+        "sourceText": "The word is often used in art to describe visual representations.",
+        "targetText": "Cuvântul este folosit frecvent în artă pentru a descrie reprezentări vizuale."
+      },
+      "examples": [
+        {
+          "sourceText": "The artist's presentation was impressive.",
+          "targetText": "Prezentarea artistului a fost impresionantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "image",
+      "targetText": "imagine"
+    },
+    {
+      "sourceText": "representation",
+      "targetText": "reprezentare"
+    },
+    {
+      "sourceText": "interpretation",
+      "targetText": "interpretare"
+    },
+    {
+      "sourceText": "artist",
+      "targetText": "artist"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hide",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I represent the image.",
+      "targetText": "Eu reprezint imaginea."
+    },
+    {
+      "sourceText": "Do you represent the idea?",
+      "targetText": "Reprezinți ideea?"
+    },
+    {
+      "sourceText": "He represents the arguments.",
+      "targetText": "El reprezintă argumentele."
+    },
+    {
+      "sourceText": "We represent the data.",
+      "targetText": "Noi reprezentăm datele."
+    },
+    {
+      "sourceText": "Do you represent the information?",
+      "targetText": "Reprezentați informațiile?"
+    },
+    {
+      "sourceText": "They represent the character.",
+      "targetText": "Ei reprezintă caracterul."
+    },
+    {
+      "sourceText": "I have represented the play.",
+      "targetText": "Am reprezentat piesa."
+    },
+    {
+      "sourceText": "They have represented the view.",
+      "targetText": "Au reprezentat viziunea."
+    },
+    {
+      "sourceText": "He often represented the scene.",
+      "targetText": "El reprezenta des scena."
+    },
+    {
+      "sourceText": "I had already represented the image.",
+      "targetText": "Reprezentasem deja imaginea."
+    },
+    {
+      "sourceText": "I will represent the study.",
+      "targetText": "Voi reprezenta studiul."
+    },
+    {
+      "sourceText": "She will represent the project.",
+      "targetText": "Ea o să reprezinte proiectul."
+    },
+    {
+      "sourceText": "I would represent the results to you.",
+      "targetText": "Ți-aș reprezenta rezultatele."
+    },
+    {
+      "sourceText": "It is necessary that you represent the ideas.",
+      "targetText": "Este necesar să reprezinți ideile."
+    },
+    {
+      "sourceText": "Represent the concept!",
+      "targetText": "Reprezintă conceptul!"
+    },
+    {
+      "sourceText": "Represent the project!",
+      "targetText": "Reprezentați proiectul!"
+    },
+    {
+      "sourceText": "The represented image is impressive.",
+      "targetText": "Imaginea reprezentată este impresionantă."
+    },
+    {
+      "sourceText": "The study is represented.",
+      "targetText": "Studiul este reprezentat."
+    },
+    {
+      "sourceText": "By representing the image, he creates many emotions.",
+      "targetText": "Reprezentând imaginea, el generează multe emoții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'represent' as 're-present'—to present something again or in a new way, just like in art or theater."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'represent' is used when showing or depicting ideas, people, or things, similar to how a lawyer represents a client."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Romanian 'a reprezenta' with the English 'represent'—they sound similar and share the same Latin root."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase 'represent the facts' to recall that 'a reprezenta' means to present or show something clearly."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

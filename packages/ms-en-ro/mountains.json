@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-mountains",
+  "parent": "ms-ro-munti-2470e003@625aeed3e88be1ef3098e3a1ba692847",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mountains",
+    "genus": "masculine",
+    "definition": "High natural elevations of the Earth's surface, usually steep and rocky.",
+    "pronunciation": "/ˈmaʊntənz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"mountain\" comes from the Old French 'montaine', which derives from the Latin 'montanea', meaning 'mountainous region', ultimately from 'mons, montis' meaning 'mountain'.",
+        "targetText": "Cuvântul englezesc „mountain” provine din franceza veche 'montaine', care derivă din latină 'montanea', însemnând 'regiune muntoasă', provenind în cele din urmă din 'mons, montis' care înseamnă 'munte'."
+      },
+      "source": "Etymological Dictionaries English"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "munți",
+    "genus": "masculine",
+    "definition": "Formațiuni naturale înalte ale scoarței terestre, de obicei abrupte și stâncoase.",
+    "pronunciation": "/munˈt͡sʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"munți\" comes from the Latin 'mons, montis', meaning 'mountain'.",
+        "targetText": "Cuvântul românesc „munți” provine din latină, din 'mons, montis', care înseamnă 'munte'."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rock",
+      "targetText": "stâncă"
+    },
+    {
+      "sourceText": "peak",
+      "targetText": "vârf"
+    },
+    {
+      "sourceText": "hill",
+      "targetText": "deal"
+    },
+    {
+      "sourceText": "valley",
+      "targetText": "vale"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "valley",
+      "targetText": "vale"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The mountains are often covered with snow in winter.",
+      "targetText": "Munții sunt adesea acoperiți de zăpadă iarna."
+    },
+    {
+      "sourceText": "We like hiking in the mountains.",
+      "targetText": "Ne place să facem drumeții în munți."
+    },
+    {
+      "sourceText": "The highest mountain in Europe is Mont Blanc.",
+      "targetText": "Cel mai înalt munte din Europa este Mont Blanc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'mountain' and the Romanian 'munți' both trace back to the Latin root 'mons', meaning mountain."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'munți' sounds like 'mounts', which can help you recall it means mountains."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mountain' as a big 'mount' you climb, and 'munți' as the Romanian plural form of 'munte'."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine standing on a mountain peak ('munte') looking at the vast landscape to remember the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

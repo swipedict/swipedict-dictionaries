@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-kingdom",
+  "parent": "ms-ro-regat-2fde71e5@6ff23a3472cda493638c4a4469e0f263",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "kingdom",
+    "genus": "neuter",
+    "definition": "A country or territory ruled by a king or queen; a monarchy.",
+    "pronunciation": "/ˈkɪŋdəm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"kingdom\" is formed from \"king\" and the suffix \"-dom\", which denotes a domain or realm. \"King\" originates from Old English 'cyning', derived from the Proto-Germanic root *kuningaz, meaning a male monarch or ruler.",
+        "targetText": "Cuvântul englezesc „kingdom” este format din „king” și sufixul „-dom”, care indică un domeniu sau regat. „King” provine din engleza veche 'cyning', derivat din rădăcina proto-germanică *kuningaz, însemnând un monarh sau conducător masculin."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "regat",
+    "genus": "neuter",
+    "definition": "Un stat condus de un rege sau o regină; un regat.",
+    "pronunciation": "/reˈɡat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „regat” is a modern formation in Romanian, derived from „rege” (from Latin „rex”) with the suffix „-at”, modeled after French „royaume” or Italian „regato”.",
+        "targetText": "Cuvântul românesc „regat” este o creație internă, format din „rege” (din latină „rex”) și sufixul „-at”, după modelul francez „royaume” sau italian „regato”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rule",
+      "targetText": "domnie"
+    },
+    {
+      "sourceText": "king",
+      "targetText": "rege"
+    },
+    {
+      "sourceText": "queen",
+      "targetText": "regină"
+    },
+    {
+      "sourceText": "monarchy",
+      "targetText": "monarhie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "republic",
+      "targetText": "republică"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The United Kingdom of Great Britain and Northern Ireland is an island nation.",
+      "targetText": "Regatul Unit al Marii Britanii și Irlandei de Nord este un stat insular."
+    },
+    {
+      "sourceText": "In the Middle Ages, the kingdom was an important power factor in Europe.",
+      "targetText": "În Evul Mediu, regatul era un factor important de putere în Europa."
+    },
+    {
+      "sourceText": "The kingdom was ruled by a wise king.",
+      "targetText": "Regatul era condus de un rege înțelept."
+    },
+    {
+      "sourceText": "Many kingdoms existed before the formation of modern states.",
+      "targetText": "Multe regate au existat înaintea formării statelor moderne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'kingdom' by thinking of a 'king' who rules over a 'domain'—the suffix '-dom' means a realm or territory."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'regat' sounds like 'regal', which relates to kings and queens, helping you connect it to monarchy."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'regat' as related to 'regent', a ruler, both coming from Latin roots about ruling and leadership."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'regat' with the English word 'regal' and 'regulate'—both share the Latin root 'reg-' meaning to rule or guide."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

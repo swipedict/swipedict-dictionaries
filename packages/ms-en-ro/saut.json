@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-saut",
+  "parent": "ms-ro-a-sota-f84c3c0b@ef93371149355ec8ba93bcd6d69d0d3d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sauté",
+    "definition": "A cooking method where food is cooked quickly in a small amount of fat over relatively high heat, often stirring or tossing to cook evenly and preserve texture and flavor.",
+    "pronunciation": "/sɔːˈteɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb “sauté” comes from the French verb 'sauter', meaning 'to jump', referring to the way food jumps in the pan when tossed during cooking.",
+        "targetText": "Cuvântul englezesc „sauté” provine din verbul francez 'sauter', care înseamnă 'a sări', referindu-se la modul în care alimentele 'sar' în tigaie în timpul gătitului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "First conjugation verb, past participle: sautéed."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sota",
+    "definition": "A găti alimente în puțin ulei sau unt, la foc mic, adesea acoperit, pentru a le înmuia și a le păstra aroma.",
+    "pronunciation": "/a soˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb “a sota” derives from the French 'sauter', which originally means 'to jump', but in culinary context describes quick frying or sautéing.",
+        "targetText": "Verbul românesc „a sota” provine din franceza 'sauter', care înseamnă inițial 'a sări', dar în context culinar desemnează gătitul rapid în puțin ulei sau unt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, Partizip: sotat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to fry",
+      "targetText": "a prăji"
+    },
+    {
+      "sourceText": "to steam",
+      "targetText": "a găti la abur"
+    },
+    {
+      "sourceText": "to boil",
+      "targetText": "a fierbe"
+    },
+    {
+      "sourceText": "to braise",
+      "targetText": "a căli"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to roast",
+      "targetText": "a prăji (până la rumenire)"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I sauté the vegetables in a little oil until they are soft.",
+      "targetText": "Eu sota legumele în puțin ulei până devin moi."
+    },
+    {
+      "sourceText": "The meat is first sautéed and then fried.",
+      "targetText": "Carnea se sota mai întâi, apoi se prăjește."
+    },
+    {
+      "sourceText": "Sautéing preserves vitamins better than boiling.",
+      "targetText": "La sota, vitaminele se păstrează mai bine decât la fierbere."
+    },
+    {
+      "sourceText": "She sautés the onions until they are translucent.",
+      "targetText": "Ea sota ceapa până devine translucidă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a sota' by linking it to the English word 'sauté', which sounds similar and means cooking quickly in a pan with a little fat."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the French root 'sauter' meaning 'to jump'—imagine the food jumping in the pan as you 'a sota' it."
+    },
+    {
+      "lang": "en",
+      "text": "The sound 'so-ta' in Romanian can remind you of 'soft' cooking, as sautéing gently softens food."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'a sota' with the English word 'sauce'—both relate to cooking methods involving fats and flavors."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

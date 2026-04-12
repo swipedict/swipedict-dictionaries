@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-hunt",
+  "parent": "ms-ro-a-vana-9652be31@e9288474bf1ec6730498f6061a032eb1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hunt",
+    "definition": "to chase or pursue an animal or target in order to catch or kill it",
+    "pronunciation": "/hʌnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"hunt\" originates from Old English \"hunta\", meaning a hunter, and is related to the verb \"huntian\" which means to chase or pursue. It has roots in Proto-Germanic *huntōną, reflecting the action of pursuing game or prey.",
+        "targetText": "Cuvântul englezesc „hunt“ provine din engleza veche „hunta“, care însemna vânător, și este legat de verbul „huntian“, care înseamnă a urmări sau a alerga după ceva. Are rădăcini în proto-germanicul *huntōną, reflectând acțiunea de a urmări prada."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used to describe the act of pursuing animals or goals."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vâna",
+    "definition": "a urmări un animal pentru a-l prinde sau a-l omorî",
+    "pronunciation": "/a vɨˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb comes from Old Slavic \"vǫna\", carrying the same meaning. In Romanian, it mainly refers to hunting animals but also has figurative uses.",
+        "targetText": "Verbul provine din slavona veche „vǫna“, cu sens similar, și în română desemnează în principal vânătoarea, dar și urmărirea unor scopuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Traditional hunting methods are deeply rooted in Romanian culture."
+  },
+  "senses": [
+    {
+      "gloss": "to pursue goals",
+      "explanation": {
+        "sourceText": "The act of striving for goals in a figurative sense.",
+        "targetText": "Urmărirea unor scopuri sau țeluri, în sens figurat."
+      },
+      "examples": [
+        {
+          "sourceText": "He hunts for success.",
+          "targetText": "El vânează succesul."
+        }
+      ]
+    },
+    {
+      "gloss": "to hunt wild animals",
+      "explanation": {
+        "sourceText": "Refers to the pursuit of wild animals.",
+        "targetText": "Ca în germană, se referă la urmărirea animalelor sălbatice."
+      },
+      "examples": [
+        {
+          "sourceText": "Hunting wild game is a challenge.",
+          "targetText": "A vâna sălbăticia este o provocare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "hunting",
+      "targetText": "vânătoare"
+    },
+    {
+      "sourceText": "hunting season",
+      "targetText": "sezon de vânătoare"
+    },
+    {
+      "sourceText": "hunter",
+      "targetText": "vânător"
+    },
+    {
+      "sourceText": "wild animal",
+      "targetText": "animal sălbatic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to spare",
+      "targetText": "a proteja"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I hunt in the forest.",
+      "targetText": "Eu vânez în pădure."
+    },
+    {
+      "sourceText": "Do you like to hunt?",
+      "targetText": "Îți place să vânezi?"
+    },
+    {
+      "sourceText": "He hunts deer.",
+      "targetText": "El vânează căpriori."
+    },
+    {
+      "sourceText": "We hunt together.",
+      "targetText": "Noi vânăm împreună."
+    },
+    {
+      "sourceText": "Do you hunt wild animals?",
+      "targetText": "Vânați sălbăticiuni?"
+    },
+    {
+      "sourceText": "They hunt the dragon.",
+      "targetText": "Ei vânează dragonul."
+    },
+    {
+      "sourceText": "I hunted a hare.",
+      "targetText": "Am vânat un iepure."
+    },
+    {
+      "sourceText": "I used to hunt often.",
+      "targetText": "Îmi plăcea să vânez des."
+    },
+    {
+      "sourceText": "I will hunt the stag.",
+      "targetText": "Voi vâna cerbul."
+    },
+    {
+      "sourceText": "I would hunt if I had time.",
+      "targetText": "Aș vâna dacă aș avea timp."
+    },
+    {
+      "sourceText": "Hunt the little one!",
+      "targetText": "Vânează-l pe cel mic!"
+    },
+    {
+      "sourceText": "By going hunting, I enjoy nature.",
+      "targetText": "Vânând, mă bucur de natură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the English word \"hunt\" by associating it with the phrase \"hunt for treasure\"—both involve chasing or pursuing something valuable, just like \"a vâna\" means to pursue or chase."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word \"hunter\" which sounds similar to \"vânător\" in Romanian, both meaning someone who hunts."
+    },
+    {
+      "lang": "en",
+      "text": "The \"-a\" ending in Romanian verbs like \"a vâna\" is like the English infinitive \"to hunt\"—both indicate the base form of the verb."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a hunter aiming carefully—this helps connect the idea of pursuing a target (literal or figurative) with the Romanian verb \"a vâna\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

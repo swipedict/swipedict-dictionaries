@@ -1,0 +1,190 @@
+{
+  "id": "ms-en-ro-die",
+  "parent": "ms-ro-a-muri-01ba15b5@f30608f31661f3db9c28f17a43b76c5f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "die",
+    "definition": "to cease living; to lose life",
+    "pronunciation": "/daɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from Old English 'dīegan', related to the Proto-Germanic '*daujan', meaning 'to die'.",
+        "targetText": "Cuvântul provine din vechea engleză „dīegan”, legat de germanicul „*daujan”, care înseamnă „a muri”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb commonly used in many contexts to describe the end of life."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a muri",
+    "definition": "a pierde viața; a înceta să mai existe",
+    "pronunciation": "/a muˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the verb 'a muri' lies in the Latin 'mori', meaning 'to die', showing its connection to Latin.",
+        "targetText": "Verbul „a muri” își are originea în latinul „mori”, care înseamnă „a muri”, reflectând legătura cu limba latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Frequently used in literary and everyday contexts."
+  },
+  "senses": [
+    {
+      "gloss": "nutritional death",
+      "explanation": {
+        "sourceText": "Use of the term to describe dying from hunger.",
+        "targetText": "Utilizarea termenului pentru foame."
+      },
+      "examples": [
+        {
+          "sourceText": "We are dying of hunger.",
+          "targetText": "Morim de foame."
+        }
+      ]
+    },
+    {
+      "gloss": "die in a figurative sense",
+      "explanation": {
+        "sourceText": "Metaphorical use to describe extreme states.",
+        "targetText": "Utilizare metaforică pentru a descrie stări extreme."
+      },
+      "examples": [
+        {
+          "sourceText": "I would die if I don't eat.",
+          "targetText": "Aș muri dacă nu mănânc."
+        }
+      ]
+    },
+    {
+      "gloss": "dies in a movie",
+      "explanation": {
+        "sourceText": "Death as a dramatic element in films.",
+        "targetText": "Moartea ca element dramatic în filme."
+      },
+      "examples": [
+        {
+          "sourceText": "He dies in the last minutes of the movie.",
+          "targetText": "El moare în ultimele minute ale filmului."
+        }
+      ]
+    },
+    {
+      "gloss": "die of boredom",
+      "explanation": {
+        "sourceText": "Colloquial expression for extreme boredom.",
+        "targetText": "Expresie colocvială pentru plictiseală extremă."
+      },
+      "examples": [
+        {
+          "sourceText": "I am dying of boredom.",
+          "targetText": "Mor de plictiseală."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "existence",
+      "targetText": "existență"
+    },
+    {
+      "sourceText": "alive",
+      "targetText": "însuflețit"
+    },
+    {
+      "sourceText": "death",
+      "targetText": "moarte"
+    },
+    {
+      "sourceText": "mourning",
+      "targetText": "doliu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "live",
+      "targetText": "a trăi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am dying of boredom.",
+      "targetText": "Mor de plictiseală."
+    },
+    {
+      "sourceText": "Are you really dying?",
+      "targetText": "Mori cu adevărat?"
+    },
+    {
+      "sourceText": "He dies in the last minutes of the movie.",
+      "targetText": "El moare în ultimele minute ale filmului."
+    },
+    {
+      "sourceText": "We are dying of hunger.",
+      "targetText": "Morim de foame."
+    },
+    {
+      "sourceText": "Don't die so quickly!",
+      "targetText": "Nu muriți atât de repede!"
+    },
+    {
+      "sourceText": "They die in this city.",
+      "targetText": "Ei mor în acest oraș."
+    },
+    {
+      "sourceText": "I almost died yesterday.",
+      "targetText": "Am murit aproape ieri."
+    },
+    {
+      "sourceText": "I will die tomorrow.",
+      "targetText": "Voi muri mâine."
+    },
+    {
+      "sourceText": "I would die if I don't eat.",
+      "targetText": "Aș muri dacă nu mănânc."
+    },
+    {
+      "sourceText": "Don't die!",
+      "targetText": "Nu muri!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a muri' sounds like 'to moor' a boat—when a boat stops moving, it 'dies' in a way. Connect this image to the meaning of 'a muri'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'muri' comes from Latin 'mori', similar to the English 'mortality'. Think of 'mortality' to recall 'a muri'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English phrase 'to die of hunger'—in Romanian it's 'mor de foame'. The root 'mor' helps you remember 'a muri'."
+    },
+    {
+      "lang": "en",
+      "text": "The past tense 'am murit' sounds like 'I am merit'—imagine you 'merit' rest because you 'died' (finished) your task."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-dog",
+  "parent": "ms-ro-caine-e5665062@038224bee97815bbe4f9c71ac02bbf21",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "dog",
+    "genus": "masculine",
+    "definition": "A domesticated mammal, usually with four legs, commonly kept as a pet and often serving as a companion to humans.",
+    "pronunciation": "/dɔɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"dog\" has an uncertain origin but has been used since Middle English to refer to a domesticated canine. Its exact etymology is unclear, with some theories suggesting it may derive from a now-lost Old English word.",
+        "targetText": "Cuvântul englezesc „dog” are o origine incertă, fiind folosit încă din engleza mijlocie pentru a desemna un câine domestic. Etimologia sa exactă nu este clară, unele teorii sugerând că ar putea deriva dintr-un cuvânt vechi englez pierdut."
+      },
+      "source": "Etymological dictionaries, linguistic studies"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "câine",
+    "genus": "masculine",
+    "definition": "Un mamifer domestic, de obicei patruped, ținut ca animal de companie și adesea folosit ca însoțitor al omului.",
+    "pronunciation": "/kɨˈjne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The origin of the Romanian word \"câine\" is unclear; it is often considered a word of unknown or possibly Dacian origin, as it does not derive directly from the Latin \"canis\".",
+        "targetText": "Originea cuvântului românesc „câine” este incertă; acesta nu derivă direct din latinescul „canis”, fiind considerat de mulți lingviști ca având origine necunoscută sau posibil dacică."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "pet",
+      "targetText": "animal de companie"
+    },
+    {
+      "sourceText": "cat",
+      "targetText": "pisică"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    },
+    {
+      "sourceText": "puppy",
+      "targetText": "căţel"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The dog barks loudly.",
+      "targetText": "Câinele latră tare."
+    },
+    {
+      "sourceText": "I have a brown dog.",
+      "targetText": "Am un câine maro."
+    },
+    {
+      "sourceText": "The dog runs in the garden.",
+      "targetText": "Câinele aleargă în grădină."
+    },
+    {
+      "sourceText": "My dog is very friendly.",
+      "targetText": "Câinele meu este foarte prietenos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word \"câine\" sounds a bit like \"kine\" – imagine a dog in a small cage ('cage') to help you remember."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the Latin root 'canis' which appears in many Romance languages like Italian 'cane' or French 'chien' to connect with the Romanian \"câine\"."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the English word 'canine' which relates to dogs and sounds similar to the Romanian \"câine\"."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a dog calling you 'Kine!' as if it's saying its own name to help memorize the word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

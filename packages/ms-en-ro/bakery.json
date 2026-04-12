@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-bakery",
+  "parent": "ms-ro-brutarie-17813539@4138c64076096d0ead2867cdbcf13e5a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bakery",
+    "genus": "feminine",
+    "definition": "A place where bread and other baked goods are made and sold.",
+    "pronunciation": "/ˈbeɪkəri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'bakery' comes from the verb 'bake' combined with the suffix '-ery', which denotes a place associated with a specific activity.",
+        "targetText": "Cuvântul englezesc „bakery“ provine de la verbul „bake“ combinat cu sufixul „-ery“, care indică un loc asociat cu o activitate specifică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "brutărie",
+    "genus": "feminine",
+    "definition": "Un magazin sau loc unde se fabrică și se vând pâine și produse de panificație.",
+    "pronunciation": "/bruˈtəri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'brutărie' derives from the Latin 'brutaria', which comes from 'brutus' meaning raw or unprocessed, later used specifically for places where bread is baked.",
+        "targetText": "Cuvântul românesc „brutărie“ provine din latină „brutaria“, derivat din „brutus“ (crud, neprelucrat), folosit ulterior pentru locurile de coacere a pâinii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "baking",
+      "targetText": "a coace"
+    },
+    {
+      "sourceText": "baker",
+      "targetText": "brutar"
+    },
+    {
+      "sourceText": "bread",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "cake",
+      "targetText": "prăjitură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I go to the bakery to buy bread.",
+      "targetText": "Merg la brutărie să cumpăr pâine."
+    },
+    {
+      "sourceText": "The bakery has fresh rolls.",
+      "targetText": "Brutăria are chifle proaspete."
+    },
+    {
+      "sourceText": "The bakery smells of fresh bread.",
+      "targetText": "În brutărie miroase a pâine proaspătă."
+    },
+    {
+      "sourceText": "The bakery is open every morning.",
+      "targetText": "Brutăria este deschisă în fiecare dimineață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'bakery' by linking it to 'bake'—the main action done there is baking bread and treats."
+    },
+    {
+      "lang": "en",
+      "text": "The suffix '-ery' often means a place where something happens, so 'bakery' is the place where baking happens."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a baker as the person who bakes, and the bakery as the shop—similar to Romanian 'brutar' and 'brutărie'."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself buying fresh bread at the 'brutărie' to help remember the Romanian word."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-compartment",
+  "parent": "ms-ro-compartiment-7beeb8a9@fda1e231d0174db72adf5284a4f67293",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "compartment",
+    "definition": "A separate enclosed space within a train or ship designed to accommodate passengers.",
+    "pronunciation": "/kəmˈpɑːrtmənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"compartment\" comes from the French \"compartiment\", which derives from the Latin verb \"compartiri\" meaning 'to divide or share'.",
+        "targetText": "Cuvântul englezesc „compartment” provine din francezul „compartiment”, care derivă din verbul latin „compartiri” ce înseamnă 'a împărți sau a diviza'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "compartiment",
+    "genus": "neuter",
+    "definition": "O secțiune separată într-un tren sau navă pentru pasageri.",
+    "pronunciation": "/komparˈtimɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „compartiment” was borrowed from the French „compartiment”, which in turn comes from the Latin „compartiri” (to divide).",
+        "targetText": "Cuvântul românesc „compartiment” a fost împrumutat din franceza „compartiment”, care la rândul său provine din latinul „compartiri” (a împărți)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "compartment window",
+      "targetText": "geam de compartiment"
+    },
+    {
+      "sourceText": "seat",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "wagon",
+      "targetText": "vagon"
+    },
+    {
+      "sourceText": "train",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have reserved a compartment on the train.",
+      "targetText": "Am rezervat un compartiment în tren."
+    },
+    {
+      "sourceText": "The compartment is forbidden for smokers.",
+      "targetText": "Compartimentul este interzis fumătorilor."
+    },
+    {
+      "sourceText": "There are four seats in the compartment.",
+      "targetText": "În compartiment sunt patru locuri."
+    },
+    {
+      "sourceText": "The compartment has a window with a view of the landscape.",
+      "targetText": "Compartimentul are o fereastră cu vedere spre peisaj."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word \"compartment\" sounds like \"compare\" and \"part\", helping you remember it means a divided part or section."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a train compartment as a small 'part' of the whole train, making it easier to recall the Romanian \"compartiment\"."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ment' is common in English nouns borrowed from French, just like the Romanian \"compartiment\"."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine sharing or dividing a space into compartments, linking the word to the Latin root meaning 'to divide'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ms-en-ro-cover",
+  "parent": "ms-ro-a-acoperi-e0e052f9@d41bc967740e3259fbf5becde8330726",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cover",
+    "definition": "to prepare a table by placing dishes, cutlery, and other items for a meal",
+    "pronunciation": "/ˈkʌvər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"cover\" originates from the Old French \"covrir\", which comes from the Latin \"cooperire\" meaning 'to cover completely'. It has evolved in English to mean placing something over or preparing a surface.",
+        "targetText": "Verbul englezesc „cover“ provine din vechiul francez „covrir“, care la rândul său derivă din latină, din „cooperire“, ce înseamnă „a acoperi complet“. În engleză a evoluat să însemne a pune ceva peste sau a pregăti o suprafață."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Also used to describe placing items over a table, such as dishes or cloth."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acoperi",
+    "definition": "a pregăti masa pentru o masă",
+    "pronunciation": "/a a.koˈpe.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a acoperi“ derives from the Latin „cooperire“, meaning to cover or hide, and is also used for setting a table.",
+        "targetText": "Verbul românesc „a acoperi“ derivă din latină, din „cooperire“, care înseamnă a acoperi sau a ascunde."
+      },
+      "source": "AI, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation (-i). Often used for covering furniture or tables."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "fork",
+      "targetText": "furculiță"
+    },
+    {
+      "sourceText": "knife",
+      "targetText": "cuțit"
+    },
+    {
+      "sourceText": "plate",
+      "targetText": "farfurie"
+    },
+    {
+      "sourceText": "table",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "uncover",
+      "targetText": "a descoperi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I cover the table.",
+      "targetText": "Eu acopăr masa."
+    },
+    {
+      "sourceText": "Do you cover the bed?",
+      "targetText": "Acoperi patul?"
+    },
+    {
+      "sourceText": "The waitress covers the tables.",
+      "targetText": "Camerista acoperă mesele."
+    },
+    {
+      "sourceText": "We cover the garden.",
+      "targetText": "Noi acoperim grădina."
+    },
+    {
+      "sourceText": "Do you cover the chairs?",
+      "targetText": "Acoperiți scaunele?"
+    },
+    {
+      "sourceText": "They cover the appliances.",
+      "targetText": "Ei acoperă aparatele."
+    },
+    {
+      "sourceText": "I have covered the chairs.",
+      "targetText": "Am acoperit scaunele."
+    },
+    {
+      "sourceText": "They have covered the table.",
+      "targetText": "Au acoperit masa."
+    },
+    {
+      "sourceText": "He covered the furniture.",
+      "targetText": "El acoperea mobila."
+    },
+    {
+      "sourceText": "I will cover the table tomorrow.",
+      "targetText": "Voi acoperi masa mâine."
+    },
+    {
+      "sourceText": "I would cover the garden if it rained.",
+      "targetText": "Aș acoperi grădina dacă ar ploua."
+    },
+    {
+      "sourceText": "Cover the table!",
+      "targetText": "Acoperă masa!"
+    },
+    {
+      "sourceText": "The covered bed looks nice.",
+      "targetText": "Patul acoperit arată bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"a acoperi\" sounds like \"a cover\" — both mean to put something over or prepare a surface."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"cover\" as placing a cover on a table or bed, which helps you recall \"a acoperi\" easily."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"cover\" and Romanian \"acoperi\" share Latin roots, so they are related in meaning and sound."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine setting the table by covering it with plates and cutlery — this visual links \"cover\" and \"a acoperi\"."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

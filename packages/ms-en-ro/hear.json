@@ -1,0 +1,140 @@
+{
+  "id": "ms-en-ro-hear",
+  "parent": "ms-ro-a-auzi-83b52005@e4b6b72ff4a90171ce5a15a3c1fd8468",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "hear",
+    "definition": "To perceive sound by the ear; to become aware of auditory stimuli.",
+    "pronunciation": "/hɪər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'hear' originates from Old English 'hieran', meaning 'to listen' or 'to perceive sound'.",
+        "targetText": "Verbul englezesc „hear“ provine din engleza veche „hieran“, care înseamnă „a asculta“ sau „a percepe sunet“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb. It is widely used in various contexts related to perceiving sound."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a auzi",
+    "definition": "A percepe stimuli acustici, a auzi",
+    "pronunciation": "/a auˈzi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'a auzi' comes from the Latin 'audire', meaning 'to hear' or 'to listen'.",
+        "targetText": "Verbul românesc „a auzi“ provine din latină, de la „audire“, care înseamnă „a auzi“ sau „a asculta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 4th conjugation. Often used to describe hearing in the sense of understanding."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "noise",
+      "targetText": "sunet"
+    },
+    {
+      "sourceText": "sound",
+      "targetText": "zgomot"
+    },
+    {
+      "sourceText": "music",
+      "targetText": "muzică"
+    },
+    {
+      "sourceText": "voice",
+      "targetText": "voce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "see",
+      "targetText": "a vedea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I hear the music loudly.",
+      "targetText": "Eu aud muzica tare."
+    },
+    {
+      "sourceText": "Do you hear the noise?",
+      "targetText": "Auzi zgomotul?"
+    },
+    {
+      "sourceText": "He hears the teacher well.",
+      "targetText": "El aude bine profesorul."
+    },
+    {
+      "sourceText": "We hear the news.",
+      "targetText": "Noi auzim știrile."
+    },
+    {
+      "sourceText": "Do you hear the birds singing?",
+      "targetText": "Auziți păsările cântând?"
+    },
+    {
+      "sourceText": "They hear the noise.",
+      "targetText": "Ei aud zgomotul."
+    },
+    {
+      "sourceText": "I heard the new song.",
+      "targetText": "Am auzit melodia nouă."
+    },
+    {
+      "sourceText": "As a child, I often heard my grandparents' stories.",
+      "targetText": "Când eram copil, auzeam adesea poveștile bunicilor mei."
+    },
+    {
+      "sourceText": "I will hear the news.",
+      "targetText": "Voi auzi știrile."
+    },
+    {
+      "sourceText": "Listen!",
+      "targetText": "Ascultă!"
+    },
+    {
+      "sourceText": "The piece heard was impressive.",
+      "targetText": "Piesa auzită a fost impresionantă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a auzi' sounds like 'ow-zee'—imagine hearing a sudden 'ow!' sound to recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a auzi' as the basic act of hearing, while 'a asculta' means to listen carefully."
+    },
+    {
+      "lang": "en",
+      "text": "Use 'a auzi' when talking about hearing sounds or information passively."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'auzi' with the English word 'audio' to remember it relates to hearing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

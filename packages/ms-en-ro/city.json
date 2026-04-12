@@ -1,0 +1,118 @@
+{
+  "id": "ms-en-ro-city",
+  "parent": "ms-ro-oras-0df97651@a866b5af45882a4e95b7e8e962ae944d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "city",
+    "genus": "feminine",
+    "definition": "A large and densely populated urban area with established infrastructure and local government.",
+    "pronunciation": "/ˈsɪti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'city' originates from the Latin 'civitas', meaning 'citizenship' or 'community of citizens'. It entered English through Old French 'cite', reflecting the concept of an organized urban settlement.",
+        "targetText": "Cuvântul englezesc „city” provine din latină, de la 'civitas', care însemna 'cetățenie' sau 'comunitate de cetățeni'. A intrat în engleză prin franceza veche 'cite', reflectând conceptul de așezare urbană organizată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "oraș",
+    "genus": "neuter",
+    "definition": "O așezare mai mare, dens populată, cu infrastructură și administrație urbană.",
+    "pronunciation": "/oˈraʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'oraș' derives from the Latin 'horreum', which originally meant 'barn' or 'granary', but later evolved in Romanian to mean a fortified settlement or city.",
+        "targetText": "Cuvântul românesc „oraș” provine din latină, de la 'horreum', care inițial însemna 'șură' sau 'depozit', dar în română a evoluat să desemneze o așezare fortificată sau oraș."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "village",
+      "targetText": "sat"
+    },
+    {
+      "sourceText": "metropolis",
+      "targetText": "metropolă"
+    },
+    {
+      "sourceText": "city center",
+      "targetText": "centru oraș"
+    },
+    {
+      "sourceText": "suburb",
+      "targetText": "suburbie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "village",
+      "targetText": "sat"
+    },
+    {
+      "sourceText": "countryside",
+      "targetText": "țară"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The city has many tourist attractions.",
+      "targetText": "Orașul are multe obiective turistice."
+    },
+    {
+      "sourceText": "I live in a small city.",
+      "targetText": "Locuiesc într-un oraș mic."
+    },
+    {
+      "sourceText": "The city is very busy on weekends.",
+      "targetText": "Orașul este foarte aglomerat în weekend."
+    },
+    {
+      "sourceText": "Many people move to the city to find work.",
+      "targetText": "Mulți oameni se mută în oraș pentru a găsi un loc de muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'oraș' sounds like 'O-rush'—imagine rushing into the city full of life and activity."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'oraș' as related to 'hour'—cities are places where time and schedules matter a lot."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'oraș' comes from Latin 'horreum' meaning barn, so think of a city as a place where people gather and store resources."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'oraș' with 'oasis'—a city is like an oasis of culture and life in the landscape."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ms-en-ro-permitted",
+  "parent": "ms-ro-permis-17389453@e6e1150f6960dde5dddc0e6954d34075",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "permitted",
+    "definition": "allowed or authorized; not forbidden by law or rules",
+    "pronunciation": "/pərˈmɪtɪd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"permit\" comes from the Latin 'permittere', meaning 'to allow' or 'to let through'.",
+        "targetText": "Cuvântul „zulässig“ este format din verbul „zulassen“ și prefixul „zu-“, care înseamnă „spre“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in legal or formal contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "permis",
+    "genus": "masculine",
+    "definition": "autorizat sau permis; nicht gegen das Gesetz oder die Vorschriften",
+    "pronunciation": "/perˈmis/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"permis\" derives from the Latin \"permissus\", meaning \"allowed\".",
+        "targetText": "Cuvântul românesc „permis“ provine din latină „permissus“, care înseamnă „permis“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Wird oft in rechtlichen Kontexten verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "approval",
+      "targetText": "aprobare"
+    },
+    {
+      "sourceText": "law",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "rule",
+      "targetText": "regulă"
+    },
+    {
+      "sourceText": "regulation",
+      "targetText": "normă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "not permitted",
+      "targetText": "interzis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Driving without a license is not permitted.",
+      "targetText": "Conducerea fără permis nu este permisă."
+    },
+    {
+      "sourceText": "The use of mobile phones during class is not permitted.",
+      "targetText": "Utilizarea telefoanelor mobile în timpul orelor nu este permisă."
+    },
+    {
+      "sourceText": "It is permitted to question the rules.",
+      "targetText": "Este permis să pui la îndoială regulile."
+    },
+    {
+      "sourceText": "Parking here is not permitted.",
+      "targetText": "Parcarea aici nu este permisă."
+    },
+    {
+      "sourceText": "In this case, an exception is permitted.",
+      "targetText": "În acest caz, o excepție este permisă."
+    },
+    {
+      "sourceText": "The use of uncertified products is not permitted.",
+      "targetText": "Folosirea produselor necertificate nu este permisă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'permit' as giving permission, just like the Romanian 'permis' means allowed or authorized."
+    },
+    {
+      "lang": "en",
+      "text": "Remember the ending '-is' in Romanian 'permis' sounds like the English suffix '-is' in 'basis'—both are adjectives related to states or conditions."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a green traffic light giving you the 'go ahead'—that's what 'permitted' and 'permis' both mean: you are allowed to proceed."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'permit' and Romanian 'permis' share Latin roots, so they look and sound similar—use this to recall the meaning easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

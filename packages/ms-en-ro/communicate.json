@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-communicate",
+  "parent": "ms-ro-a-comunica-110674c1@edb3aed8d00aa44bf6af48eb56e538c3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "communicate",
+    "definition": "to share or convey information or news to someone",
+    "pronunciation": "/kəˈmjuːnɪkeɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb 'communicate' comes from the Latin 'communicare', meaning 'to share' or 'to make common'. It entered English through Old French and has been used to describe the act of conveying information.",
+        "targetText": "Cuvântul englezesc „communicate“ provine din latină, din verbul „communicare“, care înseamnă „a împărtăși“ sau „a face comun“. A intrat în limba engleză prin franceza veche și este folosit pentru a descrie actul de a transmite informații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "The verb is regular and commonly used in both formal and informal contexts."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a comunica",
+    "definition": "a spune sau a aduce la cunoștință ceva",
+    "pronunciation": "/a komuniˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a comunica' derives from the Latin 'communicare', meaning 'to share' or 'to make known'.",
+        "targetText": "Verbul românesc „a comunica“ provine din latinescul „communicare“, care înseamnă „a împărtăși“ sau „a face cunoscut“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regulă verb de conjugarea I (-a). Este folosit frecvent în contexte de schimb de informații."
+  },
+  "senses": [
+    {
+      "gloss": "Message",
+      "explanation": {
+        "sourceText": "A formal communication.",
+        "targetText": "O comunicare formală."
+      },
+      "examples": [
+        {
+          "sourceText": "The message was received.",
+          "targetText": "Mesajul a fost primit."
+        }
+      ]
+    },
+    {
+      "gloss": "Information",
+      "explanation": {
+        "sourceText": "The transmission of information.",
+        "targetText": "Transmiterea de informații."
+      },
+      "examples": [
+        {
+          "sourceText": "I am giving you the information.",
+          "targetText": "Îți dau știrea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "message",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "news",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "warning",
+      "targetText": "avertisment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "conceal",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'communicate' shares the same Latin root as 'community'—both involve sharing or making something common."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'communicate' as 'commune' plus 'cate'—to come together and share information."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a comunica' sounds like 'communicate' in English, making it easier to remember their connection."
+    },
+    {
+      "lang": "en",
+      "text": "Practice with sentences like 'I communicate clearly' to get used to the verb's usage."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

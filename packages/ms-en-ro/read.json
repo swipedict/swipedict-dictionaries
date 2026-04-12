@@ -1,0 +1,118 @@
+{
+  "id": "ms-en-ro-read",
+  "parent": "ms-ro-a-citi-a2039f14@e70ea1c06552b6437d433aa8e14a63ee",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:work-education",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "read",
+    "definition": "To recognize and understand written or printed symbols.",
+    "pronunciation": "/riːd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"read\" originates from the Old English 'rǣdan', which meant 'to advise, interpret, or guess'. Over time, it evolved to specifically mean 'to interpret written symbols'.",
+        "targetText": "Cuvântul englezesc „read” provine din engleza veche 'rǣdan', care însemna 'a sfătui, interpreta sau ghici'. În timp, a evoluat pentru a desemna în mod specific 'a interpreta simboluri scrise'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb of irregular conjugation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a citi",
+    "definition": "A recunoaște și a înțelege semne scrise sau tipărite.",
+    "pronunciation": "/a ˈt͡ʃiti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a citi\" is borrowed from Old Church Slavonic \"čitati\" (to read).",
+        "targetText": "Verbul românesc „a citi” este împrumutat din slavona veche „čitati” (a citi)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "book",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "reader",
+      "targetText": "cititor"
+    },
+    {
+      "sourceText": "write",
+      "targetText": "a scrie"
+    },
+    {
+      "sourceText": "text",
+      "targetText": "text"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignore",
+      "targetText": "a ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I read a book every evening.",
+      "targetText": "Eu citesc o carte în fiecare seară."
+    },
+    {
+      "sourceText": "Yesterday I read an interesting article.",
+      "targetText": "Ieri am citit un articol interesant."
+    },
+    {
+      "sourceText": "As a child, I read many fairy tales.",
+      "targetText": "Când eram copil, citeam multe basme."
+    },
+    {
+      "sourceText": "Tomorrow I will read the book.",
+      "targetText": "Mâine voi citi cartea."
+    },
+    {
+      "sourceText": "Please read the text aloud!",
+      "targetText": "Citește textul cu voce tare, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'a citi' sounds like 'city' with a 'c'—imagine reading a city map to recall the word for 'to read'."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian conjugation 'eu citesc, tu citești, el/ea citește' has a repeating 'cit-' root, similar to 'cite' in English, helping you link the words."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'citi' as sounding like 'see tea'—you 'see' the letters and 'tea' helps you relax while reading."
+    },
+    {
+      "lang": "en",
+      "text": "Connect the English word 'read' with the Romanian 'a citi' by remembering both involve interpreting symbols, even if the words look different."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

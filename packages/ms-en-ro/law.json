@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-law",
+  "parent": "ms-ro-lege-09ccf6db@4ccfc09551fccb90a2d6324b7ed5e3bb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "law",
+    "genus": "neuter",
+    "definition": "A system of rules created and enforced by a governing authority to regulate behavior.",
+    "pronunciation": "/lɔː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'law' originates from Old English 'lagu', meaning something laid down or fixed, related to the concept of a rule or ordinance.",
+        "targetText": "Cuvântul englezesc „law” provine din engleza veche 'lagu', care însemna ceva stabilit sau fixat, fiind legat de conceptul de regulă sau ordonanță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lege",
+    "genus": "feminine",
+    "definition": "O regulă obligatorie sau o normă stabilită de o autoritate.",
+    "pronunciation": "/ˈle.d͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'lege' derives from the Latin 'lex, legis', meaning law or rule.",
+        "targetText": "Cuvântul românesc „lege” provine din latină, din 'lex, legis', care înseamnă lege sau regulă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "right",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "rule",
+      "targetText": "regulă"
+    },
+    {
+      "sourceText": "punishment",
+      "targetText": "pedeapsă"
+    },
+    {
+      "sourceText": "ordinance",
+      "targetText": "ordonanță"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The law must be obeyed.",
+      "targetText": "Legea trebuie respectată."
+    },
+    {
+      "sourceText": "There is a new law in parliament.",
+      "targetText": "Există o lege nouă în parlament."
+    },
+    {
+      "sourceText": "Laws protect the citizens.",
+      "targetText": "Legile protejează cetățenii."
+    },
+    {
+      "sourceText": "Everyone must know the law.",
+      "targetText": "Toată lumea trebuie să cunoască legea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'lege' sounds like 'leg' in English, so think of a law as something that supports society like a leg supports the body."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'law' and Romanian 'lege' both relate to rules and order, so you can think of them as part of the same 'rule family' across languages."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'lege' as 'laying down' rules, similar to how the English word 'law' comes from something laid down or fixed."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'lege' comes from Latin 'lex', remember that many European languages have similar words for law, making it easier to recognize."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

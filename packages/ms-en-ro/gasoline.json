@@ -1,0 +1,104 @@
+{
+  "id": "ms-en-ro-gasoline",
+  "parent": "ms-ro-benzina-de8d72b3@52cf3b5758e6d7cdd365910477fd0fcc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "gasoline",
+    "definition": "A liquid fuel primarily used to power internal combustion engines in vehicles.",
+    "pronunciation": "/ˈɡæsəˌliːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"gasoline\" originated in the 19th century, derived from \"gas\" combined with the chemical suffix \"-oline\", influenced by the name of the chemical compound benzene.",
+        "targetText": "Cuvântul englezesc „gasoline” a apărut în secolul al XIX-lea, derivat din „gas” combinat cu sufixul chimic „-oline”, influențat de numele compusului chimic benzen."
+      },
+      "source": "Etymological Dictionaries English"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "benzină",
+    "genus": "feminine",
+    "definition": "Un combustibil lichid folosit în principal pentru motoare.",
+    "pronunciation": "/benˈzi.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"benzină\" comes from the French \"benzine\", which in turn derives from \"benzol\", an aromatic chemical compound.",
+        "targetText": "Cuvântul românesc „benzină” provine din francezul 'benzine', care la rândul său derivă din 'benzol', un compus chimic aromatic."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Diesel",
+      "targetText": "motorină"
+    },
+    {
+      "sourceText": "Fuel",
+      "targetText": "combustibil"
+    },
+    {
+      "sourceText": "Engine",
+      "targetText": "motor"
+    },
+    {
+      "sourceText": "Gas station",
+      "targetText": "benzinărie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The car needs gasoline to run.",
+      "targetText": "Mașina are nevoie de benzină pentru a merge."
+    },
+    {
+      "sourceText": "I refueled with gasoline at the gas station.",
+      "targetText": "Am alimentat cu benzină la benzinărie."
+    },
+    {
+      "sourceText": "Gasoline is an important fuel for many vehicles.",
+      "targetText": "Benzina este un combustibil important pentru multe vehicule."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"benzină\" sounds similar to \"benzene,\" a chemical related to gasoline."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"benzină\" as the Romanian word for gasoline, which fuels cars just like in English."
+    },
+    {
+      "lang": "en",
+      "text": "The 'z' in \"benzină\" is pronounced like the 'z' in \"zebra,\" making it easy to say."
+    },
+    {
+      "lang": "en",
+      "text": "Associate \"benzină\" with a gas station to remember its meaning as fuel for vehicles."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

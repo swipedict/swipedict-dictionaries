@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-however",
+  "parent": "ms-ro-insa-c8b674b2@9e85130c52e0dcfca80451745369433f",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "however",
+    "definition": "used to introduce a statement that contrasts with or seems to contradict something that has been said previously",
+    "pronunciation": "/haʊˈɛvər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"however\" is formed by combining \"how\" and \"ever\" and is used to introduce a contrast or contradiction in statements.",
+        "targetText": "Cuvântul englezesc „however” este format prin combinarea cuvintelor „how” și „ever” și este folosit pentru a introduce un contrast sau o contradicție în enunțuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in formal or literary contexts to emphasize contrast."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "însă",
+    "genus": "adverb",
+    "definition": "exprimă un contrast sau o restricție",
+    "pronunciation": "/ˈɨn.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „însă” is originally Romanian, likely formed from an old demonstrative pronoun, and has no direct Latin equivalent.",
+        "targetText": "Cuvântul românesc „însă” este de origine internă, probabil format dintr-un vechi pronume demonstrativ, fără o etimologie latină directă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Can easily be confused with „dar”, which also means „but” but is used in different contexts."
+  },
+  "senses": [
+    {
+      "gloss": "but",
+      "explanation": {
+        "sourceText": "\"Însă\" is a common conjunction in Romanian used similarly to \"but\" in English.",
+        "targetText": "\"Însă\" este o conjuncție frecventă în română, folosită ca echivalent pentru „aber“."
+      },
+      "examples": [
+        {
+          "sourceText": "That is expensive, however valuable.",
+          "targetText": "Este scump, însă valorează."
+        }
+      ]
+    },
+    {
+      "gloss": "nevertheless",
+      "explanation": {
+        "sourceText": "\"Însă\" can also carry the meaning of \"nevertheless\".",
+        "targetText": "\"Însă\" poate avea și sensul de „trotzdem“."
+      },
+      "examples": [
+        {
+          "sourceText": "It will rain, however I will go outside.",
+          "targetText": "Va ploua, însă ies afară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "nevertheless",
+      "targetText": "cu toate acestea"
+    },
+    {
+      "sourceText": "on the other hand",
+      "targetText": "pe de altă parte"
+    },
+    {
+      "sourceText": "finally",
+      "targetText": "în cele din urmă"
+    },
+    {
+      "sourceText": "despite that",
+      "targetText": "cu toate acestea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "but",
+      "targetText": "dar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I wanted to leave, however I stayed here.",
+      "targetText": "Vroiam să plec, însă am rămas aici."
+    },
+    {
+      "sourceText": "He did not understand it, however he has a good idea.",
+      "targetText": "Nu a înțeles, însă are o idee bună."
+    },
+    {
+      "sourceText": "The results are clear, however there are still questions.",
+      "targetText": "Rezultatele sunt clare, însă mai sunt întrebări."
+    },
+    {
+      "sourceText": "The solution is simple, however hard to explain.",
+      "targetText": "Soluția este simplă, însă greu de explicat."
+    },
+    {
+      "sourceText": "I was sick, however I did my best.",
+      "targetText": "Am fost bolnav, însă am dat tot ce am putut."
+    },
+    {
+      "sourceText": "The offer was tempting, however I declined.",
+      "targetText": "Ofertele erau tentante, însă am refuzat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of \"however\" as a formal way to say \"but\" that adds a touch of sophistication to your speech."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that \"însă\" is like the English \"however\"—it signals a contrast or exception in a sentence."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"însă\" to the English phrase \"in so\" to recall its function of introducing a contrasting idea."
+    },
+    {
+      "lang": "en",
+      "text": "Use \"însă\" when you want to sound more formal or literary, just like \"however\" in English writing."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

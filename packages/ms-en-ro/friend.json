@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-friend",
+  "parent": "ms-ro-prieten-4e4ca2a3@124662d92c1c041180f7d05b640cd798",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "friend",
+    "genus": "masculine",
+    "definition": "A person with whom one has a close and affectionate relationship.",
+    "pronunciation": "/frɛnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"friend\" comes from Old English 'frēond', related to the Gothic 'frijonds' meaning 'lover' or 'one who loves', derived from the Proto-Germanic root *frijōną meaning 'to love'.",
+        "targetText": "Cuvântul englezesc „friend” provine din engleza veche 'frēond', înrudit cu goticul 'frijonds', care înseamnă 'cel care iubește', derivat din rădăcina proto-germanică *frijōną (a iubi)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prieten",
+    "genus": "masculine",
+    "definition": "O persoană cu care ai o relație apropiată și prietenoasă.",
+    "pronunciation": "/priˈe.ten/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"prieten\" comes from Slavic, from Old Slavic 'prijateljŭ', meaning 'friend'.",
+        "targetText": "Cuvântul românesc „prieten” provine din slavona veche 'prijateljŭ', care înseamnă 'prieten'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "acquaintance",
+      "targetText": "cunoscut"
+    },
+    {
+      "sourceText": "friendship",
+      "targetText": "prietenie"
+    },
+    {
+      "sourceText": "comrade",
+      "targetText": "tovarăș"
+    },
+    {
+      "sourceText": "confidant",
+      "targetText": "confident"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "enemy",
+      "targetText": "dușman"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My friend lives in Berlin.",
+      "targetText": "Prietenul meu locuiește în Berlin."
+    },
+    {
+      "sourceText": "He is a good friend of mine.",
+      "targetText": "El este un prieten bun de-al meu."
+    },
+    {
+      "sourceText": "Friends help each other.",
+      "targetText": "Prietenii se ajută unul pe altul."
+    },
+    {
+      "sourceText": "I am meeting my friend today.",
+      "targetText": "Mă întâlnesc azi cu prietenul meu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'prieten' sounds like 'pre-eten' – imagine having a 'pre-teen' full of friends!"
+    },
+    {
+      "lang": "en",
+      "text": "The '-en' ending in 'prieten' can help you recognize it as a noun, similar to some English plural or verb forms."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'prieten' as related to the English word 'private' – friends are often your private confidants."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'prieten' shares roots with Slavic words like Russian 'priyatel', meaning friend, so it’s a good cognate to remember."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

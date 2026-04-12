@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-prosecutor",
+  "parent": "ms-ro-procuror-c24fb401@1b15251bca8083abd3988d411ee069ff",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "prosecutor",
+    "genus": "masculine",
+    "definition": "A legal official who represents the state in criminal cases and initiates legal proceedings against accused persons.",
+    "pronunciation": "/ˈprɒsɪkjuːtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'prosecutor' derives from the Latin verb 'prosequi', meaning 'to follow up' or 'to pursue'. It entered English through Old French, referring to one who carries out legal proceedings on behalf of the state.",
+        "targetText": "Cuvântul românesc „procuror” provine din verbul latin 'procurare', care înseamnă 'a avea grijă de ceva, a administra'. În Evul Mediu, a fost folosit pentru un reprezentant sau administrator, reflectând rolul procurorului ca reprezentant al statului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "procuror",
+    "genus": "masculine",
+    "definition": "Funcționar juridic care reprezintă statul în procese penale și exercită acțiunea penală.",
+    "pronunciation": "/prokuˈror/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'procuror' comes from the Latin verb 'procurare', meaning 'to take care of, to manage'. In the Middle Ages, it was used for a representative or administrator, reflecting the prosecutor's role as a state representative.",
+        "targetText": "Cuvântul românesc „procuror” provine din verbul latin 'procurare', care înseamnă 'a avea grijă de ceva, a administra'. În Evul Mediu, a fost folosit pentru un reprezentant sau administrator, reflectând rolul procurorului ca reprezentant al statului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "charge",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "court",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "judge",
+      "targetText": "judecător"
+    },
+    {
+      "sourceText": "defense lawyer",
+      "targetText": "avocat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "defense lawyer",
+      "targetText": "avocat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The prosecutor filed charges against the suspect.",
+      "targetText": "Procurorul a formulat acuzații împotriva suspectului."
+    },
+    {
+      "sourceText": "The prosecutor presented the evidence in court.",
+      "targetText": "Procurorul a prezentat probele în fața instanței."
+    },
+    {
+      "sourceText": "The prosecutor demanded a harsh sentence.",
+      "targetText": "Procurorul a cerut o pedeapsă severă."
+    },
+    {
+      "sourceText": "The prosecutor works closely with the police.",
+      "targetText": "Procurorul colaborează strâns cu poliția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'procuror' sounds like 'procurator', which is related to 'procurator' in English, meaning an agent or representative—just like the prosecutor represents the state."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-or' in 'procuror' is common in Romanian for professions, similar to English words like 'actor' or 'doctor', helping you recognize it as a job title."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'procuror' as the 'pro-curator' of justice, someone who 'takes care' of legal matters on behalf of the state."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'procuror' with the English word 'procure' which means 'to obtain' or 'to get', as the prosecutor 'procures' justice by pursuing cases."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

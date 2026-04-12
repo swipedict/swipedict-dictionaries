@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-ace",
+  "parent": "ms-ro-as-f433689f@6e0840585d214137fefb1b1d7990b65c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ace",
+    "definition": "The highest playing card in many card games, often valued as one or eleven.",
+    "pronunciation": "/eɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"ace\" comes from the Latin 'as', an ancient Roman coin that represented the value of one.",
+        "targetText": "Cuvântul englezesc „ace” provine din latină 'as', o monedă romană antică care simboliza valoarea unu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "as",
+    "genus": "masculine",
+    "definition": "Cea mai valoroasă carte într-un joc de cărți, adesea cu valoarea unu sau unsprezece.",
+    "pronunciation": "/as/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"as\" derives directly from the Latin 'as', the Roman coin that symbolized the value of one.",
+        "targetText": "Cuvântul românesc „as” provine direct din latină 'as', moneda romană care simboliza valoarea unu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "heart",
+      "targetText": "inimă"
+    },
+    {
+      "sourceText": "card",
+      "targetText": "carte (de joc)"
+    },
+    {
+      "sourceText": "spade",
+      "targetText": "pică"
+    },
+    {
+      "sourceText": "game",
+      "targetText": "joc"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "He drew the ace in the card game.",
+      "targetText": "El a tras asul în jocul de cărți."
+    },
+    {
+      "sourceText": "The ace is often the highest card.",
+      "targetText": "Asul este adesea cea mai valoroasă carte."
+    },
+    {
+      "sourceText": "In poker, the ace is very important.",
+      "targetText": "În poker, asul este foarte important."
+    },
+    {
+      "sourceText": "She has three aces in her hand.",
+      "targetText": "Ea are trei asi în mână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ace' as the top card—like an ace pilot who is the best in the sky."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'ace' sounds like 'ace' in English, meaning expert or champion, which helps you link it to the highest card."
+    },
+    {
+      "lang": "en",
+      "text": "Think of the phrase 'ace up your sleeve' to remember 'as' means a powerful card."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'as' sounds like 'us' with an 'a'—imagine holding the ace card as your secret weapon."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

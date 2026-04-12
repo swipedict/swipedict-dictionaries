@@ -1,0 +1,204 @@
+{
+  "id": "ms-en-ro-set",
+  "parent": "ms-ro-a-seta-f5dbb9dd@d34902efaa7065813cd5f030d60ee4fe",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:english",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "set",
+    "definition": "to place someone in a position or to employ someone in a company",
+    "pronunciation": "/sɛt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"set\" comes from Old English 'settan', meaning to cause to sit, put in a particular place, or fix firmly.",
+        "targetText": "Cuvântul englezesc „set” provine din engleza veche „settan”, care înseamnă a face să stea, a pune într-un loc anume sau a fixa ferm."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in technical, administrative, or everyday contexts to position or adjust something."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a seta",
+    "definition": "a face o angajare într-o companie sau a folosi pe cineva",
+    "pronunciation": "/a seˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a seta” is a loanword from the English \"to set\" and is especially used in technical and digital contexts to describe adjusting or configuring.",
+        "targetText": "Verbul românesc „a seta” este un împrumut din englezescul „to set” și este folosit mai ales în contexte tehnice și digitale pentru a descrie ajustarea sau configurarea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Often used in programming or when operating devices."
+  },
+  "senses": [
+    {
+      "gloss": "to make a setting",
+      "explanation": {
+        "sourceText": "Means to make settings for software or devices.",
+        "targetText": "Înseamnă a face setări pentru software sau dispozitive."
+      },
+      "examples": [
+        {
+          "sourceText": "The users set the programs.",
+          "targetText": "Utilizatorii setează programele."
+        }
+      ]
+    },
+    {
+      "gloss": "to adjust parameters",
+      "explanation": {
+        "sourceText": "Used in technical and digital language.",
+        "targetText": "Folosit în limbaj tehnic și digital."
+      },
+      "examples": [
+        {
+          "sourceText": "I set the volume.",
+          "targetText": "Eu setez volumul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "task",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "employee",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "position",
+      "targetText": "loc de muncă"
+    },
+    {
+      "sourceText": "company",
+      "targetText": "companie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dismiss",
+      "targetText": "a concedia"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I set the volume.",
+      "targetText": "Eu setez volumul."
+    },
+    {
+      "sourceText": "Do you set the camera correctly?",
+      "targetText": "Setezi camera cum trebuie?"
+    },
+    {
+      "sourceText": "The user sets the parameters.",
+      "targetText": "Utilizatorul setează parametrii."
+    },
+    {
+      "sourceText": "We set the time.",
+      "targetText": "Noi setăm timpul."
+    },
+    {
+      "sourceText": "Do you set the heating?",
+      "targetText": "Setați încălzirea?"
+    },
+    {
+      "sourceText": "They set the programs.",
+      "targetText": "Ei setează programele."
+    },
+    {
+      "sourceText": "I changed the settings yesterday.",
+      "targetText": "Am setat setările ieri."
+    },
+    {
+      "sourceText": "They set the height.",
+      "targetText": "Au setat înălțimea."
+    },
+    {
+      "sourceText": "He always set the camera correctly.",
+      "targetText": "El seta mereu camera corect."
+    },
+    {
+      "sourceText": "I had already made the settings when you arrived.",
+      "targetText": "Setasem deja setările când ai sosit."
+    },
+    {
+      "sourceText": "I will set the software tomorrow.",
+      "targetText": "Voi seta software-ul mâine."
+    },
+    {
+      "sourceText": "He will set the clock later.",
+      "targetText": "El o să seteze ceasul mai târziu."
+    },
+    {
+      "sourceText": "I would set the function if I could.",
+      "targetText": "Aș seta funcția dacă aș putea."
+    },
+    {
+      "sourceText": "It is important that you set the image quality.",
+      "targetText": "Este important să setezi calitatea imaginii."
+    },
+    {
+      "sourceText": "Set the volume!",
+      "targetText": "Setează volumul!"
+    },
+    {
+      "sourceText": "Set the colors!",
+      "targetText": "Setați culorile!"
+    },
+    {
+      "sourceText": "The set device works perfectly.",
+      "targetText": "Dispozitivul setat funcționează perfect."
+    },
+    {
+      "sourceText": "The settings are now saved.",
+      "targetText": "Setările sunt acum salvate."
+    },
+    {
+      "sourceText": "While he was setting the software, the tests ran in the background.",
+      "targetText": "Setând software-ul, testele au rulat în fundal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian verb 'a seta' comes from the English 'to set'—both mean to adjust or place something precisely."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'set' as in 'set the table' or 'set a timer' to recall the meaning of 'a seta' as making adjustments."
+    },
+    {
+      "lang": "en",
+      "text": "The conjugation 'setez', 'setezi', 'setează' sounds like English 'set' with Romanian verb endings—easy to remember!"
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you 'set' a device exactly how you want it—this helps link the English and Romanian meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Practice the tenses: 'Eu setez' (I set), 'Am setat' (I have set), 'Voi seta' (I will set) to get comfortable with usage."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

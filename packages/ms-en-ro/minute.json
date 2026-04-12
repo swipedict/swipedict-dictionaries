@@ -1,0 +1,163 @@
+{
+  "id": "ms-en-ro-minute",
+  "parent": "ms-ro-minut-a6c722d4@4c26397e3040fa653fd95f799c82952b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "minute",
+    "genus": "feminine",
+    "definition": "a unit of time equal to sixty seconds",
+    "pronunciation": "/ˈmɪnɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word 'minute' comes from the Latin phrase 'minuta pars' meaning 'small part', referring to the division of an hour into smaller parts.",
+        "targetText": "Cuvântul „minut“ provine din latinescul 'minuta pars' (parte mică), desemnând subdiviziunea orei în unități mai mici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "A minute consists of 60 seconds and is an important measure of time in daily life."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "minut",
+    "genus": "neuter",
+    "definition": "o perioadă de șaizeci de secunde",
+    "pronunciation": "/miˈnut/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'minut' derives from the Latin 'minutum', the neuter participle of the verb 'minuere' (to lessen), referring to a small unit of time.",
+        "targetText": "Das rumänische Wort „minut“ kommt vom lateinischen 'minutum', dem Partizip Neutrum von 'minuere' (verringern), und bezeichnet eine kleine Zeiteinheit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Minut“ wird in der Zeitmessung verwendet und ist überall bekannt."
+  },
+  "senses": [
+    {
+      "gloss": "Minute (in telling time)",
+      "explanation": {
+        "sourceText": "A time indication in hours and minutes.",
+        "targetText": "Indică minutele în cadrul orei."
+      },
+      "examples": [
+        {
+          "sourceText": "The clock strikes every full minute.",
+          "targetText": "Ceasul bate la fiecare minut întreg."
+        }
+      ]
+    },
+    {
+      "gloss": "Minute (short period)",
+      "explanation": {
+        "sourceText": "Also used to describe a short span of time.",
+        "targetText": "Este folosit și pentru a descrie o perioadă scurtă de timp."
+      },
+      "examples": [
+        {
+          "sourceText": "It only takes a minute.",
+          "targetText": "Durata este de doar un minut."
+        }
+      ]
+    },
+    {
+      "gloss": "Minute (unit of time)",
+      "explanation": {
+        "sourceText": "The word is used for the time unit of sixty seconds.",
+        "targetText": "Cuvântul este folosit pentru unitatea de timp de șaizeci de secunde."
+      },
+      "examples": [
+        {
+          "sourceText": "A minute has sixty seconds.",
+          "targetText": "Un minut are șaizeci de secunde."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "year",
+      "targetText": "an"
+    },
+    {
+      "sourceText": "month",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "second",
+      "targetText": "secundă"
+    },
+    {
+      "sourceText": "week",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hour",
+      "targetText": "oră"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "A minute is very short.",
+      "targetText": "Un minut este foarte scurt."
+    },
+    {
+      "sourceText": "We only have five minutes left until departure.",
+      "targetText": "Mai avem doar cinci minute până la plecare."
+    },
+    {
+      "sourceText": "The minute passes quickly.",
+      "targetText": "Minutul trece repede."
+    },
+    {
+      "sourceText": "I count every minute until the end of work.",
+      "targetText": "Număr fiecare minut până la sfârșitul programului."
+    },
+    {
+      "sourceText": "Please give me a minute.",
+      "targetText": "Dă-mi, te rog, un minut."
+    },
+    {
+      "sourceText": "The clock strikes every full minute.",
+      "targetText": "Ceasul bate la fiecare minut întreg."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'minut' sounds very similar to the English 'minute', making it easy to remember as both refer to the same time unit."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'minut' ending with '-ut' like 'cut'—a small cut of time, just like a minute is a small part of an hour."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a clock ticking every minute; 'minut' sounds like 'minute' and reminds you of the quick passing of time."
+    },
+    {
+      "lang": "en",
+      "text": "When you hear 'minute', connect it to 'minuere', the Latin root meaning 'to lessen', which explains why a minute is a small unit of time."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "ms-en-ro-indicate",
+  "parent": "ms-ro-a-indica-3800283f@d706b8a2c432cf670adfbdeec84c4584",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "indicate",
+    "definition": "to point out or give a sign or suggestion about something",
+    "pronunciation": "/ˈɪndɪˌkeɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"indicate\" comes from the Latin verb \"indicare,\" meaning 'to point out, show, or make known.' It entered English through Old French and has been used to express the act of signaling or suggesting something.",
+        "targetText": "Verbul englezesc „indicate“ provine din verbul latin „indicare“, care înseamnă „a arăta, a semnala sau a face cunoscut“. A intrat în limba engleză prin franceza veche și este folosit pentru a exprima actul de a semnala sau sugera ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used to describe the act of showing or explaining signs or clues."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a indica",
+    "definition": "a indica sau a oferi un indiciu despre ceva",
+    "pronunciation": "/a in.diˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a indica“ derives from the Latin „indicare“, meaning to show or signal, and is used for hints or signs.",
+        "targetText": "Verbul românesc „a indica“ provine din latină, din „indicare“, care înseamnă a arăta sau a semnala."
+      },
+      "source": "AI, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). Often used to show something that is not said directly but becomes clear through hints."
+  },
+  "senses": [
+    {
+      "gloss": "signify",
+      "explanation": {
+        "sourceText": "Means to show certain signs that can point to a meaning.",
+        "targetText": "Înseamnă a arăta semne care pot indica un sens."
+      },
+      "examples": [
+        {
+          "sourceText": "The things indicate that it will rain soon.",
+          "targetText": "Lucrurile indică că va ploua în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "point out",
+      "explanation": {
+        "sourceText": "Describes showing hints or meanings.",
+        "targetText": "Descrie arătarea unor indicii sau semnificații."
+      },
+      "examples": [
+        {
+          "sourceText": "He always indicates the essential point.",
+          "targetText": "El indică întotdeauna esențialul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "sign",
+      "targetText": "semn"
+    },
+    {
+      "sourceText": "meaning",
+      "targetText": "însemnătate"
+    },
+    {
+      "sourceText": "hint",
+      "targetText": "indiciu"
+    },
+    {
+      "sourceText": "interpretation",
+      "targetText": "interpretare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hide",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I indicate the answer.",
+      "targetText": "Eu indic răspunsul."
+    },
+    {
+      "sourceText": "Do you indicate the picture?",
+      "targetText": "Indici imaginea?"
+    },
+    {
+      "sourceText": "He indicates the solution.",
+      "targetText": "El indică soluția."
+    },
+    {
+      "sourceText": "We indicate the table.",
+      "targetText": "Noi indicăm tabela."
+    },
+    {
+      "sourceText": "Do you (plural) indicate the answer?",
+      "targetText": "Indicați răspunsul?"
+    },
+    {
+      "sourceText": "They indicate the consequences.",
+      "targetText": "Ei indică consecințele."
+    },
+    {
+      "sourceText": "I have clearly indicated the results.",
+      "targetText": "Am indicat rezultatele clar."
+    },
+    {
+      "sourceText": "They have indicated the hints.",
+      "targetText": "Au indicat indiciile."
+    },
+    {
+      "sourceText": "He always indicated correctly.",
+      "targetText": "El indica întotdeauna corect."
+    },
+    {
+      "sourceText": "I will clearly indicate the solution.",
+      "targetText": "Voi indica soluția clar."
+    },
+    {
+      "sourceText": "I would indicate if I could.",
+      "targetText": "Aș indica dacă aș putea."
+    },
+    {
+      "sourceText": "Indicate the answer!",
+      "targetText": "Indică răspunsul!"
+    },
+    {
+      "sourceText": "A clear indication is necessary.",
+      "targetText": "De binele indicat este necesar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'indicate' as 'to point out'—like pointing your finger to show something important."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'indicate' sounds like 'indicator,' which is a sign or signal, helping you recall the meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a traffic indicator pointing the way; similarly, 'a indica' means to show or hint at something."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a indica' is close to the English 'indicate'—both come from Latin and share meaning and sound."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

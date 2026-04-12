@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-room",
+  "parent": "ms-ro-camera-98a0ee71@9871f1025552fde4a137ff89403e7441",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "room",
+    "definition": "a distinct enclosed space within a building, used for various purposes such as living, working, or sleeping",
+    "pronunciation": "/ruːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"room\" comes from Old English \"rum\", meaning 'space' or 'room', which is related to Old Norse \"rými\" and ultimately from Proto-Germanic roots referring to space or extent.",
+        "targetText": "Cuvântul englezesc „room” provine din engleza veche „rum”, însemnând „spațiu” sau „cameră”, legat de vechiul norvegian „rými” și, în cele din urmă, din rădăcini proto-germanice referitoare la spațiu sau întindere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Rooms can serve different functions, such as sleeping or working.",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cameră",
+    "genus": "feminine",
+    "definition": "o încăpere într-o clădire, die für verschiedene Zwecke genutzt werden kann",
+    "pronunciation": "/ˈkamerə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"cameră\" also derives from the Latin \"camera\", meaning 'room' or 'chamber'. Its usage has remained stable over time.",
+        "targetText": "Cuvântul românesc „cameră” provine din latină „camera”, însemnând „cameră” sau „spațiu”, cu o utilizare stabilă de-a lungul timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Cameră“ este folosit în diverse contexte, fie că este vorba de un dormitor sau o bucătărie."
+  },
+  "senses": [
+    {
+      "gloss": "roommate",
+      "explanation": {
+        "sourceText": "Used as a term for a roommate or fellow student sharing a room.",
+        "targetText": "Folosit pentru a desemna un coleg de cameră sau coleg de locuință."
+      },
+      "examples": [
+        {
+          "sourceText": "My roommate is friendly.",
+          "targetText": "Cameradul meu de cameră este prietenos."
+        }
+      ]
+    },
+    {
+      "gloss": "room (space)",
+      "explanation": {
+        "sourceText": "As in English: an enclosed space within a building.",
+        "targetText": "Ca în germană: un spațiu închis într-o clădire."
+      },
+      "examples": [
+        {
+          "sourceText": "The room has pleasant lighting.",
+          "targetText": "Camera are o lumină plăcută."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "floor",
+      "targetText": "podea"
+    },
+    {
+      "sourceText": "window",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "house",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "wall",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hallway",
+      "targetText": "coridor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "My room is very messy.",
+      "targetText": "Camera mea este foarte haotică."
+    },
+    {
+      "sourceText": "Do you have your own room?",
+      "targetText": "Ai o cameră proprie?"
+    },
+    {
+      "sourceText": "There are many books in my room.",
+      "targetText": "În camera mea sunt multe cărți."
+    },
+    {
+      "sourceText": "We share a room.",
+      "targetText": "Împărțim o cameră."
+    },
+    {
+      "sourceText": "I cleaned the room.",
+      "targetText": "Am curățat camera."
+    },
+    {
+      "sourceText": "The room has a large window.",
+      "targetText": "Camera are o fereastră mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"cameră\" sounds like \"camera\" in English—imagine filming inside your room to recall the word easily!"
+    },
+    {
+      "lang": "en",
+      "text": "Use \"cameră\" whenever you talk about rooms to strengthen the connection."
+    },
+    {
+      "lang": "en",
+      "text": "Picture setting up a camera in your \"cameră\"—this visual helps you remember the word."
+    },
+    {
+      "lang": "en",
+      "text": "Link \"cameră\" with the English word \"chamber\"—both mean a type of room."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

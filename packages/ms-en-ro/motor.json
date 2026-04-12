@@ -1,0 +1,137 @@
+{
+  "id": "ms-en-ro-motor",
+  "parent": "ms-ro-motor-cb530440@9122bc3c1a62797ea5d9dd7eb092f90f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "motor",
+    "genus": "masculine",
+    "definition": "a machine that converts energy into mechanical motion",
+    "pronunciation": "/ˈmoʊtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"motor\" comes from the Latin word \"motor,\" meaning 'mover' or 'one who sets in motion.'",
+        "targetText": "Cuvântul englezesc „motor“ provine din latinescul „motor“, care înseamnă „cel care mișcă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Motors are essential components in the operation of most machines."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "motor",
+    "genus": "neuter",
+    "definition": "o mașină care generează energie mecanică",
+    "pronunciation": "/moˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"motor\" shares the same Latin origin as the English word and refers to a mechanism that generates energy.",
+        "targetText": "Cuvântul românesc „motor“ are aceeași origine latină ca și cuvântul german și desemnează un mecanism care generează energie."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In technology, various types of motors, such as electric motors and combustion engines, are widely used."
+  },
+  "senses": [
+    {
+      "gloss": "Motor / Machine",
+      "explanation": {
+        "sourceText": "A general term for a mechanical drive.",
+        "targetText": "Termen general pentru un mecanism care produce mișcare."
+      },
+      "examples": [
+        {
+          "sourceText": "The motor runs efficiently.",
+          "targetText": "Motorul funcționează eficient."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "car",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "energy",
+      "targetText": "energie"
+    },
+    {
+      "sourceText": "to drive",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "power",
+      "targetText": "putere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to brake",
+      "targetText": "a opri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The motor of my car is powerful.",
+      "targetText": "Motorul mașinii mele este puternic."
+    },
+    {
+      "sourceText": "The engineer repairs the motor.",
+      "targetText": "Inginerul repară motorul."
+    },
+    {
+      "sourceText": "The motor runs quietly.",
+      "targetText": "Motorul funcționează liniștit."
+    },
+    {
+      "sourceText": "I need a new motor for my moped.",
+      "targetText": "Am nevoie de un motor nou pentru mopedul meu."
+    },
+    {
+      "sourceText": "The motor is the heart of the machine.",
+      "targetText": "Motorul este inima mașinii."
+    },
+    {
+      "sourceText": "The development of new motors is important for the industry.",
+      "targetText": "Dezvoltarea de noi motoare este importantă pentru industrie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'motor' as the 'motor' in a car that powers everything forward."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'motor' sounds like 'motion'—both relate to movement."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'motor' comes from Latin meaning 'mover'—something that makes things move."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a strong motor driving a machine; this helps you recall the Romanian word 'motor' easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

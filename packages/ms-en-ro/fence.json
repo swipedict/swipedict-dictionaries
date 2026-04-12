@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-fence",
+  "parent": "ms-ro-gard-99760f84@d5853d5859a61ca2d3facf744cd56372",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "fence",
+    "definition": "A structure, usually made of wood, metal, or other materials, that encloses or marks the boundary of a property or area.",
+    "pronunciation": "/fɛns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'fence' originates from the Old French 'defens', meaning 'defense' or 'protection'. It evolved through Middle English as 'fens' or 'fence', referring to a protective enclosure or barrier.",
+        "targetText": "Cuvântul englezesc „fence” provine din vechiul francez 'defens', care însemna 'apărare' sau 'protecție'. A evoluat în engleza mijlocie ca 'fens' sau 'fence', referindu-se la o împrejmuire sau barieră de protecție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gard",
+    "genus": "neuter",
+    "definition": "O construcție, de obicei din lemn, metal sau alte materiale, folosită pentru a delimita o proprietate sau un spațiu.",
+    "pronunciation": "/ɡard/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'gard' comes from the Slavic 'gradŭ', which originally meant 'fortification' or 'city wall'. It was adopted into Romanian and now generally means an enclosure or fence.",
+        "targetText": "Cuvântul românesc „gard” provine din slavona veche 'gradŭ', care inițial însemna 'fortificație' sau 'zid de cetate'. A fost preluat în limba română și desemnează în prezent o împrejmuire sau gard."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "enclosure",
+      "targetText": "împrejmuire"
+    },
+    {
+      "sourceText": "wall",
+      "targetText": "zid"
+    },
+    {
+      "sourceText": "gate",
+      "targetText": "poartă"
+    },
+    {
+      "sourceText": "fence post",
+      "targetText": "stâlp de gard"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "open",
+      "targetText": "deschis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The fence around the house is made of wood.",
+      "targetText": "Gardul din jurul casei este din lemn."
+    },
+    {
+      "sourceText": "We need to repair the fence.",
+      "targetText": "Trebuie să reparăm gardul."
+    },
+    {
+      "sourceText": "The dog cannot jump over the fence.",
+      "targetText": "Câinele nu poate să sară peste gard."
+    },
+    {
+      "sourceText": "The fence separates our garden from the neighbor's property.",
+      "targetText": "Gardul separă grădina noastră de terenul vecin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'gard' sounds like 'guard', which helps you recall that a 'gard' protects or encloses an area, just like a guard protects a place."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a garden surrounded by a 'gard'—it’s like a shield keeping your plants safe and private."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'gard' comes from Slavic roots meaning 'fortification'—imagine a small fortress wall around your yard."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'fence' and Romanian 'gard' both relate to protection and boundaries, so linking these ideas can help you remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

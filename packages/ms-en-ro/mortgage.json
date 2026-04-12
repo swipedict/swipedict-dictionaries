@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-mortgage",
+  "parent": "ms-ro-ipoteca-ee9a6ccb@f9312d02cc064d315ff8c52fc2451706",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:greek",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "mortgage",
+    "genus": "feminine",
+    "definition": "A legal claim on a property as security for a debt, usually a loan.",
+    "pronunciation": "/ˈmɔːrɡɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “mortgage” originates from Old French 'mort gage', meaning 'dead pledge', referring to the pledge ending (dying) either when the debt is paid or the property is taken.",
+        "targetText": "Cuvântul englezesc „mortgage” provine din franceza veche 'mort gage', care înseamnă 'garanție moartă', referindu-se la garanția care încetează fie când datoria este plătită, fie când proprietatea este preluată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ipotecă",
+    "genus": "feminine",
+    "definition": "Un drept real de garanție asupra unui imobil pentru asigurarea unei creanțe, de obicei un împrumut.",
+    "pronunciation": "/ipoˈtekə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “ipotecă” was borrowed from French “hypothèque”, which comes through Medieval Latin 'hypotheca' from the Ancient Greek 'ὑποθήκη' (hypothēkē, meaning 'pledge' or 'security').",
+        "targetText": "Cuvântul românesc „ipotecă” a fost împrumutat din francezul „hypothèque”, provenit prin latina medievală 'hypotheca' din grecescul 'ὑποθήκη' (hypothēkē, „garanție, ipotecă”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "loan",
+      "targetText": "împrumut"
+    },
+    {
+      "sourceText": "property",
+      "targetText": "teren"
+    },
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "security",
+      "targetText": "garanție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "debt freedom",
+      "targetText": "lipsa datoriei"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The bank requires a mortgage on the house.",
+      "targetText": "Banca cere o ipotecă pe casă."
+    },
+    {
+      "sourceText": "He took out the mortgage for ten years.",
+      "targetText": "A încheiat ipoteca pe zece ani."
+    },
+    {
+      "sourceText": "The mortgage serves as security for the loan.",
+      "targetText": "Ipoteca servește ca garanție pentru credit."
+    },
+    {
+      "sourceText": "Without a mortgage, you often cannot get a home loan.",
+      "targetText": "Fără ipotecă, de multe ori nu poți obține un credit pentru casă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'mortgage' by thinking of 'mort' meaning 'dead' and 'gage' meaning 'pledge'—a pledge that 'dies' when the debt is paid."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'ipotecă' sounds like 'hypotheca', the Latin root for 'pledge', helping you connect the concept of a secured loan."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a mortgage as a 'property pledge'—you pledge your house as security for a loan."
+    },
+    {
+      "lang": "en",
+      "text": "To remember 'ipotecă', imagine putting an 'I-Pod' as collateral on your house—it's your 'pledge' or 'security'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

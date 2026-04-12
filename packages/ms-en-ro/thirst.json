@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-thirst",
+  "parent": "ms-ro-sete-6059f080@a583bd18a31cb69147c04f77d7b9d8c5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "thirst",
+    "genus": "masculine",
+    "definition": "The sensation or need to drink fluids to satisfy the body's hydration requirements.",
+    "pronunciation": "/θɜːrst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"thirst\" originates from Old English 'þurst', which derives from the Proto-Germanic root *thurstaz meaning 'dryness' or 'drought'.",
+        "targetText": "Cuvântul englezesc „thirst” provine din engleza veche 'þurst', care derivă din rădăcina proto-germanică *thurstaz, însemnând 'uscăciune' sau 'secetă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sete",
+    "genus": "feminine",
+    "definition": "Nevoia sau dorința de a bea lichide.",
+    "pronunciation": "/ˈse.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"sete\" comes from the Latin 'sitis', meaning 'thirst', adopted from Classical Latin.",
+        "targetText": "Cuvântul românesc „sete” provine din latină 'sitis', care înseamnă 'sete', preluat din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "thirsty",
+      "targetText": "însetat"
+    },
+    {
+      "sourceText": "hunger",
+      "targetText": "foame"
+    },
+    {
+      "sourceText": "to drink",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "satiation",
+      "targetText": "saturație"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am very thirsty after exercising.",
+      "targetText": "Mi-e foarte sete după sport."
+    },
+    {
+      "sourceText": "Thirst is a sign that the body needs fluids.",
+      "targetText": "Setea este un semn că organismul are nevoie de lichide."
+    },
+    {
+      "sourceText": "Please give me something to drink, I am thirsty.",
+      "targetText": "Te rog, dă-mi ceva de băut, mi-e sete."
+    },
+    {
+      "sourceText": "The thirst was quenched by the cold water.",
+      "targetText": "Setea a fost potolită cu apă rece."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'sete' sounds like 'set'—just like you 'set' a glass of water to quench your thirst."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'sete' as similar to 'satisfy'—both relate to fulfilling a need, like quenching thirst."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you're 'set' to drink because you're thirsty—'sete' helps you recall the feeling of thirst."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'sete' with 'sat' (full) as opposites—'sete' means thirst, while 'sat' means full or satisfied."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

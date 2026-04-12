@@ -1,0 +1,110 @@
+{
+  "id": "ms-en-ro-genetics",
+  "parent": "ms-ro-genetica-712c2d24@aa219a78c576f51365e0767bb5766dde",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "genetics",
+    "genus": "feminine",
+    "definition": "The branch of biology that studies heredity and the variation of inherited characteristics in organisms.",
+    "pronunciation": "/dʒəˈnɛtɪks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"genetics\" derives from the Greek term 'genetikós', meaning 'pertaining to birth' or 'generative', and was introduced into scientific vocabulary in the 19th century.",
+        "targetText": "Cuvântul englezesc „genetics” provine din termenul grecesc 'genetikós', care înseamnă 'referitor la naștere' sau 'generativ', fiind introdus în vocabularul științific în secolul al XIX-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feminine noun, singular: genetics, plural: genetics."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "genetică",
+    "genus": "feminine",
+    "definition": "Știința care studiază ereditatea și genele, ce determină caracteristicile biologice ale organismelor.",
+    "pronunciation": "/ʒeneˈtikə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „genetică“ was borrowed in the 20th century from the French „génétique“, which in turn comes from the Greek „genetikós“ („pertaining to birth\") through the Latin „geneticus“.",
+        "targetText": "Cuvântul românesc „genetică” a fost împrumutat în secolul XX din francezul „génétique”, care provine din grecescul „genetikós” („referitor la naștere”) prin intermediul latinescului „geneticus”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Weibliches Substantiv, Singular: genetica, Plural: genetici."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "chromosome",
+      "targetText": "cromozom"
+    },
+    {
+      "sourceText": "DNA",
+      "targetText": "ADN"
+    },
+    {
+      "sourceText": "gene",
+      "targetText": "genă"
+    },
+    {
+      "sourceText": "heredity",
+      "targetText": "ereditate"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Genetics explains how traits are passed from parents to children.",
+      "targetText": "Genetica explică cum trăsăturile sunt transmise de la părinți la copii."
+    },
+    {
+      "sourceText": "In genetics, the structure and function of genes are studied.",
+      "targetText": "În genetică se studiază structura și funcția genelor."
+    },
+    {
+      "sourceText": "Genetics is an important part of biology.",
+      "targetText": "Genetica este o parte importantă a biologiei."
+    },
+    {
+      "sourceText": "Modern genetics uses DNA analysis to research hereditary diseases.",
+      "targetText": "Genetica modernă folosește analize ADN pentru cercetarea bolilor ereditare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The ending '-ică' in Romanian feminine nouns like 'genetică' is similar to English words ending in '-ic' or '-ical', which often relate to scientific or academic terms."
+    },
+    {
+      "lang": "en",
+      "text": "The 'gen-' part of 'genetică' sounds like 'gene' in English, helping you remember it relates to heredity and biology."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'genetică' as connected to 'generation'—both words share the root related to birth and origin."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'genetică' sounds similar to the English 'genetics', making it easier to recall its meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

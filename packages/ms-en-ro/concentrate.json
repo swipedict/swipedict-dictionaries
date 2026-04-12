@@ -1,0 +1,168 @@
+{
+  "id": "ms-en-ro-concentrate",
+  "parent": "ms-ro-a-concentra-72234cc5@01e4c9fba93c62d5509eaf5796274171",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "concentrate",
+    "definition": "to focus one’s attention or mental effort on a particular object or activity",
+    "pronunciation": "/ˈkɒnsənˌtreɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin verb 'concentrare', meaning 'to bring together in the center', composed of 'con-' (together) and 'centrum' (center).",
+        "targetText": "Cuvântul englezesc „concentrate“ provine din verbul latin „concentrare“, care înseamnă „a aduce împreună în centru“, format din „con-“ (împreună) și „centrum“ (centru)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used in contexts requiring focus and attention, such as studying or working."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a concentra",
+    "definition": "a se focusa sau a-și îndrepta atenția asupra a ceva",
+    "pronunciation": "/a kon.t͡ʃenˈtra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin 'concentrare', meaning 'to bring together in the center'. The origin refers to the act of focusing thoughts or efforts.",
+        "targetText": "Verbul românesc „a concentra“ derivă din latinul „concentrare“, care înseamnă a aduce împreună în centru, referindu-se la focalizarea atenției."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular first conjugation verb (-a). It is used to direct focus onto a specific subject."
+  },
+  "senses": [
+    {
+      "gloss": "Pay attention to",
+      "explanation": {
+        "sourceText": "For the act of being aware of one's surroundings.",
+        "targetText": "Actul de a fi atent la mediul înconjurător."
+      },
+      "examples": [
+        {
+          "sourceText": "Pay attention to the details!",
+          "targetText": "Fii atent la detalii!"
+        }
+      ]
+    },
+    {
+      "gloss": "Focus",
+      "explanation": {
+        "sourceText": "Meaning concentration on a specific task or information.",
+        "targetText": "Concentrarea atenției asupra unei sarcini sau informații specifice."
+      },
+      "examples": [
+        {
+          "sourceText": "I need more focus at work.",
+          "targetText": "Am nevoie de mai multă concentrare la muncă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "attention",
+      "targetText": "atenție"
+    },
+    {
+      "sourceText": "focus",
+      "targetText": "focalizare"
+    },
+    {
+      "sourceText": "study",
+      "targetText": "studiu"
+    },
+    {
+      "sourceText": "thought",
+      "targetText": "gândire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "distract",
+      "targetText": "distra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I concentrate on the task.",
+      "targetText": "Eu mă concentrez pe sarcină."
+    },
+    {
+      "sourceText": "Are you concentrating on studying?",
+      "targetText": "Te concentrezi pe învățare?"
+    },
+    {
+      "sourceText": "He concentrates during the test.",
+      "targetText": "El se concentrează în timpul testului."
+    },
+    {
+      "sourceText": "We concentrate on the project.",
+      "targetText": "Noi ne concentrăm pe proiect."
+    },
+    {
+      "sourceText": "Are you concentrating on the solutions?",
+      "targetText": "Voi vă concentrați pe soluții?"
+    },
+    {
+      "sourceText": "They concentrate on their goals.",
+      "targetText": "Ei se concentrează pe obiectivele lor."
+    },
+    {
+      "sourceText": "I concentrated well.",
+      "targetText": "M-am concentrat bine."
+    },
+    {
+      "sourceText": "They always concentrated on details.",
+      "targetText": "Ei se concentrau mereu pe detalii."
+    },
+    {
+      "sourceText": "I will concentrate on the exam.",
+      "targetText": "Mă voi concentra pe examen."
+    },
+    {
+      "sourceText": "I would concentrate if I had time.",
+      "targetText": "M-aș concentra dacă aș avea timp."
+    },
+    {
+      "sourceText": "Concentrate now!",
+      "targetText": "Concentrează-te acum!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'concentrate' and the Romanian 'a concentra' are cognates, making it easier to remember their shared meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'concentrate' as focusing a camera lens sharply on one point, just like focusing your attention."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'con-' means 'together', and 'centre' means 'middle'—so 'concentrate' means to bring your thoughts together in one place."
+    },
+    {
+      "lang": "en",
+      "text": "When you say 'I concentrate', imagine gathering all your mental energy into a single spot, like gathering light into a beam."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

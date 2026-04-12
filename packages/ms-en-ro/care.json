@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-care",
+  "parent": "ms-ro-a-se-ingriji-db7d2bad@7f4024f107bbdfc5490b1e7e4dbbf7a6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "care",
+    "definition": "To look after or be concerned about someone or something; to take responsibility for their well-being.",
+    "pronunciation": "/kɛər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"care\" originates from Old English \"carian\" meaning 'to be anxious or sorrowful', which is related to the noun \"care\" meaning 'sorrow, grief, or concern'. Over time, it evolved to mean 'to look after' or 'to feel concern for'.",
+        "targetText": "Cuvântul englezesc „care” provine din engleza veche „carian”, care însemna 'a fi îngrijorat sau întristat', fiind legat de substantivul „care” ce înseamnă 'tristețe, durere sau grijă'. În timp, sensul a evoluat spre 'a avea grijă de' sau 'a simți grijă pentru'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se îngriji",
+    "definition": "A avea grijă de cineva sau ceva, a se ocupa cu atenție.",
+    "pronunciation": "/a se ɨnˈɡri.dʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian reflexive verb „a se îngriji” derives from the Latin prefix 'in-' and 'cura' (care, concern), with 'îngriji' meaning 'to take care'.",
+        "targetText": "Verbul reflexiv românesc „a se îngriji” provine din prefixul latin 'in-' și 'cura' (grijă, îngrijire), însemnând 'a avea grijă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "to look after",
+      "targetText": "a supraveghea"
+    },
+    {
+      "sourceText": "to help",
+      "targetText": "a ajuta"
+    },
+    {
+      "sourceText": "care",
+      "targetText": "îngrijire"
+    },
+    {
+      "sourceText": "concern",
+      "targetText": "grijă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to neglect",
+      "targetText": "a neglija"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I care for the plants.",
+      "targetText": "Mă îngrijesc de plante."
+    },
+    {
+      "sourceText": "She took good care of the children.",
+      "targetText": "Ea s-a îngrijit bine de copii."
+    },
+    {
+      "sourceText": "He cared for the dog daily.",
+      "targetText": "El se îngrijea zilnic de câine."
+    },
+    {
+      "sourceText": "We will take care of the problem.",
+      "targetText": "Ne vom îngriji de problemă."
+    },
+    {
+      "sourceText": "Take care of your homework!",
+      "targetText": "Îngrijește-te de temele tale!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian 'a se îngriji' by linking it to the English word 'care', which shares the same meaning of looking after or being concerned."
+    },
+    {
+      "lang": "en",
+      "text": "The verb is reflexive with 'se', showing that the action is done by oneself, similar to how you 'care for yourself' in English."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'îngriji' with the English word 'ingrained' to recall the idea of deeply taking care or attention."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'grijă' sounding like 'grease'—just as grease helps things run smoothly, 'grijă' means care that keeps things going well."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

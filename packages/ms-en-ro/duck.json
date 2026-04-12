@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-duck",
+  "parent": "ms-ro-rata-7b3dfb54@a16586ee2226c1f5c1cd5148cf8a9126",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "duck",
+    "genus": "feminine",
+    "definition": "A waterbird with a broad bill and a short neck, commonly found in ponds and lakes.",
+    "pronunciation": "/dʌk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"duck\" originates from the Old English 'duce', meaning 'diver', derived from the verb 'ducan' which means 'to duck, dive, or bend down'.",
+        "targetText": "Cuvântul englezesc „duck” provine din engleza veche 'duce', care însemna 'scufundător', derivat din verbul 'ducan' ce înseamnă 'a se apleca, a se scufunda'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rață",
+    "genus": "feminine",
+    "definition": "O pasăre acvatică cu cioc lat și gât scurt.",
+    "pronunciation": "/ˈrat͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"rață\" comes from a Slavic language, probably from the South Slavic dialect word \"raca\" (duck).",
+        "targetText": "Cuvântul românesc „rață” provine dintr-o limbă slavă, probabil din forma dialectală sud-slavă „raca” (rață)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "feather",
+      "targetText": "pene"
+    },
+    {
+      "sourceText": "bill",
+      "targetText": "cioc"
+    },
+    {
+      "sourceText": "bird",
+      "targetText": "pasăre"
+    },
+    {
+      "sourceText": "water",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The duck is swimming on the pond.",
+      "targetText": "Rața înoată pe iaz."
+    },
+    {
+      "sourceText": "A duck has a broad bill.",
+      "targetText": "O rață are un cioc lat."
+    },
+    {
+      "sourceText": "Ducks often live near water.",
+      "targetText": "Rațele trăiesc adesea lângă apă."
+    },
+    {
+      "sourceText": "The duck waddles along the shore.",
+      "targetText": "Rața se plimbă târșâindu-se pe mal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'rață' by thinking of the English word 'rat' plus a 'ts' sound at the end—imagine a little rat swimming like a duck!"
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'duck' starts with a 'd' sound, but the Romanian 'rață' starts with an 'r'—think of a duck 'racing' across the water to link the sounds."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a duck quacking loudly: 'rață, rață!'—this helps connect the Romanian word with the animal’s sound."
+    },
+    {
+      "lang": "en",
+      "text": "Since 'rață' is feminine in Romanian, remember it like 'a lovely lady duck'—use 'o rață' just like 'a duck' in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

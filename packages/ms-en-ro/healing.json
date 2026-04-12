@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-healing",
+  "parent": "ms-ro-vindecare-f37de0f1@292b4cd92d4904c5f18a46ef0166360b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "healing",
+    "genus": "feminine",
+    "definition": "The process through which an illness or injury completely disappears and health is restored.",
+    "pronunciation": "/ˈhiːlɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'healing' comes from the Old English verb 'hǣlan', meaning 'to make whole or sound', related to the adjective 'whole' which means 'healthy'.",
+        "targetText": "Cuvântul englezesc „healing” provine din verbul englez vechi 'hǣlan', care înseamnă 'a face întreg sau sănătos', legat de adjectivul 'whole' care înseamnă 'sănătos'."
+      },
+      "source": "Etymological dictionaries, linguistic research"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vindecare",
+    "genus": "feminine",
+    "definition": "Procesul prin care o boală sau o rană dispare complet și sănătatea este restabilită.",
+    "pronunciation": "/vin.deˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian noun 'vindecare' derives from the Latin verb 'vindicare', which originally meant 'to claim, to protect' and later acquired the meaning 'to heal'.",
+        "targetText": "Substantivul românesc „vindecare” derivă din verbul latin 'vindicare', care inițial însemna 'a revendica, a proteja' și ulterior a căpătat sensul de 'a vindeca'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "to heal",
+      "targetText": "a vindeca"
+    },
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "illness",
+      "targetText": "boală"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The healing of the wound took several weeks.",
+      "targetText": "Vindecarea rănii a durat câteva săptămâni."
+    },
+    {
+      "sourceText": "After the surgery, the healing was quick.",
+      "targetText": "După operație, vindecarea a fost rapidă."
+    },
+    {
+      "sourceText": "Healing is an important step towards recovery.",
+      "targetText": "Vindecarea este un pas important spre însănătoșire."
+    },
+    {
+      "sourceText": "He hopes for a complete healing.",
+      "targetText": "El speră la o vindecare completă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'vindecare' starts with 'vin-', which sounds like 'win' — imagine winning back your health through healing."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-are' is common in Romanian nouns derived from verbs — here from 'a vindeca' meaning 'to heal'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a doctor (doctor) bringing back health with 'vindecare' — this helps link the word to healing and medical care."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'vindecare' to the Latin root 'vindicare', which means 'to claim or protect' — just like your body claims back health after illness."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

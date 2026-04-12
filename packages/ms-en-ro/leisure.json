@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-leisure",
+  "parent": "ms-ro-timp-liber-bbfca865@2802da5a2f81c94c119b5807e0b8fd20",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "leisure",
+    "genus": "feminine",
+    "definition": "Time when one is not working and can relax or pursue hobbies.",
+    "pronunciation": "/ˈliːʒər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"leisure\" comes from Old French \"leisir\" meaning 'to be allowed' or 'to be free', which itself derives from Latin \"licere\" meaning 'to be permitted'. It refers to time free from obligations or work.",
+        "targetText": "Cuvântul englezesc „leisure” provine din franceza veche „leisir”, care înseamnă 'a fi permis' sau 'a fi liber', derivat din latină „licere” ce înseamnă 'a fi permis'. Se referă la timpul liber de obligații sau muncă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "timp liber",
+    "genus": "masculine",
+    "definition": "Perioada în care nu trebuie să muncești și te poți odihni sau dedica hobby-urilor.",
+    "pronunciation": "/ˈtimp ˈliber/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression \"timp liber\" is a compound of 'timp' (time) and 'liber' (free), both derived from Latin.",
+        "targetText": "Expresia românească „timp liber” este o compoziție din 'timp' (timp) și 'liber' (liber), ambele provenind din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "work",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "rest",
+      "targetText": "odihnă"
+    },
+    {
+      "sourceText": "friend",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "hobby",
+      "targetText": "hobby"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "working time",
+      "targetText": "timp de lucru"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "In my leisure time, I like to read books.",
+      "targetText": "În timpul liber îmi place să citesc cărți."
+    },
+    {
+      "sourceText": "Leisure is important for rest.",
+      "targetText": "Timpul liber este important pentru odihnă."
+    },
+    {
+      "sourceText": "We often spend leisure time outdoors.",
+      "targetText": "Petrecem timpul liber adesea afară."
+    },
+    {
+      "sourceText": "Leisure activities are fun.",
+      "targetText": "Activitățile din timpul liber sunt distractive."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'timp liber' means 'free time' just like 'leisure' means time free from work."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'liber' sounds like 'liberal' in English, which can help you recall the idea of freedom in your free time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'timp' as 'time' and 'liber' as 'free' — together they form your free time."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine setting a timer ('timp') to 'free' ('liber') mode — that’s your leisure time."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

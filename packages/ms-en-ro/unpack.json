@@ -1,0 +1,111 @@
+{
+  "id": "ms-en-ro-unpack",
+  "parent": "ms-ro-a-despacheta-92a3a51f@77f199bea2cb85014ec5f73bba00e1c1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "unpack",
+    "definition": "To remove something from a container or packaging.",
+    "pronunciation": "/ʌnˈpæk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"unpack\" is formed from the prefix 'un-' meaning 'reverse' or 'remove' and the verb 'pack', which means to put items into a container or bundle.",
+        "targetText": "Cuvântul englezesc „unpack” este format din prefixul 'un-', care indică inversarea acțiunii, și verbul 'pack', care înseamnă a pune obiecte într-un container sau pachet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a despacheta",
+    "definition": "A scoate ceva dintr-un ambalaj sau container.",
+    "pronunciation": "/a despaˈketa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a despacheta” comes from the French 'dépaqueter', which is formed from the prefix 'dé-' (meaning 'away' or 'out') and 'paquet' (meaning 'package').",
+        "targetText": "Verbul românesc „a despacheta” provine din franceza 'dépaqueter', format din prefixul 'dé-' (dez-) și 'paquet' (pachet)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "unpacking (noun)",
+      "targetText": "despachetare"
+    },
+    {
+      "sourceText": "to open",
+      "targetText": "a deschide"
+    },
+    {
+      "sourceText": "to pack",
+      "targetText": "a împacheta"
+    },
+    {
+      "sourceText": "to package",
+      "targetText": "a ambala"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to pack",
+      "targetText": "a împacheta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I am unpacking my suitcase.",
+      "targetText": "Eu îmi despachetez valiza."
+    },
+    {
+      "sourceText": "She unpacked the presents.",
+      "targetText": "Ea a despachetat cadourile."
+    },
+    {
+      "sourceText": "Can you please unpack the packages?",
+      "targetText": "Poți, te rog, să despachetezi pachetele?"
+    },
+    {
+      "sourceText": "We are unpacking the groceries from the car.",
+      "targetText": "Despachetăm alimentele din mașină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'unpack' as the opposite of 'pack'—to take things out of a package."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'despacheta' sounds like 'des-' (meaning 'undo' or 'remove') plus 'pachet' (package), just like 'unpack' means to remove from a package."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine yourself opening a suitcase and taking things out—that's 'a despacheta'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'un-' in English often means 'reverse action', which helps you recall the meaning of 'unpack'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

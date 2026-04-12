@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-field",
+  "parent": "ms-ro-camp-22e7e7e9@61e074ec8916dee5f1d9b0ec4e68ca89",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "field",
+    "genus": "neuter",
+    "definition": "An area of open land, often used for farming or pasture, typically without buildings.",
+    "pronunciation": "/fiːld/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"field\" originates from Old English 'feld', which meant open land or pasture and is related to the Proto-Germanic root *felþuz, referring to an open area of land.",
+        "targetText": "Cuvântul englezesc „field” provine din engleza veche 'feld', care însemna teren deschis sau pășune și este legat de rădăcina proto-germanică *felþuz, referindu-se la o zonă deschisă de teren."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "câmp",
+    "genus": "neuter",
+    "definition": "O bucată de teren, de obicei folosită pentru agricultură, deschisă și fără construcții.",
+    "pronunciation": "/kɨmp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"câmp\" comes from the Latin 'campus', meaning 'open field' or 'plain', and is found in many Romance languages with similar meanings.",
+        "targetText": "Cuvântul românesc „câmp” provine din latină, din termenul 'campus', care înseamnă 'teren deschis' sau 'câmpie' și este prezent în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "arable land",
+      "targetText": "ogor"
+    },
+    {
+      "sourceText": "farm",
+      "targetText": "fermă"
+    },
+    {
+      "sourceText": "agriculture",
+      "targetText": "agricultură"
+    },
+    {
+      "sourceText": "meadow",
+      "targetText": "pajiște"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The field is green and full of flowers in summer.",
+      "targetText": "Câmpul este verde și plin de flori vara."
+    },
+    {
+      "sourceText": "The farmers work in the field.",
+      "targetText": "Țăranii lucrează pe câmp."
+    },
+    {
+      "sourceText": "We have a large field behind the house.",
+      "targetText": "Avem un câmp mare în spatele casei."
+    },
+    {
+      "sourceText": "The field was prepared for growing wheat.",
+      "targetText": "Câmpul a fost pregătit pentru cultivarea grâului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word 'câmp' sounds like the English word 'camp', which often takes place in open fields."
+    },
+    {
+      "lang": "en",
+      "text": "The English word 'field' and Romanian 'câmp' both relate to open land used for farming, making them conceptually similar."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a university 'campus'—it comes from the Latin 'campus', the same root as 'câmp', meaning an open area."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize standing in a wide open field where a summer camp is set up to remember the meaning of 'câmp'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

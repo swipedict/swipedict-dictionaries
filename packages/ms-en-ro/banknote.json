@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-banknote",
+  "parent": "ms-ro-bancnota-7c69bd2c@9210f5385f84a17161c3db036ba7f921",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:italian",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "banknote",
+    "genus": "masculine",
+    "definition": "A piece of paper money issued by a bank, representing a specific monetary value and used as a means of payment.",
+    "pronunciation": "/ˈbæŋkˌnoʊt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"banknote\" is a compound of \"bank\" (from Italian 'banco', meaning bench or counter where money is exchanged) and \"note\" (a written document). It originally referred to a written promise of payment issued by a bank.",
+        "targetText": "Cuvântul englezesc „banknote” este un compus din „bank” (din italianul 'banco', care înseamnă bancă sau tejghea unde se schimbă bani) și „note” (un document scris). Inițial desemna o promisiune scrisă de plată emisă de o bancă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bancnotă",
+    "genus": "feminine",
+    "definition": "O bucată de hârtie cu valoare monetară, folosită ca mijloc de plată.",
+    "pronunciation": "/bankˈnota/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bancnotă\" comes from the Italian \"banconota\", which is composed of \"banco\" (bank, bench) and \"nota\" (note), originally referring to a written payment document.",
+        "targetText": "Cuvântul românesc „bancnotă” provine din italianul „banconota”, format din „banco” (bancă, masă) și „nota” (notă), desemnând inițial un document scris de plată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "banknote",
+      "targetText": "bancnotă"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "coin",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "means of payment",
+      "targetText": "mijloc de plată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "coin",
+      "targetText": "monedă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I have a 50-euro banknote in my pocket.",
+      "targetText": "Am o bancnotă de 50 de euro în buzunar."
+    },
+    {
+      "sourceText": "The banknote is made of paper and easy to fold.",
+      "targetText": "Bancnota este făcută din hârtie și se poate îndoi ușor."
+    },
+    {
+      "sourceText": "You can pay with a banknote.",
+      "targetText": "Poți plăti cu o bancnotă."
+    },
+    {
+      "sourceText": "The banknote shows a picture and a serial number.",
+      "targetText": "Bancnota are o imagine și un număr de serie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'banknote' by thinking of a 'bank' giving you a 'note'—a written promise of money."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'bancnotă' sounds very similar to 'banknote', making it easy to recall."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a bank counter ('banco' in Italian) where notes are issued—this helps link 'bancnotă' to money."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'bancnotă' with 'bank' and 'note' in English to remember it means a paper bill."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

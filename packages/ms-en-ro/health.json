@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-health",
+  "parent": "ms-ro-noroc-1ff6e613@4e9d3f554e56e0aa17ec98146aff9572",
+  "part_of_speech": "interjection",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "health",
+    "definition": "An exclamation said when someone sneezes to wish them good health.",
+    "pronunciation": "/hɛlθ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"health\" originates from the Old English 'hǣlth', meaning the state of being well or whole, derived from the adjective 'whole'.",
+        "targetText": "Cuvântul englezesc „health” provine din engleza veche 'hǣlth', care înseamnă starea de a fi sănătos sau întreg, derivat din adjectivul 'whole'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "noroc",
+    "definition": "Un urare spusă după strănut pentru a dori sănătate sau noroc.",
+    "pronunciation": "/noˈrok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"noroc\" comes from the Slavic 'norok', meaning 'luck' or 'fate'.",
+        "targetText": "Cuvântul românesc „noroc” provine din slavona 'norok', însemnând 'noroc' sau 'soartă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "health",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "luck",
+      "targetText": "fericire"
+    },
+    {
+      "sourceText": "sneeze",
+      "targetText": "strănut"
+    },
+    {
+      "sourceText": "well-being",
+      "targetText": "bunăstare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Someone sneezes, and you say: Health!",
+      "targetText": "Cineva strănută și spui: Noroc!"
+    },
+    {
+      "sourceText": "In Romania, people often say 'Noroc' after sneezing.",
+      "targetText": "În România se spune adesea 'Noroc' după strănut."
+    },
+    {
+      "sourceText": "Health is a polite response to sneezing.",
+      "targetText": "Noroc este o reacție politicoasă după strănut."
+    },
+    {
+      "sourceText": "You wish someone health with this exclamation.",
+      "targetText": "Cu această urare se dorește sănătate cuiva."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word “noroc” comes from Slavic roots, reflecting how many everyday Romanian words have Slavic origins."
+    },
+    {
+      "lang": "en",
+      "text": "“Noroc” sounds like “knock” in English—think of knocking on wood for good luck after someone sneezes."
+    },
+    {
+      "lang": "en",
+      "text": "“Noroc” is also used as a toast, so remember it as a word for both health and good fortune."
+    },
+    {
+      "lang": "en",
+      "text": "Think of “noroc” as a universal positive response, similar to saying “Bless you” or “Health” in English."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

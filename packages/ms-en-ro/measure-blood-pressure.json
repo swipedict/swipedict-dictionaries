@@ -1,0 +1,106 @@
+{
+  "id": "ms-en-ro-measure-blood-pressure",
+  "parent": "ms-ro-a-masura-tensiunea-arteriala-6e5ad41b@b81e002351d184d2413db6d670e94f03",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "measure blood pressure",
+    "definition": "The act of determining the force exerted by circulating blood on the walls of arteries.",
+    "pronunciation": "/ˈmɛʒər blʌd ˈprɛʃər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English phrase 'measure blood pressure' combines 'measure', derived from Latin 'mensurare' meaning 'to measure', with 'blood' from Old English 'blōd', and 'pressure' from Latin 'pressura', meaning 'to press'.",
+        "targetText": "Expresia engleză „measure blood pressure” combină cuvântul „measure”, derivat din latină 'mensurare' care înseamnă „a măsura”, cu „blood” din engleza veche „blōd” și „pressure” din latină „pressura”, care înseamnă „a apăsa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a măsura tensiunea arterială",
+    "definition": "Acțiunea de a determina presiunea sângelui în artere.",
+    "pronunciation": "/a məˈsu.ra tenˈsi.u.ne.a ar.te.ri.a.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a măsura” comes from the Latin 'mensurare', meaning 'to measure'. The term „tensiunea arterială” is composed of „tensiune” (from Latin 'tensio') and „arterială” (from Latin 'arteria').",
+        "targetText": "Verbul românesc „a măsura” provine din latinescul 'mensurare', care înseamnă 'a măsura'. Termenul „tensiunea arterială” este compus din „tensiune” (din latinescul 'tensio') și „arterială” (din latinescul 'arteria')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "artery",
+      "targetText": "arteră"
+    },
+    {
+      "sourceText": "blood",
+      "targetText": "sânge"
+    },
+    {
+      "sourceText": "pressure",
+      "targetText": "presiune"
+    },
+    {
+      "sourceText": "measure",
+      "targetText": "a măsura"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The doctor measures the patient's blood pressure.",
+      "targetText": "Doctorul măsoară tensiunea arterială a pacientului."
+    },
+    {
+      "sourceText": "I have to measure my blood pressure regularly.",
+      "targetText": "Trebuie să-mi măsor tensiunea arterială regulat."
+    },
+    {
+      "sourceText": "Blood pressure is measured during the check-up.",
+      "targetText": "La controlul medical se măsoară tensiunea arterială."
+    },
+    {
+      "sourceText": "High blood pressure can be dangerous.",
+      "targetText": "Tensiunea arterială ridicată poate fi periculoasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'measure' sounds like 'measure' in English, which helps you connect it to the Romanian 'a măsura'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'blood pressure' as the force of blood pushing through your arteries, just like pressure in a water pipe."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'tensiunea' sounds like 'tension', which is related to pressure or stress, making it easier to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine using a measuring tape ('măsură') to check something important, just like measuring your blood pressure."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

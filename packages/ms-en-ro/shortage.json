@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-shortage",
+  "parent": "ms-ro-lipsa-1524c607@f8e1c15a02fa4b9c0da4eba8cff093b3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "shortage",
+    "genus": "masculine",
+    "definition": "The state of having less of something than is needed or required.",
+    "pronunciation": "/ˈʃɔːrtɪdʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word “shortage” comes from the adjective “short,” meaning lacking or insufficient, combined with the suffix -age, which forms nouns indicating a state or condition.",
+        "targetText": "Cuvântul englezesc „shortage” provine de la adjectivul „short”, care înseamnă lipsă sau insuficient, combinat cu sufixul -age, care formează substantive ce indică o stare sau condiție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lipsă",
+    "genus": "feminine",
+    "definition": "Absența sau insuficiența a ceva ce este necesar.",
+    "pronunciation": "/ˈlip.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word “lipsă” originates from Old Church Slavonic “lipsa,” meaning “lack” or “absence.”",
+        "targetText": "Cuvântul românesc „lipsă” provine din slavona veche „lipsa”, care înseamnă „lipsă” sau „absență”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "deficit",
+      "targetText": "deficit"
+    },
+    {
+      "sourceText": "error",
+      "targetText": "greșeală"
+    },
+    {
+      "sourceText": "scarce product",
+      "targetText": "produs rar"
+    },
+    {
+      "sourceText": "need",
+      "targetText": "nevoie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abundance",
+      "targetText": "abundență"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "There is a shortage of water in this region.",
+      "targetText": "Există o lipsă de apă în această regiune."
+    },
+    {
+      "sourceText": "The shortage of skilled workers is a problem.",
+      "targetText": "Lipsa de forță de muncă calificată este o problemă."
+    },
+    {
+      "sourceText": "Lack of experience can lead to mistakes.",
+      "targetText": "Lipsa de experiență poate duce la greșeli."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'lipsă' sounds like 'lip' with an 's'—imagine a missing lip as a 'shortage' or lack."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'lipsă' resembles the English word 'lips', but it means 'lack'—a fun way to recall its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'lipsă' as related to 'slip'—something slipping away or missing, helping you remember it means 'shortage'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'shortage' with 'lipsă' by picturing something that is 'not there' or 'missing'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

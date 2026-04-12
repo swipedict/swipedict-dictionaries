@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-print",
+  "parent": "ms-ro-a-imprima-6b27cafe@5e2d16be284e10a657c10b568ccdfc28",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "print",
+    "definition": "to produce text or images on paper or another surface, typically using a printer or printing press",
+    "pronunciation": "/prɪnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The verb \"print\" originates from the Latin word 'premere', meaning 'to press'. It entered English through Old French 'preindre' and Middle English 'printen', reflecting the process of pressing ink onto paper.",
+        "targetText": "Cuvântul englezesc „print” provine din latină, din cuvântul „premere”, care înseamnă „a apăsa”. A intrat în limba engleză prin vechea franceză „preindre” și engleza mijlocie „printen”, reflectând procesul de a presa cerneala pe hârtie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. In modern contexts, it usually refers to producing documents or images using a printer."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a imprima",
+    "definition": "a transfera ceva pe hârtie sau pe un alt suport, de obicei cu o imprimantă",
+    "pronunciation": "/a imˈprima/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Comes from the Latin 'imprimere', meaning 'to press upon' or 'to imprint'. The word is used specifically in the context of printing texts and images.",
+        "targetText": "Verbul românesc „a imprima” provine din latină, din „imprimere”, care înseamnă „a apăsa pe” sau „a imprima“. Este folosit pentru a descrie procesul de tipărire a textelor sau imaginilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). In modern Romanian, it is frequently used to describe printing documents and photos."
+  },
+  "senses": [
+    {
+      "gloss": "Printing images",
+      "explanation": {
+        "sourceText": "'A imprima' is also used for printing images.",
+        "targetText": "„A imprima“ este folosit și pentru tipărirea imaginilor."
+      },
+      "examples": [
+        {
+          "sourceText": "He prints the picture.",
+          "targetText": "El imprimă imaginea."
+        }
+      ]
+    },
+    {
+      "gloss": "Printing documents",
+      "explanation": {
+        "sourceText": "Used to transfer forms and texts onto paper.",
+        "targetText": "Folosit pentru a transfera formulare și texte pe hârtie."
+      },
+      "examples": [
+        {
+          "sourceText": "I print the document.",
+          "targetText": "Eu imprim documentul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "book",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "printer",
+      "targetText": "imprimantă"
+    },
+    {
+      "sourceText": "paper",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "ink",
+      "targetText": "cerneală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erase",
+      "targetText": "a șterge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I print the document.",
+      "targetText": "Eu imprim documentul."
+    },
+    {
+      "sourceText": "Do you print the picture?",
+      "targetText": "Imprimi imaginea?"
+    },
+    {
+      "sourceText": "He prints the report.",
+      "targetText": "El imprimă raportul."
+    },
+    {
+      "sourceText": "We print the presentation.",
+      "targetText": "Noi imprimăm prezentarea."
+    },
+    {
+      "sourceText": "Do you (plural) print the invitations?",
+      "targetText": "Imprimați invitațiile?"
+    },
+    {
+      "sourceText": "They print the book.",
+      "targetText": "Ei imprimă cartea."
+    },
+    {
+      "sourceText": "I have printed the picture.",
+      "targetText": "Am imprimat imaginea."
+    },
+    {
+      "sourceText": "I will print the document.",
+      "targetText": "Voi imprima documentul."
+    },
+    {
+      "sourceText": "Print the form!",
+      "targetText": "Imprimă formularul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'print' by thinking of pressing ink onto paper, just like a stamp pressing a design."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a imprima' sounds like 'imprint', which also means to press or stamp something, helping you link the meanings."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a printer 'imprinting' your photos or documents, which matches the Romanian verb 'a imprima'."
+    },
+    {
+      "lang": "en",
+      "text": "Use the similarity between 'imprimare' (printing) and 'a imprima' to remember the verb form easily."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

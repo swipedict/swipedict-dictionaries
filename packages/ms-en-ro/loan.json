@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-loan",
+  "parent": "ms-ro-imprumut-88e74b3a@88c66e0ae3d221c0c4cc0806a5a4f6f2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "loan",
+    "genus": "neuter",
+    "definition": "A sum of money that is lent to a person or institution and must be repaid.",
+    "pronunciation": "/loʊn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"loan\" originates from Old English 'læn', meaning 'to lend' or 'a lending', related to the verb 'to lend'.",
+        "targetText": "Cuvântul englezesc „loan” provine din engleza veche 'læn', care înseamnă 'a împrumuta' sau 'împrumut', fiind legat de verbul 'to lend' (a împrumuta)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "împrumut",
+    "genus": "neuter",
+    "definition": "O sumă de bani primită de la o persoană sau instituție, care trebuie returnată.",
+    "pronunciation": "/ɨmpruˈmut/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „împrumut” is an internal formation, composed of the prefix „în-” and the root „prumut”, possibly related to the Latin „promutare” (\"to exchange, to lend\").",
+        "targetText": "Cuvântul românesc „împrumut” este o formare internă, compus din prefixul „în-” și rădăcina „prumut”, posibil înrudită cu latinescul „promutare” („a schimba, a împrumuta”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "debt",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "interest",
+      "targetText": "dobânzi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "saving",
+      "targetText": "a economisi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I took out a loan from the bank.",
+      "targetText": "Am luat un împrumut de la bancă."
+    },
+    {
+      "sourceText": "The loan must be repaid within five years.",
+      "targetText": "Împrumutul trebuie rambursat în cinci ani."
+    },
+    {
+      "sourceText": "The interest on the loan is very high.",
+      "targetText": "Dobânzile pentru împrumut sunt foarte mari."
+    },
+    {
+      "sourceText": "Many students take out a loan to finance their studies.",
+      "targetText": "Mulți studenți iau un împrumut pentru a-și finanța studiile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of the English word 'loan' as 'lending' money temporarily, which helps you remember that 'împrumut' means money borrowed that must be returned."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'împrumut' starts with 'îm-', similar to the English prefix 'im-' meaning 'in' or 'into', helping you associate it with giving or putting money into someone’s hands."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'loan' sounds like 'lone'—when you take a loan, you might feel alone with the responsibility to pay it back, linking it to 'împrumut'."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'împrumut' with the English word 'improve'—borrowing money can help improve your situation, making it easier to recall the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

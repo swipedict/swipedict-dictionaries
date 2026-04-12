@@ -1,0 +1,172 @@
+{
+  "id": "ms-en-ro-bite",
+  "parent": "ms-ro-a-musca-edd08f1e@12afed86de5167cda7ae66bc3c33a5c1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "bite",
+    "definition": "to use the teeth to cut into or grip something",
+    "pronunciation": "/baɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb 'bite' originates from Old English 'bītan', meaning to cut or grip with the teeth. It is related to other Germanic languages with similar forms and meanings.",
+        "targetText": "Cuvântul englezesc „bite” provine din engleza veche „bītan”, care înseamnă a tăia sau a înfige cu dinții. Este înrudit cu alte limbi germanice cu forme și sensuri similare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Irregular verb; commonly used for animals but also for humans who bite or cause pain."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mușca",
+    "definition": "a înfinge dinții în ceva",
+    "pronunciation": "/a muʃˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb 'a mușca' derives from the Latin 'morsicare', meaning to bite, related to 'morsus' (bite). It denotes the action of biting or chewing.",
+        "targetText": "Verbul românesc „a mușca” provine din latină, de la „morsicare”, care înseamnă a mușca, legat de „morsus” (mușcătură)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation (-a). Often used to describe animal behavior but also in human interactions."
+  },
+  "senses": [
+    {
+      "gloss": "Bite",
+      "explanation": {
+        "sourceText": "'Bite' refers to an injury caused by teeth.",
+        "targetText": "'Mușcătură' desemnează o rană cauzată de dinți."
+      },
+      "examples": [
+        {
+          "sourceText": "He had a bite from the dog.",
+          "targetText": "A avut o mușcătură de la câine."
+        }
+      ]
+    },
+    {
+      "gloss": "Chewing",
+      "explanation": {
+        "sourceText": "The act of breaking down food with the teeth.",
+        "targetText": "Zdrobirea alimentelor cu dinții."
+      },
+      "examples": [
+        {
+          "sourceText": "I am chewing the apple.",
+          "targetText": "Eu mestec mărul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "bite",
+      "targetText": "mușcătură"
+    },
+    {
+      "sourceText": "eat",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "chew",
+      "targetText": "mestecat"
+    },
+    {
+      "sourceText": "tooth",
+      "targetText": "dinte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lick",
+      "targetText": "a linge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I bite into the apple.",
+      "targetText": "Eu mușc din măr."
+    },
+    {
+      "sourceText": "Have you already bitten the bread?",
+      "targetText": "Ai mușcat deja din pâine?"
+    },
+    {
+      "sourceText": "The dog bites the mailman.",
+      "targetText": "Câinele mușcă poștașul."
+    },
+    {
+      "sourceText": "We bite into the chocolate.",
+      "targetText": "Noi mușcăm din ciocolată."
+    },
+    {
+      "sourceText": "Please bite carefully!",
+      "targetText": "Mușcați cu atenție!"
+    },
+    {
+      "sourceText": "The cats bite through the string.",
+      "targetText": "Pisicile mușcă sfoara."
+    },
+    {
+      "sourceText": "I have bitten the apple.",
+      "targetText": "Am mușcat din măr."
+    },
+    {
+      "sourceText": "He bit the boy.",
+      "targetText": "El a mușcat băiatul."
+    },
+    {
+      "sourceText": "I will bite into the pizza.",
+      "targetText": "Voi mușca din pizza."
+    },
+    {
+      "sourceText": "I would bite into the chocolate bar.",
+      "targetText": "Aș mușca din batoanele de ciocolată."
+    },
+    {
+      "sourceText": "Don't bite so hard!",
+      "targetText": "Nu mușca atât de tare!"
+    },
+    {
+      "sourceText": "The bitten hand needs immediate help.",
+      "targetText": "Mâna mușcată are nevoie de ajutor imediat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Imagine a dog biting a bone to remember 'a mușca' means to bite."
+    },
+    {
+      "lang": "en",
+      "text": "Practice saying 'I bite' as 'Eu mușc' to connect the action with the Romanian verb."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'mușca' with the English word 'morsel' to recall the meaning related to biting or small bites."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'mușca' sounding like 'moosh-ka'—imagine softly biting into something mushy."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

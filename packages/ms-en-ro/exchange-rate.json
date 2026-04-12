@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-exchange-rate",
+  "parent": "ms-ro-curs-valutar-b4ae37b3@c21d02f7755d19bfecb37c8458028134",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "exchange rate",
+    "genus": "masculine",
+    "definition": "The price at which one currency can be exchanged for another.",
+    "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'exchange rate' combines 'exchange', from Old French 'eschange', meaning to swap or trade, and 'rate', from Old French 'rate', originally from Latin 'rata' meaning fixed calculation.",
+        "targetText": "Termenul englezesc „exchange rate” combină „exchange”, din franceza veche 'eschange', care înseamnă a schimba sau a face schimb, și „rate”, din franceza veche 'rate', provenind inițial din latinescul 'rata' care înseamnă calcul fix."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curs valutar",
+    "genus": "neuter",
+    "definition": "Prețul la care o monedă este schimbată cu alta.",
+    "pronunciation": "/kurs valaˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'curs' derives from Latin 'cursus', meaning 'running' or 'course', and 'valutar' comes from French 'valutaire', which in turn originates from Italian 'valuta', originally from Latin 'valere' meaning 'to be worth'.",
+        "targetText": "Cuvântul românesc „curs” provine din latină, 'cursus', însemnând 'alergare' sau 'curs', iar „valutar” derivă din franceza 'valutaire', care la rândul său vine din italiană 'valuta', provenind din latinescul 'valere' (a avea valoare)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "stock exchange",
+      "targetText": "bursă"
+    },
+    {
+      "sourceText": "foreign exchange",
+      "targetText": "devize"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "currency",
+      "targetText": "monedă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The exchange rate between the euro and the dollar changes daily.",
+      "targetText": "Cursul valutar între euro și dolar se schimbă zilnic."
+    },
+    {
+      "sourceText": "A favorable exchange rate can save a lot when changing money.",
+      "targetText": "Un curs valutar avantajos poate economisi mult la schimbul de bani."
+    },
+    {
+      "sourceText": "The central bank influences the exchange rate through its monetary policy.",
+      "targetText": "Banca centrală influențează cursul valutar prin politica sa monetară."
+    },
+    {
+      "sourceText": "When traveling, you should pay attention to the current exchange rate.",
+      "targetText": "Când călătorești, trebuie să ții cont de cursul valutar actual."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'valutar' sounds like 'value'—it relates to the worth of money, so 'curs valutar' means the 'value course' or exchange rate."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'curs' is like 'course' in English, which can mean a path or flow—think of the flow of money's value changing over time."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'exchange rate' as the price tag for swapping currencies; 'curs valutar' is the Romanian way to say it."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine you're taking a 'course' (class) on money values—that's 'curs valutar', the rate at which currencies are exchanged."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

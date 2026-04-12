@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-country",
+  "parent": "ms-ro-tara-6b49e45b@4852fe0a91d827cdb1901dd0ef90220e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "country",
+    "definition": "A defined area of land, often with its own government and distinct culture.",
+    "pronunciation": "/ˈkʌntri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'country' comes from the Old French 'contrée', derived from Latin 'contra' meaning 'against' or 'opposite side', referring to a region or land area.",
+        "targetText": "Cuvântul englezesc „country” provine din vechea franceză 'contrée', derivată din latină 'contra' care înseamnă 'împotriva' sau 'partea opusă', referindu-se la o regiune sau teritoriu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null",
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "țară",
+    "genus": "feminine",
+    "definition": "Un teritoriu delimitat, adesea cu guvernare și cultură proprie.",
+    "pronunciation": "/t͡səˈrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'țară' derives from the Slavic 'čarь', meaning 'realm' or 'territory of rule', which in Romanian came to mean 'country' or 'state'.",
+        "targetText": "Cuvântul românesc „țară” provine din slavonă 'čarь', care însemna 'teritoriu de stăpânire' și a căpătat în română sensul de 'țară, stat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "area",
+      "targetText": "teritoriu"
+    },
+    {
+      "sourceText": "nation",
+      "targetText": "națiune"
+    },
+    {
+      "sourceText": "region",
+      "targetText": "regiune"
+    },
+    {
+      "sourceText": "state",
+      "targetText": "stat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Germany is a country in Europe.",
+      "targetText": "Germania este o țară în Europa."
+    },
+    {
+      "sourceText": "Every country has its own culture.",
+      "targetText": "Fiecare țară are propria cultură."
+    },
+    {
+      "sourceText": "I like to travel to foreign countries.",
+      "targetText": "Îmi place să călătoresc în țări străine."
+    },
+    {
+      "sourceText": "The country has many different landscapes.",
+      "targetText": "Țara are multe peisaje diferite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'țară' sounds like 'tsar', a ruler of a country—this helps link the word to the idea of a land ruled by someone."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-ă' is common for feminine nouns in Romanian, like 'țară', 'casă' (house), and 'fată' (girl)."
+    },
+    {
+      "lang": "en",
+      "text": "Knowing 'țară' comes from a Slavic word meaning 'realm' or 'territory' can help you associate it with 'country' or 'state'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'country' as a defined area with its own culture and government, just like 'țară' in Romanian."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

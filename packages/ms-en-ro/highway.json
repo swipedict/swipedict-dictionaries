@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-highway",
+  "parent": "ms-ro-autostrada-a3202dbd@c56bdca5102a4686974f81a407e70ec5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:italian",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "highway",
+    "genus": "feminine",
+    "definition": "A specially designed road built for fast motor vehicle traffic without intersections.",
+    "pronunciation": "/ˈhaɪˌweɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"highway\" comes from the Old English words 'high' meaning 'main' or 'important' and 'way' meaning 'road' or 'path', referring to a main public road.",
+        "targetText": "Cuvântul englezesc „highway” provine din cuvintele engleze vechi 'high' care înseamnă 'principal' sau 'important' și 'way' care înseamnă 'drum' sau 'cale', referindu-se la un drum public principal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autostradă",
+    "genus": "feminine",
+    "definition": "O șosea special construită pentru circulația rapidă a vehiculelor fără intersecții.",
+    "pronunciation": "/autoˈstradə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „autostradă” is a modern borrowing modeled after the Italian „autostrada”, which is composed of „auto” and „strada” (street).",
+        "targetText": "Cuvântul românesc „autostradă” este un împrumut modern după modelul italian „autostrada”, format din „auto” și „strada” (stradă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "car trip",
+      "targetText": "călătorie cu mașina"
+    },
+    {
+      "sourceText": "roadway",
+      "targetText": "carosabil"
+    },
+    {
+      "sourceText": "street",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "traffic",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "footpath",
+      "targetText": "trotoar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The highway is very busy today.",
+      "targetText": "Autostrada este foarte aglomerată astăzi."
+    },
+    {
+      "sourceText": "You are allowed to drive faster on the highway than in the city.",
+      "targetText": "Pe autostradă se poate circula mai repede decât în oraș."
+    },
+    {
+      "sourceText": "We are driving to Berlin via the highway.",
+      "targetText": "Mergem pe autostradă spre Berlin."
+    },
+    {
+      "sourceText": "The highway has no traffic lights or intersections.",
+      "targetText": "Autostrada nu are semafoare sau intersecții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'highway' as a 'high' or main 'way'—a major road designed for fast travel."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'autostradă' sounds like 'auto' (car) plus 'stradă' (street), making it easy to remember as a road for cars."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine driving fast on a 'highway'—this helps link the English word with the Romanian 'autostradă'."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'stradă' means street in Romanian, similar to 'street' in English, so 'autostradă' is a car street or highway."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

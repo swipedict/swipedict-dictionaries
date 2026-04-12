@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-creditor",
+  "parent": "ms-ro-creditor-3d82e92a@1742fe5cb1fe4dabe3cf02c5943c337d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "creditor",
+    "genus": "masculine",
+    "definition": "A person or institution that is owed money by a debtor.",
+    "pronunciation": "/ˈkrɛdɪtər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'creditor' comes from the Latin 'creditor', meaning 'one who believes or trusts', derived from 'credere' which means 'to believe' or 'to trust'.",
+        "targetText": "Cuvântul englezesc „creditor” provine din latină, din 'creditor', care înseamnă 'cel care crede' sau 'cel care are încredere', derivat din 'credere' – 'a crede' sau 'a avea încredere'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "creditor",
+    "genus": "masculine",
+    "definition": "Persoană sau instituție care are o creanță asupra unui debitor.",
+    "pronunciation": "/kreˈdi.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'creditor' comes from the Latin 'creditor', meaning 'one who believes or trusts', derived from 'credere' (to believe, to trust).",
+        "targetText": "Cuvântul românesc „creditor” provine din latină, din 'creditor', care înseamnă 'cel care crede' sau 'gläubiger', derivat din 'credere' – 'a crede'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "claim",
+      "targetText": "creanță"
+    },
+    {
+      "sourceText": "credit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "debtor",
+      "targetText": "debitor"
+    },
+    {
+      "sourceText": "contract",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "debtor",
+      "targetText": "debitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The creditor demands repayment of the loan.",
+      "targetText": "Creditorul solicită rambursarea împrumutului."
+    },
+    {
+      "sourceText": "A creditor can take legal action against the debtor.",
+      "targetText": "Un creditor poate iniția acțiuni legale împotriva debitorului."
+    },
+    {
+      "sourceText": "Creditors have a right to their money.",
+      "targetText": "Creditorii au dreptul la banii lor."
+    },
+    {
+      "sourceText": "Creditors and debtors must adhere to the contract.",
+      "targetText": "Creditorii și debitorii trebuie să respecte contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'creditor' sounds like 'credit', which relates to money and trust, helping you link the Romanian 'creditor' to someone who lends money."
+    },
+    {
+      "lang": "en",
+      "text": "The '-or' ending in 'creditor' is common in English for nouns naming people who perform an action, just like in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a creditor as someone who 'credits' you with money, trusting you will pay it back—this connects well with the Romanian meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a creditor as a person who 'believes' in your ability to repay, which matches the Latin root 'credere' meaning 'to believe' or 'to trust'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

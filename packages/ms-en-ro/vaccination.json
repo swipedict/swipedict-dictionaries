@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-vaccination",
+  "parent": "ms-ro-vaccinare-6bd09fe0@b8edb567f1c1844005719f40e98271f4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "vaccination",
+    "genus": "feminine",
+    "definition": "The process of administering a vaccine to stimulate immunity against a specific disease.",
+    "pronunciation": "/ˌvæksɪˈneɪʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"vaccination\" derives from the French 'vaccination', which in turn comes from the Latin 'vaccinus', meaning 'of or from cows'. This refers to the original use of cowpox material to confer immunity against smallpox.",
+        "targetText": "Cuvântul englezesc „vaccination” provine din francezul „vaccination”, care la rândul său derivă din latinul 'vaccinus', însemnând „de la vacă”. Acest lucru face referire la utilizarea inițială a materialului de variole bovine pentru a conferi imunitate împotriva variolei."
+      },
+      "source": "Etymological dictionaries, linguistic studies"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vaccinare",
+    "genus": "feminine",
+    "definition": "Administrarea unui vaccin pentru a crea imunitate împotriva unei boli.",
+    "pronunciation": "/vak.t͡siˈna.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"vaccinare\" was borrowed from the French \"vaccination\", which itself derives from the Latin 'vaccinus' (\"of or from cows\"), referring to the first vaccination against cowpox.",
+        "targetText": "Cuvântul românesc „vaccinare” este împrumutat din francezul „vaccination”, derivat din latinul 'vaccinus' („de la vacă”), referindu-se la prima vaccinare împotriva variolei bovine."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "immunity",
+      "targetText": "imunitate"
+    },
+    {
+      "sourceText": "vaccine",
+      "targetText": "vaccin"
+    },
+    {
+      "sourceText": "disease",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "protection",
+      "targetText": "protecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "infection",
+      "targetText": "contaminare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Vaccination protects against dangerous diseases.",
+      "targetText": "Vaccinarea protejează împotriva bolilor periculoase."
+    },
+    {
+      "sourceText": "Many children receive their first vaccination during infancy.",
+      "targetText": "Mulți copii primesc prima vaccinare în perioada sugarului."
+    },
+    {
+      "sourceText": "Mild side effects may occur after vaccination.",
+      "targetText": "După vaccinare pot apărea efecte secundare ușoare."
+    },
+    {
+      "sourceText": "Vaccination is an important step for health protection.",
+      "targetText": "Vaccinarea este un pas important pentru protecția sănătății."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'vaccination' starts with 'vac-', just like 'vaccine', which helps you connect the idea of protection through inoculation."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian word 'vaccinare' sounds like 'vacation' but think of it as a 'health vacation' where your body gets protected!"
+    },
+    {
+      "lang": "en",
+      "text": "Think of a cow ('vaca' in Romanian) as the original source of the vaccine, helping you link 'vaccinare' to its origin."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize getting a 'vaccination' as planting a small seed of protection inside your body, similar to how 'vaccinare' means to inoculate."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

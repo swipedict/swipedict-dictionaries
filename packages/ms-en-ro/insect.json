@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-insect",
+  "parent": "ms-ro-insecta-9bfdbd7d@b5db2f7c64abdb2cb68cddf368202609",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "insect",
+    "genus": "neuter",
+    "definition": "A small invertebrate animal with six legs, often having wings.",
+    "pronunciation": "/ˈɪn.sɛkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'insect' comes from the Latin 'insectum', meaning 'cut into sections', referring to the segmented body structure.",
+        "targetText": "Cuvântul englezesc „insect” provine din latină, din 'insectum', care înseamnă 'tăiat în bucăți', referindu-se la corpul segmentat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "insectă",
+    "genus": "feminine",
+    "definition": "Un animal mic fără coloană vertebrală, cu șase picioare, adesea cu aripi.",
+    "pronunciation": "/inˈsek.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'insectă' was borrowed from French 'insecte', which in turn derives from Latin 'insectum'.",
+        "targetText": "Cuvântul românesc „insectă” a fost preluat din franceză, „insecte”, care provine la rândul său din latină, „insectum”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "leg",
+      "targetText": "picior"
+    },
+    {
+      "sourceText": "wing",
+      "targetText": "aripă"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    },
+    {
+      "sourceText": "invertebrate",
+      "targetText": "fără coloană vertebrală"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "A bee is an insect.",
+      "targetText": "O albină este o insectă."
+    },
+    {
+      "sourceText": "Insects often have six legs.",
+      "targetText": "Insectele au adesea șase picioare."
+    },
+    {
+      "sourceText": "The butterfly is a beautiful insect.",
+      "targetText": "Fluturele este o insectă frumoasă."
+    },
+    {
+      "sourceText": "Insects live in many different environments.",
+      "targetText": "Insectele trăiesc în multe medii diferite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian word 'insectă' sounds very similar to the English 'insect', making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Notice that 'insectă' ends with '-ă', a common feminine noun ending in Romanian."
+    },
+    {
+      "lang": "en",
+      "text": "Both words come from Latin 'insectum', meaning 'cut into sections', which helps explain the segmented body of insects."
+    },
+    {
+      "lang": "en",
+      "text": "Think of an insect as having many small 'sections'—this can help you recall the meaning of 'insectă'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

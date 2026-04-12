@@ -1,0 +1,123 @@
+{
+  "id": "ms-en-ro-report",
+  "parent": "ms-ro-a-relata-e8e516b7@1ef09af47ec82d29e4d1f0b2352b4889",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "report",
+    "definition": "to give information or news to someone; to describe or narrate events or facts",
+    "pronunciation": "/rɪˈpɔːrt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"report\" comes from the Latin verb \"reportare\", meaning 'to carry back' or 'to bring back'. Over time, it evolved to mean 'to give an account of' or 'to relate information'.",
+        "targetText": "Cuvântul englezesc „report“ provine din verbul latin „reportare“, care înseamnă „a aduce înapoi“ sau „a transmite“. În timp, a evoluat să însemne „a da o relatare“ sau „a comunica informații“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb. Commonly used to convey information or to spread news."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a relata",
+    "definition": "a comunica informații sau știri cuiva",
+    "pronunciation": "/a re.laˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derived from the Latin \"relatare\", meaning 'to tell' or 'to report'. It is closely connected with narration.",
+        "targetText": "Derivat din latinescul „relatare“, care înseamnă „a povesti“ sau „a raporta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation. Frequently used in journalistic contexts."
+  },
+  "senses": [
+    {
+      "gloss": "Report",
+      "explanation": {
+        "sourceText": "Refers to a formal or written communication.",
+        "targetText": "Se referă la o comunicare formală sau scrisă."
+      },
+      "examples": [
+        {
+          "sourceText": "I have read the report.",
+          "targetText": "Am citit raportul."
+        }
+      ]
+    },
+    {
+      "gloss": "News",
+      "explanation": {
+        "sourceText": "Is a lively form of 'to report'.",
+        "targetText": "Este o formă vie de a raporta."
+      },
+      "examples": [
+        {
+          "sourceText": "The news was spread.",
+          "targetText": "Știrea a fost răspândită."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Narration",
+      "targetText": "narațiune"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Report",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "News",
+      "targetText": "știre"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "to be silent",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"report\" and \"a relata\" both involve sharing information, so think of a reporter telling a story to help you recall the Romanian word."
+    },
+    {
+      "lang": "en",
+      "text": "The English word \"report\" sounds like 're-port'—imagine carrying back news to someone, just like \"a relata\" means to communicate news."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a news report on TV: the reporter 'relates' facts, which matches the Romanian verb \"a relata\"."
+    },
+    {
+      "lang": "en",
+      "text": "Use the phrase \"I report\" to practice: 'Eu relatez' means 'I report' in Romanian, linking the two words in your mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

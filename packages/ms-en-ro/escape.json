@@ -1,0 +1,217 @@
+{
+  "id": "ms-en-ro-escape",
+  "parent": "ms-ro-a-scapa-372cc98a@71e527c2f8c1c89a465b29f7fc0780da",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "escape",
+    "definition": "to get away from a dangerous or unpleasant situation or place",
+    "pronunciation": "/ɪˈskeɪp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"escape\" comes from the Old French \"escaper\", which derives from the Vulgar Latin *excappare, meaning 'to get out of the hood or cape', figuratively 'to get away'.",
+        "targetText": "Cuvântul englezesc „escape” provine din franceza veche „escaper”, care derivă din latina vulgară *excappare, însemnând „a scăpa de glugă sau mantie”, în sens figurat „a scăpa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "An irregular verb. Often used in contexts related to fleeing or getting away from difficult situations."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a scăpa",
+    "definition": "a fugi de o stare sau un loc periculos sau nefavorabil",
+    "pronunciation": "/a skəˈpa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb „a scăpa” derives from the Latin „excappare”, meaning 'to free oneself from a hood' and figuratively 'to escape'.",
+        "targetText": "Verbul românesc „a scăpa“ provine din latină, din „excappare“, care înseamnă „a se elibera de o glugă“ și în sens figurat „a scăpa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular verb of the 1st conjugation. Frequently used in everyday situations to describe refuge or escape from problems."
+  },
+  "senses": [
+    {
+      "gloss": "Liberation",
+      "explanation": {
+        "sourceText": "Also means the action of freeing oneself from a bandage or restraint.",
+        "targetText": "Înseamnă și acțiunea de a te elibera de o legătură sau o bandaj."
+      },
+      "examples": [
+        {
+          "sourceText": "The liberation from prison was successful.",
+          "targetText": "Scăparea din închisoare a reușit."
+        }
+      ]
+    },
+    {
+      "gloss": "Fleeing",
+      "explanation": {
+        "sourceText": "Another use of 'a scăpa' referring to the idea of fleeing or escaping.",
+        "targetText": "O utilizare a verbului „a scăpa“ care exprimă ideea de a fugi sau a se elibera."
+      },
+      "examples": [
+        {
+          "sourceText": "We have to escape from this room.",
+          "targetText": "Trebuie să scăpăm din această cameră."
+        }
+      ]
+    },
+    {
+      "gloss": "Running away from",
+      "explanation": {
+        "sourceText": "Also used to describe avoiding fear or responsibility.",
+        "targetText": "Este folosit și pentru a descrie evitarea fricii sau responsabilității."
+      },
+      "examples": [
+        {
+          "sourceText": "He has to run away from his fears.",
+          "targetText": "El trebuie să scape de temerile sale."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "flight",
+      "targetText": "fugă"
+    },
+    {
+      "sourceText": "danger",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "rescue",
+      "targetText": "salvare"
+    },
+    {
+      "sourceText": "safety",
+      "targetText": "siguranță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hold on",
+      "targetText": "a reține"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I escape the chaos.",
+      "targetText": "Eu scap de haos."
+    },
+    {
+      "sourceText": "Do you escape the problem?",
+      "targetText": "Scapi de problemă?"
+    },
+    {
+      "sourceText": "He escapes the danger.",
+      "targetText": "El scapă de pericol."
+    },
+    {
+      "sourceText": "We escape reality.",
+      "targetText": "Noi scăpăm de realitate."
+    },
+    {
+      "sourceText": "Do you escape responsibility?",
+      "targetText": "Scăpați de responsabilitate?"
+    },
+    {
+      "sourceText": "The children escape the supervisor.",
+      "targetText": "Copiii scapă de supraveghetor."
+    },
+    {
+      "sourceText": "I have escaped the influence.",
+      "targetText": "Am scăpat de influență."
+    },
+    {
+      "sourceText": "They escaped just in time.",
+      "targetText": "Ei au scăpat la timp."
+    },
+    {
+      "sourceText": "He escaped into the night.",
+      "targetText": "El a scăpat în noapte."
+    },
+    {
+      "sourceText": "I had escaped the claws before it was too late.",
+      "targetText": "Scăpasem din gheare înainte să fie prea târziu."
+    },
+    {
+      "sourceText": "I will escape the danger.",
+      "targetText": "Voi scăpa de pericol."
+    },
+    {
+      "sourceText": "The cat will escape the dog.",
+      "targetText": "Pisica o să scape de câine."
+    },
+    {
+      "sourceText": "I would escape the danger if I could run.",
+      "targetText": "Aș scăpa de pericol, dacă aș putea fugi."
+    },
+    {
+      "sourceText": "It is important that you escape quickly!",
+      "targetText": "Este important să poți scăpa repede!"
+    },
+    {
+      "sourceText": "Escape your fear!",
+      "targetText": "Scapă de frica ta!"
+    },
+    {
+      "sourceText": "Escape the shadows!",
+      "targetText": "Scăpați de umbre!"
+    },
+    {
+      "sourceText": "The escaped prisoner was relieved.",
+      "targetText": "Prizonierul scăpat era ușurat."
+    },
+    {
+      "sourceText": "The captured animals have now escaped.",
+      "targetText": "Animalele capturate sunt acum scăpate."
+    },
+    {
+      "sourceText": "Escaping, he stepped outside.",
+      "targetText": "Scăpând, a ieșit afară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that 'escape' sounds like 'escape' in English, making it easy to link to the Romanian 'a scăpa'."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'a scăpa' as 'to free yourself'—similar to how 'escape' means to get free from danger."
+    },
+    {
+      "lang": "en",
+      "text": "The 'sc-' start in 'scăpa' can remind you of 'scamper' or 'scatter', both implying quick movement away."
+    },
+    {
+      "lang": "en",
+      "text": "Use phrases like 'Eu scap de probleme' (I escape problems) to practice how 'a scăpa' is used with 'de' to indicate what you escape from."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine someone 'scaping' out of a trap—that image helps fix the meaning of 'a scăpa' in your mind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "ms-en-ro-juridical",
+  "parent": "ms-ro-juridic-0323d871@05ce3d6c218deef0bbc69c928c43ac17",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:work-education",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "juridical",
+    "definition": "relating to law, legal science, or the legal system",
+    "pronunciation": "/ˌdʒʊrɪˈdɪkəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The adjective \"juridical\" derives from the Latin root \"juris,\" meaning \"law,\" and entered English through French influence.",
+        "targetText": "Adjectivul „juridical” provine din rădăcina latină „juris”, care înseamnă „lege”, și a intrat în limba engleză prin influență franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Many countries have specialized juridical terminology."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "juridic",
+    "genus": "masculine",
+    "definition": "referitor la știința dreptului sau sistemul juridic",
+    "pronunciation": "/ʒuˈridik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „juridic” was borrowed from the French „juridique”, which in turn comes from the Latin „juridicus”.",
+        "targetText": "Termenul românesc „juridic” a fost împrumutat din francezul „juridique”, care provine la rândul său din latinul „juridicus”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "Legal interpretation",
+      "explanation": {
+        "sourceText": "This word relates to the understanding of law and justice.",
+        "targetText": "Se referă la interpretarea dreptului și a justiției."
+      },
+      "examples": [
+        {
+          "sourceText": "The juridical interpretation of this issue was controversial.",
+          "targetText": "Aprecierea juridică a acestei întrebări era controversată."
+        }
+      ]
+    },
+    {
+      "gloss": "Legal system",
+      "explanation": {
+        "sourceText": "It can refer both to the entire legal system and to specific legal situations.",
+        "targetText": "Se referă atât la sistemul juridic în ansamblu, cât și la situații legale specifice."
+      },
+      "examples": [
+        {
+          "sourceText": "The juridical system in Germany is complex.",
+          "targetText": "Sistemul juridic din Germania este complex."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "law",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "trial",
+      "targetText": "proces"
+    },
+    {
+      "sourceText": "right",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "judge",
+      "targetText": "judecător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "non-juridical",
+      "targetText": "illegal"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Juridical studies require a lot of commitment.",
+      "targetText": "Studii juridice necesită mult angajament."
+    },
+    {
+      "sourceText": "Juridical terms can be confusing.",
+      "targetText": "Termenii juridici pot fi confuzi."
+    },
+    {
+      "sourceText": "He completed a juridical education.",
+      "targetText": "El a făcut o pregătire juridică."
+    },
+    {
+      "sourceText": "Juridical questions should always be answered by experts.",
+      "targetText": "Întrebările juridice ar trebui să fie întotdeauna răspunse de experți."
+    },
+    {
+      "sourceText": "There are many juridical problems in this country.",
+      "targetText": "În această țară există multe probleme juridice."
+    },
+    {
+      "sourceText": "Juridical norms are important for a functioning rule of law.",
+      "targetText": "Normele juridice sunt importante pentru un stat de drept funcțional."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"juridical\" sounds like \"jury\" which relates to law and courts, helping you connect it to legal matters."
+    },
+    {
+      "lang": "en",
+      "text": "The root \"jur-\" in \"juridical\" is the same as in \"jury\" and \"jurisdiction,\" all connected to law."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"juridical\" as related to \"judicial,\" both referring to legal systems and processes."
+    },
+    {
+      "lang": "en",
+      "text": "Link the Romanian \"juridic\" to English \"juridical\" by their shared Latin root \"juris\" meaning law."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

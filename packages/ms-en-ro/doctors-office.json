@@ -1,0 +1,109 @@
+{
+  "id": "ms-en-ro-doctors-office",
+  "parent": "ms-ro-cabinet-medical-c5f4210f@88ddeeea21f0eb086203ebdbe7858c94",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "doctor's office",
+    "genus": "feminine",
+    "definition": "A place where a doctor sees and treats patients.",
+    "pronunciation": "/ˈdɒktərz ˈɒfɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term \"doctor's office\" combines \"doctor,\" from Latin 'doctor' meaning 'teacher' or 'learned person,' with \"office,\" derived from Latin 'officium,' meaning 'service' or 'duty.'",
+        "targetText": "Cuvântul englezesc „doctor's office” combină „doctor”, din latină 'doctor' însemnând 'învățător' sau 'persoană învățată', cu „office”, derivat din latină 'officium', care înseamnă 'serviciu' sau 'îndatorire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cabinet medical",
+    "genus": "neuter",
+    "definition": "Locul unde un medic își tratează pacienții.",
+    "pronunciation": "/kaˈbinet meˈdikal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian term \"cabinet medical\" is borrowed from the French \"cabinet médical,\" where 'cabinet' means a small room and 'medical' comes from Latin 'medicus' meaning doctor.",
+        "targetText": "Expresia românească „cabinet medical” este un împrumut din franceza „cabinet médical”, unde 'cabinet' înseamnă o cameră mică, iar 'medical' provine din latină 'medicus', însemnând medic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "doctor",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "treatment",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "hospital",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "patient",
+      "targetText": "pacient"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have an appointment at the doctor's office.",
+      "targetText": "Am o programare la cabinetul medical."
+    },
+    {
+      "sourceText": "The doctor's office is equipped with modern facilities.",
+      "targetText": "Cabinetul medical este echipat modern."
+    },
+    {
+      "sourceText": "A friendly female doctor works at the doctor's office.",
+      "targetText": "La cabinetul medical lucrează o doctoriță prietenoasă."
+    },
+    {
+      "sourceText": "Many patients come to the doctor's office daily.",
+      "targetText": "Mulți pacienți vin zilnic la cabinetul medical."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that \"cabinet medical\" sounds like the French original, helping you connect it to a doctor's office."
+    },
+    {
+      "lang": "en",
+      "text": "The word \"medical\" is similar to the English word \"medical,\" making it easy to associate with doctors and health."
+    },
+    {
+      "lang": "en",
+      "text": "Note that \"cabinet\" in Romanian means not just furniture but also a small room, like a doctor's office."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine walking into a small \"cabinet\" where the doctor works to remember the meaning."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

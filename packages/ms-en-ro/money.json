@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-money",
+  "parent": "ms-ro-bani-366ede56@1f1b021bdd99e7a1484b6ea83e22924e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "money",
+    "genus": "neuter",
+    "definition": "A generally accepted medium of exchange in the form of coins or banknotes, used to pay for goods and services.",
+    "pronunciation": "/ˈmʌni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"money\" comes from the Latin word 'moneta', which was the title of the Roman goddess Juno Moneta, in whose temple coins were minted. Over time, 'moneta' came to mean 'coin' or 'money' in general.",
+        "targetText": "Cuvântul englezesc „money” provine din cuvântul latin 'moneta', care era titlul zeiței romane Juno Moneta, în al cărei templu se băteau monede. În timp, 'moneta' a ajuns să însemne 'monedă' sau 'bani' în general."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bani",
+    "genus": "masculine",
+    "definition": "Mijloc de plată general acceptat sub formă de monede sau bancnote, folosit pentru cumpărarea de bunuri și servicii.",
+    "pronunciation": "/ˈbani/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"bani\" originates from Old Slavic \"banъ\", which originally referred to a ruler's title or a mint master and later came to mean money.",
+        "targetText": "Cuvântul românesc „bani” provine din slavona veche „banъ”, care inițial desemna un titlu de conducător sau responsabil cu moneda, fiind ulterior asociat cu sensul de bani."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "payment",
+      "targetText": "plată"
+    },
+    {
+      "sourceText": "coin",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "banknotes",
+      "targetText": "bancnote"
+    },
+    {
+      "sourceText": "currency",
+      "targetText": "monedă națională"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "debt",
+      "targetText": "datorii"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I don't have any money with me.",
+      "targetText": "Nu am bani la mine."
+    },
+    {
+      "sourceText": "The money is on the table.",
+      "targetText": "Banii sunt pe masă."
+    },
+    {
+      "sourceText": "He is saving money for the vacation.",
+      "targetText": "El economisește bani pentru vacanță."
+    },
+    {
+      "sourceText": "Money doesn't bring happiness.",
+      "targetText": "Banii nu aduc fericirea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember that the Romanian word \"bani\" sounds like 'bunny'—imagine a bunny hopping around with coins to help you recall the word."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'bani' as 'ban' with an 'i'—like a ruler (ban) who controls money, which helps link the word to its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Associate 'bani' with 'bank'—both relate to money, making it easier to remember the Romanian term."
+    },
+    {
+      "lang": "en",
+      "text": "Picture having lots of 'bani' so you can travel anywhere—like buying a ticket for the train (sounds like 'bahn'), connecting the sound and meaning playfully."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

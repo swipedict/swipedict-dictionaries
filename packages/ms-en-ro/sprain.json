@@ -1,0 +1,114 @@
+{
+  "id": "ms-en-ro-sprain",
+  "parent": "ms-ro-entorsa-d365b4fd@493ace668c7c4c9df5d129edd7297f3c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sprain",
+    "genus": "feminine",
+    "definition": "An injury to a joint caused by overstretching or twisting the ligaments.",
+    "pronunciation": "/spreɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'sprain' comes from Old French 'espraindre', meaning 'to stretch out', which ultimately derives from Latin 'extragere' meaning 'to draw out'.",
+        "targetText": "Cuvântul englezesc „sprain” provine din franceza veche 'espraindre', care înseamnă „a întinde”, derivat în cele din urmă din latinescul 'extragere', care înseamnă „a trage afară”."
+      },
+      "source": "Etymological Dictionaries English"
+    },
+    "additional": "null"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "entorsă",
+    "genus": "feminine",
+    "definition": "O leziune a unei articulații cauzată prin întinderea sau răsucirea ligamentelor.",
+    "pronunciation": "/enˈtor.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'entorsă' comes from the French 'entorse', which in turn derives from the Latin 'torquere' meaning 'to twist or turn'.",
+        "targetText": "Cuvântul românesc „entorsă” provine din francezul 'entorse', care derivă din latinescul 'torquere' ce înseamnă „a răsuci, a întoarce”."
+      },
+      "source": "Dicționar etimologic român, Französische Lehnwörter"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ligaments",
+      "targetText": "ligamente"
+    },
+    {
+      "sourceText": "joint",
+      "targetText": "articulație"
+    },
+    {
+      "sourceText": "swelling",
+      "targetText": "umflare"
+    },
+    {
+      "sourceText": "injury",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "healing",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "After the ankle sprain, you should keep the leg elevated.",
+      "targetText": "După entorsa gleznei, trebuie să ții piciorul ridicat."
+    },
+    {
+      "sourceText": "A sprain can be very painful.",
+      "targetText": "O entorsă poate fi foarte dureroasă."
+    },
+    {
+      "sourceText": "The doctor diagnosed a sprain of the wrist.",
+      "targetText": "Doctorul a diagnosticat o entorsă la încheietura mâinii."
+    },
+    {
+      "sourceText": "Cooling and rest help with a sprain.",
+      "targetText": "La o entorsă ajută răcirea și odihna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'entorsă' sounds like 'entorse' in French, which means sprain—this link helps recall the meaning and origin."
+    },
+    {
+      "lang": "en",
+      "text": "The 'tor' part in 'entorsă' relates to the Latin root 'torquere' meaning 'to twist', helping you remember it involves twisting ligaments."
+    },
+    {
+      "lang": "en",
+      "text": "Think of a sprain as a joint being 'un-twisted' or 'untangled' badly—this mental image connects well with 'entorsă'."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a twisted ankle after a sudden movement to keep the word 'entorsă' vivid in your memory."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

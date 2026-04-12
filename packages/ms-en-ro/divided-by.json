@@ -1,0 +1,112 @@
+{
+  "id": "ms-en-ro-divided-by",
+  "parent": "ms-ro-impartit-la-edd85093@23e597a1730ce2905bec6601b209974a",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "divided by",
+    "definition": "A mathematical expression indicating that one number is divided by another.",
+    "pronunciation": "/dɪˈvaɪdɪd baɪ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The phrase \"divided by\" combines the past participle of the verb \"divide\" with the preposition \"by,\" which is used to indicate the agent or means in English.",
+        "targetText": "Expresia „divided by“ combină participiul trecut al verbului „divide“ cu prepoziția „by“, folosită în limba engleză pentru a indica agentul sau mijlocul."
+      },
+      "source": "English Grammar and Etymology References"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "împărțit la",
+    "definition": "Expresie matematică care indică operația de împărțire a unui număr la altul.",
+    "pronunciation": "/ɨmpɨrˈt͡sit la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian expression „împărțit la“ derives from the verb „a împărți“, which comes from the Latin 'partiri', meaning 'to divide, to share'.",
+        "targetText": "Expresia românească „împărțit la“ provine din verbul „a împărți“, derivat din latinescul 'partiri', care înseamnă 'a împărți, a diviza'."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Se folosește în contexte matematice pentru a exprima operația de împărțire."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fraction",
+      "targetText": "fracție"
+    },
+    {
+      "sourceText": "Division",
+      "targetText": "împărțire"
+    },
+    {
+      "sourceText": "Result",
+      "targetText": "rezultat"
+    },
+    {
+      "sourceText": "Times (Multiplication)",
+      "targetText": "înmulțit cu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "multiplied by",
+      "targetText": "înmulțit cu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "6 divided by 2 is 3.",
+      "targetText": "6 împărțit la 2 este 3."
+    },
+    {
+      "sourceText": "The result of 10 divided by 5 is 2.",
+      "targetText": "Rezultatul lui 10 împărțit la 5 este 2."
+    },
+    {
+      "sourceText": "If you calculate 20 divided by 4, you get 5.",
+      "targetText": "Dacă faci 20 împărțit la 4, obții 5."
+    },
+    {
+      "sourceText": "\"Divided by\" is often represented by the symbol '÷'.",
+      "targetText": "Împărțit la este adesea reprezentat prin simbolul ‚÷‘."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The Romanian verb 'a împărți' sounds like 'impart', which means to share or divide in English, helping you remember its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'la' in 'împărțit la' corresponds to the English preposition 'by', indicating the divisor in division."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'împărțit la' as 'impart la' — imagine sharing a cake ('impart') among friends ('la')."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'parti' in 'împărțit' connects to the Latin root 'partiri', meaning to divide or share."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

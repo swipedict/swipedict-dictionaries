@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-question",
+  "parent": "ms-ro-intrebare-26684cad@33dc3d33edee9e6ec8fbfdaea8ce925a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "question",
+    "genus": "feminine",
+    "definition": "A sentence or expression used to ask for information or request an answer.",
+    "pronunciation": "/ˈkwɛstʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"question\" comes from the Latin 'quaestio', meaning 'a seeking or inquiry', derived from 'quaerere' which means 'to ask' or 'to seek'.",
+        "targetText": "Cuvântul englezesc „question” provine din latină 'quaestio', care înseamnă 'căutare sau cercetare', derivat din 'quaerere', ce înseamnă 'a întreba' sau 'a căuta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întrebare",
+    "genus": "feminine",
+    "definition": "O propoziție sau expresie prin care se solicită o informație sau un răspuns.",
+    "pronunciation": "/ɨntreˈbare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word „întrebare” derives from the verb 'a întreba', which was borrowed from the Latin 'interrogare', meaning 'to ask'.",
+        "targetText": "Cuvântul românesc „întrebare” provine din verbul 'a întreba', împrumutat din latină 'interrogare', care înseamnă 'a întreba'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "answer",
+      "targetText": "răspuns"
+    },
+    {
+      "sourceText": "inquiry",
+      "targetText": "informare"
+    },
+    {
+      "sourceText": "to ask questions",
+      "targetText": "a pune întrebări"
+    },
+    {
+      "sourceText": "uncertainty",
+      "targetText": "neclaritate"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I have a question about the topic.",
+      "targetText": "Am o întrebare despre subiect."
+    },
+    {
+      "sourceText": "Can I ask you a question?",
+      "targetText": "Pot să-ți pun o întrebare?"
+    },
+    {
+      "sourceText": "The question is difficult to answer.",
+      "targetText": "Întrebarea este dificil de răspuns."
+    },
+    {
+      "sourceText": "He answered all questions patiently.",
+      "targetText": "El a răspuns la toate întrebările cu răbdare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember the Romanian word 'întrebare' comes from 'a întreba', similar to the English 'interrogate' which means to ask questions."
+    },
+    {
+      "lang": "en",
+      "text": "The prefix 'în-' in Romanian can remind you of 'in' as entering into a conversation to ask something."
+    },
+    {
+      "lang": "en",
+      "text": "The ending '-bare' sounds like 'bar', imagine a question as a bar you hold onto to get information."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'întrebare' as 'entering' (întra) a dialogue to ask a question."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

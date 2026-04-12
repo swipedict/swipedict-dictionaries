@@ -1,0 +1,150 @@
+{
+  "id": "ms-en-ro-farm",
+  "parent": "ms-ro-ferma-613b8adb@f8637aec2dd3d17385d33bfe0dc801cf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "farm",
+    "genus": "masculine",
+    "definition": "a piece of land used for growing crops and raising animals",
+    "pronunciation": "/fɑːrm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"farm\" comes from the Old French \"ferme,\" meaning a fixed payment or lease, which itself derives from the Latin \"firma,\" meaning a contract or agreement.",
+        "targetText": "Cuvântul englezesc „farm” provine din francezul vechi „ferme”, care însemna o plată fixă sau o arendă, și care la rândul său derivă din latinul „firma”, însemnând un contract sau acord."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Farms are essential for agriculture and food production."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ferma",
+    "genus": "feminine",
+    "definition": "o exploatare agricolă unde se cresc animale și se cultivă plante",
+    "pronunciation": "/ˈfer.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"ferma\" was borrowed from the French \"ferme\" (farm, agricultural estate), which in turn comes from the Latin \"firma\" (contract, lease).",
+        "targetText": "Cuvântul românesc „ferma” este împrumutat din francezul „ferme” (fermă, exploatație agricolă), care provine la rândul său din latinul „firma” (contract, arendă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ferme sind der Schlüssel zur Nahrungsmittelproduktion in Rumänien."
+  },
+  "senses": [
+    {
+      "gloss": "Agricultural sector",
+      "explanation": {
+        "sourceText": "Can also refer to the agricultural sector in general.",
+        "targetText": "Poate desemna și domeniul agricol în general."
+      },
+      "examples": [
+        {
+          "sourceText": "Development in the agricultural sector is important.",
+          "targetText": "Dezvoltarea în domeniul agricol este importantă."
+        }
+      ]
+    },
+    {
+      "gloss": "Agricultural enterprise",
+      "explanation": {
+        "sourceText": "Also used for agricultural enterprises.",
+        "targetText": "Se referă la exploatații agricole."
+      },
+      "examples": [
+        {
+          "sourceText": "People work on the farm.",
+          "targetText": "Oamenii lucrează pe fermă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "field",
+      "targetText": "câmp"
+    },
+    {
+      "sourceText": "farmer",
+      "targetText": "fermier"
+    },
+    {
+      "sourceText": "plant",
+      "targetText": "plantă"
+    },
+    {
+      "sourceText": "animal",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "city",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "I work on a farm.",
+      "targetText": "Lucrez pe o fermă."
+    },
+    {
+      "sourceText": "The farm has many animals.",
+      "targetText": "Ferma are multe animale."
+    },
+    {
+      "sourceText": "We rent an apartment on the farm.",
+      "targetText": "Îi închiriem un apartament pe fermă."
+    },
+    {
+      "sourceText": "The farm is located near the forest.",
+      "targetText": "Ferma se află aproape de pădure."
+    },
+    {
+      "sourceText": "The harvest on the farm was good.",
+      "targetText": "Recolta de pe fermă a fost bună."
+    },
+    {
+      "sourceText": "People buy fresh products from the farm.",
+      "targetText": "Oamenii cumpără produse proaspete de la fermă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'ferma' sounds like 'firm'—think of a stable business running a farm!"
+    },
+    {
+      "lang": "en",
+      "text": "Use 'ferma' when talking about agriculture or fresh farm products."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine 'ferma' as a small world showing you life in the countryside."
+    },
+    {
+      "lang": "en",
+      "text": "When you think of a farm, picture a big place with animals and crops—that helps you remember 'ferma'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

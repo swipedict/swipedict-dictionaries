@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-thunderstorm",
+  "parent": "ms-ro-furtuna-79e7039f@d7e25f63913d2649c39aa5a84da8c160",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "thunderstorm",
+    "definition": "A weather event characterized by thunder, lightning, and often heavy rain.",
+    "pronunciation": "/ˈθʌndərˌstɔrm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word \"thunderstorm\" is a compound of \"thunder\" and \"storm.\" \"Thunder\" comes from Old English \"þunor,\" referring to the sound caused by lightning, while \"storm\" originates from Old Norse \"stormr,\" meaning a violent disturbance of the atmosphere.",
+        "targetText": "Cuvântul englezesc „thunderstorm” este un compus format din „thunder” (tunet) și „storm” (furtună). „Thunder” provine din engleza veche „þunor”, referindu-se la sunetul produs de fulger, iar „storm” provine din vechea limbă nordică „stormr”, care înseamnă o tulburare violentă a atmosferei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "furtună",
+    "genus": "feminine",
+    "definition": "Fenomen meteorologic cu fulgere, tunete și adesea ploaie puternică.",
+    "pronunciation": "/furˈtunə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word \"furtună\" derives from the Latin 'fortuna', which originally meant 'fate' but in Romanian came to denote stormy weather.",
+        "targetText": "Cuvântul românesc „furtună” provine din latină 'fortuna', care inițial însemna 'soartă', dar în română a ajuns să desemneze o vreme furtunoasă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "lightning",
+      "targetText": "fulger"
+    },
+    {
+      "sourceText": "thunder",
+      "targetText": "tunet"
+    },
+    {
+      "sourceText": "rain",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "weather",
+      "targetText": "vreme"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The thunderstorm began with a loud thunder.",
+      "targetText": "Furtuna a început cu un tunet puternic."
+    },
+    {
+      "sourceText": "You should not be outside during a thunderstorm.",
+      "targetText": "La furtună nu ar trebui să fii afară."
+    },
+    {
+      "sourceText": "The thunderstorm brought heavy rain.",
+      "targetText": "Furtuna a adus ploaie puternică."
+    },
+    {
+      "sourceText": "After the thunderstorm, the sun came out again.",
+      "targetText": "După furtună a ieșit din nou soarele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"furtună\" sounds like \"fortune\" – think of how storms can change your luck suddenly."
+    },
+    {
+      "lang": "en",
+      "text": "\"Furtună\" is feminine in Romanian, so you say \"o furtună\" meaning \"a thunderstorm.\""
+    },
+    {
+      "lang": "en",
+      "text": "Link \"furtună\" with the English word \"fortune\" to recall its Latin root and the idea of unpredictable weather."
+    },
+    {
+      "lang": "en",
+      "text": "Visualize a thunderstorm with lightning and thunder to connect the English \"thunderstorm\" with Romanian \"furtună.\""
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

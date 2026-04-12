@@ -1,0 +1,160 @@
+{
+  "id": "ms-en-ro-sound",
+  "parent": "ms-ro-a-rasuna-5def22e4@8b38df86f85af5049527bb82ebbcb952",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "sound",
+    "definition": "to produce a musical or clear tone; to emit a noise that can be heard",
+    "pronunciation": "/saʊnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"sound\" originates from Old English \"sund\", related to the idea of noise or a signal. Over time, it evolved to mean producing a noise or tone.",
+        "targetText": "Verbul englezesc „sound“ provine din engleza veche „sund“, legat de ideea de zgomot sau semnal. În timp, a evoluat să însemne a produce un sunet sau ton."
+      },
+      "source": "Online Etymology Dictionary"
+    },
+    "additional": "This verb is commonly used to describe the noise made by musical instruments or the sound produced when something falls or is struck."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a răsuna",
+    "definition": "a produce un ton melodic sau clar",
+    "pronunciation": "/a răsuˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The word „răsuna“ comes from the Latin „resonare“, meaning \"to resound\". It is derived from the root „sonare“, which means \"to sound\" or \"to make noise\".",
+        "targetText": "Cuvântul românesc „răsuna“ provine din latină „resonare“ („a răsuna, a face ecou“), derivat din „sonare“ („a suna, a face zgomot“)."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Verbul este folosit pentru a descrie sunetul acustic sau muzical. Deseori este utilizat în expresii poetice pentru a crea imagini sonore vii."
+  },
+  "senses": [
+    {
+      "gloss": "To produce sound / noise",
+      "explanation": {
+        "sourceText": "Used to describe acoustic phenomena.",
+        "targetText": "Folosit pentru a descrie fenomene acustice."
+      },
+      "examples": [
+        {
+          "sourceText": "The wind sounds in the trees.",
+          "targetText": "Vântul răsună printre copaci."
+        }
+      ]
+    },
+    {
+      "gloss": "Sound of music",
+      "explanation": {
+        "sourceText": "Refers to musical tones or melodies.",
+        "targetText": "Se referă la sunete muzicale sau melodii."
+      },
+      "examples": [
+        {
+          "sourceText": "The guitar sounds wonderful.",
+          "targetText": "Chitara răsună minunat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "noise",
+      "targetText": "zgomot"
+    },
+    {
+      "sourceText": "sound",
+      "targetText": "sunet"
+    },
+    {
+      "sourceText": "melody",
+      "targetText": "melodie"
+    },
+    {
+      "sourceText": "tone",
+      "targetText": "ton"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fall silent",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The carillon sounds beautiful.",
+      "targetText": "Clopotul sună frumos."
+    },
+    {
+      "sourceText": "How does the song sound to you?",
+      "targetText": "Cum ţi se pare că sună melodia?"
+    },
+    {
+      "sourceText": "The wave sounds gently against the stone.",
+      "targetText": "Valul sună uşor împotriva pietrei."
+    },
+    {
+      "sourceText": "We listen to how it sounds.",
+      "targetText": "Ascultăm cum răsună."
+    },
+    {
+      "sourceText": "Doesn't that sound great?",
+      "targetText": "Nu sună grozav?"
+    },
+    {
+      "sourceText": "The music sounds wonderful.",
+      "targetText": "Muzica răsună minunat."
+    },
+    {
+      "sourceText": "The trumpet sounded loudly.",
+      "targetText": "Trumpeta a răsunat tare."
+    },
+    {
+      "sourceText": "The band used to sound much better.",
+      "targetText": "În trecut, trupa răsuna mult mai bine."
+    },
+    {
+      "sourceText": "It will definitely sound good.",
+      "targetText": "Va suna cu siguranță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember \"a răsuna\" by thinking of the English word \"resound\" which means to echo or ring out loudly."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian \"răsuna\" shares roots with English \"sound\" through Latin \"sonare\" – both relate to making noise or music."
+    },
+    {
+      "lang": "en",
+      "text": "Imagine a bell ringing in a forest, the sound \"resonates\" and \"răsună\" in Romanian, helping you link the words."
+    },
+    {
+      "lang": "en",
+      "text": "Think of \"răsuna\" as 're-sound'—the sound that bounces back or echoes, making it easier to remember."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

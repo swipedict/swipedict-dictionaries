@@ -1,0 +1,113 @@
+{
+  "id": "ms-en-ro-valley",
+  "parent": "ms-ro-vale-d2953037@c0d70af86e4ec45fbbbe5049a05058df",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "valley",
+    "definition": "An elongated low area of land usually surrounded by hills or mountains, often with a river or stream flowing through it.",
+    "pronunciation": "/ˈvæl.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English word 'valley' comes from Old French 'valee', which derives from Latin 'vallis', meaning a hollow or low area between hills.",
+        "targetText": "Cuvântul englezesc „valley” provine din franceza veche 'valee', care la rândul său derivă din latină 'vallis', însemnând o adâncitură sau o zonă joasă între dealuri."
+      },
+      "source": "Etymological dictionaries, linguistic analyses"
+    },
+    "genus": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vale",
+    "genus": "feminine",
+    "definition": "O depresiune alungită în relief, înconjurată de obicei de munți sau dealuri, prin care curge adesea un râu sau pârâu.",
+    "pronunciation": "/ˈva.le/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'vale' comes from Latin 'vallis', which designated a hollow or valley and was widely used in Latin.",
+        "targetText": "Cuvântul românesc „vale” provine din latină, din termenul 'vallis', care desemna o depresiune sau o vale și era larg răspândit în limba latină."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mountain",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "river",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "hill",
+      "targetText": "deal"
+    },
+    {
+      "sourceText": "valley floor",
+      "targetText": "fundul văii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mountain",
+      "targetText": "munte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "The valley lies between two tall mountains.",
+      "targetText": "Valea se află între doi munți înalți."
+    },
+    {
+      "sourceText": "A clear stream flows through the valley.",
+      "targetText": "În vale curge un pârâu limpede."
+    },
+    {
+      "sourceText": "We hiked through the green valley.",
+      "targetText": "Am mers pe jos prin valea verde."
+    },
+    {
+      "sourceText": "The valley is surrounded by forests.",
+      "targetText": "Valea este înconjurată de păduri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'vale' sounds like the start of 'valley', making it easy to link the Romanian word to the English concept of a low land between hills."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'vale' as the root of 'valley'—both come from Latin 'vallis', so they share meaning and sound."
+    },
+    {
+      "lang": "en",
+      "text": "Picture a peaceful valley with a flowing stream to connect the Romanian 'vale' with the natural landscape it describes."
+    },
+    {
+      "lang": "en",
+      "text": "The 'v' in 'vale' can remind you of 'valley' and 'valley floor', helping you remember it’s a low area surrounded by higher land."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

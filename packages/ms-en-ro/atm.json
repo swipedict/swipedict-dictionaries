@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-atm",
+  "parent": "ms-ro-bancomat-3e850cac@7cb3283dddc65fee3fd28cc4078b08b7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:italian",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "ATM",
+    "genus": "masculine",
+    "definition": "A machine that dispenses cash automatically, usually found at banks or public places.",
+    "pronunciation": "/ˌeɪtiːˈɛm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English term 'ATM' stands for 'Automated Teller Machine'. The word 'automated' derives from the Greek 'automatos', meaning 'self-moving' or 'self-acting', reflecting the machine's ability to operate without human assistance.",
+        "targetText": "Cuvântul englezesc „ATM” este abrevierea pentru „Automated Teller Machine”. Cuvântul „automated” provine din grecescul „automatos”, care înseamnă „care se mișcă singur” sau „care acționează singur”, reflectând capacitatea aparatului de a funcționa fără asistență umană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bancomat",
+    "genus": "neuter",
+    "definition": "Aparat automat pentru retragerea banilor lichizi de la bancă.",
+    "pronunciation": "/ban.koˈmat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'bancomat' was borrowed from the Italian 'bancomat', which is a compound of 'banca' (bank) and 'automat'. The term refers to an automatic cash dispensing machine.",
+        "targetText": "Cuvântul românesc „bancomat” este împrumutat din italianul „bancomat”, compus din „banca” (bancă) și „automat”, desemnând un aparat automat pentru eliberarea banilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "money",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "to withdraw money",
+      "targetText": "a retrage bani"
+    },
+    {
+      "sourceText": "card",
+      "targetText": "card"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "I withdrew money at the ATM.",
+      "targetText": "Am retras bani de la bancomat."
+    },
+    {
+      "sourceText": "The ATM is open 24 hours.",
+      "targetText": "Bancomatul este deschis non-stop."
+    },
+    {
+      "sourceText": "Please insert your card into the ATM.",
+      "targetText": "Te rog introdu cardul în bancomat."
+    },
+    {
+      "sourceText": "The ATM only dispenses bills.",
+      "targetText": "Bancomatul dă doar bancnote."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Remember 'bancomat' by linking it to 'bank' and 'automatic'—it’s an automatic machine at the bank."
+    },
+    {
+      "lang": "en",
+      "text": "The word 'bancomat' sounds like 'bankomat', which is a familiar loanword in many languages related to banking."
+    },
+    {
+      "lang": "en",
+      "text": "Notice the ending '-mat' in 'bancomat', similar to 'automat', helping you recall it’s a machine."
+    },
+    {
+      "lang": "en",
+      "text": "Connect 'ATM' and 'bancomat' as devices that automatically dispense cash."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

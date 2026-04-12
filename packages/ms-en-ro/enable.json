@@ -1,0 +1,115 @@
+{
+  "id": "ms-en-ro-enable",
+  "parent": "ms-ro-a-permite-9be5e826@79593ce2c5910891db68899e500f364f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "enable",
+    "definition": "To make something possible or to provide the means or opportunity for something to happen.",
+    "pronunciation": "/ɪˈneɪbəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English verb \"enable\" comes from the prefix 'en-' meaning 'to cause to' combined with the adjective 'able', which derives from Old French 'able', ultimately from Latin 'habilis', meaning 'able, fit, suitable'.",
+        "targetText": "Cuvântul englezesc „enable” provine din prefixul 'en-' care înseamnă 'a face să' combinat cu adjectivul 'able', care derivă din franceza veche 'able', în cele din urmă din latină 'habilis', însemnând 'capabil, potrivit, adecvat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a permite",
+    "definition": "A face ceva posibil, a crea condițiile pentru ca ceva să se întâmple.",
+    "pronunciation": "/a perˈmi.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian verb \"a permite\" derives from the Latin 'permittere', composed of the prefix 'per-' (through) and 'mittere' (to send, to let), meaning 'to allow' or 'to permit'.",
+        "targetText": "Verbul românesc „a permite” provine din latină, din verbul 'permittere', compus din prefixul 'per-' (prin) și 'mittere' (a trimite, a lăsa), însemnând 'a permite' sau 'a lăsa'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "cause",
+      "targetText": "a cauza"
+    },
+    {
+      "sourceText": "possibility",
+      "targetText": "posibilitatea"
+    },
+    {
+      "sourceText": "allow",
+      "targetText": "a permite"
+    },
+    {
+      "sourceText": "admit",
+      "targetText": "a admite"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "prevent",
+      "targetText": "a împiedica"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "This technology enables new applications.",
+      "targetText": "Această tehnologie permite noi aplicații."
+    },
+    {
+      "sourceText": "That enabled me to learn.",
+      "targetText": "Asta mi-a permis să învăț."
+    },
+    {
+      "sourceText": "Such experiments were not enabled before.",
+      "targetText": "Pe vremuri nu se permiteau astfel de experimente."
+    },
+    {
+      "sourceText": "This change will enable more flexibility.",
+      "targetText": "Această schimbare va permite mai multă flexibilitate."
+    },
+    {
+      "sourceText": "Enable access for everyone!",
+      "targetText": "Permite accesul pentru toți!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "Think of 'enable' as 'en-' (to cause) + 'able' (capable), meaning to make something possible."
+    },
+    {
+      "lang": "en",
+      "text": "The Romanian 'a permite' sounds like the English 'permit', both meaning to allow or make possible."
+    },
+    {
+      "lang": "en",
+      "text": "Remember 'per-' in 'permittere' means 'through', so 'a permite' means to let something go through or happen."
+    },
+    {
+      "lang": "en",
+      "text": "Link 'enable' with 'able' to recall it means giving ability or permission."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

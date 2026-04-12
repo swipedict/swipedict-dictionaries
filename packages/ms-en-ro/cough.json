@@ -1,0 +1,108 @@
+{
+  "id": "ms-en-ro-cough",
+  "parent": "ms-ro-tuse-aee9fd8e@2762b2d357cdc1f3a1575f74bae3a3b0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "en",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-en-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "en",
+    "headword": "cough",
+    "genus": "masculine",
+    "definition": "A sudden, forceful expulsion of air from the lungs, often as a reflex to clear the airways.",
+    "pronunciation": "/kɒf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The English noun 'cough' originates from Old English 'cohhian', which is related to similar words in other Germanic languages and represents the sound made when expelling air forcibly from the throat.",
+        "targetText": "Cuvântul englezesc „cough” provine din engleza veche 'cohhian', care este legat de cuvinte similare în alte limbi germanice și reprezintă sunetul emis atunci când aerul este expulzat cu forță din gât."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tuse",
+    "genus": "feminine",
+    "definition": "Expulzarea bruscă și puternică a aerului din căile respiratorii, adesea ca reflex pentru curățarea acestora.",
+    "pronunciation": "/ˈtu.se/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "The Romanian word 'tuse' derives from the Latin verb 'tussire', meaning 'to cough', and is an onomatopoeic imitation of the sound of coughing.",
+        "targetText": "Cuvântul românesc „tuse” provine din verbul latin 'tussire', care înseamnă 'a tuși' și este o imitație onomatopeică a sunetului tusei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "airways",
+      "targetText": "căile respiratorii"
+    },
+    {
+      "sourceText": "cold",
+      "targetText": "răceală"
+    },
+    {
+      "sourceText": "sore throat",
+      "targetText": "dureri în gât"
+    },
+    {
+      "sourceText": "to cough (verb)",
+      "targetText": "a tuși"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "The cough has lasted for three days.",
+      "targetText": "Tusea persistă de trei zile."
+    },
+    {
+      "sourceText": "Drinking plenty of fluids helps with a dry cough.",
+      "targetText": "La tusea uscată ajută mult să bei lichide."
+    },
+    {
+      "sourceText": "The doctor examined the patient's cough.",
+      "targetText": "Doctorul a examinat tusea pacientului."
+    },
+    {
+      "sourceText": "A cough can be a symptom of a cold.",
+      "targetText": "Tusea poate fi un simptom al unei răceli."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "en",
+      "text": "The English word 'cough' sounds like the harsh, abrupt noise you make when you cough, making it easy to remember."
+    },
+    {
+      "lang": "en",
+      "text": "Think of 'tuse' sounding like 'toose'—imagine someone coughing loudly saying 'TOOSE!' to recall the Romanian word."
+    },
+    {
+      "lang": "en",
+      "text": "Remember that 'tuse' comes from Latin 'tussire', which mimics the sharp sound of a cough, helping you link the word to its meaning."
+    },
+    {
+      "lang": "en",
+      "text": "Picture yourself needing to cough and shouting 'TUS-e!' as a fun way to memorize the Romanian term."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}
