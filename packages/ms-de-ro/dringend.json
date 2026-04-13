@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-dringend",
+  "parent": "ms-ro-urgent-2dc4bb03@ab38e51af54414521c543c321e3aaa04",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dringend",
+    "definition": "Etwas, das sofortige Aufmerksamkeit oder Handlung erfordert.",
+    "pronunciation": "/ˈdʁɪŋənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „dringend“ stammt vom mittelhochdeutschen 'dringen' ab, das 'eindringen' oder 'zwingen' bedeutet, und entwickelte die Bedeutung von 'unaufschiebbar'.",
+        "targetText": "Adjectivul german „dringend” provine din germana mijlocie 'dringen', care însemna 'a pătrunde' sau 'a forța', dezvoltând sensul de 'urgent, imperativ'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "urgent",
+    "definition": "Ceva care necesită atenție sau acțiune imediată.",
+    "pronunciation": "/urˈdʒent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „urgent“ stammt aus dem Französischen 'urgent', das wiederum vom lateinischen 'urgens' kommt, Partizip von 'urgere' (drängen, bedrängen).",
+        "targetText": "Cuvântul românesc „urgent” provine din franceza 'urgent', care la rândul său vine din latină 'urgens', participiul verbului 'urgere' (a presa, a insista)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eile",
+      "targetText": "grabă"
+    },
+    {
+      "sourceText": "Notfall",
+      "targetText": "urgență"
+    },
+    {
+      "sourceText": "sofort",
+      "targetText": "imediat"
+    },
+    {
+      "sourceText": "wichtig",
+      "targetText": "important"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unwichtig",
+      "targetText": "neimportant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist eine dringende Angelegenheit.",
+      "targetText": "Aceasta este o chestiune urgentă."
+    },
+    {
+      "sourceText": "Ich brauche dringend Hilfe.",
+      "targetText": "Am nevoie urgentă de ajutor."
+    },
+    {
+      "sourceText": "Bitte rufen Sie mich dringend zurück.",
+      "targetText": "Vă rog să mă sunați urgent înapoi."
+    },
+    {
+      "sourceText": "Die dringende Reparatur wurde sofort durchgeführt.",
+      "targetText": "Reparația urgentă a fost făcută imediat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'urgent' klingt fast gleich wie das deutsche 'dringend' – das hilft dir, die Bedeutung schnell zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'urgent' wird oft in Notfällen verwendet – denk an 'Notfall' = 'urgență' als verwandtes Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand drängt dich (englisch 'urge'), etwas sofort zu tun – so merkst du dir 'urgent'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'urgent' mit dem englischen Wort 'urgent' – beide stammen vom lateinischen 'urgere' ab und bedeuten 'dringend'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

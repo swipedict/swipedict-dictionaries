@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wald",
+  "parent": "ms-ro-padure-3bef92fe@ac3a0e58903d0e2270162dee247d7180",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wald",
+    "genus": "masculine",
+    "definition": "Ein großes Gebiet, das hauptsächlich mit Bäumen bewachsen ist.",
+    "pronunciation": "/valt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wald“ stammt vom althochdeutschen 'wald' ab, das auf die urgermanische Wurzel *waldą zurückgeht und ‚bewaldetes Gebiet‘ bedeutet.",
+        "targetText": "Cuvântul german „Wald“ provine din germana veche înaltă 'wald', derivat din rădăcina proto-germanică *waldą, însemnând „zonă împădurită“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pădure",
+    "genus": "feminine",
+    "definition": "O întindere mare de teren acoperită în principal cu copaci.",
+    "pronunciation": "/pəˈdure/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pădure“ stammt vom lateinischen 'paludem' ab, das ursprünglich ‚Sumpf‘ bedeutete, sich aber im Rumänischen semantisch zu ‚Wald‘ entwickelte.",
+        "targetText": "Cuvântul românesc „pădure” provine din latină, din termenul 'paludem', care inițial însemna „mlaștină”, dar în română a evoluat semantic spre „pădure”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Baum",
+      "targetText": "copac"
+    },
+    {
+      "sourceText": "Forst",
+      "targetText": "pădure administrată"
+    },
+    {
+      "sourceText": "Holz",
+      "targetText": "lemn"
+    },
+    {
+      "sourceText": "Waldweg",
+      "targetText": "potecă în pădure"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Freifläche",
+      "targetText": "teren deschis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Wald ist dicht und voller Tiere.",
+      "targetText": "Pădurea este deasă și plină de animale."
+    },
+    {
+      "sourceText": "Wir gehen im Wald spazieren.",
+      "targetText": "Mergem la plimbare în pădure."
+    },
+    {
+      "sourceText": "Im Herbst färben sich die Blätter im Wald bunt.",
+      "targetText": "Toamna, frunzele din pădure se colorează în culori vii."
+    },
+    {
+      "sourceText": "Der Wald schützt den Boden vor Erosion.",
+      "targetText": "Pădurea protejează solul împotriva eroziunii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'pădure' klingt wie 'Padure', und du kannst dir vorstellen, dass der Wald ein 'Pad' (Pfad) voller Bäume ist."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich, dass 'pădure' vom lateinischen 'paludem' stammt, das ursprünglich 'Sumpf' bedeutete – so kannst du die Entwicklung des Wortes besser verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du durch eine 'PÄDURE' (pădure) läufst, und die Bäume dir 'PÄD' (Pfad) zeigen – so merkst du dir das Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort 'pădure' mit dem deutschen Wort 'Pfad' und dem Bild eines Waldwegs, um die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-durstig",
+  "parent": "ms-ro-insetat-36f1de7f@6e1a36b7d8bedb89ef6834a6c2d99633",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "durstig",
+    "definition": "Das Bedürfnis haben, etwas zu trinken.",
+    "pronunciation": "/ˈdʊʁstɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „durstig“ stammt vom althochdeutschen 'durstig' ab, das mit dem Wort 'Durst' verwandt ist und auf die indogermanische Wurzel *ters- (trocken) zurückgeht.",
+        "targetText": "Adjectivul german „durstig” provine din germana veche înaltă 'durstig', legat de cuvântul 'Durst' și rădăcina indo-europeană *ters- (uscat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "însetat",
+    "definition": "Care are nevoie să bea apă sau alt lichid.",
+    "pronunciation": "/ɨn.seˈtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „însetat“ stammt vom Verb 'a înseta' ab, das aus dem lateinischen 'exsaturare' (übersättigen, sättigen) und dem Präfix 'în-' gebildet wurde, was eine Richtung oder Zustand anzeigt.",
+        "targetText": "Cuvântul românesc „însetat” derivă din verbul 'a înseta', format din prefixul 'în-' și verbul latin 'exsaturare' (a satura), indicând o stare de sete."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Durst",
+      "targetText": "sete"
+    },
+    {
+      "sourceText": "durstig sein",
+      "targetText": "a fi însetat"
+    },
+    {
+      "sourceText": "trinken",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "satt",
+      "targetText": "sătul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin durstig nach dem Sport.",
+      "targetText": "Sunt însetat după sport."
+    },
+    {
+      "sourceText": "Das durstige Kind trinkt Wasser.",
+      "targetText": "Copilul însetat bea apă."
+    },
+    {
+      "sourceText": "Er fühlt sich durstig und müde.",
+      "targetText": "Se simte însetat și obosit."
+    },
+    {
+      "sourceText": "Nach der Wanderung war ich sehr durstig.",
+      "targetText": "După drumeție am fost foarte însetat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'durstig' und das rumänische 'însetat' sind beide eng mit dem Bedürfnis nach Flüssigkeit verbunden, obwohl sie unterschiedlich gebildet sind."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'însetat' kannst du dir merken, indem du 'în-' als 'in' und 'setat' als 'satt' denkst – aber hier bedeutet es das Gegenteil: durstig."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'însetat' kommt vom lateinischen 'exsaturare', was 'sättigen' bedeutet – 'însetat' ist also der Zustand, wenn man noch nicht gesättigt ist, sondern durstig."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist 'in' einem Zustand, in dem du 'setat' (satt) werden möchtest, aber noch durstig bist – so merkst du dir 'însetat'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-giessen",
+  "parent": "ms-ro-a-turna-710c2061@287bf8023445f20394b74459b95122ad",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gießen",
+    "definition": "Flüssigkeit in einen Behälter schütten",
+    "pronunciation": "/ˈɡiːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „gießen“ stammt vom mittelhochdeutschen „gießen“, das „fließen“ oder „strömen“ bedeutet, und ist verwandt mit dem althochdeutschen „gīsan“.",
+        "targetText": "Verbul „gießen“ provine din germana mijlocie „gießen“, care înseamnă „a curge“ sau „a turna“, fiind înrudit cu germana veche „gīsan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb bezieht sich auf das gezielte Einbringen von Flüssigkeiten in Behälter oder Erde, oft in Bezug auf Pflanzen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a turna",
+    "definition": "a vărsa un lichid într-un recipient",
+    "pronunciation": "/a turˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a turna“ stammt vom lateinischen „tornare“ ab, was „drehen“ oder „formen“ bedeutet, und wird auf das Gießen von Flüssigkeiten übertragen.",
+        "targetText": "Verbul românesc „a turna“ derivă din latinescul „tornare“, care înseamnă „a roti“ sau „a modela“, și este folosit pentru a desemna turnarea lichidelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in der täglichen Sprache zum Gießen."
+  },
+  "senses": [
+    {
+      "gloss": "Gießen",
+      "explanation": {
+        "sourceText": "Das Wort bezieht sich auf das gezielte Einbringen von Flüssigkeiten.",
+        "targetText": "Se referă la turnarea controlată a lichidelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gieße die Pflanzen.",
+          "targetText": "Eu torn plantele."
+        }
+      ]
+    },
+    {
+      "gloss": "Gießen für das Kochen",
+      "explanation": {
+        "sourceText": "Hier bedeutet es, etwas in einen Topf zu gießen.",
+        "targetText": "Se referă la turnarea lichidelor în vase pentru gătit."
+      },
+      "examples": [
+        {
+          "sourceText": "Er gießt das Wasser in den Topf.",
+          "targetText": "El toarnă apă în oală."
+        }
+      ]
+    },
+    {
+      "gloss": "Gießen in der Kunst",
+      "explanation": {
+        "sourceText": "Betrifft das Gießen von Gips oder anderen Materialien.",
+        "targetText": "Se referă la turnarea materialelor precum ipsosul în artă."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir gießen die Statue in Gips.",
+          "targetText": "Noi turnăm statuia în ghips."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gießkanne",
+      "targetText": "stropitoare"
+    },
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plante"
+    },
+    {
+      "sourceText": "Topf",
+      "targetText": "oală"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gieße die Pflanzen.",
+      "targetText": "Eu torn plantele."
+    },
+    {
+      "sourceText": "Gieß du bitte die Blumen!",
+      "targetText": "Tornează, te rog, florile!"
+    },
+    {
+      "sourceText": "Er gießt Wasser in die Töpfe.",
+      "targetText": "El toarnă apă în oale."
+    },
+    {
+      "sourceText": "Wir gießen das Gemüse.",
+      "targetText": "Noi turnăm legumele."
+    },
+    {
+      "sourceText": "Gießt ihr auch das Wasser um?",
+      "targetText": "Turnați și apa?"
+    },
+    {
+      "sourceText": "Sie gießen die Sauce.",
+      "targetText": "Ei toarnă sosul."
+    },
+    {
+      "sourceText": "Ich habe das Wasser gegossen.",
+      "targetText": "Am turnat apa."
+    },
+    {
+      "sourceText": "Früher goss er stets zu viel Wasser.",
+      "targetText": "Cândva, el turna întotdeauna prea multă apă."
+    },
+    {
+      "sourceText": "Ich werde die Blumen gießen.",
+      "targetText": "Voi turna florile."
+    },
+    {
+      "sourceText": "Gieß das Wasser bitte!",
+      "targetText": "Toarnă apă, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „gießen“ und das rumänische „turna“ kannst du dir merken, indem du dir vorstellst, wie du Wasser in einen Topf „turnst“."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze den Satz „Eu torn“ (Ich gieße) oft beim Üben, um die Verbindung zum Verb zu stärken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-besetzen",
+  "parent": "ms-ro-a-ocupa-c240a7eb@8bc6b6d0ef7ce6575d56da2d371eecb9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besetzen",
+    "definition": "einen Platz oder Raum in Anspruch nehmen oder belegen",
+    "pronunciation": "/bəˈzɛt͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich aus „be-“, einer Präfix, die eine Veränderung des Zustands anzeigt, und „setzen“, was „plazieren“ bedeutet, zusammen.",
+        "targetText": "Das deutsche Verb „besetzen“ stammt von „be-“ (intensiv) und „setzen“ (stellen, platzieren) ab, was eine Handlung des Einnehmens oder Platznehmens beschreibt."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb kann sowohl im physischen (z.B. einen Raum besetzen) als auch im abstrakten Sinn (z.B. einen Posten besetzen) verwendet werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ocupa",
+    "definition": "a lua în posesie un loc sau un spațiu",
+    "pronunciation": "/a o.kuˈpa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Hat seine Wurzeln im lateinischen „occupare“, was „einnehmen“ oder „besetzen“ bedeutet, und ist mit dem Verb „capere“ verwandt, was „ergreifen“ bedeutet.",
+        "targetText": "Verbul „a ocupa“ provine din latină, din „occupare“, care înseamnă a lua în posesie sau a ocupa un loc, derivat din „capere“ (a apuca, a lua)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird in vielen Kontexten verwendet, sowohl physisch (z.B. einen Raum einnehmen) als auch administrativ (z.B. ein Amt bekleiden)."
+  },
+  "senses": [
+    {
+      "gloss": "Populär im umgangssprachlichen Sinne der Anwendung.",
+      "explanation": {
+        "sourceText": "In diesem Zusammenhang kann 'occupare' auch in der Umgangssprache verwendet werden.",
+        "targetText": "În acest sens, „a ocupa“ este folosit frecvent în limbajul cotidian pentru a desemna luarea unui loc."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich besetze den besten Platz im Raum.",
+          "targetText": "Eu ocup cel mai bun loc din cameră."
+        }
+      ]
+    },
+    {
+      "gloss": "Sieht man oft im Sinne von Verwaltung.",
+      "explanation": {
+        "sourceText": "Die Bedeutung kann sich auf die Erfüllung von Verwaltungspositionen beziehen.",
+        "targetText": "Se referă adesea la ocuparea unor funcții administrative sau poziții oficiale."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Regierung besetzt mehrere Ministerposten.",
+          "targetText": "Guvernul ocupă mai multe funcții ministeriale."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Büro",
+      "targetText": "birou"
+    },
+    {
+      "sourceText": "Platz",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Raum",
+      "targetText": "spațiu"
+    },
+    {
+      "sourceText": "Sitz",
+      "targetText": "scaun"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freigeben",
+      "targetText": "a elibera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich besetze den besten Platz im Raum.",
+      "targetText": "Eu ocup cel mai bun loc din cameră."
+    },
+    {
+      "sourceText": "Besetzt du den Tisch für das Meeting?",
+      "targetText": "Ocupi masa pentru întâlnire?"
+    },
+    {
+      "sourceText": "Die Regierung besetzt mehrere Ministerposten.",
+      "targetText": "Guvernul ocupă mai multe funcții ministeriale."
+    },
+    {
+      "sourceText": "Wir besetzen die wichtigsten Positionen im Team.",
+      "targetText": "Noi ocupăm cele mai importante poziții în echipă."
+    },
+    {
+      "sourceText": "Besetzt ihr die Stühle für die Veranstaltung?",
+      "targetText": "Ocupați scaunele pentru eveniment?"
+    },
+    {
+      "sourceText": "Sie besetzen die strategischen Punkte in der Stadt.",
+      "targetText": "Ei ocupă punctele strategice din oraș."
+    },
+    {
+      "sourceText": "Ich habe das Gebiet besetzt.",
+      "targetText": "Am ocupat zona."
+    },
+    {
+      "sourceText": "Er besetzte das Gebäude während des Streiks.",
+      "targetText": "El ocupa clădirea în timpul grevei."
+    },
+    {
+      "sourceText": "Ich werde den Platz morgen besetzen.",
+      "targetText": "Voi ocupa locul mâine."
+    },
+    {
+      "sourceText": "Ich würde die Stelle besetzen, wenn ich könnte.",
+      "targetText": "Aș ocupa funcția dacă aș putea."
+    },
+    {
+      "sourceText": "Besetze das Feld sofort!",
+      "targetText": "Ocupați câmpul imediat!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Besetzen“ und „a ocupa“ bedeuten beide, einen Platz einzunehmen. Denk an „occupare“ als „capere“ (ergreifen) – wie Christa, die den Kater packt!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Verbform „ocupăm“ (wir besetzen), die ähnlich klingt wie das deutsche „wir besetzen“ – so kannst du die Konjugation leichter behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

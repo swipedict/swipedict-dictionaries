@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-bekannte",
+  "parent": "ms-ro-cunostinta-c7220ec5@e7555807e79b99173686c57575fe077d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bekannte",
+    "genus": "feminine",
+    "definition": "Eine Person, die man kennt, aber nicht unbedingt eng befreundet ist.",
+    "pronunciation": "/bəˈkantə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bekannte“ leitet sich vom Verb „bekannt sein“ ab, das auf das mittelhochdeutsche 'bekan' zurückgeht, was 'mitteilen' oder 'mit jemandem bekannt machen' bedeutete.",
+        "targetText": "Cuvântul „Bekannte” derivă din verbul german „bekannt sein”, care provine din germana mijlocie 'bekan', însemnând 'a face cunoscut' sau 'a informa pe cineva'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cunoștință",
+    "genus": "feminine",
+    "definition": "O persoană pe care o cunoști, dar cu care nu ești neapărat prieten apropiat.",
+    "pronunciation": "/ku.noʃˈtin.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cunoștință“ stammt vom lateinischen Verb 'cognoscere' ab, was 'erkennen' oder 'kennenlernen' bedeutet.",
+        "targetText": "Cuvântul românesc „cunoștință” provine din verbul latin 'cognoscere', care înseamnă 'a recunoaște' sau 'a cunoaște'."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bekanntschaft",
+      "targetText": "cunoștință"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Kollege",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fremder",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe viele Bekannte in der Stadt.",
+      "targetText": "Am multe cunoștințe în oraș."
+    },
+    {
+      "sourceText": "Sie ist eine Bekannte meiner Schwester.",
+      "targetText": "Ea este o cunoștință a surorii mele."
+    },
+    {
+      "sourceText": "Wir sind keine Freunde, nur Bekannte.",
+      "targetText": "Nu suntem prieteni, doar cunoștințe."
+    },
+    {
+      "sourceText": "Er hat viele Bekannte aus der Arbeit.",
+      "targetText": "Are multe cunoștințe de la serviciu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Bekannte' und das rumänische 'cunoștință' haben beide mit dem Verb 'kennen' zu tun, was die Verbindung erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'cunoștință' enthält 'cunoș', das an 'kennen' erinnert – beide haben mit Wissen und Bekanntschaft zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'cunoștință' endet auf '-ință', ein typisches Substantivsuffix im Rumänischen, das oft abstrakte oder konkrete Nomen bildet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du lernst jemanden kennen und sagst: 'Ich habe eine neue cunoștință!' – das hilft, die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

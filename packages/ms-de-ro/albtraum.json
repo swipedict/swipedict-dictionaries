@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-albtraum",
+  "parent": "ms-ro-cosmar-8b33365b@24ef44060082d620fbc664c147346426",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Albtraum",
+    "genus": "masculine",
+    "definition": "Ein unangenehmer, oft angsteinflößender Traum, der beim Aufwachen ein Gefühl von Angst oder Schrecken hinterlässt.",
+    "pronunciation": "/ˈalbˌtʁaʊ̯m/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Albtraum“ setzt sich aus 'Alb' (ein mythisches Wesen, das im Schlaf drückt) und 'Traum' zusammen und stammt aus dem Althochdeutschen.",
+        "targetText": "Cuvântul german „Albtraum” este compus din „Alb” (o creatură mitică care apăsa în somn) și „Traum” (vis), provenind din germana veche înaltă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "coșmar",
+    "genus": "neuter",
+    "definition": "Un vis neplăcut, adesea înfricoșător, care provoacă teamă sau neliniște la trezire.",
+    "pronunciation": "/koʃˈmar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „coșmar“ stammt vom slawischen 'košmarŭ' ab, das 'Albtraum' oder 'böser Traum' bedeutet.",
+        "targetText": "Cuvântul românesc „coșmar” provine din slavonă, din termenul 'košmarŭ', care înseamnă 'vis rău' sau 'coșmar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Angst",
+      "targetText": "teamă"
+    },
+    {
+      "sourceText": "Nacht",
+      "targetText": "noapte"
+    },
+    {
+      "sourceText": "Schrecken",
+      "targetText": "spaimă"
+    },
+    {
+      "sourceText": "Traum",
+      "targetText": "vis"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Traum",
+      "targetText": "vis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich hatte letzte Nacht einen schlimmen Albtraum.",
+      "targetText": "Am avut un coșmar urât noaptea trecută."
+    },
+    {
+      "sourceText": "Der Albtraum ließ ihn schweißgebadet aufwachen.",
+      "targetText": "Coșmarul l-a trezit transpirat."
+    },
+    {
+      "sourceText": "Viele Kinder haben manchmal Albträume.",
+      "targetText": "Mulți copii au uneori coșmaruri."
+    },
+    {
+      "sourceText": "Nach dem Albtraum konnte sie nicht mehr einschlafen.",
+      "targetText": "După coșmar, nu a mai putut să adoarmă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Coșmar“ kommt aus dem Slawischen, also ist es ein Fremdwort im Rumänischen – das hilft dir, es als besonderes Wort für Albtraum zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „coșmar“ klingt ungewöhnlich, aber denk an 'coș' (Korb) und 'mar' (groß) – stell dir einen großen Korb voller schlechter Träume vor."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „coșmar“ mit dem deutschen Wort 'Schreck' – beide beschreiben Angst im Traum."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an einen Albtraum denkst, stell dir vor, du hast einen 'coșmar' – ein Wort, das du dir merken kannst, weil es hart klingt wie ein böser Traum."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

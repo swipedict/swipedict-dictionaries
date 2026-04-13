@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-einkaufszentrum",
+  "parent": "ms-ro-centru-comercial-b3c1773b@219b2945250ca30e0d4f0e0c636be3ca",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Einkaufszentrum",
+    "genus": "neuter",
+    "definition": "Ein großes Gebäude oder Komplex, in dem viele Geschäfte zum Einkaufen untergebracht sind.",
+    "pronunciation": "/ˈaɪ̯nˌkaʊ̯fsˌtsɛntrʊm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Einkaufszentrum“ kombiniert „Einkauf“ (vom mittelhochdeutschen 'einkoufe') und „Zentrum“ (vom lateinischen 'centrum', griechisch 'kéntron' für Mittelpunkt).",
+        "targetText": "Cuvântul „Einkaufszentrum“ combină „Einkauf” (cumpărare) și „Zentrum” (centru), care provine din latină 'centrum', de la grecescul 'kéntron' însemnând 'punct central'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "centru comercial",
+    "genus": "neuter",
+    "definition": "O clădire mare sau complex în care sunt găzduite multe magazine pentru cumpărături.",
+    "pronunciation": "/ˈtʃentru komeˈrtʃjal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „centru“ stammt vom lateinischen 'centrum' ab, das vom griechischen 'kéntron' kommt, und „comercial“ kommt vom französischen 'commercial', das wiederum vom lateinischen 'commercium' stammt.",
+        "targetText": "Cuvântul românesc „centru” provine din latină 'centrum', de la grecescul 'kéntron', iar „comercial” vine din franceză 'commercial', derivat din latină 'commercium' (comerț)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Einkauf",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "Geschäft",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "Markt",
+      "targetText": "piață"
+    },
+    {
+      "sourceText": "Supermarkt",
+      "targetText": "supermarket"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Einkaufszentrum hat viele verschiedene Läden.",
+      "targetText": "Centrul comercial are multe magazine diferite."
+    },
+    {
+      "sourceText": "Wir treffen uns im Einkaufszentrum um 15 Uhr.",
+      "targetText": "Ne întâlnim la centrul comercial la ora 15."
+    },
+    {
+      "sourceText": "Im Einkaufszentrum gibt es auch ein Kino und Restaurants.",
+      "targetText": "În centrul comercial există și un cinematograf și restaurante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Einkaufszentrum“ ist eine Zusammensetzung, genau wie das rumänische „centru comercial“ – beide beschreiben einen Ort für Einkäufe."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „centru“ klingt wie das deutsche „Zentrum“ – beide bedeuten Mittelpunkt, was dir hilft, „centru comercial“ als Einkaufszentrum zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „comercial“ erinnert an das deutsche Wort „kommerziell“, was mit Handel zu tun hat – so merkst du dir den Zusammenhang mit Einkaufen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist im Zentrum (centru) eines großen Handelsplatzes – so merkst du dir „centru comercial“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

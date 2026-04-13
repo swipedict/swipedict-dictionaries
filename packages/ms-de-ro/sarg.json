@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-sarg",
+  "parent": "ms-ro-sicriu-42e07a7e@a549e34b9e78651092cad842810ee61d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sarg",
+    "genus": "masculine",
+    "definition": "Ein Behälter, meist aus Holz, in dem ein Verstorbener zur Beerdigung gelegt wird.",
+    "pronunciation": "/zaʁk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sarg“ stammt vom mittelhochdeutschen 'sarge' ab, das wiederum aus dem althochdeutschen 'sarga' entlehnt wurde, mit Wurzeln im lateinischen 'sarcophagus', was 'Fleischfresser' bedeutet und ursprünglich einen steinernen Behälter für Leichname bezeichnete.",
+        "targetText": "Cuvântul german „Sarg” provine din mijlocul germanului vechi 'sarge', care la rândul său derivă din germana veche înaltă 'sarga', având rădăcini în latinul 'sarcophagus', care înseamnă 'mâncător de carne' și desemna inițial un recipient de piatră pentru cadavre."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sicriu",
+    "genus": "neuter",
+    "definition": "Un recipient, de obicei din lemn, în care este așezat un decedat pentru înmormântare.",
+    "pronunciation": "/siˈkri.u/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sicriu“ stammt vom lateinischen 'sarcīnium' ab, was ursprünglich 'Paket' oder 'Bündel' bedeutete, später aber speziell einen Behälter für Leichname bezeichnete, beeinflusst durch das griechische 'sarkophagos'.",
+        "targetText": "Cuvântul românesc „sicriu” provine din latinul 'sarcīnium', care inițial însemna 'pachet' sau 'legătură', dar a ajuns să desemneze un recipient pentru cadavre, influențat de grecescul 'sarkophagos'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beerdigung",
+      "targetText": "înmormântare"
+    },
+    {
+      "sourceText": "Bestattung",
+      "targetText": "înhumare"
+    },
+    {
+      "sourceText": "Leiche",
+      "targetText": "cadavru"
+    },
+    {
+      "sourceText": "Trauer",
+      "targetText": "doliu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Sarg wurde feierlich in die Erde gesenkt.",
+      "targetText": "Sicriul a fost coborât solemn în pământ."
+    },
+    {
+      "sourceText": "Sie besuchten den Sarg, um Abschied zu nehmen.",
+      "targetText": "Au vizitat sicriul pentru a-și lua rămas bun."
+    },
+    {
+      "sourceText": "Der Sarg ist aus massivem Eichenholz gefertigt.",
+      "targetText": "Sicriul este făcut din lemn masiv de stejar."
+    },
+    {
+      "sourceText": "Ein Sarg schützt den Verstorbenen während der Beerdigung.",
+      "targetText": "Un sicriu protejează persoana decedată în timpul înmormântării."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'sarcīnium' bedeutet ursprünglich 'Paket' – stell dir vor, ein 'Sicriu' ist ein spezielles Paket für die letzte Reise."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „sicriu“ klingt ähnlich wie das deutsche Wort „Sack“, was dir helfen kann, dir einen Behälter vorzustellen – hier aber für einen Verstorbenen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-iu' im Rumänischen ist typisch für Substantive; so kannst du „sicriu“ leicht als Nomen erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das griechische Wort „sarkophagos“ (Fleischfresser), das sowohl im Deutschen als auch im Rumänischen die Wurzel für Begriffe rund um den Sarg bildet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

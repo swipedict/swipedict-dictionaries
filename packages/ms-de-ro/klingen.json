@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-klingen",
+  "parent": "ms-ro-a-rasuna-5def22e4@8b38df86f85af5049527bb82ebbcb952",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klingen",
+    "definition": "einen melodischen oder klaren Ton erzeugen",
+    "pronunciation": "/ˈklɪŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „klingen“ hat seinen Ursprung im althochdeutschen „klingan“, was „laut ertönen“ bedeutete. Es hat sich im Mittelhochdeutschen zur Form \"klingen\" entwickelt.",
+        "targetText": "Das deutsche Verb „klingen“ stammt vom althochdeutschen „klingan“ ab, das „laut ertönen“ bedeutet."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Das Verb wird häufig verwendet, um den Klang von Musikinstrumenten oder das Geräusch anzuzeigen, das etwas macht, wenn es fällt oder getroffen wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a răsuna",
+    "definition": "a produce un ton melodic sau clar",
+    "pronunciation": "/a răsuˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „răsuna“ stammt vom lateinischen „resonare“, was „widerhallen“ bedeutet. Es handelt sich um eine Ableitung der Wurzel „sonare“, die „klingen“ oder „schallen“ bedeutet.",
+        "targetText": "Cuvântul românesc „răsuna“ provine din latină „resonare“ („a răsuna, a face ecou“), derivat din „sonare“ („a suna, a face zgomot“)."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Das Verb wird verwendet, um den Klang von Akustik oder Musik zu beschreiben. Oft wird es in poetischen Ausdrücken gebraucht, um lebendige Klangbilder zu schaffen."
+  },
+  "senses": [
+    {
+      "gloss": "Klingen / Geräusch erzeugen",
+      "explanation": {
+        "sourceText": "Verwendet in der Beschreibung von akustischen Phänomenen.",
+        "targetText": "Folosit pentru a descrie fenomene acustice."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Wind klingt in den Bäumen.",
+          "targetText": "Vântul răsună printre copaci."
+        }
+      ]
+    },
+    {
+      "gloss": "Klingen von Musik",
+      "explanation": {
+        "sourceText": "Bezieht sich auf musikalische Töne oder Melodien.",
+        "targetText": "Se referă la sunete muzicale sau melodii."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Gitarre klingt wunderbar.",
+          "targetText": "Chitara răsună minunat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Geräusch",
+      "targetText": "zgomot"
+    },
+    {
+      "sourceText": "Laut",
+      "targetText": "sunet"
+    },
+    {
+      "sourceText": "Melodie",
+      "targetText": "melodie"
+    },
+    {
+      "sourceText": "Ton",
+      "targetText": "ton"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstummen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Glockenspiel klingt schön.",
+      "targetText": "Clopotul sună frumos."
+    },
+    {
+      "sourceText": "Wie klingt das Lied für dich?",
+      "targetText": "Cum ţi se pare că sună melodia?"
+    },
+    {
+      "sourceText": "Die Welle klingt sanft gegen den Stein.",
+      "targetText": "Valul sună uşor împotriva pietrei."
+    },
+    {
+      "sourceText": "Wir hören, wie es klingt.",
+      "targetText": "Ascultăm cum răsună."
+    },
+    {
+      "sourceText": "Klingt das nicht toll?",
+      "targetText": "Nu sună grozav?"
+    },
+    {
+      "sourceText": "Die Musik klingt wunderbar.",
+      "targetText": "Muzica răsună minunat."
+    },
+    {
+      "sourceText": "Die Trompete hat laut geklungen.",
+      "targetText": "Trumpeta a răsunat tare."
+    },
+    {
+      "sourceText": "Früher klang die Band viel besser.",
+      "targetText": "În trecut, trupa răsuna mult mai bine."
+    },
+    {
+      "sourceText": "Es wird bestimmt klingen.",
+      "targetText": "Va suna cu siguranță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a răsuna“ bedeutet ein intensives Klingen – stell dir vor, wie der Klang in der Natur widerhallt, z.B. Vogelgesang im Wald."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „răsuna“ mit dem deutschen „klingen“ durch die gemeinsame lateinische Wurzel „sonare“ – so merkst du dir die Bedeutung leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

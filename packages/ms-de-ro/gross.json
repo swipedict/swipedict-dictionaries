@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-gross",
+  "parent": "ms-ro-mare-81ccdf76@7ae9fd4f97efbadd4068a4f8ebff80c4",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "groß",
+    "definition": "Beschreibt eine beträchtliche Ausdehnung, Höhe oder Menge; im Gegensatz zu klein.",
+    "pronunciation": "/ɡʁoːs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „groß“ stammt vom althochdeutschen 'grōz' ab, das auf eine urgermanische Wurzel *graut- zurückgeht, die mit dem englischen 'great' verwandt ist und 'groß' oder 'mächtig' bedeutet.",
+        "targetText": "Adjectivul german „groß” provine din vechiul german înalt 'grōz', derivat din rădăcina urgermanică *graut-, înrudită cu englezescul 'great', semnificând 'mare' sau 'puternic'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mare",
+    "definition": "Descrie o dimensiune, înălțime sau cantitate considerabilă; opusul lui mic.",
+    "pronunciation": "/ˈmare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „mare“ stammt direkt vom lateinischen Wort 'magnus' ab, das 'groß' bedeutet. Im Laufe der Zeit entwickelte sich 'magnus' zu 'mare' im Rumänischen, wobei die Bedeutung erhalten blieb.",
+        "targetText": "Adjectivul românesc „mare” provine direct din cuvântul latin 'magnus', care înseamnă 'mare'. În timp, 'magnus' a evoluat în 'mare' în limba română, păstrând sensul original."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "breit",
+      "targetText": "lat"
+    },
+    {
+      "sourceText": "hoch",
+      "targetText": "înalt"
+    },
+    {
+      "sourceText": "klein",
+      "targetText": "mic"
+    },
+    {
+      "sourceText": "lang",
+      "targetText": "lung"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "klein",
+      "targetText": "mic"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Haus ist groß und geräumig.",
+      "targetText": "Casa este mare și spațioasă."
+    },
+    {
+      "sourceText": "Er hat große Hände.",
+      "targetText": "El are mâini mari."
+    },
+    {
+      "sourceText": "Wir brauchen einen großen Tisch.",
+      "targetText": "Avem nevoie de o masă mare."
+    },
+    {
+      "sourceText": "Der Hund ist größer als die Katze.",
+      "targetText": "Câinele este mai mare decât pisica."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'mare' kommt vom lateinischen 'magnus'. Denk an 'magnum', das große Eis – so merkst du dir die Bedeutung von 'mare'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie das Wort 'groß' wie ein großer Berg ist – mächtig und imposant. Das rumänische 'mare' klingt ähnlich wie 'mehr', was dir hilft, an Größe zu denken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'groß' mit dem englischen 'great', die beide von derselben urgermanischen Wurzel stammen. So kannst du dir die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an 'groß' denkst, stell dir vor, du sagst 'mehr' (mare) von etwas – mehr Größe, mehr Raum, mehr alles."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

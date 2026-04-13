@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-einbauen",
+  "parent": "ms-ro-a-instala-9870fda5@77ca1e2099d4338aa844552459d75337",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einbauen",
+    "definition": "etwas in etwas anderes einsetzen oder integrieren",
+    "pronunciation": "/ˈaɪnˌbaʊ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „einbauen“ setzt sich aus „ein“ und „bauen“ zusammen, wobei „bauen“ vom mittelhochdeutschen „būwen“ stammt und „bauen, schaffen“ bedeutet.",
+        "targetText": "Cuvântul „einbauen“ este format din „ein“ și „bauen“, unde „bauen“ provine din germana mijlocie și înseamnă a construi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in Bereichen wie Architektur, Handwerk oder Mechanik verwendet, um die Integration eines Elements in eine Struktur zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a instala",
+    "definition": "a introduce sau a integra ceva în altceva",
+    "pronunciation": "/a inˈsta.la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a instala“ stammt vom lateinischen „installare“ ab, was „einrichten“ oder „aufstellen“ bedeutet und wird für technische Installationen verwendet.",
+        "targetText": "Verbul românesc „a instala“ provine din latină, din „installare“, care înseamnă a pune în funcțiune sau a integra."
+      },
+      "source": "AI, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um technische, elektrische oder computertechnische Installationen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Einrichtung/Installation",
+      "explanation": {
+        "sourceText": "Wird oft verwendet, um technische Ausstattungen zu beschreiben.",
+        "targetText": "Folosit frecvent pentru a descrie echipamente tehnice instalate."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich baue die neue Software ein.",
+          "targetText": "Eu instalez noul software."
+        }
+      ]
+    },
+    {
+      "gloss": "Integration von Bestandteilen",
+      "explanation": {
+        "sourceText": "Verwandt mit dem Prozess, Elemente in ein System zu integrieren.",
+        "targetText": "Legat de procesul de integrare a componentelor într-un sistem."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Techniker baut die Teile ein.",
+          "targetText": "Tehnicianul instalează piesele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dach",
+      "targetText": "acoperiș"
+    },
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Türen",
+      "targetText": "uși"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausbauen",
+      "targetText": "elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich baue die neue Software ein.",
+      "targetText": "Eu instalez noul software."
+    },
+    {
+      "sourceText": "Baust du die neuen Fenster ein?",
+      "targetText": "Instalezi feroneria nouă?"
+    },
+    {
+      "sourceText": "Der Techniker baut die Teile ein.",
+      "targetText": "Tehnicianul instalează piesele."
+    },
+    {
+      "sourceText": "Wir bauen die Hardware ein.",
+      "targetText": "Noi instalăm hardware-ul."
+    },
+    {
+      "sourceText": "Baut ihr die neuen Geräte ein?",
+      "targetText": "Instalați noile dispozitive?"
+    },
+    {
+      "sourceText": "Sie bauen die Klimaanlage ein.",
+      "targetText": "Ei instalează aerul condiționat."
+    },
+    {
+      "sourceText": "Ich habe die Fenster eingebaut.",
+      "targetText": "Am instalat feroneria."
+    },
+    {
+      "sourceText": "Sie haben die Software installiert.",
+      "targetText": "Au instalat software-ul."
+    },
+    {
+      "sourceText": "Er baute das System ein.",
+      "targetText": "El instala sistemul."
+    },
+    {
+      "sourceText": "Ich werde die Geräte morgen einbauen.",
+      "targetText": "Voi instala dispozitivele mâine."
+    },
+    {
+      "sourceText": "Ich würde die Teile einbauen, wenn ich Zeit hätte.",
+      "targetText": "Aș instala piesele, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Bau es ein!",
+      "targetText": "Instalează-l!"
+    },
+    {
+      "sourceText": "Die installierte Software funktioniert gut.",
+      "targetText": "Software-ul instalat funcționează bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir „a instala“ wie „installieren“ im Deutschen – es hilft dir, das rumänische Verb mit technischen Einbauten zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du Geräte oder Software „installierst“ – so merkst du dir „a instala“ leicht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

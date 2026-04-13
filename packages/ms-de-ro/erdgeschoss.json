@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-erdgeschoss",
+  "parent": "ms-ro-parter-2afdd5f6@b871b7e62835aeba783e66cb969b2ba3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Erdgeschoss",
+    "genus": "neuter",
+    "definition": "Das unterste Stockwerk eines Gebäudes, das sich auf Bodenniveau befindet.",
+    "pronunciation": "/ˈeːɐ̯tɡəʃɔs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Erdgeschoss“ setzt sich aus „Erde“ und „Geschoss“ zusammen. „Erde“ stammt vom althochdeutschen 'erda' ab, das auf die indogermanische Wurzel *er- (Erde) zurückgeht. „Geschoss“ kommt vom mittelhochdeutschen 'geschoss', was ursprünglich 'geschossenes, geworfenes' bedeutet und sich auf eine Ebene in einem Gebäude bezieht.",
+        "targetText": "Cuvântul german „Erdgeschoss” este compus din „Erde” (pământ) și „Geschoss” (nivel, etaj). „Erde” provine din germana veche înaltă 'erda', cu rădăcină indo-europeană *er- (pământ). „Geschoss” vine din germana mijlocie 'geschoss', inițial însemnând 'aruncat', referindu-se la un nivel al clădirii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "parter",
+    "genus": "neuter",
+    "definition": "Etajul cel mai jos al unei clădiri, situat la nivelul solului.",
+    "pronunciation": "/parˈter/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „parter“ stammt aus dem Französischen 'parterre', das ursprünglich 'auf dem Boden' oder 'Bodenebene' bedeutete und vom lateinischen 'paries' (Wand) abgeleitet ist, über das italienische 'partire' (teilen).",
+        "targetText": "Cuvântul românesc „parter” provine din francezul 'parterre', care inițial însemna 'pe sol' sau 'nivelul solului', derivat din latină 'paries' (perete), prin italiană 'partire' (a împărți)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dachgeschoss",
+      "targetText": "mansardă"
+    },
+    {
+      "sourceText": "Keller",
+      "targetText": "subsol"
+    },
+    {
+      "sourceText": "Obergeschoss",
+      "targetText": "etaj superior"
+    },
+    {
+      "sourceText": "Stockwerk",
+      "targetText": "etaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Obergeschoss",
+      "targetText": "etaj superior"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Erdgeschoss eines Hauses ist oft für Geschäfte oder Büros reserviert.",
+      "targetText": "Parterul unei case este adesea rezervat pentru magazine sau birouri."
+    },
+    {
+      "sourceText": "Wir wohnen im Erdgeschoss, deshalb haben wir einen Garten direkt vor der Tür.",
+      "targetText": "Locuim la parter, așa că avem o grădină chiar în fața ușii."
+    },
+    {
+      "sourceText": "Im Erdgeschoss befindet sich die Küche und das Wohnzimmer.",
+      "targetText": "La parter se află bucătăria și sufrageria."
+    },
+    {
+      "sourceText": "Das Erdgeschoss ist barrierefrei und leicht zugänglich.",
+      "targetText": "Parterul este accesibil și fără bariere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „parter“ klingt ähnlich wie das französische 'parterre', was dir helfen kann, es mit dem Erdgeschoss zu verbinden, da beide die Bodenebene bezeichnen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „parter“ endet wie „Theaterparterre“, der Bereich im Theater auf Bodenhöhe – so kannst du dir merken, dass es sich um das Erdgeschoss handelt."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen ist das Erdgeschoss das 'Geschoss' auf der 'Erde'. Im Rumänischen hilft dir das französische Lehnwort „parter“ daran zu denken, dass es sich um den Bodenbereich handelt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du betrittst ein Gebäude und bist sofort auf dem 'parter' – dem Boden, auf dem du stehst, ähnlich wie 'Erde' im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

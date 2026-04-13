@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-tag",
+  "parent": "ms-ro-zi-a0675a7f@2303bcba97312852512533d0f6a1f6c9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Tag",
+    "genus": "masculine",
+    "definition": "Die Zeitspanne von 24 Stunden, die einen vollen Zyklus von Tageslicht und Dunkelheit umfasst.",
+    "pronunciation": "/taːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Tag“ stammt vom althochdeutschen 'tag' ab, das auf das urgermanische '*dagaz' zurückgeht und ursprünglich 'Tageslicht' oder 'Periode von Tageslicht' bedeutete.",
+        "targetText": "Cuvântul german „Tag” provine din germana veche înaltă 'tag', care la rândul său derivă din proto-germanicul '*dagaz', însemnând inițial 'lumina zilei' sau 'perioada de lumină a zilei'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zi",
+    "genus": "feminine",
+    "definition": "Perioada de 24 de ore care cuprinde un ciclu complet de lumină și întuneric.",
+    "pronunciation": "/zi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „zi” stammt vom lateinischen 'dies' ab, das 'Tag' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „zi” provine din latină, de la 'dies', care înseamnă 'zi' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Jahr",
+      "targetText": "an"
+    },
+    {
+      "sourceText": "Monat",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "Stunde",
+      "targetText": "oră"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Nacht",
+      "targetText": "noapte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Tag hat 24 Stunden.",
+      "targetText": "Ziua are 24 de ore."
+    },
+    {
+      "sourceText": "Heute ist ein schöner Tag.",
+      "targetText": "Astăzi este o zi frumoasă."
+    },
+    {
+      "sourceText": "Jeder Tag bringt neue Möglichkeiten.",
+      "targetText": "Fiecare zi aduce noi oportunități."
+    },
+    {
+      "sourceText": "Am Tag scheint die Sonne.",
+      "targetText": "Ziua strălucește soarele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'zi' klingt kurz und prägnant wie das deutsche 'sie' ohne 's'. Stell dir vor, jeder Tag fragt dich: 'Wie geht's, zi?'"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'zi' im Rumänischen sehr kurz ist – fast wie ein kurzer Ton – genau wie ein Tag, der schnell vergeht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zählst die Tage mit einem kurzen 'zi' wie ein kurzes 'Tick' einer Uhr, die die Zeit eines Tages misst."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'zi' mit dem lateinischen 'dies', das in vielen romanischen Sprachen ähnlich klingt, z.B. italienisch 'dì' oder französisch 'jour' (ursprünglich auch von 'dies')."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

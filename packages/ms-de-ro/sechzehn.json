@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-sechzehn",
+  "parent": "ms-ro-saisprezece-90c0e53c@6c362b2b035a925e39f5edea0b1731ad",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sechzehn",
+    "definition": "Die Zahl 16, eine natürliche Zahl nach fünfzehn und vor siebzehn.",
+    "pronunciation": "/ˈzɛks.tseːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „sechzehn“ stammt vom althochdeutschen 'sehsanzehan' ab, zusammengesetzt aus 'sechs' und einer alten Form von 'zehn'. Es ist Teil des germanischen Zahlensystems, das auf dem Dezimalsystem basiert.",
+        "targetText": "Cuvântul german „sechzehn” provine din germana veche înaltă 'sehsanzehan', compus din 'sechs' (șase) și o formă veche a lui 'zehn' (zece). Face parte din sistemul numeric germanic bazat pe sistemul zecimal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șaisprezece",
+    "definition": "Numărul natural 16, care urmează după cincisprezece și înainte de șaptesprezece.",
+    "pronunciation": "/ʃa.i̯s.preˈze.ke/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „șaisprezece“ setzt sich aus 'șase' (sechs) und 'sprezece' (zehn) zusammen. 'Șase' stammt vom lateinischen 'sex', während 'sprezece' vom lateinischen 'undecim' über eine volkssprachliche Entwicklung kommt, die die Zusammensetzung der Zahlen von 11 bis 19 prägt.",
+        "targetText": "Cuvântul românesc „șaisprezece” este compus din 'șase' (șase) și 'sprezece' (zece). 'Șase' provine din latină 'sex', iar 'sprezece' derivă dintr-o evoluție populară a latinului 'undecim', care formează numerele de la 11 la 19."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fünfzehn",
+      "targetText": "cincisprezece"
+    },
+    {
+      "sourceText": "sechs",
+      "targetText": "șase"
+    },
+    {
+      "sourceText": "siebzehn",
+      "targetText": "șaptesprezece"
+    },
+    {
+      "sourceText": "zehn",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Sechzehn ist eine gerade Zahl.",
+      "targetText": "Șaisprezece este un număr par."
+    },
+    {
+      "sourceText": "Ich bin sechzehn Jahre alt.",
+      "targetText": "Am șaisprezece ani."
+    },
+    {
+      "sourceText": "Sechzehn Schüler sind in der Klasse.",
+      "targetText": "Sunt șaisprezece elevi în clasă."
+    },
+    {
+      "sourceText": "Das Auto kostet sechzehntausend Euro.",
+      "targetText": "Mașina costă șaisprezece mii de euro."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ș' in 'șaisprezece' klingt wie 'sch' im Deutschen, also 'schaisprezece'. Das hilft dir, die Aussprache zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'șaisprezece' kannst du dir merken, indem du es in zwei Teile zerlegst: 'șase' (6) und 'sprezece' (10). So wie im Deutschen 'sechzehn' aus 'sechs' + 'zehn' besteht."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-sprezece' findest du in allen Zahlen von 11 bis 19 im Rumänischen, ähnlich wie im Deutschen die Endung '-zehn'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast 6 (șase) Äpfel und bekommst 10 (sprezece) dazu – zusammen sind das 'șaisprezece' Äpfel."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

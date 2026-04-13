@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-tal",
+  "parent": "ms-ro-vale-d2953037@c0d70af86e4ec45fbbbe5049a05058df",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Tal",
+    "genus": "neuter",
+    "definition": "Eine längliche, meist von Bergen oder Hügeln umgebene Vertiefung in der Landschaft, durch die oft ein Fluss oder Bach fließt.",
+    "pronunciation": "/tal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Tal“ stammt vom althochdeutschen 'tal' ab, das auf die urgermanische Wurzel *talô zurückgeht und eine Vertiefung oder Senke in der Landschaft bezeichnet.",
+        "targetText": "Cuvântul german „Tal” provine din germana veche înaltă 'tal', care la rândul său derivă din rădăcina urgermanică *talô și desemnează o adâncitură sau o vale în peisaj."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vale",
+    "genus": "feminine",
+    "definition": "O depresiune alungită în relief, înconjurată de obicei de munți sau dealuri, prin care curge adesea un râu sau pârâu.",
+    "pronunciation": "/ˈva.le/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vale“ stammt vom lateinischen 'vallis' ab, das eine Senke oder ein Tal bezeichnet und im Lateinischen weit verbreitet war.",
+        "targetText": "Cuvântul românesc „vale” provine din latină, din termenul 'vallis', care desemna o depresiune sau o vale și era larg răspândit în limba latină."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "Fluss",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "Hügel",
+      "targetText": "deal"
+    },
+    {
+      "sourceText": "Talsohle",
+      "targetText": "fundul văii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Tal liegt zwischen zwei hohen Bergen.",
+      "targetText": "Valea se află între doi munți înalți."
+    },
+    {
+      "sourceText": "Im Tal fließt ein klarer Bach.",
+      "targetText": "În vale curge un pârâu limpede."
+    },
+    {
+      "sourceText": "Wir wanderten durch das grüne Tal.",
+      "targetText": "Am mers pe jos prin valea verde."
+    },
+    {
+      "sourceText": "Das Tal ist von Wäldern umgeben.",
+      "targetText": "Valea este înconjurată de păduri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'v' in 'vale' erinnert an 'Vertiefung' – eine hilfreiche Eselsbrücke, um sich das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'vale' klingt ähnlich wie das englische 'valley' – beide stammen vom lateinischen 'vallis' ab."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Tal' und 'vale' sind beide natürliche Landschaftsformen, die man oft zusammen in Wanderberichten findet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Wasser im 'Tal' (wie 'tall' in Englisch, aber tief) fließt – ein langer, tiefer Raum zwischen Bergen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

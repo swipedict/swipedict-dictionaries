@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-kuendigen",
+  "parent": "ms-ro-a-renunta-dc805908@be47203cc47fca60bea6a9b8617aefcc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kündigen",
+    "definition": "einen Vertrag oder eine Anstellung beenden",
+    "pronunciation": "/ˈkʏndɪɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „künnic“ (kündigen), was „proklamieren, bekannt geben“ bedeutet.",
+        "targetText": "Vom mittelhochdeutschen „künnic“ (kündigen), was „proklamieren, bekannt geben“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig im Kontext von Arbeitsverträgen oder Abonnements verwendet, um den Wunsch, eine Vereinbarung zu beenden, auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a renunța",
+    "definition": "a încheia un contract sau o angajare",
+    "pronunciation": "/a re.nunˈtsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „renuntiare“ abstammend, bedeutet es „abmelden“ oder „aufkündigen“ und wird in formalen Kontexten verwendet.",
+        "targetText": "Vom lateinischen „renuntiare“ abstammend, bedeutet es „abmelden“ oder „aufkündigen“ und wird in formalen Kontexten verwendet."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig verwendet, um Verträge, Abonnements oder andere Vereinbarungen zu kündigen."
+  },
+  "senses": [
+    {
+      "gloss": "Kündigen (Stelle beenden)",
+      "explanation": {
+        "sourceText": "Anwendung für das Beenden einer Anstellung.",
+        "targetText": "Folosire pentru încheierea unei angajări."
+      },
+      "examples": [
+        {
+          "sourceText": "Er kündigte seinen Job.",
+          "targetText": "El renunță la locul său de muncă."
+        }
+      ]
+    },
+    {
+      "gloss": "Kündigen (Vertrag beenden)",
+      "explanation": {
+        "sourceText": "Verwendung für die Beendigung eines Vertrages.",
+        "targetText": "Utilizare pentru încheierea unui contract."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kündige mein Abonnement.",
+          "targetText": "Renunț la abonamentul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "Kündigungsfrist",
+      "targetText": "perioada de preaviz"
+    },
+    {
+      "sourceText": "Mitarbeiter",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "annehmen",
+      "targetText": "a accepta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kündige mein Abonnement.",
+      "targetText": "Renunț la abonamentul meu."
+    },
+    {
+      "sourceText": "Kündigst du deinen Vertrag?",
+      "targetText": "Renunți la contractul tău?"
+    },
+    {
+      "sourceText": "Er kündigt seine Mitgliedschaft.",
+      "targetText": "El renunță la apartenență."
+    },
+    {
+      "sourceText": "Wir kündigen die Vereinbarung.",
+      "targetText": "Renunțăm la acord."
+    },
+    {
+      "sourceText": "Kündigt ihr das Abonnement?",
+      "targetText": "Renunțați la abonament?"
+    },
+    {
+      "sourceText": "Sie kündigen den Vertrag heute.",
+      "targetText": "Ei renunță la contract astăzi."
+    },
+    {
+      "sourceText": "Ich habe mein Abo gekündigt.",
+      "targetText": "Am renunțat la abonamentul meu."
+    },
+    {
+      "sourceText": "Er kündigte seinen Job.",
+      "targetText": "El renunța la locul său de muncă."
+    },
+    {
+      "sourceText": "Ich werde kündigen.",
+      "targetText": "Voi renunța."
+    },
+    {
+      "sourceText": "Kündige deinen Vertrag!",
+      "targetText": "Renunță la contractul tău!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir „a renunța“ als formales Wort für „kündigen“ – es klingt wie „renounce“ im Englischen, was „verzichten“ bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Renunț la abonament“ – so verinnerlichst du die Bedeutung im Vertragskontext."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

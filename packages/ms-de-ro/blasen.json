@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-blasen",
+  "parent": "ms-ro-a-sufla-ea35955f@adc492b5e7e8d148a56e095bc12f7b2d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "blasen",
+    "definition": "Luft durch etwas pusten oder etwas mit Luft füllen",
+    "pronunciation": "/ˈblaːzn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort stammt vom althochdeutschen „blāsen“, was „blasen“ oder „pusten“ bedeutet; verwandt mit dem mittelhochdeutschen „blāsen“.",
+        "targetText": "Cuvântul german „blasen“ provine din germana veche „blāsen“ și înseamnă a sufla sau a bate aer."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, meist verwendet im Kontext von Luft oder anderen Gasen ausstoßen. Kommt häufig in zusammengesetzten Formen vor, wie „blasen“ (blasen, pusten)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sufla",
+    "definition": "a împinge aer prin ceva sau a umple ceva cu aer",
+    "pronunciation": "/a suˈfla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a sufla“ leitet sich vom lateinischen „sufflare“ ab, was „blasen“ bedeutet. Es setzt sich aus „sub-“ (unter) und „flare“ (blasen) zusammen und beschreibt das Ausstoßen von Luft.",
+        "targetText": "Verbul românesc „a sufla“ provine din latină, din „sufflare“, format din „sub-“ (sub) și „flare“ (a sufla), însemnând a expulza aer."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Wichtig im alltäglichen Sprachgebrauch, besonders beim Spielen von Instrumenten oder beim Anzünden von Feuer."
+  },
+  "senses": [
+    {
+      "gloss": "Klang erzeugen",
+      "explanation": {
+        "sourceText": "Die Luft wird benutzt, um einen Klang zu erzeugen, z.B. bei einem Instrument.",
+        "targetText": "Aerul este folosit pentru a produce sunete, de exemplu la un instrument muzical."
+      },
+      "examples": [
+        {
+          "sourceText": "Er bläst in das Instrument.",
+          "targetText": "El suflă în instrument."
+        }
+      ]
+    },
+    {
+      "gloss": "Luft blasen",
+      "explanation": {
+        "sourceText": "Aufblase Luft, die durch etwas gepustet werden soll.",
+        "targetText": "A sufla aer prin ceva pentru a-l umfla."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir blasen einen Luftballon auf.",
+          "targetText": "Noi sufllăm un balon."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ballon",
+      "targetText": "balon"
+    },
+    {
+      "sourceText": "blasen",
+      "targetText": "a umfla"
+    },
+    {
+      "sourceText": "Luft",
+      "targetText": "aer"
+    },
+    {
+      "sourceText": "Pfeife",
+      "targetText": "fluier"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "absaugen",
+      "targetText": "a elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich blase die Kerzen aus.",
+      "targetText": "Eu sufleur lumânările."
+    },
+    {
+      "sourceText": "Bläst du bitte das Staub weg?",
+      "targetText": "Suflă praful, te rog."
+    },
+    {
+      "sourceText": "Der Wind bläst stark.",
+      "targetText": "Vântul suflă tare."
+    },
+    {
+      "sourceText": "Wir blasen die Luftballons auf.",
+      "targetText": "Noi sufllăm baloanele."
+    },
+    {
+      "sourceText": "Bläst ihr zur Party?",
+      "targetText": "Suflați la petrecere?"
+    },
+    {
+      "sourceText": "Sie blasen im Chor.",
+      "targetText": "Ei suflă în cor."
+    },
+    {
+      "sourceText": "Ich habe die Blase aufgeblasen.",
+      "targetText": "Am suflet balonul."
+    },
+    {
+      "sourceText": "Er blies die Luft in den Ballon.",
+      "targetText": "El sufla aerul în balon."
+    },
+    {
+      "sourceText": "Ich werde die Pfeife blasen.",
+      "targetText": "Voi sufla în fluier."
+    },
+    {
+      "sourceText": "Ich würde die Melodie blasen, wenn ich könnte.",
+      "targetText": "Aș sufla melodia, dacă aș putea."
+    },
+    {
+      "sourceText": "Blase die Pipa!",
+      "targetText": "Sufla în fluier!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a sufla“ klingt ähnlich wie „saufen“ mit einem „f“ – stell dir vor, du pustest Luft (sufla) und nicht trinkst!"
+    },
+    {
+      "lang": "de",
+      "text": "Verwende „sufla“ für alles, was mit Blasen zu tun hat: Kerzen auspusten, Luftballons aufblasen, Feuer anpusten."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere, wie du in einen Ballon pustest – das Bild hilft dir, „a sufla“ mit der Handlung zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

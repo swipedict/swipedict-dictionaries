@@ -1,0 +1,122 @@
+{
+  "id": "ms-de-ro-milch",
+  "parent": "ms-ro-lapte-3b00bc42@446bbff697279a05328c97f16092d8eb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Milch",
+    "genus": "feminine",
+    "definition": "eine weiße, flüssige Substanz, die aus den Euter von Säugetieren gewonnen wird und als Getränk oder in der Küche verwendet wird",
+    "pronunciation": "/mɪlç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Milch“ stammt vom althochdeutschen „miluh“, das die Flüssigkeit von Säugetieren bezeichnet.",
+        "targetText": "Cuvântul german „Milch“ provine din germana veche „miluh“, referindu-se la lichidul produs de mamifere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Milch hat eine wichtige Rolle in der Ernährung vieler Kulturen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lapte",
+    "genus": "neuter",
+    "definition": "o substanță albă, lichidă, obținută din ugerul mamiferelor, folosită ca băutură sau în bucătărie",
+    "pronunciation": "/ˈlaptɛ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „lapte“ stammt vom lateinischen „lac“ ab und bezeichnet die Milch von Säugetieren.",
+        "targetText": "Cuvântul românesc „lapte“ provine din latină „lac“ și desemnează lichidul produs de mamifere pentru hrănire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Lapte“ ist eine wichtige Zutat in vielen rumänischen Gerichten."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Joghurt",
+      "targetText": "iaurt"
+    },
+    {
+      "sourceText": "Käse",
+      "targetText": "brânză"
+    },
+    {
+      "sourceText": "Milchshake",
+      "targetText": "milkshake"
+    },
+    {
+      "sourceText": "Sahne",
+      "targetText": "smântână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trinke gerne Milch mit Kaffee.",
+      "targetText": "Îmi place să beau lapte cu cafea."
+    },
+    {
+      "sourceText": "Milch kommt von Kühen.",
+      "targetText": "Laptele provine de la vaci."
+    },
+    {
+      "sourceText": "Er hat frische Milch gekauft.",
+      "targetText": "El a cumpărat lapte proaspăt."
+    },
+    {
+      "sourceText": "Milch wird zur Herstellung von Käse verwendet.",
+      "targetText": "Laptele este folosit pentru a produce brânză."
+    },
+    {
+      "sourceText": "Sie mag keine Milchprodukte.",
+      "targetText": "Ea nu-i place produsele lactate."
+    },
+    {
+      "sourceText": "Milch ist eine wichtige Nahrungsquelle.",
+      "targetText": "Laptele este o sursă importantă de hrană."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an Kühe auf der Weide, die „lapte“ produzieren."
+    },
+    {
+      "lang": "de",
+      "text": "Die Wörter „Milch“ und „lapte“ sind beide wichtige Flüssigkeiten in der Ernährung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Spruch: „Milch bringt das ‚LAPTE’ in dein Leben!“"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir ein Glas kalte Milch vor, um „lapte“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

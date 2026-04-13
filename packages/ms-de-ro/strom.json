@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-strom",
+  "parent": "ms-ro-curent-2dac2138@1dc3e94b55274c267728add8081b73ab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Strom",
+    "genus": "masculine",
+    "definition": "Fließende elektrische Energie oder ein Fluss von Wasser; hier primär elektrische Energie.",
+    "pronunciation": "/ʃtʁoːm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Strom“ stammt vom althochdeutschen 'strom' ab, das 'Strömung' oder 'Fluss' bedeutete und auf das urgermanische *straumaz zurückgeht, verwandt mit dem englischen 'stream'.",
+        "targetText": "Cuvântul german „Strom” provine din germana veche înaltă 'strom', care însemna 'curgere' sau 'râu', derivat din proto-germanicul *straumaz, înrudit cu englezescul 'stream'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curent",
+    "genus": "neuter",
+    "definition": "Flux de energie electrică sau de apă; în principal energie electrică care circulă printr-un conductor.",
+    "pronunciation": "/kuˈrent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „curent“ stammt vom lateinischen 'currens', Partizip Präsens von 'currere' (laufen, fließen), ab und bedeutet ursprünglich 'laufend' oder 'strömend'.",
+        "targetText": "Cuvântul românesc „curent” provine din latină, din participiul prezent 'currens' al verbului 'currere' (a alerga, a curge), însemnând inițial 'care curge' sau 'curgător'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Elektrizität",
+      "targetText": "electricitate"
+    },
+    {
+      "sourceText": "Fluss",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "Kabel",
+      "targetText": "cablu"
+    },
+    {
+      "sourceText": "Spannung",
+      "targetText": "tensiune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stromausfall",
+      "targetText": "pană de curent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Strom fließt durch das Kabel.",
+      "targetText": "Curentul trece prin cablu."
+    },
+    {
+      "sourceText": "Ohne Strom funktioniert das Gerät nicht.",
+      "targetText": "Fără curent, aparatul nu funcționează."
+    },
+    {
+      "sourceText": "Der Fluss hat einen starken Strom.",
+      "targetText": "Râul are un curent puternic."
+    },
+    {
+      "sourceText": "Der Strom ist heute ausgefallen.",
+      "targetText": "Azi a fost pană de curent."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'curent' erinnert an das deutsche Wort 'kurz' und 'rennen' (laufen). Stell dir vor, der Strom 'rennt kurz' durch die Leitung – so merkst du dir 'curent'."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen bedeutet 'Strom' auch Flussströmung. Im Rumänischen heißt Flussströmung ebenfalls 'curent', was dir hilft, die Bedeutung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'curent' sowohl für elektrischen Strom als auch für Wasserströmung verwendet wird – ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'curent' mit dem lateinischen 'currere' (laufen). Strom ist Energie, die 'läuft' oder 'fließt' – genau wie 'curent'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

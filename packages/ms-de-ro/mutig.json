@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-mutig",
+  "parent": "ms-ro-curajos-127c2fa5@035215e161e4e9d383631653176174a1",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mutig",
+    "definition": "jemand, der keine Angst hat und bereit ist, Herausforderungen anzunehmen",
+    "pronunciation": "/ˈmu.tɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „mutig“ stammt vom Substantiv „Mut“ ab, das aus dem althochdeutschen „muot“ (Geist, Gemüt, Mut) stammt und ursprünglich Tapferkeit und Entschlossenheit bezeichnete.",
+        "targetText": "Cuvântul german „mutig“ derivă din „Mut“, care provine din vechiul german „muot“ și înseamnă curaj și hotărâre."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Mutige Menschen werden oft in Geschichten und Märchen gefeiert, weil sie Herausforderungen mit Entschlossenheit begegnen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curajos",
+    "genus": "masculine",
+    "definition": "cineva care nu îi este frică și este dispus să facă față provocărilor",
+    "pronunciation": "/ˌku.ˈra.ʒos/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „curajos“ stammt vom Substantiv „curaj“, das aus dem italienischen „coraggio“ und letztlich vom lateinischen „coraticum“ (Mut, Herz) abgeleitet ist und die Fähigkeit beschreibt, Angst zu überwinden.",
+        "targetText": "Cuvântul românesc „curajos“ provine din „curaj“, derivat din italianul „coraggio“ și latinul „coraticum“, semnificând curajul și puterea de a înfrunta frica."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Curajul este considerat o virtute importantă în cultura românească, simbolizând puterea interioară de a înfrunta provocările."
+  },
+  "senses": [
+    {
+      "gloss": "Entschlossen",
+      "explanation": {
+        "sourceText": "Ein mutiger Mensch zeigt Entschlossenheit.",
+        "targetText": "O persoană curajoasă arată hotărâre."
+      },
+      "examples": [
+        {
+          "sourceText": "Mutige Menschen inspirieren andere.",
+          "targetText": "Oamenii curajoși îi inspiră pe alții."
+        }
+      ]
+    },
+    {
+      "gloss": "Tapfer",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: jemand, der mutig ist.",
+        "targetText": "Ca în germană: cineva care este curajos."
+      },
+      "examples": [
+        {
+          "sourceText": "Er war mutig genug, um die Wahrheit zu sagen.",
+          "targetText": "A fost curajos suficient ca să spună adevărul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Abenteuer",
+      "targetText": "aventură"
+    },
+    {
+      "sourceText": "Entschlossenheit",
+      "targetText": "hotărâre"
+    },
+    {
+      "sourceText": "Held",
+      "targetText": "erou"
+    },
+    {
+      "sourceText": "Kraft",
+      "targetText": "putere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ängstlich",
+      "targetText": "fricos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er war mutig genug, um die Wahrheit zu sagen.",
+      "targetText": "A fost curajos suficient ca să spună adevărul."
+    },
+    {
+      "sourceText": "Mutige Menschen inspirieren andere.",
+      "targetText": "Oamenii curajoși îi inspiră pe alții."
+    },
+    {
+      "sourceText": "In schwierigen Zeiten ist es wichtig, mutig zu bleiben.",
+      "targetText": "În vremuri dificile, este important să rămânem curajoși."
+    },
+    {
+      "sourceText": "Der mutige Feuerwehrmann rettete das Kind aus dem brennenden Gebäude.",
+      "targetText": "Pompierul curajos a salvat copilul din clădirea în flăcări."
+    },
+    {
+      "sourceText": "Mut erfordert häufig Risiko und Entschlossenheit.",
+      "targetText": "Curajul necesită adesea risc și determinare."
+    },
+    {
+      "sourceText": "Es war mutig von ihm, sich gegen das Unrecht zu stellen.",
+      "targetText": "A fost curajos din partea lui să se opună nedreptății."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Curaj“ klingt ähnlich wie „kurz“ – denk daran, dass Mut oft eine schnelle Entscheidung erfordert!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an eine mutige alte Dame, die trotz Regen allein zum Markt geht – „curajoasă“ wie sie!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir einen mutigen Löwen vor („mutig“ klingt wie „Mut“), der furchtlos voranschreitet – so merkst du dir „curajos“ als mutig."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „curajos“ mit „karate“, denn beides erfordert Mut und Entschlossenheit!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

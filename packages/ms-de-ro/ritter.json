@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-ritter",
+  "parent": "ms-ro-cavaler-f6de6d46@11dbd210415c3611c23c2e961e666ec8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ritter",
+    "genus": "masculine",
+    "definition": "Ein historischer Adelstitel für einen berittenen Krieger im Mittelalter, der einem Lehnsherrn diente und bestimmte ritterliche Tugenden verkörperte.",
+    "pronunciation": "/ˈʁɪtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Ritter“ stammt vom althochdeutschen 'rittari' ab, was 'Reiter' bedeutet, und ist verwandt mit dem Verb 'reiten'.",
+        "targetText": "Cuvântul german „Ritter” provine din vechiul german înalt 'rittari', care înseamnă 'călăreț' și este legat de verbul 'reiten' (a călări)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cavaler",
+    "genus": "masculine",
+    "definition": "Titlu istoric pentru un războinic călare din Evul Mediu, care servea unui stăpân feudal și întruchipa virtuți cavalerești.",
+    "pronunciation": "/kaˈva.ler/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cavaler“ stammt vom lateinischen 'caballarius' ab, was 'Reiter' oder 'Kavallerist' bedeutet, abgeleitet von 'caballus' für 'Pferd'.",
+        "targetText": "Cuvântul românesc „cavaler” provine din latină, de la 'caballarius', care însemna 'călăreț' sau 'cavalerist', derivat din 'caballus' pentru 'cal'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Adel",
+      "targetText": "nobilime"
+    },
+    {
+      "sourceText": "Rüstung",
+      "targetText": "armură"
+    },
+    {
+      "sourceText": "Schwert",
+      "targetText": "sabie"
+    },
+    {
+      "sourceText": "Turnier",
+      "targetText": "turneu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Bauer",
+      "targetText": "țăran"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Ritter trug eine glänzende Rüstung.",
+      "targetText": "Cavalerul purta o armură strălucitoare."
+    },
+    {
+      "sourceText": "Im Mittelalter waren Ritter wichtige Krieger.",
+      "targetText": "În Evul Mediu, cavalerii erau războinici importanți."
+    },
+    {
+      "sourceText": "Der Ritter kämpfte tapfer im Turnier.",
+      "targetText": "Cavalerul a luptat curajos la turneu."
+    },
+    {
+      "sourceText": "Ein Ritter schwor Treue seinem Lehnsherrn.",
+      "targetText": "Un cavaler făcea jurământ de credință stăpânului său feudal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Ritter' kommt von 'reiten', und 'cavaler' erinnert an 'cabal' (Pferd auf Latein), beide Wörter beziehen sich auf das Reiten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'cavaler' klingt ähnlich wie das französische 'chevalier', beide stammen vom lateinischen 'caballarius' ab, was 'Reiter' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: Ein Ritter ist ein edler Reiter – 'cavaler' enthält das Wort 'cal', das Pferd bedeutet, also ein Reiter zu Pferd."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'cavaler' reitet auf einem 'cal' (rumänisch für Pferd), so merkst du dir die Verbindung zum Pferd und zum Ritter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-erben",
+  "parent": "ms-ro-a-mosteni-4f052793@1e1057b469e594b4a1652101b8077d81",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erben",
+    "definition": "Das Vermögen oder Rechte von einer verstorbenen Person erhalten.",
+    "pronunciation": "/ˈɛʁbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „erben“ stammt vom althochdeutschen 'irban' ab, verwandt mit dem Substantiv „Erbe“ und der germanischen Wurzel *arbijaz.",
+        "targetText": "Verbul „a moșteni” provine din germana veche înaltă 'irban', înrudit cu substantivul „Erbe” și rădăcina germanică *arbijaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a moșteni",
+    "definition": "A primi bunuri sau drepturi de la o persoană decedată.",
+    "pronunciation": "/a moʃˈteni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a moșteni“ stammt vom lateinischen 'mustinare' ab, beeinflusst von slawischen Sprachen, und bedeutet 'erben'.",
+        "targetText": "Verbul românesc „a moșteni” provine din latină, de la 'mustinare', influențat de limbile slave, și înseamnă 'a moșteni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, Konjugation: eu moștenesc, tu moștenești, el/ea moștenește."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erbe",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Nachlass",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "vererben",
+      "targetText": "a lăsa moștenire"
+    },
+    {
+      "sourceText": "Vermächtnis",
+      "targetText": "legat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlieren",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erbe das Haus meiner Eltern.",
+      "targetText": "Eu moștenesc casa părinților mei."
+    },
+    {
+      "sourceText": "Sie hat viel Geld geerbt.",
+      "targetText": "Ea a moștenit mulți bani."
+    },
+    {
+      "sourceText": "Wir erben die Rechte und Pflichten.",
+      "targetText": "Noi moștenim drepturile și obligațiile."
+    },
+    {
+      "sourceText": "Er wird das Familienunternehmen erben.",
+      "targetText": "El va moșteni afacerea familiei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Verb „erben“ und das rumänische „a moșteni“ sind eng verbunden, beide beschreiben den Vorgang des Erhalts von Besitz."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a moșteni“ klingt wie „moș“ (alter Mann) + „teni“ (halten), stell dir vor, der alte Mann hält etwas, das er erbt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „moșteni“ enthält „teni“, was an das deutsche „halten“ erinnert – man hält etwas, das man erbt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: eu moștenesc, tu moștenești – die Endungen sind typisch für rumänische Verben der 1. Konjugation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

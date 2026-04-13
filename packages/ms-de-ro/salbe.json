@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-salbe",
+  "parent": "ms-ro-unguent-843b4fec@a32dc78b79fd3c1696dce9900f989b91",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Salbe",
+    "genus": "feminine",
+    "definition": "Eine medizinische Zubereitung in Form einer streichfähigen, meist fetthaltigen Substanz, die auf die Haut aufgetragen wird, um Heilung oder Linderung zu bewirken.",
+    "pronunciation": "/ˈzalbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Salbe“ stammt vom mittelhochdeutschen 'salbe', das wiederum aus dem lateinischen 'sālpē' oder 'sālpēre' abgeleitet ist, was 'einreiben' bedeutet.",
+        "targetText": "Cuvântul german „Salbe” provine din germana mijlocie 'salbe', care la rândul său derivă din latină 'sālpē' sau 'sālpēre', însemnând 'a freca' sau 'a unge'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "unguent",
+    "genus": "neuter",
+    "definition": "O substanță medicinală grasă, aplicată pe piele pentru a vindeca sau a calma diverse afecțiuni.",
+    "pronunciation": "/unˈɡwent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „unguent“ stammt vom lateinischen 'unguentum' ab, was 'Salbe' oder 'Einreibung' bedeutet, abgeleitet von 'unguere' für 'einreiben'.",
+        "targetText": "Cuvântul românesc „unguent” provine din latinescul 'unguentum', care înseamnă 'salbă' sau 'frecare', derivat din 'unguere' – 'a unge'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Medizin",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "Pflaster",
+      "targetText": "plasture"
+    },
+    {
+      "sourceText": "Salbecreme",
+      "targetText": "cremă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Salbe wird dreimal täglich auf die betroffene Hautstelle aufgetragen.",
+      "targetText": "Unguentul se aplică de trei ori pe zi pe zona afectată a pielii."
+    },
+    {
+      "sourceText": "Nach dem Sonnenbrand trug sie eine kühlende Salbe auf.",
+      "targetText": "După arsura solară, ea a aplicat un unguent răcoritor."
+    },
+    {
+      "sourceText": "Der Arzt verschrieb eine Salbe gegen die Hautentzündung.",
+      "targetText": "Doctorul a prescris un unguent pentru inflamația pielii."
+    },
+    {
+      "sourceText": "Salben sind oft fetthaltig, damit sie gut auf der Haut haften.",
+      "targetText": "Unguentele sunt adesea grase pentru a adera bine pe piele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Salbe' und das rumänische 'unguent' stammen beide aus dem Lateinischen, was dir die Herkunft leichter merken lässt."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische 'ungere' bedeutet 'einreiben'. Das hilft dir, die Verbindung zwischen 'unguent' und Salbe zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „unguent“ klingt ähnlich wie das englische 'ointment', was dir helfen kann, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'ungest' (einreibst) die Haut mit einem 'Unguent' – so kannst du dir das Wort leichter merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

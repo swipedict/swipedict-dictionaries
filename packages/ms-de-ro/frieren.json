@@ -1,0 +1,144 @@
+{
+  "id": "ms-de-ro-frieren",
+  "parent": "ms-ro-a-ingheta-3d19b751@52770c836be1a1ae311d2ad4c6e4b1d8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "frieren",
+    "definition": "Temperatur zu niedrig, um sich wohlzufühlen; eine kühle Empfindung im Körper haben",
+    "pronunciation": "/ˈfʁiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „frieren“ stammt vom mittelhochdeutschen „vriezen“, was ‚in einen frostigen Zustand versetzen‘ bedeutet, verwandt mit althochdeutsch „frirōn“ für ‚kalt sein‘.",
+        "targetText": "Verbul „frieren“ provine din germana mijlocie „vriezen“, însemnând „a îngheța“ sau „a fi rece“, legat de germana veche „frirōn“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb hat sowohl eine physische als auch eine emotionale Bedeutung (z.B. „ich friere vor Angst“)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îngheța",
+    "definition": "a avea o senzație de frig; a simți o temperatură rece",
+    "pronunciation": "/a ɨnˈɡe.t͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a îngheța“ stammt vom lateinischen „infrigescere“ ab, was ‚kalt werden‘ oder ‚gefrieren‘ bedeutet, und beschreibt den Zustand des Festwerdens bei Kälte.",
+        "targetText": "Verbul românesc „a îngheța“ derivă din latină, din „infrigescere“, însemnând „a îngheța“ sau „a deveni rece“, descriind procesul de solidificare la frig."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt den Zustand, in dem Wasser und andere Flüssigkeiten bei Kälte fest werden."
+  },
+  "senses": [
+    {
+      "gloss": "frieren (emotional)",
+      "explanation": {
+        "sourceText": "'Ich friere vor Angst' bedeutet, sich emotional kalt oder verängstigt zu fühlen.",
+        "targetText": "'Ich friere vor Angst' înseamnă a simți frig din cauza fricii."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich friere vor Angst.",
+          "targetText": "Îngheț de frică."
+        }
+      ]
+    },
+    {
+      "gloss": "frieren (Kälte empfinden)",
+      "explanation": {
+        "sourceText": "'Frieren' beschreibt das unangenehme Gefühl von Kälte.",
+        "targetText": "'Frieren' descrie senzația neplăcută de frig."
+      },
+      "examples": [
+        {
+          "sourceText": "Es friert bei minus 5 Grad.",
+          "targetText": "E frig la minus 5 grade."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "draußen",
+      "targetText": "afară"
+    },
+    {
+      "sourceText": "Kälte",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "schneien",
+      "targetText": "a ninge"
+    },
+    {
+      "sourceText": "Wintersport",
+      "targetText": "sporturi de iarnă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wärmen",
+      "targetText": "a încălzi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich friere draußen.",
+      "targetText": "Eu îngheț afară."
+    },
+    {
+      "sourceText": "Frieren Sie bitte nicht!",
+      "targetText": "Te rog să nu îngheți!"
+    },
+    {
+      "sourceText": "Er friert, weil es kalt ist.",
+      "targetText": "El îngheață, pentru că este frig."
+    },
+    {
+      "sourceText": "Wir frieren im Winter.",
+      "targetText": "Noi înghețăm iarna."
+    },
+    {
+      "sourceText": "Friert ihr bei dieser Kälte?",
+      "targetText": "Înghețați voi la această frig?"
+    },
+    {
+      "sourceText": "Ich habe gefroren, als ich draußen war.",
+      "targetText": "Am înghețat când am fost afară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Frieren“ bedeutet Kälte spüren. Denk an Eis und Schnee, um das rumänische „a îngheța“ zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe „a îngheța“ mit verschiedenen Temperaturen, um die Bedeutung und den Gebrauch zu festigen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du frierst, kannst du dir vorstellen, wie Wasser zu Eis wird – genau das beschreibt „a îngheța“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

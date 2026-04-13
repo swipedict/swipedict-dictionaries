@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gehweg",
+  "parent": "ms-ro-trotuar-ac49b096@07b45b0486a65dcf4033b234bf30260d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gehweg",
+    "genus": "masculine",
+    "definition": "Ein Weg oder Bürgersteig, der für Fußgänger bestimmt ist.",
+    "pronunciation": "/ˈɡeːvɛk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gehweg“ setzt sich aus 'gehen' und 'Weg' zusammen und bezeichnet einen Weg für Fußgänger.",
+        "targetText": "Cuvântul german „Gehweg” este compus din 'gehen' (a merge) și 'Weg' (cale), desemnând o cale pentru pietoni."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "trotuar",
+    "genus": "neuter",
+    "definition": "Ein befestigter Weg am Straßenrand, der für Fußgänger bestimmt ist.",
+    "pronunciation": "/troˈtwar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „trotuar“ stammt aus dem französischen 'trottoir', das einen Bürgersteig bezeichnet.",
+        "targetText": "Cuvântul românesc „trotuar” provine din franceza 'trottoir', care înseamnă trotuar sau alee pentru pietoni."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bürgersteig",
+      "targetText": "trotuar"
+    },
+    {
+      "sourceText": "Fußgänger",
+      "targetText": "pieton"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Weg",
+      "targetText": "cale"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Gehweg ist für Fußgänger reserviert.",
+      "targetText": "Trotuarul este rezervat pietonilor."
+    },
+    {
+      "sourceText": "Bitte benutze den Gehweg, nicht die Straße.",
+      "targetText": "Te rog folosește trotuarul, nu strada."
+    },
+    {
+      "sourceText": "Der Gehweg ist sauber und gut beleuchtet.",
+      "targetText": "Trotuarul este curat și bine luminat."
+    },
+    {
+      "sourceText": "Kinder gehen sicher auf dem Gehweg zur Schule.",
+      "targetText": "Copiii merg în siguranță pe trotuar la școală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'trotuar' klingt fast wie das französische 'trottoir' – denk an einen französischen Bürgersteig, um es dir zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ar', typisch für viele rumänische Substantive, die Orte oder Dinge bezeichnen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'trotzt' dem Verkehr, indem du sicher auf dem 'trotuar' gehst – so bleibt der Weg für Fußgänger."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Gehweg' mit 'trotuar' als den sicheren Weg für Fußgänger am Straßenrand."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

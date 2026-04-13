@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-leider",
+  "parent": "ms-ro-din-pacate-9b15d758@70ff340773a33bbd4de255b16887a97c",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "leider",
+    "definition": "Drückt Bedauern oder Unglück aus, bedeutet 'unglücklicherweise' oder 'leider'.",
+    "pronunciation": "/ˈlaɪ̯dɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „leider“ stammt vom mittelhochdeutschen 'līder' ab, was 'schmerzlich' oder 'leidvoll' bedeutete und sich aus dem althochdeutschen 'līdar' entwickelte.",
+        "targetText": "Cuvântul „leider” provine din germana mijlocie 'līder', care însemna 'dureros' sau 'plin de suferință', derivat din germana veche înaltă 'līdar'."
+      },
+      "source": "Etymologische Wörterbücher, Historische Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "din păcate",
+    "definition": "Adverb folosit pentru a exprima regret sau o situație nefericită, echivalent cu 'leider'.",
+    "pronunciation": "/din pəˈkate/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Wendung „din păcate“ setzt sich aus 'din' (aus) und 'păcat' (Sünde, Fehler) zusammen, wobei 'păcat' vom lateinischen 'peccatum' stammt.",
+        "targetText": "Expresia românească „din păcate” este formată din 'din' (din) și 'păcat' (păcat, greșeală), iar 'păcat' provine din latinescul 'peccatum'."
+      },
+      "source": "Dicționare etimologice, Cercetări lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bedauern",
+      "targetText": "regret"
+    },
+    {
+      "sourceText": "Leider nicht",
+      "targetText": "din păcate nu"
+    },
+    {
+      "sourceText": "Traurig",
+      "targetText": "trist"
+    },
+    {
+      "sourceText": "Unglück",
+      "targetText": "ghinion"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "glücklicherweise",
+      "targetText": "din fericire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Leider kann ich heute nicht kommen.",
+      "targetText": "Din păcate, nu pot veni astăzi."
+    },
+    {
+      "sourceText": "Er hat leider den Zug verpasst.",
+      "targetText": "Din păcate, a pierdut trenul."
+    },
+    {
+      "sourceText": "Leider ist das Wetter schlecht.",
+      "targetText": "Din păcate, vremea este rea."
+    },
+    {
+      "sourceText": "Leider habe ich keine Zeit.",
+      "targetText": "Din păcate, nu am timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die rumänische Phrase 'din păcate' bedeutet wörtlich 'aus dem Fehler' – stell dir vor, du sagst 'leider' wegen eines Fehlers oder Unglücks."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'leider' als 'leid' + 'er' – etwas, das Schmerz oder Bedauern ausdrückt, ähnlich wie 'păcat' in 'din păcate'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'leider' mit dem deutschen Wort 'Leid' (Schmerz), um die Bedeutung von Bedauern zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du 'leider' sagst, denke an eine traurige Geschichte, die mit 'din păcate' im Rumänischen beginnt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

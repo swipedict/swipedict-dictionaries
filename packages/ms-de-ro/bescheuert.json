@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-bescheuert",
+  "parent": "ms-ro-prostanac-fc64673a@89cec9eb4adfd622b453b0b7210c2a7a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:informal",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bescheuert",
+    "definition": "Umgangssprachlich für 'dumm' oder 'verrückt', oft scherzhaft oder abwertend verwendet.",
+    "pronunciation": "/bəˈʃɔʏ̯ɐt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Herkunft von „bescheuert“ ist umgangssprachlich und nicht eindeutig geklärt, möglicherweise eine Verstärkung von 'scheuern' (reiben) im übertragenen Sinn.",
+        "targetText": "Originea cuvântului „bescheuert” este colocvială și neclară, posibil o intensificare a verbului 'scheuern' (a freca) în sens figurat."
+      },
+      "source": "Umgangssprachliche Quellen, Etymologische Vermutungen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prostănac",
+    "definition": "Coloquial pentru 'prost' sau 'nebun', folosit adesea în mod glumeț sau ușor jignitor.",
+    "pronunciation": "/prostaˈnak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „prostănac“ stammt vom Adjektiv 'prost' ab, das aus dem Slawischen entlehnt ist und 'dumm' bedeutet, mit dem Derivationssuffix '-ănac'.",
+        "targetText": "Cuvântul românesc „prostănac” derivă din adjectivul 'prost', împrumutat din slavă, însemnând 'prost', cu sufixul de derivare '-ănac'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "albern",
+      "targetText": "caraghios"
+    },
+    {
+      "sourceText": "blöd",
+      "targetText": "prostănac"
+    },
+    {
+      "sourceText": "dumm",
+      "targetText": "prost"
+    },
+    {
+      "sourceText": "verrückt",
+      "targetText": "nebun"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "klug",
+      "targetText": "deștept"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist doch total bescheuert!",
+      "targetText": "Asta e chiar prostănacește!"
+    },
+    {
+      "sourceText": "Warum hast du das bescheuert gemacht?",
+      "targetText": "De ce ai făcut asta așa prostănăcește?"
+    },
+    {
+      "sourceText": "Er benimmt sich manchmal bescheuert.",
+      "targetText": "Se comportă uneori prostănăcește."
+    },
+    {
+      "sourceText": "Das war eine bescheuerte Idee.",
+      "targetText": "A fost o idee prostănacească."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beide Wörter sind umgangssprachlich und drücken auf humorvolle Weise Dummheit oder Verrücktheit aus."
+    },
+    {
+      "lang": "de",
+      "text": "Das 'scheuert' in 'bescheuert' kann man sich als 'reiben' vorstellen – jemand reibt sich den Kopf, weil er etwas Dummes gemacht hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'prostănac' erinnert an 'prost', das du dir als 'dumm' merken kannst."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bescheuert' klingt wie 'beschert' mit einem 'sch' – stell dir vor, jemand bekommt eine 'besch...erte' Idee."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

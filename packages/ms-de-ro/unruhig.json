@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-unruhig",
+  "parent": "ms-ro-nelinistit-9858e2d8@2db6139667ebd55e83ec742b70a6c4e7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unruhig",
+    "definition": "unruhig beschreibt einen Zustand der inneren Unruhe oder Nervosität",
+    "pronunciation": "/ʊnˈʁu.ɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „unruhig“ setzt sich zusammen aus dem negierenden Präfix „un-“ und „ruhig“, was einen Mangel an Ruhe oder Frieden beschreibt.",
+        "targetText": "Das deutsche Wort „unruhig“ stammt aus dem Althochdeutschen „unruoh“ mit dem Präfix „un-“ (nicht) und „ruhig“ (ruhig)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Gefühl von Unruhe kann sowohl emotional als auch physisch sein und oft Unbehagen oder Stress hervorrufen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neliniștit",
+    "genus": "masculine",
+    "definition": "neliniștit descrie o stare de anxietate sau nervozitate",
+    "pronunciation": "/ne.liˈniʃ.tit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „neliniștit“ stammt von „neliniște“, was „Unruhe“ bedeutet. Es beschreibt einen Zustand des inneren Unbehagens und der Anspannung.",
+        "targetText": "Cuvântul românesc „neliniștit“ derivă din „neliniște“ (lipsa liniștii), format prin prefixul negativ „ne-“ și „liniște“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In vielen Kulturen kann Unruhe Unbehagen bezüglich zukünftiger Entwicklungen darstellen."
+  },
+  "senses": [
+    {
+      "gloss": "Anxiety / Angst",
+      "explanation": {
+        "sourceText": "'Neliniște' implică o stare de anxietate sau frică.",
+        "targetText": "„Neliniște“ implică o stare de anxietate sau teamă."
+      },
+      "examples": [
+        {
+          "sourceText": "Er hat ständig Unruhe wegen der Prüfungen.",
+          "targetText": "El are neliniște din cauza examenelor."
+        }
+      ]
+    },
+    {
+      "gloss": "Unruhe / Unbequemlichkeit",
+      "explanation": {
+        "sourceText": "Neliniște se referă de asemenea la o stare de disconfort.",
+        "targetText": "Neliniște se referă și la o stare de disconfort fizic sau emoțional."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fühle Unruhe in meinem Bauch.",
+          "targetText": "Simt neliniște în stomac."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ängstlich",
+      "targetText": "anxios"
+    },
+    {
+      "sourceText": "Besorgt",
+      "targetText": "îngrijorat"
+    },
+    {
+      "sourceText": "Nervös",
+      "targetText": "nervos"
+    },
+    {
+      "sourceText": "Unbehagen",
+      "targetText": "inconfort"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ruhig",
+      "targetText": "calm"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er fühlte sich unruhig vor dem großen Ereignis.",
+      "targetText": "El se simțea neliniștit înainte de marea eveniment."
+    },
+    {
+      "sourceText": "Die unruhige Nacht führte zu Müdigkeit am nächsten Tag.",
+      "targetText": "Noaptea neliniștită a dus la oboseală a doua zi."
+    },
+    {
+      "sourceText": "In unruhigen Zeiten ist es wichtig, fokussiert zu bleiben.",
+      "targetText": "În vremuri neliniștite, este important să rămâi concentrat."
+    },
+    {
+      "sourceText": "Das Kind war unruhig und konnte nicht stillsitzen.",
+      "targetText": "Copilul era neliniștit și nu putea sta liniștit."
+    },
+    {
+      "sourceText": "Unruhige Gedanken können den Schlaf beeinträchtigen.",
+      "targetText": "Gândurile neliniștite pot afecta somnul."
+    },
+    {
+      "sourceText": "Die unruhige Menschenmenge war ein Zeichen für Unzufriedenheit.",
+      "targetText": "Mulțimea neliniștită era un semn de nemulțumire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „unruhig“ als „nicht ruhig“ – das hilft dir, die Bedeutung zu verstehen und zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine wütende, unruhige Menschenmenge vor, um das Wort bildlich zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „unruhig“ mit dem Bild eines unruhigen Meeres, das ständig in Bewegung ist."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „neliniștit“ hörst, stelle dir vor, du sitzt auf einem heißen Stuhl und kannst nicht stillsitzen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

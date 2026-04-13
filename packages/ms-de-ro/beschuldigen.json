@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-beschuldigen",
+  "parent": "ms-ro-a-acuza-879ff100@4a8d740a1be35c765638912df1a0f1d4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beschuldigen",
+    "definition": "jemanden eines Verbrechens oder Fehlers für schuldig erklären",
+    "pronunciation": "/bəˈʃʊl.dɪɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „beschuldigen“ stammt vom mittelhochdeutschen „besculdigen“, zusammengesetzt aus „be-“ (intensiv) und „schuldigen“ (schuldig machen).",
+        "targetText": "Verbul „a acuza“ provine din latină, din „accusare“, format din prefixul „ad-“ (către) și „causa“ (cauză), indicând acțiunea de a atribui o cauză sau vină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig in rechtlichen und sozialen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acuza",
+    "definition": "a declara pe cineva vinovat de o infracțiune sau o greșeală",
+    "pronunciation": "/a a.kuˈza/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a acuza“ leitet sich vom lateinischen „accusare“ ab. Dieses beschreibt das Anklagen oder Beschuldigen einer Person für eine Tat. Es besteht aus dem Präfix „ad-“, das eine Richtung angibt, und „causa“, was „Ursache“ bedeutet. Somit bezieht es sich auf das Benennen einer Ursache im rechtlichen Sinne.",
+        "targetText": "Verbul „a acuza“ provine din latină, din „accusare“, care înseamnă a învinui sau a aduce o acuzație, format prin prefixul „ad-“ (către) și „causa“ (cauză)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft in juristischen Auseinandersetzungen oder in Alltagsdiskussionen verwendet, in denen Vorwürfe gemacht werden."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Anklage",
+      "targetText": "acuzare"
+    },
+    {
+      "sourceText": "Richter",
+      "targetText": "judecător"
+    },
+    {
+      "sourceText": "Schuld",
+      "targetText": "vină"
+    },
+    {
+      "sourceText": "Verteidigung",
+      "targetText": "apărare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freisprechen",
+      "targetText": "a elibera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich beschuldige ihn.",
+      "targetText": "Eu îl acuz."
+    },
+    {
+      "sourceText": "Beschuldigst du ihn?",
+      "targetText": "Îl acuzi?"
+    },
+    {
+      "sourceText": "Er beschuldigt die Nachbarn.",
+      "targetText": "El își acuză vecinii."
+    },
+    {
+      "sourceText": "Wir beschuldigen die Regierung.",
+      "targetText": "Noi acuzăm guvernul."
+    },
+    {
+      "sourceText": "Beschuldigt ihr den Chef?",
+      "targetText": "Îl acuzați pe șef?"
+    },
+    {
+      "sourceText": "Sie beschuldigen ihn falscher Absichten.",
+      "targetText": "Ei îi acuză de intenții false."
+    },
+    {
+      "sourceText": "Ich habe ihn beschuldigt.",
+      "targetText": "L-am acuzat."
+    },
+    {
+      "sourceText": "Sie beschuldigte ihn.",
+      "targetText": "Ea l-a acuzat."
+    },
+    {
+      "sourceText": "Ich werde ihn beschuldigen.",
+      "targetText": "Îl voi acuza."
+    },
+    {
+      "sourceText": "Ich würde ihn beschuldigen, wenn ich Beweise hätte.",
+      "targetText": "L-aș acuza dacă aș avea dovezi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „acuza“ klingt ähnlich wie das deutsche „Akku“ – stell dir vor, du lädst jemanden mit einer Schuld auf, so wie ein Akku geladen wird!"
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische „causa“ (Ursache) im Wort „acuza“ – wenn du jemanden beschuldigst, nennst du die Ursache für ein Problem."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

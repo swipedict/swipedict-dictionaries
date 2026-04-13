@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-fahren-als-passagier",
+  "parent": "ms-ro-a-merge-cu-facca822@0a43aeda2b6c0e9493f3309fa2e5651c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fahren (als Passagier)",
+    "definition": "Sich als Passagier in einem Fahrzeug oder Verkehrsmittel bewegen.",
+    "pronunciation": "/ˈfaːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „fahren“ stammt vom althochdeutschen 'faran' ab, das auf die urgermanische Wurzel *faraną zurückgeht und 'reisen, gehen' bedeutet.",
+        "targetText": "Verbul german „fahren“ provine din germana veche înaltă 'faran', derivat din rădăcina proto-germanică *faraną, care înseamnă 'a călători, a merge'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a merge cu",
+    "definition": "A se deplasa ca pasager într-un vehicul sau mijloc de transport.",
+    "pronunciation": "/a ˈmerʒe ku/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a merge“ stammt vom lateinischen 'mergere' ab, das ursprünglich 'eintauchen' bedeutete, sich aber im Rumänischen zu 'gehen' oder 'fahren' entwickelte.",
+        "targetText": "Verbul românesc „a merge” provine din latinul 'mergere', care inițial însemna 'a scufunda', dar în română a evoluat să însemne 'a merge'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In der Bedeutung als Passagier wird oft die Präposition „cu“ (mit) verwendet, z.B. „a merge cu autobuzul“."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "aussteigen",
+      "targetText": "a coborî"
+    },
+    {
+      "sourceText": "fahren (selbst steuern)",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "reisen",
+      "targetText": "a călători"
+    },
+    {
+      "sourceText": "steigen (einsteigen)",
+      "targetText": "a urca"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich fahre mit dem Bus zur Arbeit.",
+      "targetText": "Eu merg cu autobuzul la serviciu."
+    },
+    {
+      "sourceText": "Sie fährt jeden Tag mit der Straßenbahn.",
+      "targetText": "Ea merge în fiecare zi cu tramvaiul."
+    },
+    {
+      "sourceText": "Wir fahren morgen mit dem Zug nach Berlin.",
+      "targetText": "Mâine mergem cu trenul la Berlin."
+    },
+    {
+      "sourceText": "Fährst du mit dem Auto oder mit dem Fahrrad?",
+      "targetText": "Mergi cu mașina sau cu bicicleta?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Verb „fahren“ stammt aus dem Althochdeutschen 'faran', ähnlich wie das rumänische „a merge“ aus dem Lateinischen 'mergere' – beide haben mit Bewegung zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a merge“ bedeutet 'gehen' oder 'fahren' – für Passagiere benutzt man oft die Konstruktion „a merge cu“ + Verkehrsmittel."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „fahren“ als Passagier heißt auf Rumänisch „a merge cu“ – also immer mit der Präposition „cu“ (mit)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'gehst' (mergi) mit dem Bus – so merkst du dir die rumänische Konstruktion für Passagierfahren."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

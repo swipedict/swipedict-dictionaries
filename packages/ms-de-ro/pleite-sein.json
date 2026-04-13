@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-pleite-sein",
+  "parent": "ms-ro-a-fi-falit-672a65a3@8aa91ea8adce070e684577d43776c734",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "pleite sein",
+    "definition": "Kein Geld mehr haben, finanziell ruiniert sein.",
+    "pronunciation": "/ˈplaɪ̯tə zaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „pleite“ stammt vermutlich aus dem Jiddischen oder Niederländischen, wo es ‚leer‘ oder ‚bankrott‘ bedeutet. Es wurde im 19. Jahrhundert ins Deutsche übernommen.",
+        "targetText": "Cuvântul german „pleite“ provine probabil din idiș sau olandeză, unde înseamnă „gol“ sau „falit“. A fost preluat în germană în secolul al XIX-lea."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fi falit",
+    "definition": "A nu mai avea bani, a fi în stare de faliment financiar.",
+    "pronunciation": "/a fi faˈlit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a fi falit“ stammt vom italienischen ‚fallito‘ ab, das ‚gescheitert‘ oder ‚bankrott‘ bedeutet und über das Französische ins Rumänische gelangte.",
+        "targetText": "Verbul românesc „a fi falit” provine din italianul „fallito”, care înseamnă „eşuat” sau „falimentar” și a intrat în română prin franceză."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bankrott",
+      "targetText": "faliment"
+    },
+    {
+      "sourceText": "finanziell",
+      "targetText": "financiar"
+    },
+    {
+      "sourceText": "Geldmangel",
+      "targetText": "lipsă de bani"
+    },
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reich sein",
+      "targetText": "a fi bogat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Nach dem gescheiterten Geschäft war er pleite.",
+      "targetText": "După afacerea eșuată, el a fost falit."
+    },
+    {
+      "sourceText": "Viele junge Unternehmer sind am Anfang pleite.",
+      "targetText": "Mulți antreprenori tineri sunt faliti la început."
+    },
+    {
+      "sourceText": "Wenn du pleite bist, musst du einen Kredit aufnehmen.",
+      "targetText": "Când ești falit, trebuie să iei un credit."
+    },
+    {
+      "sourceText": "Pleite sein bedeutet, kein Geld mehr zu haben.",
+      "targetText": "A fi falit înseamnă a nu mai avea bani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚pleite‘ klingt ähnlich wie ‚platt‘, was ‚leer‘ bedeutet – so kannst du dir merken, dass ‚pleite sein‘ heißt, kein Geld mehr zu haben."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚falit‘ kommt vom italienischen ‚fallito‘, das ‚gescheitert‘ heißt – also denk an einen finanziellen ‚Fall‘."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, das Wort ‚falit‘ klingt wie ‚fail it‘ – wenn du pleite bist, hast du finanziell ‚versagt‘."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde ‚pleite sein‘ mit dem Bild eines leeren Portemonnaies, das ‚platt‘ und ‚leer‘ ist, um die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

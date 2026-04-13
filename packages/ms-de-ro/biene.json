@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-biene",
+  "parent": "ms-ro-albina-9af63fa4@bafb774b419be40298ac322ea994c3d6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Biene",
+    "genus": "feminine",
+    "definition": "Ein Insekt, das für die Bestäubung von Pflanzen und die Honigproduktion bekannt ist.",
+    "pronunciation": "/ˈbiːnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Biene“ stammt vom althochdeutschen 'bīna' ab, das auf die germanische Wurzel *bīną zurückgeht und mit dem englischen 'bee' verwandt ist.",
+        "targetText": "Cuvântul german „Biene” provine din germana veche înaltă 'bīna', derivat din rădăcina germanică *bīną, înrudit cu englezescul 'bee'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "albină",
+    "genus": "feminine",
+    "definition": "Un insect cunoscut pentru polenizarea plantelor și producția de miere.",
+    "pronunciation": "/alˈbi.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „albină“ stammt vom lateinischen 'albinus' ab, was 'weißlich' bedeutet, bezogen auf die Farbe der Biene.",
+        "targetText": "Cuvântul românesc „albină” provine din latină 'albinus', care înseamnă 'albăstrui' sau 'albicios', referindu-se la culoarea albinei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Weibliches Insekt, das Honig produziert."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bestäubung",
+      "targetText": "polenizare"
+    },
+    {
+      "sourceText": "Bienenstock",
+      "targetText": "stup"
+    },
+    {
+      "sourceText": "Honig",
+      "targetText": "miere"
+    },
+    {
+      "sourceText": "Insekt",
+      "targetText": "insectă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Biene sammelt Nektar von Blumen.",
+      "targetText": "Albina adună nectar de la flori."
+    },
+    {
+      "sourceText": "Bienen produzieren Honig.",
+      "targetText": "Albinele produc miere."
+    },
+    {
+      "sourceText": "Die Biene ist wichtig für die Bestäubung.",
+      "targetText": "Albina este importantă pentru polenizare."
+    },
+    {
+      "sourceText": "Eine Biene kann stechen, wenn sie sich bedroht fühlt.",
+      "targetText": "O albină poate înțepa dacă se simte amenințată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Biene' und das englische 'bee' sind verwandt – 'albină' ist die rumänische Schwester im Lateinischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'albină' erinnert an das lateinische 'albus' (weiß), denk an die helle Farbe der Biene."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die 'albină' fliegt durch weiße (albus) Blumenwiesen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'albină' mit 'Alb' (weiß) als Eselsbrücke für die Farbe der Biene."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-wecker",
+  "parent": "ms-ro-ceas-desteptator-bf314dfd@33d8d9c8f679026068797ae0ab860d17",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:germanic",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wecker",
+    "genus": "masculine",
+    "definition": "Ein Gerät, das zu einer bestimmten Zeit einen Alarmton erzeugt, um jemanden zu wecken.",
+    "pronunciation": "/ˈvɛkɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wecker“ stammt vom Verb „wecken“ ab, das auf das althochdeutsche 'weccan' zurückgeht und ‚aufwecken‘ bedeutet.",
+        "targetText": "Cuvântul german „Wecker” provine de la verbul „wecken”, care derivă din vechiul german înalt 'weccan' și înseamnă „a trezi”."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ceas deșteptător",
+    "genus": "neuter",
+    "definition": "Un dispozitiv care emite un semnal sonor la o oră stabilită pentru a trezi pe cineva.",
+    "pronunciation": "/t͡ʃe̯as deʃtepˈtător/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „ceas deșteptător“ setzt sich aus „ceas“ (Uhr) und „deșteptător“ (weckend, wachmachend) zusammen. „Ceas“ stammt vom lateinischen 'clāssis' (Klang, Glocke) ab, während „deșteptător“ vom Verb „a deștepta“ kommt, das aus dem lateinischen 'excitare' entlehnt ist.",
+        "targetText": "Expresia românească „ceas deșteptător” este compusă din „ceas” (oră) și „deșteptător” (care trezește). „Ceas” provine din latină, din 'clāssis' (sunet, clopot), iar „deșteptător” derivă din verbul „a deștepta”, împrumutat din latină, din 'excitare'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Zusammensetzung aus Substantiv und Partizip Präsens als Adjektiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Alarm",
+      "targetText": "alarmă"
+    },
+    {
+      "sourceText": "Schlaf",
+      "targetText": "somn"
+    },
+    {
+      "sourceText": "Uhr",
+      "targetText": "ceas"
+    },
+    {
+      "sourceText": "Wecken",
+      "targetText": "a trezi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schlafen",
+      "targetText": "a dormi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle den Wecker auf 7 Uhr.",
+      "targetText": "Setez ceasul deșteptător la ora 7."
+    },
+    {
+      "sourceText": "Der Wecker klingelt jeden Morgen um 6 Uhr.",
+      "targetText": "Ceasul deșteptător sună în fiecare dimineață la ora 6."
+    },
+    {
+      "sourceText": "Ohne Wecker würde ich oft zu spät aufstehen.",
+      "targetText": "Fără ceas deșteptător, adesea m-aș trezi prea târziu."
+    },
+    {
+      "sourceText": "Der Wecker hat mich heute früh geweckt.",
+      "targetText": "Ceasul deșteptător m-a trezit devreme azi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'deșteptător' klingt ähnlich wie 'deftig' und 'stark', also etwas, das dich kräftig weckt – ein guter Wecker!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'ceas' vom lateinischen Wort für Klang kommt, was gut zum Wecker passt, der ja einen Ton macht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der 'ceas' ist die Uhr, die dich 'deșteptător' (weckt). So merkst du dir die Zusammensetzung: Uhr + Wecker = ceas deșteptător."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Wecker' mit 'wecken' und 'deșteptător' mit 'deștepta' (wecken). So hast du das deutsche und rumänische Wort mit der gleichen Bedeutung im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

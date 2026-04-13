@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-behaupten",
+  "parent": "ms-ro-a-afirma-98b95851@36f2c7e92438c0ab3a2b9411ff277fd3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "behaupten",
+    "definition": "eine Aussage treffen oder sich auf etwas festlegen",
+    "pronunciation": "/bəˈhaʊ̯ptən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „behaupten“ stammt vom mittelhochdeutschen „behaubten“, zusammengesetzt aus „be-“ und „hauben“ (bedecken, schützen).",
+        "targetText": "Verbul „behaupten“ provine din germana mijlocie „behaubten“, format din prefixul „be-“ și „hauben“ (a acoperi)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb; wird verwendet, um eine Aussage zu machen, die als wahr behauptet wird, auch ohne Beweise."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a afirma",
+    "definition": "a face o afirmație sau a se angaja într-o declarație",
+    "pronunciation": "/a afiˈrma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a afirma“ stammt vom lateinischen „affirmare“ (bestätigen, bejahen), zusammengesetzt aus „ad-“ (zu) und „firmare“ (stärken).",
+        "targetText": "Românescul „a afirma“ derivă din latină, de la „affirmare“ (a confirma), format din „ad-“ (către) și „firmare“ (a întări)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in Diskussionen oder Debatten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "behaupten als Tatsache",
+      "explanation": {
+        "sourceText": "Wenn etwas als gewiss angesehen wird.",
+        "targetText": "Când ceva este considerat cert."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich behaupte, das ist die Wahrheit.",
+          "targetText": "Eu afirm că aceasta este adevărul."
+        }
+      ]
+    },
+    {
+      "gloss": "eine Behauptung aufstellen",
+      "explanation": {
+        "sourceText": "Verwendung in der Alltagssprache.",
+        "targetText": "Folosit în limbajul cotidian pentru a face o afirmație."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie behauptet, dass es bald regnet.",
+          "targetText": "Ea afirmă că se va ploua în curând."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Argument",
+      "targetText": "argument"
+    },
+    {
+      "sourceText": "Aussage",
+      "targetText": "afirmație"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "părere"
+    },
+    {
+      "sourceText": "Überzeugung",
+      "targetText": "convingere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "leugnen",
+      "targetText": "a nega"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich behaupte, dass es stimmt.",
+      "targetText": "Eu afirm că este adevărat."
+    },
+    {
+      "sourceText": "Behauptest du das wirklich?",
+      "targetText": "Afirmi asta cu adevărat?"
+    },
+    {
+      "sourceText": "Er behauptet, unrecht zu haben.",
+      "targetText": "El afirmă că are dreptate."
+    },
+    {
+      "sourceText": "Wir behaupten, die Lösung zu kennen.",
+      "targetText": "Noi afirmăm că cunoaștem soluția."
+    },
+    {
+      "sourceText": "Behauptet ihr, das zu wissen?",
+      "targetText": "Afirmiți că știți asta?"
+    },
+    {
+      "sourceText": "Sie behaupten, die Wahrheit zu kennen.",
+      "targetText": "Ei afirmă că știu adevărul."
+    },
+    {
+      "sourceText": "Ich habe immer wieder betont, was ich behaupte.",
+      "targetText": "Am subliniat mereu ce afirm."
+    },
+    {
+      "sourceText": "Sie behauptete, das Buch gelesen zu haben.",
+      "targetText": "Ea afirma că a citit cartea."
+    },
+    {
+      "sourceText": "Ich werde behaupten, dass es so ist.",
+      "targetText": "Voi afirma că este așa."
+    },
+    {
+      "sourceText": "Ich würde behaupten, es wäre besser.",
+      "targetText": "Aș afirma că ar fi mai bine."
+    },
+    {
+      "sourceText": "Behaupte, was du willst!",
+      "targetText": "Afirmă ce vrei!"
+    },
+    {
+      "sourceText": "Die behauptete Theorie ist umstritten.",
+      "targetText": "Teoria afirmată este controversată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beachte die Endung der 2. Person Singular im „tu afirmi“ – das hilft dir, die Konjugation zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe, im Alltag verschiedene Aussagen zu behaupten, um das Wort sicher zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a afirma“ mit dem englischen „affirm“ – beide bedeuten bestätigen oder behaupten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

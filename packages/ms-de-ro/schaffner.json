@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-schaffner",
+  "parent": "ms-ro-conductor-d5f7f18a@2d5f160b7c17b3f1a47231992e0e9524",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schaffner",
+    "genus": "masculine",
+    "definition": "Person, die in öffentlichen Verkehrsmitteln Fahrkarten kontrolliert und verkauft oder in Zügen für Ordnung sorgt.",
+    "pronunciation": "/ˈʃafnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Schaffner“ stammt vom mittelhochdeutschen 'schaffenære' ab, abgeleitet von 'schaffen' im Sinne von 'arbeiten' oder 'verwalten'. Es bezeichnete ursprünglich jemanden, der Aufgaben oder Arbeiten übernimmt.",
+        "targetText": "Cuvântul german „Schaffner” provine din germana mijlocie 'schaffenære', derivat din 'schaffen' cu sensul de 'a munci' sau 'a administra'. Inițial desemna o persoană care prelua sarcini sau lucrări."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "conductor",
+    "genus": "masculine",
+    "definition": "Persoană care verifică și vinde bilete în mijloacele de transport public sau care asigură ordinea în trenuri.",
+    "pronunciation": "/konˈduktor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „conductor“ stammt aus dem Lateinischen 'conductor', was ursprünglich 'Mieter' oder 'Vermieter' bedeutete, später aber im Kontext von Transport und Leitung verwendet wurde.",
+        "targetText": "Cuvântul românesc „conductor” provine din latină, 'conductor', inițial însemnând 'chirias' sau 'locator', dar ulterior folosit în contextul transportului și conducerii."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrgast",
+      "targetText": "călător"
+    },
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Kontrolle",
+      "targetText": "control"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Schaffner kontrolliert die Fahrkarten im Zug.",
+      "targetText": "Conductorul verifică biletele în tren."
+    },
+    {
+      "sourceText": "Der Schaffner hilft den Fahrgästen beim Einsteigen.",
+      "targetText": "Conductorul ajută călătorii să urce în tren."
+    },
+    {
+      "sourceText": "Im Zug gibt es immer einen Schaffner.",
+      "targetText": "În tren există întotdeauna un conductor."
+    },
+    {
+      "sourceText": "Der Schaffner verkauft auch Fahrkarten.",
+      "targetText": "Conductorul vinde și bilete."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'conductor' klingt wie das englische 'conductor' (Dirigent), der auch 'leitet' – so leitet der Schaffner die Fahrt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Schaffner' enthält 'schaffen', was 'arbeiten' bedeutet – der Schaffner 'schafft' also seine Arbeit im Zug."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Schaffner' = jemand, der 'schafft' und 'ordnet', 'conductor' = jemand, der 'leitet' und 'kontrolliert' – beide haben mit Organisation zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Schaffner 'führt' die Fahrgäste durch die Zugfahrt – 'conductor' kommt von 'conducere', was 'führen' bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-stromrechnung",
+  "parent": "ms-ro-factura-la-curent-6647c0d6@4aeaf24327b87631677c1742ae464b96",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stromrechnung",
+    "genus": "feminine",
+    "definition": "Eine Rechnung, die den Verbrauch von elektrischem Strom und die dafür anfallenden Kosten dokumentiert.",
+    "pronunciation": "/ˈʃtʁoːmˌʁɛçnʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stromrechnung“ setzt sich aus „Strom“ (elektrischer Strom) und „Rechnung“ (Abrechnung, Faktura) zusammen. „Strom“ stammt vom mittelhochdeutschen 'strom' ab, das 'fließendes Wasser' bedeutete, übertragen auf elektrischen Strom.",
+        "targetText": "Cuvântul german „Stromrechnung” este compus din „Strom” (curent electric) și „Rechnung” (factură). „Strom” provine din germana medie înaltă 'strom', care însemna 'apă curgătoare', folosit metaforic pentru curentul electric."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "factură la curent",
+    "genus": "feminine",
+    "definition": "Document care arată consumul de energie electrică și costurile aferente.",
+    "pronunciation": "/fakˈtu.rə la kuˈrent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „factură la curent“ besteht aus „factură“ (Rechnung), entlehnt aus dem Lateinischen 'factura' mit der Bedeutung 'Herstellung, Rechnung', und „curent“ (Strom), das vom lateinischen 'currens' stammt, was 'fließend' bedeutet.",
+        "targetText": "Expresia românească „factură la curent” este formată din „factură” (factură), împrumutat din latină 'factura' cu sensul de 'realizare, factură', și „curent” (curent), derivat din latină 'currens', care înseamnă 'curgător'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Nominalphrase, gebräuchlich im Alltag."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Energieverbrauch",
+      "targetText": "consum de energie"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "Strom",
+      "targetText": "curent"
+    },
+    {
+      "sourceText": "Zählerstand",
+      "targetText": "contor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe die Stromrechnung für den letzten Monat bezahlt.",
+      "targetText": "Am plătit factura la curent pentru luna trecută."
+    },
+    {
+      "sourceText": "Die Stromrechnung ist diesen Monat höher als sonst.",
+      "targetText": "Factura la curent este luna aceasta mai mare decât de obicei."
+    },
+    {
+      "sourceText": "Bitte überprüfe deine Stromrechnung auf Fehler.",
+      "targetText": "Te rog să verifici factura la curent pentru eventuale greșeli."
+    },
+    {
+      "sourceText": "Die Stromrechnung kommt einmal im Monat.",
+      "targetText": "Factura la curent vine o dată pe lună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „curent“ klingt wie das englische „current“, was ebenfalls ‚Strom‘ oder ‚Strömung‘ bedeutet – so kannst du es leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das Wort „factură“ als eine Art „Faktur“ – ähnlich wie im Deutschen, aber mit einem weichen 't' am Ende."
+    },
+    {
+      "lang": "de",
+      "text": "Die Kombination „factură la curent“ ist eine feste Wortgruppe – lerne sie als Ganzes, um Verwechslungen mit anderen Rechnungen zu vermeiden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der „curent“ (Strom) durch dein Haus fließt und am Ende eine „factură“ (Rechnung) entsteht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

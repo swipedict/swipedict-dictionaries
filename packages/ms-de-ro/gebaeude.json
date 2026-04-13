@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gebaeude",
+  "parent": "ms-ro-cladire-cc3722af@111f87c23e18d181af8a2723c1e35664",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gebäude",
+    "genus": "neuter",
+    "definition": "Ein Bauwerk, das als Unterkunft oder für andere Zwecke dient.",
+    "pronunciation": "/ɡəˈbɔʏ̯də/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Gebäude“ stammt vom mittelhochdeutschen 'gebüede', abgeleitet von 'būen' (bauen), und bezeichnet etwas, das gebaut wurde.",
+        "targetText": "Cuvântul „Gebäude” provine din germana mijlocie 'gebüede', derivat din 'būen' (a construi), desemnând ceva construit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "clădire",
+    "genus": "feminine",
+    "definition": "O construcție folosită ca locuință sau pentru alte scopuri.",
+    "pronunciation": "/kləˈdi.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „clădire“ stammt vom lateinischen Verb 'claudere' (schließen, einschließen) ab, das die Idee eines abgeschlossenen Raumes vermittelt.",
+        "targetText": "Cuvântul românesc „clădire” derivă din verbul latin 'claudere' (a închide), sugerând ideea unui spațiu închis."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Architektur",
+      "targetText": "arhitectură"
+    },
+    {
+      "sourceText": "Bau",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Gebäude ist sehr alt.",
+      "targetText": "Clădirea este foarte veche."
+    },
+    {
+      "sourceText": "Wir betreten das Gebäude durch den Haupteingang.",
+      "targetText": "Intrăm în clădire prin intrarea principală."
+    },
+    {
+      "sourceText": "Das neue Gebäude hat viele Fenster.",
+      "targetText": "Clădirea nouă are multe ferestre."
+    },
+    {
+      "sourceText": "Das Gebäude wird renoviert.",
+      "targetText": "Clădirea este renovată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'claudere' bedeutet ‚schließen‘, also ist eine ‚clădire‘ ein abgeschlossener Raum – ein Gebäude."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „clădire“ erinnert an „klären“ (deutsch), stell dir vor, ein Gebäude ist ein klar abgegrenzter Raum."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ire', typisch für rumänische Substantive, die von Verben abgeleitet sind."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass ‚clădire‘ ein konkretes Objekt ist – ein Bauwerk, das man betreten kann."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

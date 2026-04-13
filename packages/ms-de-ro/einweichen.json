@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-einweichen",
+  "parent": "ms-ro-a-inmuia-a96ef14b@5aaa9a3fb2229976da0cfede348a06fc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einweichen",
+    "definition": "etwas in Flüssigkeit legen, damit es weicher oder größer wird",
+    "pronunciation": "/ˈaɪ̯nˌvaɪ̯xən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einweichen“ setzt sich aus „ein-“ und „weichen“ zusammen, wobei „weichen“ vom althochdeutschen „wīhhan“ stammt und „weich machen“ bedeutet. Es beschreibt das Einlegen in Flüssigkeit, um etwas weicher zu machen.",
+        "targetText": "Verbul german „einweichen“ este format din prefixul „ein-“ și verbul „weichen“, care provine din germana veche „wīhhan“ și înseamnă „a înmuia“. Exprimă procesul de a pune ceva în lichid pentru a-l înmuia."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet im Kontext des Kochens, um Zutaten vorzubereiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a înmuia",
+    "definition": "a pune ceva în lichid, pentru a deveni mai moale sau mai mare",
+    "pronunciation": "/a ɨnˈmuja/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a înmuia“ stammt vom lateinischen „molliare“ ab, was „weich machen“ bedeutet. Es beschreibt das Weichmachen durch Flüssigkeiten, besonders beim Kochen.",
+        "targetText": "Verbul românesc „a înmuia“ provine din latinescul „molliare“, care înseamnă „a înmuia“. Descrie procesul de a face ceva moale prin lichide, mai ales în gătit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wichtig in der Küche, besonders beim Vorbereiten von Gerichten, die eingeweichte Zutaten erfordern."
+  },
+  "senses": [
+    {
+      "gloss": "einweichen (im Wasser)",
+      "explanation": {
+        "sourceText": "Auch im Zusammenhang mit Wasser, um etwas weicher zu machen.",
+        "targetText": "De asemenea, în legătură cu apa, pentru a face ceva mai moale."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Nudeln müssen eingeweicht werden.",
+          "targetText": "Pastele trebuie înmuiate."
+        }
+      ]
+    },
+    {
+      "gloss": "einweichen (Lebensmittel)",
+      "explanation": {
+        "sourceText": "Bezieht sich speziell auf das Einweichen von Lebensmitteln.",
+        "targetText": "Se referă în special la înmuierea alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich weiche die Bohnen ein.",
+          "targetText": "Eu înmuiez fasolea."
+        },
+        {
+          "sourceText": "Ich habe die Erbsen eingeweicht.",
+          "targetText": "Am înmuiat mazărea."
+        }
+      ]
+    },
+    {
+      "gloss": "in Flüssigkeit legen",
+      "explanation": {
+        "sourceText": "Generelle Bedeutung des Einweichens, üblicherweise in Flüssigkeit.",
+        "targetText": "Sens general al înmuiatului, de obicei în lichid."
+      },
+      "examples": [
+        {
+          "sourceText": "Er weicht das Gemüse ein.",
+          "targetText": "El înmoaie legumele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Flüssigkeit",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "Nahrungsmittel",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    },
+    {
+      "sourceText": "Zubereiten",
+      "targetText": "preparare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich weiche die Bohnen ein.",
+      "targetText": "Eu înmuiez fasolea."
+    },
+    {
+      "sourceText": "Weichst du die Nudeln ein?",
+      "targetText": "Înmuiești pastele?"
+    },
+    {
+      "sourceText": "Er weicht das Gemüse ein.",
+      "targetText": "El înmoaie legumele."
+    },
+    {
+      "sourceText": "Wir weichen die Linsen ein.",
+      "targetText": "Noi înmuiem lintele."
+    },
+    {
+      "sourceText": "Weicht ihr die Mandeln ein?",
+      "targetText": "Înmuiați migdalele?"
+    },
+    {
+      "sourceText": "Sie weichen die Tomaten ein.",
+      "targetText": "Ei înmoaie roșiile."
+    },
+    {
+      "sourceText": "Ich habe die Erbsen eingeweicht.",
+      "targetText": "Am înmuiat mazărea."
+    },
+    {
+      "sourceText": "Sie haben die Nüsse einweichen lassen.",
+      "targetText": "Au înmuiat nucile."
+    },
+    {
+      "sourceText": "Er weichte das Brot für die Suppe ein.",
+      "targetText": "El înmuia pâinea pentru supă."
+    },
+    {
+      "sourceText": "Ich hatte die Bohnen schon eingeweicht, bevor ich begann zu kochen.",
+      "targetText": "Înmuiaisem deja fasolea înainte să încep să gătesc."
+    },
+    {
+      "sourceText": "Ich werde die Reis einweichen.",
+      "targetText": "Voi înmuia orezul."
+    },
+    {
+      "sourceText": "Sie werden die Linsen morgen einweichen.",
+      "targetText": "Ei o să înmoaie lințele mâine."
+    },
+    {
+      "sourceText": "Ich würde die Mandeln einweichen, wenn ich Zeit hätte.",
+      "targetText": "Aș înmuia migdalele dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du das Gemüse einweichst.",
+      "targetText": "Este important să înmoi legumele."
+    },
+    {
+      "sourceText": "Weiche die Kartoffeln ein!",
+      "targetText": "Înmoaie cartofii!"
+    },
+    {
+      "sourceText": "Weichen Sie die Bohnen ein!",
+      "targetText": "Înmuiați fasolea!"
+    },
+    {
+      "sourceText": "Die eingeweichten Linsen sind bereit zum Kochen.",
+      "targetText": "Lințele înmuiate sunt gata pentru gătit."
+    },
+    {
+      "sourceText": "Der Reis ist eingeweicht.",
+      "targetText": "Orezul este înmuiat."
+    },
+    {
+      "sourceText": "Während ich die Bohnen einweiche, bereite ich das Gemüse vor.",
+      "targetText": "Înmuind fasolea, pregătesc legumele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einweichen“ und „a înmuia“ sind eng verbunden – denk an das Weichmachen von Lebensmitteln durch Wasser."
+    },
+    {
+      "lang": "de",
+      "text": "Das „în-“ im Rumänischen hilft dir, das Hineinlegen in Flüssigkeit zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen „Energie-Ball“ vor, der beim Einweichen weich wird – so verknüpfst du Energie und Weichheit."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Formen: „Eu înmuiez“, „Eu am înmuiat“, „Eu voi înmuia“ – so bleibst du flexibel im Gebrauch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

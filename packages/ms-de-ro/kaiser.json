@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-kaiser",
+  "parent": "ms-ro-imparat-ed05026c@a76a18f260ad39f5f2b503155410952e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kaiser",
+    "genus": "masculine",
+    "definition": "Titel eines Monarchen, der über ein Kaiserreich herrscht; historisch ein Herrscher mit hoher Autorität, oft über mehrere Königreiche.",
+    "pronunciation": "/ˈkaɪ̯zɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kaiser“ geht auf das lateinische 'Caesar' zurück, ursprünglich der Name eines römischen Familiennamens, der später zum Titel für römische Kaiser wurde.",
+        "targetText": "Cuvântul german „Kaiser” provine de la latinescul 'Caesar', inițial un nume de familie roman, care a devenit ulterior titlul împăraților romani."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "împărat",
+    "genus": "masculine",
+    "definition": "Titlu al unui suveran care conduce un imperiu; conducător cu autoritate supremă, adesea peste mai multe regate.",
+    "pronunciation": "/ɨmpəˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „împărat“ stammt vom lateinischen 'imperator' ab, einem Ehrentitel für römische Feldherren und später für Kaiser.",
+        "targetText": "Cuvântul românesc „împărat” derivă din latinescul 'imperator', un titlu onorific pentru comandanții romani și ulterior pentru împărați."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dynastie",
+      "targetText": "dinastie"
+    },
+    {
+      "sourceText": "Herrscher",
+      "targetText": "conducător"
+    },
+    {
+      "sourceText": "König",
+      "targetText": "rege"
+    },
+    {
+      "sourceText": "Reich",
+      "targetText": "imperiu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Untertan",
+      "targetText": "supus"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kaiser regierte über ein großes Reich.",
+      "targetText": "Împăratul a domnit peste un imperiu mare."
+    },
+    {
+      "sourceText": "Im Mittelalter war der Kaiser eine der mächtigsten Figuren Europas.",
+      "targetText": "În Evul Mediu, împăratul era una dintre cele mai puternice figuri din Europa."
+    },
+    {
+      "sourceText": "Der Kaiser trug eine Krone als Zeichen seiner Macht.",
+      "targetText": "Împăratul purta o coroană ca semn al puterii sale."
+    },
+    {
+      "sourceText": "Viele Kaiser wurden in prunkvollen Zeremonien gekrönt.",
+      "targetText": "Mulți împărați au fost încoronați în ceremonii fastuoase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'împărat' klingt wie 'imparat' ohne Akzent – denk an einen Herrscher, der 'impară' (herrscht) über sein Reich."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Kaiser' erinnert an 'Caesar', den berühmten römischen Herrscher – so kannst du dir leicht merken, dass 'împărat' ein mächtiger Herrscher ist."
+    },
+    {
+      "lang": "de",
+      "text": "Der Anfang 'împă-' erinnert an 'imperium' (lateinisch für Reich), was dir hilft, die Bedeutung von 'împărat' als Herrscher eines Reiches zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Imperator' (lateinisch) herrscht über ein 'Imperium' – das hilft dir, 'împărat' mit 'imperiu' zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

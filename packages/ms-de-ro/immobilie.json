@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-immobilie",
+  "parent": "ms-ro-imobil-27b6494b@8f4c5619072984ccf73253371ddb4d92",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Immobilie",
+    "genus": "feminine",
+    "definition": "Ein unbewegliches Sachgut, insbesondere Grundstücke und Gebäude, die als Eigentum gelten.",
+    "pronunciation": "/ɪmoˈbiːli̯ə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Immobilie“ stammt vom lateinischen Adjektiv 'immobilis' ab, das sich aus 'in-' (nicht) und 'mobilis' (beweglich) zusammensetzt und 'unbeweglich' bedeutet.",
+        "targetText": "Cuvântul german „Immobilie” provine din adjectivul latin 'immobilis', format din 'in-' (nu) și 'mobilis' (mobil), însemnând 'nemișcat' sau 'imobil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "imobil",
+    "genus": "neuter",
+    "definition": "Un bun imobil, adică o proprietate fixă precum terenuri sau clădiri.",
+    "pronunciation": "/iˈmo.bil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „imobil“ stammt direkt vom lateinischen 'immobilis' ab, mit der Bedeutung 'unbeweglich' oder 'feststehend'.",
+        "targetText": "Cuvântul românesc „imobil” provine direct din latină, din 'immobilis', cu sensul de 'nemișcat' sau 'fix'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv neutru, Plural: imobile."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eigentum",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "Grundstück",
+      "targetText": "teren"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Miete",
+      "targetText": "chirii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bewegliches Gut",
+      "targetText": "bun mobil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Immobilie wurde vor fünf Jahren gekauft.",
+      "targetText": "Imobilul a fost cumpărat acum cinci ani."
+    },
+    {
+      "sourceText": "Er besitzt mehrere Immobilien in der Stadt.",
+      "targetText": "El deține mai multe imobile în oraș."
+    },
+    {
+      "sourceText": "Die Immobilie befindet sich in einer guten Lage.",
+      "targetText": "Imobilul se află într-o zonă bună."
+    },
+    {
+      "sourceText": "Wir suchen eine Immobilie zum Kauf.",
+      "targetText": "Căutăm un imobil de cumpărat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Präfix 'in-' bedeutet 'nicht', und 'mobilis' bedeutet 'beweglich' – so merkst du dir, dass ein 'imobil' etwas Unbewegliches ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „imobil“ klingt ähnlich wie das deutsche „Immobilie“ und beide stammen vom lateinischen 'immobilis' ab – denk an etwas, das nicht mobil ist."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen ist 'imobil' ein neutrales Substantiv, das du an der Endung '-il' erkennst – ähnlich wie viele andere neutrale Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein „imobil“ ist wie ein „Mobiltelefon“, nur dass es nicht mobil ist, sondern fest an einem Ort bleibt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

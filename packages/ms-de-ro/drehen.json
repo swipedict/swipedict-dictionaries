@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-drehen",
+  "parent": "ms-ro-a-intoarce-3ebbabd0@aa428064ec550374db579f32f243d20a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "drehen",
+    "definition": "eine Bewegung ausführen, bei der sich etwas um eine Achse bewegt",
+    "pronunciation": "/ˈdreːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom mittelhochdeutschen „drīhen“, was „drehen, wenden“ bedeutet, verwandt mit dem althochdeutschen „drīhan“.",
+        "targetText": "Cuvântul german „drehen“ provine din mijlocul german „drīhen“, care înseamnă „a roti“ sau „a întoarce“, fiind înrudit cu vechiul german „drīhan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Es wird oft in mechanischen und bildlichen Kontexten verwendet, wie das Drehen eines Schlüssels oder das Drehen von Bildern."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întoarce",
+    "definition": "a efectua o mișcare în care ceva se rotește în jurul unui ax",
+    "pronunciation": "/a ɨnˈto̯ar.tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kommt vom lateinischen „intervertere“, was „umdrehen, wenden“ bedeutet. Das Wort wird in verschiedenen Kontexten verwendet, vom Umdrehen von Objekten bis zum Wechseln von Perspektiven.",
+        "targetText": "Cuvântul românesc „a întoarce“ derivă din latinul „intervertere“, care înseamnă „a întoarce“ sau „a schimba direcția“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in alltäglichen Situationen verwendet, wie z.B. beim Umdrehen von Seiten in einem Buch."
+  },
+  "senses": [
+    {
+      "gloss": "Umdrehen",
+      "explanation": {
+        "sourceText": "Das bedeutet auch, einen Gegenstand umzukehren oder zu wenden.",
+        "targetText": "Înseamnă și a întoarce sau a răsturna un obiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich drehe die Flasche.",
+          "targetText": "Întorc sticla."
+        }
+      ]
+    },
+    {
+      "gloss": "Umkehren",
+      "explanation": {
+        "sourceText": "Das kann sich auch auf die Änderung der Richtung beziehen.",
+        "targetText": "Se poate referi și la schimbarea direcției."
+      },
+      "examples": [
+        {
+          "sourceText": "Er muss umdrehen.",
+          "targetText": "El trebuie să întoarcă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bewegung",
+      "targetText": "mișcare"
+    },
+    {
+      "sourceText": "Kreis",
+      "targetText": "cerc"
+    },
+    {
+      "sourceText": "Rotieren",
+      "targetText": "a roti"
+    },
+    {
+      "sourceText": "Wenden",
+      "targetText": "a întoarce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stillstehen",
+      "targetText": "a sta pe loc"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich drehe das Bild.",
+      "targetText": "Eu întorc imaginea."
+    },
+    {
+      "sourceText": "Drehst du die Schraube?",
+      "targetText": "Întorci șurubul?"
+    },
+    {
+      "sourceText": "Er dreht den Schlüssel.",
+      "targetText": "El întoarce cheia."
+    },
+    {
+      "sourceText": "Wir drehen die Flasche.",
+      "targetText": "Noi întoarcem sticla."
+    },
+    {
+      "sourceText": "Dreht ihr die Karte?",
+      "targetText": "Întoarceți cartea?"
+    },
+    {
+      "sourceText": "Sie drehen den Regler.",
+      "targetText": "Ei întorc regulatorul."
+    },
+    {
+      "sourceText": "Ich habe das Bild gedreht.",
+      "targetText": "Am întors imaginea."
+    },
+    {
+      "sourceText": "Ich werde die Seite morgen drehen.",
+      "targetText": "Voi întoarce pagina mâine."
+    },
+    {
+      "sourceText": "Dreh das Buch!",
+      "targetText": "Întoarce cartea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „drehen“ und das rumänische „întoarce“ bedeuten beide „umdrehen“ – stelle dir vor, wie du eine Seite im Buch umblätterst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „întoarce“ oft mit einem direkten Objekt benutzt wird: „întorc ceva“ (ich drehe etwas)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

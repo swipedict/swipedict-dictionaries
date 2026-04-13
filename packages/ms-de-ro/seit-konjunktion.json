@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-seit-konjunktion",
+  "parent": "ms-ro-de-cand-4939b92e@888fee617e3b02a0ddf73b51978ad7fe",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "seit",
+    "definition": "Eine Konjunktion, die einen Zeitpunkt in der Vergangenheit angibt, ab dem eine Handlung oder ein Zustand andauert.",
+    "pronunciation": "/zaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „seit“ stammt vom althochdeutschen 'sīt' ab, das auf das urgermanische *sītą zurückgeht und ursprünglich 'Zeit' bedeutete.",
+        "targetText": "Cuvântul german „seit” provine din vechiul german înalt 'sīt', derivat din proto-germanicul *sītą, care însemna inițial 'timp'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "de când",
+    "definition": "O conjuncție care indică momentul din trecut de la care o acțiune sau o stare continuă să existe.",
+    "pronunciation": "/de ˈkɨnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „de când“ besteht aus der Präposition 'de' (vom lateinischen 'de') und dem Adverb 'când', das vom lateinischen 'quando' abstammt.",
+        "targetText": "Expresia românească „de când” este formată din prepoziția 'de' (din latină 'de') și adverbul 'când', derivat din latinul 'quando'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bis",
+      "targetText": "până"
+    },
+    {
+      "sourceText": "nach",
+      "targetText": "după"
+    },
+    {
+      "sourceText": "seitdem",
+      "targetText": "de atunci"
+    },
+    {
+      "sourceText": "während",
+      "targetText": "în timp ce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bis",
+      "targetText": "până"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Seit ich hier wohne, lerne ich viel.",
+      "targetText": "De când locuiesc aici, învăț mult."
+    },
+    {
+      "sourceText": "Er arbeitet hier, seit er 18 ist.",
+      "targetText": "El lucrează aici de când are 18 ani."
+    },
+    {
+      "sourceText": "Seit dem Unfall fährt sie kein Auto mehr.",
+      "targetText": "De când a avut accidentul, nu mai conduce mașina."
+    },
+    {
+      "sourceText": "Seit wir uns kennen, sind wir Freunde.",
+      "targetText": "De când ne cunoaștem, suntem prieteni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'când' klingt wie 'kannst' ohne 's' – denk daran, dass es sich um einen Zeitpunkt handelt, also 'wann'."
+    },
+    {
+      "lang": "de",
+      "text": "Die rumänische Präposition 'de' ist sehr vielseitig, hier hilft sie, den Anfangspunkt einer Handlung zu markieren – ähnlich wie 'seit'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'seit' drückt Dauer ab einem Zeitpunkt aus, und 'de când' tut das genauso – beide verbinden Vergangenheit mit Gegenwart."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, 'de când' ist wie eine Uhr, die rückwärts bis zu einem bestimmten Zeitpunkt zeigt – genau wie 'seit' im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

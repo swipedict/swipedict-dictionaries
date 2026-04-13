@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-sonntag",
+  "parent": "ms-ro-duminica-e4bd9e5d@0e8d33a4c493482a3cdd6f063da2cf50",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sonntag",
+    "genus": "masculine",
+    "definition": "Der siebte Tag der Woche, traditionell ein Ruhetag und oft mit religiösen Aktivitäten verbunden.",
+    "pronunciation": "/ˈzɔn.taːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sonntag“ stammt vom althochdeutschen 'sunnuntag' ab, was 'Tag der Sonne' bedeutet, und wurde durch die christliche Tradition als Ruhetag übernommen.",
+        "targetText": "Cuvântul german „Sonntag” provine din vechiul german înalt 'sunnuntag', care înseamnă 'ziua soarelui', preluat în tradiția creștină ca zi de odihnă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "duminică",
+    "genus": "feminine",
+    "definition": "A șaptea zi a săptămânii, considerată zi de odihnă și adesea asociată cu activități religioase.",
+    "pronunciation": "/du.miˈni.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „duminică“ stammt vom lateinischen 'dominica (dies)' ab, was 'Tag des Herrn' bedeutet, eine Bezeichnung für den Sonntag in christlicher Tradition.",
+        "targetText": "Cuvântul românesc „duminică” provine din latinescul 'dominica (dies)', care înseamnă 'ziua Domnului', o denumire creștină pentru ziua de duminică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Feiertag",
+      "targetText": "sărbătoare"
+    },
+    {
+      "sourceText": "Ruhetag",
+      "targetText": "zi de odihnă"
+    },
+    {
+      "sourceText": "Samstag",
+      "targetText": "sâmbătă"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Werktag",
+      "targetText": "zi lucrătoare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Am Sonntag gehen viele Menschen in die Kirche.",
+      "targetText": "Duminică, mulți oameni merg la biserică."
+    },
+    {
+      "sourceText": "Sonntag ist oft ein freier Tag.",
+      "targetText": "Duminica este adesea o zi liberă."
+    },
+    {
+      "sourceText": "Wir treffen uns am Sonntag zum Mittagessen.",
+      "targetText": "Ne întâlnim duminică la prânz."
+    },
+    {
+      "sourceText": "Der Sonntag ist der letzte Tag der Woche.",
+      "targetText": "Duminica este ultima zi a săptămânii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Sonntag' erinnert an die Sonne, während das rumänische 'duminică' an den Herrn (Domnul) erinnert – zwei unterschiedliche Bedeutungen für denselben Tag."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „duminică“ klingt wie „Domnul“ (Herr) – denk daran, dass Sonntag der 'Tag des Herrn' ist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'duminică' vom lateinischen 'dominica' kommt, was 'Tag des Herrn' bedeutet – das hilft beim Verständnis der religiösen Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst am Sonntag 'Du minică' (du kleine) als Eselsbrücke, um das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

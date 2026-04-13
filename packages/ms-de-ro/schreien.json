@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-schreien",
+  "parent": "ms-ro-a-striga-a1034ba6@0dcaa058d3d54da8d7ddbf5662a68e74",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schreien",
+    "definition": "laut rufen oder einen lauten Ausdruck von Emotionen machen",
+    "pronunciation": "/ˈʃraɪ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ursprung könnte im mittelhochdeutschen „schrēien” liegen, was so viel wie „rufen” oder „schreien“ bedeutet.",
+        "targetText": "Originea cuvântului este în germana mijlocie „schrēien”, care înseamnă „a striga” sau „a țipa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein starkes, unregelmäßiges Verb, wird häufig für laute Ausdrucksformen verwendet, oft bei Emotionen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a striga",
+    "definition": "a chema cu voce tare sau a exprima emoții într-un mod zgomotos",
+    "pronunciation": "/a striˈɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb stammt vom lateinischen „stringere“ ab, das „ziehen“ oder „festhalten“ bedeutet, entwickelte sich über das Rumänische und ist eng verwandt mit Bedeutungen wie „rufen“ oder „schreien“.",
+        "targetText": "Verbul provine din latină, legat de „stringere“ (a trage), și a evoluat în română cu sensuri apropiate de „a striga“ sau „a chema cu voce tare“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft in emotionalen Kontexten oder in der Kommunikation verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Erregen",
+      "explanation": {
+        "sourceText": "Im übertragenen Sinne kann es auch Wut oder Aufregung beinhalten.",
+        "targetText": "Poate însemna și furie sau agitație în sens figurat."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Junge schreit um Hilfe.",
+          "targetText": "Băiatul strigă după ajutor."
+        }
+      ]
+    },
+    {
+      "gloss": "stark rufen",
+      "explanation": {
+        "sourceText": "Gebrauch im Sinne von laut emotionalem Überählen.",
+        "targetText": "Folosit pentru a exprima un strigăt puternic, adesea emoțional."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schreie vor Freude.",
+          "targetText": "Eu strig de bucurie."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Lachen",
+      "targetText": "a râde"
+    },
+    {
+      "sourceText": "Ruf",
+      "targetText": "apel"
+    },
+    {
+      "sourceText": "Stimme",
+      "targetText": "voce"
+    },
+    {
+      "sourceText": "Weinen",
+      "targetText": "a plânge"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "flüstern",
+      "targetText": "a șopti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schreie vor Freude.",
+      "targetText": "Eu strig de bucurie."
+    },
+    {
+      "sourceText": "Schreist du immer so laut?",
+      "targetText": "Strigi întotdeauna atât de tare?"
+    },
+    {
+      "sourceText": "Der Junge schreit um Hilfe.",
+      "targetText": "Băiatul strigă după ajutor."
+    },
+    {
+      "sourceText": "Wir schreien, wenn wir erschreckt werden.",
+      "targetText": "Noi strigăm când ne speriem."
+    },
+    {
+      "sourceText": "Schreit ihr zusammen?",
+      "targetText": "Strigați împreună?"
+    },
+    {
+      "sourceText": "Sie schreien die Namen der Spieler.",
+      "targetText": "Ei strigă numele jucătorilor."
+    },
+    {
+      "sourceText": "Ich habe laut geschrien.",
+      "targetText": "Am strigat tare."
+    },
+    {
+      "sourceText": "Er schrie in der Nacht.",
+      "targetText": "El striga noaptea."
+    },
+    {
+      "sourceText": "Ich werde im Park schreien.",
+      "targetText": "Voi striga în parc."
+    },
+    {
+      "sourceText": "Schrei nicht so laut!",
+      "targetText": "Nu striga atât de tare!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie jemand laut schreit, um Hilfe zu rufen – das hilft dir, „a striga“ mit lautem Rufen zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a striga“ mit dem deutschen Wort „strig“ (wie ein lauter Ruf) – so merkst du dir die Bedeutung „laut rufen“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

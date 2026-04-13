@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-da-konjunktion",
+  "parent": "ms-ro-ca-96007b21@43448b7b74dfadd1cf03a19fb53ca54d",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "da",
+    "definition": "Eine Konjunktion, die einen Grund oder eine Ursache angibt, ähnlich wie 'weil' oder 'da ja'.",
+    "pronunciation": "/da/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die deutsche Konjunktion „da“ stammt vom althochdeutschen 'dā' ab, das eine zeitliche oder kausale Bedeutung hatte.",
+        "targetText": "Conjuncția germană „da” provine din germana veche înaltă 'dā', având sens temporal sau cauzal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "că",
+    "definition": "Eine Konjunktion, die einen Grund oder eine Ursache angibt, entspricht dem deutschen 'da' oder 'weil'.",
+    "pronunciation": "/kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „că“ stammt vom lateinischen Demonstrativpronomen 'ecce' ab, das sich zu einer Konjunktion entwickelte.",
+        "targetText": "Cuvântul românesc „că” derivă din pronumele demonstrativ latin 'ecce', care a evoluat într-o conjuncție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dass",
+      "targetText": "că"
+    },
+    {
+      "sourceText": "obwohl",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "weil",
+      "targetText": "pentru că"
+    },
+    {
+      "sourceText": "wenn",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Da es regnet, bleiben wir zu Hause.",
+      "targetText": "Că plouă, stăm acasă."
+    },
+    {
+      "sourceText": "Ich kann nicht kommen, da ich krank bin.",
+      "targetText": "Nu pot veni, că sunt bolnav."
+    },
+    {
+      "sourceText": "Da er müde war, ging er früh ins Bett.",
+      "targetText": "Că era obosit, s-a culcat devreme."
+    },
+    {
+      "sourceText": "Da du gefragt hast, antworte ich dir.",
+      "targetText": "Că ai întrebat, îți răspund."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „da“ und das rumänische „că“ sind beide kleine Wörter, die große Verbindungen zwischen Sätzen schaffen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „că“ klingt kurz und einfach – denk daran, dass es oft Gründe oder Ursachen einleitet, genau wie das deutsche „da“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „că“ ist die häufigste rumänische Konjunktion für Gründe, ähnlich wie „weil“ oder „da“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst 'Käse' und denkst dabei an 'că' – so merkst du dir die rumänische Konjunktion leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

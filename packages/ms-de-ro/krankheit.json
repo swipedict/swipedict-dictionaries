@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-krankheit",
+  "parent": "ms-ro-boala-5fc1e063@73b6529aa2936afe793cb7f53b857e9d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Krankheit",
+    "genus": "feminine",
+    "definition": "ein Zustand, in dem der Körper oder Geist nicht normal funktioniert",
+    "pronunciation": "/ˈkraŋkhaɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Krankheit“ setzt sich aus „krank“ und dem mittelalterlichen „heit“ zusammen und beschreibt den Zustand des Krankseins oder eine gesundheitliche Beeinträchtigung.",
+        "targetText": "Substantivul german „Krankheit“ este compus din „krank“ și sufixul „-heit“, indicând starea de boală sau afecțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird in medizinischen und psychologischen Kontexten häufig verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "boală",
+    "genus": "feminine",
+    "definition": "o stare în care corpul sau mintea nu funcționează normal",
+    "pronunciation": "/ˈbo.a.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „boală“ entstammt offenbar dem slawischen „boleně“ und bezeichnet eine Krankheit oder Störung der Gesundheit.",
+        "targetText": "Cuvântul românesc „boală“ provine probabil din slavona „boleně“ și desemnează o afecțiune a sănătății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig im medizinischen Bereich verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Krankheit (medizinisch)",
+      "explanation": {
+        "sourceText": "Verwendet im medizinischen Kontext für spezifische Krankheiten.",
+        "targetText": "Folosit în context medical pentru boli specifice."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Ärzte können viele Krankheiten diagnostizieren.",
+          "targetText": "Medicii pot diagnostica multe boli."
+        }
+      ]
+    },
+    {
+      "gloss": "Krankheit (Zustand)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: bezeichnet allgemein den Zustand des Krankseins.",
+        "targetText": "Ca și în germană: starea generală de a fi bolnav."
+      },
+      "examples": [
+        {
+          "sourceText": "Eine schwere Krankheit kann das Leben stark beeinflussen.",
+          "targetText": "O boală gravă poate influența puternic viața."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Behandlung",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Symptom",
+      "targetText": "simptom"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Krankheit ist ansteckend.",
+      "targetText": "Boala este contagioasă."
+    },
+    {
+      "sourceText": "Es gibt viele Krankheiten, die behandelt werden können.",
+      "targetText": "Există multe boli care pot fi tratate."
+    },
+    {
+      "sourceText": "Seine Krankheit war schwerwiegend.",
+      "targetText": "Boala lui a fost gravă."
+    },
+    {
+      "sourceText": "Sie leidet an einer chronischen Krankheit.",
+      "targetText": "Ea suferă de o boală cronică."
+    },
+    {
+      "sourceText": "Die Ärzte untersuchen die Krankheit.",
+      "targetText": "Doctorii examinează boala."
+    },
+    {
+      "sourceText": "Die Krankheit kann viele Ursachen haben.",
+      "targetText": "Boala poate avea multe cauze."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Lerne verschiedene Krankheiten auf Rumänisch, um das Wort „boală“ besser zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Schreibe „boală“ und „Krankheit“ zusammen auf – so verknüpfst du die Bedeutungen besser."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du bist ein „Heiler“ und hast die Kontrolle über die „boală“!"
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „boală“ sagst, stelle dir vor, du behandelst Patienten – das macht das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-jedoch",
+  "parent": "ms-ro-insa-c8b674b2@9e85130c52e0dcfca80451745369433f",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jedoch",
+    "definition": "drückt einen Gegensatz oder eine Einschränkung aus",
+    "pronunciation": "/jeˈdɔx/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „jedoch“ ist eine Zusammensetzung aus „jed“ (jeder) und „och“ (auch) und dient dazu, einen Gegensatz zu betonen.",
+        "targetText": "Das Wort „jedoch“ entstand aus der Verbindung von „jed“ (jeder) und „och“ (auch) und drückt einen Gegensatz aus."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet man häufig in formellen oder literarischen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "însă",
+    "genus": "adverb",
+    "definition": "exprimă un contrast sau o restricție",
+    "pronunciation": "/ˈɨn.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Însă“ ist ein rumänisches Wort, das als Konjunktion verwendet wird, um einen Gegensatz oder eine Einschränkung auszudrücken.",
+        "targetText": "„Însă“ este un cuvânt românesc folosit ca conjuncție pentru a exprima un contrast sau o restricție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Kann leicht mit „dar“ verwechselt werden, das ebenfalls „aber“ bedeutet, aber in anderem Kontext verwendet wird."
+  },
+  "senses": [
+    {
+      "gloss": "aber",
+      "explanation": {
+        "sourceText": "'Însă' ist eine häufige Konjunktion in Rumänisch, die wie 'aber' verwendet wird.",
+        "targetText": "'Însă' este o conjuncție frecventă în română, folosită ca echivalent pentru „aber“."
+      },
+      "examples": [
+        {
+          "sourceText": "Das ist teuer, jedoch wertvoll.",
+          "targetText": "Este scump, însă valorează."
+        }
+      ]
+    },
+    {
+      "gloss": "trotzdem",
+      "explanation": {
+        "sourceText": "'Însă' kann auch den Sinn von 'trotzdem' haben.",
+        "targetText": "'Însă' poate avea și sensul de „trotzdem“."
+      },
+      "examples": [
+        {
+          "sourceText": "Es wird regnen, jedoch gehe ich ins Freie.",
+          "targetText": "Va ploua, însă ies afară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "dennoch",
+      "targetText": "cu toate acestea"
+    },
+    {
+      "sourceText": "hingegen",
+      "targetText": "pe de altă parte"
+    },
+    {
+      "sourceText": "schließlich",
+      "targetText": "în cele din urmă"
+    },
+    {
+      "sourceText": "trotzdem",
+      "targetText": "cu toate acestea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aber",
+      "targetText": "dar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wollte gehen, jedoch blieb ich hier.",
+      "targetText": "Vroiam să plec, însă am rămas aici."
+    },
+    {
+      "sourceText": "Er hat es nicht verstanden, jedoch hat er eine gute Idee.",
+      "targetText": "Nu a înțeles, însă are o idee bună."
+    },
+    {
+      "sourceText": "Die Ergebnisse sind klar, jedoch gibt es noch Fragen.",
+      "targetText": "Rezultatele sunt clare, însă mai sunt întrebări."
+    },
+    {
+      "sourceText": "Die Lösung ist einfach, jedoch schwer zu erklären.",
+      "targetText": "Soluția este simplă, însă greu de explicat."
+    },
+    {
+      "sourceText": "Ich war krank, jedoch habe ich mein Bestes gegeben.",
+      "targetText": "Am fost bolnav, însă am dat tot ce am putut."
+    },
+    {
+      "sourceText": "Das Angebot war verlockend, jedoch habe ich abgelehnt.",
+      "targetText": "Ofertele erau tentante, însă am refuzat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Însă“ ist ein starkes „aber“ im Rumänischen – denke an Drama und Widerspruch."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „jedoch“ in formellen Situationen, um deinen Wortschatz zu erweitern und Eindruck zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir „jedoch“ als Hut vor, der signalisiert, dass etwas anders läuft – ein Hinweis im Gespräch."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „jedoch“ mit „jedem“ und merke dir: „Jedermanns Geduld endet, jedoch nicht heute.“"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

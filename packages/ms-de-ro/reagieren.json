@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-reagieren",
+  "parent": "ms-ro-a-reactiona-8321010d@c6f12383a5a1f2b1ef8c93f0c4860d41",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "reagieren",
+    "definition": "auf etwas antworten oder angemessen handeln",
+    "pronunciation": "/ʁe.aˈɡiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „reagerer“, was „zurückdrängen“ oder „antworten“ bedeutet. Es ist ein Verb, das in vielen wissenschaftlichen und technischen Kontexten verwendet wird.",
+        "targetText": "Verbul german „reagieren“ provine din latină „reagere“, care înseamnă a răspunde sau a reacționa."
+      },
+      "source": "AI"
+    },
+    "additional": "Wird oft in der Naturwissenschaft und in der Psychologie verwendet, wenn es um Reaktionen auf Stimuli geht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reacționa",
+    "definition": "a răspunde la ceva sau a acționa corespunzător",
+    "pronunciation": "/a re.ak.t͡siˈo.na/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Begriff „reacționa“ stammt vom lateinischen „reactio“ ab, was „Widerstand“ oder „Antwort“ bedeutet. Das Wort hat sich im Laufe der Zeit entwickelt, um die Bedeutung des Antwortens auf Reize zu repräsentieren.",
+        "targetText": "Cuvântul românesc „a reacționa“ derivă din latină „reactio“, care înseamnă răspuns sau reacție la un stimul."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Häufig in der Psychologie oder Physiologie verwendet, um die Reaktion auf externe Stimuli oder eigene Emotionen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "angemessen handeln",
+      "explanation": {
+        "sourceText": "Die Handlung erfolgt in einer angemessenen Weise als Reaktion auf etwas.",
+        "targetText": "Acțiunea este adecvată ca răspuns la ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Reagierst du angemessen?",
+          "targetText": "Reacționezi corespunzător?"
+        }
+      ]
+    },
+    {
+      "gloss": "auf etwas antworten",
+      "explanation": {
+        "sourceText": "'A reacționa' se referă la a răspunde unei situații sau stimuli.",
+        "targetText": "„A reacționa“ înseamnă a răspunde unei situații sau unui stimul."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich reagiere auf die Situation.",
+          "targetText": "Eu reacționez la situație."
+        }
+      ]
+    },
+    {
+      "gloss": "eine spontane Reaktion zeigen",
+      "explanation": {
+        "sourceText": "Reagieren oft ohne bewusstes Nachdenken.",
+        "targetText": "Reacționează adesea fără să gândească conștient."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie reagiert instinktiv.",
+          "targetText": "Ea reacționează instinctiv."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "antworten",
+      "targetText": "a răspunde"
+    },
+    {
+      "sourceText": "handeln",
+      "targetText": "a acționa"
+    },
+    {
+      "sourceText": "Reaktion",
+      "targetText": "reacție"
+    },
+    {
+      "sourceText": "Stimulus",
+      "targetText": "stimul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignorieren",
+      "targetText": "a ignora"
+    },
+    {
+      "sourceText": "verdrängen",
+      "targetText": "a reprima"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich reagiere auf die Situation.",
+      "targetText": "Eu reacționez la situație."
+    },
+    {
+      "sourceText": "Reagierst du angemessen?",
+      "targetText": "Reacționezi corespunzător?"
+    },
+    {
+      "sourceText": "Sie reagiert instinktiv.",
+      "targetText": "Ea reacționează instinctiv."
+    },
+    {
+      "sourceText": "Wir reagieren alle unterschiedlich.",
+      "targetText": "Noi reacționăm diferit."
+    },
+    {
+      "sourceText": "Reagiert ihr schnell?",
+      "targetText": "Reacționați rapid?"
+    },
+    {
+      "sourceText": "Die Schüler reagieren positiv.",
+      "targetText": "Elevii reacționează pozitiv."
+    },
+    {
+      "sourceText": "Ich habe angemessen reagiert.",
+      "targetText": "Am reacționat corespunzător."
+    },
+    {
+      "sourceText": "Sie haben gut reagiert.",
+      "targetText": "Ei au reacționat bine."
+    },
+    {
+      "sourceText": "Er reagierte oft spontan.",
+      "targetText": "El reacționa frecvent spontan."
+    },
+    {
+      "sourceText": "Ich hatte schnell reagiert.",
+      "targetText": "Reacționasem rapid."
+    },
+    {
+      "sourceText": "Ich werde auf die Änderung reagieren.",
+      "targetText": "Voi reacționa la schimbare."
+    },
+    {
+      "sourceText": "Sie werden positiv reagieren.",
+      "targetText": "Ea o să reacționeze pozitiv."
+    },
+    {
+      "sourceText": "Ich würde reagieren, wenn ich die Infos hätte.",
+      "targetText": "Aș reacționa dacă aș avea informațiile."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du reagierst.",
+      "targetText": "Este important să reacționezi."
+    },
+    {
+      "sourceText": "Reagiere schnell!",
+      "targetText": "Reacționează repede!"
+    },
+    {
+      "sourceText": "Reagiert auf die Fragen!",
+      "targetText": "Reacționați la întrebări!"
+    },
+    {
+      "sourceText": "Die reagierende Gruppe ist wichtig.",
+      "targetText": "Grupul reacționând este important."
+    },
+    {
+      "sourceText": "Die Antworten sind gegeben worden.",
+      "targetText": "Răspunsurile au fost date."
+    },
+    {
+      "sourceText": "Indem ich reagierte, fiel die Lösung ein.",
+      "targetText": "Reacționând, a venit soluția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das typische rumänische Verb-Endung „-a“ zeigt dir, dass „a reacționa“ ein Verb ist – viele Verben enden so."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „reacționa“ klingt wie „Reaktion“ – verbinde es mit dem Antworten auf Situationen oder Emotionen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an verschiedene Reaktionen – positiv, negativ oder spontan – um das Wort im Kontext zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du musst schnell auf etwas reagieren – so merkst du dir „a reacționa“ gut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

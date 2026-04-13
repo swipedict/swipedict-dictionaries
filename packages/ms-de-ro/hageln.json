@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-hageln",
+  "parent": "ms-ro-a-cadea-grindina-31375777@f781cc1a39c19e43bf77e06b55c3bca8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hageln",
+    "definition": "eine Form von Niederschlag, bei der Eisstücke vom Himmel fallen",
+    "pronunciation": "/ˈhaːɡl̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „hageln“ stammt vom mittelhochdeutschen „hagel“ ab, das auf das althochdeutsche „hagel“ für „Hagel“ zurückgeht.",
+        "targetText": "Verbul german „hageln“ provine din mijlocul german „hagel“, derivat din vechiul german „hagel“, care înseamnă „grindină“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird verwendet, um die meteorologische Erscheinung von Hagel zu beschreiben, die in der Regel bei Gewittern auftritt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cădea grindină",
+    "definition": "o formă de precipitații în care bucăți de gheață cad din cer",
+    "pronunciation": "/a kəˈdea ɡrinˈdinə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „grindină“ stammt vom lateinischen „grandināre“ ab, was „Hagel“ bedeutet. Das Verb „a cădea“ bedeutet „fallen“.",
+        "targetText": "Cuvântul românesc „grindină“ provine din latină „grandināre“, iar verbul „a cădea“ înseamnă „a cădea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft im Kontext von Wetterphänomenen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "eine spezielle Form von Niederschlag",
+      "explanation": {
+        "sourceText": "Hagel stellt eine spezielle Art der Niederschläge dar.",
+        "targetText": "Grindina este o formă specială de precipitații."
+      },
+      "examples": [
+        {
+          "sourceText": "Es wird morgen hageln.",
+          "targetText": "Voi ploua grindină mâine."
+        }
+      ]
+    },
+    {
+      "gloss": "Hagel",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für das Wetterphänomen.",
+        "targetText": "Ca în germană, pentru fenomenul meteorologic."
+      },
+      "examples": [
+        {
+          "sourceText": "Es hagelt stark.",
+          "targetText": "Este o grindină puternică."
+        },
+        {
+          "sourceText": "Es hat heute den ganzen Tag gehagelt.",
+          "targetText": "A plouat grindină toată ziua."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "Schnee",
+      "targetText": "zăpadă"
+    },
+    {
+      "sourceText": "Sturm",
+      "targetText": "furtună"
+    },
+    {
+      "sourceText": "Wetter",
+      "targetText": "vreme"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "scheinen",
+      "targetText": "a străluci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es hagelt stark.",
+      "targetText": "Este o grindină puternică."
+    },
+    {
+      "sourceText": "Es hat heute den ganzen Tag gehagelt.",
+      "targetText": "A plouat grindină toată ziua."
+    },
+    {
+      "sourceText": "Es wird morgen hageln.",
+      "targetText": "Voi ploua grindină mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an das Geräusch von Hagelkörnern auf dem Dach, um dir das rumänische Wort „grindină“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit verschiedenen Wetterbedingungen, z.B. „Voi ploua grindină mâine“ – so lernst du das Wort in Kontext."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

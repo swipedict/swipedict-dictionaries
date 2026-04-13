@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-donner",
+  "parent": "ms-ro-tunet-9b3a2d51@d70d3ac6b2ed70c7982a195be2dfebae",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Donner",
+    "genus": "masculine",
+    "definition": "Das laute Geräusch, das bei einem Gewitter entsteht.",
+    "pronunciation": "/ˈdɔnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort ‚Donner‘ stammt vom althochdeutschen ‚donar‘ ab, das ‚Donnern‘ oder ‚Lärm machen‘ bedeutet, verwandt mit dem germanischen Donnergott Thor.",
+        "targetText": "Cuvântul „Donner“ provine din germana veche înaltă „donar“, care înseamnă „a tună“ sau „a face zgomot“, legat de zeul germanic al tunetului Thor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tunet",
+    "genus": "neuter",
+    "definition": "Sunetul puternic care apare în timpul unei furtuni.",
+    "pronunciation": "/tuˈnet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚tunet‘ stammt vom lateinischen ‚tonare‘ ab, was ‚donnern‘ bedeutet.",
+        "targetText": "Cuvântul românesc „tunet“ provine din latină „tonare“, care înseamnă „a tuna“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Blitz",
+      "targetText": "fulger"
+    },
+    {
+      "sourceText": "Gewitter",
+      "targetText": "furtună"
+    },
+    {
+      "sourceText": "Regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "Wolke",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Donner war sehr laut.",
+      "targetText": "Tunetul a fost foarte puternic."
+    },
+    {
+      "sourceText": "Man hörte den Donner nach dem Blitz.",
+      "targetText": "Se auzea tunetul după fulger."
+    },
+    {
+      "sourceText": "Der Donner kündigt ein Gewitter an.",
+      "targetText": "Tunetul anunță o furtună."
+    },
+    {
+      "sourceText": "Kinder haben Angst vor Donner.",
+      "targetText": "Copiii se tem de tunet."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚tunet‘ klingt wie ‚tonare‘ (lateinisch für ‚donnern‘) – denk an den lauten Klang des Donners."
+    },
+    {
+      "lang": "de",
+      "text": "Der deutsche ‚Donner‘ ist mit dem germanischen Donnergott Thor verbunden – das hilft, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der Himmel ‚tönt‘ (klingt) laut – das erinnert an ‚tunet‘."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde ‚tunet‘ mit ‚Ton‘, der Klang, um dir das Wort leichter zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-dringen",
+  "parent": "ms-ro-a-patrunde-f3a67f1e@79c75ee96649151f2ecf77a57a8f6d9e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dringen",
+    "definition": "eine Kraft oder einen Druck ausüben, um in etwas einzudringen oder etwas zu erreichen",
+    "pronunciation": "/ˈdʁɪŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom althochdeutschen „dringan“, was „dränken, einbrechen“ bedeutet.",
+        "targetText": "Cuvântul german „dringen“ provine din vechiul german „dringan“, care înseamnă „a pătrunde“ sau „a apăsa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft in Bezug auf das Eindringen in eine Gruppe oder einen Ort verwendet, sowohl physisch als auch metaphorisch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pătrunde",
+    "definition": "a aplica o forță sau o presiune pentru a intra în ceva sau a obține ceva",
+    "pronunciation": "/a pəˈtrundɛ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich ab vom lateinischen „patrundere“, was „eindringen, durchdringen“ bedeutet und verwandt ist mit dem französischen „pénétrer“ und dem italienischen „penetrarе“.",
+        "targetText": "Cuvântul românesc „a pătrunde“ derivă din latinul „patrundere“, înrudit cu francezul „pénétrer“ și italianul „penetrarе“, însemnând „a pătrunde“ sau „a străbate“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um den Prozess des Eindringens in einen Raum oder in Informationen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Dringendes Eindringen",
+      "explanation": {
+        "sourceText": "Im Sinne von dringend eintreten.",
+        "targetText": "În sensul de a intra urgent."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich dringe in das Thema ein.",
+          "targetText": "Eu pătrund în subiect."
+        }
+      ]
+    },
+    {
+      "gloss": "Sich durchsetzen",
+      "explanation": {
+        "sourceText": "Eindringen in eine Diskussion oder Meinungsbildung.",
+        "targetText": "A se impune într-o discuție sau dezbatere."
+      },
+      "examples": [
+        {
+          "sourceText": "Er dringt argumentativ in die Diskussion ein.",
+          "targetText": "El pătrunde argumentativ în discuție."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Druck",
+      "targetText": "presiune"
+    },
+    {
+      "sourceText": "Menge",
+      "targetText": "cantitate"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "obiectiv"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "weichen",
+      "targetText": "a ceda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich dringe in die Gruppe ein.",
+      "targetText": "Eu pătrund în grup."
+    },
+    {
+      "sourceText": "Dringst du in das Zimmer?",
+      "targetText": "Pătrunzi în cameră?"
+    },
+    {
+      "sourceText": "Er dringt in die Diskussion ein.",
+      "targetText": "El pătrunde în discuție."
+    },
+    {
+      "sourceText": "Wir dringen in die Ermittlungen ein.",
+      "targetText": "Noi pătrundem în anchete."
+    },
+    {
+      "sourceText": "Dringt ihr in neue Themen ein?",
+      "targetText": "Pătrundeți în subiecte noi?"
+    },
+    {
+      "sourceText": "Sie dringen in die Stadt vor.",
+      "targetText": "Ei pătrund în oraș."
+    },
+    {
+      "sourceText": "Ich bin in die Gruppe eingedrungen.",
+      "targetText": "Am pătruns în grup."
+    },
+    {
+      "sourceText": "Ich werde in das Projekt eindringen.",
+      "targetText": "Voi pătrunde în proiect."
+    },
+    {
+      "sourceText": "Dringe in die Diskussion!",
+      "targetText": "Pătrunde în discuție!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „dringen“ und das rumänische „pătrunde“ drücken beide das Eindringen aus – stelle dir vor, wie du durch eine Tür gehst, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „pătrunde“ oft mit „în“ (in) benutzt wird: „pătrund în ceva“ – so kannst du die Verwendung besser verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

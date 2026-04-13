@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-grundstueck",
+  "parent": "ms-ro-teren-237dd9a0@f0ec669a08837be22363602fa448632d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Grundstück",
+    "genus": "neuter",
+    "definition": "Ein abgegrenztes Stück Land, das im Besitz einer Person oder Organisation ist, oft bebaut oder für Bauzwecke vorgesehen.",
+    "pronunciation": "/ˈɡʁʊntʃtʏk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Grundstück“ setzt sich aus 'Grund' (vom althochdeutschen 'grunt', was 'Boden' oder 'Erde' bedeutet) und 'Stück' zusammen und bezeichnet ein abgegrenztes Landstück.",
+        "targetText": "Cuvântul german „Grundstück” este compus din „Grund” (din vechiul german înalt 'grunt', însemnând 'pământ' sau 'sol') și „Stück” și desemnează o parcelă delimitată de teren."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "teren",
+    "genus": "neuter",
+    "definition": "O parcelă delimitată de pământ, de obicei proprietate privată, folosită pentru construcții sau alte scopuri.",
+    "pronunciation": "/teˈren/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „teren“ stammt vom lateinischen 'terrenum' ab, das 'Landstück' oder 'Grundstück' bedeutet und auf 'terra' (Erde) zurückgeht.",
+        "targetText": "Cuvântul românesc „teren” provine din latinescul 'terrenum', care înseamnă 'parcelă de pământ' sau 'teren', derivat din 'terra' (pământ)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eigentum",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "Grund",
+      "targetText": "pământ"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Immobilie",
+      "targetText": "imobil"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Grundstück liegt am Stadtrand.",
+      "targetText": "Terenul se află la marginea orașului."
+    },
+    {
+      "sourceText": "Er hat ein großes Grundstück gekauft.",
+      "targetText": "El a cumpărat un teren mare."
+    },
+    {
+      "sourceText": "Auf dem Grundstück steht ein altes Haus.",
+      "targetText": "Pe teren se află o casă veche."
+    },
+    {
+      "sourceText": "Das Grundstück ist eingezäunt.",
+      "targetText": "Terenul este împrejmuit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Grundstück' besteht aus 'Grund' und 'Stück' – ein Stück Land. Im Rumänischen ist 'teren' kürzer, aber vom lateinischen 'terra' (Erde) abgeleitet."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'teren' klingt ähnlich wie das englische 'terrain', was dir hilft, es mit Land oder Grundstück zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Teren' endet wie 'Bergen' (Berge), aber es bedeutet Land, nicht Berge. So kannst du es als 'Landstück' im Kopf behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast ein 'Terrarium' – ein abgegrenzter Bereich mit Erde. 'Teren' bedeutet ähnlich einen abgegrenzten Landstreifen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

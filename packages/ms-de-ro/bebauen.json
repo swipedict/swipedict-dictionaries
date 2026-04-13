@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-bebauen",
+  "parent": "ms-ro-a-baga-30cb7f27@cb5fb64712871026ca48d563d4d327c6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bebauen",
+    "definition": "ein Gebiet mit Pflanzen, Gebäuden oder ähnlichem besiedeln oder kultivieren",
+    "pronunciation": "/beˈbaʊ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort stammt von den mittelhochdeutschen Wurzeln \"bua\" (bauen) und \"bōw\" (zumauen) ab.",
+        "targetText": "Cuvântul provine din germana mijlocie, de la rădăcinile „bua“ (a construi) și „bōw“ (a închide cu zid)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bebauen wird häufig im Zusammenhang mit landwirtschaftlichen Flächen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a băga",
+    "definition": "a popula sau a cultiva o zonă cu plante, clădiri sau alte lucruri",
+    "pronunciation": "/a bəˈɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a băga“ stammt vom lateinischen „inserere“ ab, was „hineinlegen“ bedeutet. Es wird im Sinne von „etwas hineinbringen“ oder „anbauen“ verwendet.",
+        "targetText": "Verbul românesc „a băga“ derivă din latină, din verbul „inserere“ care înseamnă „a introduce“ sau „a pune înăuntru“, folosit pentru a desemna cultivarea sau popularea unei zone."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Üblicherweise wird es im Zusammenhang mit dem Anbau von Pflanzen verwendet, ist aber auch im übertragenen Sinne gebräuchlich."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Acker",
+      "targetText": "ogor"
+    },
+    {
+      "sourceText": "Bau",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "Landwirtschaft",
+      "targetText": "agricultură"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlassen",
+      "targetText": "a părăsi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bebau die Felder mit Mais.",
+      "targetText": "Eu bag terenul cu porumb."
+    },
+    {
+      "sourceText": "Er baut den Garten jedes Jahr um.",
+      "targetText": "El bagă grădina în fiecare an."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a băga“ klingt wie „etwas hineinlegen“ – stell dir vor, du „legst“ Pflanzen in den Boden, um ihn zu bebauen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „bebauen“ mit „bauen“ und „băga“ mit „hineinlegen“ – so merkst du dir, dass es um das „Einbringen“ in ein Gebiet geht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

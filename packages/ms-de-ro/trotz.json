@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-trotz",
+  "parent": "ms-ro-in-ciuda-deff3a76@e0e2ec476e4dad7ed5adc718d1430e48",
+  "part_of_speech": "preposition",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "trotz",
+    "genus": "masculine",
+    "definition": "Eine Präposition, die einen Gegensatz oder eine Einschränkung ausdrückt, ähnlich wie 'ungeachtet' oder 'obwohl'.",
+    "pronunciation": "/tʁɔts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „trotz“ stammt vom althochdeutschen 'trozz' ab, das eine Bedeutung von 'Widerstand' oder 'Gegenwehr' hatte und auf eine urgermanische Wurzel *trut- zurückgeht, die mit dem Konzept des Widerstehens verbunden ist.",
+        "targetText": "Cuvântul german „trotz” provine din vechiul german înalt 'trozz', care însemna 'rezistență' sau 'opunere', având rădăcini în proto-germanicul *trut-, legat de ideea de a rezista."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în ciuda",
+    "genus": "neuter",
+    "definition": "O prepoziție care exprimă opoziție sau concesie, echivalentă cu 'deși' sau 'neținând cont de'.",
+    "pronunciation": "/ɨn ˈt͡ʃi.u.da/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „în ciuda“ setzt sich aus der Präposition 'în' (in) und dem Substantiv 'ciudă' (Groll, Ärger) zusammen, das vom lateinischen 'custodia' (Wache, Obhut) abstammt und im Laufe der Zeit die Bedeutung von 'Groll' angenommen hat.",
+        "targetText": "Expresia românească „în ciuda” este formată din prepoziția 'în' și substantivul 'ciudă' (supărare, ranchiună), care derivă din latinul 'custodia' (pază, supraveghere) și a căpătat sensul de 'ranchiună' în timp."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "obwohl",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "trotzdem",
+      "targetText": "totuși"
+    },
+    {
+      "sourceText": "ungeachtet",
+      "targetText": "neținând cont de"
+    },
+    {
+      "sourceText": "Widerstand",
+      "targetText": "rezistență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wegen",
+      "targetText": "din cauza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Trotz des Regens gingen wir spazieren.",
+      "targetText": "În ciuda ploii, am mers la plimbare."
+    },
+    {
+      "sourceText": "Er hat es trotz der Schwierigkeiten geschafft.",
+      "targetText": "El a reușit în ciuda dificultăților."
+    },
+    {
+      "sourceText": "Trotz seiner Müdigkeit arbeitete er weiter.",
+      "targetText": "În ciuda oboselii, a continuat să muncească."
+    },
+    {
+      "sourceText": "Wir sind trotz allem optimistisch.",
+      "targetText": "Suntem optimiști în ciuda tuturor lucrurilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'trotz' beginnt mit 'tro', ähnlich wie 'trocken' – auch wenn etwas 'trocken' ist, machst du etwas 'trotz' der Umstände."
+    },
+    {
+      "lang": "de",
+      "text": "Die rumänische Phrase 'în ciuda' kannst du dir als 'in (în) Ärger (ciudă)' vorstellen – also 'trotz Ärger' etwas tun."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'trotz' zeigt Widerstand, und 'în ciuda' zeigt, dass man etwas 'trotz' einer negativen Situation macht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist 'trotz' einem Hindernis unterwegs – das klingt wie 'trott', also trotten trotz Widerstand weiter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "ms-de-ro-aufheben",
+  "parent": "ms-ro-a-ridica-e3310677@2ae5bad27010d2285c443acaf2161c86",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufheben",
+    "definition": "etwas an einen anderen Ort bringen oder entfernen, etwas aufbrechen",
+    "pronunciation": "/ˈaʊ̯fˌheːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufheben“ stammt aus dem Mittelhochdeutschen, zusammengesetzt aus dem Präfix „auf-“ und dem Verb „heben“ (heben, anheben), das vom althochdeutschen „heban“ abstammt. Es bedeutet ursprünglich, etwas hochzuheben oder aufzuheben.",
+        "targetText": "Verbul „a ridica“ provine din franceza veche „lever“, care la rândul său derivă din latină vulgară „levare“, însemnând „a ridica“ sau „a înălța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft im übertragenen Sinne verwendet, um das Beenden oder Aufheben von Regelungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ridica",
+    "definition": "a muta sau a îndepărta ceva",
+    "pronunciation": "/a riˈdika/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von dem französischen „lever“, was „anheben“ oder „hochheben“ bedeutet.",
+        "targetText": "Verbul românesc „a ridica“ provine din franceza veche „lever“, care înseamnă „a ridica“ sau „a înălța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um das physische Anheben oder das Aufheben von Beschränkungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "aufräumen",
+      "explanation": {
+        "sourceText": "Benutzt für das Aufräumen oder das Beseitigen von Chaos.",
+        "targetText": "Folosit pentru a face ordine sau a elimina dezordinea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich hebe alles auf.",
+          "targetText": "Ridic totul."
+        }
+      ]
+    },
+    {
+      "gloss": "physisch anheben",
+      "explanation": {
+        "sourceText": "Auf etwas körperlich anheben, wie beim Anheben von Gegenständen.",
+        "targetText": "A ridica fizic un obiect, cum ar fi ridicarea unui obiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich hebe die Box.",
+          "targetText": "Ridic cutia."
+        }
+      ]
+    },
+    {
+      "gloss": "Regelung aufheben",
+      "explanation": {
+        "sourceText": "Verwendet, um die Aufhebung von Vorschriften oder Beschränkungen zu beschreiben.",
+        "targetText": "Folosit pentru a descrie anularea unor reguli sau restricții."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Regel wurde aufgehoben.",
+          "targetText": "Regula a fost ridicată."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufräumen",
+      "targetText": "A face curățenie"
+    },
+    {
+      "sourceText": "Bewegen",
+      "targetText": "Mișcare"
+    },
+    {
+      "sourceText": "Heben",
+      "targetText": "Ridicare"
+    },
+    {
+      "sourceText": "Sammlung",
+      "targetText": "Colecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fallen lassen",
+      "targetText": "a lăsa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er hebt die Hand.",
+      "targetText": "El ridică mâna."
+    },
+    {
+      "sourceText": "Wir haben die Einschränkung aufgehoben.",
+      "targetText": "Am ridicat restricția."
+    },
+    {
+      "sourceText": "Ich werde das Verbot aufheben.",
+      "targetText": "Voi ridica interdicția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „aufheben“ und das rumänische „a ridica“ verbinden sich durch die Vorstellung des Hochhebens – denk an das Bild eines Hebels, der etwas anhebt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn du „aufheben“ sagst, stell dir vor, wie du eine Regel „hochhebst“ und damit aufhebst – genau wie „a ridica“ im übertragenen Sinne."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du etwas hochhebst („aufheben“) – genau wie „a ridica“ im Rumänischen, das klingt ähnlich und bedeutet dasselbe!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-geld-wechseln",
+  "parent": "ms-ro-a-schimba-bani-9981963c@fa8930270aa5f42c24928e9210f9b4a0",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geld wechseln",
+    "definition": "Eine Währung gegen eine andere tauschen.",
+    "pronunciation": "/ɡɛlt ˈvɛksln/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb 'wechseln' stammt vom mittelhochdeutschen 'wecseln' ab, das 'tauschen' bedeutet.",
+        "targetText": "Verbul german „wechseln” provine din germana mijlocie 'wecseln', care înseamnă 'a schimba'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a schimba bani",
+    "definition": "A schimba o monedă pentru alta.",
+    "pronunciation": "/a ˈskimba ˈbani/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb 'a schimba' stammt aus dem Lateinischen 'cambiare', entlehnt über italienisch oder französisch, und bedeutet 'tauschen'.",
+        "targetText": "Verbul românesc „a schimba” provine din latină, prin italiană sau franceză, de la 'cambiare', care înseamnă 'a schimba'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase mit Verb + Substantiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Tausch",
+      "targetText": "schimb"
+    },
+    {
+      "sourceText": "Währung",
+      "targetText": "monedă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich möchte Geld wechseln.",
+      "targetText": "Vreau să schimb bani."
+    },
+    {
+      "sourceText": "Wo kann ich Geld wechseln?",
+      "targetText": "Unde pot să schimb bani?"
+    },
+    {
+      "sourceText": "Sie wechselt Euro in Lei.",
+      "targetText": "Ea schimbă euro în lei."
+    },
+    {
+      "sourceText": "Beim Geld wechseln gibt es oft Gebühren.",
+      "targetText": "La schimbul de bani există adesea comisioane."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a schimba' klingt ähnlich wie das italienische 'cambiare' – beide bedeuten 'tauschen'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bani' ist kurz und häufig – es hilft dir, viele Geld-bezogene Ausdrücke zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Phrase als Kombination: 'a schimba' (tauschen) + 'bani' (Geld) = Geld wechseln."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das deutsche 'wechseln' mit dem rumänischen 'a schimba' durch die Idee des Austauschs."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

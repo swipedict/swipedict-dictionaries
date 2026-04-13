@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-trinken",
+  "parent": "ms-ro-a-bea-ab2ed7bc@c3a5cece63c6110ae61dc24a8ef60a9c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "trinken",
+    "definition": "eine Flüssigkeit aufnehmen, meist durch den Mund",
+    "pronunciation": "/ˈtʁɪŋkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Herkunft unklar, möglicherweise aus dem Germanischen entlehnt.",
+        "targetText": "Originea este incertă, posibil împrumut din germanică."
+      },
+      "source": "AI"
+    },
+    "additional": "Regelmäßiges Verb. Verwendet für alle Arten des Konsums von Flüssigkeiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a bea",
+    "definition": "a lua un lichid, de obicei prin gură",
+    "pronunciation": "/a be̯a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „bea“ leitet sich vom lateinischen „bibere“ ab, was „trinken“ bedeutet, und ist in vielen romanischen Sprachen ähnlich.",
+        "targetText": "Cuvântul românesc „bea“ derivă din latină „bibere“, însemnând „a bea“, similar în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Beschwerden und Freuden des Trinkens werden oft in Redewendungen und Sprichwörtern verwendet, z.B. „a bea apă“ (Wasser trinken)."
+  },
+  "senses": [
+    {
+      "gloss": "Sich etwas gönnen",
+      "explanation": {
+        "sourceText": "'Bea' bedeutet auch, sich etwas Gutes zu tun.",
+        "targetText": "„Bea“ înseamnă și a-ți face o plăcere."
+      },
+      "examples": [
+        {
+          "sourceText": "Lass uns etwas trinken gehen.",
+          "targetText": "Hai să ieșim la un pahar."
+        }
+      ]
+    },
+    {
+      "gloss": "Trinken (Konsum von Flüssigkeit)",
+      "explanation": {
+        "sourceText": "Das Wort wird für den Konsum jeglicher Flüssigkeit verwendet.",
+        "targetText": "Cuvântul este folosit pentru consumul oricărui lichid."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich trinke Wasser.",
+          "targetText": "Eu beau apă."
+        },
+        {
+          "sourceText": "Trinkst du Bier?",
+          "targetText": "Beiți bere?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bier",
+      "targetText": "bere"
+    },
+    {
+      "sourceText": "Saft",
+      "targetText": "suc"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trinke Wasser.",
+      "targetText": "Eu beau apă."
+    },
+    {
+      "sourceText": "Trinkst du Bier?",
+      "targetText": "Beiți bere?"
+    },
+    {
+      "sourceText": "Er/Sie trinkt Saft.",
+      "targetText": "El/Ea bea suc."
+    },
+    {
+      "sourceText": "Wir trinken Tee.",
+      "targetText": "Noi bem ceai."
+    },
+    {
+      "sourceText": "Trinkt ihr gelegentlich Wein?",
+      "targetText": "Beți câteodată vin?"
+    },
+    {
+      "sourceText": "Sie trinken oft Kaffee.",
+      "targetText": "Ei beau adesea cafea."
+    },
+    {
+      "sourceText": "Ich habe bereits einen Kaffee getrunken.",
+      "targetText": "Am băut deja o cafea."
+    },
+    {
+      "sourceText": "Er/Sie trank jeden Abend Tee.",
+      "targetText": "El/Ea bea ceai în fiecare seară."
+    },
+    {
+      "sourceText": "Ich werde bald Wasser trinken.",
+      "targetText": "Voi bea apă în curând."
+    },
+    {
+      "sourceText": "Ich würde Wasser trinken, wenn ich Durst hätte.",
+      "targetText": "Aș bea apă dacă mi-ar fi sete."
+    },
+    {
+      "sourceText": "Trink bitte mehr Wasser!",
+      "targetText": "Bea mai multă apă, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Trinken“ und „a bea“ sind Kognaten – die Bedeutung ist einfach und intuitiv!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass das Verb „a bea“ alle Getränke abdeckt, nicht nur Wasser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

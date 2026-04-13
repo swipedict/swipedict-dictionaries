@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-spielen",
+  "parent": "ms-ro-a-juca-c16f862e@b95c771850a31b8115f0ec50c04ad6bd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "spielen",
+    "definition": "eine Aktivität ausführen, die Spaß macht und oft mit anderen zusammen ist",
+    "pronunciation": "/ˈʃpiːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „spielen“ stammt vom althochdeutschen „spilōn“ ab, was „sich vergnügen“ oder „eine Rolle spielen“ bedeutet.",
+        "targetText": "Verbul german „spielen“ provine din vechiul germanic „spilōn“, care înseamnă „a se distra“ sau „a juca un rol“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb; es beschreibt eine Vielzahl von Aktivitäten, die Spaß und Unterhaltung umfassen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a juca",
+    "definition": "a desfășura o activitate care este plăcută și adesea se face împreună cu alții",
+    "pronunciation": "/a ʤuˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a juca“ stammt vom lateinischen „jocare“ ab, was „spielen“ bedeutet. Es reflektiert Freude und gemeinschaftliches Handeln.",
+        "targetText": "Verbul românesc „a juca“ provine din latinescul „jocare“, care înseamnă „a juca“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a); wird oft in sportlichen und kulturellen Aktivitäten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "mit jemandem spielen",
+      "explanation": {
+        "sourceText": "Es bedeutet, eine Atmosphäre der Geselligkeit und des gemeinsamen Spiels zu kreieren.",
+        "targetText": "Înseamnă a crea o atmosferă de socializare și joc comun."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich spiele oft mit meinen Freunden.",
+          "targetText": "Adesea mă joc cu prietenii mei."
+        }
+      ]
+    },
+    {
+      "gloss": "Miteinander spielen",
+      "explanation": {
+        "sourceText": "Das bedeutet, mit anderen zusammen aktiv zu sein und Freude zu haben.",
+        "targetText": "Înseamnă a te juca împreună cu alții și a te distra."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Kinder spielen miteinander.",
+          "targetText": "Copiii se joacă împreună."
+        }
+      ]
+    },
+    {
+      "gloss": "Spiel",
+      "explanation": {
+        "sourceText": "'Spiel' bedeutet auch 'joc', das eine Struktur und Regeln hat.",
+        "targetText": "'Joc' este o activitate cu reguli și structură."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Spiel macht viel Spaß.",
+          "targetText": "Jocul este foarte distractiv."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Lust",
+      "targetText": "plăcere"
+    },
+    {
+      "sourceText": "Spaß",
+      "targetText": "distracție"
+    },
+    {
+      "sourceText": "Spielzeug",
+      "targetText": "jucărie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "arbeiten",
+      "targetText": "a munci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich spiele gerne Fußball.",
+      "targetText": "Eu joc fotbal cu plăcere."
+    },
+    {
+      "sourceText": "Spielst du Klavier?",
+      "targetText": "Joci la pian?"
+    },
+    {
+      "sourceText": "Er spielt jeden Tag.",
+      "targetText": "El joacă în fiecare zi."
+    },
+    {
+      "sourceText": "Wir spielen hier.",
+      "targetText": "Noi jucăm aici."
+    },
+    {
+      "sourceText": "Spielt ihr gerne?",
+      "targetText": "Îi place să jucați?"
+    },
+    {
+      "sourceText": "Sie (Pl.) spielen oft zusammen.",
+      "targetText": "Ei joacă adesea împreună."
+    },
+    {
+      "sourceText": "Ich habe heute ein tolles Spiel gespielt.",
+      "targetText": "Am jucat un joc minunat astăzi."
+    },
+    {
+      "sourceText": "Er spielte oft mit Freunden.",
+      "targetText": "El juca adesea cu prietenii."
+    },
+    {
+      "sourceText": "Ich werde morgen spielen.",
+      "targetText": "Voi juca mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir die Endungen: „eu joc“ (ich spiele) und „tu joci“ (du spielst) – das hilft dir, die Konjugation zu üben."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze alltägliche Situationen, in denen du spielst, um das Wort „a juca“ lebendig zu halten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a juca“ mit dem Gedanken an Spielabende oder Sport – so merkst du dir, dass es um gemeinsames Spielen geht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

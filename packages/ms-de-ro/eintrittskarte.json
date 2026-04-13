@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-eintrittskarte",
+  "parent": "ms-ro-bilet-de-intrare-cdcc972f@21500a1cff8ff2a81e5db1406b97d57f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Eintrittskarte",
+    "genus": "feminine",
+    "definition": "Ein Ticket oder eine Karte, die den Zugang zu einer Veranstaltung oder einem Ort erlaubt.",
+    "pronunciation": "/ˈaɪ̯ntrɪtsˌkaʁtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Eintrittskarte“ setzt sich aus „Eintritt“ (Zugang) und „Karte“ (Ticket) zusammen, wobei „Eintritt“ vom mittelhochdeutschen 'intreten' stammt, was 'hineingehen' bedeutet.",
+        "targetText": "Cuvântul german „Eintrittskarte” este compus din „Eintritt” (acces) și „Karte” (bilet), unde „Eintritt” provine din germana mijlocie 'intreten', care înseamnă 'a păși înăuntru'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bilet de intrare",
+    "genus": "neuter",
+    "definition": "Un bilet care permite accesul la un eveniment sau într-un loc.",
+    "pronunciation": "/biˈlet de inˈtra.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bilet” stammt aus dem Französischen 'billet', das wiederum vom altfranzösischen 'billet' kommt, eine Verkleinerungsform von 'bil', was 'Brief' oder 'Notiz' bedeutet. „Intrare“ stammt vom lateinischen 'intrare', was 'eintreten' bedeutet.",
+        "targetText": "Cuvântul românesc „bilet” provine din franceza 'billet', diminutiv al lui 'bil', care înseamnă 'scrisoare' sau 'notă'. „Intrare” provine din latină, din verbul 'intrare', care înseamnă 'a intra'."
+      },
+      "source": "Dicționar etimologic român, DEX"
+    },
+    "additional": "Nominalphrase, zusammengesetzt aus 'bilet' und 'intrare'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eintritt",
+      "targetText": "intrare"
+    },
+    {
+      "sourceText": "Karte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Reservierung",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "Ticket",
+      "targetText": "bilet"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ausgangskarte",
+      "targetText": "bilet de ieșire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe eine Eintrittskarte für das Konzert gekauft.",
+      "targetText": "Am cumpărat un bilet de intrare la concert."
+    },
+    {
+      "sourceText": "Bitte zeigen Sie Ihre Eintrittskarte am Eingang vor.",
+      "targetText": "Vă rugăm să arătați biletul de intrare la intrare."
+    },
+    {
+      "sourceText": "Die Eintrittskarte kostet 20 Euro.",
+      "targetText": "Biletul de intrare costă 20 de euro."
+    },
+    {
+      "sourceText": "Ohne Eintrittskarte darf man nicht ins Museum.",
+      "targetText": "Fără bilet de intrare nu ai voie în muzeu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'bilet' klingt ähnlich wie das französische 'billet', was dir helfen kann, es als Ticket zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'intrare' kommt vom lateinischen 'intrare' – genau wie das deutsche 'eintreten', also leicht zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'bilet de intrare' ist eine zusammengesetzte Phrase, ähnlich wie 'Eintrittskarte' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du brauchst einen 'bilet de intrare', um 'einzutreten' – 'intrare' klingt wie 'Eintritt' auf Deutsch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-bremsen",
+  "parent": "ms-ro-a-frana-0be864ca@701325160659525ff4143d1071d79b48",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bremsen",
+    "definition": "Die Geschwindigkeit eines Fahrzeugs verringern oder zum Stillstand bringen.",
+    "pronunciation": "/ˈbʁɛmzn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „bremsen“ stammt vom althochdeutschen 'bremzan' ab, verwandt mit dem Substantiv „Bremse“ und einer germanischen Wurzel.",
+        "targetText": "Verbul „bremsen” provine din germana veche înaltă 'bremzan', înrudit cu substantivul „Bremse” și o rădăcină germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a frâna",
+    "definition": "A reduce viteza unui vehicul sau a-l opri.",
+    "pronunciation": "/a ˈfrɨ.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a frâna“ stammt vom slawischen 'frana' ab, das 'Bremsen' bedeutet.",
+        "targetText": "Verbul românesc „a frâna” provine din slavonul 'frana', care înseamnă 'a frâna'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anhalten",
+      "targetText": "a opri"
+    },
+    {
+      "sourceText": "Bremse",
+      "targetText": "frână"
+    },
+    {
+      "sourceText": "Fahrzeug",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "Geschwindigkeit",
+      "targetText": "viteză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beschleunigen",
+      "targetText": "a accelera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bremse, wenn ich eine Kreuzung sehe.",
+      "targetText": "Eu frânez când văd o intersecție."
+    },
+    {
+      "sourceText": "Das Auto bremst plötzlich.",
+      "targetText": "Mașina frânează brusc."
+    },
+    {
+      "sourceText": "Bitte bremse vorsichtig bei Glätte.",
+      "targetText": "Te rog să frânezi cu grijă pe gheață."
+    },
+    {
+      "sourceText": "Er bremste, um einen Unfall zu vermeiden.",
+      "targetText": "A frânat pentru a evita un accident."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb 'a frâna' klingt ähnlich wie das deutsche 'fran' (von 'fran-ken'), stell dir vor, du 'franzt' das Auto, um es zu stoppen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb endet auf -a, typisch für rumänische Verben der 1. Konjugation, was die Konjugation erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'a frâna' vom slawischen Wort für Bremsen stammt, was die Bedeutung klar macht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'bremsen' mit 'a frâna' durch die gemeinsame Bedeutung des Geschwindigkeitsreduzierens."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

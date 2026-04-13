@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-datei",
+  "parent": "ms-ro-fisier-37db3f90@d3dd9a253c7f738875c13a5a3fa62cde",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Datei",
+    "genus": "feminine",
+    "definition": "Eine Sammlung von Daten, die elektronisch gespeichert wird.",
+    "pronunciation": "/ˈdaːtaɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort 'Datei' wurde im Deutschen im 20. Jahrhundert gebildet, abgeleitet vom französischen 'donnée' (Daten) und dem Suffix '-ei' zur Bildung von Substantiven.",
+        "targetText": "Cuvântul german „Datei” a fost format în secolul XX, derivat din franceza 'donnée' (date) și sufixul '-ei' pentru formarea substantivelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fișier",
+    "genus": "neuter",
+    "definition": "O colecție de date stocate electronic.",
+    "pronunciation": "/fiˈʃjer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'fișier' stammt vom französischen 'fichier' ab, was 'Datei' oder 'Akte' bedeutet.",
+        "targetText": "Cuvântul românesc „fișier” provine din franceza 'fichier', care înseamnă 'fișier' sau 'dosar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Computer",
+      "targetText": "calculator"
+    },
+    {
+      "sourceText": "Daten",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "Ordner",
+      "targetText": "dosar"
+    },
+    {
+      "sourceText": "Speichern",
+      "targetText": "a salva"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe die Datei auf meinem Computer gespeichert.",
+      "targetText": "Am salvat fișierul pe calculatorul meu."
+    },
+    {
+      "sourceText": "Kannst du mir die Datei per E-Mail schicken?",
+      "targetText": "Poți să-mi trimiți fișierul prin e-mail?"
+    },
+    {
+      "sourceText": "Die Datei ist zu groß, um sie zu senden.",
+      "targetText": "Fișierul este prea mare pentru a fi trimis."
+    },
+    {
+      "sourceText": "Öffne die Datei mit dem Programm.",
+      "targetText": "Deschide fișierul cu programul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ș' in 'fișier' klingt wie 'sch' in Deutsch, was dir bei der Aussprache hilft."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Datei' erinnert an 'Daten' – eine Datei enthält Daten, genau wie 'fișier' im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'fișier' klingt wie das französische 'fichier', das du vielleicht aus anderen Sprachen kennst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen 'fișier' (Datei) auf deinem Computer, der viele Daten enthält – so merkst du die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

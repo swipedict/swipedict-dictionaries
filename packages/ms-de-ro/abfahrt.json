@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-abfahrt",
+  "parent": "ms-ro-plecare-1fb74f10@5ab48d41f9d850f92c5c54be0ce3afcf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Abfahrt",
+    "genus": "feminine",
+    "definition": "Der Vorgang oder Zeitpunkt, an dem ein Fahrzeug, besonders ein Zug oder Auto, losfährt.",
+    "pronunciation": "/ˈapfaʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Abfahrt“ setzt sich aus der Vorsilbe 'ab-' und dem Verb 'fahren' zusammen, wobei 'fahren' auf das althochdeutsche 'faran' zurückgeht, was 'reisen' oder 'fahren' bedeutet.",
+        "targetText": "Substantivul german „Abfahrt” este format din prefixul 'ab-' și verbul 'fahren', care provine din germana veche înaltă 'faran', însemnând 'a călători' sau 'a conduce'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plecare",
+    "genus": "feminine",
+    "definition": "Momentul sau acțiunea când un vehicul pornește la drum.",
+    "pronunciation": "/pleˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „plecare“ stammt vom lateinischen Verb 'plicare' ab, das 'falten' bedeutet, wurde aber im Rumänischen semantisch erweitert zu 'Abfahrt' bzw. 'Aufbruch'.",
+        "targetText": "Substantivul românesc „plecare” provine din verbul latin 'plicare' (a plia), dar în română a căpătat sensul de 'plecare' sau 'pornire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abflug",
+      "targetText": "decolare"
+    },
+    {
+      "sourceText": "Ankunft",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "Fahrt",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Start",
+      "targetText": "start"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ankunft",
+      "targetText": "sosire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Abfahrt des Zuges ist um 15 Uhr.",
+      "targetText": "Plecare trenului este la ora 15."
+    },
+    {
+      "sourceText": "Wir müssen die Abfahrt nicht verpassen.",
+      "targetText": "Nu trebuie să ratăm plecarea."
+    },
+    {
+      "sourceText": "Die Abfahrt vom Flughafen verzögert sich.",
+      "targetText": "Plecare de la aeroport întârzie."
+    },
+    {
+      "sourceText": "Die Abfahrt ist für morgen früh geplant.",
+      "targetText": "Plecare este planificată pentru mâine dimineață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'plicare' (falten) hilft dir, 'plecare' zu merken, denn man 'faltet' sich quasi zusammen, um aufzubrechen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'plecare' klingt wie 'plecare' im Deutschen, aber es bedeutet 'Abfahrt' – denk an das Verlassen eines Ortes."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du packst deine Sachen zusammen (falten) und machst dich bereit für die 'plecare' (Abfahrt)."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Abfahrt' mit 'plecare' – beide beschreiben den Moment, wenn man losfährt oder weggeht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

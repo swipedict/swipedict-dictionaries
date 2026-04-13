@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-cousin",
+  "parent": "ms-ro-var-3a1b8e23@4c302a65b859de63621680b5729095e6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Cousin",
+    "genus": "masculine",
+    "definition": "Der männliche Verwandte, Sohn eines Onkels oder einer Tante.",
+    "pronunciation": "/kuˈzɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Cousin“ stammt aus dem Französischen „cousin“, das vom lateinischen 'consobrinus' (Cousin mütterlicherseits) abgeleitet ist.",
+        "targetText": "Cuvântul german „Cousin” provine din franceza „cousin”, derivat din latină 'consobrinus' (văr pe linie maternă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "văr",
+    "genus": "masculine",
+    "definition": "Rudă männlichen Geschlechts, Sohn eines Onkels oder einer Tante.",
+    "pronunciation": "/vər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „văr“ stammt vom lateinischen 'verus' ab, das ursprünglich 'wahr' bedeutete, wurde aber im Rumänischen als Bezeichnung für Cousin übernommen.",
+        "targetText": "Cuvântul românesc „văr” provine din latină 'verus' (adevărat), dar a fost preluat cu sensul de 'văr' în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Cousine",
+      "targetText": "verişoară"
+    },
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Onkel",
+      "targetText": "unchi"
+    },
+    {
+      "sourceText": "Tante",
+      "targetText": "mătușă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Mein Cousin wohnt in Berlin.",
+      "targetText": "Vărul meu locuiește în Berlin."
+    },
+    {
+      "sourceText": "Der Cousin ist älter als ich.",
+      "targetText": "Vărul este mai mare decât mine."
+    },
+    {
+      "sourceText": "Ich treffe meinen Cousin am Wochenende.",
+      "targetText": "Îmi întâlnesc vărul în weekend."
+    },
+    {
+      "sourceText": "Der Cousin spielt gerne Fußball.",
+      "targetText": "Vărul îi place să joace fotbal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Cousin“ und das rumänische „văr“ sind nicht ähnlich, aber du kannst dir merken, dass „văr“ kurz und prägnant ist wie ein enger Verwandter."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort 'verus' bedeutet 'wahr' – stell dir vor, dein 'wahrer' Verwandter ist dein 'văr' (Cousin)."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen ist „Cousin“ männlich, im Rumänischen ist „văr“ das männliche Pendant zu „verişoară“ (Cousine)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „văr“ ist kurz und klingt wie 'war' auf Englisch – dein Verwandter war schon immer Teil der Familie."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

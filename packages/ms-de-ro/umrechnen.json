@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-umrechnen",
+  "parent": "ms-ro-a-converti-1c18bb8b@b494b212fe9707de740c2a16f823e356",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "umrechnen",
+    "definition": "Eine Zahl oder Maßeinheit in eine andere umwandeln, insbesondere durch Anwendung eines Umrechnungsfaktors.",
+    "pronunciation": "/ˈʊmˌʁɛçnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „umrechnen“ setzt sich aus dem Präfix „um-“ und dem Verb „rechnen“ zusammen, wobei „rechnen“ auf das althochdeutsche 'rechnen' zurückgeht, das mit dem lateinischen 'computare' verwandt ist und 'zählen, berechnen' bedeutet.",
+        "targetText": "Verbul german „umrechnen“ este compus din prefixul „um-“ și verbul „rechnen“, care provine din germana veche înaltă 'rechnen', înrudit cu latinescul 'computare', însemnând 'a număra, a calcula'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a converti",
+    "definition": "A schimba o valoare numerică sau o unitate de măsură în alta, folosind un factor de conversie.",
+    "pronunciation": "/a konˈvɛrti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a converti“ stammt vom lateinischen Verb 'convertere' ab, das 'umkehren', 'verwandeln' oder 'umwandeln' bedeutet und über das Französische ins Rumänische gelangte.",
+        "targetText": "Verbul românesc „a converti” provine din verbul latin 'convertere', care înseamnă 'a întoarce', 'a transforma' și a intrat în limba română prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 3. Konjugation, regelmäßig."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "einheit",
+      "targetText": "unitate"
+    },
+    {
+      "sourceText": "maß",
+      "targetText": "măsură"
+    },
+    {
+      "sourceText": "rechnen",
+      "targetText": "a calcula"
+    },
+    {
+      "sourceText": "umwandeln",
+      "targetText": "a transforma"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beibehalten",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rechne Euro in US-Dollar um.",
+      "targetText": "Eu convertesc euro în dolari americani."
+    },
+    {
+      "sourceText": "Kannst du die Maßeinheiten umrechnen?",
+      "targetText": "Poți să convertești unitățile de măsură?"
+    },
+    {
+      "sourceText": "Wir müssen Kilometer in Meilen umrechnen.",
+      "targetText": "Trebuie să convertim kilometri în mile."
+    },
+    {
+      "sourceText": "Sie rechnet die Temperatur von Celsius in Fahrenheit um.",
+      "targetText": "Ea convertește temperatura din Celsius în Fahrenheit."
+    },
+    {
+      "sourceText": "Bitte rechne die Werte um, bevor du sie eingibst.",
+      "targetText": "Te rog să convertești valorile înainte să le introduci."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'convertere' bedeutet 'umkehren' – so kannst du dir vorstellen, dass du eine Zahl in eine andere Richtung 'drehst', also umrechnest."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a converti' klingt ähnlich wie das englische 'convert', was dir hilft, die Bedeutung als 'umwandeln' oder 'umrechnen' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'konvertierst' eine Zahl wie einen Zaubertrick – das 'kon-' am Anfang erinnert an 'um-' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a converti' mit dem Wort 'Konvertierung' im Deutschen, das in technischen Kontexten oft für Umrechnung oder Umwandlung verwendet wird."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

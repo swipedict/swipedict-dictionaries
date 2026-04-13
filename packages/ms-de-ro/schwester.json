@@ -1,0 +1,118 @@
+{
+  "id": "ms-de-ro-schwester",
+  "parent": "ms-ro-sora-9f4516bd@c765bc71008b1576ea07a52b74ac9d51",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schwester",
+    "genus": "feminine",
+    "definition": "weibliches Kind derselben Eltern; weibliches Geschwisterteil",
+    "pronunciation": "/ˈʃvɛstɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Althochdeutsch 'swester', germanische Wurzel. Verwandt mit englisch 'sister', lateinisch 'soror'.",
+        "targetText": "Din germana veche „swester“, cu rădăcini germanice, înrudit cu englezescul „sister“ și latinul „soror“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Plural: Schwestern. Kann auch für Ordensschwester oder Krankenschwester verwendet werden (dann oft spezifischer Kontext)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "soră",
+    "genus": "feminine",
+    "definition": "persoană de sex feminin considerată in raport cu copiii de aceiași părinți; copil de sex feminin al acelorași părinți",
+    "pronunciation": "/ˈso.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Din latină 'soror'.",
+        "targetText": "Provine din latină, din cuvântul „soror“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Plural: surori. Termenul se poate referi și la o asistentă medicală ('soră medicală') sau la o călugăriță."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bruder",
+      "targetText": "frate"
+    },
+    {
+      "sourceText": "Eltern",
+      "targetText": "părinți"
+    },
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Geschwister",
+      "targetText": "frați (plural, gemischt oder allgemein)"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Bruder",
+      "targetText": "frate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Meine Schwester ist sehr nett.",
+      "targetText": "Sora mea este foarte drăguță."
+    },
+    {
+      "sourceText": "Ich habe zwei Schwestern.",
+      "targetText": "Am două surori."
+    },
+    {
+      "sourceText": "Sie ist meine ältere Schwester.",
+      "targetText": "Ea este sora mea mai mare."
+    },
+    {
+      "sourceText": "Schwestern verstehen sich oft gut.",
+      "targetText": "Surorile se înțeleg adesea bine."
+    },
+    {
+      "sourceText": "Ich verbringe viel Zeit mit meiner Schwester.",
+      "targetText": "Petrec mult timp cu sora mea."
+    },
+    {
+      "sourceText": "Meine Schwester heißt Anna.",
+      "targetText": "Pe sora mea o cheamă Anna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „Schwester“ und das rumänische „soră“ stammen beide vom lateinischen „soror“ ab – das hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran: „die Schwester“ (feminin) – „o soră“ (feminin), beide bezeichnen weibliche Geschwister."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

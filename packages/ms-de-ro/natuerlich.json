@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-natuerlich",
+  "parent": "ms-ro-natural-ba69e933@a602d9cb5bf329e113624e1b6ee2cbf1",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "natürlich",
+    "definition": "etwas, das der Natur angehört oder nicht künstlich ist",
+    "pronunciation": "/naˈtʏʁlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „natürlich“ stammt vom mittelhochdeutschen „naturel̦ich“, abgeleitet von „Natur“, das aus dem lateinischen „natura“ kommt.",
+        "targetText": "Cuvântul german „natürlich“ provine din mijlocul germanului vechi „naturel̦ich“, derivat din „Natur“, care vine din latină „natura“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort hat auch eine philosophische Bedeutung und wird oft verwendet, um das Echte zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "natural",
+    "genus": "masculine",
+    "definition": "ceva care aparține naturii sau nu este artificial",
+    "pronunciation": "/naˈt͡ʃu.ral/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „natural“ stammt vom lateinischen „naturalis“, was „naturgemäß“ bedeutet, verwandt mit „natura“ für „Natur“.",
+        "targetText": "Cuvântul românesc „natural“ provine din latină „naturalis“, care înseamnă „conform naturii“, înrudit cu „natura“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Natural“ wird auch verwendet, um Echtheit, z.B. bei Lebensmitteln, zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "natural (Echtheit)",
+      "explanation": {
+        "sourceText": "'Natural' wird verwendet, um authentische Produkte zu beschreiben.",
+        "targetText": "„Natural“ este folosit pentru a descrie produse autentice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kaufe nur natürliche Lebensmittel.",
+          "targetText": "Cumpăr doar alimente naturale."
+        }
+      ]
+    },
+    {
+      "gloss": "natürlich (eigentlich)",
+      "explanation": {
+        "sourceText": "Die alltägliche Verwendung bezieht sich auf den Zustand der Natürlichkeit.",
+        "targetText": "Utilizarea cotidiană se referă la starea de a fi natural."
+      },
+      "examples": [
+        {
+          "sourceText": "Es ist natürlich, Fehler zu machen.",
+          "targetText": "Este natural să faci greșeli."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Lebewesen",
+      "targetText": "ființe"
+    },
+    {
+      "sourceText": "Natur",
+      "targetText": "natură"
+    },
+    {
+      "sourceText": "Ökosystem",
+      "targetText": "ecosistem"
+    },
+    {
+      "sourceText": "Umwelt",
+      "targetText": "mediu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unnatürlich",
+      "targetText": "artificial"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das natürliche Licht ist angenehm.",
+      "targetText": "Lumina naturală este plăcută."
+    },
+    {
+      "sourceText": "Es ist wichtig, natürliche Zutaten zu verwenden.",
+      "targetText": "Este important să folosești ingrediente naturale."
+    },
+    {
+      "sourceText": "Natürliche Medikamente können oft hilfreich sein.",
+      "targetText": "Medicamentele naturale pot fi adesea utile."
+    },
+    {
+      "sourceText": "Der natürliche Geschmack des Essens ist köstlich.",
+      "targetText": "Gustul natural al mâncării este delicios."
+    },
+    {
+      "sourceText": "In der Natur kann man viel lernen.",
+      "targetText": "În natură poți învăța multe."
+    },
+    {
+      "sourceText": "Es ist natürlich, Fehler zu machen.",
+      "targetText": "Este natural să faci greșeli."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an unberührte Natur und Reinheit, um das Wort „natural“ zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen grünen Wald vor, wenn du „natural“ hörst – so merkst du dir die Bedeutung leicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „natural“ mit „Natur“ – alles, was echt und unverfälscht ist, ist natural!"
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „natural“ mit natürlichen Ölen und Düften, um die Bedeutung zu verstärken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

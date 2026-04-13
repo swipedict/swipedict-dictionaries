@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-wetten",
+  "parent": "ms-ro-a-paria-14b6d0ae@a3e80cd99d59c30386f66ccc9d80068d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wetten",
+    "definition": "Eine Aussage machen, dass etwas passieren wird, oft mit Geld als Einsatz.",
+    "pronunciation": "/ˈvɛtn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „wetten“ stammt vom althochdeutschen 'wettan' ab, das mit dem gotischen 'witan' verwandt ist und auf die germanische Wurzel *wittjan zurückgeht, die 'wissen' oder 'sich sicher sein' bedeutet.",
+        "targetText": "Verbul german „wetten“ provine din germana veche înaltă 'wettan', înrudit cu goticul 'witan', derivat din rădăcina germanică *wittjan care înseamnă 'a ști' sau 'a fi sigur'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a paria",
+    "definition": "A face o afirmație că ceva se va întâmpla, de obicei cu bani mizați.",
+    "pronunciation": "/a paˈri.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a paria“ stammt vom französischen Verb 'parier' ab, das wiederum aus dem altfranzösischen 'parier' kommt, was 'wetteifern' oder 'wetten' bedeutet, und letztlich vom germanischen *pariōn abgeleitet ist.",
+        "targetText": "Verbul românesc „a paria” provine din verbul francez 'parier', care la rândul său vine din vechiul francez 'parier', însemnând 'a concura' sau 'a paria', derivat din germanicul *pariōn."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, Partizip: pariat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Einsatz",
+      "targetText": "miză"
+    },
+    {
+      "sourceText": "Glücksspiel",
+      "targetText": "joc de noroc"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "Wettkampf",
+      "targetText": "competiție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sicher sein",
+      "targetText": "a fi sigur"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wette, dass es morgen regnet.",
+      "targetText": "Pariez că mâine va ploua."
+    },
+    {
+      "sourceText": "Wir haben um Geld gewettet.",
+      "targetText": "Am pariat bani."
+    },
+    {
+      "sourceText": "Er wettet oft auf Pferderennen.",
+      "targetText": "El pariază des pe curse de cai."
+    },
+    {
+      "sourceText": "Wetten wir, wer zuerst ankommt?",
+      "targetText": "Pariem cine ajunge primul?"
+    },
+    {
+      "sourceText": "Ich habe 10 Euro auf das Spiel gesetzt.",
+      "targetText": "Am pariat 10 euro pe joc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'wetten' und das rumänische 'a paria' haben beide germanische Wurzeln, auch wenn sie unterschiedlich klingen – das hilft beim Verstehen der Sprachgeschichte."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a paria' klingt ähnlich wie das französische 'parier', das du vielleicht aus dem Französischen kennst – beide bedeuten 'wetten'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'paria' endet auf -ia, typisch für rumänische Verben der 1. Konjugation, ähnlich wie 'a lucra' oder 'a cânta'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'parierst' (parierst = paria) eine Wette wie ein Ritter, der einen Schlag abwehrt – so merkst du dir 'a paria'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

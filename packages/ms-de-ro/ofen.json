@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-ofen",
+  "parent": "ms-ro-cuptor-6a39b480@f983fa0001a9f023d3f335e0457bf3c2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ofen",
+    "genus": "masculine",
+    "definition": "Ein Gerät zum Erhitzen von Räumen oder zum Backen, das durch Verbrennen von Brennstoffen oder durch elektrischen Strom Wärme erzeugt.",
+    "pronunciation": "/ˈoːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Ofen“ stammt vom althochdeutschen 'ofan' ab, das auf das lateinische 'focus' zurückgeht, was ursprünglich 'Feuerstelle' bedeutete.",
+        "targetText": "Cuvântul german „Ofen” provine din vechiul german înalt 'ofan', care la rândul său derivă din latinul 'focus', însemnând inițial 'locul focului'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cuptor",
+    "genus": "neuter",
+    "definition": "Un aparat folosit pentru încălzirea încăperilor sau pentru gătit, care produce căldură prin arderea combustibililor sau prin curent electric.",
+    "pronunciation": "/kuptor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cuptor“ stammt vom lateinischen 'coctōrium' ab, abgeleitet von 'coquere' (kochen, backen), und bezeichnete ursprünglich einen Ort zum Backen oder Kochen.",
+        "targetText": "Cuvântul românesc „cuptor” provine din latinul 'coctōrium', derivat din 'coquere' (a găti, a coace), desemnând inițial un loc pentru copt sau gătit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Backofen",
+      "targetText": "cuptor de copt"
+    },
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Kamin",
+      "targetText": "șemineu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Ofen ist warm und heizt das Zimmer.",
+      "targetText": "Cuptorul este cald și încălzește camera."
+    },
+    {
+      "sourceText": "Ich backe Brot im Ofen.",
+      "targetText": "Coc pâine în cuptor."
+    },
+    {
+      "sourceText": "Der alte Ofen wurde durch eine moderne Heizung ersetzt.",
+      "targetText": "Vechea sobă a fost înlocuită cu o încălzire modernă."
+    },
+    {
+      "sourceText": "Bitte öffne den Ofen vorsichtig, er ist sehr heiß.",
+      "targetText": "Te rog să deschizi cuptorul cu grijă, este foarte fierbinte."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „cuptor“ erinnert an das deutsche Wort „kochen“ (lat. coquere), da beide mit Hitze und Zubereitung zu tun haben."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „cuptor“ endet auf '-tor', ähnlich wie viele lateinische Substantive, was dir helfen kann, es als Gerät zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Der deutsche Ofen und das rumänische cuptor haben beide eine lange Geschichte, die bis ins Lateinische zurückreicht – denk an das Feuer (focus) und das Kochen (coquere)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du backst einen Kuchen im „cuptor“ – das „cup“ klingt wie eine kleine Schale, die in den Ofen kommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

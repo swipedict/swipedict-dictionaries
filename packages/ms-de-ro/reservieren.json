@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-reservieren",
+  "parent": "ms-ro-a-rezerva-dc96702b@7278a00532f4e070f050df1f292da18f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "reservieren",
+    "definition": "Etwas im Voraus festhalten oder buchen, z. B. einen Platz, ein Zimmer oder einen Tisch.",
+    "pronunciation": "/ʁezeʁˈviːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „reservieren“ stammt aus dem Französischen 'réserver', das vom lateinischen 'reservare' kommt und 'aufbewahren, zurückhalten' bedeutet.",
+        "targetText": "Verbul german „reservieren“ provine din franceza 'réserver', care la rândul său derivă din latină 'reservare', însemnând 'a păstra, a reține'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a rezerva",
+    "definition": "A păstra sau a ocupa în avans un loc, o cameră, o masă etc.",
+    "pronunciation": "/a reˈzerva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a rezerva“ stammt direkt vom französischen 'réserver' ab, das wiederum vom lateinischen 'reservare' kommt, was 'aufbewahren' oder 'zurückhalten' bedeutet.",
+        "targetText": "Verbul românesc „a rezerva” provine direct din franceza 'réserver', care la rândul său derivă din latină 'reservare', însemnând 'a păstra' sau 'a reține'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, regelmäßige Formen."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Buchung",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "Hotelzimmer",
+      "targetText": "cameră de hotel"
+    },
+    {
+      "sourceText": "Platz",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stornieren",
+      "targetText": "a anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich reserviere einen Tisch im Restaurant.",
+      "targetText": "Eu rezerv o masă la restaurant."
+    },
+    {
+      "sourceText": "Wir haben ein Hotelzimmer für nächste Woche reserviert.",
+      "targetText": "Am rezervat o cameră de hotel pentru săptămâna viitoare."
+    },
+    {
+      "sourceText": "Kannst du bitte einen Platz für mich reservieren?",
+      "targetText": "Poți, te rog, să-mi rezervi un loc?"
+    },
+    {
+      "sourceText": "Er reserviert oft im Voraus, um sicherzugehen.",
+      "targetText": "El rezervă adesea din timp pentru a fi sigur."
+    },
+    {
+      "sourceText": "Reserviere rechtzeitig, sonst sind alle Plätze weg.",
+      "targetText": "Rezervă din timp, altfel toate locurile vor fi ocupate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 're-' am Anfang von 'a rezerva' erinnert an 'wieder' oder 'zurück', was hilft zu verstehen, dass etwas zurückgehalten oder für später gesichert wird."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a rezerva' klingt fast wie das deutsche 'reservieren' – beide stammen vom französischen 'réserver'. So kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'reservierst' einen 'Reservoir' (Speicher) für etwas Wichtiges – so behältst du den Platz für dich."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a rezerva' mit dem französischen Wort 'réserver' – wenn du Französisch kennst, ist das ein praktischer Anker."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

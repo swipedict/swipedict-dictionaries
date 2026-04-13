@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-urteil",
+  "parent": "ms-ro-judecata-ea323d55@d89bf918fe5c0a939972a4e958fddc87",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Urteil",
+    "genus": "neuter",
+    "definition": "Eine formelle Entscheidung oder Beurteilung, meist von einem Gericht oder einer Autorität, die einen Sachverhalt bewertet und ein Ergebnis festlegt.",
+    "pronunciation": "/ˈʊɐ̯taɪ̯l/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Urteil“ stammt vom mittelhochdeutschen 'urteilen' ab, das auf das althochdeutsche 'urteil' zurückgeht und ursprünglich 'Entscheidung' oder 'Richterspruch' bedeutete. Es ist zusammengesetzt aus 'ur-' (alt, ursprünglich) und 'Teil' (Teil, Anteil), was auf eine ursprüngliche Bedeutung von 'ursprünglicher Teil' oder 'Grundentscheidung' hindeutet.",
+        "targetText": "Cuvântul german „Urteil” provine din germana mijlocie 'urteilen', care la rândul său derivă din germana veche înaltă 'urteil', însemnând inițial 'decizie' sau 'sentință judecătorească'. Este compus din prefixul 'ur-' (vechi, originar) și 'Teil' (parte, segment), sugerând sensul inițial de 'parte originară' sau 'decizie fundamentală'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "judecată",
+    "genus": "neuter",
+    "definition": "O decizie formală sau o evaluare făcută de o instanță sau o autoritate, care apreciază un fapt și stabilește un rezultat.",
+    "pronunciation": "/dʒu.deˈkat͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „judecată“ stammt vom lateinischen Verb 'judicare' ab, das 'richten' oder 'urteilen' bedeutet. Es entwickelte sich im Rumänischen zu einem Substantiv, das die Handlung oder das Ergebnis des Urteilens bezeichnet.",
+        "targetText": "Cuvântul românesc „judecată” provine din verbul latin 'judicare', care înseamnă 'a judeca' sau 'a da o sentință'. În română, s-a dezvoltat ca substantiv care desemnează acțiunea sau rezultatul judecății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Gericht",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Richter",
+      "targetText": "judecător"
+    },
+    {
+      "sourceText": "Urteilsspruch",
+      "targetText": "sentință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Freispruch",
+      "targetText": "achitare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Gericht hat ein Urteil gefällt.",
+      "targetText": "Instanța a dat o judecată."
+    },
+    {
+      "sourceText": "Das Urteil war zu seinen Gunsten.",
+      "targetText": "Judecata a fost în favoarea lui."
+    },
+    {
+      "sourceText": "Er akzeptierte das Urteil ohne Widerspruch.",
+      "targetText": "El a acceptat judecata fără obiecții."
+    },
+    {
+      "sourceText": "Das Urteil wurde schriftlich verkündet.",
+      "targetText": "Judecata a fost pronunțată în scris."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „judecată“ erinnert an das deutsche Wort „Judikatur“, das sich auf richterliche Entscheidungen bezieht. Beide stammen vom lateinischen 'judicare'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „judecată“ endet auf '-ată', eine typische Endung für rumänische Substantive, die von Verben abgeleitet sind, ähnlich wie „decizie“ von 'decide'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „judecată“ nicht nur das Urteil selbst, sondern auch den Prozess des Urteilens bezeichnen kann – ähnlich wie im Deutschen „Gerichtsurteil“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Richter „judiziert“ (urteilt) und daraus entsteht die „judecată“ – die Entscheidung oder das Urteil."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

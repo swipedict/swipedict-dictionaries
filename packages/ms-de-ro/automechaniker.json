@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-automechaniker",
+  "parent": "ms-ro-mecanic-auto-4e73a8ce@58d94ab7946f2b4ac51eb316513b4415",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Automechaniker",
+    "genus": "masculine",
+    "definition": "Fachkraft, die Autos repariert und wartet.",
+    "pronunciation": "/ˈaʊ̯toˌmɛçaːnɪkɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Automechaniker“ ist ein Kompositum aus 'Auto' (Kurzform von Automobil) und 'Mechaniker', das vom griechischen 'mēkhanḗ' (Maschine) stammt.",
+        "targetText": "Cuvântul „Automechaniker“ este un compus din 'Auto' (prescurtare pentru automobil) și 'Mechaniker', care provine din grecescul 'mēkhanḗ' (mașină)."
+      },
+      "source": "Etymologische Quellen Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mecanic auto",
+    "genus": "masculine",
+    "definition": "Persoană specializată în repararea și întreținerea automobilelor.",
+    "pronunciation": "/meˈkanik ˈauto/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „mecanic“ stammt vom griechischen „mēkhanikós“ (μηχανικός), und „auto“ ist ein Präfix aus dem Griechischen „autós“ (αὐτός), was „selbst“ oder „von selbst“ bedeutet.",
+        "targetText": "Cuvântul românesc „mecanic“ provine din grecescul 'mēkhanikós', iar „auto“ este un prefix din grecescul 'autós', însemnând 'de sine'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Mechaniker",
+      "targetText": "mecanic"
+    },
+    {
+      "sourceText": "Reparatur",
+      "targetText": "reparație"
+    },
+    {
+      "sourceText": "Werkstatt",
+      "targetText": "atelier"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Automechaniker repariert das Auto.",
+      "targetText": "Mecanicul auto repară mașina."
+    },
+    {
+      "sourceText": "Ich habe einen Termin beim Automechaniker.",
+      "targetText": "Am o programare la mecanicul auto."
+    },
+    {
+      "sourceText": "Der Automechaniker überprüft den Motor.",
+      "targetText": "Mecanicul auto verifică motorul."
+    },
+    {
+      "sourceText": "Ein guter Automechaniker kennt sich mit vielen Marken aus.",
+      "targetText": "Un mecanic auto bun cunoaște multe mărci."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das griechische 'mēkhanḗ' bedeutet Maschine, was die technische Arbeit des Automechanikers beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Präfix 'auto' ist in beiden Sprachen gleich und bedeutet 'selbst' oder 'Auto'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'mecanic' klingt ähnlich wie das deutsche 'Mechaniker' und hilft dir, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen Mechaniker vor, der an einem Auto arbeitet – so merkst du 'mecanic auto'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

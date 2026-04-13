@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-nachfragen",
+  "parent": "ms-ro-a-intreba-din-nou-2ead3571@762b09b465730bdf9f2873d1ad78358a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "nachfragen",
+    "definition": "eine Frage stellen, um Informationen zu erhalten",
+    "pronunciation": "/ˈnaːxˌfʁaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „nachfragen“ setzt sich aus „nach“ und „fragen“ zusammen und bedeutet, erneut oder ergänzend eine Frage zu stellen, um Klarheit zu erhalten.",
+        "targetText": "Verbul „nachfragen“ este compus din „nach“ și „fragen“ și înseamnă a pune o întrebare suplimentară pentru clarificare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet in Konversationen, um zusätzliche Informationen anzufordern oder Klarstellungen zu suchen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întreba din nou",
+    "definition": "a pune o întrebare pentru a obține informații",
+    "pronunciation": "/a ɨn.treˈba din nou/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Phrase „a întreba din nou“ bedeutet wörtlich „noch einmal fragen“ und beschreibt den Vorgang, eine Frage zu wiederholen oder zu präzisieren.",
+        "targetText": "Expresia „a întreba din nou“ înseamnă literal „a întreba încă o dată“ și descrie actul de a repeta sau clarifica o întrebare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Diese Form ist die gebräuchlichste Art, um nach weiteren Informationen zu fragen, speziell wenn etwas unklar ist."
+  },
+  "senses": [
+    {
+      "gloss": "nachfragen",
+      "explanation": {
+        "sourceText": "Diese Nutzung beschreibt den Vorgang des Erneuerns einer Anfrage.",
+        "targetText": "Această utilizare descrie procesul de a pune din nou o întrebare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich frage noch einmal nach.",
+          "targetText": "Întreb din nou."
+        },
+        {
+          "sourceText": "Fragst du noch einmal nach?",
+          "targetText": "Întrebi din nou?"
+        }
+      ]
+    },
+    {
+      "gloss": "um Klarstellung bitten",
+      "explanation": {
+        "sourceText": "Diese Nutzung bezieht sich darauf, um eine klare Antwort auf eine bereits gestellte Frage zu bitten.",
+        "targetText": "Această utilizare se referă la solicitarea unei clarificări pentru o întrebare deja pusă."
+      },
+      "examples": [
+        {
+          "sourceText": "Kannst du das bitte näher erläutern?",
+          "targetText": "Poți explica mai bine, te rog?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Antwort",
+      "targetText": "răspuns"
+    },
+    {
+      "sourceText": "Erklärung",
+      "targetText": "explicație"
+    },
+    {
+      "sourceText": "Frage",
+      "targetText": "întrebare"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "antworten",
+      "targetText": "a răspunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich frage noch einmal nach.",
+      "targetText": "Întreb din nou."
+    },
+    {
+      "sourceText": "Fragst du noch einmal nach?",
+      "targetText": "Întrebi din nou?"
+    },
+    {
+      "sourceText": "Sie fragt nach einer Erklärung.",
+      "targetText": "Ea întreabă pentru o explicație."
+    },
+    {
+      "sourceText": "Wir fragen nach dem nächsten Schritt.",
+      "targetText": "Întrebăm despre următorul pas."
+    },
+    {
+      "sourceText": "Fragt ihr noch einmal nach?",
+      "targetText": "Întrebați din nou?"
+    },
+    {
+      "sourceText": "Sie fragen nach dem Status des Projekts.",
+      "targetText": "Ei întreabă despre starea proiectului."
+    },
+    {
+      "sourceText": "Ich habe nachgefragt.",
+      "targetText": "Am întrebat din nou."
+    },
+    {
+      "sourceText": "Er fragte oft nach dem Grund.",
+      "targetText": "El întreba adesea despre motiv."
+    },
+    {
+      "sourceText": "Ich werde nachfragen.",
+      "targetText": "Voi întreba din nou."
+    },
+    {
+      "sourceText": "Ich würde nachfragen, wenn ich mehr Zeit hätte.",
+      "targetText": "Aș întreba din nou dacă aș avea mai mult timp."
+    },
+    {
+      "sourceText": "Frag noch einmal nach!",
+      "targetText": "Întreabă din nou!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Nachfragen“ und „a întreba din nou“ sind praktisch und helfen dir, in Gesprächen Klarheit zu schaffen – übe viele Fragen zu stellen!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an Situationen, in denen du etwas nicht verstanden hast – „Întreb din nou!“ hilft dir, das Wort gut zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe das Wort „încep“ (beginnen) mit Nachfragen, um dynamische Gespräche zu führen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

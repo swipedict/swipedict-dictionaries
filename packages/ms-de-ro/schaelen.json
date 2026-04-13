@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-schaelen",
+  "parent": "ms-ro-a-curata-de-coaja-3a8a7d09@6ab5d84136f47cb7f6c9056f0ab7374f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schälen",
+    "definition": "Die äußere Haut oder Schale von etwas entfernen, z. B. von Obst oder Gemüse.",
+    "pronunciation": "/ˈʃɛːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „schälen“ stammt vom mittelhochdeutschen 'schelen' ab, das mit dem althochdeutschen 'scālan' verwandt ist und auf die germanische Wurzel *skal- zurückgeht, die 'schälen' oder 'häuten' bedeutet.",
+        "targetText": "Verbul german „schälen“ provine din germana mijlocie 'schelen', înrudit cu germana veche înaltă 'scālan', derivat din rădăcina germanică *skal- care înseamnă 'a decoji' sau 'a jupui'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a curăța (de coajă)",
+    "definition": "A îndepărta stratul exterior, coaja sau pielița unui fruct sau legume.",
+    "pronunciation": "/a kuˈrət͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a curăța“ stammt vom lateinischen 'curatus', Partizip von 'curare' (sorgen, pflegen), abgeleitet von der Bedeutung 'reinigen' oder 'säubern'.",
+        "targetText": "Verbul românesc „a curăța” provine din participiul latin 'curatus', de la verbul 'curare' care înseamnă 'a avea grijă', 'a îngriji', cu sensul extins de 'a curăța' sau 'a spăla'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft mit der Präposition 'de' kombiniert, z. B. 'a curăța de coajă' (schälen)."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "putzen",
+      "targetText": "a curăța"
+    },
+    {
+      "sourceText": "Schale",
+      "targetText": "coajă"
+    },
+    {
+      "sourceText": "schneiden",
+      "targetText": "a tăia"
+    },
+    {
+      "sourceText": "waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unbehandelt lassen",
+      "targetText": "a lăsa necurățat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schäle die Kartoffeln vor dem Kochen.",
+      "targetText": "Eu curăț cartofii de coajă înainte de a-i găti."
+    },
+    {
+      "sourceText": "Bitte schäle die Äpfel für den Kuchen.",
+      "targetText": "Te rog să cureți merele de coajă pentru prăjitură."
+    },
+    {
+      "sourceText": "Sie schält die Karotten mit einem Messer.",
+      "targetText": "Ea curăță morcovii cu un cuțit."
+    },
+    {
+      "sourceText": "Kannst du die Orangen schälen?",
+      "targetText": "Poți să cureți portocalele de coajă?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'schälen' und das rumänische 'curăța' haben beide mit dem Entfernen von etwas zu tun – 'curăța' heißt wörtlich 'säubern', also auch 'schälen'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a curăța' klingt wie 'kurat', was an 'kurat' (rein) erinnert – so kannst du dir merken, dass es ums Reinigen oder Schälen geht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'kurierst' (pflegst) ein Obst, indem du es von der Schale befreist – so merkst du dir 'a curăța'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'curăța' mit 'coajă' (Schale). Wenn du etwas 'curăți de coajă', dann schälst du es – so merkst du dir die typische Wortkombination."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

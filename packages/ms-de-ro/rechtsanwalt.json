@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-rechtsanwalt",
+  "parent": "ms-ro-avocat-06a215dc@ee87640133383383a538a38e4be3fdd8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Rechtsanwalt",
+    "genus": "masculine",
+    "definition": "Ein juristischer Fachmann, der Personen in Rechtsangelegenheiten berät und vor Gericht vertritt.",
+    "pronunciation": "/ˈʁɛçtsʔanvalt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Rechtsanwalt“ setzt sich aus 'Recht' (vom althochdeutschen 'reht', verwandt mit dem gotischen 'rahts') und 'Anwalt' (vom mittelhochdeutschen 'anvalt', ursprünglich 'Beistand') zusammen.",
+        "targetText": "Cuvântul german „Rechtsanwalt” este compus din „Recht” (drept), provenit din germana veche înaltă 'reht', și „Anwalt” (avocat, consilier), derivat din germana mijlocie 'anvalt', însemnând inițial 'ajutor' sau 'apărător'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avocat",
+    "genus": "masculine",
+    "definition": "O persoană calificată în drept, care oferă consultanță juridică și reprezintă clienți în instanță.",
+    "pronunciation": "/a.voˈkat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „avocat“ stammt vom lateinischen 'advocatus' ab, was 'herbeigerufener Helfer' bedeutet und im Mittelalter die Bezeichnung für einen Rechtsbeistand war.",
+        "targetText": "Cuvântul românesc „avocat” provine din latină, din termenul 'advocatus', care însemna 'ajutor chemat', folosit în Evul Mediu pentru a desemna un consilier juridic sau apărător."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anwalt",
+      "targetText": "avocat"
+    },
+    {
+      "sourceText": "Gericht",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Laie",
+      "targetText": "neavizat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Rechtsanwalt berät seinen Mandanten ausführlich.",
+      "targetText": "Avocatul își consiliază detaliat clientul."
+    },
+    {
+      "sourceText": "Ein Rechtsanwalt vertritt seine Klienten vor Gericht.",
+      "targetText": "Un avocat își reprezintă clienții în instanță."
+    },
+    {
+      "sourceText": "Der Rechtsanwalt hat das Gesetz genau studiert.",
+      "targetText": "Avocatul a studiat legea cu atenție."
+    },
+    {
+      "sourceText": "Viele Rechtsanwälte spezialisieren sich auf bestimmte Rechtsgebiete.",
+      "targetText": "Mulți avocați se specializează în anumite domenii juridice."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Rechtsanwalt' enthält 'Recht' – das ist 'drept' auf Rumänisch, und 'Anwalt' entspricht 'avocat'. So kannst du die Zusammensetzung leicht nachvollziehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'avocat' klingt ähnlich wie das französische 'avocat', was dir hilft, es als juristischen Berater zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Avocat' endet auf '-cat' wie 'Kontakt' – ein Rechtsanwalt ist dein Kontakt zur Justiz."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Advokat' wird 'herbeigerufen' (lateinisch 'advocatus'), genau wie ein Rechtsanwalt, der dir im Recht hilft."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

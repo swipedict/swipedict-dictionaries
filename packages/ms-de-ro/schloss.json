@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-schloss",
+  "parent": "ms-ro-lacat-2fae6ea8@fe571e3bbd56a07ed64338ff92d3fc32",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schloss",
+    "genus": "neuter",
+    "definition": "Ein mechanisches Gerät zum Verschließen von Türen, Toren oder Behältern; auch ein großes, oft historisches Gebäude, das als Residenz dient.",
+    "pronunciation": "/ʃlɔs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schloss“ stammt vom althochdeutschen 'sloz' ab, das mit dem mittelhochdeutschen 'slôz' verwandt ist und auf die indogermanische Wurzel *sleu- (schließen, zuschließen) zurückgeht.",
+        "targetText": "Cuvântul german „Schloss” provine din germana veche înaltă 'sloz', legat de germana mijlocie 'slôz', și derivă din rădăcina indo-europeană *sleu- care înseamnă a închide sau a încui."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lacăt",
+    "genus": "neuter",
+    "definition": "Un dispozitiv mecanic folosit pentru a încuia uși, porți sau containere.",
+    "pronunciation": "/laˈkət/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „lacăt“ stammt vom lateinischen 'laqueus' ab, was ursprünglich 'Falle' oder 'Schlinge' bedeutete und später auf Verschlussmechanismen übertragen wurde.",
+        "targetText": "Cuvântul românesc „lacăt” provine din latină, de la 'laqueus', care inițial însemna 'capcană' sau 'noadă', fiind apoi folosit pentru dispozitive de închidere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Schloss (Gebäude)",
+      "targetText": "castel"
+    },
+    {
+      "sourceText": "Schlüssel",
+      "targetText": "cheie"
+    },
+    {
+      "sourceText": "Tor",
+      "targetText": "poartă"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Schloss an der Haustür ist kaputt.",
+      "targetText": "Lacătul de la ușa casei este stricat."
+    },
+    {
+      "sourceText": "Bitte schließe das Schloss ab, bevor du gehst.",
+      "targetText": "Te rog, încui lacătul înainte să pleci."
+    },
+    {
+      "sourceText": "Er hat den Schlüssel für das Schloss verloren.",
+      "targetText": "El a pierdut cheia pentru lacăt."
+    },
+    {
+      "sourceText": "Das Schloss schützt das Tor vor unbefugtem Zutritt.",
+      "targetText": "Lacătul protejează poarta de accesul neautorizat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'lacăt' kommt von 'laqueus', das an eine Falle erinnert – ein Schloss hält etwas sicher fest, wie eine Falle etwas fängt."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das deutsche Wort 'Schloss' und das englische 'lock' – beide beziehen sich auf das Verschließen, und 'lacăt' klingt ähnlich wie 'lock'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen 'Lock' (englisch für Schloss) und das klingt ähnlich wie 'lacăt'. So kannst du dir das rumänische Wort leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an ein Schloss denkst, stell dir vor, wie es etwas 'lässt' (lat. 'laqueus' = Falle) und so etwas sichert – das hilft dir, 'lacăt' zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

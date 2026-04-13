@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-gestern",
+  "parent": "ms-ro-ieri-0011acd6@07f3bfde77ef7ad9a7d1baa89a7b05c9",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gestern",
+    "definition": "Der Tag vor dem heutigen Tag.",
+    "pronunciation": "/ˈɡɛstɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „gestern“ stammt vom althochdeutschen 'gestern' ab, das auf die germanische Wurzel *gistran zurückgeht und den vorangegangenen Tag bezeichnet.",
+        "targetText": "Cuvântul german „gestern” provine din germana veche înaltă 'gestern', derivat din rădăcina germanică *gistran, care desemna ziua precedentă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ieri",
+    "definition": "Ziua care a fost înainte de ziua de azi.",
+    "pronunciation": "/ˈje.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ieri“ stammt vom lateinischen 'heri' ab, das gestern oder am Vortag bedeutet.",
+        "targetText": "Cuvântul românesc „ieri” provine din latină, din 'heri', care însemna ieri sau ziua precedentă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "heute",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "morgen",
+      "targetText": "mâine"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "Zeit",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "morgen",
+      "targetText": "mâine"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Gestern war ich im Kino.",
+      "targetText": "Ieri am fost la cinema."
+    },
+    {
+      "sourceText": "Gestern hat es geregnet.",
+      "targetText": "Ieri a plouat."
+    },
+    {
+      "sourceText": "Ich habe dich gestern gesehen.",
+      "targetText": "Te-am văzut ieri."
+    },
+    {
+      "sourceText": "Gestern war ein schöner Tag.",
+      "targetText": "Ieri a fost o zi frumoasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚gestern‘ und das rumänische ‚ieri‘ sind beide alt und stammen aus der Zeit der germanischen und lateinischen Wurzeln."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ieri“ klingt wie das deutsche ‚Jahr‘ mit einem ‚i‘ am Ende – stell dir vor, gestern war vor einem Jahr, um es dir zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich, dass ‚ieri‘ vom lateinischen ‚heri‘ kommt, das gestern bedeutet – viele romanische Sprachen haben ähnliche Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst ‚I-er-i‘ wie ein kleines Lied, das dich an den Tag vor heute erinnert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

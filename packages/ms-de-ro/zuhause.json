@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-zuhause",
+  "parent": "ms-ro-acasa-9fed2b95@e61b4975c11678f14454b85069681dd9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zuhause",
+    "genus": "neuter",
+    "definition": "Der Ort, an dem man lebt und sich geborgen fühlt; das Heim.",
+    "pronunciation": "/ˈtsuːˌhaʊ̯zə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zuhause“ setzt sich aus der Präposition „zu“ und dem Substantiv „Haus“ zusammen, wobei „Haus“ auf das althochdeutsche 'hūs' zurückgeht, das mit dem gotischen 'hūs' verwandt ist und ursprünglich 'Behausung' bedeutete.",
+        "targetText": "Cuvântul german „Zuhause” este compus din prepoziția „zu” și substantivul „Haus”, care provine din germana veche înaltă 'hūs', înrudit cu goticul 'hūs', însemnând inițial „locuință”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acasă",
+    "genus": "neuter",
+    "definition": "Locul unde cineva locuiește și se simte în siguranță; căminul.",
+    "pronunciation": "/aˈka.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „acasă“ stammt vom lateinischen Adverb 'accāsi' ab, das sich aus 'ad' (zu) und 'casa' (Hütte, Haus) zusammensetzt. 'Casa' selbst ist ein Lehnwort aus dem Lateinischen, das 'Haus' bedeutet.",
+        "targetText": "Cuvântul românesc „acasă” provine din adverbul latin 'accāsi', format din 'ad' (către) și 'casa' (căsuță, casă). 'Casa' este un împrumut din latină care înseamnă „casă”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Heim",
+      "targetText": "cămin"
+    },
+    {
+      "sourceText": "Nach Hause gehen",
+      "targetText": "a merge acasă"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unterwegs",
+      "targetText": "plecat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fühle mich zuhause, wenn ich bei meiner Familie bin.",
+      "targetText": "Mă simt acasă când sunt cu familia mea."
+    },
+    {
+      "sourceText": "Nach einem langen Tag freue ich mich, wieder zuhause zu sein.",
+      "targetText": "După o zi lungă, mă bucur să fiu din nou acasă."
+    },
+    {
+      "sourceText": "Zuhause ist dort, wo das Herz ist.",
+      "targetText": "Acasă este acolo unde este inima."
+    },
+    {
+      "sourceText": "Sie arbeitet von zuhause aus.",
+      "targetText": "Ea lucrează de acasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Zuhause' und das rumänische 'acasă' teilen beide die Bedeutung von 'Heim' und haben ähnliche lateinische Wurzeln, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'acasă' klingt wie 'a casa' (spanisch für 'Haus'), was dir hilft, es mit dem Ort zu verbinden, an dem man lebt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'zu Hause' im Deutschen entspricht 'acasă' im Rumänischen – beide drücken den Ort aus, an dem man sich sicher und wohl fühlt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du kommst 'a casa' (nach Hause) und fühlst dich sofort geborgen – so merkst du dir 'acasă'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-beruehren",
+  "parent": "ms-ro-a-atinge-6a27ea34@5d70ddc71313e60230b1e2a9763a7d49",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "berühren",
+    "definition": "mit der Hand oder einem Gegenstand Kontakt zu etwas herstellen",
+    "pronunciation": "/bəˈʁyːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „berüeren“, was „ergreifen, anrühren“ bedeutet.",
+        "targetText": "Derivat din germana mijlocie „berüeren“, care înseamnă „a atinge“ sau „a mișca“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Kann sowohl physische als auch emotionale Berührung umfassen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a atinge",
+    "definition": "a face contact cu ceva cu mâna sau un obiect",
+    "pronunciation": "/a aˈtin.dʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „attingere“ abgeleitet, was „berühren“ oder „erreichen“ bedeutet. Es umfasst physische und metaphorische Bedeutungen.",
+        "targetText": "Derivat din latinescul „attingere“, care înseamnă „a atinge“ sau „a ajunge la“. Include sensuri fizice și metaforice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-e). Kann sowohl physisch als auch metaphorisch verwendet werden."
+  },
+  "senses": [
+    {
+      "gloss": "berührt werden",
+      "explanation": {
+        "sourceText": "Für emotionale Reaktionen verwendet.",
+        "targetText": "Folosit pentru reacții emoționale."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fühle mich berührt durch Ihre Worte.",
+          "targetText": "Mă simt atins de cuvintele tale."
+        }
+      ]
+    },
+    {
+      "gloss": "die Berührung",
+      "explanation": {
+        "sourceText": "Kann auch im Sinne von emotionaler Berührung verwendet werden.",
+        "targetText": "Poate fi folosit și în sensul de atingere emoțională."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Musik berührt mich.",
+          "targetText": "Muzica mă atinge."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Berührung",
+      "targetText": "atingere"
+    },
+    {
+      "sourceText": "Finger",
+      "targetText": "deget"
+    },
+    {
+      "sourceText": "Haut",
+      "targetText": "piele"
+    },
+    {
+      "sourceText": "Kontakt",
+      "targetText": "contact"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abwenden",
+      "targetText": "îndepărta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich berühre die Wand.",
+      "targetText": "Eu ating peretele."
+    },
+    {
+      "sourceText": "Berührst du die Blume?",
+      "targetText": "Atingi floarea?"
+    },
+    {
+      "sourceText": "Sie berührt den Kühlschrank.",
+      "targetText": "Ea atinge frigiderul."
+    },
+    {
+      "sourceText": "Wir berühren die Tasten.",
+      "targetText": "Noi atingem tastele."
+    },
+    {
+      "sourceText": "Berührt ihr das Wasser?",
+      "targetText": "Atingeți apa?"
+    },
+    {
+      "sourceText": "Sie berühren die Bilder.",
+      "targetText": "Ei ating imaginile."
+    },
+    {
+      "sourceText": "Ich habe die Oberfläche berührt.",
+      "targetText": "Am atins suprafața."
+    },
+    {
+      "sourceText": "Er berührte sie sanft.",
+      "targetText": "El o atingea ușor."
+    },
+    {
+      "sourceText": "Ich werde den Ball berühren.",
+      "targetText": "Voi atinge mingea."
+    },
+    {
+      "sourceText": "Ich würde es berühren, wenn ich könnte.",
+      "targetText": "Aș atinge dacă aș putea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A atinge“ bedeutet nicht nur physisch berühren, sondern auch emotional berühren – das macht das Wort vielseitig und leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-e“ im Präsens erinnert an das deutsche „ich berühre“ – diese Ähnlichkeit hilft beim Lernen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

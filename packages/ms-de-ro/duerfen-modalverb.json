@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-duerfen-modalverb",
+  "parent": "ms-ro-a-avea-voie-cb7850e9@650b14b50fae8f958e4bba483cbadb56",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dürfen",
+    "definition": "Die Erlaubnis haben, etwas zu tun.",
+    "pronunciation": "/ˈdʏʁfn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Modalverb „dürfen“ stammt vom althochdeutschen 'durfen' ab, das mit dem gotischen 'durfan' verwandt ist und 'müssen dürfen' oder 'können' bedeutete.",
+        "targetText": "Verbul modal german „dürfen” provine din germana veche înaltă 'durfan', înrudit cu goticul 'durfan', însemnând 'a trebui să poată' sau 'a avea permisiunea'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a avea voie",
+    "definition": "A avea permisiunea de a face ceva.",
+    "pronunciation": "/a aˈvea ˈvoj.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Wendung „a avea voie“ besteht aus dem Verb 'a avea' (haben) und dem Substantiv 'voie' (Erlaubnis), das vom lateinischen 'voluntas' abstammt.",
+        "targetText": "Expresia românească „a avea voie” este formată din verbul 'a avea' și substantivul 'voie', care provine din latină 'voluntas' (voință, permisiune)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "erlauben",
+      "targetText": "a permite"
+    },
+    {
+      "sourceText": "können",
+      "targetText": "a putea"
+    },
+    {
+      "sourceText": "müssen",
+      "targetText": "a trebui"
+    },
+    {
+      "sourceText": "Verbot",
+      "targetText": "interdicție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht dürfen",
+      "targetText": "a nu avea voie"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich darf heute länger bleiben.",
+      "targetText": "Am voie să rămân mai mult azi."
+    },
+    {
+      "sourceText": "Er hat nicht gedurft, das zu tun.",
+      "targetText": "El nu a avut voie să facă asta."
+    },
+    {
+      "sourceText": "Früher durften Kinder länger draußen spielen.",
+      "targetText": "Copiii aveau voie să se joace afară mai mult."
+    },
+    {
+      "sourceText": "Du wirst morgen nicht dürfen rauchen.",
+      "targetText": "Mâine nu vei avea voie să fumezi."
+    },
+    {
+      "sourceText": "Du darfst hier nicht parken!",
+      "targetText": "Nu ai voie să parchezi aici!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'voie' kommt von lateinisch 'voluntas' (Wille), was dir hilft, die Bedeutung von Erlaubnis und Zustimmung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen benutzt man keine Modalverben wie im Deutschen, sondern eine feste Wendung mit 'a avea' plus 'voie'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'a avea voie' wörtlich 'haben Erlaubnis' bedeutet, was genau dem deutschen 'dürfen' entspricht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'Voie' (Wege) frei, also die Erlaubnis, etwas zu tun."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

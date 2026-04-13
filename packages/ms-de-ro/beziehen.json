@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-beziehen",
+  "parent": "ms-ro-a-se-referi-4516a4fc@2600c778926cab3bd647f3a5b410f2f9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beziehen",
+    "definition": "etwas erhalten oder empfangen, vor allem regelmäßig",
+    "pronunciation": "/bəˈtsiːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „beziehen“ stammt vom mittelhochdeutschen „bezīhen“ und bedeutet ursprünglich „anziehen“ oder „in Beziehung setzen“.",
+        "targetText": "Verbul german „beziehen“ provine din mijlocul german „bezīhen“ și însemna inițial „a îmbrăca“ sau „a lega o relație“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in verschiedenen Kontexten verwendet, z.B. um Bezug auf etwas zu nehmen oder Lieferungen zu beziehen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se referi",
+    "definition": "a primi sau a primi ceva, în special în mod regulat",
+    "pronunciation": "/a se reˈfe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se referi“ leitet sich vom lateinischen „referre“ ab, was „zurücktragen“ oder „beziehen“ bedeutet. Im Rumänischen hat es die Bedeutung „sich beziehen auf“ erhalten.",
+        "targetText": "Verbul românesc „a se referi“ provine din latină, din „referre“, care înseamnă „a aduce înapoi“ sau „a face referire“, și a căpătat sensul de „a se raporta la“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist reflexiv und wird genutzt, um Beziehungen oder Verbindungen zu verdeutlichen."
+  },
+  "senses": [
+    {
+      "gloss": "beziehen",
+      "explanation": {
+        "sourceText": "In einem weiteren Sinne kann es auch die Bedeutung des Übertragens tragen.",
+        "targetText": "Într-un sens mai larg, poate însemna și a transmite sau a transfera."
+      },
+      "examples": [
+        {
+          "sourceText": "Er bezieht seine Ideen aus mehreren Quellen.",
+          "targetText": "El se referă la ideile sale din mai multe surse."
+        }
+      ]
+    },
+    {
+      "gloss": "etwas erhalten",
+      "explanation": {
+        "sourceText": "Bezeichnet das Empfangen von Informationen oder Gütern.",
+        "targetText": "Se referă la primirea de informații sau bunuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich beziehe die Informationen aus dieser Quelle.",
+          "targetText": "Mă refer la informațiile din această sursă."
+        }
+      ]
+    },
+    {
+      "gloss": "sich beziehen auf",
+      "explanation": {
+        "sourceText": "Das Verb wird oft in Kontexten verwendet, um Bezug auf Informationen oder Diskussionen zu nehmen.",
+        "targetText": "Verbul este folosit frecvent pentru a face referire la informații sau discuții."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich beziehe mich auf unsere letzte Unterhaltung.",
+          "targetText": "Mă refer la discuția noastră anterioară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Angebot",
+      "targetText": "ofertă"
+    },
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abwenden",
+      "targetText": "a se abate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich beziehe meine Informationen aus verschiedenen Quellen.",
+      "targetText": "Mă refer la informațiile provenite din diverse surse."
+    },
+    {
+      "sourceText": "Beziehst du die Waren direkt vom Lieferanten?",
+      "targetText": "Te referi la produsele pe care le obții direct de la furnizor?"
+    },
+    {
+      "sourceText": "Er bezieht seine Gedanken aus den neuesten Studien.",
+      "targetText": "El se referă la gândurile sale bazate pe cele mai recente studii."
+    },
+    {
+      "sourceText": "Wir beziehen uns auf die vorherige Diskussion.",
+      "targetText": "Ne referim la discuția anterioară."
+    },
+    {
+      "sourceText": "Bezieht ihr eure Ideen von den Experten?",
+      "targetText": "Vă referiți la ideile experților?"
+    },
+    {
+      "sourceText": "Sie beziehen ihre Dienstleistungen von einem externen Anbieter.",
+      "targetText": "Ei se referă la serviciile oferite de un furnizor extern."
+    },
+    {
+      "sourceText": "Ich habe mich auf die neuen Richtlinien bezogen.",
+      "targetText": "M-am referit la noile linii directoare."
+    },
+    {
+      "sourceText": "Er bezog sich oft auf historische Ereignisse.",
+      "targetText": "El se referea adesea la evenimente istorice."
+    },
+    {
+      "sourceText": "Ich werde mich auf die Ergebnisse beziehen.",
+      "targetText": "Mă voi referi la rezultate."
+    },
+    {
+      "sourceText": "Beziehe die notwendigen Informationen!",
+      "targetText": "Referă-te la informațiile necesare!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „referierst“ immer wieder auf eine Quelle – das hilft dir, „a se referi“ als reflexives Verb zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Um „a se referi“ zu merken, denke an das Verb „referieren“ im Deutschen – es bedeutet auch „sich beziehen auf“. So kannst du die Bedeutung leicht verbinden!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

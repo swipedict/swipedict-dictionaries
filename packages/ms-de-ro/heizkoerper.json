@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-heizkoerper",
+  "parent": "ms-ro-radiator-2ddd6137@dad8aa2ee61896ea7b472606efd1139a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Heizkörper",
+    "genus": "masculine",
+    "definition": "Ein Gerät, das Wärme abgibt, um einen Raum zu beheizen, meist aus Metall und an der Wand montiert.",
+    "pronunciation": "/ˈhaɪ̯tsˌkœʁpɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Heizkörper“ setzt sich aus den Wörtern 'heizen' und 'Körper' zusammen, wobei 'heizen' vom althochdeutschen 'heizan' stammt, was 'Wärme zuführen' bedeutet, und 'Körper' vom althochdeutschen 'korpēr' kommt.",
+        "targetText": "Cuvântul german „Heizkörper” este compus din 'heizen' (a încălzi), derivat din germana veche înaltă 'heizan', și 'Körper' (corp), provenit din germana veche înaltă 'korpēr'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "radiator",
+    "genus": "neuter",
+    "definition": "Un dispozitiv metalic folosit pentru a încălzi o cameră prin radiație și convecție de căldură.",
+    "pronunciation": "/radiˈator/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „radiator“ stammt vom lateinischen Verb 'radiare' ab, was 'strahlen' bedeutet, und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „radiator” provine din verbul latin 'radiare', care înseamnă 'a radia', fiind preluat în limba română prin franceză."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Maskulinum, Plural: radiatoare."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Kessel",
+      "targetText": "cazan"
+    },
+    {
+      "sourceText": "Thermostat",
+      "targetText": "termostat"
+    },
+    {
+      "sourceText": "Warmwasser",
+      "targetText": "apă caldă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Heizkörper im Wohnzimmer ist sehr warm.",
+      "targetText": "Radiatorul din sufragerie este foarte cald."
+    },
+    {
+      "sourceText": "Bitte stelle die Temperatur am Heizkörper höher ein.",
+      "targetText": "Te rog să reglezi temperatura la radiator mai sus."
+    },
+    {
+      "sourceText": "Im Winter heizen wir mit dem Heizkörper das ganze Haus.",
+      "targetText": "Iarna încălzim toată casa cu radiatorul."
+    },
+    {
+      "sourceText": "Der Heizkörper ist aus Metall und hängt an der Wand.",
+      "targetText": "Radiatorul este din metal și este montat pe perete."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'radiator' klingt ähnlich wie das englische 'radiate' – beide beziehen sich auf das Abgeben von Wärme oder Strahlen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'radiator' kommt vom lateinischen 'radiare' (strahlen). Denk an die Wärme, die vom Heizkörper 'ausstrahlt'."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen ist 'Heizkörper' ein zusammengesetztes Wort, im Rumänischen dagegen ein Lehnwort aus dem Lateinischen über Französisch – das zeigt die romanische Herkunft."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Heizkörper 'radiert' die Kälte aus dem Raum – so kannst du dir 'radiator' leicht merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

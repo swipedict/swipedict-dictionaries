@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-student",
+  "parent": "ms-ro-student-b723af33@788b899ba4d70e4732ba5d9ac3bc4ba5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Student",
+    "genus": "masculine",
+    "definition": "Eine Person, die an einer Hochschule oder Universität eingeschrieben ist und dort studiert.",
+    "pronunciation": "/ʃtuˈdɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Student“ stammt aus dem Lateinischen 'studens', Partizip Präsens von 'studere' (sich bemühen, lernen).",
+        "targetText": "Cuvântul german „Student” provine din latină, de la 'studens', participiul prezent al verbului 'studere' (a se strădui, a învăța)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "student",
+    "genus": "masculine",
+    "definition": "Persoană înscrisă la o instituție de învățământ superior care urmează cursuri universitare.",
+    "pronunciation": "/stuˈdent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „student“ stammt direkt vom lateinischen 'studens' ab, dem Partizip Präsens von 'studere' (sich bemühen, lernen).",
+        "targetText": "Cuvântul românesc „student” provine direct din latină, de la 'studens', participiul prezent al verbului 'studere' (a se strădui, a învăța)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schüler",
+      "targetText": "elev"
+    },
+    {
+      "sourceText": "Studium",
+      "targetText": "studiu"
+    },
+    {
+      "sourceText": "Universität",
+      "targetText": "universitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Student lernt für die Prüfung.",
+      "targetText": "Studentul învață pentru examen."
+    },
+    {
+      "sourceText": "Viele Studenten wohnen in Wohnheimen.",
+      "targetText": "Mulți studenți locuiesc în cămine studențești."
+    },
+    {
+      "sourceText": "Die Studentin schreibt eine Seminararbeit.",
+      "targetText": "Studenta scrie o lucrare de seminar."
+    },
+    {
+      "sourceText": "Studenten diskutieren oft über verschiedene Themen.",
+      "targetText": "Studenții discută adesea despre diverse teme."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'student' klingt fast genauso wie im Deutschen – das hilft dir, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'student' endet auf '-ent', wie viele lateinische Partizipien, was dir hilft, die Herkunft zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'student' im Rumänischen sowohl männlich als auch weiblich verwendet wird; für weiblich kannst du auch 'studenta' hören."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du 'studierst' und dabei ein 'Student' bist – beide Wörter stammen vom lateinischen 'studere'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

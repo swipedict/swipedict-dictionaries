@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-unverschaemt",
+  "parent": "ms-ro-nesimtit-5a316275@f697ac6e03d0d436c843e7fbd4e394df",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unverschämt",
+    "definition": "Jemand, der sich respektlos, frech oder dreist verhält, ohne Rücksicht auf andere.",
+    "pronunciation": "/ʊn.fɛɐ̯ˈʃɛmt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „unverschämt“ setzt sich aus dem negierenden Präfix 'un-' und dem Partizip 'verschämt' zusammen, das vom Verb 'verschämen' stammt, welches auf das mittelhochdeutsche 'verschamen' zurückgeht und 'beschämt sein' bedeutet.",
+        "targetText": "Adjectivul „unverschämt” este format din prefixul negativ 'un-' și participiul 'verschämt', derivat din verbul german vechi 'verschamen', care însemna 'a fi rușinat'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nesimțit",
+    "definition": "Persoană care se comportă fără respect, obraznic sau îndrăzneț, fără a ține cont de ceilalți.",
+    "pronunciation": "/neˈsim.tit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „nesimțit“ stammt vom lateinischen Präfix 'ne-' (nicht) und dem Substantiv 'simț' ab, das vom lateinischen 'sensus' kommt und 'Gefühl' bedeutet. Es beschreibt jemanden ohne Gefühl oder Anstand.",
+        "targetText": "Adjectivul românesc „nesimțit” provine din prefixul latin 'ne-' (nu) și substantivul 'simț', derivat din latină 'sensus', care înseamnă 'simț'. Termenul descrie o persoană fără simț moral sau respect."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anständig",
+      "targetText": "cuviincios"
+    },
+    {
+      "sourceText": "dreist",
+      "targetText": "îndrăzneț"
+    },
+    {
+      "sourceText": "frech",
+      "targetText": "obraznic"
+    },
+    {
+      "sourceText": "respektlos",
+      "targetText": "lipsit de respect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "höflich",
+      "targetText": "politicos"
+    },
+    {
+      "sourceText": "respektvoll",
+      "targetText": "respectuos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er war unverschämt genug, seine Meinung laut zu sagen.",
+      "targetText": "A fost destul de nesimțit să-și spună părerea cu voce tare."
+    },
+    {
+      "sourceText": "Das war eine unverschämte Forderung.",
+      "targetText": "Aceasta a fost o cerere nesimțită."
+    },
+    {
+      "sourceText": "Sie benahm sich unverschämt gegenüber den Gästen.",
+      "targetText": "S-a comportat nesimțit față de oaspeți."
+    },
+    {
+      "sourceText": "Unverschämtes Verhalten wird nicht toleriert.",
+      "targetText": "Comportamentul nesimțit nu este tolerat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort beginnt mit 'un-', das rumänische auch mit 'ne-', beide bedeuten 'nicht' – das hilft beim Erinnern an die Verneinung."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „nesimțit“ enthält das Wort „simț“ (Gefühl). Wenn jemand 'nesimțit' ist, fehlt ihm das Gefühl für Anstand – also 'ohne Gefühl'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand hat keinen 'Sinn' (simț) für Respekt – so merkst du dir 'nesimțit' als 'unverschämt'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'unverschämt' mit dem Bild eines frechen Kindes, das keine Scham kennt – genauso ist 'nesimțit' im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

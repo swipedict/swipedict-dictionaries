@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-verwitwet",
+  "parent": "ms-ro-vaduv-06f577da@f0c9f82f3d0caf38c8f2485290f30d17",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verwitwet",
+    "definition": "Den Zustand beschreibend, wenn eine Person ihren Ehepartner durch Tod verloren hat.",
+    "pronunciation": "/fɛɐ̯ˈvɪtvət/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „verwitwet“ leitet sich vom Verb „verwitwen“ ab, das aus dem mittelhochdeutschen 'wîtwe' stammt, welches auf das althochdeutsche 'wîtuwa' zurückgeht und 'Witwe' bedeutet.",
+        "targetText": "Adjectivul german „verwitwet” derivă din verbul „verwitwen”, care provine din germana mijlocie 'wîtwe', la rândul său din germana veche înaltă 'wîtuwa', însemnând 'văduvă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "văduv",
+    "definition": "Persoană care și-a pierdut soțul sau soția prin deces.",
+    "pronunciation": "/vəˈduv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „văduv“ stammt vom lateinischen 'viduus' ab, was 'frei von Ehepartner' oder 'verwitwet' bedeutet und sich aus dem klassischen Latein entwickelte.",
+        "targetText": "Cuvântul românesc „văduv” provine din latinescul 'viduus', care înseamnă 'liber de soț/soție' sau 'văduv', evoluând din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ehepartner",
+      "targetText": "soț / soție"
+    },
+    {
+      "sourceText": "Trauer",
+      "targetText": "doliu"
+    },
+    {
+      "sourceText": "Verlust",
+      "targetText": "pierdere"
+    },
+    {
+      "sourceText": "Witwe",
+      "targetText": "văduvă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verheiratet",
+      "targetText": "căsătorit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie ist seit einem Jahr verwitwet.",
+      "targetText": "Ea este văduvă de un an."
+    },
+    {
+      "sourceText": "Der verwitwete Mann lebt allein.",
+      "targetText": "Bărbatul văduv trăiește singur."
+    },
+    {
+      "sourceText": "Nach dem Tod ihres Mannes war sie verwitwet.",
+      "targetText": "După moartea soțului ei, a rămas văduvă."
+    },
+    {
+      "sourceText": "Viele verwitwete Menschen brauchen Unterstützung.",
+      "targetText": "Mulți văduvi au nevoie de sprijin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „verwitwet“ enthält das Wort „Witwe“, was dir hilft, die Verbindung zum rumänischen 'văduv' zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „văduv“ klingt ähnlich wie das deutsche Wort „Witwe“, beide stammen vom lateinischen 'viduus' ab – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'văduv' endet auf -uv, was im Rumänischen oft maskuline Substantive kennzeichnet – so erkennst du, dass es sich um einen Mann handelt, ähnlich wie 'verwitwet' für Männer und Frauen gilt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand ist 'frei' von seinem Partner – das lateinische 'viduus' bedeutet genau das, und daraus entstand das rumänische 'văduv'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

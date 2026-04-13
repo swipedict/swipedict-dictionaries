@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bogen-waffe",
+  "parent": "ms-ro-arc-7fe65393@109dae968a2f90dd02e470306b50bce3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bogen",
+    "genus": "masculine",
+    "definition": "Waffe, die aus einem gebogenen Holzstück und einer gespannten Sehne besteht, um Pfeile abzuschießen.",
+    "pronunciation": "/ˈboːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bogen“ stammt vom althochdeutschen 'bogo' ab, das 'Bogen, Krümmung' bedeutet und auf eine indogermanische Wurzel zurückgeht.",
+        "targetText": "Cuvântul german „Bogen” provine din germana veche înaltă 'bogo', care înseamnă 'arc' sau 'curbură', având o rădăcină indo-europeană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "arc",
+    "genus": "neuter",
+    "definition": "Armă formată dintr-o bucată curbată de lemn și o coardă întinsă pentru a trage săgeți.",
+    "pronunciation": "/ark/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „arc“ stammt vom lateinischen 'arcus' ab, das 'Bogen' bedeutet.",
+        "targetText": "Cuvântul românesc „arc” provine din latină, de la 'arcus', care înseamnă 'arc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Pfeil",
+      "targetText": "săgeată"
+    },
+    {
+      "sourceText": "Schießen",
+      "targetText": "a trage"
+    },
+    {
+      "sourceText": "Spannen",
+      "targetText": "a întinde"
+    },
+    {
+      "sourceText": "Waffe",
+      "targetText": "armă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Bogen ist aus Holz gefertigt.",
+      "targetText": "Arc este făcut din lemn."
+    },
+    {
+      "sourceText": "Er spannte den Bogen und schoss den Pfeil ab.",
+      "targetText": "A întins arcul și a tras săgeata."
+    },
+    {
+      "sourceText": "Ein Bogen wird zum Bogenschießen verwendet.",
+      "targetText": "Un arc este folosit pentru tir cu arcul."
+    },
+    {
+      "sourceText": "Der Bogen hat eine elegante Krümmung.",
+      "targetText": "Arcul are o curbură elegantă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Bogen“ und das rumänische „arc“ stammen beide vom Lateinischen ab, was dir hilft, die Verbindung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „arc“ klingt wie das englische Wort ‚ark‘, aber hier bedeutet es ‚Bogen‘ – stell dir einen Bogen als ‚Ark‘ vor, der Pfeile trägt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „arc“ ist kurz und prägnant – ähnlich wie die Form eines Bogens."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du mit einem ‚arc‘ (Bogen) einen Pfeil abschießt – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

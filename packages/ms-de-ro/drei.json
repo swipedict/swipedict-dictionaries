@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-drei",
+  "parent": "ms-ro-trei-be8812f7@77b6dcd99fbb60db663f38921d337179",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "drei",
+    "definition": "Die Zahl 3, die nach zwei und vor vier kommt.",
+    "pronunciation": "/draɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Zahlwort „drei“ stammt vom althochdeutschen 'drī' ab, das auf die proto-germanische Wurzel *þrīz zurückgeht, verwandt mit dem lateinischen 'tres'.",
+        "targetText": "Cuvântul german pentru numărul trei „drei” provine din germana înaltă veche 'drī', derivat din rădăcina proto-germanică *þrīz, înrudit cu latinul 'tres'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "trei",
+    "definition": "Numărul 3, care urmează după doi și înainte de patru.",
+    "pronunciation": "/trej/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Zahlwort „trei“ stammt vom lateinischen 'tres' ab, das die Zahl drei bezeichnet.",
+        "targetText": "Cuvântul românesc pentru numărul trei „trei” provine din latinul 'tres', care desemnează cifra trei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "eins",
+      "targetText": "unu"
+    },
+    {
+      "sourceText": "vier",
+      "targetText": "patru"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "zwei",
+      "targetText": "doi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe drei Äpfel.",
+      "targetText": "Am trei mere."
+    },
+    {
+      "sourceText": "Drei ist eine ungerade Zahl.",
+      "targetText": "Trei este un număr impar."
+    },
+    {
+      "sourceText": "Sie kommen zu dritt.",
+      "targetText": "Vin în trei."
+    },
+    {
+      "sourceText": "Drei mal drei ist neun.",
+      "targetText": "Trei ori trei este nouă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'drei' und das rumänische 'trei' klingen ähnlich und stammen beide vom lateinischen 'tres' ab."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische 'tres' ist die Wurzel für viele Sprachen, z.B. deutsch 'drei' und rumänisch 'trei'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'trei' als 'drei' mit einem 't' am Anfang – beide bedeuten die Zahl 3."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir drei (trei) Freunde vor, die zusammen etwas unternehmen – so merkst du dir die Zahl leicht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

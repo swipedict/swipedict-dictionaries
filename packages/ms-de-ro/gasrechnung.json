@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gasrechnung",
+  "parent": "ms-ro-factura-la-gaze-c611ba59@01a813d567127083c9e7cf84dae78c99",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gasrechnung",
+    "genus": "feminine",
+    "definition": "Eine Rechnung, die den Verbrauch und die Kosten für Gas in einem Haushalt oder Unternehmen auflistet.",
+    "pronunciation": "/ˈɡaːsʁɛçnʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gasrechnung“ setzt sich aus „Gas“ und „Rechnung“ zusammen. „Gas“ stammt vom griechischen Wort „khaos“ über das lateinische „gas“, während „Rechnung“ vom althochdeutschen „rechnunga“ abstammt.",
+        "targetText": "Cuvântul german „Gasrechnung“ este compus din „Gas“ și „Rechnung“. „Gas“ provine din grecescul „khaos“ prin latină „gas“, iar „Rechnung“ derivă din vechiul german „rechnunga“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "factură la gaze",
+    "genus": "feminine",
+    "definition": "Document care detaliază consumul și costurile pentru gaz într-o locuință sau afacere.",
+    "pronunciation": "/fakˈtu.rə la ˈɡaze/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „factură“ stammt vom lateinischen 'factura', was 'Herstellung' oder 'Anfertigung' bedeutet, im modernen Gebrauch aber 'Rechnung' meint. „Gaze“ ist der Plural von „gaz“, entlehnt aus dem französischen „gaz“, das wiederum vom italienischen „gas“ stammt, ursprünglich geprägt im 17. Jahrhundert.",
+        "targetText": "Cuvântul românesc „factură“ provine din latină 'factura', care înseamnă 'fabricare' sau 'realizare', dar în uzul modern înseamnă 'factură'. „Gaze“ este pluralul de la „gaz“, împrumutat din franceza „gaz“, care la rândul său provine din italiana „gas“, termen apărut în secolul al XVII-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gas",
+      "targetText": "gaz"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "Stromrechnung",
+      "targetText": "factură la electricitate"
+    },
+    {
+      "sourceText": "Wasserrechnung",
+      "targetText": "factură la apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe die Gasrechnung für letzten Monat bezahlt.",
+      "targetText": "Am plătit factura la gaze pentru luna trecută."
+    },
+    {
+      "sourceText": "Die Gasrechnung ist diesen Monat höher als sonst.",
+      "targetText": "Factura la gaze este mai mare luna aceasta decât de obicei."
+    },
+    {
+      "sourceText": "Kannst du mir die Gasrechnung zeigen?",
+      "targetText": "Îmi poți arăta factura la gaze?"
+    },
+    {
+      "sourceText": "Wir versuchen, die Gasrechnung zu senken, indem wir weniger heizen.",
+      "targetText": "Încercăm să reducem factura la gaze prin încălzirea mai puțin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Gaze“ ist der Plural von „gaz“ und klingt wie das deutsche Wort „Gas“ – so kannst du dir leicht merken, dass es um Gas geht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „factură“ klingt ähnlich wie das deutsche Wort „Faktur“ (Fakturierung), was dir hilft, die Bedeutung als Rechnung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „factură“ kommt vom lateinischen 'factura', was Herstellung bedeutet – so kannst du dir vorstellen, dass die Rechnung das „Herstellen“ der Kosten dokumentiert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst eine „factură la gaze“ wie eine Quittung für das Gas, das du verbraucht hast – das hilft dir, die Wortkombination zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ms-de-ro-fressen",
+  "parent": "ms-ro-a-manca-9cf928d6@3a36e023bb4e70087923ef57aed13cb4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fressen",
+    "definition": "etwas essen, insbesondere von Tieren",
+    "pronunciation": "/ˈfʁɛsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „fressen“ stammt vom mittelhochdeutschen „vresen“, was ‚essen‘ bedeutete, und hat seinen Ursprung im althochdeutschen „frezzen“, was ‚nagen‘ oder ‚essen‘ bedeutet. Es wird hauptsächlich für Tiere verwendet.",
+        "targetText": "Verbul „fressen“ provine din germana mijlocie „vresen“, însemnând „a mânca“, derivat din germana veche „frezzen“, folosit mai ales pentru animale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb hat eine starke Konjugation und beschreibt oft, wie Tiere Nahrung zu sich nehmen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mânca",
+    "definition": "a consuma hrană, în special referitor la animale",
+    "pronunciation": "/a mɨŋˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a mânca“ stammt vom lateinischen „manducare“ ab, was ‚essen‘ oder ‚verzehren‘ bedeutet. Es ist das allgemeine Verb für essen, auch bei Tieren.",
+        "targetText": "Verbul românesc „a mânca“ derivă din latină, din „manducare“, însemnând „a mânca“ sau „a consuma hrană“, folosit atât pentru oameni, cât și pentru animale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt hauptsächlich die Handlung des Essens durch Menschen; im übertragenen Sinne auch eine starke Wirkung, wenn verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Tier fressen",
+      "explanation": {
+        "sourceText": "Verwendet für Tiere, die Nahrung aufnehmen.",
+        "targetText": "Folosit pentru animale care consumă hrană."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Kuh frisst Gras.",
+          "targetText": "Vaca mănâncă iarbă."
+        }
+      ]
+    },
+    {
+      "gloss": "völlig essen",
+      "explanation": {
+        "sourceText": "Kann auch bedeuten, viel oder übermäßig zu essen.",
+        "targetText": "Poate însemna și a mânca mult sau excesiv."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fresse alles auf dem Tisch.",
+          "targetText": "Eu mănânc tot de pe masă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "Futter",
+      "targetText": "furaj"
+    },
+    {
+      "sourceText": "Nahrung",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "Tier",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hungern",
+      "targetText": "a înfometa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fresse das Brot.",
+      "targetText": "Eu mănânc pâinea."
+    },
+    {
+      "sourceText": "Fressest du das Gemüse?",
+      "targetText": "Mănânci legumele?"
+    },
+    {
+      "sourceText": "Die Katze frisst ihren Fisch.",
+      "targetText": "Pisica mănâncă peștele ei."
+    },
+    {
+      "sourceText": "Wir fressen gerne Pizza.",
+      "targetText": "Noi mâncăm cu plăcere pizza."
+    },
+    {
+      "sourceText": "Die Hunde fressen alles.",
+      "targetText": "Câinii mănâncă tot."
+    },
+    {
+      "sourceText": "Ich habe das Fleisch gefressen.",
+      "targetText": "Am mâncat carnea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „fressen“ hat eine starke Konjugation – das ist eine Ausnahme, die du dir merken solltest."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran: „fressen“ wird für Tiere benutzt, während „essen“ für Menschen gilt. Im Rumänischen heißt beides „a mânca“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a mânca“ mit alltäglichen Mahlzeiten, um die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

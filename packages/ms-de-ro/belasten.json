@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-belasten",
+  "parent": "ms-ro-a-incarca-da312798@360b7a8a2316e4ebe72a423f2d91aa46",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "belasten",
+    "definition": "etwas schwer machen oder drücken",
+    "pronunciation": "/bəˈlastən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „belasten“ setzt sich aus dem Präfix „be-“ und dem Verb „lasten“ zusammen, was „eine Last auflegen“ bedeutet. Es beschreibt das Aufbürden von Verantwortung oder Druck.",
+        "targetText": "Verbul german „belasten“ este format din prefixul „be-“ și verbul „lasten“, care înseamnă a pune o povară sau o responsabilitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in Kontexten der physischen oder emotionalen Belastung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încărca",
+    "definition": "a face ceva mai greu sau a exercita presiune asupra cuiva",
+    "pronunciation": "/a ɨn.kərˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a încărca“ stammt vom lateinischen „incaricare“ ab, was „beladen“ oder „aufladen“ bedeutet. Es beschreibt das Auflegen von Lasten oder Verantwortung.",
+        "targetText": "Verbul românesc „a încărca“ provine din latină, de la „incaricare“, care înseamnă a încărca sau a pune o povară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um sowohl physische als auch emotionale Lasten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Belasten (emotional)",
+      "explanation": {
+        "sourceText": "Verwendung für emotionale Belastung oder Druck.",
+        "targetText": "Utilizat pentru încărcarea emoțională sau presiune."
+      },
+      "examples": [
+        {
+          "sourceText": "Belastest du das Team?",
+          "targetText": "Încarci echipa?"
+        }
+      ]
+    },
+    {
+      "gloss": "Belasten (physisch)",
+      "explanation": {
+        "sourceText": "Verwendung für das physische Aufladen oder Belastung.",
+        "targetText": "Utilizat pentru încărcarea fizică sau povară."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich belaste die Struktur.",
+          "targetText": "Eu încarc structura."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Belastung",
+      "targetText": "împovărare"
+    },
+    {
+      "sourceText": "Druck",
+      "targetText": "presiune"
+    },
+    {
+      "sourceText": "Last",
+      "targetText": "povară"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entlasten",
+      "targetText": "a ușura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich belaste die Struktur.",
+      "targetText": "Eu încarc structura."
+    },
+    {
+      "sourceText": "Belastest du das Team?",
+      "targetText": "Încarci echipa?"
+    },
+    {
+      "sourceText": "Er belastet die Schriftstücke.",
+      "targetText": "El încarcă documentele."
+    },
+    {
+      "sourceText": "Wir belasten die Ressourcen.",
+      "targetText": "Noi încărcăm resursele."
+    },
+    {
+      "sourceText": "Belastet ihr die Geräte?",
+      "targetText": "Încărcați dispozitivele?"
+    },
+    {
+      "sourceText": "Sie (Pl.) belasten das System.",
+      "targetText": "Ei încarcă sistemul."
+    },
+    {
+      "sourceText": "Ich habe die Aufgabe belastet.",
+      "targetText": "Am încărcat sarcina."
+    },
+    {
+      "sourceText": "Sie belastete oft die Informationen.",
+      "targetText": "Ea încărca adesea informațiile."
+    },
+    {
+      "sourceText": "Ich werde die Felder belasten.",
+      "targetText": "Voi încărca câmpurile."
+    },
+    {
+      "sourceText": "Ich würde es belasten, wenn nötig.",
+      "targetText": "Aș încărca dacă ar fi necesar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Nutze den Satz: „Ich lade meinen Kopf mit Informationen – ajungi obosit!“ (Ich werde müde!)"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du lädst einen Rucksack voll – so merkst du dir „încărca“ als ‚belasten‘."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „belasten“ mit „încărca“ – beide drücken das Aufladen oder Übernehmen von Lasten aus."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

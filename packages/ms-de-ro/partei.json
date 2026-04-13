@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-partei",
+  "parent": "ms-ro-partid-729c2fab@f77257c32530a867df5f0b0fbe31bee6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Partei",
+    "genus": "feminine",
+    "definition": "Eine organisierte Gruppe von Menschen mit gemeinsamen politischen Zielen oder Interessen.",
+    "pronunciation": "/paʁˈtaɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Partei“ stammt vom französischen 'partie' ab, das seinerseits aus dem lateinischen 'partita' (Teilung, Anteil) kommt.",
+        "targetText": "Cuvântul german „Partei” provine din francezul 'partie', care la rândul său derivă din latinul 'partita' (împărțire, parte)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "partid",
+    "genus": "neuter",
+    "definition": "O grupare organizată de oameni cu scopuri sau interese politice comune.",
+    "pronunciation": "/parˈtid/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „partid“ stammt vom lateinischen 'partitus', Partizip von 'partire' (teilen), ab, das die Bedeutung einer Gruppe oder Partei trägt.",
+        "targetText": "Cuvântul românesc „partid” provine din latinul 'partitus', participiul verbului 'partire' (a împărți), având sensul de grup sau parte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mitglied",
+      "targetText": "membru"
+    },
+    {
+      "sourceText": "Politik",
+      "targetText": "politică"
+    },
+    {
+      "sourceText": "Regierung",
+      "targetText": "guvern"
+    },
+    {
+      "sourceText": "Wahl",
+      "targetText": "alegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unparteilichkeit",
+      "targetText": "imparțialitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Partei hat viele Mitglieder.",
+      "targetText": "Partidul are mulți membri."
+    },
+    {
+      "sourceText": "Er ist Mitglied einer politischen Partei.",
+      "targetText": "El este membru al unui partid politic."
+    },
+    {
+      "sourceText": "Die Partei gewann die Wahl.",
+      "targetText": "Partidul a câștigat alegerile."
+    },
+    {
+      "sourceText": "Jede Partei hat ihre eigenen Ziele.",
+      "targetText": "Fiecare partid are propriile sale obiective."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'partid' klingt ähnlich wie das deutsche 'Partei' und beide stammen vom lateinischen 'partire' ab – denk an 'teilen' als gemeinsame Wurzel."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'partid' endet auf '-id', was oft bei rumänischen Substantiven vorkommt – so erkennst du es leicht als Nomen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine 'partid' ist eine Gruppe, die sich 'teilt' von anderen, um eigene Ziele zu verfolgen – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'partid' mit dem englischen 'party' (Party), die auch eine Gruppe von Menschen ist – so kannst du dir die politische Gruppe besser merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

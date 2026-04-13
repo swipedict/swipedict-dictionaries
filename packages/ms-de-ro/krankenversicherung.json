@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-krankenversicherung",
+  "parent": "ms-ro-asigurare-de-sanatate-b5db9d08@5c0370892a361b9d459cae8e8a813137",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Krankenversicherung",
+    "genus": "feminine",
+    "definition": "Ein Versicherungssystem, das die Kosten für medizinische Behandlungen und Gesundheitsleistungen abdeckt.",
+    "pronunciation": "/ˈkʁaŋkn̩fɛɐ̯zɪçəʁʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Krankenversicherung“ setzt sich aus 'krank' (gesundheitlich beeinträchtigt) und 'Versicherung' (Schutz gegen Risiken) zusammen, wobei 'Versicherung' vom mittelhochdeutschen 'versicheren' stammt, das auf das althochdeutsche 'firsiha' zurückgeht.",
+        "targetText": "Cuvântul german „Krankenversicherung“ este compus din 'krank' (bolnav) și 'Versicherung' (asigurare), unde 'Versicherung' provine din germana mijlocie 'versicheren', derivat din germana veche înaltă 'firsiha'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asigurare de sănătate",
+    "genus": "feminine",
+    "definition": "Un sistem de asigurare care acoperă costurile tratamentelor medicale și serviciilor de sănătate.",
+    "pronunciation": "/asiɡuˈrare de sə.nəˈtate/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asigurare“ stammt vom lateinischen 'securus' ab, das 'sicher' bedeutet, und wurde über das italienische 'assicurare' ins Rumänische übernommen. 'Sănătate' kommt vom lateinischen 'sanitas', was Gesundheit bedeutet.",
+        "targetText": "Cuvântul românesc „asigurare” provine din latină, de la 'securus' însemnând 'sigur', preluat prin italiană 'assicurare'. „Sănătate” derivă din latină 'sanitas', care înseamnă sănătate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Krankenhaus",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Krankenversicherungslosigkeit",
+      "targetText": "lipsa asigurării de sănătate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Krankenversicherung übernimmt die Kosten für den Arztbesuch.",
+      "targetText": "Asigurarea de sănătate acoperă costurile pentru vizita la doctor."
+    },
+    {
+      "sourceText": "In Deutschland ist die Krankenversicherung für alle Pflicht.",
+      "targetText": "În Germania, asigurarea de sănătate este obligatorie pentru toți."
+    },
+    {
+      "sourceText": "Viele Menschen zahlen monatlich Beiträge für ihre Krankenversicherung.",
+      "targetText": "Mulți oameni plătesc lunar contribuții pentru asigurarea de sănătate."
+    },
+    {
+      "sourceText": "Die private Krankenversicherung bietet oft zusätzliche Leistungen.",
+      "targetText": "Asigurarea privată de sănătate oferă adesea servicii suplimentare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'asigurare' klingt ähnlich wie das englische 'assure', was 'versichern' bedeutet – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'sănătate' als das rumänische Wort für Gesundheit, ähnlich wie das lateinische 'sanitas' – das hilft dir, die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Die Zusammensetzung 'asigurare de sănătate' kannst du dir als 'Versicherung für Gesundheit' merken, ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'sichere' (asigurare) Gesundheit (sănătate) – so verbindet sich das Wort bildhaft im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

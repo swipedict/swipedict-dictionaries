@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-ob",
+  "parent": "ms-ro-daca-0bcc7781@9946f244e1dceed13e9268b932427740",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ob",
+    "definition": "Eine Konjunktion, die einen indirekten Fragesatz oder eine Unsicherheit einleitet, entspricht dem deutschen 'ob' im Sinne von 'ob etwas der Fall ist'.",
+    "pronunciation": "/ɔp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „ob“ stammt vom althochdeutschen 'ob' oder 'ob(e)', das auf das lateinische 'ubi' (wo) zurückgeht, das in der Entwicklung zu einer Konjunktion für indirekte Fragen wurde.",
+        "targetText": "Cuvântul german „ob” provine din germana veche înaltă 'ob' sau 'ob(e)', care la rândul său derivă din latină 'ubi' (unde), evoluând spre o conjuncție ce introduce propoziții interogative indirecte."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dacă",
+    "definition": "O conjuncție care introduce o propoziție subordonată interogativă indirectă sau exprimă o condiție incertă, echivalentul germanului 'ob'.",
+    "pronunciation": "/ˈdəkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dacă“ stammt vom lateinischen 'dubiā' (unsicher, zweifelhaft) ab, das sich im Rumänischen zu einer Konjunktion entwickelte, die Unsicherheit oder Bedingung ausdrückt.",
+        "targetText": "Cuvântul românesc „dacă” derivă din latină 'dubiā' (nesigur, îndoielnic), evoluând în română într-o conjuncție ce exprimă incertitudine sau condiție."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "falls",
+      "targetText": "în cazul în care"
+    },
+    {
+      "sourceText": "obgleich",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "obwohl",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "wenn",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich weiß nicht, ob er kommt.",
+      "targetText": "Nu știu dacă el vine."
+    },
+    {
+      "sourceText": "Frag sie, ob sie Zeit hat.",
+      "targetText": "Întreab-o dacă are timp."
+    },
+    {
+      "sourceText": "Ob es regnet, weiß ich nicht.",
+      "targetText": "Nu știu dacă plouă."
+    },
+    {
+      "sourceText": "Er fragte, ob du mitkommst.",
+      "targetText": "El a întrebat dacă vii cu el."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'dacă' klingt ähnlich wie 'da că', was man sich als 'ja, dass' merken kann – es leitet also eine Bedingung oder Unsicherheit ein."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen benutzt man 'ob' für indirekte Fragen, im Rumänischen immer 'dacă' – denk daran, dass es keine andere Alternative gibt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'dacă' als das rumänische 'ob', indem du an die deutsche Frage 'Ob das klappt?' denkst und dir vorstellst, wie man auf Rumänisch 'dacă' sagt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du fragst jemanden: 'Dachtest du, dass…?' und verkürze es zu 'dacă' – so kannst du dir die Funktion als Konjunktion merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

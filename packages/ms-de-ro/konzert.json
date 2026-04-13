@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-konzert",
+  "parent": "ms-ro-concert-d57c02d2@0031ece37990a38c6612528ed2d85271",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Konzert",
+    "genus": "neuter",
+    "definition": "ein öffentliches Musikereignis, bei dem Musik aufgeführt wird",
+    "pronunciation": "/kɔnˈt͡sɛʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Konzert“ kommt vom italienischen „concerto“, was „Zusammenkommen“ oder „Vereinigung“ bedeutet, und beschreibt eine musikalische Darbietung vor Publikum.",
+        "targetText": "Substantivul german „Konzert“ provine din italianul „concerto“, care înseamnă reuniune și desemnează un eveniment muzical public."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Konzert ist ein beliebtes Event in der Musikszene."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "concert",
+    "genus": "neuter",
+    "definition": "un eveniment public de muzică la care se interpretează muzică",
+    "pronunciation": "/konˈt͡ʃert/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „concert“ ist direkt aus dem italienischen „concerto“ abgeleitet und hat die gleiche Bedeutung.",
+        "targetText": "Substantivul românesc „concert“ derivă direct din italianul „concerto“ și are aceeași semnificație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Konzertveranstaltungen sind in Rumänien sehr populär."
+  },
+  "senses": [
+    {
+      "gloss": "Live-Konzert",
+      "explanation": {
+        "sourceText": "Ein Konzert, das in Echtzeit vor einem Publikum stattfindet.",
+        "targetText": "Un concert care are loc în timp real, în fața unui public."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Live-Konzert war ausverkauft.",
+          "targetText": "Concertul live a fost sold out."
+        }
+      ]
+    },
+    {
+      "gloss": "Online-Konzert",
+      "explanation": {
+        "sourceText": "Ein Konzert, das über das Internet übertragen wird.",
+        "targetText": "Un concert transmis prin internet."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Online-Konzert hat viele Zuschauer angezogen.",
+          "targetText": "Concertul online a atras mulți spectatori."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bühne",
+      "targetText": "scenă"
+    },
+    {
+      "sourceText": "Musik",
+      "targetText": "muzică"
+    },
+    {
+      "sourceText": "Publikum",
+      "targetText": "public"
+    },
+    {
+      "sourceText": "Sänger",
+      "targetText": "cântăreț"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stillsitzen",
+      "targetText": "tăcere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe morgen zu einem Konzert.",
+      "targetText": "Mă duc mâine la un concert."
+    },
+    {
+      "sourceText": "Das Konzert war fantastisch.",
+      "targetText": "Concertul a fost fantastic."
+    },
+    {
+      "sourceText": "Er singt heute Abend im Konzert.",
+      "targetText": "El cântă diseară la concert."
+    },
+    {
+      "sourceText": "Ich habe Karten für ein Konzert gekauft.",
+      "targetText": "Am cumpărat bilete pentru un concert."
+    },
+    {
+      "sourceText": "Das Konzert fand im Freien statt.",
+      "targetText": "Concertul a avut loc în aer liber."
+    },
+    {
+      "sourceText": "Die Band wird ein weiteres Konzert geben.",
+      "targetText": "Trupa va susține un alt concert."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „concerto“ und „concert“ ähnlich klingen und beide ein musikalisches Ereignis beschreiben."
+    },
+    {
+      "lang": "de",
+      "text": "Sage „concert“ laut und verbinde es mit Musik – so bleibt es leichter im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „concert“ mit einem besonderen Erlebnis, z.B. deinem letzten Konzertbesuch."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an dein nächstes Konzert denkst, stelle dir das Wort „concert“ als Klang vor, der dich berührt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

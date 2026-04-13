@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-wissen",
+  "parent": "ms-ro-a-sti-ae88fb2f@2dc3a7d6323390e82c9034518f2e0f55",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wissen",
+    "definition": "etwas kennen oder über etwas informiert sein",
+    "pronunciation": "/ˈvɪsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „wissen“ stammt vom mittelhochdeutschen „wissen“, verwandt mit dem althochdeutschen „wizzan“ und hat indogermanische Wurzeln.",
+        "targetText": "Verbul german „wissen“ provine din germana mijlocie „wissen“, cu rădăcini indo-europene."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, oft in Verbindung mit Wissen und Erkenntnis verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ști",
+    "definition": "a avea cunoștințe despre ceva sau a fi informat despre ceva",
+    "pronunciation": "/a ʃti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a ști“ stammt vom lateinischen „scire“, was „wissen“ bedeutet, und ist mit dem französischen „savoir“ verwandt.",
+        "targetText": "Verbul românesc „a ști“ provine din latină „scire“, înrudit cu franceza „savoir“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Kommt oft in Fragen oder Aussagen über Kenntnis vor."
+  },
+  "senses": [
+    {
+      "gloss": "Verstand",
+      "explanation": {
+        "sourceText": "'A ști' wird auch im Kontext des Verstandes verwendet.",
+        "targetText": "„A ști“ este folosit și în contextul înțelegerii."
+      },
+      "examples": [
+        {
+          "sourceText": "Sein Wissen ist beeindruckend.",
+          "targetText": "Cunoștințele lui sunt impresionante."
+        }
+      ]
+    },
+    {
+      "gloss": "Wissen / Kenntnis",
+      "explanation": {
+        "sourceText": "'A ști' bezieht sich auch auf das Verstehen von Informationen oder Kenntnissen.",
+        "targetText": "„A ști“ se referă și la înțelegerea informațiilor sau cunoștințelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe viel über dieses Thema gewusst.",
+          "targetText": "Am știut mult despre acest subiect."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "glauben",
+      "targetText": "a crede"
+    },
+    {
+      "sourceText": "kennen",
+      "targetText": "a cunoaște"
+    },
+    {
+      "sourceText": "lernen",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "verstehen",
+      "targetText": "a înțelege"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich weiß die Antwort.",
+      "targetText": "Eu știu răspunsul."
+    },
+    {
+      "sourceText": "Weißt du das schon?",
+      "targetText": "Știi deja asta?"
+    },
+    {
+      "sourceText": "Er weiß nichts darüber.",
+      "targetText": "El nu știe nimic despre asta."
+    },
+    {
+      "sourceText": "Wir wissen es jetzt.",
+      "targetText": "Noi știm acum."
+    },
+    {
+      "sourceText": "Wisst ihr das?",
+      "targetText": "Știți asta?"
+    },
+    {
+      "sourceText": "Sie wissen, was zu tun ist.",
+      "targetText": "Ei știu ce au de făcut."
+    },
+    {
+      "sourceText": "Ich habe es gewusst.",
+      "targetText": "Am știut."
+    },
+    {
+      "sourceText": "Ich werde es wissen.",
+      "targetText": "Voi ști."
+    },
+    {
+      "sourceText": "Wiss das!",
+      "targetText": "Știu asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a ști“ klingt wie „schti“ – stelle dir vor, du „weißt“ etwas geheim und sagst „ști“!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a ști“ mit dem deutschen „wissen“ durch die gemeinsame lateinische Wurzel „scire“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

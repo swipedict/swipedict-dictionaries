@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-holen",
+  "parent": "ms-ro-a-lua-eb72e8e7@d21aca6337856ecd08f94d8cca3a120e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "holen",
+    "definition": "etwas (zu sich) bringen, abholen",
+    "pronunciation": "/ˈhoːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom mittelhochdeutschen „holen“, das „holen, bringen“ bedeutet.",
+        "targetText": "Das deutsche Verb „holen“ stammt vom mittelhochdeutschen „holen“ und bedeutet „bringen“ oder „abholen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb, das in alltäglichen Situationen verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua",
+    "definition": "a îndepărta ceva de undeva și a-l aduce la sine",
+    "pronunciation": "/a luˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ursprung des Verbs ist das lateinische „luere“, was „nehmen“ oder „holen“ bedeutet.",
+        "targetText": "Verbul românesc „a lua“ provine din latină, de la „luere“, însemnând „a lua“ sau „a aduce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Sehr gebräuchlich für das Holen oder Nehmen von Dingen."
+  },
+  "senses": [
+    {
+      "gloss": "a lua (exemplu de acțiune)",
+      "explanation": {
+        "sourceText": "Pentru a sublinia acțiunea de a lua ceva.",
+        "targetText": "Pentru a sublinia acțiunea de a lua ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte das Buch holen.",
+          "targetText": "Vreau să iau cartea."
+        }
+      ]
+    },
+    {
+      "gloss": "a lua (în sens de a ridica)",
+      "explanation": {
+        "sourceText": "Se referă la a ridica un obiect.",
+        "targetText": "Se referă la a ridica un obiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Kann ich das für dich holen?",
+          "targetText": "Pot să iau asta pentru tine?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besuch",
+      "targetText": "vizită"
+    },
+    {
+      "sourceText": "Einkauf",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "Lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "Transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bringen",
+      "targetText": "a duce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich hole das Buch von der Bibliothek.",
+      "targetText": "Eu iau cartea de la bibliotecă."
+    },
+    {
+      "sourceText": "Holst du die Kinder von der Schule ab?",
+      "targetText": "Iei copiii de la școală?"
+    },
+    {
+      "sourceText": "Sie holt das Essen fürs Abendessen.",
+      "targetText": "Ea ia mâncarea pentru cină."
+    },
+    {
+      "sourceText": "Wir holen die Tickets im Voraus.",
+      "targetText": "Noi luăm biletele din timp."
+    },
+    {
+      "sourceText": "Holt ihr die Getränke?",
+      "targetText": "Luați băuturile?"
+    },
+    {
+      "sourceText": "Sie holen ihre Bestellungen ab.",
+      "targetText": "Ei iau comenzile lor."
+    },
+    {
+      "sourceText": "Ich habe das Auto geholt.",
+      "targetText": "Am luat mașina."
+    },
+    {
+      "sourceText": "Immer wenn ich ankam, holte sie das Essen für uns.",
+      "targetText": "De fiecare dată când ajungeam, ea lua mâncarea pentru noi."
+    },
+    {
+      "sourceText": "Ich werde das Paket morgen holen.",
+      "targetText": "Voi lua pachetul mâine."
+    },
+    {
+      "sourceText": "Hol das! Schnell!",
+      "targetText": "Ia-o! Repede!"
+    },
+    {
+      "sourceText": "Das holen von Kandidaten ist unsere Aufgabe.",
+      "targetText": "A lua candidații este sarcina noastră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „holen“ und das rumänische „a lua“ bedeuten beide „nehmen/holen“ – merke dir, dass „a“ vor „lua“ immer steht."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präsensformen „iau“ (ich) und „iei“ (du) sind typisch und helfen dir, die Konjugation von „a lua“ zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a lua“ mit alltäglichen Situationen, z.B. Freunde von der Schule holen, um das Wort lebendig zu halten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

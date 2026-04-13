@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bahnhof",
+  "parent": "ms-ro-gara-4aa0fb7f@e012d236f672d0665ae2ae7f454a6396",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bahnhof",
+    "genus": "masculine",
+    "definition": "Ein Ort, an dem Züge halten, um Passagiere ein- und aussteigen zu lassen.",
+    "pronunciation": "/ˈbaːnhoːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort ‚Bahnhof‘ setzt sich aus ‚Bahn‘ (von mittelhochdeutsch ‚ban‘, ‚Weg‘, ‚Straße‘) und ‚Hof‘ (‚Hof‘ als Platz oder Gelände) zusammen.",
+        "targetText": "Cuvântul „Bahnhof“ este compus din „Bahn“ (din germana mijlocie „ban“, însemnând „cale“, „drum“) și „Hof“ (curte, teren)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gară",
+    "genus": "feminine",
+    "definition": "Un loc unde trenurile opresc pentru a permite pasagerilor să urce sau să coboare.",
+    "pronunciation": "/ɡaˈrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚gară‘ stammt vom französischen ‚gare‘ ab, das ‚Bahnhof‘ oder ‚Haltestelle‘ bedeutet und aus dem italienischen ‚guardia‘ (Wache) entlehnt ist.",
+        "targetText": "Cuvântul românesc „gară“ provine din franceza „gare“, care înseamnă „stație de tren“ sau „oprire“, împrumutat din italiană „guardia“ (pază)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bahnhofshalle",
+      "targetText": "holul gării"
+    },
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Schiene",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Zug kommt am Bahnhof an.",
+      "targetText": "Trenul sosește la gară."
+    },
+    {
+      "sourceText": "Ich warte am Bahnhof auf dich.",
+      "targetText": "Te aștept la gară."
+    },
+    {
+      "sourceText": "Die Bahnhofsuhr zeigt die genaue Zeit an.",
+      "targetText": "Ceasul din gară arată ora exactă."
+    },
+    {
+      "sourceText": "Am Bahnhof gibt es einen Kiosk.",
+      "targetText": "La gară este un chioșc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚Bahnhof‘ setzt sich aus ‚Bahn‘ (Weg) und ‚Hof‘ (Platz) zusammen – ein Platz für Züge."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚gară‘ kommt aus dem Französischen ‚gare‘ – denk an eine ‚Wache‘, die auf Züge aufpasst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: ‚gară‘ ist ein kurzer, einfacher Begriff, der oft in Reisekontexten vorkommt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du wartest an der ‚gară‘ auf deinen Zug – so merkst du dir das Wort gut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

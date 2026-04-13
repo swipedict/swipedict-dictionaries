@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-mischen-karten",
+  "parent": "ms-ro-a-amesteca-91115bc7@9e2667175509d5fc7bd4e378faa9156b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mischen",
+    "definition": "Die Karten durchmischen, um ihre Reihenfolge zufällig zu verändern.",
+    "pronunciation": "/ˈmɪʃn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „mischen“ stammt vom mittelhochdeutschen 'mischen' ab, das auf das althochdeutsche 'miscen' zurückgeht und mit dem englischen 'mix' verwandt ist, was 'vermischen' bedeutet.",
+        "targetText": "Verbul german „mischen“ provine din germana mijlocie 'mischen', derivat din germana veche înaltă 'miscen', înrudit cu englezescul 'mix', însemnând 'a amesteca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a amesteca",
+    "definition": "A combina sau a schimba ordinea cărților pentru a le face aleatorii.",
+    "pronunciation": "/a ameˈstʃeka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a amesteca“ stammt vom lateinischen Verb 'admiscēre' ab, das 'hinzumischen' oder 'vermischen' bedeutet.",
+        "targetText": "Verbul românesc „a amesteca” provine din verbul latin 'admiscēre', care înseamnă 'a adăuga' sau 'a amesteca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der ersten Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Karten",
+      "targetText": "cărți (de joc)"
+    },
+    {
+      "sourceText": "mischen (allgemein)",
+      "targetText": "a amesteca"
+    },
+    {
+      "sourceText": "spielen (Karten)",
+      "targetText": "a juca (cărți)"
+    },
+    {
+      "sourceText": "verteilen (Karten)",
+      "targetText": "a împărți (cărțile)"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sortieren",
+      "targetText": "a sorta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich mische die Karten vor dem Spiel.",
+      "targetText": "Eu amestec cărțile înainte de joc."
+    },
+    {
+      "sourceText": "Kannst du bitte die Karten mischen?",
+      "targetText": "Poți, te rog, să amesteci cărțile?"
+    },
+    {
+      "sourceText": "Er mischte die Karten gründlich.",
+      "targetText": "El a amestecat cărțile temeinic."
+    },
+    {
+      "sourceText": "Nach dem Mischen werden die Karten verteilt.",
+      "targetText": "După amestecare, cărțile sunt împărțite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'mischen' und das rumänische 'amesteca' stammen beide vom Lateinischen ab – denk an das lateinische 'admiscēre', das 'hinzumischen' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Präfix 'a-' im Rumänischen zeigt oft einen Infinitiv an, und 'mesteca' erinnert an 'mischen' – so kannst du dir 'a amesteca' als 'zu mischen' merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a amesteca' klingt wie 'am Essen stecken' – stell dir vor, du steckst beim Essen die Zutaten zusammen, also mischst du sie."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du Karten mischst, stell dir vor, du 'amesteci' (mischst) die Karten wie Zutaten in einem Salat – so bleibt alles bunt und durcheinander."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-ledig-adjektiv",
+  "parent": "ms-ro-necasatorit-35abb9d3@54f3e8f17101548230cea9128ffc3276",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ledig",
+    "definition": "Unverheiratet, nicht verheiratet oder frei von ehelichen Bindungen.",
+    "pronunciation": "/ˈleːdɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „ledig“ stammt vom althochdeutschen 'ledig' ab, was 'frei' oder 'ungebunden' bedeutet. Es ist verwandt mit dem mittelhochdeutschen 'ledig' und geht auf eine urgermanische Wurzel zurück, die Freiheit oder Ungebundenheit ausdrückt.",
+        "targetText": "Adjectivul german „ledig” provine din germana veche înaltă 'ledig', însemnând 'liber' sau 'nelegat'. Este înrudit cu germana mijlocie 'ledig' și derivă dintr-o rădăcină proto-germanică care exprimă libertatea sau lipsa de legături."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "necăsătorit",
+    "definition": "Care nu este căsătorit, liber de legături matrimoniale.",
+    "pronunciation": "/ne.kə.səˈto.rit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „necăsătorit“ setzt sich aus dem Präfix 'ne-' (Verneinung) und 'căsătorit' (verheiratet) zusammen, wobei 'căsătorit' vom lateinischen 'castellum' oder 'castus' abstammt, das Reinheit oder Treue bedeutet. Das Wort ist somit eine interne Bildung im Rumänischen, die den Zustand des Nicht-Verheiratetseins beschreibt.",
+        "targetText": "Adjectivul românesc „necăsătorit” este format din prefixul de negație 'ne-' și 'căsătorit' (căsătorit), unde 'căsătorit' provine din latină, legat de 'castus' care înseamnă puritate sau fidelitate. Astfel, este o formare internă în limba română care exprimă starea de a nu fi căsătorit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort ist ein zusammengesetztes Adjektiv mit dem Negationspräfix 'ne-'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ehe",
+      "targetText": "căsătorie"
+    },
+    {
+      "sourceText": "ledig bleiben",
+      "targetText": "a rămâne necăsătorit"
+    },
+    {
+      "sourceText": "Single",
+      "targetText": "persoană necăsătorită"
+    },
+    {
+      "sourceText": "verheiratet",
+      "targetText": "căsătorit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verheiratet",
+      "targetText": "căsătorit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist ledig und hat keine Kinder.",
+      "targetText": "El este necăsătorit și nu are copii."
+    },
+    {
+      "sourceText": "Viele Menschen bleiben heute länger ledig.",
+      "targetText": "Mulți oameni rămân astăzi necăsătoriți mai mult timp."
+    },
+    {
+      "sourceText": "Sie ist seit fünf Jahren ledig.",
+      "targetText": "Ea este necăsătorită de cinci ani."
+    },
+    {
+      "sourceText": "Ein lediger Mann kann heiraten, wenn er möchte.",
+      "targetText": "Un bărbat necăsătorit poate să se căsătorească dacă dorește."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'ledig' und das rumänische 'necăsătorit' drücken beide den Zustand des Alleinseins aus, aber das rumänische Wort ist eine klare Negation von 'căsătorit'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'necăsătorit' beginnt mit 'ne-', was oft eine Verneinung anzeigt. So kannst du dir merken, dass es 'nicht verheiratet' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'căsătorit' klingt ähnlich wie 'castel', was an die lateinische Wurzel erinnert, die Reinheit und Treue symbolisiert – wichtige Werte in der Ehe."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand ist 'ne-căsătorit' – also 'nicht verheiratet' – wie ein Schloss ohne Schlüssel, das frei bleibt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

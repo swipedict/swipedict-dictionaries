@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-keine-ahnung",
+  "parent": "ms-ro-nu-stiu-3672d674@b2f8dc7adf3f9f9b573cd6afcb0916a8",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Keine Ahnung",
+    "definition": "Ausdruck, um Unwissenheit oder das Nichtwissen über etwas auszudrücken.",
+    "pronunciation": "/ˈkaɪ̯nə ˈaːnʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Phrase „Keine Ahnung“ besteht aus dem Negationswort „keine“ und dem Substantiv „Ahnung“, das vom mittelhochdeutschen 'anunge' stammt und 'Kenntnis' oder 'Vorstellung' bedeutet.",
+        "targetText": "Expresia „Keine Ahnung“ este formată din negația „keine” și substantivul „Ahnung”, care provine din germana mijlocie 'anunge', însemnând 'cunoștință' sau 'idee'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nu știu",
+    "definition": "Expresie folosită pentru a indica lipsa de cunoștințe sau necunoașterea unui lucru.",
+    "pronunciation": "/nu ˈʃti.u/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „nu știu“ besteht aus der Verneinung „nu“ und dem Verb „știu“ (ich weiß), das vom lateinischen 'sapere' abstammt, was 'wissen' bedeutet.",
+        "targetText": "Expresia românească „nu știu” este formată din negația „nu” și verbul „știu” (eu știu), care provine din latină, din verbul 'sapere', ce înseamnă 'a ști'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "kennen",
+      "targetText": "a cunoaște"
+    },
+    {
+      "sourceText": "Unwissenheit",
+      "targetText": "necunoaștere"
+    },
+    {
+      "sourceText": "verstehen",
+      "targetText": "a înțelege"
+    },
+    {
+      "sourceText": "wissen",
+      "targetText": "a ști"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wissen",
+      "targetText": "a ști"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe keine Ahnung, wo er ist.",
+      "targetText": "Nu știu unde este el."
+    },
+    {
+      "sourceText": "Keine Ahnung, wie das funktioniert.",
+      "targetText": "Nu știu cum funcționează asta."
+    },
+    {
+      "sourceText": "Hast du eine Ahnung von Mathe? – Nein, keine Ahnung.",
+      "targetText": "Ai idee despre matematică? – Nu, nu știu."
+    },
+    {
+      "sourceText": "Sie fragte mich, aber ich hatte keine Ahnung.",
+      "targetText": "M-a întrebat, dar eu nu știam."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb 'știu' klingt wie 'schlau' ohne 'l' – wenn du etwas weißt, bist du schlau, also 'știu'."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das englische 'I don't know' – 'nu știu' ist die direkte rumänische Entsprechung, einfach und häufig verwendet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'nu' ist die Verneinung, ähnlich wie 'nein' im Deutschen, also 'nu știu' = 'nicht wissen'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist ratlos und sagst 'nu știu' – das klingt fast wie ein kurzes 'no clue' und hilft dir, es zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-totalschaden",
+  "parent": "ms-ro-avarii-totale-56504008@802c9b57143c6fa9fd367cbbc4912df5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Totalschaden",
+    "genus": "masculine",
+    "definition": "Ein Schaden an einem Fahrzeug oder Gegenstand, bei dem die Reparaturkosten den Wert des Objekts übersteigen, sodass es als wirtschaftlicher Totalschaden gilt.",
+    "pronunciation": "/ˈtoːtalˌʃaːdən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Totalschaden“ setzt sich aus ‚total‘ (vollständig) und ‚Schaden‘ zusammen. ‚Total‘ stammt vom lateinischen ‚totalis‘, was ‚ganz‘ oder ‚vollständig‘ bedeutet.",
+        "targetText": "Cuvântul german „Totalschaden“ este compus din „total“ (complet) și „Schaden“ (deteriorare). „Total“ provine din latină, din „totalis“, însemnând „întreg“ sau „complet“."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avarii totale",
+    "genus": "feminine",
+    "definition": "Deteriorarea unui vehicul sau obiect în care costurile de reparare depășesc valoarea acestuia, considerată o avarie totală.",
+    "pronunciation": "/avaˈri.i toˈtale/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „avarii totale“ stammt vom lateinischen ‚avaria‘ ab, das ursprünglich ‚Schaden‘ oder ‚Verlust‘ bedeutete, kombiniert mit ‚totalis‘ für ‚vollständig‘.",
+        "targetText": "Expresia românească „avarii totale“ provine din latina „avaria“, care însemna inițial „deteriorare“ sau „pierdere“, combinată cu „totalis“ pentru „complet“."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Reparatur",
+      "targetText": "reparație"
+    },
+    {
+      "sourceText": "Schaden",
+      "targetText": "deteriorare"
+    },
+    {
+      "sourceText": "Unfall",
+      "targetText": "accident"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "intakt",
+      "targetText": "intact"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Nach dem Unfall hatte das Auto einen Totalschaden.",
+      "targetText": "După accident, mașina a suferit avarii totale."
+    },
+    {
+      "sourceText": "Ein Totalschaden bedeutet, dass eine Reparatur wirtschaftlich nicht sinnvoll ist.",
+      "targetText": "O avarie totală înseamnă că o reparație nu este economic justificată."
+    },
+    {
+      "sourceText": "Die Versicherung zahlt bei einem Totalschaden den Zeitwert des Fahrzeugs.",
+      "targetText": "Asigurarea plătește în cazul unei avarii totale valoarea de piață a vehiculului."
+    },
+    {
+      "sourceText": "Der Totalschaden wurde von einem Gutachter bestätigt.",
+      "targetText": "Avarierea totală a fost confirmată de un expert."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort ‚avarii‘ klingt ähnlich wie ‚Avarie‘ im Deutschen, was auch ‚Schaden‘ bedeutet – so kannst du die Bedeutung leichter verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das lateinische ‚totalis‘, das in beiden Sprachen steckt: ‚total‘ im Deutschen und ‚totale‘ im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Auto ist so kaputt, dass es 'total' zerstört ist – das hilft dir, 'avarii totale' als vollständige Schäden zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du ‚Totalschaden‘ hörst, stell dir vor, dass etwas komplett (total) kaputt ist – das hilft dir, ‚avarii totale‘ zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

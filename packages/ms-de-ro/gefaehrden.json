@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-gefaehrden",
+  "parent": "ms-ro-a-pune-in-pericol-591a3c0c@334a4cbfd8f4d65f1d1e026ebd11b48a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gefährden",
+    "definition": "jmdn. oder etwas in Gefahr bringen; das Risiko erhöhen, dass etwas Schlechtes passiert",
+    "pronunciation": "/ɡəˈfɛːʁdən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „gefährden“ setzt sich aus dem Präfix „ge-“ und dem veralteten Verb „fähren“ (fahren, bewegen) zusammen und bedeutet „in Gefahr bringen“.",
+        "targetText": "Verbul german „gefährden“ este format din prefixul „ge-“ și verbul vechi „fähren“ („a merge“, „a mișca“), însemnând „a pune în pericol“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, um eine Situation zu beschreiben, in der etwas oder jemand einem Risiko ausgesetzt ist."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pune în pericol",
+    "definition": "a expune pe cineva sau ceva la riscuri; a crește șansele ca ceva rău să se întâmple",
+    "pronunciation": "/a ˈpune ɨn pɛˈrikol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a pune în pericol“ bedeutet wörtlich „in Gefahr bringen“ und wird verwendet, um Risiken oder Bedrohungen zu beschreiben.",
+        "targetText": "Expresia „a pune în pericol“ înseamnă literal „a pune în pericol“ și este folosită pentru a descrie riscuri sau amenințări."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "Bedrohung",
+      "explanation": {
+        "sourceText": "Bezeichnet eine ernsthafte Gefahr oder das Aussetzen an Gefahr.",
+        "targetText": "Se referă la o amenințare serioasă sau expunere la pericol."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bedrohung ist real.",
+          "targetText": "Amenințarea este reală."
+        }
+      ]
+    },
+    {
+      "gloss": "Risiko",
+      "explanation": {
+        "sourceText": "Beschreibt die Gefahr oder Möglichkeit eines Schadens.",
+        "targetText": "Descrie pericolul sau posibilitatea unui prejudiciu."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Risiko ist hoch.",
+          "targetText": "Riscul este mare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bedrohung",
+      "targetText": "amenințare"
+    },
+    {
+      "sourceText": "Gefahr",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "riscul"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schützen",
+      "targetText": "a proteja"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gefährde meine Gesundheit.",
+      "targetText": "Îmi pun în pericol sănătatea."
+    },
+    {
+      "sourceText": "Gefährdest du die Tiere mit deinem Verhalten?",
+      "targetText": "Pui în pericol animale cu comportamentul tău?"
+    },
+    {
+      "sourceText": "Er gefährdet das Projekt.",
+      "targetText": "El pune proiectul în pericol."
+    },
+    {
+      "sourceText": "Wir gefährden die Umwelt, wenn wir nicht umdenken.",
+      "targetText": "Punem mediul în pericol dacă nu ne schimbăm gândirea."
+    },
+    {
+      "sourceText": "Gefährdet ihr die Sicherheit aller?",
+      "targetText": "Puneți în pericol siguranța tuturor?"
+    },
+    {
+      "sourceText": "Sie gefährden die Gesundheit ihrer Mitarbeiter.",
+      "targetText": "Ei pun sănătatea angajaților lor în pericol."
+    },
+    {
+      "sourceText": "Ich habe das Experiment gefährdet.",
+      "targetText": "Am pus experimentul în pericol."
+    },
+    {
+      "sourceText": "Er gefährdete die Sicherheit der Veranstaltung.",
+      "targetText": "El punea în pericol siguranța evenimentului."
+    },
+    {
+      "sourceText": "Ich werde die Entscheidung nicht gefährden.",
+      "targetText": "Nu voi pune decizia în pericol."
+    },
+    {
+      "sourceText": "Ich würde die Reise nicht gefährden.",
+      "targetText": "Nu aș pune călătoria în pericol."
+    },
+    {
+      "sourceText": "Gefährde die Projekt nicht!",
+      "targetText": "Nu pune proiectul în pericol!"
+    },
+    {
+      "sourceText": "Das gefährdete Projekt wurde gestoppt.",
+      "targetText": "Proiectul pus în pericol a fost oprit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir „a pune în pericol“ als festen Ausdruck: Du „setzt etwas in Gefahr“, genau wie „gefährden“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort mit Sicherheitskontexten und dem deutschen Wort „Risiko“, um die Bedeutung zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-aufdrehen",
+  "parent": "ms-ro-a-desface-e9852b64@241f1fc4e97a279b03c7a381791b543d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufdrehen",
+    "definition": "etwas öffnen, indem man es dreht",
+    "pronunciation": "/ˈaʊ̯fˌdʁeːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufdrehen“ ist eine Zusammensetzung aus „auf“ (öffnen) und „drehen“ (bewegen), wobei „drehen“ vom mittelhochdeutschen „drehen“ stammt und „sich drehen“ bedeutet.",
+        "targetText": "Verbul „aufdrehen“ este compus din „auf“ (a deschide) și „drehen“ (a roti), iar „drehen“ provine din germana mijlocie „drehen“, însemnând „a se roti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird oft in technischer und alltäglicher Sprache verwendet, wie z.B. beim Aufdrehen von Wasserhähnen oder Flaschen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a desface",
+    "definition": "a deschide ceva prin rotire",
+    "pronunciation": "/a desˈfa.ke/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a desface“ stammt vom lateinischen „disfacere“, zusammengesetzt aus „dis-“ (weg) und „facere“ (machen), und bedeutet „etwas öffnen oder auseinandernehmen“.",
+        "targetText": "Românescul „a desface“ derivă din latină, din „disfacere“, compus din „dis-“ (departe) și „facere“ (a face), însemnând „a deschide sau a despărți ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird häufig verwendet, um das Öffnen von Behältern oder Verpackungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Flasche aufdrehen",
+      "explanation": {
+        "sourceText": "Das Öffnen einer Flasche durch Drehen des Verschlusses.",
+        "targetText": "Deschiderea unei sticle prin rotirea dopului."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich drehe die Flasche auf.",
+          "targetText": "Eu desfac sticla."
+        }
+      ]
+    },
+    {
+      "gloss": "Ventilator aufdrehen",
+      "explanation": {
+        "sourceText": "Das Erhöhen der Lüftergeschwindigkeit durch Drehen des Reglers.",
+        "targetText": "Mărirea vitezei ventilatorului prin rotirea regulatorului."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir drehen den Ventilator auf.",
+          "targetText": "Noi desfacem ventilatorul."
+        }
+      ]
+    },
+    {
+      "gloss": "Wasserhahn aufdrehen",
+      "explanation": {
+        "sourceText": "Das Öffnen des Wasserhahns durch Drehen des Griffs.",
+        "targetText": "Deschiderea robinetului prin rotirea mânerului."
+      },
+      "examples": [
+        {
+          "sourceText": "Drehst du den Wasserhahn auf?",
+          "targetText": "Desfaci robinetul?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Flasche",
+      "targetText": "sticlă"
+    },
+    {
+      "sourceText": "Regler",
+      "targetText": "reglator"
+    },
+    {
+      "sourceText": "Robinet",
+      "targetText": "robinet"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zudrehen",
+      "targetText": "a închide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich drehe die Flasche auf.",
+      "targetText": "Eu desfac sticla."
+    },
+    {
+      "sourceText": "Drehst du den Wasserhahn auf?",
+      "targetText": "Desfaci robinetul?"
+    },
+    {
+      "sourceText": "Er dreht den Regler auf.",
+      "targetText": "El desface regulatorul."
+    },
+    {
+      "sourceText": "Wir drehen den Ventilator auf.",
+      "targetText": "Noi desfacem ventilatorul."
+    },
+    {
+      "sourceText": "Dreht ihr das Radio auf?",
+      "targetText": "Desfaceți radio-ul?"
+    },
+    {
+      "sourceText": "Sie (Pl.) drehen die Tür auf.",
+      "targetText": "Ei desfac ușa."
+    },
+    {
+      "sourceText": "Ich habe die Flasche aufgedreht.",
+      "targetText": "Am desfăcut sticla."
+    },
+    {
+      "sourceText": "Sie haben das Radio aufgedreht.",
+      "targetText": "Au desfăcut radioul."
+    },
+    {
+      "sourceText": "Er drehte die Lüftung auf.",
+      "targetText": "El desfăcea ventilația."
+    },
+    {
+      "sourceText": "Ich hatte den Wasserhahn bereits aufgedreht.",
+      "targetText": "Desfăcusem deja robinetul."
+    },
+    {
+      "sourceText": "Ich werde die Flasche morgen aufdrehen.",
+      "targetText": "Voi desfăcea sticla mâine."
+    },
+    {
+      "sourceText": "Sie wird die Tür aufdrehen.",
+      "targetText": "Ea o să desfacă ușa."
+    },
+    {
+      "sourceText": "Ich würde die Flasche aufdrehen, wenn ich könnte.",
+      "targetText": "Aș desfăcea sticla dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du den Wasserhahn aufdrehst.",
+      "targetText": "Este necesar să desfaci robinetul."
+    },
+    {
+      "sourceText": "Dreh die Flasche auf!",
+      "targetText": "Desfacă sticla!"
+    },
+    {
+      "sourceText": "Dreht die Geräte auf!",
+      "targetText": "Desfaceți echipamentele!"
+    },
+    {
+      "sourceText": "Die aufgedrehte Flasche ist geschlossen.",
+      "targetText": "Sticla desfăcută este închisă."
+    },
+    {
+      "sourceText": "Die Tür ist jetzt aufgedreht.",
+      "targetText": "Ușa este acum desfăcută."
+    },
+    {
+      "sourceText": "Während ich die Flasche aufdrehte, fiel sie mir aus der Hand.",
+      "targetText": "Desfăcând sticla, m-a scăpat din mână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „aufdrehen“ wie an eine Flasche, die du öffnest – die Bewegung ist wichtig!"
+    },
+    {
+      "lang": "de",
+      "text": "Mache kleine Gesten während du sprichst: Öffne imaginär alle Flaschen und beschreibe ihre Anwendungsfälle!"
+    },
+    {
+      "lang": "de",
+      "text": "Rhythmisiere das Wort „desface“ – das erklärt das Konzept des Öffnens vereinfacht und macht das Lernen leichter!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe, alltägliche Aktivitäten mit diesem Wort zu beschreiben. Es hilft dir, es im Gedächtnis zu behalten!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Bild des Öffnens mit verschiedenen Objekten, um Assoziationen zu stärken!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

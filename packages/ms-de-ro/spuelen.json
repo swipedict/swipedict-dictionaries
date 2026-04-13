@@ -1,0 +1,172 @@
+{
+  "id": "ms-de-ro-spuelen",
+  "parent": "ms-ro-a-spala-93f76ca6@e20fbdd0930056d4ed2c07fb5022fcfa",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "spülen",
+    "definition": "etwas mit Wasser abwaschen oder reinigen",
+    "pronunciation": "/ˈʃpyːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „spülen“ stammt vom althochdeutschen „spūlōn“, was „waschen“ oder „reinigen“ bedeutet.",
+        "targetText": "Verbul german „spülen“ provine din vechiul germanic „spūlōn“, care înseamnă „a spăla“ sau „a curăța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Spülen“ wird oft im Kontext des Abwaschens oder der Reinigung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a spăla",
+    "definition": "a curăța ceva cu apă",
+    "pronunciation": "/a spəˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a spăla“ stammt vom lateinischen „lavare“ ab, was „waschen“ bedeutet.",
+        "targetText": "Verbul românesc „a spăla“ provine din latinescul „lavare“, care înseamnă „a spăla“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der ersten Konjugation; häufig in Verbindung mit Wasser und Reinigung verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Abwaschen",
+      "explanation": {
+        "sourceText": "'A spăla' bezieht sich oft auf das Abwaschen von Geschirr oder Oberflächen.",
+        "targetText": "'A spăla' se referă adesea la spălarea vaselor sau suprafețelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich spüle das Geschirr.",
+          "targetText": "Eu spal vesela."
+        }
+      ]
+    },
+    {
+      "gloss": "Reinigen",
+      "explanation": {
+        "sourceText": "'A spăla' kann auch im weiteren Sinne für Reinigen verwendet werden.",
+        "targetText": "'A spăla' poate fi folosit și în sens larg pentru curățare."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Helfer spülen die Töpfe.",
+          "targetText": "Ajutoarele spală oalele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Geschirr",
+      "targetText": "vase"
+    },
+    {
+      "sourceText": "Putzen",
+      "targetText": "curățare"
+    },
+    {
+      "sourceText": "Seife",
+      "targetText": "săpun"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich spüle das Geschirr.",
+      "targetText": "Eu spal vesela."
+    },
+    {
+      "sourceText": "Spülst du das Besteck?",
+      "targetText": "Speli tacâmurile?"
+    },
+    {
+      "sourceText": "Er spült den Tisch.",
+      "targetText": "El spală masa."
+    },
+    {
+      "sourceText": "Wir spülen alles schnell.",
+      "targetText": "Noi spălăm totul repede."
+    },
+    {
+      "sourceText": "Spült ihr die Gläser?",
+      "targetText": "Spălați paharele?"
+    },
+    {
+      "sourceText": "Die Helfer spülen die Töpfe.",
+      "targetText": "Ajutoarele spală oalele."
+    },
+    {
+      "sourceText": "Ich habe die Wäsche gespült.",
+      "targetText": "Am spălat rufele."
+    },
+    {
+      "sourceText": "Er spülte jeden Tag die Küche.",
+      "targetText": "El spăla în fiecare zi bucătăria."
+    },
+    {
+      "sourceText": "Ich werde die Fenster spülen.",
+      "targetText": "Voi spăla ferestrele."
+    },
+    {
+      "sourceText": "Ich würde spülen, wenn ich Zeit hätte.",
+      "targetText": "Aș spăla, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Spüle die Flasche!",
+      "targetText": "Spală sticla!"
+    },
+    {
+      "sourceText": "Das gespülte Geschirr ist sauber.",
+      "targetText": "Vesela spălată este curată."
+    },
+    {
+      "sourceText": "Sie spülend, unterhielten sich.",
+      "targetText": "Spălând, se discutau."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „spăla“ immer mit Wasser verbunden ist – stelle dir vor, wie Wasser alles reinigt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „spăla“ mit dem Bild von sauberem Geschirr – je mehr du spülst, desto sauberer wird alles."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „spăla“ mit frischem Obst und Gemüse, die du wäschst – so bleibt das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

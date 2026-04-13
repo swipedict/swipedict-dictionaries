@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-ausbrechen",
+  "parent": "ms-ro-a-izbucni-da625aa1@1f7c024da11b39e2dcb33ef5378fd460",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausbrechen",
+    "definition": "plötzlich entkommen oder sich von einem Ort oder einer Situation befreien",
+    "pronunciation": "/ˈaʊsˌbʁeːxən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort besteht aus dem Verb „brechen“ und dem Präfix „aus-“, was das Herausbrechen oder Entkommen aus einem Ort beschreibt.",
+        "targetText": "Cuvântul este format din verbul „brechen“ și prefixul „aus-“, indicând ruperea sau evadarea dintr-un spațiu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird verwendet, um plötzliche oder gewaltsame Befreiungen oder Ausbrüche zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a izbucni",
+    "definition": "a scăpa brusc sau a se elibera de un loc sau o situație",
+    "pronunciation": "/a izˈbuk.ni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a izbucni“ stammt vom slawischen „izbuh“, was „plötzlich ausbrechen“ bedeutet. Es wird verwendet, um unerwartete und oft energische Ereignisse zu beschreiben.",
+        "targetText": "Verbul românesc „a izbucni“ derivă din slavonul „izbuh“, care înseamnă „a izbucni brusc“. Este folosit pentru evenimente neașteptate și energice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig gebraucht für plötzliche Ereignisse wie Konflikte, Feuer oder Emotionen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Angriff",
+      "targetText": "atac"
+    },
+    {
+      "sourceText": "Befreiung",
+      "targetText": "eliberare"
+    },
+    {
+      "sourceText": "Flucht",
+      "targetText": "evadare"
+    },
+    {
+      "sourceText": "Geschehen",
+      "targetText": "a se întâmpla"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "eingreifen",
+      "targetText": "a interveni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich breche aus der Gefangenschaft aus.",
+      "targetText": "Eu izbucnesc din captivitate."
+    },
+    {
+      "sourceText": "Er ist aus dem Gefängnis ausgebrochen.",
+      "targetText": "El a izbucnit din închisoare."
+    },
+    {
+      "sourceText": "Sie werden aus dem Rahmen ausbrechen.",
+      "targetText": "Ei vor izbucni din cadrul stabilit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A izbucni“ klingt wie „es blüht auf“ – stell dir vor, wie plötzlich etwas aufbricht oder explodiert!"
+    },
+    {
+      "lang": "de",
+      "text": "„Ausbrechen“ ist oft negativ, aber „izbucni“ kann auch positive Energie ausdrücken – denk an einen plötzlichen Ausbruch von Freude."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

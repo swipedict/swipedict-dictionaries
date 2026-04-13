@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-staatsanwalt",
+  "parent": "ms-ro-procuror-c24fb401@1b15251bca8083abd3988d411ee069ff",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Staatsanwalt",
+    "genus": "masculine",
+    "definition": "Ein juristischer Beamter, der im Namen des Staates Anklage erhebt und Strafverfahren führt.",
+    "pronunciation": "/ˈʃtaːtsʔanvalt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Staatsanwalt“ setzt sich aus „Staat“ und „Anwalt“ zusammen. „Staat“ stammt vom mittelhochdeutschen 'stat' ab, das auf das althochdeutsche 'stat' zurückgeht und 'Ort, Stelle' bedeutete, später 'politische Gemeinschaft'. „Anwalt“ kommt vom mittelhochdeutschen 'anvalt', abgeleitet vom althochdeutschen 'anwald', was 'Beistand, Vertreter' bedeutet.",
+        "targetText": "Cuvântul german „Staatsanwalt” este compus din „Staat” și „Anwalt”. „Staat” provine din germana mijlocie înaltă 'stat', derivat din germana veche înaltă 'stat', însemnând inițial 'loc, poziție', apoi 'comunitate politică'. „Anwalt” vine din germana mijlocie înaltă 'anvalt', derivat din germana veche înaltă 'anwald', însemnând 'ajutor, reprezentant'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "procuror",
+    "genus": "masculine",
+    "definition": "Funcționar juridic care reprezintă statul în procese penale și exercită acțiunea penală.",
+    "pronunciation": "/prokuˈror/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „procuror“ stammt vom lateinischen Verb 'procurare' ab, was 'für etwas sorgen, verwalten' bedeutet. Im Mittelalter wurde es für einen Vertreter oder Verwalter verwendet, was sich auf die Rolle des Staatsanwalts als Vertreter des Staates bezieht.",
+        "targetText": "Cuvântul românesc „procuror” provine din verbul latin 'procurare', care înseamnă 'a avea grijă de ceva, a administra'. În Evul Mediu, a fost folosit pentru un reprezentant sau administrator, reflectând rolul procurorului ca reprezentant al statului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anklage",
+      "targetText": "acuzație"
+    },
+    {
+      "sourceText": "Gericht",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Richter",
+      "targetText": "judecător"
+    },
+    {
+      "sourceText": "Verteidiger",
+      "targetText": "avocat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Verteidiger",
+      "targetText": "avocat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Staatsanwalt erhob Anklage gegen den Verdächtigen.",
+      "targetText": "Procurorul a formulat acuzații împotriva suspectului."
+    },
+    {
+      "sourceText": "Der Staatsanwalt präsentierte die Beweise vor Gericht.",
+      "targetText": "Procurorul a prezentat probele în fața instanței."
+    },
+    {
+      "sourceText": "Der Staatsanwalt forderte eine harte Strafe.",
+      "targetText": "Procurorul a cerut o pedeapsă severă."
+    },
+    {
+      "sourceText": "Der Staatsanwalt arbeitet eng mit der Polizei zusammen.",
+      "targetText": "Procurorul colaborează strâns cu poliția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „procuror“ erinnert an das deutsche Wort „Prokurist“, beide stammen vom lateinischen 'procurare' ab, was 'verwalten' bedeutet. So kannst du dir merken, dass der Procuror den Staat verwaltet bzw. vertritt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Staatsanwalt“ setzt sich aus 'Staat' und 'Anwalt' zusammen, also ein Anwalt des Staates. Im Rumänischen ist das 'procuror', der für den Staat 'procură' (sorgt)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'procuror' endet auf '-or', typisch für viele Berufsbezeichnungen im Rumänischen, ähnlich wie 'actor' oder 'doctor'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Procuror ist der 'Pro-Kurator' des Staates, der für die Strafverfolgung sorgt – so klingt 'procuror' wie 'pro' + 'Kurator'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

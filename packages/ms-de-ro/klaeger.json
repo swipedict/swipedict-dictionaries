@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-klaeger",
+  "parent": "ms-ro-reclamant-ed22eb43@0628340abfc587c1defa60ce83c00204",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kläger",
+    "genus": "masculine",
+    "definition": "Person, die in einem Gerichtsverfahren eine Klage erhebt, also rechtlich gegen jemanden vorgeht.",
+    "pronunciation": "/ˈklɛːɡɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kläger“ stammt vom Verb „klagen“ ab, das aus dem althochdeutschen 'klagan' kommt und 'beklagen, klagen' bedeutet. Es ist verwandt mit dem mittelhochdeutschen 'klagen' und geht auf eine urgermanische Wurzel zurück.",
+        "targetText": "Cuvântul german „Kläger” provine de la verbul „klagen”, care derivă din germana veche înaltă 'klagan', însemnând 'a se plânge, a reclama'. Este înrudit cu germana mijlocie 'klagen' și are rădăcini în proto-germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "reclamant",
+    "genus": "masculine",
+    "definition": "Persoană care depune o plângere sau o cerere în instanță împotriva cuiva.",
+    "pronunciation": "/re.klaˈmant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „reclamant“ stammt vom lateinischen Verb 'reclamare' ab, das 'laut widersprechen, zurückrufen' bedeutet. Es wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „reclamant” provine din verbul latin 'reclamare', care înseamnă 'a striga împotriva, a răspunde cu voce tare'. A fost preluat în română prin intermediul limbii franceze."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Angeklagter",
+      "targetText": "inculpat"
+    },
+    {
+      "sourceText": "Gericht",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Klage",
+      "targetText": "plângere"
+    },
+    {
+      "sourceText": "Rechtsanwalt",
+      "targetText": "avocat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Beklagter",
+      "targetText": "pârât"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kläger hat eine Klage gegen den Beklagten eingereicht.",
+      "targetText": "Reclamantul a depus o plângere împotriva pârâtului."
+    },
+    {
+      "sourceText": "Im Prozess vertritt der Kläger seine Ansprüche vor Gericht.",
+      "targetText": "În proces, reclamantul își susține cererile în fața instanței."
+    },
+    {
+      "sourceText": "Der Kläger fordert Schadensersatz.",
+      "targetText": "Reclamantul solicită despăgubiri."
+    },
+    {
+      "sourceText": "Der Kläger erschien vor Gericht, um seine Klage zu erläutern.",
+      "targetText": "Reclamantul a apărut în instanță pentru a-și explica plângerea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische Wort ‚réclamer‘ ist ein Lehnwort im Rumänischen. Wenn du Französisch kennst, erkennst du die Verwandtschaft zu ‚reclamant‘."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚reclamare‘ bedeutet ‚laut widersprechen‘. Ein Kläger widerspricht also offiziell vor Gericht – das verbindet die Bedeutung mit dem Wortstamm."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „reclamant“ klingt ähnlich wie „reklamieren“, was im Deutschen 'beanstanden' bedeutet. So kannst du dir merken, dass ein Kläger jemand ist, der etwas reklamiert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Kläger ruft laut „Reklamieren!“, um seine Rechte einzufordern – so hilft dir der Klang von „reclamant“ beim Merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

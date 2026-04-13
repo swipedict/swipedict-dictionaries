@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-erwarten",
+  "parent": "ms-ro-a-astepta-a1c3da3e@f48abd7ee2eb256a703792024aa7da7a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erwarten",
+    "definition": "auf etwas warten oder annehmen, dass etwas geschieht",
+    "pronunciation": "/ɛʁˈvaʁtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „erwarten“ entwickelte sich aus dem mittelhochdeutschen „werten“ und bedeutet „voraussehen“ oder „erwarten“.",
+        "targetText": "Verbul „erwarten“ provine din germana mijlocie „werten“ și înseamnă „a anticipa“ sau „a aștepta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um Vorahnung oder Erwartung auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aștepta",
+    "definition": "a aștepta sau a presupune că ceva se va întâmpla",
+    "pronunciation": "/a aʃteˈpta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a aștepta“ stammt vom lateinischen „adspicere“ ab, das „hinblicken“ oder „warten auf“ bedeutet. Es entwickelte sich unter romanischem Einfluss zu „a aștepta“.",
+        "targetText": "Verbul românesc „a aștepta“ derivă din latină, de la „adspicere“ („a privi spre“ sau „a aștepta“), evoluând sub influența limbilor romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um auf etwas zu warten."
+  },
+  "senses": [
+    {
+      "gloss": "Vorahnung haben",
+      "explanation": {
+        "sourceText": "Bedeutet, dass man erwartet, dass etwas Bestimmtes passieren wird.",
+        "targetText": "Înseamnă a anticipa că ceva anume se va întâmpla."
+      },
+      "examples": [
+        {
+          "sourceText": "Er hat das Gefühl, dass etwas Großes bevorsteht.",
+          "targetText": "El are o presimțire că ceva mare se va întâmpla."
+        }
+      ]
+    },
+    {
+      "gloss": "Warten auf",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Warten auf Ankunft oder Eintreffen.",
+        "targetText": "Se referă la așteptarea sosirii sau apariției ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich warte auf den Zug.",
+          "targetText": "Eu aștept trenul."
+        },
+        {
+          "sourceText": "Sie warten auf ihre Freunde.",
+          "targetText": "Ei așteaptă prietenii lor."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ereignis",
+      "targetText": "eveniment"
+    },
+    {
+      "sourceText": "Geduld",
+      "targetText": "răbdare"
+    },
+    {
+      "sourceText": "Hoffnung",
+      "targetText": "speranță"
+    },
+    {
+      "sourceText": "Vorfreude",
+      "targetText": "entuziasm"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "überraschen",
+      "targetText": "a surprinde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erwarte deinen Anruf.",
+      "targetText": "Eu aștept apelul tău."
+    },
+    {
+      "sourceText": "Erwartest du eine Antwort?",
+      "targetText": "Aștepți un răspuns?"
+    },
+    {
+      "sourceText": "Sie erwartet ein Geschenk.",
+      "targetText": "Ea așteaptă un cadou."
+    },
+    {
+      "sourceText": "Wir erwarten gute Nachrichten.",
+      "targetText": "Noi așteptăm vești bune."
+    },
+    {
+      "sourceText": "Erwartet ihr die Lieferung?",
+      "targetText": "Așteptați livrarea?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erwarten große Veränderungen.",
+      "targetText": "Ei așteaptă schimbări mari."
+    },
+    {
+      "sourceText": "Ich habe auf die Nachricht gewartet.",
+      "targetText": "Am așteptat mesajul."
+    },
+    {
+      "sourceText": "Er wartete geduldig.",
+      "targetText": "El aștepta cu răbdare."
+    },
+    {
+      "sourceText": "Ich werde dich morgen erwarten.",
+      "targetText": "Te voi aștepta mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a aștepta“ kannst du dir merken, indem du an Situationen denkst, in denen man geduldig auf etwas wartet – z.B. „Aștept autobuzul“ (Ich warte auf den Bus)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort enthält die Silbe „ștept“, die an „step“ (Schritt) erinnert – denk daran, dass man Schritt für Schritt wartet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

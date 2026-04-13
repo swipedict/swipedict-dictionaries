@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-aussteigen",
+  "parent": "ms-ro-a-cobori-abc3bc26@2475a94028eadb6dcda1bf11fb3e6d3d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aussteigen",
+    "definition": "einen Transportmittel (z.B. Bus, Zug, Auto) verlassen",
+    "pronunciation": "/ˈaʊsˌtaɪɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aussteigen“ setzt sich aus „aus“ (heraus) und „steigen“ (steigen, klettern) zusammen und bezeichnet das Verlassen eines Fahrzeugs oder einer Plattform.",
+        "targetText": "Verbul german „aussteigen“ este compus din „aus“ (afară) și „steigen“ (a urca), însemnând a coborî sau a părăsi un mijloc de transport."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in der Mobilität; benutzt, um das Verlassen von Bussen, Zügen oder anderen Verkehrsmitteln zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a coborî",
+    "definition": "a părăsi un mijloc de transport (de exemplu autobuz, tren, mașină)",
+    "pronunciation": "/a ko.boˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a coborî“ stammt vom lateinischen „coborare“ ab, was „herabsteigen“ bedeutet, und beschreibt das Aussteigen aus einem Fahrzeug.",
+        "targetText": "Verbul românesc „a coborî“ derivă din latină, din „coborare“, care înseamnă „a coborî“ sau „a părăsi un vehicul“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-î). Verwendung in Verkehrs- und Bewegungsbegriffen."
+  },
+  "senses": [
+    {
+      "gloss": "aus einem Fahrzeug (irgendwie in einem speziellen Kontext)",
+      "explanation": {
+        "sourceText": "Kann auch im übertragenen Sinne verwendet werden, um das Verlassen eines Projekts oder einer Aufgabe auszudrücken.",
+        "targetText": "Poate fi folosit și în sens figurat, pentru a exprima renunțarea la un proiect sau o sarcină."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde aus diesem Projekt aussteigen.",
+          "targetText": "Mă voi retrage din acest proiect."
+        }
+      ]
+    },
+    {
+      "gloss": "aussteigen (einen Transportmittel verlassen)",
+      "explanation": {
+        "sourceText": "Bedeutet, einen Verkehrsträger wie einen Bus oder Zug zu verlassen.",
+        "targetText": "Înseamnă a părăsi un mijloc de transport, cum ar fi un autobuz sau tren."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich steige jetzt aus dem Bus aus.",
+          "targetText": "Eu cobor din autobuz acum."
+        },
+        {
+          "sourceText": "Er steigt vor dem Bahnhof aus.",
+          "targetText": "El coboară în fața gării."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "destinație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einsteigen",
+      "targetText": "a urca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich steige jetzt aus dem Bus aus.",
+      "targetText": "Eu cobor din autobuz acum."
+    },
+    {
+      "sourceText": "Steigst du an der nächsten Haltestelle aus?",
+      "targetText": "Cobori la următoarea oprire?"
+    },
+    {
+      "sourceText": "Er steigt vor dem Bahnhof aus.",
+      "targetText": "El coboară în fața gării."
+    },
+    {
+      "sourceText": "Wir steigen an der nächsten Station aus.",
+      "targetText": "Noi coborâm la următoarea stație."
+    },
+    {
+      "sourceText": "Steigt ihr vor der Universität aus?",
+      "targetText": "Coborâți înainte de universitate?"
+    },
+    {
+      "sourceText": "Sie (Pl.) steigen jetzt aus dem Zug aus.",
+      "targetText": "Ei coboară acum din tren."
+    },
+    {
+      "sourceText": "Ich bin aus dem Fahrzeug ausgestiegen.",
+      "targetText": "Am coborât din vehicul."
+    },
+    {
+      "sourceText": "Sie stiegen jeden Morgen aus dem Auto aus.",
+      "targetText": "Ei coborau din mașină în fiecare dimineață."
+    },
+    {
+      "sourceText": "Du wirst an der nächsten Station aussteigen.",
+      "targetText": "Vei coborî la următoarea stație."
+    },
+    {
+      "sourceText": "Steig schnell aus!",
+      "targetText": "Coboară repede!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „coborî“ klingt wie „Kabine“ – stelle dir vor, wie du aus einer Kabine (z.B. Bus) aussteigst und nach unten gehst."
+    },
+    {
+      "lang": "de",
+      "text": "Übe den Satz „Ich steige aus“ mit „coborî“ in verschiedenen Situationen, um die Bedeutung zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

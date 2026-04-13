@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-drucken",
+  "parent": "ms-ro-a-imprima-6b27cafe@5e2d16be284e10a657c10b568ccdfc28",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "drucken",
+    "definition": "etwas auf Papier oder einen anderen Träger übertragen, typischerweise mit einer Druckmaschine",
+    "pronunciation": "/ˈdʁʊkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom mittelhochdeutschen „drucken“, was „aufdrücken“ bedeutet, verwandt mit dem lateinischen „druckus“.",
+        "targetText": "Das deutsche Verb „drucken“ stammt vom mittelhochdeutschen „drucken“ ab, was „auf etwas drücken“ bedeutet. Es ist verwandt mit dem Verb „drücken“ und bezieht sich auf das Übertragen von Bildern oder Texten auf Papier."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. In modernen Kontexten bezieht es sich in der Regel auf das Drucken von Dokumenten oder Bildern."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a imprima",
+    "definition": "a transfera ceva pe hârtie sau pe un alt suport, de obicei cu o imprimantă",
+    "pronunciation": "/a imˈprima/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kommt vom lateinischen „imprimere“, was „aufdrücken, eindrücken“ bedeutet. Das Wort wird im speziellen Kontext des Druckens verwendet, insbesondere von Texten und Bildern.",
+        "targetText": "Verbul românesc „a imprima“ provine din latină, din „imprimere“, care înseamnă „a apăsa pe“ sau „a imprima“. Este folosit pentru a descrie procesul de tipărire a textelor sau imaginilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). In der modernen rumänischen Sprache wird es häufig verwendet, um das Drucken von Dokumenten und Fotos zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Drucken von Bildern",
+      "explanation": {
+        "sourceText": "'A imprima' wird auch für das Drucken von Bildern verwendet.",
+        "targetText": "„A imprima“ este folosit și pentru tipărirea imaginilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Er druckt das Bild.",
+          "targetText": "El imprimă imaginea."
+        }
+      ]
+    },
+    {
+      "gloss": "Drucken von Dokumenten",
+      "explanation": {
+        "sourceText": "Verwendet, um Formulare und Texte auf Papier zu übertragen.",
+        "targetText": "Folosit pentru a transfera formulare și texte pe hârtie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich drucke das Dokument.",
+          "targetText": "Eu imprim documentul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Drucker",
+      "targetText": "imprimantă"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Tinte",
+      "targetText": "cerneală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "löschen",
+      "targetText": "a șterge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich drucke das Dokument.",
+      "targetText": "Eu imprim documentul."
+    },
+    {
+      "sourceText": "Druckst du das Bild?",
+      "targetText": "Imprimi imaginea?"
+    },
+    {
+      "sourceText": "Er druckt den Bericht.",
+      "targetText": "El imprimă raportul."
+    },
+    {
+      "sourceText": "Wir drucken die Präsentation.",
+      "targetText": "Noi imprimăm prezentarea."
+    },
+    {
+      "sourceText": "Druckt ihr die Einladungen?",
+      "targetText": "Imprimați invitațiile?"
+    },
+    {
+      "sourceText": "Sie drucken das Buch.",
+      "targetText": "Ei imprimă cartea."
+    },
+    {
+      "sourceText": "Ich habe das Bild gedruckt.",
+      "targetText": "Am imprimat imaginea."
+    },
+    {
+      "sourceText": "Ich werde das Dokument drucken.",
+      "targetText": "Voi imprima documentul."
+    },
+    {
+      "sourceText": "Drucke das Formular!",
+      "targetText": "Imprimă formularul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „drucken“ und das rumänische „a imprima“ hängen beide mit dem Drücken zusammen – stell dir vor, wie du mit einer Druckerpresse etwas auf Papier „aufdrückst“!"
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen benutzt man oft ein Objekt nach „a imprima“ – z.B. „imprim documentul“ – das hilft dir, die Satzstruktur zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a imprima“ durch die Ähnlichkeit zu „imprimare“ (Druck) und verbinde es mit dem Bild einer Druckmaschine."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

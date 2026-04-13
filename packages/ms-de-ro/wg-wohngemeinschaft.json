@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wg-wohngemeinschaft",
+  "parent": "ms-ro-locuinta-comuna-e292e578@a0f47714c8775d002f2021e10c6bb164",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "WG (Wohngemeinschaft)",
+    "genus": "feminine",
+    "definition": "Eine Wohnform, bei der mehrere Personen zusammen in einer Wohnung leben und sich die Kosten teilen.",
+    "pronunciation": "/ˈveːˈɡeː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Abkürzung 'WG' steht für 'Wohngemeinschaft', zusammengesetzt aus 'wohnen' und 'Gemeinschaft'.",
+        "targetText": "Abrevierea „WG” provine de la „Wohngemeinschaft”, compusă din „wohnen” (a locui) și „Gemeinschaft” (comunitate)."
+      },
+      "source": "Deutsche Wortbildungslehre"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "locuință comună",
+    "genus": "feminine",
+    "definition": "Formă de locuire în care mai multe persoane împart o locuință și costurile aferente.",
+    "pronunciation": "/lo.kuˈin.t͡sə koˈmu.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck 'locuință comună' setzt sich aus 'locuință' (Wohnung, von lateinisch 'locare') und 'comună' (gemeinsam, von lateinisch 'communis') zusammen.",
+        "targetText": "Expresia românească „locuință comună” este formată din „locuință” (de la latină 'locare') și „comună” (de la latină 'communis')."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hausgemeinschaft",
+      "targetText": "comunitate de locuitori"
+    },
+    {
+      "sourceText": "Miete",
+      "targetText": "chirii"
+    },
+    {
+      "sourceText": "Mitbewohner",
+      "targetText": "co-locatar"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "locuință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Einzelwohnung",
+      "targetText": "locuință individuală"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wohne in einer WG mit drei anderen Studenten.",
+      "targetText": "Locuiesc într-o locuință comună cu alți trei studenți."
+    },
+    {
+      "sourceText": "Die WG teilt sich die Miete und die Nebenkosten.",
+      "targetText": "Locuința comună împarte chiria și cheltuielile."
+    },
+    {
+      "sourceText": "In einer WG lebt man oft günstiger als allein.",
+      "targetText": "Într-o locuință comună trăiești adesea mai ieftin decât singur."
+    },
+    {
+      "sourceText": "Die WG ist sehr beliebt bei jungen Leuten.",
+      "targetText": "Locuința comună este foarte populară printre tineri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'comună' bedeutet 'gemeinsam' und hilft dir, die Bedeutung von WG als gemeinsames Wohnen zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an 'WG' als 'Wohngemeinschaft' – eine Gemeinschaft, die zusammen wohnt, ähnlich wie 'locuință comună' im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Abkürzung 'WG' ist im Deutschen sehr gebräuchlich, im Rumänischen sagt man eher 'locuință comună' oder 'casă comună'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du teilst deine Wohnung (locuință) mit Freunden – so entsteht eine 'locuință comună'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

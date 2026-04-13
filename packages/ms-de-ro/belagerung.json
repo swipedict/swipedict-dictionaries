@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-belagerung",
+  "parent": "ms-ro-asediu-1b6ed6d3@c8fa958b216896b134f27ef4539e9dba",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Belagerung",
+    "genus": "feminine",
+    "definition": "Militärische Einkreisung und Blockade einer Stadt oder Festung, um sie zur Aufgabe zu zwingen.",
+    "pronunciation": "/bəˈlaːɡəʁʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Belagerung“ stammt vom mittelhochdeutschen 'belagern' ab, zusammengesetzt aus 'be-' und 'Lager', was 'Lager umzingeln' bedeutet.",
+        "targetText": "Cuvântul „Belagerung” provine din germana mijlocie 'belagern', compus din 'be-' și 'Lager', însemnând 'a înconjura un tabără'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asediu",
+    "genus": "neuter",
+    "definition": "Încercuire și blocare militară a unui oraș sau cetăți pentru a-l forța să se predea.",
+    "pronunciation": "/a.seˈdju/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asediu“ stammt vom italienischen 'assedio' ab, das wiederum vom lateinischen 'assidēre' kommt, was 'sitzen bei' oder 'belagern' bedeutet.",
+        "targetText": "Cuvântul românesc „asediu” provine din italianul 'assedio', care la rândul său vine din latină 'assidēre', însemnând 'a sta lângă' sau 'a asedia'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Belagerer",
+      "targetText": "asediator"
+    },
+    {
+      "sourceText": "Blockade",
+      "targetText": "blocadă"
+    },
+    {
+      "sourceText": "Festung",
+      "targetText": "cetate"
+    },
+    {
+      "sourceText": "Kampf",
+      "targetText": "luptă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Belagerung der Stadt dauerte mehrere Monate.",
+      "targetText": "Asediul orașului a durat mai multe luni."
+    },
+    {
+      "sourceText": "Während der Belagerung gab es wenig Nahrung.",
+      "targetText": "În timpul asediului, hrana era puțină."
+    },
+    {
+      "sourceText": "Die Belagerung endete mit der Kapitulation der Festung.",
+      "targetText": "Asediul s-a încheiat cu capitularea cetății."
+    },
+    {
+      "sourceText": "Belagerung ist eine alte militärische Taktik.",
+      "targetText": "Asediul este o tactică militară veche."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Belagerung = asediu: Beide Wörter beschreiben eine militärische Einkreisung, denk an 'Sitz' (lateinisch 'sedere') im rumänischen Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „asediu“ klingt ähnlich wie das italienische 'assedio', was dir hilft, die Bedeutung zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an 'a se' + 'diu' als 'a sta' (a se) und 'zi' (zi = Tag), also 'a sta mult timp' – das hilft, die Bedeutung von Belagerung als langes Umzingeln zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-iu' ist typisch für rumänische Substantive, die oft abstrakte oder militärische Begriffe bezeichnen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

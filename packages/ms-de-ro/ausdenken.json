@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-ausdenken",
+  "parent": "ms-ro-a-gandi-97d32e82@6a63674af08aac9d07b4e713e0670906",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausdenken",
+    "definition": "eine Idee oder einen Plan mental entwickeln oder erfinden",
+    "pronunciation": "/ˈaʊsˌdɛŋkn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort besteht aus dem Verb „denken“ und dem Präfix „aus-“, was das Kreieren oder Vorstellen von etwas Neuem bedeutet.",
+        "targetText": "Cuvântul este format din verbul „denken“ și prefixul „aus-“, indicând procesul de a crea sau imagina ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Oft verwendet für kreative Prozesse oder das Erfinden von Ideen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a gândi",
+    "definition": "a dezvolta sau a inventa o idee sau un plan mental",
+    "pronunciation": "/a ɡɨnˈdi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a gândi“ stammt vom lateinischen „inde“ ab, was „denken“ bedeutet. Es beschreibt den Prozess des Denkens oder Überlegens.",
+        "targetText": "Verbul românesc „a gândi“ provine din latinescul „inde“, care înseamnă „a gândi“. Este folosit pentru procese mentale și creative."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Kann auch kreativ verwendet werden, z.B. für das Ausdenken von Ideen."
+  },
+  "senses": [
+    {
+      "gloss": "Idee",
+      "explanation": {
+        "sourceText": "Bezieht sich auf kreativ entwickelte Gedanken.",
+        "targetText": "Se referă la gânduri dezvoltate creativ."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe eine neue Idee.",
+          "targetText": "Am o idee nouă."
+        }
+      ]
+    },
+    {
+      "gloss": "Konzept",
+      "explanation": {
+        "sourceText": "Ein allgemeiner Plan oder eine Idee.",
+        "targetText": "Un plan sau o idee generală."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir diskutieren das Konzept.",
+          "targetText": "Discutăm conceptul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Idee",
+      "targetText": "idee"
+    },
+    {
+      "sourceText": "Kreativität",
+      "targetText": "creativitate"
+    },
+    {
+      "sourceText": "Plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "Vorstellung",
+      "targetText": "reprezentare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich denke mir eine Geschichte aus.",
+      "targetText": "Eu îmi gândesc o poveste."
+    },
+    {
+      "sourceText": "Sie hat das Konzept bereits ausgeklügelt.",
+      "targetText": "Ea a gândit deja concepția."
+    },
+    {
+      "sourceText": "Wir werden uns eine neue Strategie ausdenken.",
+      "targetText": "Noi ne vom gândi la o nouă strategie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A gândi“ bedeutet auch „überlegen“ – stell dir vor, du sitzt im Café und denkst über deine nächste Idee nach."
+    },
+    {
+      "lang": "de",
+      "text": "Bilde Sätze in verschiedenen Kontexten, um die Verwendung von „a gândi“ besser zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

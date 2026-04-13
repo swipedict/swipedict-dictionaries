@@ -1,0 +1,145 @@
+{
+  "id": "ms-de-ro-klatschen",
+  "parent": "ms-ro-a-aplauza-1083c9ac@857b19d3d3a3a3e7ccfc136c64779736",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "AI",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klatschen",
+    "definition": "mit den Händen zusammenstoßen, um einen schallenden Ton zu erzeugen",
+    "pronunciation": "/ˈklat͡ʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „klatschen“ ist vermutlich eine lautmalerische Bildung und könnte durch das mittelhochdeutsche „klatschen“ oder „klatzer“ beeinflusst sein.",
+        "targetText": "Das deutsche Verb „klatschen“ ist lautmalerisch und stammt vom mittelhochdeutschen „klatschen“ ab, das das Geräusch des Händeklatschens beschreibt."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Regelmäßiges Verb. Es beschreibt das Betätigen der Hände, um Geräusche zu erzeugen, oder das Vorführen von Freude oder Beifall, z.B. bei Applaus. kann auch als Ausdruck von Schock oder Überraschung verwendet werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aplauza",
+    "definition": "a lovi palmele una de cealaltă pentru a produce un sunet",
+    "pronunciation": "/a aplaˈu̯za/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a aplauza“ ist vom französischen „applaudir“ abgeleitet, dessen Ursprung wiederum im lateinischen „applaudere“ liegt, was „hände zusammenbringen oder ein Geräusch erzeugen“ bedeutet.",
+        "targetText": "Verbul românesc „a aplauza“ provine din francezul „applaudir“, derivat din latină „applaudere“ („a bate din palme“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird verwendet, um positive Reaktionen auf eine Darbietung oder eine Leistung auszudrücken und ist ein wichtiges kulturelles Element bei Veranstaltungen."
+  },
+  "senses": [
+    {
+      "gloss": "Aplaus",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: Ausdruck von Zustimmung oder Freude.",
+        "targetText": "Ca în germană: expresie a aprobării sau bucuriei."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Publikum klatschte begeistert.",
+          "targetText": "Publicul a aplaudat entuziast."
+        }
+      ]
+    },
+    {
+      "gloss": "Applaus",
+      "explanation": {
+        "sourceText": "Klatschen als Belohnung für eine gute Leistung.",
+        "targetText": "Bătutul din palme ca recompensă pentru o performanță bună."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Schauspielerin erhielt viel Klatschen.",
+          "targetText": "Actrița a primit multe aplauze."
+        }
+      ]
+    },
+    {
+      "gloss": "Beifall",
+      "explanation": {
+        "sourceText": "Wird oft in der Musik oder Theater verwendet.",
+        "targetText": "Folosit frecvent în muzică sau teatru."
+      },
+      "examples": [
+        {
+          "sourceText": "Nach dem Konzert gab es lange Klatschen.",
+          "targetText": "După concert au fost aplauze îndelungate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Applaus",
+      "targetText": "aplaudă"
+    },
+    {
+      "sourceText": "Feier",
+      "targetText": "petrecere"
+    },
+    {
+      "sourceText": "Freude",
+      "targetText": "bucurie"
+    },
+    {
+      "sourceText": "Lärm",
+      "targetText": "zgomot"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich klatsche für die Vorstellung.",
+      "targetText": "Eu aplaud pentru spectacol."
+    },
+    {
+      "sourceText": "Ich habe für die Darbietung geklatscht.",
+      "targetText": "Am aplauzat pentru prestație."
+    },
+    {
+      "sourceText": "Ich werde laut klatschen.",
+      "targetText": "Voi aplauza tare."
+    },
+    {
+      "sourceText": "Klatsche für das Team!",
+      "targetText": "Aplauze pentru echipă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A aplauza“ klingt wie „Applaus“ – so merkst du dir, dass es ums Klatschen und Beifall geht!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du laut klatschst („aplauze“) und damit deine Freude zeigst – das verbindet Klang und Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

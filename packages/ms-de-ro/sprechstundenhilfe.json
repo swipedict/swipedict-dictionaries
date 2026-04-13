@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-sprechstundenhilfe",
+  "parent": "ms-ro-asistenta-medicala-0816e7e0@0a3e94f1a51947973d2128442d9c1673",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sprechstundenhilfe",
+    "genus": "feminine",
+    "definition": "Eine Person, die in einer Arztpraxis administrative und organisatorische Aufgaben übernimmt und Patienten während der Sprechstunde unterstützt.",
+    "pronunciation": "/ˈʃpʁɛçʃtʊndn̩ˌhɪlfə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sprechstundenhilfe“ setzt sich zusammen aus „Sprechstunde“ (eine festgelegte Zeit zur ärztlichen Beratung) und „Hilfe“ (Unterstützung).",
+        "targetText": "Cuvântul german „Sprechstundenhilfe“ este compus din „Sprechstunde” (o perioadă fixă pentru consultații medicale) și „Hilfe” (ajutor, sprijin)."
+      },
+      "source": "Deutsche Wortbildungslehre"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asistentă medicală",
+    "genus": "feminine",
+    "definition": "O persoană care ajută medicul în timpul consultațiilor, ocupându-se de sarcini administrative și suport pentru pacienți.",
+    "pronunciation": "/a.siˈsten.tə me.diˈka.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asistentă“ stammt vom lateinischen 'assistere' ab, was 'beistehen, helfen' bedeutet, und „medicală“ leitet sich vom lateinischen 'medicus' ab, was 'Arzt' bedeutet.",
+        "targetText": "Cuvântul românesc „asistentă” provine din latină, de la 'assistere', care înseamnă 'a sta alături, a ajuta', iar „medicală” derivă din latină, de la 'medicus', care înseamnă 'medic'."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "Patient",
+      "targetText": "pacient"
+    },
+    {
+      "sourceText": "Praxis",
+      "targetText": "cabinet medical"
+    },
+    {
+      "sourceText": "Termin",
+      "targetText": "programare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Sprechstundenhilfe organisiert die Termine für den Arzt.",
+      "targetText": "Asistenta medicală organizează programările pentru medic."
+    },
+    {
+      "sourceText": "In der Praxis hilft die Sprechstundenhilfe den Patienten beim Ausfüllen der Formulare.",
+      "targetText": "În cabinet, asistenta medicală ajută pacienții să completeze formularele."
+    },
+    {
+      "sourceText": "Die Sprechstundenhilfe beantwortet Telefonanrufe und koordiniert die Abläufe.",
+      "targetText": "Asistenta medicală răspunde la telefon și coordonează activitățile."
+    },
+    {
+      "sourceText": "Während der Sprechstunde unterstützt die Sprechstundenhilfe den Arzt bei der Patientenbetreuung.",
+      "targetText": "În timpul consultației, asistenta medicală sprijină medicul în îngrijirea pacienților."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „asistentă“ klingt ähnlich wie das deutsche Wort „Assistentin“ – beide bedeuten eine helfende Person."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „medicală“ erinnert an das deutsche Wort „medizinisch“ und hilft, die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „asistentă medicală“ als die medizinische Helferin, die in der Praxis unterstützt – ähnlich wie die deutsche Sprechstundenhilfe."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die „asistentă“ steht immer „assistierend“ neben dem Arzt – so kannst du dir die Bedeutung leicht merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

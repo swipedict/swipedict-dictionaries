@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-krankenschwester",
+  "parent": "ms-ro-asistenta-8cef2b3f@904a762e9977105a0b0668d18e78b511",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Krankenschwester",
+    "genus": "feminine",
+    "definition": "Eine weibliche Person, die in einem Krankenhaus oder einer medizinischen Einrichtung Patienten pflegt und betreut.",
+    "pronunciation": "/ˈkʁaŋkn̩ˌʃvɛstɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Krankenschwester“ setzt sich aus den Wörtern „krank“ und „Schwester“ zusammen, wobei „Schwester“ ursprünglich eine religiöse Schwester im Kloster bezeichnete, die sich um Kranke kümmerte.",
+        "targetText": "Cuvântul german „Krankenschwester“ este compus din „krank“ (bolnav) și „Schwester“ (soră), unde „Schwester“ inițial desemna o călugăriță care avea grijă de bolnavi."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asistentă",
+    "genus": "feminine",
+    "definition": "O persoană de sex feminin care oferă îngrijire și asistență pacienților în spitale sau alte instituții medicale.",
+    "pronunciation": "/a.siˈsten.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asistentă“ stammt vom lateinischen Verb 'assistere' ab, was 'beistehen' oder 'helfen' bedeutet, und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „asistentă” provine din verbul latin 'assistere', care înseamnă 'a sta alături' sau 'a ajuta', fiind preluat prin franceză în limba română."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Weibliche Form von 'asistent', wird im medizinischen Kontext für Krankenschwestern verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Krankenpfleger",
+      "targetText": "asistent"
+    },
+    {
+      "sourceText": "Patient",
+      "targetText": "pacient"
+    },
+    {
+      "sourceText": "Pflege",
+      "targetText": "îngrijire"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Krankenschwester hilft dem Patienten beim Aufstehen.",
+      "targetText": "Asistenta îl ajută pe pacient să se ridice."
+    },
+    {
+      "sourceText": "Eine Krankenschwester arbeitet oft in Schichten.",
+      "targetText": "O asistentă lucrează adesea în ture."
+    },
+    {
+      "sourceText": "Die Krankenschwester misst die Temperatur des Patienten.",
+      "targetText": "Asistenta măsoară temperatura pacientului."
+    },
+    {
+      "sourceText": "Krankenschwestern sind wichtige Mitglieder im Gesundheitssystem.",
+      "targetText": "Asistentele sunt membri importanți ai sistemului de sănătate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'assistere' bedeutet 'beistehen' – denk an die Krankenschwester, die immer an der Seite der Kranken steht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'asistentă' klingt wie 'Assistenz' im Deutschen – beide bedeuten Hilfe oder Unterstützung, genau wie eine Krankenschwester."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-ă' zeigt im Rumänischen oft die weibliche Form an – 'asistent' (männlich) und 'asistentă' (weiblich)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine 'asistentă' steht immer 'assistierend' neben dem Arzt und hilft den Patienten – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

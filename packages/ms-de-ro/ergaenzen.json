@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-ergaenzen",
+  "parent": "ms-ro-a-completa-7f764ec8@752f9a5b48c3252b5e80624488dbaa25",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ergänzen",
+    "definition": "etwas überreichen oder abliefern",
+    "pronunciation": "/ɛʁˈɡɛnt͡sən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Zusammengesetzt aus „er-“, einem Präfix, das eine Veränderung anzeigt, und „gänzen“, was „zum Ganzen machen“ bedeutet. Es beschreibt das Hinzufügen von etwas Fehlendem.",
+        "targetText": "Cuvântul este compus din prefixul „er-“ (indică o schimbare) și „gänzen“ (a face întreg), descriind adăugarea a ceva lipsă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Verwendet in Bildungskontexten, um Lücken zu füllen oder Informationen zu vervollständigen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a completa",
+    "definition": "a preda sau a livra ceva",
+    "pronunciation": "/a komˈpleta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet aus dem lateinischen „completare“ (vollständig machen), bedeutet „a completa“ im Rumänischen das Vervollständigen oder Hinzufügen fehlender Teile.",
+        "targetText": "Derivat din verbul latin „completare“ (a face complet), „a completa“ înseamnă a adăuga părți lipsă sau a finaliza ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft genutzt, wenn man Aussagen vervollständigt oder Ergänzungen macht."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "abliefern",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "ausliefern",
+      "targetText": "a expedia"
+    },
+    {
+      "sourceText": "Lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "übergeben",
+      "targetText": "a preda"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entgegennehmen",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ergänze die Liste.",
+      "targetText": "Eu completez lista."
+    },
+    {
+      "sourceText": "Ich habe das Dokument ergänzt.",
+      "targetText": "Am completat documentul."
+    },
+    {
+      "sourceText": "Ich werde den Text ergänzen.",
+      "targetText": "Voi completa textul."
+    },
+    {
+      "sourceText": "Ergänze den Satz!",
+      "targetText": "Completează propoziția!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a completa“ klingt wie „komplett“ – stelle dir vor, wie du ein Puzzle komplett machst, um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische „completare“ steckt in „a completa“ – das hilft dir, die Bedeutung des Vervollständigens zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "ms-de-ro-bezahlen",
+  "parent": "ms-ro-a-plati-4258ee3a@b621465306fe843eb4f238e94c838979",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bezahlen",
+    "definition": "eine Zahlung für etwas leisten",
+    "pronunciation": "/bəˈʦaːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „bezahlen“ entstand durch das Präfix „be-“ und das Verb „zahlen“, das aus dem althochdeutschen „zalan“ stammt und „eine Schuld begleichen“ bedeutet.",
+        "targetText": "Verbul german „bezahlen“ provine din prefixul „be-“ și verbul „zahlen“ (a plăti), care la rândul său vine din germana veche și înseamnă a achita o datorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in geschäftlichen und alltäglichen Kontexten verwendet, wenn es um den Austausch von Geld für Waren oder Dienstleistungen geht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a plăti",
+    "definition": "a face o plată pentru ceva",
+    "pronunciation": "/a pləˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a plăti“ stammt vom lateinischen „plicitare“ oder „placitare“ ab, was „bezahlen“ oder „einlösen“ bedeutet. Es reflektiert den wirtschaftlichen Austausch von Geld für Waren oder Dienstleistungen.",
+        "targetText": "Verbul românesc „a plăti“ provine din latină, din „plicare“ sau „placitare“, care înseamnă a plăti sau a achita o datorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-i). Wird verwendet, um den Zahlungsvorgang zu beschreiben, oft in den Kontexten von Geschäften."
+  },
+  "senses": [
+    {
+      "gloss": "Bezahlen (Zahlung leisten)",
+      "explanation": {
+        "sourceText": "Das Wort wird verwendet, um einen Zahlungsprozess zu beschreiben.",
+        "targetText": "Cuvântul este folosit pentru a descrie procesul de plată."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bezahle die Rechnung.",
+          "targetText": "Eu plătesc factura."
+        }
+      ]
+    },
+    {
+      "gloss": "Bezahlung einer Dienstleistung",
+      "explanation": {
+        "sourceText": "Das Wort umfasst auch die Bezahlung für eine Dienstleistung.",
+        "targetText": "Cuvântul include și plata pentru un serviciu."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bezahle den Friseur.",
+          "targetText": "Plătesc la frizer."
+        }
+      ]
+    },
+    {
+      "gloss": "Plati pentru un produs",
+      "explanation": {
+        "sourceText": "Das Wort wird auch verwendet, um den Kauf eines Produkts zu beschreiben.",
+        "targetText": "Cuvântul este folosit și pentru a descrie plata pentru un produs."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte das Buch bezahlen.",
+          "targetText": "Vreau să plătesc cartea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bezahlung",
+      "targetText": "plată"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Kauf",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "eintreiben",
+      "targetText": "a încasa"
+    },
+    {
+      "sourceText": "schulden",
+      "targetText": "a datora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bezahle die Rechnung.",
+      "targetText": "Eu plătesc factura."
+    },
+    {
+      "sourceText": "Bezahlst du das Essen?",
+      "targetText": "Plătești masa?"
+    },
+    {
+      "sourceText": "Er bezahlt die Miete jeden Monat.",
+      "targetText": "El plătește chiria în fiecare lună."
+    },
+    {
+      "sourceText": "Wir bezahlen heute die Bestellung.",
+      "targetText": "Noi plătim astăzi comanda."
+    },
+    {
+      "sourceText": "Bezahlt ihr die Tickets im Voraus?",
+      "targetText": "Plătiți biletele în avans?"
+    },
+    {
+      "sourceText": "Sie bezahlen die Schulgebühren.",
+      "targetText": "Ei plătesc taxele școlare."
+    },
+    {
+      "sourceText": "Ich habe die Bestellung bereits bezahlt.",
+      "targetText": "Am plătit deja comanda."
+    },
+    {
+      "sourceText": "Er bezahlte den Kauf sofort.",
+      "targetText": "El plătea achiziția imediat."
+    },
+    {
+      "sourceText": "Ich werde die Gebühren morgen bezahlen.",
+      "targetText": "Voi plăti taxele mâine."
+    },
+    {
+      "sourceText": "Ich würde das Ticket bezahlen, wenn ich Geld hätte.",
+      "targetText": "Aș plăti biletul, dacă aș avea bani."
+    },
+    {
+      "sourceText": "Zahl die Rechnung jetzt!",
+      "targetText": "Plătește factura acum!"
+    },
+    {
+      "sourceText": "Die bezahlte Rechnung wurde archiviert.",
+      "targetText": "Factura plătită a fost arhivată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „bezahlen“ und das rumänische „a plăti“ klingen unterschiedlich, aber beide drehen sich um Geld – denk an „plată“ (Zahlung), das hilft dir, die Verbindung zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensformen von „a plăti“ mit den typischen Endungen `-esc`, `-ești`, `-ește` – das hilft dir, das Verb richtig zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Plătesc ceva“ (Ich bezahle etwas), um den Gebrauch von „a plăti“ zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

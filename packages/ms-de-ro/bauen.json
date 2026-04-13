@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bauen",
+  "parent": "ms-ro-a-construi-25463540@2c4324aff38e76dbdb32f16bd065de35",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bauen",
+    "definition": "etwas herstellen oder errichten, insbesondere Gebäude oder Strukturen",
+    "pronunciation": "/ˈbaʊ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kommt aus dem mittelhochdeutschen „būwen“ und althochdeutschen „būen“, was „bewohnen, bauen“ bedeutet. Eng verwandt mit dem niederländischen „bouwen“.",
+        "targetText": "Verbul german „bauen“ provine din mijlocul german „būwen“ și vechiul german „būen“, însemnând „a locui, a construi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Bezieht sich auf das Errichten von Gebäuden oder Strukturen und hat oft mit Handwerk zu tun."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a construi",
+    "definition": "a fabrica sau a ridica, în special clădiri sau structuri",
+    "pronunciation": "/a kons.tˈru.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a construi“ stammt vom lateinischen „construere“, was „aufbauen, errichten“ bedeutet. Es ist ein zusammengesetztes Wort, das „mit“ (com) und „struere“ (bauen) kombiniert.",
+        "targetText": "Verbul românesc „a construi“ provine din latinul „construere“, care înseamnă „a construi“ sau „a ridica“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, wenn es um das Errichten von Gebäuden, Strukturen oder Infrastruktur geht."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Architekt",
+      "targetText": "arhitect"
+    },
+    {
+      "sourceText": "Bauleiter",
+      "targetText": "șef de șantier"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Werk",
+      "targetText": "lucrare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich baue ein Haus.",
+      "targetText": "Eu construiesc o casă."
+    },
+    {
+      "sourceText": "Er baut ein Hochhaus.",
+      "targetText": "El construiește un zgârie-nori."
+    },
+    {
+      "sourceText": "Ich habe ein neues Haus gebaut.",
+      "targetText": "Am construit o casă nouă."
+    },
+    {
+      "sourceText": "Ich werde ein Gebäude bauen.",
+      "targetText": "Voi construi o clădire."
+    },
+    {
+      "sourceText": "Bau das neue Projekt!",
+      "targetText": "Construiește noul proiect!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a construi“ klingt wie das deutsche „konstruieren“ – beide bedeuten etwas bauen oder herstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du baust dein Traumhaus – das hilft dir, „a construi“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-kauen",
+  "parent": "ms-ro-a-mesteca-86699d66@ed909c7c75c386637cfc209fa793df32",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "AI",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kauen",
+    "definition": "Essen so zerkleinern, dass man es schlucken kann",
+    "pronunciation": "/ˈkaʊ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ursprung des Verbs „kauen“ ist nicht vollständig geklärt, könnte aber vom althochdeutschen „chouwan“ und mittelhochdeutschen „kouwen“ stammen.",
+        "targetText": "Das Verb „kauen“ stammt vermutlich vom althochdeutschen „chouwan“ und mittelhochdeutschen „kouwen“ ab, mit germanischen Wurzeln."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Beschreibt das Zerkleinern von Nahrung mit den Zähnen, auch im übertragenen Sinne."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mesteca",
+    "definition": "a zdrobi mâncarea astfel încât să o poată înghiți",
+    "pronunciation": "/a mes.teˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a mesteca“ stammt vom lateinischen „masticare“, was „zerkauen“ bedeutet.",
+        "targetText": "Verbul românesc „a mesteca“ provine din latină, din „masticare“, care înseamnă „a mesteca“ sau „a măcina“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig in wörtlichem und übertragenem Sinn verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Kauen (Essen)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Prozess des Zerkleinerns von Nahrungsmitteln.",
+        "targetText": "Se referă la procesul de zdrobire a alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kauen das Brot.",
+          "targetText": "Eu mestec pâinea."
+        }
+      ]
+    },
+    {
+      "gloss": "Nachdenken über etwas",
+      "explanation": {
+        "sourceText": "Kann auch übertragen verwendet werden, um das Nachdenken zu beschreiben.",
+        "targetText": "Poate fi folosit și figurat pentru a descrie gândirea sau reflectarea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kauen über die Lösung nach.",
+          "targetText": "Eu mestec soluția în minte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "getreide",
+      "targetText": "cereale"
+    },
+    {
+      "sourceText": "snack",
+      "targetText": "gustare"
+    },
+    {
+      "sourceText": "zahn",
+      "targetText": "dinte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schlucken",
+      "targetText": "înghiți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kauen das Brot.",
+      "targetText": "Eu mestec pâinea."
+    },
+    {
+      "sourceText": "Er kaut die Kekse.",
+      "targetText": "El mestecă biscuiții."
+    },
+    {
+      "sourceText": "Ich habe das Fleisch gut gekaut.",
+      "targetText": "Am mestecat bine carnea."
+    },
+    {
+      "sourceText": "Ich werde das Gemüse kauen.",
+      "targetText": "Voi mesteca legumele."
+    },
+    {
+      "sourceText": "Kau das Essen gut!",
+      "targetText": "Mestecă bine mâncarea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A mesteca“ klingt anders als „kauen“, aber stell dir vor, dass das „m“ für „Magen“ steht, der froh ist, wenn du kaust."
+    },
+    {
+      "lang": "de",
+      "text": "Übe einfache Sätze wie „Eu mestec“, um das Verb im Alltag zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

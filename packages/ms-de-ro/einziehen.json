@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-einziehen",
+  "parent": "ms-ro-a-muta-593b3a01@314cb90c57c83e56885e2d8ebab8464d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einziehen",
+    "definition": "in eine Wohnung oder ein Haus ziehen",
+    "pronunciation": "/ainˈtsiːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich zusammen aus dem Präfix „ein-“ und dem Verb „ziehen“, welches auf das althochdeutsche „ziuhan“ zurückgeht und „bewegen“ bedeutet.",
+        "targetText": "Verbul este format din prefixul „ein-“ și verbul „ziehen“, care provine din germana veche „ziuhan“ însemnând „a trage, a muta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet in Bezug auf das Beziehen einer neuen Wohnung oder eines neuen Raumes."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a muta",
+    "definition": "a intra într-o locuință sau o casă",
+    "pronunciation": "/a muˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a muta“ stammt vom lateinischen „movere“ ab, was „bewegen“ bedeutet. Es wird verwendet, um den Umzug an einen neuen Wohnort zu beschreiben.",
+        "targetText": "Verbul românesc „a muta“ derivă din latinescul „movere“, care înseamnă „a mișca“, fiind folosit pentru a exprima schimbarea locuinței."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Vor allem im Alltag verwendet, um Umzüge zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "einziehen (in eine Wohnung)",
+      "explanation": {
+        "sourceText": "Das Verb beschreibt das Umziehen in eine neue Wohnung.",
+        "targetText": "Verbul descrie mutarea într-un nou apartament."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ziehe nächste Woche um.",
+          "targetText": "Eu mă mut săptămâna viitoare."
+        },
+        {
+          "sourceText": "Ich bin in die neue Wohnung eingezogen.",
+          "targetText": "M-am mutat în noul apartament."
+        }
+      ]
+    },
+    {
+      "gloss": "einziehen (in einen Raum)",
+      "explanation": {
+        "sourceText": "Das Wort wird auch verwendet, um das Betreten eines neuen Raumes zu beschreiben.",
+        "targetText": "Cuvântul este folosit și pentru a descrie intrarea într-o încăpere nouă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich würde sofort einziehen, wenn das Zimmer frei wäre.",
+          "targetText": "M-aș muta imediat, dacă ar fi liber."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Mieter",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausziehen",
+      "targetText": "a se muta din"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ziehe nächste Woche um.",
+      "targetText": "Eu mă mut săptămâna viitoare."
+    },
+    {
+      "sourceText": "Ich bin in die neue Wohnung eingezogen.",
+      "targetText": "M-am mutat în noul apartament."
+    },
+    {
+      "sourceText": "Ich werde nächste Woche einziehen.",
+      "targetText": "Voi mă muta săptămâna viitoare."
+    },
+    {
+      "sourceText": "Ich würde sofort einziehen, wenn das Zimmer frei wäre.",
+      "targetText": "M-aș muta imediat, dacă ar fi liber."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „einziehen“ bedeutet, in ein neues Zuhause zu gehen – das rumänische „a muta“ kommt von „movere“ (bewegen), also denk daran: Du bewegst dich in ein neues Zuhause!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz „Eu mă mut!“ (Ich ziehe um), denn „muta“ ist das Schlüsselwort für Umzug und Veränderung des Wohnortes."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

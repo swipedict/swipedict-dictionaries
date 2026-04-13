@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-arbeitsvertrag",
+  "parent": "ms-ro-contract-de-munca-fddf6c01@2407afe47eae55a8694a96ec747a999b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arbeitsvertrag",
+    "genus": "masculine",
+    "definition": "Ein Vertrag, der die Bedingungen der Arbeitsleistung regelt.",
+    "pronunciation": "/ˈaʁbaɪ̯tsfɛɐ̯ˌtraːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arbeitsvertrag“ ist eine Zusammensetzung aus 'Arbeit' und 'Vertrag', wobei 'Vertrag' vom mittelhochdeutschen 'vertrac' stammt und 'Abkommen' bedeutet.",
+        "targetText": "Cuvântul german „Arbeitsvertrag” este compus din 'Arbeit' și 'Vertrag', unde 'Vertrag' provine din germana mijlocie 'vertrac', însemnând 'înțelegere'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "contract de muncă",
+    "genus": "neuter",
+    "definition": "Un acord scris care reglementează condițiile muncii între angajator și angajat.",
+    "pronunciation": "/konˈtrakt de ˈmunkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „contract” stammt vom lateinischen 'contractus' ab, was 'Vertrag' bedeutet, und 'muncă' ist das rumänische Wort für 'Arbeit'.",
+        "targetText": "Cuvântul românesc „contract” provine din latină, din 'contractus', care înseamnă 'înțelegere', iar 'muncă' este cuvântul românesc pentru 'muncă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitgeber",
+      "targetText": "angajator"
+    },
+    {
+      "sourceText": "Arbeitnehmer",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "Beschäftigung",
+      "targetText": "ocupare"
+    },
+    {
+      "sourceText": "Gehalt",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe einen Arbeitsvertrag unterschrieben.",
+      "targetText": "Am semnat un contract de muncă."
+    },
+    {
+      "sourceText": "Der Arbeitsvertrag regelt die Arbeitszeiten.",
+      "targetText": "Contractul de muncă reglementează orele de lucru."
+    },
+    {
+      "sourceText": "Der Arbeitsvertrag ist befristet.",
+      "targetText": "Contractul de muncă este pe durată determinată."
+    },
+    {
+      "sourceText": "Im Arbeitsvertrag stehen die Pflichten beider Parteien.",
+      "targetText": "În contractul de muncă sunt stipulate obligațiile ambelor părți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'contract de muncă' ist leicht zu merken, weil 'contract' wie im Deutschen 'Vertrag' klingt und 'muncă' Arbeit bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'contract' kommt direkt aus dem Lateinischen und ist in vielen Sprachen ähnlich."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'contract de muncă' immer schriftlich ist, genau wie der deutsche 'Arbeitsvertrag'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du unterschreibst einen 'contract' (Vertrag) für deine 'muncă' (Arbeit)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

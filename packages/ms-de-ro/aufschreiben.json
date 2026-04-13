@@ -1,0 +1,205 @@
+{
+  "id": "ms-de-ro-aufschreiben",
+  "parent": "ms-ro-a-nota-5a3fb349@99da1e94f01a79cb9d11daa8f72afbe3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufschreiben",
+    "definition": "etwas schriftlich festhalten",
+    "pronunciation": "/ˈaʊ̯fˌʃʁaɪ̯bən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufschreiben“ setzt sich aus dem Präfix „auf-“, was eine Aufwärtsbewegung oder eine sich erhöhende Handlung beschreibt, und „schreiben“, was vom althochdeutschen „scrīban“ stammt. „Aufschreiben“ bedeutet, etwas niederzuschreiben.",
+        "targetText": "Das deutsche Verb „aufschreiben“ kombiniert das Präfix „auf-“ mit „schreiben“ (vom althochdeutschen „scrīban“), was „niederschreiben“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, um Informationen festzuhalten oder Notizen zu machen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a nota",
+    "definition": "a scrie ceva în mod scris",
+    "pronunciation": "/a noˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a nota“ leitet sich aus dem lateinischen „nota“ ab, was „zeichen, merkmal“ bedeutet. Es bedeutet somit, etwas schriftlich festzuhalten oder zu notieren.",
+        "targetText": "Verbul românesc „a nota“ provine din latină, de la „nota“, care înseamnă „semn“ sau „notă“, și înseamnă a scrie ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig in akademischen oder beruflichen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Aufschreiben (Helfen beim Lernen)",
+      "explanation": {
+        "sourceText": "Häufig verwendet beim Lernen neuer Informationen.",
+        "targetText": "Folosit frecvent pentru învățarea de informații noi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schreibe die Vokabeln auf.",
+          "targetText": "Eu notez vocabularul."
+        }
+      ]
+    },
+    {
+      "gloss": "Aufschreiben (Notizen machen)",
+      "explanation": {
+        "sourceText": "In akademischen und professionellen Kontexten.",
+        "targetText": "În contexte academice și profesionale."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir mussten alles aufschreiben.",
+          "targetText": "Trebuia să notăm totul."
+        }
+      ]
+    },
+    {
+      "gloss": "Notieren",
+      "explanation": {
+        "sourceText": "Auch für das Festhalten wichtiger Informationen.",
+        "targetText": "De asemenea, pentru a reține informații importante."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich notiere die wichtigsten Punkte.",
+          "targetText": "Notez cele mai importante puncte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Notiz",
+      "targetText": "notiță"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Stift",
+      "targetText": "stilou"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schreibe alles auf.",
+      "targetText": "Eu notez totul."
+    },
+    {
+      "sourceText": "Schreibst du das Meeting auf?",
+      "targetText": "Notați întâlnirea?"
+    },
+    {
+      "sourceText": "Er schreibt den Plan auf.",
+      "targetText": "El notează planul."
+    },
+    {
+      "sourceText": "Wir schreiben die Aufgabe auf.",
+      "targetText": "Noi notăm sarcina."
+    },
+    {
+      "sourceText": "Schreibt ihr eure Ideen auf?",
+      "targetText": "Notati-vă ideile?"
+    },
+    {
+      "sourceText": "Sie schreiben schnell das Protokoll auf.",
+      "targetText": "Ei notează rapid procesul-verbal."
+    },
+    {
+      "sourceText": "Ich habe es aufgeschrieben.",
+      "targetText": "L-am notat."
+    },
+    {
+      "sourceText": "Sie haben die Notizen aufgeschrieben.",
+      "targetText": "Au notat notițele."
+    },
+    {
+      "sourceText": "Er schrieb seine Gedanken auf.",
+      "targetText": "El nota ideile sale."
+    },
+    {
+      "sourceText": "Ich hatte alles aufgeschrieben, als sie anriefen.",
+      "targetText": "Notasem totul când au sunat."
+    },
+    {
+      "sourceText": "Ich werde es aufschreiben.",
+      "targetText": "Voi nota."
+    },
+    {
+      "sourceText": "Er wird seine Notizen aufschreiben.",
+      "targetText": "El o să noteze notițele."
+    },
+    {
+      "sourceText": "Ich würde es aufschreiben, wenn ich Zeit hätte.",
+      "targetText": "Aș nota dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du alles aufschreibst.",
+      "targetText": "Este important să notezi totul."
+    },
+    {
+      "sourceText": "Schreib auf!",
+      "targetText": "Notează!"
+    },
+    {
+      "sourceText": "Schreibt auf!",
+      "targetText": "Notați!"
+    },
+    {
+      "sourceText": "Das aufgeschriebene Wort ist wichtig.",
+      "targetText": "Cuvântul notat este important."
+    },
+    {
+      "sourceText": "Aufschreibend, verpasste ich den Punkt.",
+      "targetText": "Notând, am ratat punctul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aufschreiben“ ist wie ein Denk-Tagebuch – wenn du deine Gedanken aufschreibst, verarbeitest du sie besser."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „nota“ erinnert an „Notiz“ – denk daran, dass du etwas Wichtiges schriftlich festhältst."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „auf-“ mit „schreiben“: „auf“ zeigt die Richtung nach oben, also das Festhalten von Gedanken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

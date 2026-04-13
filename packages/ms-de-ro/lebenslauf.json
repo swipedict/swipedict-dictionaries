@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-lebenslauf",
+  "parent": "ms-ro-curriculum-vitae-e5bd2750@e1b6be13ff5fe2d43009f630269033c2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Lebenslauf",
+    "genus": "masculine",
+    "definition": "Eine schriftliche Darstellung des bisherigen Lebenswegs, insbesondere der Ausbildung und beruflichen Stationen einer Person.",
+    "pronunciation": "/ˈleːbnsˌlaʊf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Lebenslauf“ setzt sich aus ‚Leben‘ und ‚Lauf‘ zusammen, wobei ‚Lauf‘ hier den Verlauf oder die Abfolge meint. ‚Leben‘ stammt vom althochdeutschen 'lebēn', verwandt mit dem gotischen 'liban'.",
+        "targetText": "Cuvântul german „Lebenslauf“ este compus din „Leben“ (viață) și „Lauf“ (parcurs), unde „Lauf“ desemnează desfășurarea sau succesiunea. „Leben“ provine din germana veche înaltă 'lebēn', înrudit cu goticul 'liban'."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curriculum vitae",
+    "genus": "neuter",
+    "definition": "O prezentare scrisă a parcursului vieții, în special a studiilor și experienței profesionale a unei persoane.",
+    "pronunciation": "/kuˈrikulum ˈvitae/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „curriculum vitae“ stammt direkt aus dem Lateinischen, wo ‚curriculum‘ ‚Lauf, Kurs‘ und ‚vitae‘ ‚des Lebens‘ bedeutet. Es ist ein feststehender Begriff für einen Lebenslauf.",
+        "targetText": "Termenul românesc „curriculum vitae“ provine direct din latină, unde „curriculum“ înseamnă „parcurs, curs“ iar „vitae“ „al vieții“. Este o expresie consacrată pentru CV."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Wird oft abgekürzt als CV verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitszeugnis",
+      "targetText": "adeverință de muncă"
+    },
+    {
+      "sourceText": "Ausbildung",
+      "targetText": "formare profesională"
+    },
+    {
+      "sourceText": "Berufserfahrung",
+      "targetText": "experiență profesională"
+    },
+    {
+      "sourceText": "Bewerbung",
+      "targetText": "cerere de angajare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe meinen Lebenslauf für die Bewerbung aktualisiert.",
+      "targetText": "Mi-am actualizat curriculum vitae pentru cererea de angajare."
+    },
+    {
+      "sourceText": "Der Lebenslauf enthält Angaben zu Ausbildung und Berufserfahrung.",
+      "targetText": "Curriculum vitae conține informații despre formare și experiență profesională."
+    },
+    {
+      "sourceText": "Bitte senden Sie Ihren Lebenslauf per E-Mail.",
+      "targetText": "Vă rugăm să trimiteți curriculum vitae prin e-mail."
+    },
+    {
+      "sourceText": "Ein guter Lebenslauf ist wichtig für die Jobsuche.",
+      "targetText": "Un curriculum vitae bine făcut este important pentru căutarea unui loc de muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚curriculum‘ klingt wie ‚Kurs‘, also denk an den Lebenslauf als deinen Lebens-Kurs."
+    },
+    {
+      "lang": "de",
+      "text": "Die Abkürzung CV ist international gebräuchlich – denk an ‚Curriculum Vitae‘ als den ‚Lebenslauf‘ in vielen Sprachen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir ‚vitae‘ als ‚des Lebens‘, ähnlich wie ‚Vital‘, was mit Leben zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du läufst (‚Lauf‘) durch dein Leben (‚Leben‘) und erzählst davon im ‚curriculum vitae‘."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

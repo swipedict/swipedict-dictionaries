@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-gefahr",
+  "parent": "ms-ro-pericol-00f1b5f8@649c626f29f57ad31341d1264580b310",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gefahr",
+    "genus": "feminine",
+    "definition": "Ein Zustand oder eine Situation, die Schaden oder Risiko bedeutet.",
+    "pronunciation": "/ɡəˈfaːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gefahr“ stammt vom mittelhochdeutschen 'gevāre' ab, das auf das althochdeutsche 'gifār' zurückgeht und mit dem altnordischen 'vá' (Gefahr) verwandt ist.",
+        "targetText": "Cuvântul german „Gefahr” provine din germana mijlocie 'gevāre', derivat din germana veche înaltă 'gifār' și este înrudit cu termenul nordic vechi 'vá' (pericol)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pericol",
+    "genus": "neuter",
+    "definition": "O stare sau situație care implică risc sau posibilitate de vătămare.",
+    "pronunciation": "/pe.riˈkol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pericol“ stammt vom lateinischen 'periculum' ab, das 'Gefahr' bedeutet.",
+        "targetText": "Cuvântul românesc „pericol” provine din latină, de la 'periculum', care înseamnă 'pericol' sau 'risc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "Warnung",
+      "targetText": "avertisment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es besteht Gefahr durch den Sturm.",
+      "targetText": "Există pericol din cauza furtunii."
+    },
+    {
+      "sourceText": "Gefahr erkannt, Gefahr gebannt.",
+      "targetText": "Pericolul recunoscut este pericolul evitat."
+    },
+    {
+      "sourceText": "Die Gefahr ist groß.",
+      "targetText": "Pericolul este mare."
+    },
+    {
+      "sourceText": "Man muss die Gefahr vermeiden.",
+      "targetText": "Trebuie să eviți pericolul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'peri-' am Anfang erinnert an 'perimeter' – etwas, das man beachten muss, um Gefahren zu vermeiden."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'pericol' klingt ähnlich wie das englische 'peril', was dir hilft, die Bedeutung 'Gefahr' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort stammt vom lateinischen 'periculum' ab, das auch in anderen romanischen Sprachen ähnlich klingt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'pericol' eine abstrakte Gefahr oder ein Risiko beschreibt, ähnlich wie 'Gefahr' im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

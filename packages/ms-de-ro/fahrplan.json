@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fahrplan",
+  "parent": "ms-ro-orariu-de-circulatie-8f9ff03b@8a66162e183bb85edbb7f1cad352bbb7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fahrplan",
+    "genus": "masculine",
+    "definition": "Ein Zeitplan, der die Abfahrts- und Ankunftszeiten von Verkehrsmitteln angibt.",
+    "pronunciation": "/ˈfaːɐ̯ˌplaːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fahrplan“ setzt sich aus 'fahren' und 'Plan' zusammen. 'Fahren' stammt vom althochdeutschen 'faran', was 'reisen' oder 'gehen' bedeutet, während 'Plan' vom französischen 'plan' (Ebene, Karte) entlehnt wurde.",
+        "targetText": "Cuvântul german „Fahrplan” este compus din 'fahren' și 'Plan'. 'Fahren' provine din germana veche înaltă 'faran', însemnând 'a călători' sau 'a merge', iar 'Plan' este împrumutat din franceza 'plan' (teren plat, hartă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "orariu de circulație",
+    "genus": "neuter",
+    "definition": "Un program care indică orele de plecare și sosire ale mijloacelor de transport.",
+    "pronunciation": "/oˈra.ri.u de t͡ʃir.ku.laˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „orariu” stammt vom lateinischen 'horarium' ab, was 'Zeitplan' bedeutet, während 'circulație' vom lateinischen 'circulatio' kommt und 'Bewegung' oder 'Verkehr' bezeichnet.",
+        "targetText": "Expresia românească „orariu” provine din latină, 'horarium', însemnând 'program de timp', iar 'circulație' vine tot din latină, 'circulatio', semnificând 'mișcare' sau 'trafic'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abfahrt",
+      "targetText": "plecare"
+    },
+    {
+      "sourceText": "Ankunft",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fahrplan zeigt die Abfahrtszeiten der Züge an.",
+      "targetText": "Orariul de circulație arată orele de plecare ale trenurilor."
+    },
+    {
+      "sourceText": "Bitte überprüfen Sie den Fahrplan vor der Reise.",
+      "targetText": "Vă rugăm să verificați orariul de circulație înainte de călătorie."
+    },
+    {
+      "sourceText": "Der Fahrplan wurde wegen Bauarbeiten geändert.",
+      "targetText": "Orariul de circulație a fost modificat din cauza lucrărilor de construcție."
+    },
+    {
+      "sourceText": "Der Fahrplan ist online verfügbar.",
+      "targetText": "Orariul de circulație este disponibil online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'orariu' klingt ähnlich wie das englische 'hour' (Stunde), was dir hilft, es mit Zeitplänen zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'circulație' erinnert an 'Zirkulation' im Deutschen, was Bewegung bedeutet – hier die Bewegung von Fahrzeugen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'Fahr' wie 'fahren' (fahren) und 'Plan' wie ein Plan oder Programm – zusammen ergibt das 'Fahrplan', also ein Fahr-Programm."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du planst eine Reise und brauchst einen 'Orar' (Zeitplan), um pünktlich zu sein – so merkst du dir 'orariu de circulație'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

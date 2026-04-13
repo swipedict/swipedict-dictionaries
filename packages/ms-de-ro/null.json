@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-null",
+  "parent": "ms-ro-zero-abdef192@e72daf4ef4f40a4a3a7e65c40e9c4d55",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Null",
+    "genus": "feminine",
+    "definition": "Die Zahl 0; kein Wert oder keine Menge.",
+    "pronunciation": "/nʊl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Null“ stammt vom mittelhochdeutschen 'nul' ab, das wiederum vom lateinischen 'nulla' (keine) beeinflusst wurde.",
+        "targetText": "Cuvântul german „Null” provine din germana mijlocie 'nul', influențat de latinul 'nulla' care înseamnă 'niciun'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zero",
+    "genus": "neuter",
+    "definition": "Cifra 0; abwesența eines Wertes oder einer Menge.",
+    "pronunciation": "/ˈzero/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „zero“ stammt aus dem italienischen 'zero', das wiederum vom arabischen 'ṣifr' über das Lateinische 'zephirum' entlehnt wurde.",
+        "targetText": "Cuvântul românesc „zero” provine din italianul 'zero', care la rândul său derivă din arabicul 'ṣifr' prin latină 'zephirum'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eins",
+      "targetText": "unu"
+    },
+    {
+      "sourceText": "Nullpunkt",
+      "targetText": "punct zero"
+    },
+    {
+      "sourceText": "Nullstelle",
+      "targetText": "rădăcină (matematică)"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "eins",
+      "targetText": "unu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Zahl Null ist weder positiv noch negativ.",
+      "targetText": "Numărul zero nu este nici pozitiv, nici negativ."
+    },
+    {
+      "sourceText": "Null Grad Celsius ist der Gefrierpunkt von Wasser.",
+      "targetText": "Zero grade Celsius este punctul de îngheț al apei."
+    },
+    {
+      "sourceText": "Im Computer beginnt die Zählung oft bei Null.",
+      "targetText": "În calculator, numerotarea începe adesea de la zero."
+    },
+    {
+      "sourceText": "Null ist ein wichtiger Begriff in der Mathematik.",
+      "targetText": "Zero este un concept important în matematică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'zero' klingt ähnlich wie das englische 'zero', was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird 'zero' für viele technische und alltägliche Kontexte verwendet, ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'zero' aus dem Italienischen kommt, das wiederum vom arabischen Wort für 'leer' stammt – das hilft, die Bedeutung von Null als 'nichts' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine Null als einen leeren Kreis vor – das hilft, die Bedeutung von 'zero' bildlich zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

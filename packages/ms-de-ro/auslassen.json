@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-auslassen",
+  "parent": "ms-ro-a-lasa-deoparte-f68a1840@d5b60871f2dad08f67e62734de683c9a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auslassen",
+    "definition": "etwas absichtlich nicht tun oder nicht berücksichtigen",
+    "pronunciation": "/ˈaʊsˌlasn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „auslassen“ setzt sich aus „aus“ und „lassen“ zusammen, wobei „lassen“ vom althochdeutschen „lazan“ stammt und „zulassen“ oder „nicht tun“ bedeutet. Es beschreibt das bewusste Weglassen oder Nichtberücksichtigen.",
+        "targetText": "Verbul german „auslassen“ provine din „aus“ + „lassen“ (a lăsa), indicând a nu face ceva intenționat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird in verschiedenen Kontexten verwendet, z.B. um zu beschreiben, dass man etwas weglässt oder nicht daran teilnimmt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa deoparte",
+    "definition": "a nu face ceva intenționat sau a nu lua în considerare",
+    "pronunciation": "/a ləˈsa de.oˈparte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a lăsa deoparte“ bedeutet, etwas bewusst beiseitezulassen. Das Verb „a lăsa“ stammt vom lateinischen „laxare“, was „lassen“ oder „locker machen“ bedeutet.",
+        "targetText": "Expresia română „a lăsa deoparte“ înseamnă a exclude ceva intenționat, derivată din lat. „laxare“ (a lăsa)."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um z.B. etwas zu ignorieren oder nicht zu beachten."
+  },
+  "senses": [
+    {
+      "gloss": "ein Kapitel auslassen",
+      "explanation": {
+        "sourceText": "Das bezieht sich auf das Auslassen eines Abschnitts in einem Buch oder einer Geschichte.",
+        "targetText": "Se referă la omiterea unui capitol dintr-o carte sau poveste."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir lassen das letzte Kapitel aus.",
+          "targetText": "Noi lăsăm ultimul capitol deoparte."
+        }
+      ]
+    },
+    {
+      "gloss": "einen Teil auslassen",
+      "explanation": {
+        "sourceText": "Das bedeutet, dass man absichtlich etwas weglässt.",
+        "targetText": "Înseamnă a omite intenționat o parte."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Lehrer hat viele Themen ausgelassen.",
+          "targetText": "Profesorul meu a lăsat deoparte multe teme."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "annehmen",
+      "targetText": "a accepta"
+    },
+    {
+      "sourceText": "auslassen",
+      "targetText": "a lăsa deoparte"
+    },
+    {
+      "sourceText": "enthalten",
+      "targetText": "a conține"
+    },
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einschließen",
+      "targetText": "a include"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lasse das Kapitel aus.",
+      "targetText": "Eu las capitolul deoparte."
+    },
+    {
+      "sourceText": "Lässt du einen Teil des Rezepts aus?",
+      "targetText": "Lași o parte a rețetei deoparte?"
+    },
+    {
+      "sourceText": "Er lässt die letzten Schritte aus.",
+      "targetText": "El lasă ultimele etape deoparte."
+    },
+    {
+      "sourceText": "Wir lassen die unwichtigen Punkte aus.",
+      "targetText": "Noi lăsăm punctele neimportante deoparte."
+    },
+    {
+      "sourceText": "Lasst ihr die Details aus?",
+      "targetText": "Lăsați voi detaliile deoparte?"
+    },
+    {
+      "sourceText": "Sie lassen die unwichtigen Informationen aus.",
+      "targetText": "Ei lasă informațiile neimportante deoparte."
+    },
+    {
+      "sourceText": "Ich habe die Daten gestern ausgelassen.",
+      "targetText": "Am lăsat datele deoparte ieri."
+    },
+    {
+      "sourceText": "Ich werde die unwichtigen Fakten auslassen.",
+      "targetText": "Voi lăsa faptele neimportante deoparte."
+    },
+    {
+      "sourceText": "Lass das nicht aus!",
+      "targetText": "Nu lăsa asta deoparte!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Auslassen“ bedeutet etwas bewusst wegzulassen – denke an „a lăsa deoparte“ als ‚etwas beiseitelegen‘, um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „deoparte“ bedeutet ‚beiseite‘ – verbinde es mit dem deutschen ‚auslassen‘, um dir die Phrase besser zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du legst ein Kapitel in einem Buch bewusst zur Seite – so merkst du dir „a lăsa deoparte“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-bett",
+  "parent": "ms-ro-pat-803e5e81@bd6baa68c06a8d120502dda1d96b7785",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bett",
+    "genus": "neuter",
+    "definition": "Ein Möbelstück zum Liegen und Schlafen, meist mit Rahmen und Matratze.",
+    "pronunciation": "/bɛt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bett“ stammt vom althochdeutschen 'betti' ab, das auf das germanische *badi- zurückgeht und ursprünglich eine Liegestätte oder Schlafstätte bezeichnete.",
+        "targetText": "Cuvântul german „Bett” provine din vechiul german înalt 'betti', derivat din rădăcina germanică *badi-, care desemna inițial un loc pentru a sta sau a dormi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pat",
+    "genus": "neuter",
+    "definition": "Un obiect de mobilier folosit pentru a dormi sau a te odihni, de obicei format dintr-un cadru și o saltea.",
+    "pronunciation": "/pat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pat“ stammt vom lateinischen 'patulus' ab, was 'ausgebreitet' oder 'offen' bedeutet, und wurde im Sinne von 'ausgebreiteter Schlafplatz' übernommen.",
+        "targetText": "Cuvântul românesc „pat” provine din latinescul 'patulus', care înseamnă 'deschis' sau 'întins', preluat cu sensul de 'loc de dormit întins'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Decke",
+      "targetText": "pătură"
+    },
+    {
+      "sourceText": "Kissen",
+      "targetText": "pernă"
+    },
+    {
+      "sourceText": "Matratze",
+      "targetText": "saltea"
+    },
+    {
+      "sourceText": "Schlafzimmer",
+      "targetText": "dormitor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stuhl",
+      "targetText": "scaun"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Bett ist bequem und groß genug für zwei Personen.",
+      "targetText": "Patul este confortabil și suficient de mare pentru două persoane."
+    },
+    {
+      "sourceText": "Ich gehe jetzt ins Bett, weil ich müde bin.",
+      "targetText": "Mă duc acum la pat pentru că sunt obosit."
+    },
+    {
+      "sourceText": "Das Baby schläft in einem kleinen Bett.",
+      "targetText": "Bebelușul doarme într-un pat mic."
+    },
+    {
+      "sourceText": "Sie hat das Bett frisch bezogen.",
+      "targetText": "Ea a schimbat așternuturile de pe pat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „pat“ klingt kurz und bündig wie das deutsche „Bett“, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „pat“ endet wie das englische Wort „pat“ (klopfen), stell dir vor, du klopfst auf dein Bett, um es bequem zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: Im Deutschen ist das Bett ein Möbelstück, im Rumänischen ist „pat“ kurz und prägnant – beide sind Orte zum Ausruhen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du breitest eine Matte auf dem Boden aus – das lateinische 'patulus' bedeutet 'ausgebreitet', genau wie ein Bett."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

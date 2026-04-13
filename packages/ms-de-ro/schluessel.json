@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-schluessel",
+  "parent": "ms-ro-cheie-21d9699e@abe49293f87b1a27671b3eeef158deb2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schlüssel",
+    "genus": "masculine",
+    "definition": "ein Werkzeug, um ein Schloss zu öffnen oder zu schließen",
+    "pronunciation": "/ˈʃlʏsl̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schlüssel“ stammt aus dem althochdeutschen „slūzi“ und ist verwandt mit dem indogermanischen „*klu-“, was „schließen“ bedeutet.",
+        "targetText": "Cuvântul german „Schlüssel“ provine din althochdeutsch „slūzi“ și este legat de rădăcina indo-europeană „*klu-“, care înseamnă „a închide“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schlüssel werden häufig in der Sicherheit verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cheie",
+    "genus": "feminine",
+    "definition": "un instrument folosit pentru a deschide sau a închide o încuietoare",
+    "pronunciation": "/ˈke.i.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „cheie“ leitet sich vom lateinischen „clavis“ ab, was ebenfalls „Schlüssel“ bedeutet und durch das indogermanische „*klēu-“, was „schließen“ bedeutet, verwandt ist.",
+        "targetText": "Cuvântul românesc „cheie“ provine din latinul „clavis“, care înseamnă „cheie“, și este legat de rădăcina indo-europeană „*klēu-“, care înseamnă „a închide“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schlüssel können auch symbolisch für Lösungen stehen."
+  },
+  "senses": [
+    {
+      "gloss": "Schlüssel (Instrument zur Öffnung)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für Werkzeuge zum Öffnen oder Schließen von Schlössern.",
+        "targetText": "Ca și în germană: instrumente folosite pentru a deschide sau închide încuietori."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe den Schlüssel zur Tür verloren.",
+          "targetText": "Am pierdut cheia pentru ușă."
+        },
+        {
+          "sourceText": "Der Schlüssel steckt im Schloss.",
+          "targetText": "Cheia este în încuietoare."
+        }
+      ]
+    },
+    {
+      "gloss": "Schlüssel (Symbol für Lösungen)",
+      "explanation": {
+        "sourceText": "Schlüssel können auch symbolisch für Lösungen stehen.",
+        "targetText": "Cheile pot simboliza și soluții."
+      },
+      "examples": [
+        {
+          "sourceText": "Schlüssel machen den Unterschied zwischen Zugang und Sicherheit.",
+          "targetText": "Cheile fac diferența între acces și securitate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Schloss",
+      "targetText": "încuietoare"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Sperre",
+      "targetText": "blocare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe den Schlüssel zur Tür verloren.",
+      "targetText": "Am pierdut cheia pentru ușă."
+    },
+    {
+      "sourceText": "Der Schlüssel steckt im Schloss.",
+      "targetText": "Cheia este în încuietoare."
+    },
+    {
+      "sourceText": "Hast du den Schlüssel zu deinem Auto?",
+      "targetText": "Ai cheia mașinii tale?"
+    },
+    {
+      "sourceText": "Schlüssel machen den Unterschied zwischen Zugang und Sicherheit.",
+      "targetText": "Cheile fac diferența între acces și securitate."
+    },
+    {
+      "sourceText": "Ich brauche einen neuen Schlüssel für mein Schloss.",
+      "targetText": "Am nevoie de o cheie nouă pentru încuietoarea mea."
+    },
+    {
+      "sourceText": "Die Schlüssel sind auf dem Tisch.",
+      "targetText": "Cheile sunt pe masă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an den Schlüssel als Symbol für das Öffnen und Schließen, das hilft beim Verständnis."
+    },
+    {
+      "lang": "de",
+      "text": "Die Verbindung zwischen „cheie“ und „key“ hilft dir, das Wort leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wenn du „cheie“ sagst, dass du eine „Key“ brauchst, um eine Tür zu öffnen."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „cheie“ mit „Chef“, denn ein Chef hat auch die Schlüssel zur Führung!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

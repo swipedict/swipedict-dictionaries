@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-verkaeufer",
+  "parent": "ms-ro-vanzator-079d6e1e@e86b89cb8aa9834c4198ed3d8dc16592",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Verkäufer",
+    "genus": "masculine",
+    "definition": "Person, die Waren oder Dienstleistungen verkauft.",
+    "pronunciation": "/fɛɐ̯ˈkɔɪ̯fɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Verkäufer“ setzt sich aus dem Verb „verkaufen“ und dem Agentivsuffix „-er“ zusammen. „Verkaufen“ stammt vom althochdeutschen 'far-koufôn', was 'übergeben gegen Geld' bedeutet.",
+        "targetText": "Cuvântul german „Verkäufer” este format din verbul „verkaufen” și sufixul agentiv „-er”. „Verkaufen” provine din germana veche înaltă 'far-koufôn', care înseamnă 'a preda contra banilor'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânzător",
+    "genus": "masculine",
+    "definition": "Persoană care vinde bunuri sau servicii.",
+    "pronunciation": "/vɨn.zəˈt͡sɨr/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vânzător“ stammt vom lateinischen Verb 'vendere' ab, das 'verkaufen' bedeutet. Die Form entstand durch die Ableitung mit dem rumänischen Agentivsuffix '-ător'.",
+        "targetText": "Cuvântul românesc „vânzător” provine din verbul latin 'vendere', care înseamnă 'a vinde'. Forma a fost creată prin derivarea cu sufixul agentiv românesc '-ător'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Geschäft",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "Handel",
+      "targetText": "comerț"
+    },
+    {
+      "sourceText": "Käufer",
+      "targetText": "cumpărător"
+    },
+    {
+      "sourceText": "verkaufen",
+      "targetText": "a vinde"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Käufer",
+      "targetText": "cumpărător"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Verkäufer hilft den Kunden im Geschäft.",
+      "targetText": "Vânzătorul ajută clienții în magazin."
+    },
+    {
+      "sourceText": "Der Verkäufer bietet verschiedene Produkte an.",
+      "targetText": "Vânzătorul oferă diferite produse."
+    },
+    {
+      "sourceText": "Ein guter Verkäufer kennt seine Waren genau.",
+      "targetText": "Un vânzător bun cunoaște bine produsele sale."
+    },
+    {
+      "sourceText": "Die Verkäuferin arbeitet an der Kasse.",
+      "targetText": "Vânzătoarea lucrează la casă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „vânzător“ enthält die Silbe „vânz“, die an das deutsche Wort „verkaufen“ erinnert – beide beziehen sich auf den Verkauf."
+    },
+    {
+      "lang": "de",
+      "text": "Das Suffix „-ător“ im Rumänischen entspricht oft dem deutschen „-er“, was die handelnde Person bezeichnet – also „vânzător“ = Verkäufer."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein „vânzător“ verkauft „VANZ“ (wie ein Van) voller Waren – so merkst du dir den Verkäufer als jemanden, der verkauft."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „vânzător“ mit dem lateinischen Ursprung „vendere“ (verkaufen). Wenn du andere romanische Sprachen kennst, erkennst du Ähnlichkeiten, z.B. italienisch „venditore“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-spinne",
+  "parent": "ms-ro-paianjen-5f0a4970@69ab8cd06995c8e81100ff850ec0968e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Spinne",
+    "genus": "feminine",
+    "definition": "Ein achtbeiniges Spinnentier, das Netze spinnt, um Beute zu fangen.",
+    "pronunciation": "/ˈʃpɪ.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Spinne“ stammt vom althochdeutschen 'spinno' ab, verwandt mit dem Verb 'spinnen', das 'etwas drehen oder weben' bedeutet.",
+        "targetText": "Cuvântul german „Spinne” provine din germana veche înaltă 'spinno', legat de verbul 'spinnen' care înseamnă 'a torsiona sau a țese'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "păianjen",
+    "genus": "masculine",
+    "definition": "Un animal cu opt picioare care țese pânze pentru a prinde prada.",
+    "pronunciation": "/pəjaˈndʒen/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „păianjen“ stammt vom lateinischen 'pāpiāns' ab, das eine Spinne bezeichnet, mit slawischem Einfluss in der Form.",
+        "targetText": "Cuvântul românesc „păianjen” provine din latinescul 'pāpiāns', cu influențe slave în formă, desemnând o păianjen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Insekt",
+      "targetText": "insectă"
+    },
+    {
+      "sourceText": "Käfer",
+      "targetText": "gândac"
+    },
+    {
+      "sourceText": "Netz",
+      "targetText": "pânză"
+    },
+    {
+      "sourceText": "Spinnenfaden",
+      "targetText": "fir de păianjen"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Spinne spinnt ein Netz.",
+      "targetText": "Păianjenul țese o pânză."
+    },
+    {
+      "sourceText": "Ich habe eine große Spinne im Zimmer gesehen.",
+      "targetText": "Am văzut un păianjen mare în cameră."
+    },
+    {
+      "sourceText": "Spinnen haben acht Beine.",
+      "targetText": "Păianjenii au opt picioare."
+    },
+    {
+      "sourceText": "Die Spinne fängt Fliegen mit ihrem Netz.",
+      "targetText": "Păianjenul prinde muște cu pânza lui."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Spinne' kommt von 'spinnen' (drehen, weben), genau wie der Păianjen sein Netz spinnt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „păianjen“ klingt ein bisschen wie 'Pajama' – stell dir einen Păianjen in einem Pyjama vor, der sein Netz spinnt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'păianjen' vom lateinischen 'pāpiāns' kommt, was dir hilft, die Herkunft und die Bedeutung zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Păianjen hat acht Beine, genau wie die Spinne – das hilft dir, die Bedeutung zu verknüpfen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

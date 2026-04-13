@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-strassenbahn",
+  "parent": "ms-ro-tramvai-b64b6157@b97ad93ad3081a6cce4da5e631ae1fe5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Straßenbahn",
+    "genus": "feminine",
+    "definition": "Ein öffentliches Verkehrsmittel, das auf Schienen in der Straße fährt und meist in Städten eingesetzt wird.",
+    "pronunciation": "/ˈʃtʁaːsn̩ˌbaːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Straßenbahn“ setzt sich aus 'Straße' und 'Bahn' zusammen. 'Straße' stammt vom althochdeutschen 'strāza' ab, entlehnt aus dem lateinischen 'strata (via)', was 'gepflasterter Weg' bedeutet. 'Bahn' kommt vom althochdeutschen 'bana', was 'Weg' oder 'Spur' heißt.",
+        "targetText": "Cuvântul german „Straßenbahn“ este compus din „Straße” și „Bahn”. „Straße” provine din germana veche înaltă „strāza”, împrumutat din latină „strata (via)”, care înseamnă „drum pavat”. „Bahn” provine din germana veche înaltă „bana”, însemnând „cale” sau „urmă”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tramvai",
+    "genus": "neuter",
+    "definition": "Un mijloc de transport public care circulă pe șine pe stradă, folosit în special în orașe.",
+    "pronunciation": "/tramˈvaj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „tramvai“ stammt vom französischen 'tramway' ab, das wiederum aus dem englischen 'tramway' entlehnt wurde. Das englische Wort setzt sich aus dem schottischen 'tram' (Schiene) und 'way' (Weg) zusammen.",
+        "targetText": "Cuvântul românesc „tramvai” provine din franceza „tramway”, care la rândul său este împrumutat din engleza „tramway”. Cuvântul englez este compus din „tram” (șină, din scoțiană) și „way” (cale)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Fahrplan",
+      "targetText": "orariu"
+    },
+    {
+      "sourceText": "Schiene",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "U-Bahn",
+      "targetText": "metrou"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Straßenbahn fährt alle zehn Minuten.",
+      "targetText": "Tramvaiul circulă la fiecare zece minute."
+    },
+    {
+      "sourceText": "Ich nehme die Straßenbahn zur Arbeit.",
+      "targetText": "Eu iau tramvaiul până la serviciu."
+    },
+    {
+      "sourceText": "Die Straßenbahn hält an der nächsten Haltestelle.",
+      "targetText": "Tramvaiul oprește la următoarea stație."
+    },
+    {
+      "sourceText": "In vielen Städten ist die Straßenbahn ein wichtiges Verkehrsmittel.",
+      "targetText": "În multe orașe, tramvaiul este un mijloc important de transport."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'tramvai' klingt ähnlich wie das französische 'tramway', das du vielleicht aus dem Englischen kennst. So kannst du dir die Verbindung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Straßenbahn' enthält 'Bahn', was an 'Bahn' im Deutschen erinnert, und 'tramvai' hat das 'tram' für Schiene – beide Wörter beziehen sich auf Schienenfahrzeuge."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'tramvai' ein Lehnwort ist, das aus dem Französischen und Englischen stammt, was typisch für technische und moderne Verkehrsmittel im Rumänischen ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der 'Tram' (Schiene) auf dem 'Way' (Weg) fährt – genau wie die Straßenbahn auf den Schienen in der Straße."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

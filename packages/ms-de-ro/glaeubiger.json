@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-glaeubiger",
+  "parent": "ms-ro-creditor-3d82e92a@1742fe5cb1fe4dabe3cf02c5943c337d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gläubiger",
+    "genus": "masculine",
+    "definition": "Eine Person oder Institution, die eine Forderung gegenüber einem Schuldner hat.",
+    "pronunciation": "/ˈɡlɔʏ̯bɪɡɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gläubiger“ leitet sich vom Verb 'glauben' ab, das aus dem althochdeutschen 'gilouben' stammt und 'vertrauen' bedeutet.",
+        "targetText": "Cuvântul german „Gläubiger” derivă din verbul 'glauben', care provine din germana veche înaltă 'gilouben' și înseamnă 'a avea încredere'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "creditor",
+    "genus": "masculine",
+    "definition": "Persoană sau instituție care are o creanță asupra unui debitor.",
+    "pronunciation": "/kreˈdi.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „creditor“ stammt vom lateinischen 'creditor' ab, was 'Gläubiger' bedeutet, abgeleitet von 'credere' (glauben, vertrauen).",
+        "targetText": "Cuvântul românesc „creditor” provine din latină, din 'creditor', care înseamnă 'cel care crede' sau 'gläubiger', derivat din 'credere' – 'a crede'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Forderung",
+      "targetText": "creanță"
+    },
+    {
+      "sourceText": "Kredit",
+      "targetText": "credit"
+    },
+    {
+      "sourceText": "Schuldner",
+      "targetText": "debitor"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schuldner",
+      "targetText": "debitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Gläubiger verlangt die Rückzahlung des Darlehens.",
+      "targetText": "Creditorul solicită rambursarea împrumutului."
+    },
+    {
+      "sourceText": "Ein Gläubiger kann rechtliche Schritte gegen den Schuldner einleiten.",
+      "targetText": "Un creditor poate iniția acțiuni legale împotriva debitorului."
+    },
+    {
+      "sourceText": "Die Gläubiger haben Anspruch auf ihr Geld.",
+      "targetText": "Creditorii au dreptul la banii lor."
+    },
+    {
+      "sourceText": "Gläubiger und Schuldner müssen sich an den Vertrag halten.",
+      "targetText": "Creditorii și debitorii trebuie să respecte contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'creditor' klingt ähnlich wie das deutsche 'Kredit' – beide hängen mit Geld und Vertrauen zusammen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-or', eine typische Endung für Personen im Rumänischen, ähnlich wie im Lateinischen."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich, dass 'creditor' vom lateinischen 'credere' kommt, was 'glauben' oder 'vertrauen' bedeutet – so wie 'Gläubiger' jemand ist, der vertraut, dass er sein Geld bekommt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'creditor' gibt jemandem Geld und 'glaubt' daran, dass es zurückkommt – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-versichertenkarte",
+  "parent": "ms-ro-card-de-asigurat-6a8dc4d1@fd16c44f4cf5fd0be250e4def54efc0d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Versichertenkarte",
+    "genus": "feminine",
+    "definition": "Eine Karte, die den Nachweis über eine Krankenversicherung erbringt und im Gesundheitssystem verwendet wird.",
+    "pronunciation": "/fɛɐ̯ˈzɪçəʁtənˌkaʁtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Versichertenkarte“ setzt sich aus „Versicherter“ (Person mit Versicherung) und „Karte“ zusammen, wobei „Versicherung“ vom mittelhochdeutschen 'versichern' stammt, das auf das althochdeutsche 'firsiuhhan' zurückgeht und 'sichern' bedeutet.",
+        "targetText": "Cuvântul german „Versichertenkarte” este compus din „Versicherter” (persoană asigurată) și „Karte” (card), unde „Versicherung” provine din germana mijlocie 'versichern', derivat din germana veche înaltă 'firsiuhhan', care înseamnă 'a asigura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "card de asigurat",
+    "genus": "neuter",
+    "definition": "Un card care dovedește că o persoană este asigurată în sistemul de sănătate.",
+    "pronunciation": "/kard de asiɡˈurat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asigurat“ stammt vom lateinischen Verb 'assecurare' ab, das 'versichern' bedeutet und über das Italienische ins Rumänische gelangte.",
+        "targetText": "Cuvântul românesc „asigurat” provine din verbul latin 'assecurare', care înseamnă 'a asigura', pătruns în limba română prin intermediul italianei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Kompositum aus 'card' (englisch entlehnt) und 'asigurat' (Partizip von 'a asigura')."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gesundheitssystem",
+      "targetText": "sistem de sănătate"
+    },
+    {
+      "sourceText": "Krankenversicherung",
+      "targetText": "asigurare de sănătate"
+    },
+    {
+      "sourceText": "Versicherter",
+      "targetText": "asigurat"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Versichertenkarte muss bei jedem Arztbesuch vorgelegt werden.",
+      "targetText": "Cardul de asigurat trebuie prezentat la fiecare vizită la medic."
+    },
+    {
+      "sourceText": "Ohne Versichertenkarte kann die Behandlung teurer werden.",
+      "targetText": "Fără cardul de asigurat, tratamentul poate fi mai scump."
+    },
+    {
+      "sourceText": "Die Versichertenkarte enthält wichtige Informationen über den Versicherten.",
+      "targetText": "Cardul de asigurat conține informații importante despre asigurat."
+    },
+    {
+      "sourceText": "Bitte bewahren Sie Ihre Versichertenkarte gut auf.",
+      "targetText": "Vă rugăm să păstrați bine cardul de asigurat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'asigurat' klingt ähnlich wie 'assicurato' im Italienischen, was 'versichert' bedeutet – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'card' im Rumänischen ist ein Lehnwort aus dem Englischen; zusammen mit 'asigurat' ergibt es 'card de asigurat'."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an die Versichertenkarte als deinen 'Schutzschild' im Gesundheitssystem – 'asigurat' bedeutet ja 'versichert'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'Versicherung' (Versicherung) und dafür bekommst du eine 'Karte' – so entsteht 'Versichertenkarte'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

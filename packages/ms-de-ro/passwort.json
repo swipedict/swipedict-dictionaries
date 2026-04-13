@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-passwort",
+  "parent": "ms-ro-parola-cc4e6384@1cd2954bc1d03710d2f992dfb244ef51",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Passwort",
+    "genus": "neuter",
+    "definition": "Ein geheimer Code oder eine geheime Zeichenfolge, die verwendet wird, um Zugang zu einem System oder Dienst zu erhalten.",
+    "pronunciation": "/ˈpasˌvɔʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Passwort“ setzt sich aus den Wörtern 'Pass' und 'Wort' zusammen, wobei 'Pass' vom französischen 'passer' (durchgehen) stammt und 'Wort' auf das althochdeutsche 'wort' zurückgeht.",
+        "targetText": "Cuvântul german „Passwort” este compus din „Pass” și „Wort”, unde „Pass” provine din franceza 'passer' (a trece), iar „Wort” din germana veche 'wort' (cuvânt)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "parolă",
+    "genus": "feminine",
+    "definition": "Un cod secret sau o combinație de caractere folosită pentru a obține acces la un sistem sau serviciu.",
+    "pronunciation": "/paˈrolə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „parolă“ stammt vom italienischen 'parola' ab, das 'Wort' bedeutet und aus dem Lateinischen 'parabola' (Rede, Gleichnis) entlehnt wurde.",
+        "targetText": "Cuvântul românesc „parolă” provine din italianul 'parola', care înseamnă 'cuvânt' și este împrumutat din latină, din 'parabola' (discurs, pildă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Benutzername",
+      "targetText": "nume de utilizator"
+    },
+    {
+      "sourceText": "Schlüssel",
+      "targetText": "cheie"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "securitate"
+    },
+    {
+      "sourceText": "Zugang",
+      "targetText": "acces"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "öffentlich",
+      "targetText": "public"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe mein Passwort vergessen.",
+      "targetText": "Am uitat parola mea."
+    },
+    {
+      "sourceText": "Bitte gib dein Passwort ein, um dich anzumelden.",
+      "targetText": "Te rog să introduci parola pentru a te autentifica."
+    },
+    {
+      "sourceText": "Ein sicheres Passwort enthält Buchstaben, Zahlen und Sonderzeichen.",
+      "targetText": "O parolă sigură conține litere, cifre și caractere speciale."
+    },
+    {
+      "sourceText": "Du solltest dein Passwort regelmäßig ändern.",
+      "targetText": "Ar trebui să îți schimbi parola regulat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'parolă' klingt ähnlich wie das italienische 'parola' für 'Wort'. Denk daran, dass ein Passwort ein 'geheimes Wort' ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'parolă' endet auf '-olă', eine typische rumänische Endung für feminine Substantive, ähnlich wie 'școală' (Schule)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst ein 'geheimes Wort' (parolă) ein, um eine Tür zu öffnen – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Passwort' mit 'parolă' durch das gemeinsame Konzept eines 'Wortes' (Wort = parola), das den Zugang erlaubt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

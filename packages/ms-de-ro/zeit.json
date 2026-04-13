@@ -1,0 +1,163 @@
+{
+  "id": "ms-de-ro-zeit",
+  "parent": "ms-ro-timp-02497cae@d74de0d8c9e8d2d9b4c4c4ca5a76bbaa",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zeit",
+    "genus": "feminine",
+    "definition": "eine kontinuierliche Maßnahme oder ein Zeitraum, in dem Ereignisse stattfinden",
+    "pronunciation": "/tsaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zeit“ stammt vom althochdeutschen „zīta“ ab, was „zeitlich“ oder „Wendung der Zeit“ bedeutet, mit indogermanischen Wurzeln.",
+        "targetText": "Cuvântul german „Zeit“ provine din germana veche „zīta“, însemnând „timp“ sau „ciclu al timpului“, cu rădăcini indo-europene."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Zeit ist ein zentrales Konzept in vielen Kulturen und Philosophien."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "timp",
+    "genus": "masculine",
+    "definition": "o măsură continuă sau o perioadă în care au loc evenimente",
+    "pronunciation": "/timp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „timp“ stammt vom lateinischen „tempus“ ab, das „Zeit“ bedeutet und indogermanische Wurzeln hat.",
+        "targetText": "Cuvântul românesc „timp“ provine din latină, de la „tempus“, care înseamnă „timp“, având rădăcini indo-europene."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort „timp“ wird oft in philosophischen und alltäglichen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Lebenszeit",
+      "explanation": {
+        "sourceText": "Die Gesamtdauer des Lebens.",
+        "targetText": "Durata totală a vieții."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Lebenszeit ist begrenzt.",
+          "targetText": "Viața este limitată."
+        }
+      ]
+    },
+    {
+      "gloss": "Uhrzeit",
+      "explanation": {
+        "sourceText": "Die genaue Angabe der Zeit, wie sie auf einer Uhr angezeigt wird.",
+        "targetText": "Indicația exactă a timpului, așa cum este arătată pe ceas."
+      },
+      "examples": [
+        {
+          "sourceText": "Welche Uhrzeit ist es?",
+          "targetText": "Ce oră este?"
+        }
+      ]
+    },
+    {
+      "gloss": "Zeitpunkt",
+      "explanation": {
+        "sourceText": "Ein spezifischer Moment in der Zeit.",
+        "targetText": "Un moment specific în timp."
+      },
+      "examples": [
+        {
+          "sourceText": "Zu welchem Zeitpunkt kommen wir an?",
+          "targetText": "În ce moment ajungem?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Minute",
+      "targetText": "minut"
+    },
+    {
+      "sourceText": "Sekunde",
+      "targetText": "secundă"
+    },
+    {
+      "sourceText": "Stunde",
+      "targetText": "oră"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ewigkeit",
+      "targetText": "eternitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Zeit vergeht schnell.",
+      "targetText": "Timpul trece repede."
+    },
+    {
+      "sourceText": "Wie viel Zeit bleibt uns noch?",
+      "targetText": "Cât timp ne mai rămâne?"
+    },
+    {
+      "sourceText": "Es ist an der Zeit, etwas zu ändern.",
+      "targetText": "Este timpul să facem o schimbare."
+    },
+    {
+      "sourceText": "Ich vermisse die alte Zeit.",
+      "targetText": "Îmi este dor de vremurile vechi."
+    },
+    {
+      "sourceText": "Zukunft und Vergangenheit lassen sich nicht trennen.",
+      "targetText": "Viitorul și trecutul nu pot fi separate."
+    },
+    {
+      "sourceText": "Wir müssen die Zeit gut nutzen.",
+      "targetText": "Trebuie să folosim bine timpul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „timp“ klingt ähnlich wie „Stampf“ – stelle dir vor, wie du mit den Füßen die Zeit stampfst."
+    },
+    {
+      "lang": "de",
+      "text": "Je mehr du „timp“ im Alltag benutzt, desto natürlicher wird das Wort für dich."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie „timp“ wie Sand durch deine Hände rinnt – so merkst du dir die fließende Zeit."
+    },
+    {
+      "lang": "de",
+      "text": "Verwende „timp“ in Sätzen über Zukunft und Pläne, um es besser zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

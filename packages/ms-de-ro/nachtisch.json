@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-nachtisch",
+  "parent": "ms-ro-desert-5a19ab5d@404ffae4179b0a2cfbb07df55d6dde92",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nachtisch",
+    "genus": "masculine",
+    "definition": "Ein süßes Gericht, das nach dem Hauptgang gegessen wird, oft als Dessert bezeichnet.",
+    "pronunciation": "/ˈnaːxtɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Nachtisch“ setzt sich aus ‚nach‘ und ‚Tisch‘ zusammen und bezeichnet ursprünglich das Essen, das ‚nach dem Tisch‘, also nach der Hauptmahlzeit, serviert wird.",
+        "targetText": "Cuvântul german „Nachtisch“ este compus din „nach“ (după) și „Tisch“ (masă) și desemnează inițial mâncarea servită „după masă“, adică după felul principal."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "desert",
+    "genus": "neuter",
+    "definition": "Un fel de mâncare dulce servit după felul principal al mesei.",
+    "pronunciation": "/deˈsert/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „desert“ stammt vom französischen ‚dessert‘ ab, das wiederum aus dem spätlateinischen ‚desservir‘ kommt, was ‚abräumen‘ bedeutet, da das Dessert nach dem Abräumen des Hauptessens serviert wird.",
+        "targetText": "Cuvântul românesc „desert“ provine din francezul „dessert“, care la rândul său derivă din latină târzie „desservir“ însemnând „a strânge masa“, deoarece desertul se servește după strângerea felului principal."
+      },
+      "source": "Dicționare etimologice, cercetare lingvistică"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Eis",
+      "targetText": "înghețată"
+    },
+    {
+      "sourceText": "Hauptgericht",
+      "targetText": "fel principal"
+    },
+    {
+      "sourceText": "Kuchen",
+      "targetText": "prăjitură"
+    },
+    {
+      "sourceText": "Süßigkeit",
+      "targetText": "dulciuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Vorspeise",
+      "targetText": "aperitiv"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Nach dem Essen gab es einen leckeren Nachtisch.",
+      "targetText": "După masă a fost un desert delicios."
+    },
+    {
+      "sourceText": "Ich esse gern Obst als Nachtisch.",
+      "targetText": "Îmi place să mănânc fructe ca desert."
+    },
+    {
+      "sourceText": "Der Nachtisch besteht aus Schokolade und Sahne.",
+      "targetText": "Desertul este făcut din ciocolată și frișcă."
+    },
+    {
+      "sourceText": "Zum Nachtisch servieren wir Eis oder Kuchen.",
+      "targetText": "La desert servim înghețată sau prăjitură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚Nachtisch‘ besteht aus ‚nach‘ + ‚Tisch‘, also etwas, das nach dem Essen am Tisch kommt. Das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „desert“ klingt wie das englische „desert“, aber hier bedeutet es etwas ganz anderes – nämlich Nachtisch! Merke dir: 'desert' als süßer Abschluss der Mahlzeit."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du räumst den Tisch ab („desservir“ auf Französisch) und danach kommt der Nachtisch – so kommst du leicht auf das rumänische „desert“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde ‚desert‘ mit ‚Dessert‘ im Deutschen und Französischen – alle drei Wörter haben denselben Ursprung und bedeuten das süße Essen nach dem Hauptgang."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

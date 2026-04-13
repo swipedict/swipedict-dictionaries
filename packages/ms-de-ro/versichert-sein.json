@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-versichert-sein",
+  "parent": "ms-ro-a-fi-asigurat-3670f3cc@596d24cc07febe96abe1a544d0cf6c74",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "versichert sein",
+    "definition": "Den Status haben, durch eine Versicherung geschützt zu sein, z. B. gegen Risiken wie Krankheit, Unfall oder Diebstahl.",
+    "pronunciation": "/fɛɐ̯ˈzɪçɐt zaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „versichern“ stammt vom mittelhochdeutschen 'versichern' ab, das auf das althochdeutsche 'firsiuhhan' zurückgeht, zusammengesetzt aus 'für-' und 'sichern', was 'sicher machen' bedeutet.",
+        "targetText": "Verbul german „versichern“ provine din germana mijlocie 'versichern', derivat din germana veche înaltă 'firsiuhhan', compus din 'für-' și 'sichern', însemnând 'a face sigur'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fi asigurat",
+    "definition": "A avea statutul de a fi protejat printr-o asigurare, de exemplu împotriva riscurilor precum boala, accidentul sau furtul.",
+    "pronunciation": "/a fi asiɡurat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „a fi asigurat“ leitet sich vom lateinischen Wort 'securus' ab, das über das italienische 'assicurare' in das Rumänische gelangte und 'versichern, absichern' bedeutet.",
+        "targetText": "Expresia românească „a fi asigurat” derivă din cuvântul latin 'securus', care prin italiană 'assicurare' a intrat în limba română, însemnând 'a asigura, a proteja'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "absichern",
+      "targetText": "a asigura"
+    },
+    {
+      "sourceText": "Versicherer",
+      "targetText": "asigurător"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    },
+    {
+      "sourceText": "Versicherungsnehmer",
+      "targetText": "asigurat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht versichert sein",
+      "targetText": "a nu fi asigurat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin gegen Diebstahl versichert.",
+      "targetText": "Sunt asigurat împotriva furtului."
+    },
+    {
+      "sourceText": "Bist du bei der Krankenkasse versichert?",
+      "targetText": "Ești asigurat la casa de sănătate?"
+    },
+    {
+      "sourceText": "Er ist gut versichert und muss sich keine Sorgen machen.",
+      "targetText": "El este bine asigurat și nu trebuie să-și facă griji."
+    },
+    {
+      "sourceText": "Wir sind alle in dieser Firma versichert.",
+      "targetText": "Suntem toți asigurați în această firmă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'versichert sein' drückt einen Zustand aus – im Rumänischen wird das mit 'a fi' + Partizip 'asigurat' gebildet, also 'a fi asigurat'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'asigurat' klingt ähnlich wie das italienische 'assicurato', was dir helfen kann, die Bedeutung mit 'versichert' zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'a fi asigurat' ist eine feste Phrase, ähnlich wie 'versichert sein', wobei 'asigurat' vom lateinischen 'securus' abstammt, was 'sicher' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist 'sicher' (engl. secure) durch eine 'Asigurare' geschützt – so merkst du dir das rumänische Wort für Versicherung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

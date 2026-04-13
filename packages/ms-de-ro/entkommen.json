@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-entkommen",
+  "parent": "ms-ro-a-scapa-372cc98a@71e527c2f8c1c89a465b29f7fc0780da",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "entkommen",
+    "definition": "einem gefährlichen oder ungünstigen Zustand oder Ort entfliehen",
+    "pronunciation": "/ɛntˈkɔmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „entkommen“ stammt vom mittelhochdeutschen „entkomen“, zusammengesetzt aus „ent-“ (weg) und „komen“ (kommen), und bedeutet, einem Ort oder Zustand zu entfliehen.",
+        "targetText": "Cuvântul „entkommen“ provine din germana medie „entkomen“, format din „ent-“ (departe) și „komen“ (a veni), și înseamnă a scăpa dintr-un loc sau stare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb. Oft in Kontexten verwendet, die mit Flucht oder Entkommen aus einer schwierigen Situation zu tun haben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a scăpa",
+    "definition": "a fugi de o stare sau un loc periculos sau nefavorabil",
+    "pronunciation": "/a skəˈpa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a scăpa“ stammt vom lateinischen „excappare“ ab, was „sich von einer Kapuze befreien“ bedeutet und im übertragenen Sinn „entkommen“ heißt.",
+        "targetText": "Verbul românesc „a scăpa“ provine din latină, din „excappare“, care înseamnă „a se elibera de o glugă“ și în sens figurat „a scăpa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Wird häufig in alltäglichen Situationen verwendet, um Zufluchtsorte oder Fluchten aus Problematicen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Befreiung",
+      "explanation": {
+        "sourceText": "Bedeutet auch die Handlung, sich von einer Bandage oder Fessel zu befreien.",
+        "targetText": "Înseamnă și acțiunea de a te elibera de o legătură sau o bandaj."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Befreiung aus dem Gefängnis ist gelungen.",
+          "targetText": "Scăparea din închisoare a reușit."
+        }
+      ]
+    },
+    {
+      "gloss": "Entfliehen",
+      "explanation": {
+        "sourceText": "Eine weitere Verwendung von 'a scăpa', die sich auf die Idee des Geflüchtetseins bezieht.",
+        "targetText": "O utilizare a verbului „a scăpa“ care exprimă ideea de a fugi sau a se elibera."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen aus diesem Raum entfliehen.",
+          "targetText": "Trebuie să scăpăm din această cameră."
+        }
+      ]
+    },
+    {
+      "gloss": "Fliehen vor",
+      "explanation": {
+        "sourceText": "Wird auch genutzt, um Angst oder Verantwortung zu beschreiben, die man meidet.",
+        "targetText": "Este folosit și pentru a descrie evitarea fricii sau responsabilității."
+      },
+      "examples": [
+        {
+          "sourceText": "Er muss vor seinen Ängsten fliehen.",
+          "targetText": "El trebuie să scape de temerile sale."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Flucht",
+      "targetText": "fugă"
+    },
+    {
+      "sourceText": "Gefahr",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "Rettung",
+      "targetText": "salvare"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "festhalten",
+      "targetText": "a reține"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich entkomme dem Chaos.",
+      "targetText": "Eu scap de haos."
+    },
+    {
+      "sourceText": "Entkommst du dem Problem?",
+      "targetText": "Scapi de problemă?"
+    },
+    {
+      "sourceText": "Er entkommt der Gefahr.",
+      "targetText": "El scapă de pericol."
+    },
+    {
+      "sourceText": "Wir entkommen der Realität.",
+      "targetText": "Noi scăpăm de realitate."
+    },
+    {
+      "sourceText": "Entkommt ihr der Verantwortung?",
+      "targetText": "Scăpați de responsabilitate?"
+    },
+    {
+      "sourceText": "Die Kinder entkommen dem Aufpasser.",
+      "targetText": "Copiii scapă de supraveghetor."
+    },
+    {
+      "sourceText": "Ich bin dem Einfluss entkommen.",
+      "targetText": "Am scăpat de influență."
+    },
+    {
+      "sourceText": "Sie sind rechtzeitig entkommen.",
+      "targetText": "Ei au scăpat la timp."
+    },
+    {
+      "sourceText": "Er entkam in die Nacht.",
+      "targetText": "El a scăpat în noapte."
+    },
+    {
+      "sourceText": "Ich hatte den Fängen entkommen, bevor es zu spät war.",
+      "targetText": "Scăpasem din gheare înainte să fie prea târziu."
+    },
+    {
+      "sourceText": "Ich werde der Gefahr entkommen.",
+      "targetText": "Voi scăpa de pericol."
+    },
+    {
+      "sourceText": "Die Katze wird dem Hund entkommen.",
+      "targetText": "Pisica o să scape de câine."
+    },
+    {
+      "sourceText": "Ich würde der Gefahr entkommen, wenn ich blitzen könnte.",
+      "targetText": "Aș scăpa de pericol, dacă aș putea fugi."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du schnell entkommst!",
+      "targetText": "Este important să poți scăpa repede!"
+    },
+    {
+      "sourceText": "Entkomm deiner Angst!",
+      "targetText": "Scapă de frica ta!"
+    },
+    {
+      "sourceText": "Entkommt den Schatten!",
+      "targetText": "Scăpați de umbre!"
+    },
+    {
+      "sourceText": "Der entkommene Gefangene war erleichtert.",
+      "targetText": "Prizonierul scăpat era ușurat."
+    },
+    {
+      "sourceText": "Die gefangenen Tiere sind nun entkommen.",
+      "targetText": "Animalele capturate sunt acum scăpate."
+    },
+    {
+      "sourceText": "Entkommend trat er ins Freie.",
+      "targetText": "Scăpând, a ieșit afară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „sc-“ am Anfang klingt wie „escape“ – ein hilfreicher Klanganker für die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche „entkommen“ und das rumänische „a scăpa“ bedeuten beide „entkommen“ oder „fliehen“. Denk an „scăpa“ als „sich befreien“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a scăpa“ oft mit „de“ verbunden wird, um anzugeben, wovon man entkommt: „scap de...“"
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „a scăpa“ in Alltagssituationen, z.B. „Eu scap de probleme“ (Ich entkomme Problemen)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „scăpi“ aus einer Falle – das hilft, die Bedeutung von „a scăpa“ zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

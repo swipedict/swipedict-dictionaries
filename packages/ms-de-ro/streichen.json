@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-streichen",
+  "parent": "ms-ro-a-vopsi-c65bf4ba@e2ae4fd898051f3b30594de86dbfa4eb",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "streichen",
+    "definition": "eine Fläche mit Farbe oder einem anderen Material überziehen",
+    "pronunciation": "/ˈʃtʁaɪ̯çən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „streichen“ stammt vom mittelhochdeutschen „strichen“, was „über eine Fläche ziehen“ bedeutet, und geht auf das althochdeutsche „strīhhan“ zurück.",
+        "targetText": "Verbul „streichen“ provine din germana mijlocie „strichen“, care înseamnă „a trage peste o suprafață“, derivat din germana veche „strīhhan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb, das in handwerklichen Kontexten wie Malen oder Anstreichen häufig verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vopsi",
+    "definition": "a acoperi o suprafață cu vopsea sau alt material",
+    "pronunciation": "/a vopˈsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vopsi“ stammt vom lateinischen „vopsire“ ab, das mit dem Verb „pictura“ (Malen) verwandt ist, und hat sich im Rumänischen als Begriff für das Anstreichen etabliert.",
+        "targetText": "Verbul românesc „a vopsi“ derivă din latinescul „vopsire“, legat de „pictura“ (pictură), și desemnează acoperirea unei suprafețe cu vopsea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb der 1. Konjugation (-a), das oft in Kunst- und Handwerkskontexten verwendet wird."
+  },
+  "senses": [
+    {
+      "gloss": "Farbe auftragen",
+      "explanation": {
+        "sourceText": "Das Anbringen einer Farbe auf eine Oberfläche.",
+        "targetText": "Aplicarea unei vopsele pe o suprafață."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich streiche die Wände.",
+          "targetText": "Vopsesc pereții."
+        }
+      ]
+    },
+    {
+      "gloss": "wiederholen (im Kontext von Durchstreichen)",
+      "explanation": {
+        "sourceText": "Das Verb kann auch im übertragenen Sinne verwendet werden, z.B. um etwas zu löschen oder zu entfernen.",
+        "targetText": "Verbul poate fi folosit și în sens figurat, de exemplu pentru a șterge sau elimina ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Er streicht den Fehler aus.",
+          "targetText": "Îi șterge greșeala."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Becher",
+      "targetText": "cană"
+    },
+    {
+      "sourceText": "Farbe",
+      "targetText": "culoare"
+    },
+    {
+      "sourceText": "Pinsel",
+      "targetText": "pensulă"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entfernen",
+      "targetText": "a elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich streiche die Wände.",
+      "targetText": "Vopsesc pereții."
+    },
+    {
+      "sourceText": "Streichst du das Holz?",
+      "targetText": "Vopsești lemnul?"
+    },
+    {
+      "sourceText": "Er streicht den Tisch blau.",
+      "targetText": "El vopsește masa albastră."
+    },
+    {
+      "sourceText": "Wir streichen das Haus.",
+      "targetText": "Vopsim casa."
+    },
+    {
+      "sourceText": "Streicht ihr die Zeit?",
+      "targetText": "Vopsiți timpul?"
+    },
+    {
+      "sourceText": "Sie streichen die Bilder.",
+      "targetText": "Ei vopsesc picturile."
+    },
+    {
+      "sourceText": "Ich habe die Wand gestrichen.",
+      "targetText": "Am vopsit peretele."
+    },
+    {
+      "sourceText": "Ich werde das Bild morgen streichen.",
+      "targetText": "Voi vopsi imaginea mâine."
+    },
+    {
+      "sourceText": "Ich würde das Holz streichen, wenn ich mehr Zeit hätte.",
+      "targetText": "Aș vopsi lemnul dacă aș avea mai mult timp."
+    },
+    {
+      "sourceText": "Streiche das Bild!",
+      "targetText": "Vopsește imaginea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a vopsi“ klingt ähnlich wie „Vops“ (Farbe) – stelle dir vor, wie du eine Wand mit Farbe (Vops) anstreichst!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Vopsi“ endet auf -si wie viele rumänische Verben der 1. Konjugation, genau wie „a picta“ (malen)."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „streichen“ mit „a vopsi“ durch die Vorstellung, wie du mit einem Pinsel (pensulă) Farbe auf eine Wand (perete) aufträgst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

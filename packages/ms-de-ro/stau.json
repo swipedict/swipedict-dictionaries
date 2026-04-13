@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-stau",
+  "parent": "ms-ro-ambuteiaj-371496ac@690f45981abd53debe30a8ea2a70bfee",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stau",
+    "genus": "masculine",
+    "definition": "Ein Zustand, bei dem sich Fahrzeuge auf einer Straße nicht mehr bewegen können oder nur sehr langsam vorankommen, oft verursacht durch zu viel Verkehr oder eine Behinderung.",
+    "pronunciation": "/ʃtaʊ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stau“ stammt vom althochdeutschen 'stou' ab, das 'Stauung' oder 'Stau' bedeutet und verwandt ist mit dem Verb 'stauen' (ansammeln, aufstauen).",
+        "targetText": "Cuvântul german „Stau” provine din vechiul german înalt 'stou', care însemna 'aglomerare' sau 'blocaj', fiind legat de verbul 'stauen' (a aduna, a bloca)."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ambuteiaj",
+    "genus": "neuter",
+    "definition": "O situație în trafic în care vehiculele sunt blocate sau se mișcă foarte încet din cauza aglomerației sau a unui obstacol pe drum.",
+    "pronunciation": "/ambuˈtej/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ambuteiaj“ stammt vom französischen 'embouteillage' ab, das 'Verstopfung' oder 'Stau' bedeutet und sich auf das Blockieren von Verkehrswegen bezieht.",
+        "targetText": "Cuvântul românesc „ambuteiaj” provine din francezul 'embouteillage', care înseamnă 'blocaj' sau 'aglomerare', referindu-se la blocarea căilor de circulație."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Stau verursachen",
+      "targetText": "a provoca ambuteiaj"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    },
+    {
+      "sourceText": "Verkehrsbehinderung",
+      "targetText": "obstacol în trafic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freie Fahrt",
+      "targetText": "circulație liberă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Im Berufsverkehr gibt es oft einen Stau auf der Autobahn.",
+      "targetText": "În orele de vârf există adesea un ambuteiaj pe autostradă."
+    },
+    {
+      "sourceText": "Der Stau dauerte mehr als eine Stunde.",
+      "targetText": "Ambuteiajul a durat mai mult de o oră."
+    },
+    {
+      "sourceText": "Wir standen im Stau und kamen zu spät zur Arbeit.",
+      "targetText": "Am stat în ambuteiaj și am întârziat la serviciu."
+    },
+    {
+      "sourceText": "Die Polizei versucht, den Stau zu beseitigen.",
+      "targetText": "Poliția încearcă să elimine ambuteiajul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Stau' erinnert an 'stauen' – etwas, das sich ansammelt. Im Rumänischen hilft dir das Bild von 'ambuteiaj' als 'Blockade' weiter."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'ambuteiaj' klingt ähnlich wie das französische 'embouteillage', das du vielleicht aus dem Französischen kennst – beide bedeuten Stau."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Autos sich 'anbuten' (aneinanderstoßen) und so den Verkehr blockieren – das hilft dir, 'ambuteiaj' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an 'ambuteiaj' denkst, kannst du dir vorstellen, wie eine Flasche (bouteille auf Französisch) voller Verkehr ist – das hilft, die Herkunft und Bedeutung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

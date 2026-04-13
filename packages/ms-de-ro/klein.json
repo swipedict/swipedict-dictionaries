@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-klein",
+  "parent": "ms-ro-mic-dfca616d@e801fe6df620fe595711fa15c495a93a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klein",
+    "definition": "Von geringer Größe oder Ausmaß; nicht groß.",
+    "pronunciation": "/klaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „klein“ stammt vom althochdeutschen 'kleini' ab, das auf die germanische Wurzel *klainaz zurückgeht und 'klein' oder 'gering' bedeutet.",
+        "targetText": "Adjectivul german „klein” provine din germana veche înaltă 'kleini', derivat din rădăcina germanică *klainaz, care înseamnă 'mic' sau 'puțin'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mic",
+    "definition": "Von geringer Größe oder Ausmaß; nicht groß.",
+    "pronunciation": "/mit͡ʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „mic“ stammt vom lateinischen Wort 'micus' ab, das 'klein' oder 'winzig' bedeutet und im Rumänischen als 'mic' weiterlebt.",
+        "targetText": "Adjectivul românesc „mic” derivă din cuvântul latin 'micus', care însemna 'mic' sau 'foarte mic', păstrat în limba română ca 'mic'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "groß",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "kleiner Bruder",
+      "targetText": "frate mai mic"
+    },
+    {
+      "sourceText": "kurz",
+      "targetText": "scurt"
+    },
+    {
+      "sourceText": "winzig",
+      "targetText": "minuscul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "groß",
+      "targetText": "mare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das kleine Haus steht am See.",
+      "targetText": "Casa mică este lângă lac."
+    },
+    {
+      "sourceText": "Er hat eine kleine Schwester.",
+      "targetText": "El are o soră mică."
+    },
+    {
+      "sourceText": "Der Hund ist klein, aber sehr mutig.",
+      "targetText": "Câinele este mic, dar foarte curajos."
+    },
+    {
+      "sourceText": "Ich möchte nur ein kleines Stück Kuchen.",
+      "targetText": "Vreau doar o bucată mică de prăjitură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'micus' bedeutet klein, und das rumänische 'mic' hat diese Bedeutung direkt übernommen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „mic“ klingt ähnlich wie das englische Wort 'meek' (sanft, klein im Sinne von zurückhaltend). So kannst du dir die Bedeutung merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „mic“ ist kurz und klein – genau wie seine Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst 'mikro' für klein – das hilft dir, „mic“ als kleines Etwas zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-sich-verirren",
+  "parent": "ms-ro-a-se-rataci-b6f72d87@bd4984ac6771dfa3843ce90d179eef17",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sich verirren",
+    "definition": "Den Weg verlieren, sich an einem Ort nicht mehr zurechtfinden.",
+    "pronunciation": "/zɪç fɛɐ̯ˈɪʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verirren“ stammt vom mittelhochdeutschen 'verirren' ab, zusammengesetzt aus der Vorsilbe 'ver-' und dem Verb 'irren', das auf das althochdeutsche 'irren' zurückgeht und 'sich täuschen' oder 'sich verirren' bedeutet.",
+        "targetText": "Verbul german „verirren” provine din germana mijlocie 'verirren', compus din prefixul 'ver-' și verbul 'irren', care derivă din germana veche înaltă 'irren' și înseamnă 'a se înșela' sau 'a se rătăci'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se rătăci",
+    "definition": "A pierde drumul, a nu mai găsi calea corectă într-un loc.",
+    "pronunciation": "/a se rə.təˈt͡ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se rătăci“ stammt vom lateinischen Substantiv 'rata' ab, das 'Weg' oder 'Pfad' bedeutet, mit dem reflexiven Pronomen 'se' zur Bildung des reflexiven Verbs, das 'sich verirren' ausdrückt.",
+        "targetText": "Verbul românesc „a se rătăci” provine din substantivul latin 'rata', care însemna 'drum' sau 'potecă', combinat cu pronumele reflexiv 'se' pentru a forma verbul reflexiv ce exprimă ideea de 'a se rătăci'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb reflexiv, Konjugation regelmäßig."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "der Weg",
+      "targetText": "drumul"
+    },
+    {
+      "sourceText": "finden",
+      "targetText": "a găsi"
+    },
+    {
+      "sourceText": "suchen",
+      "targetText": "a căuta"
+    },
+    {
+      "sourceText": "verlieren",
+      "targetText": "a pierde"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sich orientieren",
+      "targetText": "a se orienta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe mich im Wald verirrt.",
+      "targetText": "M-am rătăcit în pădure."
+    },
+    {
+      "sourceText": "Sie verirrt sich oft in der Stadt.",
+      "targetText": "Ea se rătăcește des în oraș."
+    },
+    {
+      "sourceText": "Wir dürfen uns nicht verirren, sonst kommen wir zu spät.",
+      "targetText": "Nu trebuie să ne rătăcim, altfel vom întârzia."
+    },
+    {
+      "sourceText": "Er hat sich verirrt und wusste nicht, wo er war.",
+      "targetText": "S-a rătăcit și nu știa unde se afla."
+    },
+    {
+      "sourceText": "Verirr dich nicht auf dem Weg zum Bahnhof!",
+      "targetText": "Nu te rătăci pe drum spre gară!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Reflexivpronomen 'se' zeigt an, dass die Handlung auf die Person zurückfällt – ähnlich wie im Deutschen 'sich verirren'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'rătăci' klingt wie 'rat' + 'ați' – stell dir vor, du brauchst einen 'Rat' (Ratschlag), weil du dich verirrt hast."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'rătăci' enthält die Silbe 'tăci', die an 'tacere' (Schweigen) erinnert – wenn du dich verirrst, bist du oft still und suchst den Weg."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'a se rătăci' ist ein reflexives Verb, genau wie 'sich verirren' im Deutschen – beide drücken aus, dass man den Weg verliert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ms-de-ro-vergessen",
+  "parent": "ms-ro-a-uita-d9aa1f65@c76d3367d724275a07f6284ea6f830d1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vergessen",
+    "definition": "sich nicht mehr an etwas erinnern können",
+    "pronunciation": "/fɛʁˈɡɛsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Vergessen“ stammt vom mittelhochdeutschen „vergessen“, gebildet aus „ver-“ (Verlust) und „gëzan“ (zählen), was den Verlust der Erinnerung beschreibt.",
+        "targetText": "Verbul „vergessen“ provine din germana mijlocie, format din prefixul „ver-“ și „gëzan“, indicând pierderea amintirii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Häufig in emotionalen oder nachlässigen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a uita",
+    "definition": "a nu mai ține minte ceva",
+    "pronunciation": "/uˈita/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A uita“ stammt aus dem slawischen „uviti“ (hinsehen) und entwickelte sich zur Bedeutung „nicht erinnern“.",
+        "targetText": "Verbul „a uita“ derivă din slavona „uviti“ (a privi), evoluând spre sensul de a nu-și aminti."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft benutzt, um das Versäumnis zu beschreiben, sich an etwas zu erinnern."
+  },
+  "senses": [
+    {
+      "gloss": "Uita (sich nicht erinnern)",
+      "explanation": {
+        "sourceText": "Um auf eine Situation Bezug zu nehmen, wo man etwas vergisst.",
+        "targetText": "Se referă la situații în care uiți ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde nicht vergessen, dir zu helfen.",
+          "targetText": "Nu voi uita să te ajut."
+        }
+      ]
+    },
+    {
+      "gloss": "Vergessen (nicht erinnern)",
+      "explanation": {
+        "sourceText": "Für den Fall, dass man sich nicht mehr an etwas erinnern kann.",
+        "targetText": "Pentru situații în care nu mai poți ține minte ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe vergessen, das Licht auszuschalten.",
+          "targetText": "Am uitat să sting lumina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erinnerung",
+      "targetText": "amintire"
+    },
+    {
+      "sourceText": "Fehler",
+      "targetText": "eroare"
+    },
+    {
+      "sourceText": "Gedächtnis",
+      "targetText": "memorie"
+    },
+    {
+      "sourceText": "Vergessenheit",
+      "targetText": "uitare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erinnern",
+      "targetText": "a-și aminti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich vergesse oft wichtige Termine.",
+      "targetText": "Eu uit adesea întâlniri importante."
+    },
+    {
+      "sourceText": "Er vergisst immer seinen Schlüssel.",
+      "targetText": "El uită întotdeauna cheia."
+    },
+    {
+      "sourceText": "Ich habe meinen Namen vergessen.",
+      "targetText": "Am uitat numele meu."
+    },
+    {
+      "sourceText": "Ich werde nicht vergessen, dir zu schreiben.",
+      "targetText": "Nu voi uita să-ți scriu."
+    },
+    {
+      "sourceText": "Vergiss nicht, deinen Paraffin zu untersuchen!",
+      "targetText": "Nu uita să îți verifici parafina!"
+    },
+    {
+      "sourceText": "Die vergessene Datei war nicht mehr verfügbar.",
+      "targetText": "Fișierul uitat nu a mai fost disponibil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Uita“ klingt wie „uh-oh“ – ein Signal, wenn du etwas vergessen hast."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „uita“ vom slawischen „uviti“ kommt, was „hinsehen“ bedeutet – also das Gegenteil von vergessen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „uita“ mit Sätzen wie „Eu nu vreau să uit...“ (Ich will nicht vergessen...)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

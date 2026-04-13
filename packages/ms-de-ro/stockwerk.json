@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-stockwerk",
+  "parent": "ms-ro-etaj-afc5ca01@bd05fa9b8a04200af62cca0f97b273c9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stockwerk",
+    "genus": "neuter",
+    "definition": "Ein Stockwerk ist eine Ebene oder ein Geschoss in einem Gebäude, auf der Menschen wohnen oder arbeiten können.",
+    "pronunciation": "/ˈʃtɔkˌvɛʁk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stockwerk“ setzt sich aus „Stock“ (Stab, Stange) und „Werk“ (Bau, Arbeit) zusammen und bezeichnet ursprünglich eine aufeinander gestapelte Bau-Ebene.",
+        "targetText": "Cuvântul german „Stockwerk“ este compus din „Stock“ (băț, tijă) și „Werk“ (construcție, lucrare) și desemna inițial un nivel construit suprapus într-o clădire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "etaj",
+    "genus": "neuter",
+    "definition": "Un etaj este un nivel sau o suprafață într-o clădire, unde oamenii pot locui sau lucra.",
+    "pronunciation": "/eˈtatʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „etaj“ stammt vom französischen 'étage' ab, das seinerseits aus dem spätlateinischen 'staggium' oder italienischen 'stage' entlehnt wurde und 'Stockwerk' bedeutet.",
+        "targetText": "Cuvântul românesc „etaj” provine din franceza 'étage', care la rândul său derivă din latină târzie 'staggium' sau italiană 'stage', însemnând 'nivel' sau 'etaj' într-o clădire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dachgeschoss",
+      "targetText": "mansardă"
+    },
+    {
+      "sourceText": "Gebäude",
+      "targetText": "clădire"
+    },
+    {
+      "sourceText": "Keller",
+      "targetText": "subsol"
+    },
+    {
+      "sourceText": "Treppenhaus",
+      "targetText": "casa scării"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Büro befindet sich im dritten Stockwerk.",
+      "targetText": "Biroul se află la etajul trei."
+    },
+    {
+      "sourceText": "Wir wohnen im obersten Stockwerk dieses Hauses.",
+      "targetText": "Locuim la ultimul etaj al acestei clădiri."
+    },
+    {
+      "sourceText": "Im Stockwerk unter uns ist ein Café.",
+      "targetText": "La etajul de sub noi este o cafenea."
+    },
+    {
+      "sourceText": "Das Gebäude hat fünf Stockwerke.",
+      "targetText": "Clădirea are cinci etaje."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „etaj“ klingt ähnlich wie das französische 'étage', was dir helfen kann, es mit Stockwerk zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „etaj“ endet mit '-aj', eine typische Endung für Substantive, die dir hilft, es als Nomen zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „etaj“ im Rumänischen immer mit dem bestimmten Artikel 'etajul' benutzt wird, ähnlich wie 'das Stockwerk' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst eine Treppe hinauf und zählst die 'Etagen' – jedes Mal ein neues 'Stockwerk' in deinem Gebäude."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

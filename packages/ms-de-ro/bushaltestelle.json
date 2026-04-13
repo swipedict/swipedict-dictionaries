@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-bushaltestelle",
+  "parent": "ms-ro-statie-de-autobuz-1fae3436@4a52ac83ab009ea835bd14e384f82059",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bushaltestelle",
+    "genus": "feminine",
+    "definition": "Ein Ort, an dem Busse halten, um Fahrgäste ein- oder aussteigen zu lassen.",
+    "pronunciation": "/ˈbʊsˌhal̩tɛstəle/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bushaltestelle“ setzt sich aus „Bus“ und „Haltestelle“ zusammen. „Bus“ stammt vom englischen „bus“, abgekürzt von „omnibus“, und „Haltestelle“ bezeichnet einen Ort, an dem Fahrzeuge anhalten.",
+        "targetText": "Der Begriff kombiniert das englische Lehnwort „Bus“ mit dem deutschen Wort „Haltestelle“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bushaltestellen sind an strategischen Punkten festgelegt und sind in der Regel mit einem Schild gekennzeichnet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stație de autobuz",
+    "genus": "feminine",
+    "definition": "Un loc unde autobuzele se opresc pentru a lua sau a lăsa pasageri.",
+    "pronunciation": "/ˈsta.t͡sje de au̯toˈbuz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „stație de autobuz“ setzt sich aus „stație“ (vom lateinischen „statio“, ‚Standort‘) und „autobuz“ (Lehnwort aus dem Französischen „autobus“) zusammen und bezeichnet eine Haltestelle für Busse.",
+        "targetText": "Termenul combină „stație“, derivat din latină, cu „autobuz“, un împrumut din franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Alle großen Städte in Rumänien haben ausgebaute Busstationen mit Wartebereichen."
+  },
+  "senses": [
+    {
+      "gloss": "Bushaltstelle (Busstation)",
+      "explanation": {
+        "sourceText": "Ein Platz, wo Busse anhalten, um Passagiere zu befördern.",
+        "targetText": "Un loc unde autobuzele opresc pentru a îmbarca sau debarca pasageri."
+      },
+      "examples": [
+        {
+          "sourceText": "Wo ist die nächste Bushaltestelle?",
+          "targetText": "Unde este cea mai apropiată stație de autobuz?"
+        }
+      ]
+    },
+    {
+      "gloss": "Sammelpunkt",
+      "explanation": {
+        "sourceText": "Ein allgemeiner Sammelpunkt für Passagiere.",
+        "targetText": "Un punct de adunare pentru pasageri."
+      },
+      "examples": [
+        {
+          "sourceText": "An der Bushaltestelle stehen viele Passagiere.",
+          "targetText": "La stația de autobuz stau mulți pasageri."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Fahrgast",
+      "targetText": "călător"
+    },
+    {
+      "sourceText": "Haltestelle",
+      "targetText": "stație"
+    },
+    {
+      "sourceText": "Warteschlange",
+      "targetText": "coadă de așteptare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fahrzeug",
+      "targetText": "mașină"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die nächste Bushaltestelle ist gleich um die Ecke.",
+      "targetText": "Următoarea stație de autobuz este chiar la colț."
+    },
+    {
+      "sourceText": "Die Bushaltestelle ist oft überfüllt.",
+      "targetText": "Stația de autobuz este adesea aglomerată."
+    },
+    {
+      "sourceText": "Wo ist die nächste Bushaltestelle?",
+      "targetText": "Unde este cea mai apropiată stație de autobuz?"
+    },
+    {
+      "sourceText": "An der Bushaltestelle stehen viele Passagiere.",
+      "targetText": "La stația de autobuz stau mulți pasageri."
+    },
+    {
+      "sourceText": "Die Bushaltestelle wird bald modernisiert.",
+      "targetText": "Stația de autobuz va fi modernizată în curând."
+    },
+    {
+      "sourceText": "Vergiss dein Ticket nicht an der Bushaltestelle!",
+      "targetText": "Nu uita de biletul tău la stația de autobuz!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „stație“ auch bei anderen Verkehrsmitteln verwendet wird, z.B. „stație de metrou“ für U-Bahn-Station."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „stație de autobuz“ als den Ort, an dem du wartest, bis dein „autobuz“ kommt – „stație“ klingt wie „Station“ und hilft dir, den Haltepunkt zu erinnern!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie der Bus an einer „stație“ (Station) hält – das Wort „stație“ kommt vom lateinischen „statio“ und bedeutet Standort."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „autobuz“ mit dem deutschen „Bus“ – beide klingen ähnlich und bezeichnen dasselbe Fahrzeug."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

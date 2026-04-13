@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-integrieren",
+  "parent": "ms-ro-a-integra-12395222@316229ef67410d50d90473daa5306406",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "integrieren",
+    "definition": "etwas in ein Ganzes einfügen oder einbeziehen",
+    "pronunciation": "/ɪntɛˈɡʁiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „integrieren“ stammt vom lateinischen „integrare“, was „vollständig machen“ oder „einfügen“ bedeutet.",
+        "targetText": "Verbul german „integrieren“ provine din latinul „integrare“, care înseamnă „a face întreg“ sau „a introduce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig im mathematischen, informatischen und sozialen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a integra",
+    "definition": "a include sau a face parte dintr-un întreg",
+    "pronunciation": "/a inˈte.ɡra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a integra“ stammt vom lateinischen „integrare“, was „vollständig machen“ oder „einfügen“ bedeutet. Es wird in Mathematik, Sozialwissenschaften und Informatik verwendet.",
+        "targetText": "Verbul românesc „a integra“ provine din latinul „integrare“, care înseamnă „a face întreg“ sau „a introduce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wichtig in Mathematik, Informatik und Sozialwissenschaften."
+  },
+  "senses": [
+    {
+      "gloss": "Einfügen in ein Ganzes",
+      "explanation": {
+        "sourceText": "Das Einfügen von Elementen in ein größeres System oder Ganzes.",
+        "targetText": "Introducerea elementelor într-un sistem sau întreg mai mare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich integriere die neuen Daten in das System.",
+          "targetText": "Eu integrez noile date în sistem."
+        }
+      ]
+    },
+    {
+      "gloss": "Soziale Integration",
+      "explanation": {
+        "sourceText": "Das Einbeziehen von Personen oder Gruppen in eine Gemeinschaft oder ein Projekt.",
+        "targetText": "Includerea persoanelor sau grupurilor într-o comunitate sau proiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Integrierst du die Schüler in das Projekt?",
+          "targetText": "Integrezi elevii în proiect?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gruppe",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "Prozess",
+      "targetText": "proces"
+    },
+    {
+      "sourceText": "System",
+      "targetText": "sistem"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "isolieren",
+      "targetText": "a izola"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich integriere die neuen Daten in das System.",
+      "targetText": "Eu integrez noile date în sistem."
+    },
+    {
+      "sourceText": "Integrierst du die Schüler in das Projekt?",
+      "targetText": "Integrezi elevii în proiect?"
+    },
+    {
+      "sourceText": "Die Lehrerin integriert neue Methoden.",
+      "targetText": "Învățătoarea integrează metode noi."
+    },
+    {
+      "sourceText": "Wir integrieren verschiedene Ansätze.",
+      "targetText": "Noi integrăm abordări diferite."
+    },
+    {
+      "sourceText": "Integriert ihr die Ergebnisse in den Bericht?",
+      "targetText": "Integrați rezultatele în raport?"
+    },
+    {
+      "sourceText": "Sie (Pl.) integrieren die verschiedenen Systeme.",
+      "targetText": "Ei integrează sistemele diferite."
+    },
+    {
+      "sourceText": "Ich habe die Module integriert.",
+      "targetText": "Am integrat modulele."
+    },
+    {
+      "sourceText": "Sie haben die Änderungen integriert.",
+      "targetText": "Ei au integrat modificările."
+    },
+    {
+      "sourceText": "Er integrierte die Schüler in die Klasse.",
+      "targetText": "El integra elevii în clasă."
+    },
+    {
+      "sourceText": "Ich hatte die Daten bereits integriert.",
+      "targetText": "Integrasem deja datele."
+    },
+    {
+      "sourceText": "Ich werde die Software integrieren.",
+      "targetText": "Voi integra software-ul."
+    },
+    {
+      "sourceText": "Er wird die Säulen integrieren.",
+      "targetText": "El o să integreze coloanele."
+    },
+    {
+      "sourceText": "Ich würde sie integrieren, wenn ich die Zeit hätte.",
+      "targetText": "Aș integra dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Strategie integrierst.",
+      "targetText": "Este important să integrezi strategia."
+    },
+    {
+      "sourceText": "Integriere die Daten!",
+      "targetText": "Integrează datele!"
+    },
+    {
+      "sourceText": "Integrieren Sie die Informationen in das Projekt!",
+      "targetText": "Integrați informațiile în proiect!"
+    },
+    {
+      "sourceText": "Die integrierten Systeme arbeiten effizient.",
+      "targetText": "Sistemele integrate funcționează eficient."
+    },
+    {
+      "sourceText": "Die Module sind jetzt integriert.",
+      "targetText": "Modulele sunt acum integrate."
+    },
+    {
+      "sourceText": "Integrierend, fand sie Lösungen für die Probleme.",
+      "targetText": "Integrând, a găsit soluții pentru probleme."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Integrieren“ und „a integra“ sind Kognaten – das hilft dir, die Bedeutung schnell zu verbinden!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk an Mathematik: Integration bedeutet, Teile zu einem Ganzen zusammenzufügen – genau wie „a integra“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensendung „-ez“ in „integrez“ als Hinweis auf die 1. Person Singular."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du fügst verschiedene Teile in ein Puzzle ein – das ist wie „a integra“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

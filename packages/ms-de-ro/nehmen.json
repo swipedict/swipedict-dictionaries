@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-nehmen",
+  "parent": "ms-ro-a-lua-eb72e8e7@d21aca6337856ecd08f94d8cca3a120e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "nehmen",
+    "definition": "Etwas in die Hand oder Besitz nehmen; etwas erhalten oder empfangen.",
+    "pronunciation": "/ˈneːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „nehmen“ stammt vom althochdeutschen 'neman' ab, das auf das urgermanische *nemaną zurückgeht, verwandt mit dem lateinischen 'nēmō' (niemand) nur zufällig ähnlich, aber etymologisch verschieden.",
+        "targetText": "Verbul german „nehmen” provine din vechiul german înalt 'neman', derivat din proto-germanicul *nemaną, fără legătură etimologică cu latinescul 'nēmō' (nimeni)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua",
+    "definition": "A lua ceva în posesie sau în mână; a primi ceva.",
+    "pronunciation": "/a ˈlua/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a lua“ stammt vom lateinischen 'lūdere' ab, ursprünglich 'spielen', entwickelte sich aber in der Bedeutung zu 'nehmen'. Wahrscheinlicher ist jedoch eine Entwicklung aus dem lateinischen 'lūdere' über eine volkssprachliche Bedeutung.",
+        "targetText": "Verbul românesc „a lua” provine probabil din latinul 'lūdere' (a juca), dar a evoluat semantic spre 'a lua' (a apuca, a primi). Originea exactă este discutată, dar este o formă internă românească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, eu iau, tu iei, el/ea ia."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bekommen",
+      "targetText": "a primi"
+    },
+    {
+      "sourceText": "bringen",
+      "targetText": "a aduce"
+    },
+    {
+      "sourceText": "geben",
+      "targetText": "a da"
+    },
+    {
+      "sourceText": "halten",
+      "targetText": "a ține"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "geben",
+      "targetText": "a da"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme das Buch.",
+      "targetText": "Eu iau cartea."
+    },
+    {
+      "sourceText": "Ich habe das Geschenk genommen.",
+      "targetText": "Am luat cadoul."
+    },
+    {
+      "sourceText": "Früher nahm er immer den Bus.",
+      "targetText": "El lua întotdeauna autobuzul."
+    },
+    {
+      "sourceText": "Ich werde den Stift nehmen.",
+      "targetText": "Voi lua pixul."
+    },
+    {
+      "sourceText": "Nimm das mit!",
+      "targetText": "Ia asta cu tine!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a lua“ klingt kurz und prägnant – stell dir vor, du 'nimmst' etwas schnell mit einem 'Laut' auf."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „lua“ hat eine innere rumänische Entwicklung, die es einzigartig macht – das macht es besonders und leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die unregelmäßige Konjugation: eu iau, tu iei, el ia – das hilft dir, das Verb sicher zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a lua“ mit dem deutschen „nehmen“ durch die Vorstellung, dass du etwas 'lauerst' (lauschst) und dann 'nimmst'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

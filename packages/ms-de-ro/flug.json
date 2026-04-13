@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-flug",
+  "parent": "ms-ro-zbor-32fbe7d2@118167e504f4a90df308f7e15ed6af80",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Flug",
+    "genus": "masculine",
+    "definition": "Die Bewegung durch die Luft, meist mit einem Flugzeug oder einem anderen Fluggerät.",
+    "pronunciation": "/fluːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Flug“ stammt vom althochdeutschen 'fluog' ab, das auf die urgermanische Wurzel *fleug- zurückgeht und mit dem englischen 'flight' verwandt ist.",
+        "targetText": "Cuvântul german „Flug” provine din germana veche înaltă 'fluog', derivat din rădăcina urgermanică *fleug-, fiind înrudit cu cuvântul englezesc 'flight'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zbor",
+    "genus": "neuter",
+    "definition": "Mișcarea prin aer, de obicei cu un avion sau alt mijloc de zbor.",
+    "pronunciation": "/zbor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „zbor“ stammt vom lateinischen 'exaborare' ab, das 'hinausfliegen' bedeutet, und ist über das rumänische Verb 'a zbura' entstanden.",
+        "targetText": "Cuvântul românesc „zbor” provine din latină, din 'exaborare', care înseamnă 'a zbura afară', și s-a format prin verbul românesc 'a zbura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Flughafen",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "Flugzeug",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "Pilot",
+      "targetText": "pilot"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Flug nach Bukarest dauert zwei Stunden.",
+      "targetText": "Zborul spre București durează două ore."
+    },
+    {
+      "sourceText": "Ich habe einen Flug gebucht.",
+      "targetText": "Am rezervat un zbor."
+    },
+    {
+      "sourceText": "Der Flug war sehr ruhig.",
+      "targetText": "Zborul a fost foarte liniștit."
+    },
+    {
+      "sourceText": "Der Flug startet um 10 Uhr.",
+      "targetText": "Zborul pleacă la ora 10."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'zbor' klingt wie 'sbor' – stell dir vor, du 's'pringst in die Luft beim Fliegen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'zbor' stammt vom lateinischen 'exaborare', was 'hinausfliegen' bedeutet – denk an das Herausfliegen in die Luft."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Flug' und 'zbor' sind beide kurze, prägnante Wörter für das Fliegen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'zbor' mit dem deutschen Wort 'Flug' durch die gemeinsame Bedeutung des Fliegens."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

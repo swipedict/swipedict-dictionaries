@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-kunde",
+  "parent": "ms-ro-client-c7440455@eb95725fcb478daab5f9ae0ba45272a1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kunde",
+    "genus": "masculine",
+    "definition": "Person, die Waren oder Dienstleistungen von einem Anbieter kauft oder in Anspruch nimmt.",
+    "pronunciation": "/ˈkʊndə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kunde“ stammt vom althochdeutschen 'chundo' ab, das auf das mittellateinische 'conditus' zurückgeht und ursprünglich 'Bekannter' oder 'Kenner' bedeutete.",
+        "targetText": "Cuvântul german „Kunde” provine din vechiul german înalt 'chundo', care la rândul său derivă din latină medievală 'conditus', însemnând inițial 'cunoscut' sau 'persoană familiară'."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "client",
+    "genus": "masculine",
+    "definition": "Persoană care cumpără bunuri sau servicii de la un furnizor.",
+    "pronunciation": "/kliˈent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „client“ stammt vom lateinischen 'cliens' ab, das im antiken Rom einen abhängigen Schutzbefohlenen bezeichnete und später die Bedeutung 'Kunde' annahm.",
+        "targetText": "Cuvântul românesc „client” provine din latină, de la 'cliens', care în Roma antică desemna o persoană aflată sub protecția unui patron și ulterior a căpătat sensul de 'client' sau 'cumpărător'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bestellung",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "Dienstleistung",
+      "targetText": "serviciu"
+    },
+    {
+      "sourceText": "Kauf",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "Verkäufer",
+      "targetText": "vânzător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Verkäufer",
+      "targetText": "vânzător"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kunde ist König.",
+      "targetText": "Clientul este rege."
+    },
+    {
+      "sourceText": "Der Kunde hat die Ware bezahlt.",
+      "targetText": "Clientul a plătit marfa."
+    },
+    {
+      "sourceText": "Viele Kunden sind mit dem Service zufrieden.",
+      "targetText": "Mulți clienți sunt mulțumiți de serviciu."
+    },
+    {
+      "sourceText": "Der Kunde bestellt online.",
+      "targetText": "Clientul comandă online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'cliens' war jemand, der Schutz suchte – heute sucht ein Kunde Schutz durch gute Produkte und Service."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'client' klingt fast wie das englische 'client', was dir hilft, die Bedeutung als Kunde zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'client' ist jemand, der 'clever' einkauft – so kannst du dir das Wort leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'client' mit 'Kunde' durch das gemeinsame 'cl' am Anfang – so bleibt das Wort im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

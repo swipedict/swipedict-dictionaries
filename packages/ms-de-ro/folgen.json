@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-folgen",
+  "parent": "ms-ro-a-urma-52d9faec@756b02fe17cb0e1e728d78505bcc6760",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "folgen",
+    "definition": "jemandem oder etwas nachgehen oder hinterherkommen",
+    "pronunciation": "/ˈfɔlɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „folgen“ stammt vom althochdeutschen „folgan“, verwandt mit dem englischen „to follow“.",
+        "targetText": "Verbul german „folgen“ provine din vechiul german „folgan“ și este înrudit cu englezescul „to follow“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein starkes Verb, das Bewegung oder Handlung des Nachgehens beschreibt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a urma",
+    "definition": "a merge după cineva sau ceva",
+    "pronunciation": "/a ˈurma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a urma“ stammt vom lateinischen „sequi“ ab, was „folgen“ bedeutet.",
+        "targetText": "Verbul românesc „a urma“ derivă din latină, de la „sequi“, însemnând a urma sau a merge după cineva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet, um das Folgen von Personen oder Gedanken zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Folgen als Bewegung",
+      "explanation": {
+        "sourceText": "Wird verwendet, um physisch jemandem zu folgen.",
+        "targetText": "Este folosit pentru a urma fizic pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich folge einem Weg.",
+          "targetText": "Urmăresc un drum."
+        },
+        {
+          "sourceText": "Die Kinder folgen dem Lehrer.",
+          "targetText": "Copiii îl urmează pe profesor."
+        }
+      ]
+    },
+    {
+      "gloss": "Folgen in einer Diskussion",
+      "explanation": {
+        "sourceText": "Wird auch verwendet, um jemandem in einem Gespräch zu folgen.",
+        "targetText": "Este folosit și pentru a urmări o discuție."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kann dir gut folgen.",
+          "targetText": "Pot să te urma bine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Leute",
+      "targetText": "oameni"
+    },
+    {
+      "sourceText": "Richtung",
+      "targetText": "direcție"
+    },
+    {
+      "sourceText": "Schritt",
+      "targetText": "pas"
+    },
+    {
+      "sourceText": "Weg",
+      "targetText": "drum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vorausgehen",
+      "targetText": "preceda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich folge dir nach Hause.",
+      "targetText": "Eu te urma spre casă."
+    },
+    {
+      "sourceText": "Sie sind dem Rat gefolgt.",
+      "targetText": "Ei au urmat sfatul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Folgen“ und „a urma“ sind ähnlich – stell dir vor, du gehst Schritt für Schritt hinter jemandem her."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere, wie du einer Spur („urmă“) folgst, um das Wort „a urma“ zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

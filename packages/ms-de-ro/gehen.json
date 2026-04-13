@@ -1,0 +1,181 @@
+{
+  "id": "ms-de-ro-gehen",
+  "parent": "ms-ro-a-merge-9a4afd5d@e69ffdc547f26f91f01c2f10d47e6271",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gehen",
+    "definition": "sich mit den Füßen fortbewegen",
+    "pronunciation": "/ˈɡeːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „gehen“ stammt vom althochdeutschen „gaen“ ab und ist mit dem lateinischen „ire“ verwandt, was „gehen“ bedeutet.",
+        "targetText": "Verbul german „gehen“ provine din althochdeutsch „gaen“ și este înrudit cu verbul latin „ire“, care înseamnă „a merge“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Wird oft im Zusammenhang mit Bewegung und Fortbewegung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a merge",
+    "definition": "a se deplasa cu picioarele",
+    "pronunciation": "/a ˈmerd͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a merge“ stammt vom lateinischen „mergere“ ab, was „sich bewegen“ oder „gehen“ bedeutet.",
+        "targetText": "Verbul românesc „a merge“ provine din latină, din „mergere“, care înseamnă „a se mișca“ sau „a merge“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "einen Weg zurücklegen",
+      "explanation": {
+        "sourceText": "Kann auch bedeuten, eine Strecke zu gehen.",
+        "targetText": "Poate însemna și a parcurge o distanță."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gehe nach Hause.",
+          "targetText": "Merg acasă."
+        }
+      ]
+    },
+    {
+      "gloss": "sich fortbewegen",
+      "explanation": {
+        "sourceText": "Bedeutet, sich mit den Füßen zu bewegen oder zu laufen.",
+        "targetText": "Înseamnă a se deplasa pe jos sau a merge."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gehe zur Schule.",
+          "targetText": "Merg la școală."
+        }
+      ]
+    },
+    {
+      "gloss": "verbal verwendet",
+      "explanation": {
+        "sourceText": "Wird in verschiedenen Redewendungen verwendet, z. B. „Es geht mir gut“.",
+        "targetText": "Este folosit în diverse expresii, de exemplu „Mie îmi merge bine“."
+      },
+      "examples": [
+        {
+          "sourceText": "Es geht mir gut.",
+          "targetText": "Mie îmi merge bine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "laufen",
+      "targetText": "a alerga"
+    },
+    {
+      "sourceText": "reisen",
+      "targetText": "a călători"
+    },
+    {
+      "sourceText": "springen",
+      "targetText": "a sări"
+    },
+    {
+      "sourceText": "wandern",
+      "targetText": "a hoinări"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe nach Hause.",
+      "targetText": "Eu merg acasă."
+    },
+    {
+      "sourceText": "Gehst du zur Schule?",
+      "targetText": "Mergi la școală?"
+    },
+    {
+      "sourceText": "Er geht oft ins Kino.",
+      "targetText": "El merge adesea la cinema."
+    },
+    {
+      "sourceText": "Wir gehen zusammen spazieren.",
+      "targetText": "Noi mergem împreună la plimbare."
+    },
+    {
+      "sourceText": "Geht ihr morgen schwimmen?",
+      "targetText": "Mergeți mâine la înot?"
+    },
+    {
+      "sourceText": "Sie gehen jeden Sonntag in den Park.",
+      "targetText": "Ei merg în parc în fiecare duminică."
+    },
+    {
+      "sourceText": "Ich bin nach Hause gegangen.",
+      "targetText": "Am mers acasă."
+    },
+    {
+      "sourceText": "Er ging jeden Tag zu Fuß zur Arbeit.",
+      "targetText": "El mergea în fiecare zi pe jos la muncă."
+    },
+    {
+      "sourceText": "Ich werde morgen gehen.",
+      "targetText": "Voi merge mâine."
+    },
+    {
+      "sourceText": "Ich würde gehen, wenn ich Zeit hätte.",
+      "targetText": "Aș merge dacă aș avea timp."
+    },
+    {
+      "sourceText": "Geh jetzt!",
+      "targetText": "Mergi acum!"
+    },
+    {
+      "sourceText": "Die gehende Person ist mein Freund.",
+      "targetText": "Persoana care merge este prietenul meu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a merge“ klingt ähnlich wie „gehen“ – stelle dir vor, wie du mit den Beinen „mergi“ (gehst)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „Mergi!“ als Aufforderung „Geh!“ und „Mergeți!“ als höfliche Mehrzahlform."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a merge“ mit Bewegung: „Ich gehe einkaufen“ = „Merg la cumpărături“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

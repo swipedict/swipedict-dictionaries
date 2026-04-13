@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-heilen",
+  "parent": "ms-ro-a-vindeca-5c1b9185@adb4e5b64eb659db6984f25a7e8e271c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "heilen",
+    "definition": "jemanden von einer Krankheit oder Verletzung befreien",
+    "pronunciation": "/ˈhaɪ̯lən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „heilen“ stammt vom mittelhochdeutschen „heilen“ ab, was „retten“ oder „gesund machen“ bedeutet.",
+        "targetText": "Verbul german „heilen“ provine din mijlocul german „heilen“, care înseamnă „a vindeca“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig im medizinischen oder spirituellen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vindeca",
+    "definition": "a scăpa pe cineva de o boală sau o leziune",
+    "pronunciation": "/a vin.deˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vindeca“ stammt vom lateinischen „vindicare“ ab, was „zurückgewinnen, sich erholen“ bedeutet und auch „verteidigen“ oder „rache nehmen“ heißen kann.",
+        "targetText": "Verbul românesc „a vindeca“ provine din latină „vindicare“, care înseamnă „a recupera“, „a apăra“ sau „a răzbuna“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft in medizinischen und philosophischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Gesundheit wiederherstellen",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Prozess der Genesung.",
+        "targetText": "Se referă la procesul de recuperare a sănătății."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich versuche, die Gesundheit wiederherzustellen.",
+          "targetText": "Încerc să restabilesc sănătatea."
+        }
+      ]
+    },
+    {
+      "gloss": "Heilung / Behandlung",
+      "explanation": {
+        "sourceText": "Das Wort wird oft im Sinne der Heilung von Krankheiten verwendet.",
+        "targetText": "Este folosit pentru a descrie vindecarea bolilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Heilung ist schnell.",
+          "targetText": "Vindecarea este rapidă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Therapie",
+      "targetText": "terapie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verletzen",
+      "targetText": "a răni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich heile die Wunde.",
+      "targetText": "Eu vindec rana."
+    },
+    {
+      "sourceText": "Ich habe ihn geheilt.",
+      "targetText": "L-am vindecat."
+    },
+    {
+      "sourceText": "Ich werde ihn heilen.",
+      "targetText": "Îl voi vindeca."
+    },
+    {
+      "sourceText": "Ich würde ihn heilen, wenn ich könnte.",
+      "targetText": "L-aș vindeca dacă aș putea."
+    },
+    {
+      "sourceText": "Heile die Wunde!",
+      "targetText": "Vindecă rana!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Der rumänische Begriff „a vindeca“ erinnert an „vindicare“ – stell dir vor, wie du etwas zurückgewinnst, z.B. deine Gesundheit."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir das „V“ in „vindeca“ als Anfang für „Verwundete“ – so kannst du es mit Heilung verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

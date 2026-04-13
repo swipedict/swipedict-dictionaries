@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-patient",
+  "parent": "ms-ro-pacient-c81a9c79@d39539d786cb44054b238830903ed921",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Patient",
+    "genus": "masculine",
+    "definition": "Eine Person, die medizinisch behandelt wird oder ärztliche Hilfe benötigt.",
+    "pronunciation": "/paˈt͡si̯ɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Patient“ stammt vom lateinischen 'patiens', Partizip Präsens von 'patior', was 'erleiden' oder 'dulden' bedeutet.",
+        "targetText": "Cuvântul german „Patient” provine din latină, de la 'patiens', participiul prezent al verbului 'patior', care înseamnă 'a suferi' sau 'a îndura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pacient",
+    "genus": "masculine",
+    "definition": "O persoană care primește tratament medical sau are nevoie de asistență medicală.",
+    "pronunciation": "/paˈt͡ʃjent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pacient“ stammt direkt vom lateinischen 'patiens' ab, was 'leidend' bedeutet, und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „pacient” provine direct din latină, de la 'patiens', care înseamnă 'cel care suferă', fiind preluat în română prin intermediul limbii franceze."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Behandlung",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Krankenhaus",
+      "targetText": "spital"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gesunder",
+      "targetText": "sănătos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Patient wartet im Wartezimmer auf den Arzt.",
+      "targetText": "Pacientul așteaptă în sala de așteptare la doctor."
+    },
+    {
+      "sourceText": "Die Ärztin untersucht den Patienten sorgfältig.",
+      "targetText": "Doctorița examinează pacientul cu atenție."
+    },
+    {
+      "sourceText": "Nach der Operation fühlt sich der Patient besser.",
+      "targetText": "După operație, pacientul se simte mai bine."
+    },
+    {
+      "sourceText": "Der Patient muss seine Medikamente regelmäßig einnehmen.",
+      "targetText": "Pacientul trebuie să ia medicamentele regulat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „pacient“ klingt fast gleich wie das deutsche „Patient“. Das hilft dir, es dir leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „pacient“ endet auf '-ent', genau wie im Deutschen, was typisch für viele medizinische Fachbegriffe aus dem Lateinischen ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein „Patient“ erträgt (lat. 'patior') seine Krankheit geduldig – so kommst du auf das lateinische Ursprungswort."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „pacient“ mit dem französischen Wort „patient“, das du vielleicht schon kennst, um die Bedeutung leichter zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

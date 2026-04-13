@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gleichung",
+  "parent": "ms-ro-ecuatie-e1be37b9@e670b791df2460c93ea9be0070da67dd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gleichung",
+    "genus": "feminine",
+    "definition": "Ein mathematischer Ausdruck, der zwei Ausdrücke durch ein Gleichheitszeichen verbindet und aussagt, dass sie gleich sind.",
+    "pronunciation": "/ˈɡlaɪ̯çʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gleichung“ leitet sich vom Adjektiv „gleich“ ab, das aus dem althochdeutschen 'gilīh' stammt und ‚gleich, ebenbürtig‘ bedeutet. Die Endung '-ung' bildet ein Substantiv, das den Vorgang oder das Ergebnis des Gleichmachens bezeichnet.",
+        "targetText": "Cuvântul german „Gleichung“ provine de la adjectivul „gleich“, care derivă din germana veche înaltă 'gilīh', însemnând 'egal, de aceeași valoare'. Sufixul '-ung' formează un substantiv care indică acțiunea sau rezultatul de a face egal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ecuație",
+    "genus": "feminine",
+    "definition": "O expresie matematică care afirmă egalitatea a două expresii prin semnul egalității.",
+    "pronunciation": "/ekuˈaʦje/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ecuație“ stammt vom lateinischen 'aequatio', abgeleitet von 'aequare' (gleichmachen, ausgleichen), was die mathematische Bedeutung der Gleichheit widerspiegelt.",
+        "targetText": "Cuvântul românesc „ecuație” provine din latină, de la 'aequatio', derivat din 'aequare' care înseamnă 'a face egal, a echilibra', reflectând sensul matematic al egalității."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Formel",
+      "targetText": "formulă"
+    },
+    {
+      "sourceText": "Gleichheit",
+      "targetText": "egalitate"
+    },
+    {
+      "sourceText": "Mathematik",
+      "targetText": "matematică"
+    },
+    {
+      "sourceText": "Variable",
+      "targetText": "variabilă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Gleichung x + 2 = 5 ist einfach zu lösen.",
+      "targetText": "Ecuația x + 2 = 5 este ușor de rezolvat."
+    },
+    {
+      "sourceText": "In der Algebra lernt man, wie man Gleichungen auflöst.",
+      "targetText": "În algebră înveți cum să rezolvi ecuații."
+    },
+    {
+      "sourceText": "Diese Gleichung hat zwei Lösungen.",
+      "targetText": "Această ecuație are două soluții."
+    },
+    {
+      "sourceText": "Die Gleichung beschreibt die Beziehung zwischen den Variablen.",
+      "targetText": "Ecuația descrie relația dintre variabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Gleichung“ enthält ‚gleich‘, was dir hilft, die rumänische „ecuație“ als Ausdruck von Gleichheit zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚aequatio‘ bedeutet ‚Gleichmachen‘ – denk an ‚aqua‘ (Wasser), das sich überall gleich verteilt, um die Idee von Gleichheit zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ecuație“ klingt ähnlich wie das englische „equation“, was dir hilft, die Bedeutung als mathematische Gleichung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „equatest“ (englisch ‚ausgleichen‘) zwei Seiten einer Waage – so merkst du dir, dass „ecuație“ etwas Gleiches oder Ausgeglichenes bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

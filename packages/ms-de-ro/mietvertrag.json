@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-mietvertrag",
+  "parent": "ms-ro-contract-de-inchiriere-154ef41c@8a3b495bd942bb5d39fc9f2675d1f1e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mietvertrag",
+    "genus": "masculine",
+    "definition": "Ein rechtsverbindlicher Vertrag, der die Bedingungen für die Vermietung einer Immobilie oder eines Gegenstands zwischen Vermieter und Mieter regelt.",
+    "pronunciation": "/ˈmiːt.fɛɐ̯ˌtraːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Mietvertrag“ setzt sich aus „Miete“ (vom althochdeutschen 'mīza', entlehnt aus dem Lateinischen) und „Vertrag“ (vom mittelhochdeutschen 'verdrac', abgeleitet vom althochdeutschen 'firtrah') zusammen.",
+        "targetText": "Cuvântul german „Mietvertrag“ este compus din „Miete“ (din vechea germană înaltă 'mīza', împrumutat din latină) și „Vertrag“ (din germana mijlocie 'verdrac', derivat din germana înaltă veche 'firtrah')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "contract de închiriere",
+    "genus": "neuter",
+    "definition": "Un acord legal între proprietar și chiriaș care stabilește condițiile pentru închirierea unei proprietăți sau a unui bun.",
+    "pronunciation": "/konˈtrakt de ɨn.ki.riˈe.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „contract“ stammt direkt vom lateinischen 'contractus' ab, was 'Zusammenziehen' oder 'Abkommen' bedeutet. „Închiriere“ leitet sich vom lateinischen 'in-cirare' ab, was 'umkreisen' oder 'umgeben' bedeutet, hier übertragen als 'Miete'.",
+        "targetText": "Cuvântul românesc „contract“ provine direct din latină, din 'contractus', care înseamnă 'a strânge împreună' sau 'înțelegere'. „Închiriere“ derivă din latină prin prefixul 'in-' și verbul 'cirare' (a înconjura), folosit aici cu sensul de 'a da în folosință contra plată'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Miete",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "Mieter",
+      "targetText": "chiriaș"
+    },
+    {
+      "sourceText": "Vermieter",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Mietvertrag wurde gestern unterschrieben.",
+      "targetText": "Contractul de închiriere a fost semnat ieri."
+    },
+    {
+      "sourceText": "Im Mietvertrag stehen alle Rechte und Pflichten von Mieter und Vermieter.",
+      "targetText": "În contractul de închiriere sunt stipulate toate drepturile și obligațiile chiriașului și proprietarului."
+    },
+    {
+      "sourceText": "Der Mietvertrag gilt für ein Jahr mit der Option auf Verlängerung.",
+      "targetText": "Contractul de închiriere este valabil pentru un an, cu opțiunea de prelungire."
+    },
+    {
+      "sourceText": "Bitte lesen Sie den Mietvertrag sorgfältig durch, bevor Sie unterschreiben.",
+      "targetText": "Vă rugăm să citiți cu atenție contractul de închiriere înainte de a semna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „contract“ klingt fast wie das deutsche „Kontrakt“ – beide stammen vom lateinischen 'contractus' ab, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „închiriere“ beginnt mit 'în-', was oft eine Richtung oder Bewegung nach innen anzeigt – hier bedeutet es, etwas für eine Zeit 'hineinzugeben' (zu mieten)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du schließt einen Vertrag ab, der dich 'in' etwas 'einkreist' – so kannst du dir das Wort „închiriere“ als ‚Miete‘ merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „contract de închiriere“ mit dem deutschen Begriff ‚Mietvertrag‘, indem du dir vorstellst, wie zwei Parteien einen Vertrag (contract) für die Nutzung (închiriere) einer Wohnung abschließen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

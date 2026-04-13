@@ -1,0 +1,167 @@
+{
+  "id": "ms-de-ro-schule",
+  "parent": "ms-ro-scoala-3198cc3e@c6414b81832e4da68440a15724a9ede8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schule",
+    "genus": "feminine",
+    "definition": "ein Ort, an dem Schüler unterrichtet werden",
+    "pronunciation": "/ʃuːlə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schule“ stammt vom lateinischen „schola“, was „Lernort“ oder „Bildungseinrichtung“ bedeutet und ist im Indogermanischen verwandt mit „*klō-“, was „rufen“ oder „laden“ bedeutet.",
+        "targetText": "Cuvântul german „Schule“ provine din latină „schola“, care înseamnă „loc de învățare“ sau „instituție educațională“, fiind legat de rădăcina indo-europeană „*klō-“, care înseamnă „a chema“ sau „a invita“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schulen sind Orte des Lernens."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "școală",
+    "genus": "feminine",
+    "definition": "un loc unde elevii sunt învățați",
+    "pronunciation": "/ˈʃkoa.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „școală“ stammt ebenfalls vom lateinischen „schola“ ab und bezieht sich auf eine Bildungseinrichtung oder Schule.",
+        "targetText": "Cuvântul românesc „școală“ provine tot din latină, din „schola“, și desemnează o instituție de învățământ."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Schulen fördern Bildung und Wissen."
+  },
+  "senses": [
+    {
+      "gloss": "Elementarschule",
+      "explanation": {
+        "sourceText": "'Schule' bezieht sich oft auf die Grundschule.",
+        "targetText": "„Școală“ se referă adesea la școala primară."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Elementarschule ist der Beginn der Bildung.",
+          "targetText": "Școala elementară este începutul educației."
+        }
+      ]
+    },
+    {
+      "gloss": "Schule",
+      "explanation": {
+        "sourceText": "Ort für formales Lernen.",
+        "targetText": "Loc pentru învățare formală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gehe zur Schule.",
+          "targetText": "Merg la școală."
+        },
+        {
+          "sourceText": "Die Lehrer in unserer Schule sind sehr nett.",
+          "targetText": "Profesorii de la școala noastră sunt foarte drăguți."
+        }
+      ]
+    },
+    {
+      "gloss": "Schulklasse",
+      "explanation": {
+        "sourceText": "'Schule' kann sich auch auf eine Schulklasse beziehen.",
+        "targetText": "„Școală“ poate desemna și o clasă școlară."
+      },
+      "examples": [
+        {
+          "sourceText": "Meine Klasse macht einen Ausflug.",
+          "targetText": "Clasa mea face o excursie."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Klasse",
+      "targetText": "clasă"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schüler",
+      "targetText": "elev"
+    },
+    {
+      "sourceText": "Unterricht",
+      "targetText": "lecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Universität",
+      "targetText": "facultate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Schule beginnt um acht Uhr.",
+      "targetText": "Școala începe la ora opt."
+    },
+    {
+      "sourceText": "In der Schule lerne ich viele neue Dinge.",
+      "targetText": "La școală învăț multe lucruri noi."
+    },
+    {
+      "sourceText": "Die Lehrer in unserer Schule sind sehr nett.",
+      "targetText": "Profesorii de la școala noastră sunt foarte drăguți."
+    },
+    {
+      "sourceText": "Ich gehe nach der Schule zum Sport.",
+      "targetText": "Merg la sport după școală."
+    },
+    {
+      "sourceText": "Schule ist wichtig für die Zukunft.",
+      "targetText": "Școala este importantă pentru viitor."
+    },
+    {
+      "sourceText": "In der Schule gibt es viele Fächer.",
+      "targetText": "La școală sunt multe materii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „școală“ klingt fast wie „Schule“ – diese Ähnlichkeit hilft dir, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass Schule Bildung fördert und dass „școală“ eine zentrale Rolle im Lernen spielt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „școală“ vom lateinischen „schola“ stammt – so kannst du die Verbindung zur Bildung besser behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir eine „Scholarly“ Institution vor, um die Bedeutung von „școală“ als Lernort zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

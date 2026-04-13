@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-grad-temperatur",
+  "parent": "ms-ro-grad-e6f9533f@5f34e77bf7fd301290c08b62a984316b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "lexicographer-ai",
+    "source": "custom-dictionary-grad-temperatur",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Grad",
+    "genus": "masculine",
+    "definition": "Eine Maßeinheit für Temperatur oder Winkel, die einen bestimmten Abschnitt auf einer Skala angibt.",
+    "pronunciation": "/ɡʁaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Grad“ stammt vom lateinischen 'gradus' ab, was 'Schritt' oder 'Stufe' bedeutet.",
+        "targetText": "Cuvântul german „Grad“ provine din latină, din 'gradus', care înseamnă 'pas' sau 'treaptă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "grad",
+    "genus": "neuter",
+    "definition": "Unitate de măsură pentru temperatură sau unghi, indicând o anumită porțiune pe o scară.",
+    "pronunciation": "/ɡrad/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „grad“ stammt direkt vom lateinischen 'gradus' ab, mit der Bedeutung 'Schritt' oder 'Stufe'.",
+        "targetText": "Cuvântul românesc „grad“ provine direct din latină, din 'gradus', cu sensul de 'pas' sau 'treaptă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Messung",
+      "targetText": "măsurare"
+    },
+    {
+      "sourceText": "Skala",
+      "targetText": "scară"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "Winkel",
+      "targetText": "unghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Temperatur beträgt 20 Grad Celsius.",
+      "targetText": "Temperatura este de 20 de grade Celsius."
+    },
+    {
+      "sourceText": "Ein rechter Winkel hat 90 Grad.",
+      "targetText": "Un unghi drept are 90 de grade."
+    },
+    {
+      "sourceText": "Die Skala ist in Grad unterteilt.",
+      "targetText": "Scala este împărțită în grade."
+    },
+    {
+      "sourceText": "Die Außentemperatur ist heute 15 Grad.",
+      "targetText": "Temperatura exterioară este astăzi de 15 grade."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'gradus' bedeutet Schritt – so kannst du dir merken, dass 'grad' eine Einheit ist, die einen Schritt auf einer Skala beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'grad' ist identisch mit dem deutschen Wort und bedeutet ebenfalls 'Stufe' oder 'Grad', was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird 'grad' sowohl für Temperatur als auch für Winkel verwendet, genau wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine Treppe mit vielen 'Graden' (Stufen) vor, um die Bedeutung von 'grad' als Maßeinheit zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

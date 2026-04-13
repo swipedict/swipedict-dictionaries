@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-gelingen",
+  "parent": "ms-ro-a-reusi-c5bff3d8@515ed8b871af8dc94ee5e63531640380",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gelingen",
+    "definition": "erfolgreich sein bei etwas, was man versucht hat",
+    "pronunciation": "/ɡəˈlɪŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „gelingen“ stammt vom mittelhochdeutschen „gelingen“ ab und bedeutet „erfolgreich sein“.",
+        "targetText": "Verbul german „gelingen“ provine din germana mijlocie „gelingen“ și înseamnă „a avea succes“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft verwendet, um das erfolgreiche Erreichen eines Ziels auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reuși",
+    "definition": "a avea succes în ceva ce ai încercat",
+    "pronunciation": "/a re.uˈʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a reuși“ stammt vom lateinischen „recedere“ ab, mit der Bedeutung des erfolgreichen Standhaltens oder Vorankommens.",
+        "targetText": "Verbul românesc „a reuși“ provine probabil din latină „recedere“, cu sensul de a rezista cu succes sau a avansa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Prävalent in der Sprache, um das Erreichen eines Ziels oder Erfolgs zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "ein Ziel erreichen",
+      "explanation": {
+        "sourceText": "Das Erreichen eines festgelegten Ziels.",
+        "targetText": "Atingerea unui obiectiv stabilit."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir gelingen, unser Ziel zu erreichen.",
+          "targetText": "Reușim să ne atingem obiectivul."
+        }
+      ]
+    },
+    {
+      "gloss": "Erfolg haben",
+      "explanation": {
+        "sourceText": "Verwendet, um Erfolg bei einem Versuch auszudrücken.",
+        "targetText": "Folosit pentru a exprima succesul într-o încercare."
+      },
+      "examples": [
+        {
+          "sourceText": "Es gelingt mir, die Prüfung zu bestehen.",
+          "targetText": "Reușesc să trec examenul."
+        },
+        {
+          "sourceText": "Gelingt es dir, rechtzeitig zu kommen?",
+          "targetText": "Reușești să ajungi la timp?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erfolg",
+      "targetText": "succes"
+    },
+    {
+      "sourceText": "Scheitern",
+      "targetText": "eșec"
+    },
+    {
+      "sourceText": "Versuch",
+      "targetText": "încercare"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "țel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "misslingen",
+      "targetText": "a eșua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es gelingt mir, die Prüfung zu bestehen.",
+      "targetText": "Reușesc să trec examenul."
+    },
+    {
+      "sourceText": "Gelingt es dir, rechtzeitig zu kommen?",
+      "targetText": "Reușești să ajungi la timp?"
+    },
+    {
+      "sourceText": "Es gelingt ihm, das Problem zu lösen.",
+      "targetText": "Reușește să rezolve problema."
+    },
+    {
+      "sourceText": "Wir gelingen, unser Ziel zu erreichen.",
+      "targetText": "Reușim să ne atingem obiectivul."
+    },
+    {
+      "sourceText": "Gelingt euch, den Test zu bestehen?",
+      "targetText": "Reușiți să treceți testul?"
+    },
+    {
+      "sourceText": "Sie gelingen, die Herausforderung zu meistern.",
+      "targetText": "Reușesc să depășească provocarea."
+    },
+    {
+      "sourceText": "Ich habe es endlich geschafft!",
+      "targetText": "În sfârșit, am reușit!"
+    },
+    {
+      "sourceText": "Ich werde es schaffen.",
+      "targetText": "Voi reuși."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Gelingen“ und „a reuși“ bedeuten Erfolg – stelle dir vor, wie du etwas erfolgreich machst, um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensformen „reușesc, reușești“ – so behältst du die Konjugation gut im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

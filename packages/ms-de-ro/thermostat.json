@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-thermostat",
+  "parent": "ms-ro-termostat-064e358f@f1f366a1fd9c6329f5c2faa46cbe1715",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:greek",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Thermostat",
+    "genus": "masculine",
+    "definition": "Ein Gerät, das die Temperatur automatisch regelt, indem es Heiz- oder Kühlsysteme steuert.",
+    "pronunciation": "/tɛʁˈmoːstat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Thermostat“ stammt aus dem Griechischen, zusammengesetzt aus 'thermē' (Wärme) und 'statos' (stehend, feststehend), und wurde im 19. Jahrhundert in der Technik übernommen.",
+        "targetText": "Cuvântul „termostat” provine din greaca veche, compus din 'thermē' (căldură) și 'statos' (stabil, fix), fiind preluat în secolul al XIX-lea în domeniul tehnic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "termostat",
+    "genus": "neuter",
+    "definition": "Un dispozitiv care reglează automat temperatura prin controlul sistemelor de încălzire sau răcire.",
+    "pronunciation": "/termosˈtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „termostat“ wurde direkt aus dem Griechischen entlehnt, über das Französische, wobei 'thermē' für Wärme und 'statos' für feststehend steht.",
+        "targetText": "Cuvântul românesc „termostat” este împrumutat direct din greacă, prin franceză, unde 'thermē' înseamnă căldură, iar 'statos' înseamnă fix, stabil."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Klimaanlage",
+      "targetText": "aer condiționat"
+    },
+    {
+      "sourceText": "Regler",
+      "targetText": "regulator"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Thermostat regelt die Raumtemperatur automatisch.",
+      "targetText": "Termostatul reglează automat temperatura camerei."
+    },
+    {
+      "sourceText": "Ich habe das Thermostat auf 22 Grad eingestellt.",
+      "targetText": "Am setat termostatul la 22 de grade."
+    },
+    {
+      "sourceText": "Ein defektes Thermostat kann die Heizung beeinträchtigen.",
+      "targetText": "Un termostat defect poate afecta încălzirea."
+    },
+    {
+      "sourceText": "Moderne Thermostate sind oft programmierbar.",
+      "targetText": "Termostatele moderne sunt adesea programabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das griechische 'thermē' bedeutet Wärme – wenn du an Thermometer denkst, kannst du dir leicht merken, dass es mit Temperatur zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „termostat“ klingt fast gleich im Deutschen und Rumänischen – denk an „Thermo“ für Wärme und „stat“ für stabil, also ein Gerät, das die Temperatur stabil hält."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird das Wort fast genauso geschrieben und ausgesprochen – das macht es einfacher, sich daran zu erinnern und im Alltag zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, das Thermostat ist wie ein Wächter, der die Wärme 'steht' und nicht zulässt, dass sie zu hoch oder zu niedrig wird – so hilft dir das griechische 'statos' beim Merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

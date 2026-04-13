@@ -1,0 +1,177 @@
+{
+  "id": "ms-de-ro-schenken",
+  "parent": "ms-ro-a-darui-f8550b0b@3f633ff1587f81f8ab727d7bf28c9556",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schenken",
+    "definition": "jemandem etwas geben, ohne eine Gegenleistung zu erwarten",
+    "pronunciation": "/ˈʃɛŋkn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „schenken“ hat germanische Wurzeln, abgeleitet von „skenka“, was „geben“ bedeutet. Es ist verwandt mit „schank“ und „Scheken“, die ein „das Geben“ bezeichnen. Umfasst auch die Idee des Gebens ohne Erwartung einer Gegenleistung.",
+        "targetText": "Cuvântul german „schenken“ provine din rădăcini germanice, derivat din „skenka“, care înseamnă „a da“. Este legat de „schank“ și „Scheken“, care desemnează actul de a da fără a aștepta ceva în schimb."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist stark konjugiert und wird oft im Kontext von Geschenken verwendet, z.B. „Ich schenke dir ein Buch“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a dărui",
+    "definition": "a oferi cuiva ceva fără a aștepta o contrapartidă",
+    "pronunciation": "/a dəruˈi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „a dărui“ stammt von dem lateinischen „donare“, was „geben“ oder „schenken“ bedeutet. Es ist verwandt mit den romanischen Sprachen und drückt die Idee des Schenkens aus persönlichen Gründen aus.",
+        "targetText": "Verbul românesc „a dărui“ derivă din latinul „donare“, care înseamnă „a da“ sau „a dărui“. Este folosit pentru a exprima actul de a oferi ceva fără a aștepta ceva în schimb."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Dărui“ sind oft Geschenke, die von Herzen kommen, und es ist wichtig, die Wertschätzung zu zeigen, wenn man etwas dartut."
+  },
+  "senses": [
+    {
+      "gloss": "Darbietung",
+      "explanation": {
+        "sourceText": "Ein Geschenk als Ausdruck von Wohlwollen.",
+        "targetText": "Un dar ca expresie a bunăvoinței."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie schenkt jedem ein Lächeln.",
+          "targetText": "Ea dăruiește fiecăruia un zâmbet."
+        }
+      ]
+    },
+    {
+      "gloss": "Geschenk",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für Gegenstände, die man jemandem schenkt.",
+        "targetText": "Ca și în germană: pentru obiecte oferite cuiva ca dar."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schenke dir ein Geschenk.",
+          "targetText": "Îți dăruiesc un cadou."
+        }
+      ]
+    },
+    {
+      "gloss": "Schenken ohne Erwartung",
+      "explanation": {
+        "sourceText": "Aktion, etwas zu geben, ohne dass eine Rückgabe erwartet wird.",
+        "targetText": "Acțiunea de a oferi ceva fără a aștepta o recompensă."
+      },
+      "examples": [
+        {
+          "sourceText": "Er schenkt ihr Blumen.",
+          "targetText": "El îi dăruiește flori."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Feier",
+      "targetText": "sărbătoare"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Lächeln",
+      "targetText": "zâmbet"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schenke dir ein Buch.",
+      "targetText": "Îți dăruiesc o carte."
+    },
+    {
+      "sourceText": "Schenkst du mir deinen alten Pullover?",
+      "targetText": "Îmi dăruiești puloverul tău vechi?"
+    },
+    {
+      "sourceText": "Er schenkt seiner Mutter einen Ring.",
+      "targetText": "El îi dăruiește mamei sale un inel."
+    },
+    {
+      "sourceText": "Wir schenken unserer besten Freundin Blumen.",
+      "targetText": "Noi dăruim florile prietenei noastre cele mai bune."
+    },
+    {
+      "sourceText": "Schenkt ihr eurer Lehrerin einen Apfel?",
+      "targetText": "Îi dăruiți dascălului vostru un măr?"
+    },
+    {
+      "sourceText": "Sie schenken ihren Gästen zahlreiche Geschenke.",
+      "targetText": "Ei dăruiesc o mulțime de cadouri oaspeților lor."
+    },
+    {
+      "sourceText": "Ich habe dir ein Überraschungsgeschenk geschenkt.",
+      "targetText": "Ți-am dăruit un cadou surpriză."
+    },
+    {
+      "sourceText": "Er schenkte seiner Freundin oft Spielzeuge.",
+      "targetText": "El dăruia adesea jucării prietenei sale."
+    },
+    {
+      "sourceText": "Ich werde dir eine schöne Tasse schenken.",
+      "targetText": "Îți voi dărui o cană frumoasă."
+    },
+    {
+      "sourceText": "Ich würde dir ein Geschenk kaufen, wenn ich Zeit hätte.",
+      "targetText": "Ți-aș cumpăra un cadou dacă aș avea timp."
+    },
+    {
+      "sourceText": "Schenke mir eine schöne Handarbeit!",
+      "targetText": "Dăruiește-mi o lucrare frumoasă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Schenken“ und „a dărui“ sind leicht zu verbinden, da beide Begriffe das Geben ohne Gegenleistung ausdrücken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „dărui“ oft mit persönlichen Gefühlen verbunden ist – es ist eine herzliche Art des Schenkens!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz: „Dacă îi dăruiesc cadouri, o să îmi mulțumească!“ – so verknüpfst du das Verb mit einer Alltagssituation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

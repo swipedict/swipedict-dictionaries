@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-erfuellen",
+  "parent": "ms-ro-a-indeplini-a5e12225@1a4812e2f9ecee972ef2f034a5f10926",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erfüllen",
+    "definition": "eine Aufgabe oder Anforderung erfolgreich ausführen",
+    "pronunciation": "/ɛɐ̯ˈfʏlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von „voll“ und „füllen“. Die Bedeutung impliziert das Befriedigen eines Bedürfnisses oder das Ausführen einer Pflicht oder Aufgabe.",
+        "targetText": "Derivat din cuvintele „voll“ (plin) și „füllen“ (a umple), „erfüllen“ înseamnă a îndeplini o cerință sau o sarcină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet in Kontexten, in denen Anforderungen oder Erwartungen erfüllt werden. Beispiel: \"Die Bedingungen erfüllen\"."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îndeplini",
+    "definition": "a executa cu succes o sarcină sau o cerință",
+    "pronunciation": "/a ɨndɛlˈini/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „impleo“ (füllen, vollmachen) abgeleitet, entwickelte sich „îndeplini“ im Rumänischen zur Bezeichnung des Erfüllens von Aufgaben oder Wünschen.",
+        "targetText": "Derivat din verbul latin „impleo“ (a umple), „a îndeplini“ desemnează acțiunea de a îndeplini o sarcină sau o dorință."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird verwendet, um das Erfüllen von Bedingungen oder Anforderungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Aufgabe erfolgreich durchführen",
+      "explanation": {
+        "sourceText": "Bedeutet, eine Aufgabe erfolgreich zu erledigen.",
+        "targetText": "A realiza cu succes o sarcină."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss meine Aufgabe erfüllen.",
+          "targetText": "Trebuie să îndeplinesc sarcina."
+        }
+      ]
+    },
+    {
+      "gloss": "Bedingungen erfüllen",
+      "explanation": {
+        "sourceText": "Kann auch in Kontexten verwendet werden, in denen bestimmte Bedingungen erfolgreich eingehalten werden.",
+        "targetText": "Se poate folosi când anumite condiții sunt îndeplinite cu succes."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Anforderungen an die Qualität wurden erfüllt.",
+          "targetText": "Cerințele de calitate au fost îndeplinite."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anforderung",
+      "targetText": "cerință"
+    },
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Schuld",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "Verpflichtung",
+      "targetText": "obligație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht erfüllen",
+      "targetText": "să nu îndeplinească"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erfülle die Anforderungen.",
+      "targetText": "Eu îndeplinesc cerințele."
+    },
+    {
+      "sourceText": "Ich habe das Formular bereits erfüllt.",
+      "targetText": "Am îndeplinit deja formularul."
+    },
+    {
+      "sourceText": "Ich werde die Aufgabe morgen erfüllen.",
+      "targetText": "Voi îndeplini sarcina mâine."
+    },
+    {
+      "sourceText": "Erfülle deine Pflichten!",
+      "targetText": "Îndeplinește-ți obligațiile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische „impleo“ steckt in „îndeplini“ – denke an das Füllen und Erfüllen von Aufgaben."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „erfüllen“ mit „a îndeplini“ durch das Bild, eine Schüssel zu füllen – so merkst du dir die Bedeutung von „erfüllen“ als „ausführen“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

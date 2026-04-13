@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-bieten",
+  "parent": "ms-ro-a-oferi-d5551e19@37acae50d3cdc4ab1364ee41519c2e28",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bieten",
+    "definition": "etwas zur Verfügung stellen oder anbieten",
+    "pronunciation": "/ˈbiːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „bieten“ stammt vom mittelhochdeutschen „bieten“, was „darreichen“ oder „vorlegen“ bedeutet.",
+        "targetText": "Verbul german „bieten“ provine din mijlocul german și înseamnă „a oferi“ sau „a prezenta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um Angebote oder Möglichkeiten auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a oferi",
+    "definition": "a pune ceva la dispoziție sau a prezenta",
+    "pronunciation": "/a o̯eˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a oferi“ leitet sich vom lateinischen „offerre“ ab, was „darreichen“ oder „übergeben“ bedeutet. Es hat einen starken Einfluss auf die rumänische Sprache.",
+        "targetText": "Verbul românesc „a oferi“ provine din latină, din „offerre“, care înseamnă „a oferi“ sau „a da“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es ist ein häufig verwendetes Verb, insbesondere in wirtschaftlichen oder sozialen Kontexten, um ein Angebot zu machen."
+  },
+  "senses": [
+    {
+      "gloss": "Angebot",
+      "explanation": {
+        "sourceText": "Für die Bedeutung eines Angebots oder einer Möglichkeit.",
+        "targetText": "Folosit pentru a exprima un oferit sau o posibilitate."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache dir ein Angebot.",
+          "targetText": "Îți fac o ofertă."
+        }
+      ]
+    },
+    {
+      "gloss": "Pauschale",
+      "explanation": {
+        "sourceText": "Verwendet, um Pauschalangebote zu beschreiben.",
+        "targetText": "Folosit pentru a descrie oferte fixe."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir bieten eine Pauschale an.",
+          "targetText": "Oferim o ofertă fixă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Angebot",
+      "targetText": "ofertă"
+    },
+    {
+      "sourceText": "Dienstleistung",
+      "targetText": "serviciu"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich biete dir meine Hilfe an.",
+      "targetText": "Îți ofer ajutorul meu."
+    },
+    {
+      "sourceText": "Bietest du mir deine Unterstützung an?",
+      "targetText": "Îmi oferi sprijinul tău?"
+    },
+    {
+      "sourceText": "Er bietet einen klaren Vorschlag.",
+      "targetText": "El oferă o propunere clară."
+    },
+    {
+      "sourceText": "Wir bieten unsere Produkte online an.",
+      "targetText": "Oferim produsele noastre online."
+    },
+    {
+      "sourceText": "Bietet ihr den neuen Service an?",
+      "targetText": "Oferiți noul serviciu?"
+    },
+    {
+      "sourceText": "Sie bieten eine breite Palette von Dienstleistungen an.",
+      "targetText": "Ei oferă o gamă largă de servicii."
+    },
+    {
+      "sourceText": "Ich habe dir die Möglichkeit angeboten.",
+      "targetText": "Ți-am oferit oportunitatea."
+    },
+    {
+      "sourceText": "Er bot seine Hilfe an, wann immer er konnte.",
+      "targetText": "El oferea ajutorul său de fiecare dată când putea."
+    },
+    {
+      "sourceText": "Ich werde dir ein gutes Angebot machen.",
+      "targetText": "Îți voi face o ofertă bună."
+    },
+    {
+      "sourceText": "Biete deine beste Leistung!",
+      "targetText": "Oferă cea mai bună performanță!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a oferi“ klingt ähnlich wie „offern“ im Deutschen – denk daran, dass du jemandem etwas anbietest oder gibst."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „oferta“ (Angebot) mit „a oferi“ – so merkst du dir das Verb leichter!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

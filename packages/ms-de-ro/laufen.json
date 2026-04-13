@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-laufen",
+  "parent": "ms-ro-a-alerga-623017c2@889b9ea9cf209acee5d8504d09296764",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "laufen",
+    "definition": "sich schnell zu Fuß fortbewegen",
+    "pronunciation": "/ˈlaʊfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „laufen“ stammt vom althochdeutschen „lufōn“, was „laufen, sich bewegen“ bedeutet, und ist verwandt mit mittelhochdeutschen und niederländischen Formen.",
+        "targetText": "Verbul „laufen“ provine din germana veche „lufōn“, care înseamnă „a alerga, a se mișca“, fiind înrudit cu forme din germana mijlocie și olandeza."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, um die physische Bewegung von Personen oder Tieren zu beschreiben. Es ist ein häufiges Verb im Alltagsgebrauch und in verschiedenen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a alerga",
+    "definition": "a se deplasa rapid pe jos",
+    "pronunciation": "/a leʁˈɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a alerga“ stammt vom lateinischen „allegare“ (beschleunigen) ab und wird verwendet, um schnelles Laufen oder Rennen zu beschreiben.",
+        "targetText": "Verbul românesc „a alerga“ provine din latină, de la „allegare“ (a accelera), fiind folosit pentru a descrie alergarea rapidă."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird oft verwendet, um sowohl das Laufen als auch das Beschleunigen oder Rennen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "rennt",
+      "explanation": {
+        "sourceText": "Im Sinne von schnell bewegen.",
+        "targetText": "În sensul de a se mișca rapid."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich renne schnell.",
+          "targetText": "Alerg repede."
+        }
+      ]
+    },
+    {
+      "gloss": "schleunigen",
+      "explanation": {
+        "sourceText": "Das bedeutet, sich schneller zu bewegen oder zu bewegen.",
+        "targetText": "Înseamnă a se mișca mai repede."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss mich beschleunigen.",
+          "targetText": "Trebuie să mă grăbesc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "gehen",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "rennen",
+      "targetText": "a alerga rapid"
+    },
+    {
+      "sourceText": "springen",
+      "targetText": "a sări"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich laufe jeden Morgen.",
+      "targetText": "Alerg în fiecare dimineață."
+    },
+    {
+      "sourceText": "Ich bin gestern gelaufen.",
+      "targetText": "Am alergat ieri."
+    },
+    {
+      "sourceText": "Ich werde morgen laufen.",
+      "targetText": "Voi alerga mâine."
+    },
+    {
+      "sourceText": "Ich würde laufen, wenn es nicht regnet.",
+      "targetText": "Aș alerga dacă nu plouă."
+    },
+    {
+      "sourceText": "Während ich laufe, höre ich Musik.",
+      "targetText": "Alergând, ascult muzică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A alerga“ klingt wie „Ausschnitt“ und bedeutet „laufen“ – stell dir vor, du machst einen schnellen Sprint, das hilft beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du läufst einen Wettkampf („Sprint“ = „alergare“) – so bleibt das Wort lebendig im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe das Wort mit einem Bild von einem Wettlauf – gleich um die Ecke!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

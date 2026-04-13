@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gewitter",
+  "parent": "ms-ro-furtuna-79e7039f@d7e25f63913d2649c39aa5a84da8c160",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gewitter",
+    "genus": "neuter",
+    "definition": "Ein Wetterereignis mit Blitz, Donner und oft starkem Regen.",
+    "pronunciation": "/ɡəˈvɪtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gewitter“ stammt vom mittelhochdeutschen 'gewittern' ab, das 'stürmisches Wetter' bedeutet und auf das althochdeutsche 'wittar' zurückgeht.",
+        "targetText": "Cuvântul german „Gewitter” provine din germana mijlocie 'gewittern', însemnând 'vreme furtunoasă', derivat din germana veche înaltă 'wittar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "furtună",
+    "genus": "feminine",
+    "definition": "Fenomen meteorologic cu fulgere, tunete și adesea ploaie puternică.",
+    "pronunciation": "/furˈtunə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „furtună“ stammt vom lateinischen 'fortuna' ab, das ursprünglich 'Schicksal' bedeutete, sich aber im Rumänischen auf stürmisches Wetter bezog.",
+        "targetText": "Cuvântul românesc „furtună” provine din latină 'fortuna', care inițial însemna 'soartă', dar în română a ajuns să desemneze o vreme furtunoasă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Blitz",
+      "targetText": "fulger"
+    },
+    {
+      "sourceText": "Donner",
+      "targetText": "tunet"
+    },
+    {
+      "sourceText": "Regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "Wetter",
+      "targetText": "vreme"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Gewitter begann mit einem lauten Donner.",
+      "targetText": "Furtuna a început cu un tunet puternic."
+    },
+    {
+      "sourceText": "Bei Gewitter sollte man nicht draußen sein.",
+      "targetText": "La furtună nu ar trebui să fii afară."
+    },
+    {
+      "sourceText": "Das Gewitter brachte starken Regen mit sich.",
+      "targetText": "Furtuna a adus ploaie puternică."
+    },
+    {
+      "sourceText": "Nach dem Gewitter kam wieder die Sonne heraus.",
+      "targetText": "După furtună a ieșit din nou soarele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „furtună“ klingt ähnlich wie das deutsche Wort „Fortuna“, die römische Glücksgöttin – denk an das unvorhersehbare Wetter."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „furtună“ ist feminin – also sagt man „o furtună“ für ein Gewitter."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „furtună“ als stürmisches Wetter, das wie das Schicksal (Fortuna) plötzlich und heftig kommt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Gewitter“ mit „furtună“ durch das Bild von Blitz und Donner, die eine stürmische Atmosphäre schaffen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

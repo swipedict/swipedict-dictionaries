@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-quaelen",
+  "parent": "ms-ro-a-chinui-f3bd0d44@88e0305432f244965e450aca032d0e22",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:hungarian",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "quälen",
+    "definition": "jemanden durch Schmerz oder Sorge leiden lassen",
+    "pronunciation": "/ˈkveːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „quälen“ stammt vom mittelhochdeutschen „quälen“ ab, das vom althochdeutschen „quālōn“ kommt und „plagen“ oder „foltern“ bedeutet.",
+        "targetText": "Verbul german „quälen“ provine din mijlocul germanului „quälen“, derivat din althochdeutsch „quālōn“, care înseamnă a chinui sau a tortura."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig im emotionalen oder physischen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a chinui",
+    "definition": "a provoca durere sau suferință cuiva",
+    "pronunciation": "/a kɪˈnui/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a chinui“ stammt vom ungarischen „kín“ ab, was „Folter“ oder „Qual“ bedeutet, und beschreibt sowohl physischen als auch emotionalen Schmerz.",
+        "targetText": "Verbul românesc „a chinui“ provine din maghiara „kín“, care înseamnă tortură sau suferință, și exprimă durere fizică sau emoțională."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Oft verwendet, wenn man von Stress oder Leiden spricht."
+  },
+  "senses": [
+    {
+      "gloss": "Foltern",
+      "explanation": {
+        "sourceText": "Kann verwendet werden, um zu beschreiben, dass jemand physische Schmerzen erleidet.",
+        "targetText": "Poate descrie și suferința fizică cauzată de tortură."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Folter war unerträglich.",
+          "targetText": "Tortura a fost insuportabilă."
+        }
+      ]
+    },
+    {
+      "gloss": "Leiden",
+      "explanation": {
+        "sourceText": "Im emotionalen Kontext kann es auch als 'leiden' verwendet werden.",
+        "targetText": "În context emoțional, poate însemna și a suferi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich leide unter starken Selbstzweifeln.",
+          "targetText": "Sufăr din cauza îndoielilor de sine."
+        }
+      ]
+    },
+    {
+      "gloss": "Plagen",
+      "explanation": {
+        "sourceText": "'Plagen' bedeutet auch, jemanden durch ständige Sorgen zu belästigen.",
+        "targetText": "A chinui poate însemna și a deranja pe cineva cu griji constante."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Sorgen plagen mich.",
+          "targetText": "Grijile mă chinuiesc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Foltern",
+      "targetText": "a tortura"
+    },
+    {
+      "sourceText": "Leid",
+      "targetText": "suferință"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "Sorge",
+      "targetText": "grijă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erleichtern",
+      "targetText": "a ușura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich quäle mich mit meinen Gedanken.",
+      "targetText": "Mă chinui cu gândurile mele."
+    },
+    {
+      "sourceText": "Quälst du dich selbst?",
+      "targetText": "Te chinuiești?"
+    },
+    {
+      "sourceText": "Sie quält sich mit der Entscheidung.",
+      "targetText": "Se chinuie cu decizia."
+    },
+    {
+      "sourceText": "Wir quälen uns mit den Sorgen.",
+      "targetText": "Ne chinuim cu grijile."
+    },
+    {
+      "sourceText": "Quält ihr euch zu sehr?",
+      "targetText": "Vă chinuiți prea mult?"
+    },
+    {
+      "sourceText": "Sie quälen sich aufgrund der Prüfungen.",
+      "targetText": "Ei se chinuiesc din cauza examenelor."
+    },
+    {
+      "sourceText": "Ich habe mich gestern gequält.",
+      "targetText": "M-am chinuit ieri."
+    },
+    {
+      "sourceText": "Sie haben sich mit der Situation gequält.",
+      "targetText": "S-au chinuit cu situația."
+    },
+    {
+      "sourceText": "Er quälte sich oft in der Schule.",
+      "targetText": "Se chinuia adesea la școală."
+    },
+    {
+      "sourceText": "Ich hatte mich schon lange gequält, bevor ich um Hilfe bat.",
+      "targetText": "M-am chinuit de mult înainte de a cere ajutor."
+    },
+    {
+      "sourceText": "Ich werde mich nicht quälen.",
+      "targetText": "Nu mă voi chinui."
+    },
+    {
+      "sourceText": "Sie wird sich nicht quälen.",
+      "targetText": "Ea nu se va chinui."
+    },
+    {
+      "sourceText": "Ich würde mich weniger quälen, wenn ich wüsste, dass alles gut wird.",
+      "targetText": "M-aș chinui mai puțin dacă aș ști că totul va fi bine."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du dich nicht quälst.",
+      "targetText": "Este necesar să nu te chinui."
+    },
+    {
+      "sourceText": "Quäle dich nicht!",
+      "targetText": "Nu te chinui!"
+    },
+    {
+      "sourceText": "Quält euch nicht unnötig!",
+      "targetText": "Nu vă chinuiți inutil!"
+    },
+    {
+      "sourceText": "Die gequälte Seele fand Frieden.",
+      "targetText": "Sufletul chinuit a găsit liniște."
+    },
+    {
+      "sourceText": "Die Probleme sind gequält worden.",
+      "targetText": "Problemele au fost chinuite."
+    },
+    {
+      "sourceText": "Chinuiend uns über die Situation, fanden wir Lösungen.",
+      "targetText": "Chinuiți de situație, am găsit soluții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Quälen“ und „a chinui“ bedeuten, sich mit etwas zu plagen – ob physisch oder emotional!"
+    },
+    {
+      "lang": "de",
+      "text": "Die Endungen wie `-ez` (ich), `-i` (du), `-ă` (er/sie/es) helfen dir, die Konjugation von „a chinui“ zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „chin“ im Rumänischen Qual bedeutet – das hilft, die Bedeutung von „a chinui“ zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Sage dir: „Nu ne chinuiți!“ (Quält uns nicht!) – so lernst du den Gebrauch im Plural."
+    },
+    {
+      "lang": "de",
+      "text": "Vor dem Lernen sag: „O să mă chinui, dar voi reuși!“ (Ich werde mich quälen, aber ich werde es schaffen!)"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

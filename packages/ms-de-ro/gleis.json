@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gleis",
+  "parent": "ms-ro-sina-29242035@a1d52fefcb8baaf309568b2d92f311eb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gleis",
+    "genus": "neuter",
+    "definition": "Eine Schiene oder ein Gleis, auf dem Züge fahren.",
+    "pronunciation": "/ɡlaɪ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gleis“ stammt vom mittelhochdeutschen 'gleis' ab, das 'Schiene' oder 'Bahnstrecke' bedeutet, und hat seinen Ursprung im lateinischen 'clīsia' (Schiene, Gleis).",
+        "targetText": "Cuvântul german „Gleis” provine din germana medie înaltă 'gleis', care înseamnă 'șină' sau 'linie de cale ferată', având originea în latină, din 'clīsia' – 'șină'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șină",
+    "genus": "neuter",
+    "definition": "O bucată metalică pe care circulă trenurile.",
+    "pronunciation": "/ʃiˈnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „șină“ stammt vom lateinischen 'scena' ab, das ursprünglich 'Bühne' bedeutete, später aber auch für 'Schiene' verwendet wurde.",
+        "targetText": "Cuvântul românesc „șină” provine din latină, din 'scena', care inițial însemna 'scenă', dar a evoluat să desemneze și 'șină' (cale ferată)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bahnhof",
+      "targetText": "gară"
+    },
+    {
+      "sourceText": "Fahrplan",
+      "targetText": "orariu"
+    },
+    {
+      "sourceText": "Schiene",
+      "targetText": "șină"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Zug fährt auf Gleis 5 ab.",
+      "targetText": "Trenul pleacă de pe șina 5."
+    },
+    {
+      "sourceText": "Das Gleis ist gut sichtbar am Bahnhof markiert.",
+      "targetText": "Șina este bine marcată în gară."
+    },
+    {
+      "sourceText": "Bitte warten Sie am Gleis auf den Zug.",
+      "targetText": "Vă rugăm să așteptați trenul pe șină."
+    },
+    {
+      "sourceText": "Die Gleise sind aus Stahl gefertigt.",
+      "targetText": "Șinele sunt făcute din oțel."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'șină' klingt ähnlich wie 'Szene' im Deutschen, aber hier bedeutet es 'Schiene' – merke dir die Verbindung zur Bahn."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort beginnt mit 'ș', einem speziellen rumänischen Buchstaben, der wie 'sch' klingt – wie in 'Schiene'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die 'șină' ist die Bühne (Szene) für den Zug – so kannst du dir das Wort leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Gleis' mit 'șină' durch die gemeinsame Bedeutung von Bahn und Schiene."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

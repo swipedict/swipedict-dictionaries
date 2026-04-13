@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-beenden",
+  "parent": "ms-ro-a-termina-d8eaf2f7@38c4fc29b6b10fb860f7e23356019239",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beenden",
+    "definition": "etwas zu einem Schluss bringen oder aufhören",
+    "pronunciation": "/bəˈe̯ndən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „beenden“ geht zurück auf das mittelhochdeutsche Wort „beenden“, was „beenden, vollenden“ bedeutet, und wurde aus dem alten ‚enden‘ abgeleitet.",
+        "targetText": "Verbul „beenden“ provine din germana mijlocie „beenden“, derivat din „enden“ care înseamnă „a termina“ sau „a încheia“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um den Abschluss einer Handlung oder eines Prozesses zu kennzeichnen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a termina",
+    "definition": "a aduce la un sfârșit sau a opri",
+    "pronunciation": "/a ter.miˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A termina“ stammt vom lateinischen „terminare“ ab, was „begrenzen, abschließen“ bedeutet.",
+        "targetText": "Verbul românesc „a termina“ derivă din latină, din „terminare“, care înseamnă „a limita“ sau „a încheia“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft verwendet, um den Abschluss einer Aktivität oder eines Prozesses anzuzeigen."
+  },
+  "senses": [
+    {
+      "gloss": "Beendigung",
+      "explanation": {
+        "sourceText": "Eine Form des Endes oder Abschlusses.",
+        "targetText": "O formă de încheiere sau finalizare."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Beendigung des Projekts war erfolgreich.",
+          "targetText": "Finalizarea proiectului a avut succes."
+        }
+      ]
+    },
+    {
+      "gloss": "Beendigung / Abschluss",
+      "explanation": {
+        "sourceText": "Verwendung im Sinne von 'zum Ende bringen'.",
+        "targetText": "Utilizat în sensul de a aduce ceva la sfârșit."
+      },
+      "examples": [
+        {
+          "sourceText": "Er wird die Arbeit heute beenden.",
+          "targetText": "El va termina munca în această zi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Abschluss",
+      "targetText": "finalizare"
+    },
+    {
+      "sourceText": "Aufhören",
+      "targetText": "a se opri"
+    },
+    {
+      "sourceText": "Ende",
+      "targetText": "sfârșit"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beginnen",
+      "targetText": "a începe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich beende das Projekt.",
+      "targetText": "Eu termin proiectul."
+    },
+    {
+      "sourceText": "Beendest du die Arbeit jetzt?",
+      "targetText": "Termini acum munca?"
+    },
+    {
+      "sourceText": "Er beendet das Gespräch.",
+      "targetText": "El termină conversația."
+    },
+    {
+      "sourceText": "Wir beenden die Sitzung.",
+      "targetText": "Noi terminăm ședința."
+    },
+    {
+      "sourceText": "Beendet ihr die Diskussion?",
+      "targetText": "Terminați discuția?"
+    },
+    {
+      "sourceText": "Sie beenden die Arbeit.",
+      "targetText": "Ei termină munca."
+    },
+    {
+      "sourceText": "Ich habe die Aufgabe beendet.",
+      "targetText": "Am terminat sarcina."
+    },
+    {
+      "sourceText": "Er beendete die Arbeit jeden Tag um 5 Uhr.",
+      "targetText": "El termina munca în fiecare zi la ora 5."
+    },
+    {
+      "sourceText": "Ich werde das Kapitel morgen beenden.",
+      "targetText": "Voi termina capitolul mâine."
+    },
+    {
+      "sourceText": "Beende die Präsentation!",
+      "targetText": "Terminӑ prezentarea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„beenden“ und „a termina“ bedeuten beide „etwas abschließen“ – denk an das Wort „Termin“ als Ende eines Zeitraums."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugationen: „Eu termin“, „Am terminat“, „Voi termina“ – so kannst du „a termina“ sicher verwenden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

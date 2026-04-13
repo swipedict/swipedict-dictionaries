@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-durchfuehren",
+  "parent": "ms-ro-a-realiza-0a689aaf@7ea01ba4134b7a825a95fe5f44262f4d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "durchführen",
+    "definition": "eine Tätigkeit oder ein Projekt umsetzen oder realisieren",
+    "pronunciation": "/ˈdʊʁçˌfyːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich zusammen aus dem Präfix „durch“ (hindurch) und „führen“ (leiten, führen), das vom althochdeutschen „fûran“ stammt.",
+        "targetText": "Verbul este format din prefixul „durch“ (prin) și „führen“ (a conduce), derivat din germana veche."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet im Kontext von Projekten oder Experimenten, wo eine Handlung oder Maßnahme zur Umsetzung kommt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a realiza",
+    "definition": "a implementa sau a realiza o activitate sau un proiect",
+    "pronunciation": "/a re.a.liˈza/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „realizare“, abgeleitet von „realis“ (wirklich), bedeutet es, etwas in die Tat umzusetzen oder zu verwirklichen.",
+        "targetText": "Verbul provine din latinescul „realizare“, care înseamnă a face ceva real, a pune în practică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig für das Ausführen von Plänen und Projekten verwendet und betont die Handlung und das Ergebnis."
+  },
+  "senses": [
+    {
+      "gloss": "Durchführung / Ausführung",
+      "explanation": {
+        "sourceText": "Das Verb wird im Sinne von 'etwas in die Tat umsetzen' verwendet.",
+        "targetText": "Verbul este folosit pentru a exprima punerea în aplicare a unei acțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen das Projekt jetzt durchführen.",
+          "targetText": "Trebuie să realizăm proiectul acum."
+        }
+      ]
+    },
+    {
+      "gloss": "Umsetzung",
+      "explanation": {
+        "sourceText": "Im Kontext von Plänen wird 'a realiza' auch für die vollständige Umsetzung verwendet.",
+        "targetText": "În contextul planurilor, „a realiza“ înseamnă și implementarea completă."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Umsetzung der Strategie war erfolgreich.",
+          "targetText": "Implementarea strategiei a fost un succes."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aktivität",
+      "targetText": "activitate"
+    },
+    {
+      "sourceText": "Plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "țel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abbrechen",
+      "targetText": "a întrerupe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich führe das Experiment durch.",
+      "targetText": "Realizez experimentul."
+    },
+    {
+      "sourceText": "Führst du das Projekt durch?",
+      "targetText": "Realizezi proiectul?"
+    },
+    {
+      "sourceText": "Sie führt die Anweisung durch.",
+      "targetText": "Ea realizează instrucțiunea."
+    },
+    {
+      "sourceText": "Wir führen die Untersuchung durch.",
+      "targetText": "Noi realizăm investigația."
+    },
+    {
+      "sourceText": "Führt ihr die Besprechung durch?",
+      "targetText": "Realizați ședința?"
+    },
+    {
+      "sourceText": "Sie führen das Projekt erfolgreich durch.",
+      "targetText": "Ei realizează proiectul cu succes."
+    },
+    {
+      "sourceText": "Ich habe das Training durchgeführt.",
+      "targetText": "Am realizat antrenamentul."
+    },
+    {
+      "sourceText": "Ich werde das Meeting durchführen.",
+      "targetText": "Voi realiza întâlnirea."
+    },
+    {
+      "sourceText": "Führe das Vorhaben durch!",
+      "targetText": "Realizează proiectul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a realiza“ klingt ähnlich wie das deutsche „real“ – verbinde das mit der Idee, etwas wirklich umzusetzen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „a realiza“ ist dein Verb für Projekte und Pläne, die du „durchführst“ – beide Wörter teilen die Bedeutung des Umsetzens."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du setzt einen Plan in die Tat um – „a realiza“ bedeutet genau das: etwas Wirkliches schaffen, ähnlich wie im Deutschen „realisieren“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

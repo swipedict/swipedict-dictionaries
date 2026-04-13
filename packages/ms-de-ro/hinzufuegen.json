@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-hinzufuegen",
+  "parent": "ms-ro-a-adauga-4942e259@4e0eec4fcaf4962513f3f9fa20a2c5df",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hinzufügen",
+    "definition": "etwas zu einer bestehenden Menge oder Zusammenstellung ergänzen",
+    "pronunciation": "/hɪnˈtsuː.fə.ŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Zusammengesetzt aus „hin“ (Richtung) und „fügen“ (in eine bestimmte Lage bringen).",
+        "targetText": "Das deutsche Verb „hinzufügen“ setzt sich aus „hin“ (Richtung) und „fügen“ (einfügen) zusammen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb. Häufig in alltäglicher Sprache verwendet, insbesondere in digitalen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a adăuga",
+    "definition": "a completa sau a aduce ceva la o cantitate sau la un ansamblu existent",
+    "pronunciation": "/a a.də.uˈga/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb stammt von dem lateinischen „addere“, welches bedeutet „hinzufügen“.",
+        "targetText": "Verbul românesc „a adăuga“ derivă din latină, de la „addere“, care înseamnă „a adăuga“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um etwas zu einer Menge, Liste oder einem Dokument hinzuzufügen."
+  },
+  "senses": [
+    {
+      "gloss": "anfügen",
+      "explanation": {
+        "sourceText": "Auch im Sinne von etwas an ein Dokument oder eine Nachricht anhängen.",
+        "targetText": "Poate însemna și a atașa ceva unui document sau mesaj."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich füge dem Bericht die Ergebnisse an.",
+          "targetText": "Adaug rezultatele la raport."
+        }
+      ]
+    },
+    {
+      "gloss": "hinzufügen (dazufügen)",
+      "explanation": {
+        "sourceText": "'Hinzugefügt' bedeutet in einem sozialen Kontext auch, dass man Teil einer Gruppe oder einer Diskussion wird.",
+        "targetText": "„A adăuga“ poate însemna și a deveni parte dintr-un grup sau discuție."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte zur Diskussion etwas hinzufügen.",
+          "targetText": "Vreau să adaug ceva la discuție."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Daten",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "Element",
+      "targetText": "element"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Liste",
+      "targetText": "listă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entfernen",
+      "targetText": "a elimina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich füge das Bild hinzu.",
+      "targetText": "Eu adaug imaginea."
+    },
+    {
+      "sourceText": "Fügst du den Namen hinzu?",
+      "targetText": "Adaugi numele?"
+    },
+    {
+      "sourceText": "Er fügt eine Datei hinzu.",
+      "targetText": "El adaugă un fișier."
+    },
+    {
+      "sourceText": "Wir fügen das Dokument hinzu.",
+      "targetText": "Noi adăugăm documentul."
+    },
+    {
+      "sourceText": "Fügt ihr die Quellen hinzu?",
+      "targetText": "Adăugați sursele?"
+    },
+    {
+      "sourceText": "Sie fügen dem Bericht eine Übersicht hinzu.",
+      "targetText": "Ei adaugă un rezumat la raport."
+    },
+    {
+      "sourceText": "Ich habe die Daten hinzugefügt.",
+      "targetText": "Am adăugat datele."
+    },
+    {
+      "sourceText": "Er fügte jeden Monat neue Informationen hinzu.",
+      "targetText": "El adăuga informații noi în fiecare lună."
+    },
+    {
+      "sourceText": "Ich werde das neue Element hinzufügen.",
+      "targetText": "Voi adăuga noul element."
+    },
+    {
+      "sourceText": "Füge das bitte hinzu!",
+      "targetText": "Adaugă asta, te rog!"
+    },
+    {
+      "sourceText": "Das hinzugefügte Material ist sehr nützlich.",
+      "targetText": "Materialul adăugat este foarte util."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Hinzufügen“ und „a adăuga“ stammen beide vom lateinischen „addere“ – stelle dir vor, wie du ein Puzzleteil hinzufügst, um das Bild zu vervollständigen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an digitale Anwendungen, wo du oft etwas „hinzufügst“ – so kannst du „a adăuga“ leicht im Alltag anwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugationen von „a adăuga“ mit den Endungen „-ez“, „-i“, „-ăm“ und „-ați“, die typisch für rumänische Verben sind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

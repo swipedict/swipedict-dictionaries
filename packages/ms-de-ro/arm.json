@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-arm",
+  "parent": "ms-ro-brat-119dcfa0@1a433ec61322dcb05e2b3843f2e495ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arm",
+    "genus": "masculine",
+    "definition": "Der Teil des Körpers zwischen Schulter und Hand.",
+    "pronunciation": "/aʁm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arm“ stammt vom althochdeutschen 'arm' ab, das auf die germanische Wurzel *armô zurückgeht und den Körperteil bezeichnet.",
+        "targetText": "Cuvântul german „Arm” provine din germana veche înaltă 'arm', derivat din rădăcina germanică *armô, desemnând partea corpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "braț",
+    "genus": "neuter",
+    "definition": "Partea corpului dintre umăr și mână.",
+    "pronunciation": "/brats/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „braț“ stammt vom lateinischen 'bracchium' ab, das 'Arm' bedeutet und aus dem Griechischen 'brakhion' entlehnt wurde.",
+        "targetText": "Cuvântul românesc „braț” provine din latinul 'bracchium', care înseamnă 'braț', împrumutat din grecescul 'brakhion'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Finger",
+      "targetText": "deget"
+    },
+    {
+      "sourceText": "Hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "Körper",
+      "targetText": "corp"
+    },
+    {
+      "sourceText": "Schulter",
+      "targetText": "umăr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er hat sich am Arm verletzt.",
+      "targetText": "Și-a rănit brațul."
+    },
+    {
+      "sourceText": "Der Arm ist zwischen Schulter und Hand.",
+      "targetText": "Brațul este între umăr și mână."
+    },
+    {
+      "sourceText": "Sie hebt den Arm, um zu winken.",
+      "targetText": "Ea ridică brațul să facă cu mâna."
+    },
+    {
+      "sourceText": "Mein Arm tut weh.",
+      "targetText": "Brațul meu doare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'braț' klingt ähnlich wie das lateinische 'bracchium' – denk an einen starken 'Braț' (Arm)."
+    },
+    {
+      "lang": "de",
+      "text": "Der deutsche 'Arm' und das rumänische 'braț' haben beide eine lange Geschichte aus dem Lateinischen und Griechischen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'braț' der Körperteil zwischen Schulter und Hand ist – genau wie 'Arm' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'braț' mit 'Brat' (englisch für Braten) – stell dir vor, du hältst einen Braten mit deinem Arm."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ms-de-ro-sprechen",
+  "parent": "ms-ro-a-vorbi-960603c4@c50ab6ba8274715f668b5a18aa9ae8f5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sprechen",
+    "definition": "mit jemandem reden oder sich verbal ausdrücken",
+    "pronunciation": "/ˈʃpʁɛçən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „sprechen“ hat seine Wurzeln im Althochdeutschen „sprechan“, was „sagen“ oder „erklären“ bedeutet.",
+        "targetText": "Verbul german „sprechen“ provine din vechiul germanic „sprechan“, însemnând „a spune“ sau „a explica“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird in vielen Kontexten verwendet, sowohl formal als auch informell."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vorbi",
+    "definition": "a comunica sau a se exprima verbal",
+    "pronunciation": "/a vorˈbi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a vorbi“ stammt vom lateinischen „verbum“ (Wort) ab und bedeutet „sprechen“ oder „reden“.",
+        "targetText": "Verbul românesc „a vorbi“ provine din latinescul „verbum“ (cuvânt) și înseamnă „a vorbi“ sau „a comunica“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„A vorbi“ gehört zur ersten Konjugation (-i) und wird oft in der täglichen Kommunikation verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "reden",
+      "explanation": {
+        "sourceText": "Wird auch für die informelle Kommunikation verwendet.",
+        "targetText": "Se folosește și pentru comunicarea informală."
+      },
+      "examples": [
+        {
+          "sourceText": "Er redet viel.",
+          "targetText": "El vorbește mult."
+        }
+      ]
+    },
+    {
+      "gloss": "verbal kommunizieren",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für verbale Kommunikation.",
+        "targetText": "La fel ca în germană: pentru comunicare verbală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte mit dir sprechen.",
+          "targetText": "Vreau să vorbesc cu tine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gespräch",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "Rede",
+      "targetText": "vorbire"
+    },
+    {
+      "sourceText": "Sprache",
+      "targetText": "limbă"
+    },
+    {
+      "sourceText": "Wort",
+      "targetText": "cuvânt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich spreche mit meinem Freund.",
+      "targetText": "Eu vorbesc cu prietenul meu."
+    },
+    {
+      "sourceText": "Sprichst du Englisch?",
+      "targetText": "Vorbești engleză?"
+    },
+    {
+      "sourceText": "Er spricht laut.",
+      "targetText": "El vorbește tare."
+    },
+    {
+      "sourceText": "Wir sprechen über das Wetter.",
+      "targetText": "Noi vorbim despre vreme."
+    },
+    {
+      "sourceText": "Sprecht ihr oft miteinander?",
+      "targetText": "Vorbiți des între voi?"
+    },
+    {
+      "sourceText": "Sie sprechen die Wahrheit.",
+      "targetText": "Ei vorbesc adevărul."
+    },
+    {
+      "sourceText": "Ich habe mit dir gesprochen.",
+      "targetText": "Am vorbit cu tine."
+    },
+    {
+      "sourceText": "Er sprach oft über seine Reisen.",
+      "targetText": "El vorbea adesea despre călătoriile sale."
+    },
+    {
+      "sourceText": "Ich werde morgen mit dir sprechen.",
+      "targetText": "Voi vorbi cu tine mâine."
+    },
+    {
+      "sourceText": "Ich würde mit dir sprechen, wenn ich Zeit hätte.",
+      "targetText": "Aș vorbi cu tine, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Sprich deutlich!",
+      "targetText": "Vorbește clar!"
+    },
+    {
+      "sourceText": "Die gesprochene Sprache ist wichtig.",
+      "targetText": "Limba vorbită este importantă."
+    },
+    {
+      "sourceText": "Indem ich spreche, lerne ich mehr.",
+      "targetText": "Vorbind, învăț mai mult."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Der Klang von „vorbi“ ist klar und rhythmisch – das hilft dir, es leichter zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „vorbi“ vom lateinischen Wort für „Wort“ (verbum) kommt – so kannst du es mit Sprechen und Worten verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Vergleiche „sprechen“ und „vorbi“ und merke dir die Gemeinsamkeiten und Unterschiede, um beide besser zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

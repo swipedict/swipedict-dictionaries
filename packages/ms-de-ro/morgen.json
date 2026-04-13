@@ -1,0 +1,146 @@
+{
+  "id": "ms-de-ro-morgen",
+  "parent": "ms-ro-dimineata-1dd4f97f@a0c87433e0fe571778538ff147603dbb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Morgen",
+    "genus": "masculine",
+    "definition": "der nächste Tag nach heute",
+    "pronunciation": "/ˈmɔʁɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Morgen“ stammt vom althochdeutschen „morgana“ ab, was ‚Beginn des Tages‘ bedeutet, und ist verwandt mit dem englischen „morning“.",
+        "targetText": "Cuvântul german „Morgen“ provine din germana veche „morgana“, însemnând începutul zilei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Morgen ist oft mit neuen Anfängen und frischer Energie verbunden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dimineața",
+    "genus": "feminine",
+    "definition": "prima parte a zilei după răsăritul soarelui",
+    "pronunciation": "/diminˈe̯atsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dimineața“ stammt vom slawischen „dɛminěsą“ ab, das ‚Tag‘ oder ‚Licht‘ bedeutet, und bezeichnet die Tageszeit nach Sonnenaufgang.",
+        "targetText": "Cuvântul românesc „dimineața“ provine din slavona veche „dɛminěsą“, însemnând „zi“ sau „lumină“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In Rumänien ist der Morgen eine wichtige Zeit für das Trinken von Kaffee."
+  },
+  "senses": [
+    {
+      "gloss": "Morgen (Anfang eines neuen Tages)",
+      "explanation": {
+        "sourceText": "Impliziert Neuanfänge und Möglichkeiten.",
+        "targetText": "Sugerează începuturi noi și posibilități."
+      },
+      "examples": [
+        {
+          "sourceText": "Morgen können wir neue Pläne machen.",
+          "targetText": "Mâine putem face planuri noi."
+        }
+      ]
+    },
+    {
+      "gloss": "Morgen (Tageszeit)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Tageszeit nach dem Aufstehen.",
+        "targetText": "Se referă la partea zilei după trezire."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich genieße den Frieden des Morgens.",
+          "targetText": "Îmi place liniștea dimineții."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Heute",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "Monat",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gestern",
+      "targetText": "ieri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jeden Morgen gehe ich joggen.",
+      "targetText": "În fiecare dimineață mă duc la jogging."
+    },
+    {
+      "sourceText": "Der Morgen beginnt früh mit dem ersten Licht.",
+      "targetText": "Dimineața începe devreme cu prima lumină."
+    },
+    {
+      "sourceText": "Morgen ist ein guter Tag, um etwas Neues zu lernen.",
+      "targetText": "Dimineața este o zi bună pentru a învăța ceva nou."
+    },
+    {
+      "sourceText": "Ich trinke jeden Morgen einen Kaffee.",
+      "targetText": "Beau o cafea în fiecare dimineață."
+    },
+    {
+      "sourceText": "Der Morgen ist meine Lieblingszeit des Tages.",
+      "targetText": "Dimineața este timpul meu preferat din zi."
+    },
+    {
+      "sourceText": "Am Morgen höre ich gerne Musik.",
+      "targetText": "Dimineața îmi place să ascult muzică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Dimineața“ klingt fast wie „diminutiv“ – denk daran, dass es die kleinen, frischen Anfänge des Tages repräsentiert!"
+    },
+    {
+      "lang": "de",
+      "text": "Kaffeeliebhaber können sich merken: „Morgen“ ist Zeit für „dimineața“ und eine leckere Tasse Kaffee!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du öffnest die Tür zu einem neuen Tag voller Licht – so merkst du dir „dimineața“ als den Morgen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

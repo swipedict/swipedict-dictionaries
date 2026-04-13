@@ -1,0 +1,196 @@
+{
+  "id": "ms-de-ro-buchstabieren",
+  "parent": "ms-ro-a-imparti-92d8c3a8@4f56d1912d75d628880976e7ad4745a2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "buchstabieren",
+    "definition": "die einzelnen Buchstaben eines Wortes angeben",
+    "pronunciation": "/ˌbʊxˈʃtaːbiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „buochstabieren“, zusammengesetzt aus „buoch“ (Buch) und „stab“ (Stab, Zeichen).",
+        "targetText": "Provine din germana mijlocie „buochstabieren“, format din „buoch“ (carte) și „stab“ (băț, semn)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft in Bildung und Alltag verwendet, um Wörter buchstabieren zu erklären."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împărți",
+    "definition": "a da seama de fiecare literă a unui cuvânt",
+    "pronunciation": "/a ɨm.pərˈtsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „partire“ abgeleitet, was „teilen“ bedeutet; beschreibt das Zerlegen in Teile, hier Buchstaben.",
+        "targetText": "Provine din latinescul „partire“, care înseamnă „a împărți“, folosit pentru a descrie divizarea unui cuvânt în litere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird verwendet, um das Buchstabieren von Wörtern oder Namen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Buchstabieren",
+      "explanation": {
+        "sourceText": "Das Angeben der einzelnen Buchstaben eines Wortes.",
+        "targetText": "Indicarea fiecărei litere dintr-un cuvânt."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich buchstabiere 'Hund'.",
+          "targetText": "Eu împart 'câine'."
+        }
+      ]
+    },
+    {
+      "gloss": "buchstabieren für das Alphabet",
+      "explanation": {
+        "sourceText": "Das Lernen oder Sprechen der Buchstaben des Alphabets.",
+        "targetText": "Învățarea sau rostirea literelor alfabetului."
+      },
+      "examples": [
+        {
+          "sourceText": "Kannst du das Alphabet buchstabieren?",
+          "targetText": "Poți să împărți alfabetul?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buchstabe",
+      "targetText": "literă"
+    },
+    {
+      "sourceText": "Lesen",
+      "targetText": "a citi"
+    },
+    {
+      "sourceText": "Sprechen",
+      "targetText": "a vorbi"
+    },
+    {
+      "sourceText": "Wort",
+      "targetText": "cuvânt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vereinfachen",
+      "targetText": "simplifica"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich buchstabiere meinen Namen.",
+      "targetText": "Eu împart numele meu."
+    },
+    {
+      "sourceText": "Buchstabierst du den Satz bitte?",
+      "targetText": "Împărțiți, vă rog, propoziția?"
+    },
+    {
+      "sourceText": "Er buchstabiert seinen Nachnamen.",
+      "targetText": "El împarte numele de familie."
+    },
+    {
+      "sourceText": "Wir buchstabieren das Wort zusammen.",
+      "targetText": "Noi împărțim cuvântul împreună."
+    },
+    {
+      "sourceText": "Buchstabiert ihr die Adresse?",
+      "targetText": "Împărțiți adresa?"
+    },
+    {
+      "sourceText": "Sie buchstabieren alles genau.",
+      "targetText": "Ei împart totul exact."
+    },
+    {
+      "sourceText": "Ich habe den Namen buchstabiert.",
+      "targetText": "Am împărțit numele."
+    },
+    {
+      "sourceText": "Sie haben die Wörter buchstabiert.",
+      "targetText": "Au împărțit cuvintele."
+    },
+    {
+      "sourceText": "Er buchstabierte immer die schwierigen Wörter.",
+      "targetText": "El împărțea întotdeauna cuvintele dificile."
+    },
+    {
+      "sourceText": "Ich hatte den Namen bereits buchstabiert.",
+      "targetText": "Împărțisem deja numele."
+    },
+    {
+      "sourceText": "Ich werde das Wort buchstabieren.",
+      "targetText": "Voi împărți cuvântul."
+    },
+    {
+      "sourceText": "Sie wird den Satz buchstabieren.",
+      "targetText": "Ea o să împartă propoziția."
+    },
+    {
+      "sourceText": "Ich würde es euch buchstabieren.",
+      "targetText": "V-aș împărți."
+    },
+    {
+      "sourceText": "Es ist erforderlich, dass du buchstabierst.",
+      "targetText": "Este necesar să împărți."
+    },
+    {
+      "sourceText": "Buchstabier deinen Namen!",
+      "targetText": "Împarte numele tău!"
+    },
+    {
+      "sourceText": "Buchstabieren Sie bitte die Wörter!",
+      "targetText": "Împărțiți, vă rog, cuvintele!"
+    },
+    {
+      "sourceText": "Das buchstabierte Wort klingt schön.",
+      "targetText": "Cuvântul împărțit sună frumos."
+    },
+    {
+      "sourceText": "Die Wörter sind schon buchstabiert.",
+      "targetText": "Cuvintele sunt deja împărțite."
+    },
+    {
+      "sourceText": "Indem er den Namen buchstabiert, lernt er viel.",
+      "targetText": "Împărțind numele, învață multe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a împărți“ bedeutet auch „teilen“ – stelle dir vor, wie du ein Wort in Buchstaben teilst."
+    },
+    {
+      "lang": "de",
+      "text": "Scherze mit Freunden: „Kannst du deinen Namen buchstabieren?“ – so lernst du spielerisch."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Verwendung von Präpositionen und Akkusativobjekten, da sie beim Buchstabieren im Rumänischen wichtig sind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

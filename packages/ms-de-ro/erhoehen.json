@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-erhoehen",
+  "parent": "ms-ro-a-creste-d2283e60@68152fab72fc07ecf32fdfd63ca7d603",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erhöhen",
+    "definition": "etwas größer, höher oder intensiver machen",
+    "pronunciation": "/ɛɐ̯ˈhøːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von „hoch“ mit dem Präfix „er-“, bedeutet „erhöhen“ das Anheben oder Steigern von etwas.",
+        "targetText": "Derivat din cuvântul „hoch“ cu prefixul „er-“, „erhöhen“ înseamnă a ridica sau a mări ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft im wirtschaftlichen oder technischen Kontext verwendet, z.B. „Preise erhöhen“ oder „Leistung erhöhen“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a crește",
+    "definition": "a face ceva mai mare, mai înalt sau mai intens",
+    "pronunciation": "/a ˈkreʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „crescere“ (wachsen, zunehmen) abgeleitet, umfasst „a crește“ im Rumänischen sowohl Wachstum als auch Steigerung.",
+        "targetText": "Derivat din verbul latin „crescere“ (a crește), „a crește“ în română înseamnă atât a crește, cât și a mări intensitatea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation. Häufig verwendet, um Notwendigkeiten wie Preise, Leistung usw. zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Steigern",
+      "explanation": {
+        "sourceText": "Es kann auch 'steigern' in Bezug auf Leistung oder Intensität bedeuten.",
+        "targetText": "Poate însemna și „a mări“ în legătură cu performanța sau intensitatea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich steigere meine Leistung.",
+          "targetText": "Îmi cresc performanța."
+        }
+      ]
+    },
+    {
+      "gloss": "Wachsen",
+      "explanation": {
+        "sourceText": "'A crește' kann auch 'wachsen' bedeuten.",
+        "targetText": "„A crește“ poate însemna și „a crește“ (a se dezvolta)."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Pflanzen wachsen schnell.",
+          "targetText": "Plantele cresc repede."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Höhe",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "Steigerung",
+      "targetText": "îmbunătățire"
+    },
+    {
+      "sourceText": "Wachstum",
+      "targetText": "creștere"
+    },
+    {
+      "sourceText": "Zunahme",
+      "targetText": "mărire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "senken",
+      "targetText": "a scădea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erhöhe die Preise.",
+      "targetText": "Eu cresc prețurile."
+    },
+    {
+      "sourceText": "Ich habe die Miete erhöht.",
+      "targetText": "Am crescut chiria."
+    },
+    {
+      "sourceText": "Ich werde mein Wissen erhöhen.",
+      "targetText": "Voi crește cunoștințele mele."
+    },
+    {
+      "sourceText": "Erhöhe den Druck!",
+      "targetText": "Crește presiunea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „erhöhen“ oft mit Verbesserung verbunden ist – überlege, wann du etwas wirklich erhöhen möchtest."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a crește“ mit dem Wachstum von Pflanzen – stelle dir vor, wie sie größer werden, um die Bedeutung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

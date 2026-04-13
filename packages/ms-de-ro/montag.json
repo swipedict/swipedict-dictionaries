@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-montag",
+  "parent": "ms-ro-luni-cd9ea2c9@d808f58cb5b63420e00ec5aad0467f75",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Montag",
+    "genus": "masculine",
+    "definition": "Der erste Tag der Woche, benannt nach dem Mond.",
+    "pronunciation": "/ˈmɔn.taːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Montag“ stammt vom althochdeutschen 'mānetag' ab, was 'Tag des Mondes' bedeutet, und ist eine direkte Übersetzung des lateinischen 'dies Lunae'.",
+        "targetText": "Cuvântul german „Montag” provine din vechiul german înalt 'mānetag', care înseamnă 'ziua lunii', fiind o traducere directă a expresiei latine 'dies Lunae'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "luni",
+    "genus": "feminine",
+    "definition": "Prima zi a săptămânii, numită după Lună.",
+    "pronunciation": "/ˈluni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „luni“ stammt vom lateinischen 'Luna' ab, was 'Mond' bedeutet, und bezeichnet den Tag, der dem Mond gewidmet ist.",
+        "targetText": "Cuvântul românesc „luni” provine din latinescul 'Luna', care înseamnă 'lună', desemnând ziua dedicată lunii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Montagmorgen",
+      "targetText": "luni dimineața"
+    },
+    {
+      "sourceText": "Sonntag",
+      "targetText": "duminică"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Montag ist der erste Tag der Arbeitswoche.",
+      "targetText": "Luni este prima zi a săptămânii de lucru."
+    },
+    {
+      "sourceText": "Am Montag habe ich einen Termin beim Arzt.",
+      "targetText": "Luni am o programare la doctor."
+    },
+    {
+      "sourceText": "Montags gehe ich immer zum Sport.",
+      "targetText": "Luni merg întotdeauna la sport."
+    },
+    {
+      "sourceText": "Der Montag nach dem Feiertag ist oft stressig.",
+      "targetText": "Luni după sărbătoare este adesea stresant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Montag“ erinnert an den Mond (engl. 'moon'), genau wie das rumänische „luni“ von 'Luna' kommt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Montag“ beginnt mit 'Mon-', genau wie das rumänische „luni“ vom lateinischen 'Luna' stammt, was Mond bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: Montag = Mond-Tag, luni = Tag der Luna (Mond). Beide Wörter haben denselben Ursprung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Mond leuchtet am Anfang der Woche – so beginnt die Woche mit „Montag“ bzw. „luni“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

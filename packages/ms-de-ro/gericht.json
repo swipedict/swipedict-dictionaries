@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gericht",
+  "parent": "ms-ro-curte-65af3f35@7fe0868ccf660889a8731db19921a6ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gericht",
+    "genus": "neuter",
+    "definition": "Eine Institution, die Recht spricht, oder eine zubereitete Speise.",
+    "pronunciation": "/ɡəˈrɪçt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gericht“ stammt vom althochdeutschen 'geriht' ab, das 'gesetzliche Anordnung' oder 'Rechtsprechung' bedeutete, und geht auf die germanische Wurzel *rehtaz zurück, die mit Recht und Ordnung verbunden ist.",
+        "targetText": "Cuvântul german „Gericht” provine din vechiul german înalt 'geriht', care însemna 'ordonanță legală' sau 'judecată', având rădăcini germanice în *rehtaz, legate de drept și ordine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curte",
+    "genus": "feminine",
+    "definition": "Instituția care administrează justiția; de asemenea, poate însemna o mâncare pregătită.",
+    "pronunciation": "/ˈkur.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „curte“ stammt vom lateinischen 'cohors, cohortis' ab, ursprünglich ein militärischer Begriff, der sich auf einen Hof oder eine Umzäunung bezog und später die Bedeutung einer Gerichtsstätte annahm.",
+        "targetText": "Cuvântul românesc „curte” provine din latină, de la 'cohors, cohortis', inițial un termen militar pentru un spațiu închis, care ulterior a căpătat sensul de loc al judecății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anwalt",
+      "targetText": "avocat"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Speise",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Urteil",
+      "targetText": "sentință"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Gericht hat den Angeklagten freigesprochen.",
+      "targetText": "Curtea a achitat inculpatul."
+    },
+    {
+      "sourceText": "Das Gericht war köstlich und gut gewürzt.",
+      "targetText": "Mâncarea a fost delicioasă și bine condimentată."
+    },
+    {
+      "sourceText": "Im Gerichtssaal herrschte eine angespannte Atmosphäre.",
+      "targetText": "În sala de judecată domnea o atmosferă tensionată."
+    },
+    {
+      "sourceText": "Das Gericht tagt täglich außer sonntags.",
+      "targetText": "Curtea ține ședințe zilnic, cu excepția duminicii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „curte“ klingt ähnlich wie das deutsche Wort „Court“ im Englischen, was auch Gericht bedeutet – so kannst du dir die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „curte“ hat eine militärische Herkunft (cohors), was dir hilft, die historische Bedeutung als abgegrenzter Ort zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „Gericht“ im Deutschen auch Essen bedeuten kann, aber im Rumänischen heißt das Gericht als Institution „curte“ – für Essen benutzt man andere Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein König in seiner 'curte' Recht spricht – so verbindet sich der Ort mit Gericht und Justiz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

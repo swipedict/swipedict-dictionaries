@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-krankenhaus",
+  "parent": "ms-ro-spital-e8923193@a3412c8aaaab40ba6e9f05f51805c752",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Krankenhaus",
+    "genus": "neuter",
+    "definition": "Ein Gebäude, in dem kranke Menschen medizinisch versorgt werden.",
+    "pronunciation": "/ˈkraŋkn̩ˌhaʊ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Krankenhaus“ setzt sich aus 'krank' und 'Haus' zusammen, wobei 'krank' vom althochdeutschen 'kranc' stammt und 'Haus' vom germanischen 'hūs'.",
+        "targetText": "Substantivul german „Krankenhaus” este compus din 'krank' (din germana veche înaltă 'kranc') și 'Haus' (din rădăcina germanică 'hūs')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "spital",
+    "genus": "neuter",
+    "definition": "O clădire în care oamenii bolnavi primesc îngrijiri medicale.",
+    "pronunciation": "/spiˈtal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „spital“ stammt vom lateinischen 'hospitalis' ab, was 'zum Gast gehörend' bedeutet, und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „spital” provine din latină, din 'hospitalis', care înseamnă 'aparținând oaspeților', fiind preluat prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Krankenpflege",
+      "targetText": "îngrijire medicală"
+    },
+    {
+      "sourceText": "Medizin",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "Notaufnahme",
+      "targetText": "urgență"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Krankenhaus ist rund um die Uhr geöffnet.",
+      "targetText": "Spitalul este deschis non-stop."
+    },
+    {
+      "sourceText": "Sie arbeitet als Ärztin im Krankenhaus.",
+      "targetText": "Ea lucrează ca doctoriță în spital."
+    },
+    {
+      "sourceText": "Im Krankenhaus werden Patienten behandelt.",
+      "targetText": "În spital se tratează pacienții."
+    },
+    {
+      "sourceText": "Das Krankenhaus hat eine moderne Ausstattung.",
+      "targetText": "Spitalul are echipamente moderne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Krankenhaus' ist zusammengesetzt, im Rumänischen benutzt man ein eigenes Wort: 'spital'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'spital' klingt ähnlich wie das englische 'hospital' – beide stammen vom lateinischen 'hospitalis'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'spital' hilft dir, es mit 'hospital' im Englischen oder Französischen zu verbinden und so leichter zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Spital' ist ein Ort, an dem Gäste (Patienten) medizinisch versorgt werden – vom lateinischen 'hospitalis'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

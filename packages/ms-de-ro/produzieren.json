@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-produzieren",
+  "parent": "ms-ro-a-produce-70f1183e@c28bfda6816d40c0996f73d717b48f37",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "produzieren",
+    "definition": "herstellen oder erzeugen",
+    "pronunciation": "/pʁoˈdyːtsiʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich vom lateinischen „producere“ ab, was „herausführen“ oder „hervorbringen“ bedeutet, zusammengesetzt aus „pro“ (vor) und „ducere“ (führen).",
+        "targetText": "Verbul german „produzieren“ provine din latinescul „producere“, care înseamnă „a conduce înainte“ sau „a produce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft im industriellen oder wirtschaftlichen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a produce",
+    "definition": "a fabrica sau a genera",
+    "pronunciation": "/a proˈdu.tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a produce“ stammt direkt vom lateinischen „producere“ und bedeutet „herstellen“ oder „hervorbringen“.",
+        "targetText": "Verbul românesc „a produce“ provine direct din latinescul „producere“ și înseamnă „a fabrica“ sau „a genera“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird verwendet, um die Herstellung von Produkten und Waren zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Generieren",
+      "explanation": {
+        "sourceText": "Für die Bildung oder Erzeugung von Ideen oder Konzepten.",
+        "targetText": "Pentru crearea de idei sau concepte."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir generieren neue Ideen.",
+          "targetText": "Generăm idei noi."
+        }
+      ]
+    },
+    {
+      "gloss": "Herstellen",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Schaffung von Gütern.",
+        "targetText": "Se referă la crearea bunurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich stelle Möbel her.",
+          "targetText": "Eu produc mobilă."
+        }
+      ]
+    },
+    {
+      "gloss": "Herstellung von Materialien",
+      "explanation": {
+        "sourceText": "Ebenfalls für den Umgang mit Materialien.",
+        "targetText": "De asemenea, pentru producția de materiale."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Firma stellt qualitativ hochwertige Materialien her.",
+          "targetText": "Compania produce materiale de calitate superioară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fabrik",
+      "targetText": "fabrică"
+    },
+    {
+      "sourceText": "Herstellung",
+      "targetText": "fabricare"
+    },
+    {
+      "sourceText": "Industrie",
+      "targetText": "industrie"
+    },
+    {
+      "sourceText": "Produkt",
+      "targetText": "produs"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "konsumieren",
+      "targetText": "a consuma"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich produziere täglich neue Inhalte.",
+      "targetText": "Eu produc zilnic conținut nou."
+    },
+    {
+      "sourceText": "Produzierst du die neuen Modelle?",
+      "targetText": "Produci noile modele?"
+    },
+    {
+      "sourceText": "Sie produziert die besten Filme.",
+      "targetText": "Ea produce cele mai bune filme."
+    },
+    {
+      "sourceText": "Wir produzieren umweltfreundliche Produkte.",
+      "targetText": "Noi producem produse ecologice."
+    },
+    {
+      "sourceText": "Produziert ihr in großen Mengen?",
+      "targetText": "Produciți în cantități mari?"
+    },
+    {
+      "sourceText": "Sie produzieren innovative Lösungen.",
+      "targetText": "Ei produc soluții inovatoare."
+    },
+    {
+      "sourceText": "Ich habe gestern ein neues Produkt produziert.",
+      "targetText": "Am produs un nou produs ieri."
+    },
+    {
+      "sourceText": "Sie haben den Film erfolgreich produziert.",
+      "targetText": "Au produs filmul cu succes."
+    },
+    {
+      "sourceText": "Er produzierte viele Filme in den 90ern.",
+      "targetText": "El producea multe filme în anii '90."
+    },
+    {
+      "sourceText": "Ich hatte das Produkt bereits produziert, bevor du ankamst.",
+      "targetText": "Produsesem deja produsul înainte de a veni."
+    },
+    {
+      "sourceText": "Ich werde morgen ein neues Produkt produzieren.",
+      "targetText": "Voi produce un nou produs mâine."
+    },
+    {
+      "sourceText": "Er wird die neue Software produzieren.",
+      "targetText": "El o să producă noul software."
+    },
+    {
+      "sourceText": "Ich würde mehr produzieren, wenn ich die Ressourcen hätte.",
+      "targetText": "Aș produce mai mult dacă aș avea resursele."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du rechtzeitig produzierst.",
+      "targetText": "Este important să produci la timp."
+    },
+    {
+      "sourceText": "Produziere dein bestes Werk!",
+      "targetText": "Produce-ți cele mai bune lucrări!"
+    },
+    {
+      "sourceText": "Produziert die Filme schnell!",
+      "targetText": "Produciți filmele repede!"
+    },
+    {
+      "sourceText": "Das produzierte Produkt wurde gut aufgenommen.",
+      "targetText": "Produsul produs a fost bine primit."
+    },
+    {
+      "sourceText": "Die Waren sind jetzt produziert.",
+      "targetText": "Produsele sunt acum produse."
+    },
+    {
+      "sourceText": "Produzierend neue Ideen, kam er zu einer Lösung.",
+      "targetText": "Producând idei noi, a ajuns la o soluție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Produzieren“ und „a produce“ sind Kognaten – beide stammen vom lateinischen „producere“ und bedeuten „herstellen“."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an die Produktion in einer Fabrik – so kannst du dir „a produce“ gut merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die rumänischen Konjugationsendungen: ich „-c“, du „-ci“, er/sie/es „-ce“ bei „a produce“."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu produc“ (ich produziere) und „Produciți?“ (produziert ihr?) für bessere Erinnerung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Produkt“ und „produzieren“ mit „a produce“ – alle Wörter haben denselben Ursprung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

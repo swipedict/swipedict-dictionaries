@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-frosch",
+  "parent": "ms-ro-broasca-de39e155@5f8396595f20eb6b9f44b1eafbeab017",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Frosch",
+    "genus": "masculine",
+    "definition": "Ein kleines, meist grünes Amphibium, das quakt.",
+    "pronunciation": "/fʁɔʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Frosch“ stammt vom althochdeutschen 'frosk' ab, das auf die germanische Wurzel *fruskaz zurückgeht.",
+        "targetText": "Cuvântul german „Frosch” provine din germana veche înaltă 'frosk', derivat din rădăcina germanică *fruskaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "broască",
+    "genus": "feminine",
+    "definition": "Un amfibian mic, de obicei verde, care face sunetul 'broaște'.",
+    "pronunciation": "/broˈaʃkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „broască“ stammt vom lateinischen 'broscus', das wiederum aus dem Griechischen 'bróskos' für Frosch abgeleitet ist.",
+        "targetText": "Cuvântul românesc „broască” provine din latinul 'broscus', care la rândul său derivă din grecescul 'bróskos', însemnând broască."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Amphibium",
+      "targetText": "amfibian"
+    },
+    {
+      "sourceText": "Kröte",
+      "targetText": "bufniță"
+    },
+    {
+      "sourceText": "quaken",
+      "targetText": "a broaște"
+    },
+    {
+      "sourceText": "Teich",
+      "targetText": "iaz"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Frosch sitzt auf dem Blatt.",
+      "targetText": "Broasca stă pe frunză."
+    },
+    {
+      "sourceText": "Frösche leben oft in der Nähe von Teichen.",
+      "targetText": "Broaștele trăiesc adesea lângă iazuri."
+    },
+    {
+      "sourceText": "Der Frosch quakt laut.",
+      "targetText": "Broasca broaște tare."
+    },
+    {
+      "sourceText": "Ich habe einen Frosch im Garten gesehen.",
+      "targetText": "Am văzut o broască în grădină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'broască' klingt wie 'Broa-sche' – stell dir vor, die Broa (Broaște) quaken laut."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ască', eine typische Endung für viele rumänische Substantive."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'broască' vom griechischen Wort für Frosch stammt, was die Herkunft verdeutlicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort mit dem Bild eines grünen Frosches, der auf einem Blatt sitzt, um es leichter zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

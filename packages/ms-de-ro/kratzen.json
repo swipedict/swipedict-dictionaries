@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-kratzen",
+  "parent": "ms-ro-a-zgaria-92fc7787@c6ee1b81fc6cfc21806bf94e751ec7c6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kratzen",
+    "definition": "eine schmerzhafte oder störende Berührung mit einer scharfen Kante oder einer Körperstelle verursachen",
+    "pronunciation": "/ˈkʁat͡sən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „kratzen“ abgeleitet, verwandt mit dem englischen „scratch“, bezeichnet es das Scharren oder Reißen der Haut.",
+        "targetText": "Vom mittelhochdeutschen „kratzen“ abgeleitet, verwandt mit dem englischen „scratch“, bezeichnet es das Scharren oder Reißen der Haut."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt das Reißen oder Scharren der Haut, oft um Juckreiz zu lindern oder einen Gegenstand abzutasten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a zgâria",
+    "definition": "a provoca o atingere dureroasă sau neplăcută cu o margine ascuțită sau o parte a corpului",
+    "pronunciation": "/a zɡɨˈri.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom slawischen Verb „zgariti“ abstammend, bedeutet es „kratzen“ oder „schrammen“ und ist in mehreren romanischen Sprachen ähnlich.",
+        "targetText": "Vom slawischen Verb „zgariti“ abstammend, bedeutet es „kratzen“ oder „schrammen“ und ist in mehreren romanischen Sprachen ähnlich."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird sowohl für das Kratzen der Haut als auch für das Geräusch verwendet, das beim Scharren entsteht."
+  },
+  "senses": [
+    {
+      "gloss": "Kratzen auf einer Oberfläche",
+      "explanation": {
+        "sourceText": "Verwendung des Verbs in Bezug auf Oberflächen.",
+        "targetText": "Utilizarea verbului referitor la suprafețe."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kratze die Wand ab.",
+          "targetText": "Zgârii pereții."
+        }
+      ]
+    },
+    {
+      "gloss": "Sich kratzen zur Linderung",
+      "explanation": {
+        "sourceText": "Gebrauch des Verbs zur Erläuterung des Vorgangs beim Kratzen.",
+        "targetText": "Folosirea verbului pentru a descrie acțiunea de a se scărpina pentru alinare."
+      },
+      "examples": [
+        {
+          "sourceText": "Er kratzt seinen Juckreiz.",
+          "targetText": "El se zgârie de mâncărime."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Finger",
+      "targetText": "deget"
+    },
+    {
+      "sourceText": "Haut",
+      "targetText": "piele"
+    },
+    {
+      "sourceText": "Kratzer",
+      "targetText": "zgârieturi"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "streicheln",
+      "targetText": "a mângâia"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kratze mir den Kopf.",
+      "targetText": "Mă zgârii pe cap."
+    },
+    {
+      "sourceText": "Er kratzte an der Wand.",
+      "targetText": "El zgâria peretele."
+    },
+    {
+      "sourceText": "Ich werde am Auto kratzen.",
+      "targetText": "Voi zgâria mașina."
+    },
+    {
+      "sourceText": "Kratze es nicht!",
+      "targetText": "Nu zgâria!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „zg“ in „zgâria“ klingt wie das deutsche „kr“ in „kratzen“ – so kannst du die Wörter klanglich verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du bist ein Kätzchen, das sich überall kratzen muss – so merkst du dir „a zgâria“ als das Verb für Kratzen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

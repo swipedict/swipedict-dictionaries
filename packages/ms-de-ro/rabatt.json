@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-rabatt",
+  "parent": "ms-ro-reducere-b7d0d7b0@77511ec6526e3844696e47907b8b0a5e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Rabatt",
+    "genus": "masculine",
+    "definition": "Ein Preisnachlass, der beim Kauf von Waren oder Dienstleistungen gewährt wird.",
+    "pronunciation": "/ʁaˈbat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Rabatt“ stammt aus dem Französischen „rabattre“, was ‚zurückschlagen‘ oder ‚herabsetzen‘ bedeutet, und wurde im 18. Jahrhundert ins Deutsche übernommen.",
+        "targetText": "Cuvântul german „Rabatt“ provine din francezul „rabattre“, care înseamnă „a da înapoi“ sau „a reduce“, fiind preluat în germană în secolul al XVIII-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "reducere",
+    "genus": "neuter",
+    "definition": "O scădere a prețului acordată la cumpărarea unui bun sau serviciu.",
+    "pronunciation": "/reduˈt͡ʃere/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „reducere“ stammt vom lateinischen Verb 'reducere' ab, das ‚zurückführen‘ oder ‚herabsetzen‘ bedeutet und im Rumänischen die Bedeutung ‚Preisnachlass‘ angenommen hat.",
+        "targetText": "Cuvântul românesc „reducere“ provine din verbul latin 'reducere', care înseamnă „a conduce înapoi“ sau „a reduce“, dobândind în română sensul de „scădere a prețului“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gutschein",
+      "targetText": "cupon"
+    },
+    {
+      "sourceText": "Preisnachlass",
+      "targetText": "reducere de preț"
+    },
+    {
+      "sourceText": "Rabattaktion",
+      "targetText": "campanie de reducere"
+    },
+    {
+      "sourceText": "Sonderangebot",
+      "targetText": "ofertă specială"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Aufpreis",
+      "targetText": "supliment de preț"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Händler gewährt einen Rabatt von 10 % auf alle Produkte.",
+      "targetText": "Comerciantul acordă o reducere de 10% la toate produsele."
+    },
+    {
+      "sourceText": "Bei größeren Bestellungen gibt es oft einen Rabatt.",
+      "targetText": "La comenzile mai mari există adesea o reducere."
+    },
+    {
+      "sourceText": "Der Rabatt wird direkt vom Gesamtpreis abgezogen.",
+      "targetText": "Reducerea se scade direct din prețul total."
+    },
+    {
+      "sourceText": "Ich habe einen Rabattcode für den Online-Shop erhalten.",
+      "targetText": "Am primit un cod de reducere pentru magazinul online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „reducere“ klingt ähnlich wie das deutsche Wort „reduzieren“, was dir hilft, die Bedeutung als Preisnachlass zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Rabatt“ kommt vom französischen „rabattre“ – denk an „zurückschlagen“ des Preises, also eine Preissenkung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „reduzierst“ den Preis – genau das bedeutet „reducere“ im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du beim Einkaufen einen „Rabatt“ bekommst, kannst du dir vorstellen, dass der Preis „reduziert“ wird – das hilft dir, „reducere“ zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

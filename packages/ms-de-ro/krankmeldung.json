@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-krankmeldung",
+  "parent": "ms-ro-adeverinta-medicala-f2f5369e@0dc58ac1a89acc2cb69bf2ff79f6af40",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Krankmeldung",
+    "genus": "feminine",
+    "definition": "Eine schriftliche oder mündliche Mitteilung, dass jemand krank ist und deshalb nicht zur Arbeit oder Schule kommen kann.",
+    "pronunciation": "/ˈkʁaŋkmɛldʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Krankmeldung“ setzt sich aus 'krank' und 'Meldung' zusammen, wobei 'Meldung' vom mittelhochdeutschen 'melden' stammt, was 'melden, anzeigen' bedeutet.",
+        "targetText": "Cuvântul german „Krankmeldung” este compus din „krank” și „Meldung”, unde „Meldung” provine din germana mijlocie 'melden', însemnând 'a anunța, a raporta'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "adeverință medicală",
+    "genus": "feminine",
+    "definition": "Un document oficial care atestă că o persoană este bolnavă și nu poate merge la muncă sau la școală.",
+    "pronunciation": "/adeveˈrint͡sə mediˈkalə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „adeverință” stammt vom lateinischen 'ad- + verus' (wahr) ab, was eine Bescheinigung oder ein offizielles Dokument bezeichnet.",
+        "targetText": "Cuvântul românesc „adeverință” provine din latină, compus din 'ad-' și 'verus' (adevărat), însemnând o certificare sau un document oficial."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Das Wort „medicală“ ist ein Adjektiv, das sich auf Medizin oder Gesundheit bezieht."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitsunfähigkeit",
+      "targetText": "incapacitate de muncă"
+    },
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Krankschreibung",
+      "targetText": "certificat medical"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe dem Arbeitgeber eine Krankmeldung geschickt.",
+      "targetText": "Am trimis angajatorului o adeverință medicală."
+    },
+    {
+      "sourceText": "Die Krankmeldung muss vom Arzt ausgestellt werden.",
+      "targetText": "Adeverința medicală trebuie emisă de medic."
+    },
+    {
+      "sourceText": "Ohne Krankmeldung darf man nicht zu Hause bleiben.",
+      "targetText": "Fără adeverință medicală nu ai voie să stai acasă."
+    },
+    {
+      "sourceText": "Die Krankmeldung gilt für eine Woche.",
+      "targetText": "Adeverința medicală este valabilă o săptămână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „adeverință“ klingt wie „ad-VERINȚĂ“ – stell dir vor, du bekommst eine 'wahre' (verus) Bestätigung (adeverință) von deinem Arzt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „adeverință“ ein offizielles Dokument ist, ähnlich wie eine „Meldung“ im Deutschen, die etwas offiziell anzeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du musst deinem Chef eine „wahre“ (adeverință) Nachricht schicken, dass du krank bist – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „adeverință medicală“ mit dem deutschen Wort „Medizin“ – das Adjektiv „medicală“ zeigt den medizinischen Bezug an."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

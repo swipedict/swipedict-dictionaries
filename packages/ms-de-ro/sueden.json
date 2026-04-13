@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-sueden",
+  "parent": "ms-ro-sud-b16127e9@d8b188d6d7e24f521833abfb45dc7db0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Süden",
+    "genus": "masculine",
+    "definition": "Himmelsrichtung, die nach Süden zeigt, gegenüber von Norden.",
+    "pronunciation": "/ˈzyːdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Süden“ stammt vom althochdeutschen 'sūdan' ab, das auf die indogermanische Wurzel *sū- zurückgeht, welche mit 'warm' oder 'Sonne' assoziiert wird, da Süden traditionell mit Wärme und Sonne verbunden ist.",
+        "targetText": "Cuvântul german „Süden” provine din germana veche înaltă 'sūdan', care la rândul său derivă din rădăcina indo-europeană *sū-, asociată cu 'cald' sau 'soare', deoarece sudul este tradițional legat de căldură și soare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sud",
+    "genus": "neuter",
+    "definition": "Direcția cardinală care indică spre partea de jos a hărții, opusă nordului.",
+    "pronunciation": "/sud/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sud“ stammt direkt vom lateinischen 'sudus' oder 'sud-', das mit 'südlich' oder 'Süden' verbunden ist, und ist Teil des lateinischen Erbes der rumänischen Sprache.",
+        "targetText": "Cuvântul românesc „sud” provine direct din latină, din termenul 'sudus' sau rădăcina 'sud-', legată de direcția sudică, făcând parte din moștenirea latină a limbii române."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Himmelsrichtung",
+      "targetText": "direcție cardinală"
+    },
+    {
+      "sourceText": "Norden",
+      "targetText": "nord"
+    },
+    {
+      "sourceText": "Osten",
+      "targetText": "est"
+    },
+    {
+      "sourceText": "Westen",
+      "targetText": "vest"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Norden",
+      "targetText": "nord"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Süden ist oft wärmer als der Norden.",
+      "targetText": "Sudul este adesea mai cald decât nordul."
+    },
+    {
+      "sourceText": "Wir fahren in den Süden, um Urlaub zu machen.",
+      "targetText": "Mergem spre sud pentru a face vacanță."
+    },
+    {
+      "sourceText": "Die Sonne steht im Süden am höchsten.",
+      "targetText": "Soarele este cel mai sus în sud."
+    },
+    {
+      "sourceText": "Im Süden gibt es viele schöne Strände.",
+      "targetText": "În sud există multe plaje frumoase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Süden' und das rumänische 'sud' klingen ähnlich und haben beide eine lateinische Herkunft – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'sud' ist kurz und prägnant – denk an das englische 'south', das ähnlich klingt und dieselbe Richtung meint."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'sud' als das rumänische Wort für Süden, indem du an die Sonne (Sonne = warm) denkst, die im Süden am höchsten steht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist auf einer Karte und drehst dich nach 'sud', genau wie im Deutschen 'Süden' – beide zeigen nach unten auf der Karte."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-begreiflich",
+  "parent": "ms-ro-comprehensibil-0f590426@270ffc64cf6fa447c1dc28c8256bf574",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "begreiflich",
+    "definition": "verständlich oder nachvollziehbar; so, dass man es (mit dem Verstand) erfassen oder verstehen kann",
+    "pronunciation": "/bəˈɡʁaɪ̯flɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom Verb 'begreifen' (erfassen, verstehen) mit dem Suffix '-lich'. 'Begreifen' selbst kommt vom mittelhochdeutschen 'begrīfen'.",
+        "targetText": "Derivat din verbul german „begreifen“ (a înțelege), format cu sufixul „-lich“ pentru a forma adjectivul."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Wird oft verwendet, um die Verständlichkeit oder Nachvollziehbarkeit von Konzepten, Erklärungen oder Gründen auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "comprehensibil",
+    "definition": "care poate fi înțeles, priceput sau conceput (cu mintea); inteligibil",
+    "pronunciation": "/kom.pre.henˈsi.bil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus dem französischen „compréhensible“, vom lateinischen „comprehensibilis“, verwandt mit dem Verb „a înțelege“.",
+        "targetText": "Din franceză „compréhensible“, derivat din latină „comprehensibilis“, legat de verbul „a înțelege“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjektiv variabel (comprehensibil, comprehensibilă, comprehensibili, comprehensibile). Synonyme: inteligibil, de înțeles."
+  },
+  "senses": [
+    {
+      "gloss": "begreiflich (verständlich, nachvollziehbar)",
+      "explanation": {
+        "sourceText": "Etwas ist so dargestellt oder erklärt, dass es leicht verstanden werden kann.",
+        "targetText": "Ceva este prezentat sau explicat astfel încât să poată fi ușor înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "Seine Gründe waren durchaus begreiflich.",
+          "targetText": "Motivele sale erau pe deplin comprehensibile."
+        },
+        {
+          "sourceText": "Machen Sie es uns begreiflich!",
+          "targetText": "Faceți-ne să înțelegem! / Explicați-ne pe înțelesul nostru!"
+        }
+      ]
+    },
+    {
+      "gloss": "etwas begreiflich machen (erklären)",
+      "explanation": {
+        "sourceText": "Etwas so erklären, dass es verständlich wird.",
+        "targetText": "A explica ceva astfel încât să fie înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Lehrer versuchte, den Schülern die komplexe Theorie begreiflich zu machen.",
+          "targetText": "Profesorul a încercat să le facă elevilor teoria complexă comprehensibilă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "erklären",
+      "targetText": "a explica"
+    },
+    {
+      "sourceText": "klar",
+      "targetText": "clar"
+    },
+    {
+      "sourceText": "nachvollziehbar",
+      "targetText": "comprehensibil"
+    },
+    {
+      "sourceText": "Verstand",
+      "targetText": "minte"
+    },
+    {
+      "sourceText": "verständlich",
+      "targetText": "inteligibil"
+    },
+    {
+      "sourceText": "verstehen",
+      "targetText": "a înțelege"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unbegreiflich",
+      "targetText": "incomprehensibil"
+    },
+    {
+      "sourceText": "unverständlich",
+      "targetText": "neinteligibil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Erklärungen waren begreiflich und einfach.",
+      "targetText": "Explicațiile au fost comprehensibile și simple."
+    },
+    {
+      "sourceText": "Es ist wichtig, begreifliche Inhalte zu vermitteln.",
+      "targetText": "Este important să transmitem conținuturi comprehensibile."
+    },
+    {
+      "sourceText": "Seine Reaktion ist für mich nicht begreiflich.",
+      "targetText": "Reacția sa nu este comprehensibilă pentru mine."
+    },
+    {
+      "sourceText": "Es wurde ihm schnell begreiflich, dass er einen Fehler gemacht hatte.",
+      "targetText": "A înțeles repede (i s-a făcut clar) că făcuse o greșeală."
+    },
+    {
+      "sourceText": "Das ist doch vollkommen begreiflich!",
+      "targetText": "Acest lucru este perfect comprehensibil!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „comprehensibil“ ähnelt stark dem englischen „comprehensible“. Diese Ähnlichkeit hilft dir, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das deutsche Verb „begreifen“ (greifen, erfassen). Wenn du etwas greifen kannst, kannst du es auch verstehen – genau wie „comprehensibil“ im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

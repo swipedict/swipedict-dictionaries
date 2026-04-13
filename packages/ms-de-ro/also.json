@@ -1,0 +1,148 @@
+{
+  "id": "ms-de-ro-also",
+  "parent": "ms-ro-deci-a1a2571b@2143d3888bb17ba92da044169967aeb3",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "also",
+    "definition": "drückt eine Folgerung, Konsequenz oder Schlussfolgerung aus; leitet eine Zusammenfassung oder einen neuen Gedanken ein",
+    "pronunciation": "/ˈalzo/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus althochdeutsch 'alsō' (ganz so, ebenso). Entwickelte sich zu einer konklusiven Partikel.",
+        "targetText": "Provine din germana veche „alsō”, care însemna „așa” sau „tot așa”."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann als Konjunktionaladverb oder als Partikel verwendet werden. Sehr häufig in der gesprochenen Sprache."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "deci",
+    "definition": "exprimă o concluzie, o consecință; introduce o urmare logică sau o recapitulare",
+    "pronunciation": "/det͡ʃʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entstanden aus der lateinischen Phrase 'de ecce hic' (von hier). Wird verwendet, um eine logische Schlussfolgerung einzuleiten.",
+        "targetText": "Provine din expresia latină „de ecce hic” (de aici), folosit pentru a introduce o concluzie."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Conjuncție concluzivă sehr häufig in gesprochener und geschriebener Sprache."
+  },
+  "senses": [
+    {
+      "gloss": "also (folglich, daher)",
+      "explanation": {
+        "sourceText": "Wird verwendet, um eine logische Schlussfolgerung oder Konsequenz auszudrücken.",
+        "targetText": "Este folosit pentru a exprima o concluzie logică sau o consecință."
+      },
+      "examples": [
+        {
+          "sourceText": "Es regnet, also nehmen wir einen Schirm.",
+          "targetText": "Plouă, deci luăm o umbrelă."
+        }
+      ]
+    },
+    {
+      "gloss": "also (nun gut, als Einleitung)",
+      "explanation": {
+        "sourceText": "Wird verwendet, um einen neuen Gedanken einzuleiten oder eine Rede zu beginnen/fortzusetzen.",
+        "targetText": "Este folosit pentru a introduce un nou gând sau pentru a începe/continua o vorbire."
+      },
+      "examples": [
+        {
+          "sourceText": "Also, was machen wir heute?",
+          "targetText": "Deci, ce facem astăzi?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "daher",
+      "targetText": "prin urmare"
+    },
+    {
+      "sourceText": "deshalb",
+      "targetText": "de aceea"
+    },
+    {
+      "sourceText": "folglich",
+      "targetText": "în consecință"
+    },
+    {
+      "sourceText": "nun",
+      "targetText": "ei bine"
+    },
+    {
+      "sourceText": "Schlussfolgerung",
+      "targetText": "concluzie"
+    },
+    {
+      "sourceText": "somit",
+      "targetText": "așadar"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dennoch",
+      "targetText": "totuși"
+    },
+    {
+      "sourceText": "obwohl",
+      "targetText": "deși"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es ist spät, also sollten wir nach Hause gehen.",
+      "targetText": "E târziu, deci ar trebui să mergem acasă."
+    },
+    {
+      "sourceText": "Es regnet, also bleiben wir drinnen.",
+      "targetText": "Plouă, deci rămânem înăuntru."
+    },
+    {
+      "sourceText": "Ich habe keine Zeit, also kann ich nicht kommen.",
+      "targetText": "Nu am timp, deci nu pot veni."
+    },
+    {
+      "sourceText": "Also, fangen wir an!",
+      "targetText": "Deci, să începem!"
+    },
+    {
+      "sourceText": "Sie hat viel gelernt, also hat sie die Prüfung bestanden.",
+      "targetText": "A învățat mult, deci a trecut examenul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "'Deci' ist kurz und bündig, oft am Satzanfang, um eine logische Folge einzuleiten – genau wie 'also' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'also' als das Wort, das sagt: 'Deshalb passiert jetzt das...' – das rumänische 'deci' macht genau dasselbe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

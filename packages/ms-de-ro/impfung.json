@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-impfung",
+  "parent": "ms-ro-vaccinare-6bd09fe0@b8edb567f1c1844005719f40e98271f4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Impfung",
+    "genus": "feminine",
+    "definition": "Die Verabreichung eines Impfstoffs, um Immunität gegen eine Krankheit zu erzeugen.",
+    "pronunciation": "/ˈɪmpfʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Impfung“ stammt vom Verb „impfen“ ab, das aus dem mittelhochdeutschen 'impfen' kommt und ursprünglich 'einen Trieb einsetzen' bedeutete, übertragen auf das Einsetzen von Krankheitserregern zur Immunisierung.",
+        "targetText": "Cuvântul german „Impfung” provine de la verbul „impfen”, care la rândul său vine din germana mijlocie 'impfen' și însemna inițial 'a înfige o creangă', folosit metaforic pentru introducerea agenților patogeni în scopul imunizării."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vaccinare",
+    "genus": "feminine",
+    "definition": "Administrarea unui vaccin pentru a crea imunitate împotriva unei boli.",
+    "pronunciation": "/vak.t͡siˈna.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vaccinare“ stammt vom lateinischen 'vaccinus' ab, was 'von Kühen' bedeutet, da die erste Impfung gegen Kuhpocken entwickelt wurde.",
+        "targetText": "Cuvântul românesc „vaccinare” provine din latină, de la 'vaccinus', care înseamnă 'legat de vacă', referindu-se la prima vaccinare împotriva variolei bovine."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Immunität",
+      "targetText": "imunitate"
+    },
+    {
+      "sourceText": "Impfstoff",
+      "targetText": "vaccin"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ansteckung",
+      "targetText": "contaminare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Impfung schützt vor gefährlichen Krankheiten.",
+      "targetText": "Vaccinarea protejează împotriva bolilor periculoase."
+    },
+    {
+      "sourceText": "Viele Kinder erhalten ihre erste Impfung im Säuglingsalter.",
+      "targetText": "Mulți copii primesc prima vaccinare în perioada sugarului."
+    },
+    {
+      "sourceText": "Nach der Impfung kann es zu leichten Nebenwirkungen kommen.",
+      "targetText": "După vaccinare pot apărea efecte secundare ușoare."
+    },
+    {
+      "sourceText": "Die Impfung ist ein wichtiger Schritt zur Gesundheitsschutz.",
+      "targetText": "Vaccinarea este un pas important pentru protecția sănătății."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Impfung' kommt von 'impfen', was ursprünglich 'einen Trieb einsetzen' bedeutete – ähnlich wie man einen Schutz 'einsetzt'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'vaccinare' erinnert an 'Vacca', das lateinische Wort für Kuh, da die erste Impfung gegen Kuhpocken entwickelt wurde."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'vaccinare' mit 'v' beginnt wie 'Vaccine' im Englischen, was dir hilft, die Bedeutung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie eine Kuh (vacă) dir hilft, gesund zu bleiben – so hilft dir die 'vaccinare' (Impfung)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

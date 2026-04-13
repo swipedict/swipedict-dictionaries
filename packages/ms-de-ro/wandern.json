@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-wandern",
+  "parent": "ms-ro-a-hoinari-7166b5cf@2adb80018857d018a53c6fc03646e588",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wandern",
+    "definition": "zu Fuß in der Natur umhergehen oder eine Wanderung machen",
+    "pronunciation": "/ˈvandɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „wanderen“ abgeleitet, mit Wurzeln im altdeutschen „wandarō“, was „umherziehen“ bedeutet.",
+        "targetText": "Derivat din germana mijlocie „wanderen“, cu rădăcini în germana veche „wandarō“, care înseamnă „a umbla“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bezieht sich oft auf Freizeitaktivitäten in der Natur."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a hoinări",
+    "definition": "a merge pe jos prin natură sau a face o plimbare",
+    "pronunciation": "/a hoiˈnɨ.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom altrumänischen „hoinar“ abgeleitet, was „umherstreifen“ bedeutet. Im Rumänischen beschreibt es das Wandern oder Umherziehen in der Natur.",
+        "targetText": "Derivat din limba română veche „hoinar“, care înseamnă „a umbla fără țintă“. Folosit pentru a descrie plimbările în natură."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft poetisch verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "umherstreifen",
+      "explanation": {
+        "sourceText": "Wandern im Sinne von Umherstreifen.",
+        "targetText": "A umbla fără direcție fixă."
+      },
+      "examples": [
+        {
+          "sourceText": "Er streift durch die Berge.",
+          "targetText": "El hoinărește prin munți."
+        }
+      ]
+    },
+    {
+      "gloss": "wandern (als Freizeitaktivität)",
+      "explanation": {
+        "sourceText": "Wandern als Freizeitbeschäftigung.",
+        "targetText": "Plimbare ca activitate de recreere."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir wandern jetzt.",
+          "targetText": "Acum hoinărim."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "Landschaft",
+      "targetText": "peisaj"
+    },
+    {
+      "sourceText": "Pfad",
+      "targetText": "potecă"
+    },
+    {
+      "sourceText": "Wald",
+      "targetText": "pădure"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bleiben",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wandere oft in den Bergen.",
+      "targetText": "Eu hoinăresc adesea prin munți."
+    },
+    {
+      "sourceText": "Wanderst du im Wald?",
+      "targetText": "Hoinărești prin pădure?"
+    },
+    {
+      "sourceText": "Ich bin gestern gewandert.",
+      "targetText": "Am hoinărit ieri."
+    },
+    {
+      "sourceText": "Ich werde morgen wandern.",
+      "targetText": "Voi hoinări mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „hoinări“ klingt wie „hinterher irren“ – stell dir vor, du wanderst ohne festen Plan."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „wandern“ mit „a hoinări“ durch die Vorstellung, wie man gemütlich durch die Natur streift."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

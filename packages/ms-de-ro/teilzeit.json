@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-teilzeit",
+  "parent": "ms-ro-timp-partial-0ee212c5@3e17c5de4e7d3cfefa1f29f59c67bc2f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Teilzeit",
+    "genus": "feminine",
+    "definition": "Arbeitszeit, die weniger als die volle reguläre Arbeitszeit umfasst; Teilweise Beschäftigung.",
+    "pronunciation": "/ˈtaɪ̯lˌtsaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Teilzeit“ setzt sich aus den Wörtern 'Teil' und 'Zeit' zusammen und entstand im 20. Jahrhundert im Kontext der Arbeitszeitregelungen.",
+        "targetText": "Cuvântul german „Teilzeit” este compus din „Teil” (parte) și „Zeit” (timp) și a apărut în secolul XX în contextul reglementărilor privind timpul de lucru."
+      },
+      "source": "Deutsche Wortgeschichte, Arbeitssoziologie"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "timp parțial",
+    "genus": "neuter",
+    "definition": "Durata de lucru care este mai scurtă decât timpul complet de lucru; angajare cu normă redusă.",
+    "pronunciation": "/ˈtimp parˈt͡ʃial/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „timp parțial“ stammt vom lateinischen Wort 'tempus' für 'Zeit' und dem Adjektiv 'parțial', das aus dem lateinischen 'partialis' kommt und 'teilweise' bedeutet.",
+        "targetText": "Expresia românească „timp parțial” provine din cuvântul latin 'tempus' pentru 'timp' și adjectivul 'parțial', derivat din latină 'partialis', care înseamnă 'parțial'."
+      },
+      "source": "Dicționar etimologic român, Lingvistică comparată"
+    },
+    "additional": "Wird häufig im Kontext von Arbeitsverträgen und Beschäftigungsformen verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitszeit",
+      "targetText": "timp de lucru"
+    },
+    {
+      "sourceText": "Beschäftigung",
+      "targetText": "angajare"
+    },
+    {
+      "sourceText": "Teilzeitjob",
+      "targetText": "job cu normă redusă"
+    },
+    {
+      "sourceText": "Vollzeit",
+      "targetText": "normă întreagă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Vollzeit",
+      "targetText": "normă întreagă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie arbeitet in Teilzeit, um mehr Zeit für ihre Familie zu haben.",
+      "targetText": "Ea lucrează cu timp parțial pentru a avea mai mult timp pentru familie."
+    },
+    {
+      "sourceText": "Teilzeitstellen sind besonders bei Studierenden beliebt.",
+      "targetText": "Locurile de muncă cu timp parțial sunt deosebit de populare în rândul studenților."
+    },
+    {
+      "sourceText": "Viele Menschen bevorzugen Teilzeit, um Beruf und Privatleben besser zu vereinbaren.",
+      "targetText": "Mulți oameni preferă timpul parțial pentru a-și echilibra mai bine viața profesională cu cea personală."
+    },
+    {
+      "sourceText": "Die Teilzeitarbeit kann flexibel gestaltet werden.",
+      "targetText": "Munca cu timp parțial poate fi organizată flexibil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'parțial' klingt ähnlich wie das deutsche 'partiell', was dir hilft, die Bedeutung 'teilweise' zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'timp' ist verwandt mit dem lateinischen 'tempus' und bedeutet 'Zeit' – so kannst du es leicht mit 'Zeit' verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'Teil' als einen Teil eines Ganzen und 'Zeit' als Zeit – zusammen ergibt das 'timp parțial', also 'teilweise Zeit'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine Uhr, die nur einen Teil des Tages anzeigt – das ist deine 'timp parțial' (Teilzeit)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

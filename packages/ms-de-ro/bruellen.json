@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-bruellen",
+  "parent": "ms-ro-a-racni-a3276bf4@3e309e0dc7329368fed694067901c734",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "brüllen",
+    "definition": "Laut und kräftig schreien, oft in Wut oder Schmerz.",
+    "pronunciation": "/ˈbʁʏlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „brüllen“ stammt vom mittelhochdeutschen 'brüllen' ab, das lautmalerisch den Klang eines lauten Schreis nachahmt.",
+        "targetText": "Verbul german „brüllen“ provine din germana mijlocie 'brüllen', care imită fonetic sunetul unui strigăt puternic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a răcni",
+    "definition": "A striga tare și puternic, adesea din furie sau durere.",
+    "pronunciation": "/a rəˈknʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a răcni“ ist lautmalerisch gebildet und imitiert den Klang eines lauten, durchdringenden Schreis.",
+        "targetText": "Verbul românesc „a răcni” este format onomatopeic, imitând sunetul unui strigăt puternic și ascuțit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, unregelmäßig in der Aussprache."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "brüllen (Tier)",
+      "targetText": "a mârâi"
+    },
+    {
+      "sourceText": "laut",
+      "targetText": "tare"
+    },
+    {
+      "sourceText": "schreien",
+      "targetText": "a țipa"
+    },
+    {
+      "sourceText": "Wut",
+      "targetText": "furie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "flüstern",
+      "targetText": "a șopti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er brüllt vor Wut.",
+      "targetText": "El răcnește de furie."
+    },
+    {
+      "sourceText": "Das Kind brüllte laut im Supermarkt.",
+      "targetText": "Copilul a răcnit tare în supermarket."
+    },
+    {
+      "sourceText": "Der Löwe brüllt in der Savanne.",
+      "targetText": "Leul răcnește în savană."
+    },
+    {
+      "sourceText": "Bitte brüll nicht so laut!",
+      "targetText": "Te rog, nu răcni atât de tare!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'răcni' klingt wie ein kräftiger, rauer Schrei – das 'răc-' erinnert an das deutsche 'Rachen', wo der Laut entsteht."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ist onomatopoetisch, also lautmalerisch – es klingt wie das Geräusch eines lauten Schreis."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'răcni' ist das starke, laute Schreien, das man mit Wut oder Schmerz verbindet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand 'rackt' (englisch für anstrengen) seine Stimme, um laut zu brüllen – so merkst du dir 'răcni'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

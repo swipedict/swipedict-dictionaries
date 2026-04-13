@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-sitzplatz",
+  "parent": "ms-ro-loc-de-sezut-9a4d572f@e12b6c67b43c49d8b63d8397c262eb8b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sitzplatz",
+    "genus": "masculine",
+    "definition": "Ein Platz, an dem man sitzen kann, z. B. ein Stuhl oder eine Sitzgelegenheit.",
+    "pronunciation": "/ˈzɪt͡splats/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sitzplatz“ setzt sich aus 'Sitz' (von althochdeutsch 'siz', verwandt mit dem germanischen Wort für 'sitzen') und 'Platz' (von mittelhochdeutsch 'platz', entlehnt aus dem lateinischen 'platea' für 'breite Straße, Platz') zusammen.",
+        "targetText": "Cuvântul german „Sitzplatz” este compus din „Sitz” (de la germana veche înaltă 'siz', legat de verbul germanic pentru 'a sta') și „Platz” (din germana mijlocie 'platz', împrumutat din latină 'platea', însemnând 'piață largă, loc')."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "loc de șezut",
+    "genus": "neuter",
+    "definition": "Un loc destinat pentru a sta jos, cum ar fi un scaun sau o altă formă de așezare.",
+    "pronunciation": "/lok de ʃeˈzut/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „loc de șezut“ besteht aus 'loc' (vom lateinischen 'locus', was 'Ort' bedeutet) und 'șezut', dem Partizip von 'a ședea' (vom lateinischen 'sedere', 'sitzen').",
+        "targetText": "Expresia românească „loc de șezut” este formată din „loc” (din latină 'locus', însemnând 'loc') și „șezut”, participiul verbului „a ședea” (din latină 'sedere', 'a sta jos')."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Die Phrase wird häufig verwendet, um Sitzgelegenheiten allgemein zu beschreiben."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bank (Sitzmöbel)",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "Platz",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Sitz",
+      "targetText": "șezut"
+    },
+    {
+      "sourceText": "Stuhl",
+      "targetText": "scaun"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Bitte nehmen Sie Ihren Sitzplatz ein.",
+      "targetText": "Vă rugăm să vă luați locul de șezut."
+    },
+    {
+      "sourceText": "Der Sitzplatz im Theater war sehr bequem.",
+      "targetText": "Locul de șezut din teatru a fost foarte confortabil."
+    },
+    {
+      "sourceText": "Wir haben einen Sitzplatz am Fenster reserviert.",
+      "targetText": "Am rezervat un loc de șezut lângă fereastră."
+    },
+    {
+      "sourceText": "Der Sitzplatz im Zug ist nummeriert.",
+      "targetText": "Locul de șezut în tren este numerotat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'șezut' kommt vom lateinischen 'sedere', ähnlich wie das deutsche 'sitzen'. So kannst du die Bedeutung leicht verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'loc' ist wie das deutsche 'Ort' und hilft dir, den ersten Teil von 'loc de șezut' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du suchst einen 'LOC' (Ort) zum 'SITZEN' – so merkst du dir 'loc de șezut'."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an einen Sitzplatz denkst, stell dir vor, du hast einen 'Ort' (loc) zum 'Sitzen' (șezut) – das ist genau die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

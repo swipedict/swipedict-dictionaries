@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-reise",
+  "parent": "ms-ro-calatorie-766fa24e@24f2eabce8a1fa8649f387fd0a25fa53",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Reise",
+    "genus": "feminine",
+    "definition": "Eine geplante oder durchgeführte Fahrt oder Tour von einem Ort zu einem anderen, oft mit dem Zweck der Erholung, des Besuchs oder der Arbeit.",
+    "pronunciation": "/ˈʁaɪ̯zə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Reise“ stammt vom mittelhochdeutschen 'reise' ab, das auf das althochdeutsche 'reisa' zurückgeht, welches mit dem altnordischen 'reisa' (aufbrechen, reisen) verwandt ist und ursprünglich ‚Aufbruch‘ oder ‚Fahrt‘ bedeutete.",
+        "targetText": "Cuvântul german „Reise” provine din germana mijlocie 'reise', care la rândul său derivă din germana veche înaltă 'reisa', înrudit cu termenul nordic vechi 'reisa' (a porni la drum, a călători), însemnând inițial „plecare” sau „călătorie”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "călătorie",
+    "genus": "feminine",
+    "definition": "Deplasarea planificată sau efectuată de la un loc la altul, de obicei pentru recreere, vizită sau muncă.",
+    "pronunciation": "/kə.ləˈto.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „călătorie“ stammt vom lateinischen 'calator' ab, was 'Reisender' bedeutet, abgeleitet von 'calare' (rufen, beschwören), und entwickelte sich zu einem Begriff für eine Reise oder Fahrt.",
+        "targetText": "Cuvântul românesc „călătorie” derivă din latină, de la 'calator' (călător), care provine din verbul 'calare' (a chema, a striga), evoluând spre sensul de deplasare sau călătorie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrt",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "reisen",
+      "targetText": "a călători"
+    },
+    {
+      "sourceText": "Reisender",
+      "targetText": "călător"
+    },
+    {
+      "sourceText": "Tour",
+      "targetText": "tur"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Zuhause",
+      "targetText": "acasă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Reise nach Rumänien dauerte zehn Stunden.",
+      "targetText": "Călătoria în România a durat zece ore."
+    },
+    {
+      "sourceText": "Wir planen eine Reise ans Meer im Sommer.",
+      "targetText": "Planificăm o călătorie la mare vara."
+    },
+    {
+      "sourceText": "Nach der langen Reise war sie sehr müde.",
+      "targetText": "După călătoria lungă, ea era foarte obosită."
+    },
+    {
+      "sourceText": "Die Reise war voller spannender Erlebnisse.",
+      "targetText": "Călătoria a fost plină de experiențe interesante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'călătorie' enthält 'călător', was 'Reisender' bedeutet. Denk an einen 'Call to tour' – ein Ruf zur Reise."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ie', typisch für viele rumänische Substantive, die abstrakte Konzepte oder Handlungen bezeichnen, hier die Handlung des Reisens."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'kallst' (rufst) jemanden zu einer Reise ein – so hilft dir 'călătorie' an die lateinische Wurzel 'calare' zu denken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Reise' mit 'călătorie' durch das Bild eines Reisenden, der auf Tour geht – 'călător' ist der Reisende, 'călătorie' die Reise."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

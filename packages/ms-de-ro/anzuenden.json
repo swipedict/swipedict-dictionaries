@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-anzuenden",
+  "parent": "ms-ro-a-aprinde-c9b87ff7@f7bef3f2949545e26d853c09f42e96a2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anzünden",
+    "definition": "Etwas in Brand setzen, damit es brennt.",
+    "pronunciation": "/ˈantsʏndn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „anzünden“ setzt sich aus der Vorsilbe 'an-' und dem Verb 'zünden' zusammen, wobei 'zünden' vom mittelhochdeutschen 'zünden' stammt, was 'Feuer entfachen' bedeutet.",
+        "targetText": "Verbul german „anzünden“ este compus din prefixul 'an-' și verbul 'zünden', care provine din germana mijlocie 'zünden', însemnând 'a aprinde focul'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aprinde",
+    "definition": "A pune foc la ceva, astfel încât să ardă.",
+    "pronunciation": "/a aˈprinde/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a aprinde“ stammt vom lateinischen 'apprehendere' ab, das ursprünglich 'anfassen, ergreifen' bedeutete, sich aber im Rumänischen semantisch auf 'entzünden' entwickelte.",
+        "targetText": "Verbul românesc „a aprinde” derivă din latină, din verbul 'apprehendere', care inițial însemna 'a apuca, a prinde', dar în română a căpătat sensul de 'a aprinde foc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation, Partizip: aprins."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "brennen",
+      "targetText": "a arde"
+    },
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Kerze",
+      "targetText": "lumânare"
+    },
+    {
+      "sourceText": "Licht",
+      "targetText": "lumină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "löschen",
+      "targetText": "a stinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zünde die Kerze an.",
+      "targetText": "Eu aprind lumânarea."
+    },
+    {
+      "sourceText": "Er zündete das Feuer im Kamin an.",
+      "targetText": "El a aprins focul în șemineu."
+    },
+    {
+      "sourceText": "Wir zünden das Lagerfeuer an.",
+      "targetText": "Noi aprindem focul de tabără."
+    },
+    {
+      "sourceText": "Zünde bitte das Licht an!",
+      "targetText": "Te rog, aprinde lumina!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Partizip 'aprins' klingt wie 'gefasst' – etwas, das 'gefasst' und damit angezündet wurde."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a aprinde' klingt wie 'apri(n)de', stell dir vor, du drückst einen Knopf (press = a apăsa) und plötzlich geht das Licht an."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'a aprinde' auch für Licht und Feuer verwendet wird – also alles, was man 'anmacht'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'aprinde' mit dem deutschen Wort 'apprehend' (erfassen), denn man 'erfasst' das Feuer, indem man es anzündet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

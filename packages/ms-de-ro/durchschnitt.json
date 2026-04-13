@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-durchschnitt",
+  "parent": "ms-ro-medie-6d416515@18dd6b86eb12030d9a9720801c3b1cf3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Durchschnitt",
+    "genus": "masculine",
+    "definition": "der Mittelwert einer Gruppe von Werten",
+    "pronunciation": "/ˈdʊʁç.ʃnɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Durchschnitt“ setzt sich aus „durch“ und „Schnitt“ zusammen und bezeichnet den Mittelwert oder die zentrale Tendenz einer Datenmenge.",
+        "targetText": "Das Wort beschreibt den Mittelwert als Ergebnis eines Schnitts durch eine Datenmenge."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Der Durchschnitt ist ein wichtiges Konzept in der Statistik."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "medie",
+    "genus": "feminine",
+    "definition": "valoarea medie a unui grup de valori",
+    "pronunciation": "/ˈme.di.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „medie“ stammt vom lateinischen „medius“ ab, was „mitten“ oder „durchschnittlich“ bedeutet und den Mittelwert bezeichnet.",
+        "targetText": "Cuvântul românesc „medie“ provine din latinescul „medius“, care înseamnă „mijloc“ sau „mediu“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Begriff wird häufig in statistischen Berechnungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Durchschnittsgeschwindigkeit",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Durchschnittsgeschwindigkeit.",
+        "targetText": "Se referă la viteza medie."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Durchschnittsgeschwindigkeit lag bei 50 km/h.",
+          "targetText": "Viteza medie a fost de 50 km/h."
+        }
+      ]
+    },
+    {
+      "gloss": "Mittelwert",
+      "explanation": {
+        "sourceText": "Der Mittelwert ist der Durchschnitt.",
+        "targetText": "Mediul este valoarea medie."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Mittelwert der Punktzahl beträgt 5.",
+          "targetText": "Mediul punctajului este de 5."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gruppe",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "Mittel",
+      "targetText": "mediu"
+    },
+    {
+      "sourceText": "Statistik",
+      "targetText": "statistică"
+    },
+    {
+      "sourceText": "Wert",
+      "targetText": "valoare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "außergewöhnlich",
+      "targetText": "excepțional"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Durchschnitt der Klasse war über 2,0.",
+      "targetText": "Media clasei a fost peste 2,0."
+    },
+    {
+      "sourceText": "Im Durchschnitt sind Männer größer als Frauen.",
+      "targetText": "În medie, bărbații sunt mai înalți decât femeile."
+    },
+    {
+      "sourceText": "Der Durchschnittspreis ist gestiegen.",
+      "targetText": "Prețul mediu a crescut."
+    },
+    {
+      "sourceText": "Die Zulassungen liegen im Durchschnitt bei 80%.",
+      "targetText": "Admiterea este de 80% în medie."
+    },
+    {
+      "sourceText": "Der Durchschnittswert wurde errechnet.",
+      "targetText": "Valoarea medie a fost calculată."
+    },
+    {
+      "sourceText": "Der Durchschnitt ist ein wichtiger Maßstab für die Analyse von Daten.",
+      "targetText": "Media este un criteriu important pentru analiza datelor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Assoziiere „medie“ mit dem Mittelwert, den du beim Einkaufen oder bei Bewertungen berechnest."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an deine Schulnoten – „medie“ ist der Durchschnitt, den du oft berechnet hast."
+    },
+    {
+      "lang": "de",
+      "text": "Verdecke das Wort „medie“ in einem Mathebuch, um es nachhaltig zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere „medie“ als die goldene Mitte zwischen hohen und niedrigen Zahlen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

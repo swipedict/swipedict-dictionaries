@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-pin-geheimzahl",
+  "parent": "ms-ro-pin-23226f79@eee49c7344fcbdea6997925702a447ab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "PIN",
+    "genus": "feminine",
+    "definition": "Persönliche Identifikationsnummer, eine geheime Zahlenkombination zur Authentifizierung.",
+    "pronunciation": "/pɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Akronym „PIN“ steht für „Personal Identification Number“ und stammt aus dem Englischen, wo es in den 1960er Jahren im Zusammenhang mit Bankkarten eingeführt wurde.",
+        "targetText": "Acronimul „PIN” provine din limba engleză, de la „Personal Identification Number”, introdus în anii 1960 în contextul cardurilor bancare."
+      },
+      "source": "Etymological Dictionaries, Technical History"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "PIN",
+    "genus": "masculine",
+    "definition": "Număr personal de identificare, o combinație secretă de cifre folosită pentru autentificare.",
+    "pronunciation": "/pin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „PIN“ ist ein direkt übernommenes Akronym aus dem Englischen „Personal Identification Number“ und wird unverändert verwendet.",
+        "targetText": "Cuvântul românesc „PIN” este un acronim preluat direct din engleză, „Personal Identification Number”, folosit neschimbat."
+      },
+      "source": "Etymological Dictionaries, Technical Usage"
+    },
+    "additional": "Wird meist groß geschrieben und als Fremdwort verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Authentifizierung",
+      "targetText": "autentificare"
+    },
+    {
+      "sourceText": "Bankkarte",
+      "targetText": "card bancar"
+    },
+    {
+      "sourceText": "Passwort",
+      "targetText": "parolă"
+    },
+    {
+      "sourceText": "Sicherheitscode",
+      "targetText": "cod de securitate"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Gib deine PIN ein, um die Transaktion abzuschließen.",
+      "targetText": "Introdu PIN-ul pentru a finaliza tranzacția."
+    },
+    {
+      "sourceText": "Die PIN sollte geheim gehalten werden.",
+      "targetText": "PIN-ul trebuie păstrat secret."
+    },
+    {
+      "sourceText": "Du kannst deine PIN an einem Geldautomaten ändern.",
+      "targetText": "Poți schimba PIN-ul la un bancomat."
+    },
+    {
+      "sourceText": "Viele Menschen vergessen ihre PIN und müssen sie zurücksetzen.",
+      "targetText": "Mulți oameni uită PIN-ul și trebuie să îl reseteze."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort PIN klingt wie das englische Wort 'pin' (Stecknadel), die etwas sichert – ähnlich sichert die PIN deine Daten."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird PIN genauso ausgesprochen wie im Deutschen, also kannst du es leicht merken und verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass PIN ein englisches Akronym ist, das im Rumänischen genauso verwendet wird – wie ein internationaler Code."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen geheimen 'Pin' an einer Tür – so schützt die PIN deine Bankkarte."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

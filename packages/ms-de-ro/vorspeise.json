@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-vorspeise",
+  "parent": "ms-ro-aperitiv-56affec3@46dc2f1846d99816ba9d3cd1f3ece362",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Vorspeise",
+    "genus": "feminine",
+    "definition": "Ein Gericht, das vor dem Hauptgang serviert wird, oft kleiner und appetitanregend.",
+    "pronunciation": "/ˈfoːɐ̯ʃpaɪ̯zə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Vorspeise“ setzt sich aus den Bestandteilen 'vor' und 'Speise' zusammen, wobei 'Speise' vom althochdeutschen 'spīsa' stammt, das auf das lateinische 'spīsa' zurückgeht, was 'Speise' oder 'Mahlzeit' bedeutet.",
+        "targetText": "Cuvântul german „Vorspeise” este compus din 'vor' (înainte) și 'Speise' (mâncare), iar 'Speise' provine din vechea germană 'spīsa', care la rândul său derivă din latină, din 'spīsa', însemnând 'mâncare' sau 'masă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aperitiv",
+    "genus": "neuter",
+    "definition": "Un fel de mâncare servit înaintea felului principal, de obicei pentru a stimula apetitul.",
+    "pronunciation": "/aperiˈtiv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „aperitiv“ stammt aus dem Französischen 'apéritif', das vom lateinischen Verb 'aperire' (öffnen) abgeleitet ist, was hier im übertragenen Sinne 'den Appetit öffnen' bedeutet.",
+        "targetText": "Cuvântul românesc „aperitiv” provine din francezul 'apéritif', derivat din verbul latin 'aperire' care înseamnă 'a deschide', în sensul figurat de a deschide apetitul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hauptgericht",
+      "targetText": "fel principal"
+    },
+    {
+      "sourceText": "Menü",
+      "targetText": "meniu"
+    },
+    {
+      "sourceText": "Nachspeise",
+      "targetText": "desert"
+    },
+    {
+      "sourceText": "Snack",
+      "targetText": "gustare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Hauptgericht",
+      "targetText": "fel principal"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Vorspeise war eine leckere Suppe.",
+      "targetText": "Aperitivul a fost o supă gustoasă."
+    },
+    {
+      "sourceText": "Wir bestellten eine Vorspeise und dann das Hauptgericht.",
+      "targetText": "Am comandat un aperitiv și apoi felul principal."
+    },
+    {
+      "sourceText": "Ein Aperitif wird oft vor der Vorspeise serviert.",
+      "targetText": "Un aperitiv este adesea servit înaintea aperitivului (vorspeise)."
+    },
+    {
+      "sourceText": "Die Vorspeise regt den Appetit an.",
+      "targetText": "Aperitivul stimulează pofta de mâncare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Vorspeise' bedeutet wörtlich 'vor dem Essen', und 'aperitiv' ist der kleine 'Appetitanreger' davor – beide Wörter helfen dir, die Reihenfolge im Essen zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'aperitiv' klingt ähnlich wie das französische 'apéritif', das du vielleicht aus dem Deutschen kennst. Es hilft dir, die Bedeutung als 'Appetitanreger' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'aperitiv' im Rumänischen ein Nomen ist, das oft für kleine Häppchen oder Getränke vor dem Essen steht – ähnlich wie im Deutschen 'Vorspeise'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du öffnest (lateinisch 'aperire') eine Tür zum Essen – so öffnet der 'aperitiv' deinen Appetit vor dem Hauptgericht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-erraten",
+  "parent": "ms-ro-a-ghici-5f39f89f@73f188508af37aca186aba7d425f446e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erraten",
+    "definition": "etwas durch Nachdenken oder Raten herausfinden",
+    "pronunciation": "/ɛʁˈʁaːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „erraten“ stammt vom mittelhochdeutschen „raten“ ab, mit dem Präfix „er-“ für Vollständigkeit.",
+        "targetText": "Verbul german „erraten“ provine din germana mijlocie „raten“ cu prefixul „er-“ care indică completitudinea acțiunii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft in Spielen oder Rätseln verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ghici",
+    "definition": "a afla ceva prin gândire sau presupunere",
+    "pronunciation": "/a ˈɡid͡ʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a ghici“ stammt vom slawischen „gichiti“ ab, was „erraten“ oder „schätzen“ bedeutet.",
+        "targetText": "Verbul românesc „a ghici“ provine din slavă, de la „gichiti“, care înseamnă „a ghici, a presupune“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Häufig in Spiel- und Ratesituationen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Erraten",
+      "explanation": {
+        "sourceText": "Das direkte 'Erkennen' von etwas durch Gedanken.",
+        "targetText": "Recunoașterea directă a ceva prin gândire."
+      },
+      "examples": [
+        {
+          "sourceText": "Es ist schwer zu erraten, was sie denkt.",
+          "targetText": "E greu să ghicești ce gândește."
+        }
+      ]
+    },
+    {
+      "gloss": "Vermuten",
+      "explanation": {
+        "sourceText": "Eine Annahme basierend auf Anzeichen oder Indizien.",
+        "targetText": "O presupunere bazată pe indicii sau semne."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich vermute, dass du die Antwort weißt.",
+          "targetText": "Presupun că știi răspunsul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Antwort",
+      "targetText": "răspuns"
+    },
+    {
+      "sourceText": "Nachdenken",
+      "targetText": "gândire"
+    },
+    {
+      "sourceText": "Rätsel",
+      "targetText": "ghicitoare"
+    },
+    {
+      "sourceText": "Vermutung",
+      "targetText": "presupunere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verpassen",
+      "targetText": "a rata"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rate die Lösung.",
+      "targetText": "Eu ghicesc soluția."
+    },
+    {
+      "sourceText": "Ratest du die Antwort?",
+      "targetText": "Ghițești răspunsul?"
+    },
+    {
+      "sourceText": "Sie errät die Nummer.",
+      "targetText": "Ea ghicește numărul."
+    },
+    {
+      "sourceText": "Wir erraten den Ort.",
+      "targetText": "Noi ghicim locul."
+    },
+    {
+      "sourceText": "Ratet ihr die richtige Antwort?",
+      "targetText": "Ghiți răspunsul corect?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erraten die Lösung des Rätsels.",
+      "targetText": "Ei ghicesc soluția enigmei."
+    },
+    {
+      "sourceText": "Ich habe die Antwort richtig erraten.",
+      "targetText": "Am ghicit răspunsul corect."
+    },
+    {
+      "sourceText": "Sie haben die richtige Lösung erraten.",
+      "targetText": "Au ghicit soluția corectă."
+    },
+    {
+      "sourceText": "Er erriet die Antwort schnell.",
+      "targetText": "El ghicea răspunsul repede."
+    },
+    {
+      "sourceText": "Ich hatte die Frage richtig erraten, bevor er sie gestellt hatte.",
+      "targetText": "Ghicesem întrebarea corect înainte să o pună."
+    },
+    {
+      "sourceText": "Ich werde die Lösung erraten.",
+      "targetText": "Voi ghici soluția."
+    },
+    {
+      "sourceText": "Sie wird die Antwort vielleicht erraten.",
+      "targetText": "Ea o să ghicească răspunsul."
+    },
+    {
+      "sourceText": "Ich würde die Lösung erraten, wenn ich mehr Hinweise hätte.",
+      "targetText": "Aș ghici soluția dacă aș avea mai multe indicii."
+    },
+    {
+      "sourceText": "Es wäre gut, wenn du die Frage errätst.",
+      "targetText": "Ar fi bine să ghicești întrebarea."
+    },
+    {
+      "sourceText": "Rate die Antwort!",
+      "targetText": "Ghidează răspunsul!"
+    },
+    {
+      "sourceText": "Ratet die Lösung!",
+      "targetText": "Ghiciți soluția!"
+    },
+    {
+      "sourceText": "Die erratene Antwort war überraschend.",
+      "targetText": "Răspunsul ghicit a fost surprinzător."
+    },
+    {
+      "sourceText": "Beim Erraten der Antwort, lernte ich viel über das Thema.",
+      "targetText": "Ghiceind răspunsul, am învățat multe despre subiect."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Erraten“ und „a ghici“ sind Kognaten – verbinde sie mit Ratespielen wie „20 Fragen“, um das Wort lebendig zu halten."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Verbendungen und übe spielerisch die Konjugation von „a ghici“."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „ghici“ klingt eingängig – nutze Klangassoziation, um es dir leicht zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

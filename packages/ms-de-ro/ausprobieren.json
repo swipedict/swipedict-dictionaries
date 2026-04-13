@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-ausprobieren",
+  "parent": "ms-ro-a-incerca-c47c8f47@e48805a8fb6ad2f2d927730489d39720",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausprobieren",
+    "definition": "etwas testen, um herauszufinden, wie es funktioniert oder ob es gefällt.",
+    "pronunciation": "/ˈaʊsˌpʁoˌbiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausprobieren“ setzt sich aus „aus“ und „probieren“ zusammen. „Probieren“ stammt vom mittelhochdeutschen „probieren“ und bedeutet „testen“ oder „versuchen“.",
+        "targetText": "Verbul german „ausprobieren“ provine din „aus“ + „probieren“ (a încerca), indicând testarea sau încercarea ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig verwendet, wenn man etwas Neues testen möchte, wie z.B. ein Rezept oder ein Produkt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încerca",
+    "definition": "a testa ceva pentru a descoperi cum funcționează sau dacă place.",
+    "pronunciation": "/a ɨnʧeˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a încerca“ stammt vom lateinischen „inquirere“, was „sich bemühen, zu suchen“ bedeutet. Es wird verwendet, um den Versuch auszudrücken, etwas zu tun oder zu testen.",
+        "targetText": "Verbul român „a încerca“ derivă din lat. „inquirere“, indicând efortul de a încerca sau testa ceva."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, wenn man einen neuen Prozess, ein Rezept oder etwas ausprobieren möchte."
+  },
+  "senses": [
+    {
+      "gloss": "testen",
+      "explanation": {
+        "sourceText": "Etwas ausprobieren, um seine Funktion oder Wirkung zu prüfen.",
+        "targetText": "A testa ceva pentru a verifica funcția sau efectul."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich probiere das neue Rezept aus.",
+          "targetText": "Eu încerc rețeta nouă."
+        },
+        {
+          "sourceText": "Probierst du die neue Software aus?",
+          "targetText": "Încerci noul software?"
+        }
+      ]
+    },
+    {
+      "gloss": "versuchen",
+      "explanation": {
+        "sourceText": "Den Versuch machen, etwas zu tun.",
+        "targetText": "A face o încercare de a face ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie probiert das Kleid aus.",
+          "targetText": "Ea încearcă rochia."
+        },
+        {
+          "sourceText": "Wir probieren das neue Produkt aus.",
+          "targetText": "Noi încercăm noul produs."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erfahrung",
+      "targetText": "experiență"
+    },
+    {
+      "sourceText": "Methode",
+      "targetText": "metodă"
+    },
+    {
+      "sourceText": "Test",
+      "targetText": "test"
+    },
+    {
+      "sourceText": "Zweck",
+      "targetText": "scop"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verwerfen",
+      "targetText": "a respinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich probiere das neue Rezept aus.",
+      "targetText": "Eu încerc rețeta nouă."
+    },
+    {
+      "sourceText": "Probierst du die neue Software aus?",
+      "targetText": "Încerci noul software?"
+    },
+    {
+      "sourceText": "Sie probiert das Kleid aus.",
+      "targetText": "Ea încearcă rochia."
+    },
+    {
+      "sourceText": "Wir probieren das neue Produkt aus.",
+      "targetText": "Noi încercăm noul produs."
+    },
+    {
+      "sourceText": "Probiert ihr die neue App aus?",
+      "targetText": "Încercați noua aplicație?"
+    },
+    {
+      "sourceText": "Sie probieren die neue Technik aus.",
+      "targetText": "Ei încearcă noua tehnologie."
+    },
+    {
+      "sourceText": "Ich habe das Produkt ausprobiert.",
+      "targetText": "Am încercat produsul."
+    },
+    {
+      "sourceText": "Ich werde den neuen Ansatz ausprobieren.",
+      "targetText": "Voi încerca noul mod."
+    },
+    {
+      "sourceText": "Probiere das aus!",
+      "targetText": "Încearcă asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A încerca“ bedeutet „versuchen“ – stelle dir vor, wie du etwas Neues testest, um zu sehen, ob es funktioniert oder gefällt."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche „ausprobieren“ und das rumänische „a încerca“ teilen die Idee des Testens – verbinde sie im Kopf."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung -a bei „a încerca“ als typisches rumänisches Verb, das oft mit „ich versuche“ (eu încerc) verwendet wird."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

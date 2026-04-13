@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-vermuten",
+  "parent": "ms-ro-a-presupune-31ff04b7@a68152d2fd7e6b87ab135c0d7ccde43a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vermuten",
+    "definition": "Etwas für wahrscheinlich oder möglich halten, ohne es sicher zu wissen.",
+    "pronunciation": "/fɛɐ̯ˈmuːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „vermuten“ setzt sich aus dem Präfix 'ver-' und dem Substantiv 'Mut' zusammen, wobei 'Mut' hier für eine innere Überzeugung oder Annahme steht.",
+        "targetText": "Verbul german „vermuten“ este compus din prefixul 'ver-' și substantivul 'Mut', care aici înseamnă o convingere interioară sau presupunere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a presupune",
+    "definition": "A considera ceva ca probabil sau posibil, ohne Gewissheit.",
+    "pronunciation": "/a presuˈpune/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a presupune“ stammt vom lateinischen 'praesupponere' ab, zusammengesetzt aus 'prae-' (vor) und 'supponere' (darunterlegen, annehmen).",
+        "targetText": "Verbul românesc „a presupune” provine din verbul latin 'praesupponere', compus din 'prae-' (înainte) și 'supponere' (a pune dedesubt, a presupune)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 3. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "annehmen",
+      "targetText": "a accepta"
+    },
+    {
+      "sourceText": "glauben",
+      "targetText": "a crede"
+    },
+    {
+      "sourceText": "mutmaßen",
+      "targetText": "a bănui"
+    },
+    {
+      "sourceText": "vermuten",
+      "targetText": "a presupune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wissen",
+      "targetText": "a ști"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich vermute, dass er zu Hause ist.",
+      "targetText": "Presupun că este acasă."
+    },
+    {
+      "sourceText": "Wir haben vermutet, dass es regnet.",
+      "targetText": "Am presupus că plouă."
+    },
+    {
+      "sourceText": "Sie vermutete, dass er lügt.",
+      "targetText": "Ea presupunea că el minte."
+    },
+    {
+      "sourceText": "Du wirst vermuten, dass es klappt.",
+      "targetText": "Vei presupune că va reuși."
+    },
+    {
+      "sourceText": "Vermute nicht zu viel!",
+      "targetText": "Nu presupune prea mult!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'vermuten' enthält 'Mut' – stell dir vor, du brauchst Mut, um etwas nur zu vermuten, nicht sicher zu wissen."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische 'praesupponere' ist auch Ursprung von 'presupune' – ähnlich wie im Deutschen 'ver-' als Präfix eine Veränderung oder Intensivierung anzeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a presupune' kannst du dir merken, indem du an 'pre-' (vor) und 'suppune' (annehmen) denkst – also etwas vorweg annehmen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'a presupune' klingt wie 'presupunere' (Vermutung) – so kannst du die Bedeutung leicht mit dem Substantiv verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

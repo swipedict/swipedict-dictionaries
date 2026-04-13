@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-bereiten",
+  "parent": "ms-ro-a-pregati-74bd732e@0fb0bb508616b4be77ef3e1dffd81dd3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bereiten",
+    "definition": "vorbereiten oder herstellen von etwas",
+    "pronunciation": "/bəˈʁaɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „bereiten“ abgeleitet, was „vorbereiten“ oder „einrichten“ bedeutet.",
+        "targetText": "Derivat din germana mijlocie „bereiten“, care înseamnă „a pregăti“ sau „a aranja“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet, um Vorbereitungen für etwas zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pregăti",
+    "definition": "a face pregătiri sau a produce ceva",
+    "pronunciation": "/a preɡəˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „praeparare“ abgeleitet, was „vorbereiten“ bedeutet. Das Präfix „prae-“ bedeutet „vor“.",
+        "targetText": "Derivat din latinescul „praeparare“, care înseamnă „a pregăti“. Prefixul „prae-“ înseamnă „înainte“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation. Wird oft verwendet, um Vorbereitungen zu treffen, z.B. für Veranstaltungen oder Mahlzeiten."
+  },
+  "senses": [
+    {
+      "gloss": "herstellen",
+      "explanation": {
+        "sourceText": "Etwas produzieren oder kreieren, nicht nur vorbereiten.",
+        "targetText": "A produce sau a crea ceva, nu doar a pregăti."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bereite einen Bericht vor.",
+          "targetText": "Îmi pregătesc un raport."
+        }
+      ]
+    },
+    {
+      "gloss": "vorbereiten",
+      "explanation": {
+        "sourceText": "Die notwendigen Schritte unternehmen, um etwas bereit zu machen.",
+        "targetText": "A face pașii necesari pentru a pregăti ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde das Abendessen vorbereiten.",
+          "targetText": "Voi pregăti cina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Kochen",
+      "targetText": "gătit"
+    },
+    {
+      "sourceText": "Servieren",
+      "targetText": "a servi"
+    },
+    {
+      "sourceText": "Trinken",
+      "targetText": "băut"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Bereiten“ und „a pregăti“ sind ähnlich und helfen dir, die Idee von Vorbereitung und Herstellung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe alle Zeitformen, z.B. „Eu pregătesc“ (Ich bereite vor), um die Verbindung zur Sprache zu stärken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

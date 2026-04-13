@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-befehlen",
+  "parent": "ms-ro-a-porunci-a6a96a08@b08e6e1b64959453f39677c284e01fbe",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "befehlen",
+    "definition": "jemandem eine Anweisung oder einen Befehl erteilen",
+    "pronunciation": "/bəˈfeːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „befehlen“ stammt vom mittelhochdeutschen „be-fehlen“, was „als Auftrag geben“ bedeutet, und ist mit dem Wort „fehlen“ verwandt, das hier als Befehl verstanden wird.",
+        "targetText": "Verbul „befehlen“ provine din germana mijlocie „be-fehlen“, însemnând „a da un ordin“, legat de „fehlen“ în sensul de comandă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Oft in autoritätsgebenden Kontexten verwendet, z.B. in militärischen oder geschäftlichen Umgebungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a porunci",
+    "definition": "a da o instrucțiune sau un ordin cuiva",
+    "pronunciation": "/pɔ.runˈtʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a porunci“ stammt vom lateinischen „impōnere“ (auferlegen, anordnen) und hat sich als Standardwort für das Geben von Befehlen etabliert.",
+        "targetText": "Românescul „a porunci“ derivă din latină, de la „impōnere“ (a impune, a porunci), devenind termenul standard pentru a da ordine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Häufig in militärischen, formellen und autoritären Szenarien verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Anweisung",
+      "explanation": {
+        "sourceText": "Verwendung für klare Anweisungen.",
+        "targetText": "Folosit pentru instrucțiuni clare."
+      },
+      "examples": [
+        {
+          "sourceText": "Er gibt eine Anweisung.",
+          "targetText": "El dă o instrucțiune."
+        }
+      ]
+    },
+    {
+      "gloss": "Befehl",
+      "explanation": {
+        "sourceText": "Verwendung für das Geben von Befehlen.",
+        "targetText": "Folosit pentru a da ordine."
+      },
+      "examples": [
+        {
+          "sourceText": "Er befehlt seine Truppen.",
+          "targetText": "El dă ordin trupelor sale."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anweisung",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "Befehl",
+      "targetText": "ordin"
+    },
+    {
+      "sourceText": "Führer",
+      "targetText": "lider"
+    },
+    {
+      "sourceText": "Kommandant",
+      "targetText": "comandant"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gehorchen",
+      "targetText": "a asculta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich befehle dir, zu kommen.",
+      "targetText": "Îți poruncesc să vii."
+    },
+    {
+      "sourceText": "Befiehlst du den Schülern, still zu sein?",
+      "targetText": "Le poruncești elevilor să fie liniștiți?"
+    },
+    {
+      "sourceText": "Er befiehlt seinen Männern, anzugreifen.",
+      "targetText": "El le poruncește bărbaților să atace."
+    },
+    {
+      "sourceText": "Wir befehlen die Truppen, vorzurücken.",
+      "targetText": "Noi poruncim trupelor să înainteze."
+    },
+    {
+      "sourceText": "Befehlt ihr dem Team, zu starten?",
+      "targetText": "Porunciți echipei să înceapă?"
+    },
+    {
+      "sourceText": "Sie befehlen die Operation.",
+      "targetText": "Ei poruncesc operațiunea."
+    },
+    {
+      "sourceText": "Ich habe ihm befohlen, zu gehen.",
+      "targetText": "I-am poruncit să plece."
+    },
+    {
+      "sourceText": "Er befahl den Soldaten, ruhig zu bleiben.",
+      "targetText": "El le poruncea soldaților să stea liniștiți."
+    },
+    {
+      "sourceText": "Ich werde ihm befehlen, zu warten.",
+      "targetText": "Îi voi porunci să aștepte."
+    },
+    {
+      "sourceText": "Befiehl den Kindern, zu hören!",
+      "targetText": "Poruncește copiilor să asculte!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Befehlen“ und „a porunci“ sind typisch für autoritäre Situationen. Denk an militärische Befehle, um die Verbindung zu stärken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: `Eu poruncesc` (ich befehle), `Am poruncit` (ich habe befohlen), `Voi porunci` (ich werde befehlen). So bleibt die Form im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

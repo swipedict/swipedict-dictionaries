@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-einwirken",
+  "parent": "ms-ro-a-influenta-fb71dcbc@3aec4bc5c15d11db8a985a6336f3ba39",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einwirken",
+    "definition": "auf etwas oder jemanden Einfluss nehmen",
+    "pronunciation": "/ainˈviːʁkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus dem Präfix „ein-“ und dem Verb „wirken“ zusammen, wobei „wirken“ auf das mittelhochdeutsche „wirken“ (anstrengen, tätig sein) zurückgeht.",
+        "targetText": "Verbul este format din prefixul „ein-“ și verbul „wirken“, care provine din germana mijlocie „wirken“ însemnând „a acționa, a avea efect“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet, um Einfluss zu beschreiben, der auf einen Prozess oder eine Person ausgeübt wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a influența",
+    "definition": "a avea un impact asupra cuiva sau asupra a ceva",
+    "pronunciation": "/a in.flu.enˈt͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a influența“ stammt vom lateinischen „influere“ ab, was „einfließen, Einfluss nehmen“ bedeutet. Es wird verwendet, um den Einfluss auf Personen oder Dinge zu beschreiben.",
+        "targetText": "Verbul românesc „a influența“ derivă din latinescul „influere“, care înseamnă „a curge în, a influența“, fiind folosit pentru a exprima acțiunea de a avea impact asupra cuiva sau ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird oft in sozialen, politischen und wissenschaftlichen Kontexten verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Einfluss",
+      "targetText": "influență"
+    },
+    {
+      "sourceText": "Maßnahme",
+      "targetText": "măsură"
+    },
+    {
+      "sourceText": "Verhalten",
+      "targetText": "comportament"
+    },
+    {
+      "sourceText": "Wirkung",
+      "targetText": "efect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ablenken",
+      "targetText": "distrage"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wirke positiv auf die Kinder ein.",
+      "targetText": "Eu influențez pozitiv copiii."
+    },
+    {
+      "sourceText": "Ich habe auf die Entscheidung eingewirkt.",
+      "targetText": "Am influențat decizia."
+    },
+    {
+      "sourceText": "Ich werde auf die Veranstaltung einwirken.",
+      "targetText": "Voi influența evenimentul."
+    },
+    {
+      "sourceText": "Ich würde positiv einwirken, wenn ich könnte.",
+      "targetText": "Aș influența pozitiv, dacă aș putea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „einwirken“ klingt wie „wirken“ mit dem Zusatz „ein“. Das rumänische „a influența“ kommt von „influere“ – stell dir vor, wie etwas in etwas anderes hineinfließt und wirkt!"
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-ința“ in „influența“ erinnert an das deutsche Wort „Einfluss“ – so kannst du dir den Zusammenhang leicht merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

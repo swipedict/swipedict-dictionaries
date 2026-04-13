@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-eigentum",
+  "parent": "ms-ro-proprietate-968eb10b@0ff27adc86d986f7b338f339f3c2d051",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Eigentum",
+    "genus": "neuter",
+    "definition": "Das Recht oder der Besitz von etwas, das jemandem gehört.",
+    "pronunciation": "/ˈaɪ̯ɡntʊm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Eigentum“ stammt vom mittelhochdeutschen 'eigentum', abgeleitet von 'eigen' (besitzen) und dem Suffix '-tum' (Zustand, Eigenschaft).",
+        "targetText": "Cuvântul german „Eigentum” provine din germana mijlocie 'eigentum', derivat din 'eigen' (a deține) și sufixul '-tum' (stare, proprietate)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "proprietate",
+    "genus": "feminine",
+    "definition": "Dreptul sau posesia asupra unui lucru care aparține cuiva.",
+    "pronunciation": "/pro.pri.eˈta.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „proprietate“ stammt vom lateinischen 'proprietas' ab, was Besitz oder Eigentum bedeutet.",
+        "targetText": "Cuvântul românesc „proprietate” provine din latinul 'proprietas', care înseamnă posesie sau drept de proprietate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Besitz",
+      "targetText": "posesie"
+    },
+    {
+      "sourceText": "Eigentümer",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Verkauf",
+      "targetText": "vânzare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Miete",
+      "targetText": "chirie"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Eigentum gehört dem Mann.",
+      "targetText": "Proprietatea aparține bărbatului."
+    },
+    {
+      "sourceText": "Er hat sein Eigentum verkauft.",
+      "targetText": "El și-a vândut proprietatea."
+    },
+    {
+      "sourceText": "Eigentum verpflichtet.",
+      "targetText": "Proprietatea obligă."
+    },
+    {
+      "sourceText": "Das Eigentum ist gesetzlich geschützt.",
+      "targetText": "Proprietatea este protejată prin lege."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „proprietate“ klingt ähnlich wie das lateinische 'proprietas', was dir hilft, die Bedeutung als Eigentum zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf -ate, typisch für viele abstrakte Substantive im Rumänischen, was dir hilft, es als Konzept zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „proprietate“ das Recht oder den Besitz von etwas bezeichnet – ähnlich wie das deutsche „Eigentum“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'proprie' (eigene) Sache – so merkst du dir „proprietate“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

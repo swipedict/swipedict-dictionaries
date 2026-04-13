@@ -1,0 +1,154 @@
+{
+  "id": "ms-de-ro-kollege",
+  "parent": "ms-ro-colleg-dfa12d2d@6e0bbf0dc6e81a6ec62b34b35629099c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kollege",
+    "genus": "masculine",
+    "definition": "eine Person, mit der man zusammenarbeitet",
+    "pronunciation": "/koˈleːɡə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Kollege“ stammt von dem lateinischen „collega“, was „Mitglied eines Kollegiums“ bedeutet. Es setzt sich aus dem Präfix „col-“, was so viel wie „gemeinsam“ bedeutet, und „legare“, was „eine Bindung eingehen“ bedeutet, zusammen.",
+        "targetText": "Das deutsche Wort „Kollege“ stammt vom lateinischen „collega“ ab, zusammengesetzt aus „col-“ (zusammen) und „legare“ (beauftragen)."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Das Wort wird häufig im geschäftlichen und akademischen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "colleg",
+    "genus": "masculine",
+    "definition": "o persoană cu care lucrezi",
+    "pronunciation": "/koˈleɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „colleg“ wird direkt aus dem Lateinischen „collega“ abgeleitet, was „Mitglied eines Kollegiums“ bedeutet.",
+        "targetText": "Cuvântul românesc „colleg“ provine din latină „collega“, însemnând „coleg“ sau „partener de muncă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im Rumänischen bezieht sich das Wort oft auf Berufs- und Studienkollegen."
+  },
+  "senses": [
+    {
+      "gloss": "Kollege",
+      "explanation": {
+        "sourceText": "Steht für eine Person, die im gleichen beruflichen Umfeld arbeitet.",
+        "targetText": "Se referă la o persoană care lucrează în același mediu profesional."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Kollege hat die Präsentation vorbereitet.",
+          "targetText": "Colegul meu a pregătit prezentarea."
+        },
+        {
+          "sourceText": "Ich verstehe mich gut mit meinen Kollegen.",
+          "targetText": "Mă înțeleg bine cu colegii mei."
+        }
+      ]
+    },
+    {
+      "gloss": "Kollege (Studienkollege)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf jemanden, mit dem man studiert.",
+        "targetText": "Se referă la cineva cu care studiezi."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir haben gemeinsam in der Bibliothek gelernt.",
+          "targetText": "Am învățat împreună în bibliotecă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "Chef",
+      "targetText": "șef"
+    },
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Team",
+      "targetText": "echipă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gegner",
+      "targetText": "adversar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Mein Kollege hat die Präsentation vorbereitet.",
+      "targetText": "Colegul meu a pregătit prezentarea."
+    },
+    {
+      "sourceText": "Ich verstehe mich gut mit meinen Kollegen.",
+      "targetText": "Mă înțeleg bine cu colegii mei."
+    },
+    {
+      "sourceText": "Er ist ein netter Kollege.",
+      "targetText": "El este un coleg drăguț."
+    },
+    {
+      "sourceText": "Wir lernen gemeinsam in der Bibliothek mit unseren Kollegen.",
+      "targetText": "Învățăm împreună în bibliotecă cu colegii noștri."
+    },
+    {
+      "sourceText": "Mein Kollege kommt aus einer anderen Stadt.",
+      "targetText": "Colegul meu vine dintr-un alt oraș."
+    },
+    {
+      "sourceText": "Wir haben einen neuen Kollegen im Team.",
+      "targetText": "Avem un nou coleg în echipă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an das englische „colleague“ – ähnlich ausgesprochen und bedeutet dasselbe."
+    },
+    {
+      "lang": "de",
+      "text": "Frag Freunde, wie viele „kollege“ sie haben und was sie zusammen machen – so lernst du das Wort praktisch."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „colleg“ wie „kolleg“ – beide bedeuten jemanden, mit dem du „kollektiv“ arbeitest."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Kollege ist ein „kollektiv mit einem Bein (leg)“ – so kommst du voran!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

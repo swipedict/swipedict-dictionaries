@@ -1,0 +1,185 @@
+{
+  "id": "ms-de-ro-schliessen",
+  "parent": "ms-ro-a-inchide-6e4949d5@820e964e79e60b0cbd83271220d2e510",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schließen",
+    "definition": "etwas zudrücken oder verriegeln",
+    "pronunciation": "/ˈʃliːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von dem mittelhochdeutschen „slīzen“, was „verschließen“ bedeutete, und verwandt mit dem althochdeutschen „slīzan“ (schließen).",
+        "targetText": "Cuvântul german „schließen“ provine din mijlocul germanicului „slīzen“, care însemna „a închide“ și este legat de althochdeutsch „slīzan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig in alltäglichen Situationen verwendet, sei es beim Schließen einer Tür oder eines Buches."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a închide",
+    "definition": "a strânge sau a bloca ceva",
+    "pronunciation": "/ɨŋˈt͡ʃi.de/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a închide“ stammt vom lateinischen „includere“, was „einschließen, schließen“ bedeutet. Es setzt sich aus „in-“ (hinein) und „claudere“ (schließen) zusammen.",
+        "targetText": "Verbul românesc „a închide“ derivă din latinul „includere“, format din „in-“ (înăuntru) și „claudere“ (a închide)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist regelmäßig und wird häufig verwendet, um Türen, Fenster, Bücher usw. zu schließen."
+  },
+  "senses": [
+    {
+      "gloss": "Schließen (Buch)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Schließen eines Buches.",
+        "targetText": "Se referă la închiderea unei cărți."
+      },
+      "examples": [
+        {
+          "sourceText": "Er schließt das Buch.",
+          "targetText": "El închide cartea."
+        }
+      ]
+    },
+    {
+      "gloss": "Schließen (Tür oder Fenster)",
+      "explanation": {
+        "sourceText": "Verwendet, um das Schließen von Türen oder Fenstern zu beschreiben.",
+        "targetText": "Folosit pentru a descrie închiderea ușilor sau ferestrelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schließe die Tür.",
+          "targetText": "Eu închid ușa."
+        },
+        {
+          "sourceText": "Schließt du das Fenster?",
+          "targetText": "Închizi fereastra?"
+        }
+      ]
+    },
+    {
+      "gloss": "Sitzungsende",
+      "explanation": {
+        "sourceText": "Das Beenden einer Sitzung oder Versammlung.",
+        "targetText": "Încheierea unei ședințe sau adunări."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir schließen die Sitzung.",
+          "targetText": "Noi închidem ședința."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Kasten",
+      "targetText": "cutie"
+    },
+    {
+      "sourceText": "Schrank",
+      "targetText": "dulap"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "öffnen",
+      "targetText": "a deschide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schließe die Tür.",
+      "targetText": "Eu închid ușa."
+    },
+    {
+      "sourceText": "Schließt du das Fenster?",
+      "targetText": "Închizi fereastra?"
+    },
+    {
+      "sourceText": "Er schließt das Buch.",
+      "targetText": "El închide cartea."
+    },
+    {
+      "sourceText": "Wir schließen die Sitzung.",
+      "targetText": "Noi închidem ședința."
+    },
+    {
+      "sourceText": "Schließt ihr die Akte?",
+      "targetText": "Închideți dosarele?"
+    },
+    {
+      "sourceText": "Sie schließen das Programm.",
+      "targetText": "Ei închid programul."
+    },
+    {
+      "sourceText": "Ich habe die Datei geschlossen.",
+      "targetText": "Am închis fișierul."
+    },
+    {
+      "sourceText": "Sie schlossen die Tür jeden Abend.",
+      "targetText": "Ei închideau ușa în fiecare seară."
+    },
+    {
+      "sourceText": "Ich werde das Fenster morgen schließen.",
+      "targetText": "Voi închide fereastra mâine."
+    },
+    {
+      "sourceText": "Ich würde die Beschwerde schließen, wenn ich könnte.",
+      "targetText": "Aș închide plângerea dacă aș putea."
+    },
+    {
+      "sourceText": "Die geschlossene Tür steht offen.",
+      "targetText": "Ușa închisă este deschisă."
+    },
+    {
+      "sourceText": "Indem ich die Tür schloss, verließ ich den Raum.",
+      "targetText": "Închizând ușa, am părăsit camera."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a închide“ klingt ähnlich wie „schließen“ – stell dir vor, wie du eine Tür zuziehst."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an die vielen Dinge, die man schließen kann: Türen, Akten, Bücher – so bleibt das Wort lebendig."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präsensendungen „-ez“, „-i“ und „-ă“ helfen dir, die Konjugation von „a închide“ zu lernen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

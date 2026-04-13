@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-blass",
+  "parent": "ms-ro-palid-0347c05f@a1c00403e5e6e69b1e6d07e4ae3452d3",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "blass",
+    "definition": "Eine helle, oft ungesunde Hautfarbe zeigend; bleich.",
+    "pronunciation": "/blas/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „blass“ stammt vom althochdeutschen 'blas' ab, das 'bläulich' oder 'bleich' bedeutete und auf eine indogermanische Wurzel *bʰel- (hell, glänzend) zurückgeht.",
+        "targetText": "Adjectivul german „blass” provine din germana veche înaltă 'blas', care însemna 'albăstrui' sau 'palid' și derivă din rădăcina indo-europeană *bʰel- (luminos, strălucitor)."
+      },
+      "source": "Etymologische Quellen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "palid",
+    "definition": "Care are o culoare a pielii foarte deschisă, adesea din cauza Krankheit oder Schwäche.",
+    "pronunciation": "/paˈlid/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „palid“ stammt vom lateinischen 'pallidus' ab, was 'blass' oder 'bleich' bedeutet.",
+        "targetText": "Adjectivul românesc „palid” provine din latină 'pallidus', care înseamnă 'palid' sau 'pale'."
+      },
+      "source": "Etymologische Studien"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bleich",
+      "targetText": "palid"
+    },
+    {
+      "sourceText": "Gesicht",
+      "targetText": "față"
+    },
+    {
+      "sourceText": "hell",
+      "targetText": "deschis"
+    },
+    {
+      "sourceText": "krank",
+      "targetText": "bolnav"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dunkel",
+      "targetText": "închis"
+    },
+    {
+      "sourceText": "gesund",
+      "targetText": "sănătos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie sieht blass aus, weil sie krank ist.",
+      "targetText": "Ea arată palid pentru că este bolnavă."
+    },
+    {
+      "sourceText": "Nach dem langen Aufenthalt im Krankenhaus war er sehr blass.",
+      "targetText": "După șederea lungă în spital, el era foarte palid."
+    },
+    {
+      "sourceText": "Seine blasse Haut zeigt, dass er müde ist.",
+      "targetText": "Pielea lui palidă arată că este obosit."
+    },
+    {
+      "sourceText": "Blasse Gesichter sieht man oft bei Erkältungen.",
+      "targetText": "Fețe palide se văd adesea la răceli."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'palid' klingt ähnlich wie das deutsche 'pallid' (englisch für blass), was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'palid' endet auf '-id', typisch für viele lateinische Adjektive im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine blasse Person vor, die fast durchsichtig wirkt – 'palid' beschreibt genau diesen Zustand."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'palid' mit dem Wort 'pallidus' aus dem Lateinischen, das auch im Deutschen als 'pallid' bekannt ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

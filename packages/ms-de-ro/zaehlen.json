@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-zaehlen",
+  "parent": "ms-ro-a-numara-59a49c78@0594bcd7a746777d75eb186cf55f3874",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zählen",
+    "definition": "Die Tätigkeit, Mengen oder Zahlen der Reihe nach zu bestimmen oder zu benennen.",
+    "pronunciation": "/ˈtsɛːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „zählen“ stammt vom althochdeutschen 'zëlan' ab, das auf das germanische *talōną zurückgeht und ursprünglich 'zählen, aufzählen' bedeutete.",
+        "targetText": "Verbul german „zählen“ provine din germana veche înaltă 'zëlan', derivat din rădăcina germanică *talōną, care însemna inițial 'a număra, a enumera'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a număra",
+    "definition": "A determina sau a rosti în ordine cantități sau cifre.",
+    "pronunciation": "/a nu.məˈrə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a număra“ stammt vom lateinischen Verb 'numerare' ab, das 'zählen' oder 'nummerieren' bedeutet und auf das lateinische 'numerus' für 'Zahl' zurückgeht.",
+        "targetText": "Verbul românesc „a număra” provine din verbul latin 'numerare', care înseamnă 'a număra' sau 'a numerota', derivat din substantivul latin 'numerus' pentru 'număr'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, regelmäßige Bildung."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "zählbar",
+      "targetText": "numărabil"
+    },
+    {
+      "sourceText": "zählend",
+      "targetText": "numărând"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ignorieren",
+      "targetText": "a ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zähle die Äpfel im Korb.",
+      "targetText": "Eu număr merele din coș."
+    },
+    {
+      "sourceText": "Kannst du bis zehn zählen?",
+      "targetText": "Poți să numeri până la zece?"
+    },
+    {
+      "sourceText": "Sie zählt jeden Cent genau.",
+      "targetText": "Ea numără fiecare ban cu atenție."
+    },
+    {
+      "sourceText": "Wir zählen die Stimmen bei der Wahl.",
+      "targetText": "Numărăm voturile la alegeri."
+    },
+    {
+      "sourceText": "Zähle bis drei und springe dann.",
+      "targetText": "Numără până la trei și apoi sari."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'numerare' steckt in 'a număra' – viele romanische Sprachen haben ähnliche Wörter, z.B. italienisch 'numerare'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a număra' klingt wie 'Nummer' auf Deutsch – beide haben mit Zahlen zu tun, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'nummerierst' Dinge, wenn du sie zählst – so merkst du dir 'a număra' als Verb für zählen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du 'a număra' hörst, denk an 'Nummer' und an das ordentliche Aufzählen von Dingen, um die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

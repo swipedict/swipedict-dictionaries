@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-queue-billard",
+  "parent": "ms-ro-tac-04e4739a@d3d1bb8726e12043168716a0fb08c73d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Queue",
+    "genus": "neuter",
+    "definition": "Ein langer, dünner Stock, der beim Billard verwendet wird, um die Kugeln zu stoßen.",
+    "pronunciation": "/kjuː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Queue“ stammt aus dem Französischen, wo es ursprünglich 'Schwanz' oder 'Schlange' bedeutete, abgeleitet vom lateinischen 'coda' für 'Schwanz'. Im Billard bezeichnet es den langen Stock.",
+        "targetText": "Cuvântul german „Queue” provine din franceză, unde inițial însemna „coadă” sau „șir”, derivat din latină 'coda' pentru „coadă”. În biliard, desemnează tacul lung folosit pentru a lovi bilele."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tac",
+    "genus": "neuter",
+    "definition": "Băț lung și subțire folosit la biliard pentru a lovi bilele.",
+    "pronunciation": "/tak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „tac“ stammt vom lateinischen Wort 'taccare' ab, das 'anschlagen' oder 'klopfen' bedeutet, was die Funktion des Billardtac widerspiegelt.",
+        "targetText": "Cuvântul românesc „tac” provine din latinescul 'taccare', care înseamnă „a lovi” sau „a bate”, reflectând funcția tacului de biliard."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Billard",
+      "targetText": "biliard"
+    },
+    {
+      "sourceText": "Kugel",
+      "targetText": "bilă"
+    },
+    {
+      "sourceText": "Stoßen",
+      "targetText": "a lovi"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Spieler hält die Queue fest, um den Stoß genau auszuführen.",
+      "targetText": "Jucătorul ține tacul ferm pentru a executa lovitura precis."
+    },
+    {
+      "sourceText": "Beim Billard ist die Queue das wichtigste Werkzeug.",
+      "targetText": "La biliard, tacul este cel mai important instrument."
+    },
+    {
+      "sourceText": "Die Queue besteht meist aus Holz und ist sehr glatt.",
+      "targetText": "Tacul este de obicei din lemn și foarte neted."
+    },
+    {
+      "sourceText": "Er hat die Queue gerade ausgerichtet, bevor er die Kugel stieß.",
+      "targetText": "El a aliniat tacul drept înainte să lovească bila."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Queue' klingt wie das französische Wort für 'Schwanz' – stell dir vor, der Billardtac ist die 'Schwanz'-verlängerung deiner Hand."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'tac' klingt kurz und knackig, genau wie der schnelle Schlag mit dem Billardtac."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen heißt es 'Queue' (französisch), im Rumänischen 'tac' – beide Wörter haben mit dem Schlagen oder Stoßen zu tun, was dir hilft, die Bedeutung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Tac' erinnert an das Geräusch 'tack', das entsteht, wenn man die Kugel mit dem Tac stößt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

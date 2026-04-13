@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-impfen",
+  "parent": "ms-ro-a-vaccina-69bb68c9@59b488dd406b73b6a44a327c4e3ac168",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "impfen",
+    "definition": "Einem Organismus einen Impfstoff verabreichen, um Immunität gegen eine Krankheit zu erzeugen.",
+    "pronunciation": "/ˈɪmpfn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „impfen“ stammt vom mittelhochdeutschen 'impfen' ab, das auf das lateinische 'impingere' zurückgeht, was 'hineinstecken' oder 'einpflanzen' bedeutet.",
+        "targetText": "Verbul german „impfen“ provine din germana mijlocie 'impfen', care la rândul său derivă din latină 'impingere', însemnând 'a introduce' sau 'a planta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vaccina",
+    "definition": "A administra un vaccin pentru a crea imunitate împotriva unei boli.",
+    "pronunciation": "/a vakˈt͡ʃina/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vaccina“ stammt vom lateinischen 'vaccinus' ab, was 'von Kühen' bedeutet, da die erste Impfung gegen Kuhpocken entwickelt wurde.",
+        "targetText": "Verbul românesc „a vaccina” provine din latină 'vaccinus', care înseamnă 'de la vacă', referindu-se la prima vaccinare împotriva variolei bovine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, Partizip: vaccinat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Immunität",
+      "targetText": "imunitate"
+    },
+    {
+      "sourceText": "Impfstoff",
+      "targetText": "vaccin"
+    },
+    {
+      "sourceText": "Impfung",
+      "targetText": "vaccinare"
+    },
+    {
+      "sourceText": "krankheit",
+      "targetText": "boală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht impfen",
+      "targetText": "a nu vaccina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich impfe mein Kind gegen Masern.",
+      "targetText": "Îmi vaccinez copilul împotriva rujeolei."
+    },
+    {
+      "sourceText": "Er wurde gestern gegen Grippe geimpft.",
+      "targetText": "A fost vaccinat ieri împotriva gripei."
+    },
+    {
+      "sourceText": "Wir müssen uns jedes Jahr impfen lassen.",
+      "targetText": "Trebuie să ne vaccinăm în fiecare an."
+    },
+    {
+      "sourceText": "Impfen schützt vor schweren Krankheiten.",
+      "targetText": "Vaccinarea protejează împotriva bolilor grave."
+    },
+    {
+      "sourceText": "Impfe dich, um dich und andere zu schützen!",
+      "targetText": "Vaccinează-te pentru a te proteja pe tine și pe ceilalți!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'impfen' kommt von 'einpflanzen' (lateinisch 'impingere'), ähnlich wie ein Samen, der Immunität wachsen lässt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a vaccina' erinnert an das englische 'vaccine' – beide stammen vom lateinischen 'vaccinus' ab, was mit Kühen zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'a vaccina' endet auf '-ina', wie viele rumänische Verben der 1. Konjugation, z.B. 'a lumina' (erleuchten)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'vaccinierst' dich wie ein 'Vakuum', das Krankheitserreger aufsaugt – so schützt dich die Impfung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

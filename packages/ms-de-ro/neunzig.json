@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-neunzig",
+  "parent": "ms-ro-nouazeci-f1d21fe5@4de895da94df909105691a77cf853ddc",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "neunzig",
+    "definition": "Die Zahl 90, ein Vielfaches von zehn, bestehend aus neun mal zehn.",
+    "pronunciation": "/ˈnɔɪ̯ntsɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Zahlwort „neunzig“ setzt sich aus 'neun' und dem Suffix '-zig' zusammen, das auf das althochdeutsche '-zih' zurückgeht und Vielfache von zehn bezeichnet.",
+        "targetText": "Cuvântul german „neunzig” este compus din 'neun' și sufixul '-zig', derivat din germana veche înaltă '-zih', care indică multipli de zece."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nouăzeci",
+    "definition": "Numărul 90, neun mal zehn.",
+    "pronunciation": "/nouəˈzet͡ʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Zahlwort „nouăzeci“ setzt sich aus 'nouă' (9) und 'zeci' (Zehner) zusammen, beide vom Lateinischen abgeleitet.",
+        "targetText": "Cuvântul românesc „nouăzeci” este compus din 'nouă' (9) și 'zeci' (zeci), ambele derivate din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "achtzig",
+      "targetText": "optzeci"
+    },
+    {
+      "sourceText": "neun",
+      "targetText": "nouă"
+    },
+    {
+      "sourceText": "siebzig",
+      "targetText": "șaptezeci"
+    },
+    {
+      "sourceText": "zehn",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Neunzig ist eine runde Zahl.",
+      "targetText": "Nouăzeci este un număr rotund."
+    },
+    {
+      "sourceText": "Das Auto kostet neunzigtausend Euro.",
+      "targetText": "Mașina costă nouăzeci de mii de euro."
+    },
+    {
+      "sourceText": "Sie ist neunzig Jahre alt.",
+      "targetText": "Ea are nouăzeci de ani."
+    },
+    {
+      "sourceText": "Neunzig Prozent der Schüler haben bestanden.",
+      "targetText": "Nouăzeci la sută dintre elevi au promovat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'nouăzeci' setzt sich aus 'nouă' (9) und 'zeci' (Zehner) zusammen – ähnlich wie im Deutschen 'neunzig'."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-zeci' ist typisch für rumänische Zahlen wie 20, 30, 40 usw. und hilft dir, sie schnell zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'zeci' vom lateinischen 'decem' (zehn) abstammt und in rumänischen Zahlen für Vielfache von zehn verwendet wird."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast neun 'zeci' (Zehner) – so merkst du dir die Zusammensetzung von 90."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

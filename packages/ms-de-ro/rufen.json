@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-rufen",
+  "parent": "ms-ro-a-chema-33fb0287@e8ac4bbbac9c42bb6de32fa9f18333d9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "rufen",
+    "definition": "lauten, ansprechen oder um Aufmerksamkeit bitten",
+    "pronunciation": "/ˈʁuːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „rufen“ stammt vom mittelhochdeutschen „ruofen“ ab, das „lauthallen“ bedeutet und ist verwandt mit dem althochdeutschen „ruofen“.",
+        "targetText": "Verbul „rufen“ provine din germana mijlocie „ruofen“, care înseamnă „a striga“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig verwendet, um jemanden zu benachrichtigen oder Aufmerksamkeit zu erlangen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a chema",
+    "definition": "a vorbi sau a solicita atenția cuiva",
+    "pronunciation": "/a keˈma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a chema“ stammt vom lateinischen „clamare“ ab, was „rufen“ bedeutet und beschreibt das Anrufen oder Herbeirufen.",
+        "targetText": "Verbul românesc „a chema“ provine din latină, de la „clamare“, care înseamnă „a striga, a chema“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet, um jemanden zu rufen oder einzuladen."
+  },
+  "senses": [
+    {
+      "gloss": "Einladen",
+      "explanation": {
+        "sourceText": "Kann auch verwendet werden, um jemanden zu einer Veranstaltung einzuladen.",
+        "targetText": "Poate fi folosit și pentru a invita pe cineva la un eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich rufe dich zu meiner Feier.",
+          "targetText": "Te chem la petrecerea mea."
+        }
+      ]
+    },
+    {
+      "gloss": "Laut rufen",
+      "explanation": {
+        "sourceText": "Verwendet für einen lauten Ruf, um Aufmerksamkeit zu erregen.",
+        "targetText": "Folosit pentru a striga tare pentru a atrage atenția."
+      },
+      "examples": [
+        {
+          "sourceText": "Er ruft laut nach Hilfe.",
+          "targetText": "El strigă după ajutor."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rufe dich morgen an.",
+      "targetText": "Te chem mâine."
+    },
+    {
+      "sourceText": "Rufst du mich später?",
+      "targetText": "Mă chemi mai târziu?"
+    },
+    {
+      "sourceText": "Er ruft seinen Freund an.",
+      "targetText": "El își cheamă prietenul."
+    },
+    {
+      "sourceText": "Wir rufen nach Hilfe.",
+      "targetText": "Noi chemăm ajutor."
+    },
+    {
+      "sourceText": "Ruft ihr die anderen?",
+      "targetText": "Chemați și pe alții?"
+    },
+    {
+      "sourceText": "Sie rufen die Polizei.",
+      "targetText": "Ei cheamă poliția."
+    },
+    {
+      "sourceText": "Ich habe sie gerufen.",
+      "targetText": "Am chemat-o."
+    },
+    {
+      "sourceText": "Er rief die ganze Zeit nach ihr.",
+      "targetText": "El o chema tot timpul."
+    },
+    {
+      "sourceText": "Ich werde dich rufen.",
+      "targetText": "Te voi chem."
+    },
+    {
+      "sourceText": "Ich würde ihn rufen, wenn ich ihn sehe.",
+      "targetText": "L-aș chema dacă l-aș vedea."
+    },
+    {
+      "sourceText": "Ruf mich an!",
+      "targetText": "Chemă-mă!"
+    },
+    {
+      "sourceText": "Die gerufene Person kam schnell.",
+      "targetText": "Persoana chemată a venit repede."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Rufen“ und „a chema“ sind kognat – der Klang ist ähnlich, sodass du dir die Bedeutung leicht merken kannst."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a chema“ oft ein direktes Objekt benötigt, z. B. „Chem pe cineva“ (Ich rufe jemanden)."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation von „a chema“ in verschiedenen Zeiten, z. B. „Eu chem“ (ich rufe)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-ausgleichen",
+  "parent": "ms-ro-a-echilibra-1cb1b356@d14a390de882040da267d78fa7a658c6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausgleichen",
+    "definition": "etwas in ein Gleichgewicht bringen oder eine Differenz beheben",
+    "pronunciation": "/ˈaʊsˌɡlaɪ̯χən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausgleichen“ setzt sich aus „aus“ und „gleichen“ zusammen, wobei „gleichen“ vom althochdeutschen „glichen“ stammt und „gleich machen“ bedeutet. Es beschreibt das Herstellen von Gleichgewicht oder das Beseitigen von Unterschieden.",
+        "targetText": "Verbul german „ausgleichen“ provine din „aus“ + „gleichen“ (a face egal), indicând echilibrarea sau compensarea unei diferențe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um zu beschreiben, wie man Ungleichheiten oder Diskrepanzen beseitigt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a echilibra",
+    "definition": "a aduce ceva într-o stare de echilibru sau a soluționa o diferență",
+    "pronunciation": "/a ekiˈli.bra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a echilibra“ stammt vom Substantiv „echilibru“, das aus dem lateinischen „aequilibrium“ („Gleichgewicht“) entlehnt wurde. Es bedeutet, etwas ins Gleichgewicht zu bringen oder auszugleichen.",
+        "targetText": "Verbul român „a echilibra“ derivă din „echilibru“, provenit din lat. „aequilibrium“, însemnând a aduce în echilibru."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft im Kontext von Balance oder Gleichgewicht verwendet, sowohl physisch als auch metaphorisch."
+  },
+  "senses": [
+    {
+      "gloss": "ausgleichen (Balance)",
+      "explanation": {
+        "sourceText": "Im physikalischen Sinn, um Dinge in Balance zu bringen.",
+        "targetText": "În sens fizic, a aduce lucrurile în echilibru."
+      },
+      "examples": [
+        {
+          "sourceText": "Er gleicht das Gewicht aus.",
+          "targetText": "El echilibrează greutatea."
+        }
+      ]
+    },
+    {
+      "gloss": "ausgleichen (Finanz)",
+      "explanation": {
+        "sourceText": "Im finanziellen Sinne, um Einnahmen und Ausgaben auszugleichen.",
+        "targetText": "În sens financiar, a compensa veniturile și cheltuielile."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen die Verluste ausgleichen.",
+          "targetText": "Trebuie să compensăm pierderile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ausgleich",
+      "targetText": "compensare"
+    },
+    {
+      "sourceText": "Differenz",
+      "targetText": "diferență"
+    },
+    {
+      "sourceText": "Gleichgewicht",
+      "targetText": "echilibru"
+    },
+    {
+      "sourceText": "Kompensieren",
+      "targetText": "a compensa"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ungleich",
+      "targetText": "diferit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gleiche die Kosten aus.",
+      "targetText": "Eu echilibrez costurile."
+    },
+    {
+      "sourceText": "Gleichst du noch die Rechnungen aus?",
+      "targetText": "Echilibrezi încă facturile?"
+    },
+    {
+      "sourceText": "Er gleicht die Unterschiede aus.",
+      "targetText": "El echilibrează diferențele."
+    },
+    {
+      "sourceText": "Wir gleichen die Leistungen aus.",
+      "targetText": "Noi echilibrăm serviciile."
+    },
+    {
+      "sourceText": "Gleicht ihr die Kosten aus?",
+      "targetText": "Echilibrați costurile?"
+    },
+    {
+      "sourceText": "Sie gleichen die Steuerlasten aus.",
+      "targetText": "Ei echilibrează povara fiscală."
+    },
+    {
+      "sourceText": "Ich habe die Konten ausgeglichen.",
+      "targetText": "Am echilibrat conturile."
+    },
+    {
+      "sourceText": "Ich werde die Differenzen ausgleichen.",
+      "targetText": "Voi echilibra diferențele."
+    },
+    {
+      "sourceText": "Gleiche die Zahlen aus!",
+      "targetText": "Echilibrează cifrele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A echilibra“ klingt ähnlich wie „Echilibru“ (Gleichgewicht) – stelle dir vor, wie du etwas genau ausbalancierst, um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche „ausgleichen“ bedeutet, etwas gleich zu machen – denke an „gleich“ in „echilibra“, um die Verbindung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere eine Waage, die du mit „a echilibra“ ins Gleichgewicht bringst – so bleibt das Wort im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

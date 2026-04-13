@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wein",
+  "parent": "ms-ro-vin-b1085141@51684892bf19291e8f073ece5bf7c75e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wein",
+    "genus": "masculine",
+    "definition": "Alkoholisches Getränk, das durch Gärung von Trauben hergestellt wird.",
+    "pronunciation": "/vaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Wein“ stammt vom althochdeutschen 'wīn' ab, das wiederum vom lateinischen 'vinum' entlehnt wurde, welches Wein bedeutet.",
+        "targetText": "Substantivul german „Wein” provine din germana veche înaltă 'wīn', împrumutat din latină 'vinum', care înseamnă vin."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vin",
+    "genus": "neuter",
+    "definition": "Băutură alcoolică obținută prin fermentarea strugurilor.",
+    "pronunciation": "/vin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „vin“ stammt direkt vom lateinischen 'vinum' ab, das Wein bedeutet und eine der ältesten Lehnwörter im Rumänischen ist.",
+        "targetText": "Substantivul românesc „vin” provine direct din latină 'vinum', care înseamnă vin și este unul dintre cele mai vechi împrumuturi din limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Traube",
+      "targetText": "strugure"
+    },
+    {
+      "sourceText": "Weinberg",
+      "targetText": "vie"
+    },
+    {
+      "sourceText": "Weinglas",
+      "targetText": "pahar de vin"
+    },
+    {
+      "sourceText": "Weinkeller",
+      "targetText": "beci de vin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trinke gern roten Wein.",
+      "targetText": "Îmi place să beau vin roșu."
+    },
+    {
+      "sourceText": "Der Wein ist sehr alt und teuer.",
+      "targetText": "Vinul este foarte vechi și scump."
+    },
+    {
+      "sourceText": "Wir kaufen Wein im Weingeschäft.",
+      "targetText": "Cumpărăm vin de la magazinul de vinuri."
+    },
+    {
+      "sourceText": "Der Wein kommt aus Frankreich.",
+      "targetText": "Vinul provine din Franța."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beide Wörter, 'Wein' und 'vin', stammen vom lateinischen 'vinum' ab – das hilft dir, die Verbindung zu sehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'vin' klingt fast wie das deutsche 'Win' ohne 'w' – so kannst du dir das Wort leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vin' ist kurz und prägnant – perfekt, um es schnell zu lernen und zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du genießt einen guten 'Vin' in Rumänien – das Wort klingt elegant und einfach."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

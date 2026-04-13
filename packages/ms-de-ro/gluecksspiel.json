@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-gluecksspiel",
+  "parent": "ms-ro-joc-de-noroc-6cd200d0@2df6e691e719cbc0b5d8347154c6dd31",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "lexicographer-ai",
+    "source": "custom-dictionary-gluecksspiel",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Glücksspiel",
+    "genus": "neuter",
+    "definition": "Ein Spiel, bei dem der Ausgang hauptsächlich vom Zufall abhängt und bei dem man Geld oder andere Werte gewinnen oder verlieren kann.",
+    "pronunciation": "/ˈɡlʏksˌʃpiːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Glücksspiel“ setzt sich aus „Glück“ (vom althochdeutschen 'glüc', was 'Glanz, Glück' bedeutet) und „Spiel“ (vom althochdeutschen 'spil', 'Spiel, Wettkampf') zusammen.",
+        "targetText": "Cuvântul german „Glücksspiel“ este compus din „Glück“ (din germana veche înaltă 'glüc', însemnând 'noroc, strălucire') și „Spiel“ (din germana veche înaltă 'spil', 'joc, competiție')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "joc de noroc",
+    "genus": "neuter",
+    "definition": "Un joc în care rezultatul depinde în principal de întâmplare și în care se pot câștiga sau pierde bani ori alte valori.",
+    "pronunciation": "/ˈʒok de noˈrok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „joc de noroc“ besteht aus „joc“ (vom lateinischen 'iocum', 'Spiel') und „noroc“, einem Wort mit slawischem Ursprung, das 'Glück' bedeutet.",
+        "targetText": "Expresia românească „joc de noroc“ este formată din „joc“ (din latină 'iocum', 'joc') și „noroc“, un cuvânt de origine slavă care înseamnă 'noroc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gewinn",
+      "targetText": "câștig"
+    },
+    {
+      "sourceText": "Spiel",
+      "targetText": "joc"
+    },
+    {
+      "sourceText": "Wette",
+      "targetText": "pariu"
+    },
+    {
+      "sourceText": "Zufall",
+      "targetText": "întâmplare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Geschicklichkeitsspiel",
+      "targetText": "joc de îndemânare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Glücksspiel ist in vielen Ländern gesetzlich geregelt.",
+      "targetText": "Jocul de noroc este reglementat prin lege în multe țări."
+    },
+    {
+      "sourceText": "Er hat beim Glücksspiel viel Geld verloren.",
+      "targetText": "El a pierdut mulți bani la jocul de noroc."
+    },
+    {
+      "sourceText": "Manche Menschen spielen Glücksspiel aus Spaß, andere aus Sucht.",
+      "targetText": "Unii oameni joacă jocuri de noroc pentru distracție, alții din dependență."
+    },
+    {
+      "sourceText": "Glücksspiel kann süchtig machen.",
+      "targetText": "Jocul de noroc poate crea dependență."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'joc' bedeutet Spiel und klingt wie das englische 'joke' – beides sind spielerische Aktivitäten."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'noroc' wird auch als Trinkspruch verwendet – so kannst du dir merken, dass es mit Glück zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das englische Wort 'luck' für Glück – 'noroc' klingt ähnlich und hilft dir, das rumänische Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du spielst ein 'JOC' (Spiel) und hoffst auf 'NOROC' (Glück), um beim Glücksspiel zu gewinnen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

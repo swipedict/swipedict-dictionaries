@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-geld-abheben",
+  "parent": "ms-ro-a-retrage-bani-6790d524@613e52955028695f9450a222b0ec416a",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geld abheben",
+    "definition": "Bargeld von einem Bankkonto abziehen, meist am Geldautomaten.",
+    "pronunciation": "/ɡɛlt ˈapˌheːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb 'abheben' stammt vom althochdeutschen 'abheben' ab, zusammengesetzt aus 'ab' und 'heben', was 'wegnehmen' bedeutet.",
+        "targetText": "Verbul german „abheben” provine din germana veche înaltă, compus din 'ab' și 'heben', însemnând 'a lua departe'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a retrage bani",
+    "definition": "A scoate bani lichizi din contul bancar, de obicei de la un bancomat.",
+    "pronunciation": "/a reˈtraʒe ˈbani/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb 'a retrage' stammt aus dem Lateinischen 'retrahere', was 'zurückziehen' bedeutet, kombiniert mit 'bani' für Geld.",
+        "targetText": "Verbul românesc „a retrage” provine din latină, de la 'retrahere', care înseamnă 'a trage înapoi', combinat cu 'bani' pentru bani."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase mit Verb + Substantiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bankkonto",
+      "targetText": "cont bancar"
+    },
+    {
+      "sourceText": "einzahlen",
+      "targetText": "a depune"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Geldautomat",
+      "targetText": "bancomat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich hebe Geld am Geldautomaten ab.",
+      "targetText": "Retrag bani de la bancomat."
+    },
+    {
+      "sourceText": "Kann ich hier Geld abheben?",
+      "targetText": "Pot să retrag bani aici?"
+    },
+    {
+      "sourceText": "Sie hebt jeden Monat Geld von ihrem Konto ab.",
+      "targetText": "Ea retrage bani din contul ei în fiecare lună."
+    },
+    {
+      "sourceText": "Beim Geld abheben fallen manchmal Gebühren an.",
+      "targetText": "La retragerea banilor uneori se percep comisioane."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb 'a retrage' klingt wie 'zurückziehen' – stell dir vor, du ziehst Geld aus dem Konto zurück."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bani' für Geld ist kurz und häufig – es hilft dir, viele Geld-bezogene Ausdrücke zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Phrase als Kombination: 'a retrage' (ziehen) + 'bani' (Geld) = Geld abheben."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das deutsche 'abheben' mit dem rumänischen 'a retrage' durch die Idee des Wegnehmens oder Zurückziehens."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

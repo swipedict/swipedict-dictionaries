@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-markt",
+  "parent": "ms-ro-targ-a1a00396@099cedb35598c563da4bf836a2a31cb1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Markt",
+    "genus": "masculine",
+    "definition": "ein Platz oder ein Gebiet, wo Waren verkauft und gekauft werden",
+    "pronunciation": "/maʁkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Markt“ stammt vom althochdeutschen „marka“, ursprünglich „Grenze“ oder „Gebietsgrenze“, später für Handelsplätze verwendet.",
+        "targetText": "Cuvântul german „Markt“ provine din vechiul german „marka“, inițial însemnând „graniță“ sau „zonă delimitată“ și desemnând locuri de comerț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Markt ist oft ein Ort, an dem frische Produkte und lokale Handwerkskunst verkauft werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "târg",
+    "genus": "neuter",
+    "definition": "un loc sau o zonă unde se vând și se cumpără bunuri",
+    "pronunciation": "/tɨrɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „târg“ stammt vom slawischen „tǫrgъ“, das einen Markt oder Handelsplatz bezeichnet.",
+        "targetText": "Cuvântul românesc „târg“ provine din slavona „tǫrgъ“, însemnând piață sau loc de comerț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Târg“ ist häufig mit lokalen Festen verbunden, bei denen Verkäufer ihre Waren anbieten."
+  },
+  "senses": [
+    {
+      "gloss": "Markt / Verkaufsplatz",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Platz, wo Waren angeboten werden.",
+        "targetText": "Se referă la locul unde se oferă și se vând bunuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Es gibt viele Stände auf dem Markt.",
+          "targetText": "Sunt multe standuri la târg."
+        }
+      ]
+    },
+    {
+      "gloss": "Marktplatz",
+      "explanation": {
+        "sourceText": "Der zentrale Platz in einer Stadt, häufig von Geschäften umgeben.",
+        "targetText": "Locul central al unui oraș, adesea înconjurat de magazine."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Marktplatz ist immer voll.",
+          "targetText": "Piața este întotdeauna plină."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Preise",
+      "targetText": "prețuri"
+    },
+    {
+      "sourceText": "Verkäufer",
+      "targetText": "vânzător"
+    },
+    {
+      "sourceText": "Waren",
+      "targetText": "bunuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wüste",
+      "targetText": "pustiu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er geht jeden Samstag auf den Markt.",
+      "targetText": "El merge în fiecare sâmbătă la târg."
+    },
+    {
+      "sourceText": "Auf dem Markt gibt es viele frische Lebensmittel.",
+      "targetText": "La târg sunt multe alimente proaspete."
+    },
+    {
+      "sourceText": "Der Markt ist heute sehr belebt.",
+      "targetText": "Târgul este foarte aglomerat astăzi."
+    },
+    {
+      "sourceText": "Ich kaufe oft Blumen auf dem Markt.",
+      "targetText": "Cumpăr adesea flori de la târg."
+    },
+    {
+      "sourceText": "Die Preise auf dem Markt sind günstig.",
+      "targetText": "Prețurile la târg sunt accesibile."
+    },
+    {
+      "sourceText": "Wir haben frisches Obst auf dem Markt gekauft.",
+      "targetText": "Am cumpărat fructe proaspete la târg."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „Markt“ und „târg“ helfen dir, an Handel und Tausch zu denken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz: „Ich liebe den Markt, viele Waren warten auf den Târg!“"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie auf dem „târg“ bunte Stände und frische Waren angeboten werden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „târg“ mit „Tag“ – an einem Markt-Tag ist immer viel los und viele Menschen kommen zusammen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

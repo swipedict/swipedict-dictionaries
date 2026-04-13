@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-autobahn",
+  "parent": "ms-ro-autostrada-a3202dbd@c56bdca5102a4686974f81a407e70ec5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Autobahn",
+    "genus": "feminine",
+    "definition": "Eine speziell gebaute Straße für den schnellen Kraftfahrzeugverkehr ohne Kreuzungen.",
+    "pronunciation": "/ˈaʊ̯toˌbaːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Autobahn“ setzt sich aus 'Auto' (vom griechischen 'autos' = selbst) und 'Bahn' (vom althochdeutschen 'bana' = Weg) zusammen und bezeichnet eine Straße für Autos.",
+        "targetText": "Cuvântul german „Autobahn” este compus din 'Auto' (din grecescul 'autos' = sine însuși) și 'Bahn' (din germana veche 'bana' = drum), desemnând o șosea pentru automobile."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autostradă",
+    "genus": "feminine",
+    "definition": "O șosea special construită pentru circulația rapidă a vehiculelor fără intersecții.",
+    "pronunciation": "/autoˈstradə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „autostradă“ setzt sich aus 'auto' (vom griechischen 'autos' = selbst) und 'stradă' (vom lateinischen 'strata' = gepflasterter Weg) zusammen.",
+        "targetText": "Cuvântul românesc „autostradă” este compus din 'auto' (din grecescul 'autos' = sine) și 'stradă' (din latină 'strata' = drum pavat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Autofahrt",
+      "targetText": "călătorie cu mașina"
+    },
+    {
+      "sourceText": "Fahrbahn",
+      "targetText": "carosabil"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fußweg",
+      "targetText": "trotoar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Autobahn ist heute sehr voll.",
+      "targetText": "Autostrada este foarte aglomerată astăzi."
+    },
+    {
+      "sourceText": "Auf der Autobahn darf man schneller fahren als in der Stadt.",
+      "targetText": "Pe autostradă se poate circula mai repede decât în oraș."
+    },
+    {
+      "sourceText": "Wir fahren über die Autobahn nach Berlin.",
+      "targetText": "Mergem pe autostradă spre Berlin."
+    },
+    {
+      "sourceText": "Die Autobahn hat keine Ampeln oder Kreuzungen.",
+      "targetText": "Autostrada nu are semafoare sau intersecții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das griechische 'autos' bedeutet 'selbst', was in 'auto' erhalten geblieben ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Auto' ist in beiden Sprachen gleich, und 'stradă' bedeutet Straße – so merkst du dir 'autostradă'."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an 'Bahn' als Weg oder Schiene, und 'Auto' als Fahrzeug – zusammen die Straße für Autos."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-stradă' erinnert an das deutsche 'Straße', was dir beim Lernen hilft."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

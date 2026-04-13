@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-beraten",
+  "parent": "ms-ro-a-consilia-7921e117@28a2408df2ff981640eec9378af826d0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beraten",
+    "definition": "jemandem einen Rat geben oder helfen, eine Entscheidung zu treffen",
+    "pronunciation": "/bəˈʁaːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „beraten“ abgeleitet, was „Ratschlag geben“ oder „in Betracht ziehen“ bedeutet.",
+        "targetText": "Verbul provine din germana mijlocie „beraten“, care înseamnă „a da sfaturi“ sau „a lua în considerare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft im Kontext des Gebens von Ratschlägen oder Empfehlungen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a consilia",
+    "definition": "a oferi un sfat sau a ajuta pe cineva să ia o decizie",
+    "pronunciation": "/a kon.siˈli.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt aus dem Lateinischen „consilium“, was „Beratung“ oder „Rat“ bedeutet. Das Verb beschreibt den Prozess des Beratens oder Ratschlag Gebens.",
+        "targetText": "Derivat din latinescul „consilium“, care înseamnă „sfat“ sau „consiliu“. „A consilia“ exprimă acțiunea de a oferi sfaturi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation. Wird verwendet, um den Prozess des Beratens oder Ratschlag Gebens zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Beratung",
+      "explanation": {
+        "sourceText": "Das Wort wird auch verwendet, um formelle Konsultationen zu beschreiben.",
+        "targetText": "Se folosește și pentru a descrie consultări formale."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe eine Beratung mit meinem Berater.",
+          "targetText": "Am o consiliere cu consilierul meu."
+        }
+      ]
+    },
+    {
+      "gloss": "Ratschlag",
+      "explanation": {
+        "sourceText": "Kann im Sinne von 'Rat geben' verwendet werden.",
+        "targetText": "Poate fi folosit în sensul de a da un sfat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe dir einen Ratschlag.",
+          "targetText": "Îți dau un sfat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Berater",
+      "targetText": "consilier"
+    },
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Rat",
+      "targetText": "sfat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "überreden",
+      "targetText": "a convinge"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Beraten“ und „a consilia“ sind Kognaten – beide stammen vom lateinischen „consilium“ ab, was „Rat“ bedeutet. Das hilft dir beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu consiliez“ (Ich berate), um die Konjugation und Bedeutung zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

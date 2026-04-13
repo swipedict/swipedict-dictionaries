@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-klappen",
+  "parent": "ms-ro-a-reusi-c5bff3d8@515ed8b871af8dc94ee5e63531640380",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klappen",
+    "definition": "Etwas erfolgreich funktionieren oder gelingen.",
+    "pronunciation": "/ˈklapn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „klappen“ stammt vom mittelhochdeutschen 'klappen' ab, das lautmalerisch für ein schnappendes Geräusch steht.",
+        "targetText": "Verbul german „klappen“ provine din germana mijlocie 'klappen', onomatopeic pentru un sunet de pocnitură."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reuși",
+    "definition": "A avea succes, a funcționa bine sau a merge bine.",
+    "pronunciation": "/a reuˈʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a reuși“ stammt vom lateinischen 'reuscire' ab, das 'gelingen' bedeutet.",
+        "targetText": "Verbul românesc „a reuși” provine din latinul 'reuscire', care înseamnă 'a reuși, a avea succes'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 3. Konjugation, Partizip: reușit."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "funktionieren",
+      "targetText": "a funcționa"
+    },
+    {
+      "sourceText": "gelingen",
+      "targetText": "a reuși"
+    },
+    {
+      "sourceText": "klappen (umklappen)",
+      "targetText": "a plia"
+    },
+    {
+      "sourceText": "schaffen",
+      "targetText": "a reuși"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "scheitern",
+      "targetText": "a eșua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es klappt immer, wenn wir zusammenarbeiten.",
+      "targetText": "Merge întotdeauna când lucrăm împreună."
+    },
+    {
+      "sourceText": "Es hat gestern gut geklappt.",
+      "targetText": "A mers bine ieri."
+    },
+    {
+      "sourceText": "Früher klappte alles problemlos.",
+      "targetText": "Pe vremuri totul mergea fără probleme."
+    },
+    {
+      "sourceText": "Es wird morgen klappen.",
+      "targetText": "Va merge mâine."
+    },
+    {
+      "sourceText": "Klappt das bitte!",
+      "targetText": "Te rog, reușește!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'klappen' klingt wie das Geräusch eines Klappens oder Schnappens – stell dir vor, etwas klappt perfekt zusammen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Partizip 'reușit' klingt wie 'rush it' – stell dir vor, du schaffst etwas schnell und erfolgreich."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a reuși' kannst du mit 'real succeed' assoziieren, um dir die Bedeutung 'erfolgreich sein' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'klappen' im Sinne von 'funktionieren' oft mit 'a reuși' übersetzt wird, nicht mit 'a plia' (umklappen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

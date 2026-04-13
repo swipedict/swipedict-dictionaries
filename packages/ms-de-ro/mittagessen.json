@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-mittagessen",
+  "parent": "ms-ro-pranz-1f0ea500@d4e8bba41efb0fcee351def6b77d3639",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mittagessen",
+    "genus": "neuter",
+    "definition": "Die Hauptmahlzeit am Mittag, oft warm gegessen.",
+    "pronunciation": "/ˈmɪtaːkˌʔɛsn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Mittagessen' setzt sich aus 'Mittag' (Mitte des Tages) und 'Essen' (Nahrung zu sich nehmen) zusammen. 'Mittag' stammt vom althochdeutschen 'mitta' ab, das 'Mitte' bedeutet.",
+        "targetText": "Cuvântul german „Mittagessen” este compus din „Mittag” (mijlocul zilei) și „Essen” (a mânca). „Mittag” provine din germana veche înaltă 'mitta', care înseamnă 'mijloc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prânz",
+    "genus": "neuter",
+    "definition": "Masa principală luată la mijlocul zilei, de obicei caldă.",
+    "pronunciation": "/prɨnz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'prânz' stammt aus dem italienischen 'pranzo', das wiederum vom lateinischen 'prandium' für 'Mittagessen' abgeleitet ist.",
+        "targetText": "Cuvântul românesc „prânz” provine din italianul 'pranzo', care la rândul său derivă din latinul 'prandium', însemnând 'masa de prânz'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abendessen",
+      "targetText": "cină"
+    },
+    {
+      "sourceText": "Frühstück",
+      "targetText": "mic dejun"
+    },
+    {
+      "sourceText": "Mahlzeit",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "Speise",
+      "targetText": "mâncare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Frühstück",
+      "targetText": "mic dejun"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich esse um 12 Uhr Mittagessen.",
+      "targetText": "Eu mănânc prânzul la ora 12."
+    },
+    {
+      "sourceText": "Das Mittagessen war sehr lecker.",
+      "targetText": "Prânzul a fost foarte gustos."
+    },
+    {
+      "sourceText": "Zum Mittagessen gibt es heute Suppe.",
+      "targetText": "La prânz avem supă astăzi."
+    },
+    {
+      "sourceText": "Wir treffen uns zum Mittagessen im Restaurant.",
+      "targetText": "Ne întâlnim la prânz la restaurant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Mittagessen' ist die Hauptmahlzeit am Tag, genau wie 'prânz' im Rumänischen – beide Wörter beziehen sich auf die Tageszeit und die Mahlzeit."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische 'prandium' ist die Wurzel von 'prânz' – wenn du andere romanische Sprachen kennst, erkennst du ähnliche Wörter wie 'pranzo' (Italienisch)."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'prânz' klingt ähnlich wie das italienische 'pranzo' – beide bedeuten Mittagessen. So kannst du dir das Wort leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast 'Pranz' (ähnlich wie 'Prunk') und isst mittags ein festliches Essen – so merkst du dir 'prânz'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

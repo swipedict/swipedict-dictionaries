@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-bohren",
+  "parent": "ms-ro-a-perfore-1e33b413@fb7f0093b238b09f1d62436b14799cd7",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bohren",
+    "definition": "ein Loch in ein Material machen, indem man einen Bohrer benutzt",
+    "pronunciation": "/ˈboːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom mittelhochdeutschen „boren“, was „lochen“ oder „durchdringen“ bedeutete.",
+        "targetText": "Provine din germana mijlocie (mittelhochdeutsch) „boren“, care însemna „a face o gaură“ sau „a pătrunde“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, beschrieben wird der Vorgang des Durchbohrens von Materialien."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a perfore",
+    "definition": "a face o gaură într-un material folosind un burghiu",
+    "pronunciation": "/a peʁfoˈre/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „perforare“, was „durchbohren“ bedeutet, verwandt mit „forare“ (bohren).",
+        "targetText": "Provine din latinescul „perforare“, care înseamnă „a străpunge“ sau „a găuri“, înrudit cu verbul „forare“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in Handwerk und Technik verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Bohrmaschine",
+      "explanation": {
+        "sourceText": "Ein Werkzeug zum Bohren von Löchern.",
+        "targetText": "Un instrument folosit pentru a face găuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bohrmaschine ist sehr leistungsstark.",
+          "targetText": "Mașina de perforat este foarte puternică."
+        }
+      ]
+    },
+    {
+      "gloss": "Bohrschraube",
+      "explanation": {
+        "sourceText": "Eine spezielle Schraube, die zum Bohren verwendet wird.",
+        "targetText": "Un șurub special folosit pentru perforare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich brauche eine Bohrschraube.",
+          "targetText": "Am nevoie de o șurub de perforare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bohrer",
+      "targetText": "burghiu"
+    },
+    {
+      "sourceText": "Handwerk",
+      "targetText": "meșteșug"
+    },
+    {
+      "sourceText": "Material",
+      "targetText": "material"
+    },
+    {
+      "sourceText": "Werkzeug",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstopfen",
+      "targetText": "a închide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bohre ein Loch in die Wand.",
+      "targetText": "Eu perforez un orificiu în perete."
+    },
+    {
+      "sourceText": "Bohrst du das Holz?",
+      "targetText": "Perforezi lemnul?"
+    },
+    {
+      "sourceText": "Der Handwerker bohrt das Metall.",
+      "targetText": "Meșteșugarul perforează metalul."
+    },
+    {
+      "sourceText": "Wir bohren morgen!",
+      "targetText": "Noi perforăm mâine!"
+    },
+    {
+      "sourceText": "Bohrt ihr die Fliesen?",
+      "targetText": "Perforați plăcile?"
+    },
+    {
+      "sourceText": "Sie bohren gerne.",
+      "targetText": "Ei perforază cu plăcere."
+    },
+    {
+      "sourceText": "Ich habe ein neues Loch gebohrt.",
+      "targetText": "Am perforat o nouă gaură."
+    },
+    {
+      "sourceText": "Er bohrte das Metall vorangehend.",
+      "targetText": "El perfora metalul anterior."
+    },
+    {
+      "sourceText": "Wir werden das Holz bohren.",
+      "targetText": "Noi vom perfora lemnul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a perfore“ klingt wie „perform“ – stelle dir vor, wie das Werkzeug eine perfekte Aktion ausführt, um ein Loch zu bohren!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische „perforare“ – „durchbohren“ – und verbinde es mit dem Bild eines Bohrers, der ein Loch macht."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endungen „-ez“, „-ezi“, „-ează“ helfen dir, die Konjugation von „a perfore“ zu merken – wie kleine Löcher, die sich öffnen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

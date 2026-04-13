@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-einschliessen",
+  "parent": "ms-ro-a-inchide-6e4949d5@820e964e79e60b0cbd83271220d2e510",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einschließen",
+    "definition": "etwas oder jemanden in etwas integrieren oder umfassen",
+    "pronunciation": "/aɪnˈʃliːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einschließen“ setzt sich aus „ein-“ und „schließen“ zusammen, wobei „schließen“ vom althochdeutschen „sliozan“ stammt und „verschließen“ bedeutet. Es beschreibt das Umfassen oder Verschließen von etwas.",
+        "targetText": "Verbul german „einschließen“ este format din prefixul „ein-“ și verbul „schließen“, care provine din germana veche „sliozan“ și înseamnă „a închide“. Înseamnă a cuprinde sau a închide ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Oft verwendet im Zusammenhang mit Sicherheitsmaßnahmen, wie dem Verschließen von Türen oder das Einschließen von Personen oder Objekten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a închide",
+    "definition": "a integra sau a cuprinde ceva sau pe cineva",
+    "pronunciation": "/a ɨnˈkide/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a închide“ stammt vom lateinischen „claudere“ ab, was „schließen“ bedeutet. Das Präfix „în-“ entspricht dem deutschen „ein-“ und betont das Hinein- oder Einschließen.",
+        "targetText": "Verbul românesc „a închide“ provine din latinescul „claudere“, care înseamnă „a închide“. Prefixul „în-“ este echivalentul german „ein-“ și accentuează ideea de a închide sau a cuprinde."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft in der Bedeutung verwendet, etwas sicher zu machen, sei es eine Tür oder ein Fahrzeug."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "einschluss",
+      "targetText": "includere"
+    },
+    {
+      "sourceText": "integrieren",
+      "targetText": "a integra"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "umfassen",
+      "targetText": "a cuprinde"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auslassen",
+      "targetText": "a exclude"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schließe das Fenster ein.",
+      "targetText": "Eu închid fereastra."
+    },
+    {
+      "sourceText": "Sie schließt das Kind im Raum ein.",
+      "targetText": "Ea închide copilul în cameră."
+    },
+    {
+      "sourceText": "Wir haben die wertvollen Stücke eingeschlossen.",
+      "targetText": "Am închis obiectele valoroase."
+    },
+    {
+      "sourceText": "Ich werde die Tür einschließen.",
+      "targetText": "Voi închide ușa."
+    },
+    {
+      "sourceText": "Schließe alles ein!",
+      "targetText": "Închide tot!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „în-“ in „a închide“ klingt wie „in“ und hilft dir, die Bedeutung des Einschließens zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „einschließen“ durch die Verbindung von „ein-“ (hinein) und „schließen“ (zumachen). Im Rumänischen heißt es „a închide“ – auch mit dem Präfix „în-“ für ‚hinein‘."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du schließt eine Tür ein, um etwas sicher zu halten – genau wie „a închide“ im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

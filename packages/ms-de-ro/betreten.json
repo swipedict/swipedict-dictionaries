@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-betreten",
+  "parent": "ms-ro-a-intra-8c9e8223@2078f5e5d8db327b27283213df7ca421",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "betreten",
+    "definition": "einen Raum oder Ort, um hineinzugehen",
+    "pronunciation": "/bəˈtʁeːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „betreten“ stammt vom mittelhochdeutschen „betreten“, zusammengesetzt aus dem Präfix „be-“ (in, an) und „treten“ (gehen, treten), und bedeutet „eintreten“ oder „hineingehen“.",
+        "targetText": "Verbul „betreten“ provine din germana mijlocie „betreten“, compus din prefixul „be-“ (în, la) și „treten“ (a păși), însemnând a intra într-un loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, genutzt, um das Betreten eines Raumes oder Geländes zu beschreiben. Es hat auch eine metaphorische Bedeutung, zum Beispiel im Sinne von „ein Thema betreten“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a intra",
+    "definition": "a intra într-o cameră sau în loc",
+    "pronunciation": "/a ˈintra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a intra“ stammt vom lateinischen „intrare“, zusammengesetzt aus „in“ (hinein) und „trare“ (ziehen), und bedeutet „eintreten“ oder „hineingehen“.",
+        "targetText": "Verbul românesc „a intra“ provine din latină, din „intrare“, compus din „in“ (în) și „trare“ (a trage), însemnând a păși într-un loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Kann auch figurativ verwendet werden, um zu beschreiben, dass man ein Thema oder eine Diskussion beginnt."
+  },
+  "senses": [
+    {
+      "gloss": "Raum betreten",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: In einen Raum, ein Gebäude oder einen Ort gehen.",
+        "targetText": "A păși într-o cameră, clădire sau loc."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich betrete die Schule.",
+          "targetText": "Eu intru în școală."
+        }
+      ]
+    },
+    {
+      "gloss": "Thema betreten",
+      "explanation": {
+        "sourceText": "Über einen geläufigen Themenbereich anfangen zu sprechen.",
+        "targetText": "A începe să vorbești despre un subiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Lass uns das Thema betreten.",
+          "targetText": "Să intrăm pe tema."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besucher",
+      "targetText": "vizitator"
+    },
+    {
+      "sourceText": "Eingang",
+      "targetText": "intrare"
+    },
+    {
+      "sourceText": "Raum",
+      "targetText": "cameră"
+    },
+    {
+      "sourceText": "Schwelle",
+      "targetText": "prag"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlassen",
+      "targetText": "a părăsi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich betrete das Zimmer.",
+      "targetText": "Eu intru în cameră."
+    },
+    {
+      "sourceText": "Ich habe den Raum betreten.",
+      "targetText": "Am intrat în cameră."
+    },
+    {
+      "sourceText": "Ich werde den Saal betreten.",
+      "targetText": "Voi intra în sală."
+    },
+    {
+      "sourceText": "Ich würde den Raum betreten, wenn ich könnte.",
+      "targetText": "Aș intra în cameră, dacă aș putea."
+    },
+    {
+      "sourceText": "Betrete das Haus!",
+      "targetText": "Intră în casă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a intra“ klingt ähnlich wie „intra“ im Deutschen – denke an das Hineingehen in einen Raum."
+    },
+    {
+      "lang": "de",
+      "text": "Übe verschiedene Zeiten mit „a intra“: „Eu intru“, „Eu am intrat“, „Eu voi intra“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „betreten“ mit „a intra“, da beide das Betreten oder Hineingehen in einen Ort bedeuten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

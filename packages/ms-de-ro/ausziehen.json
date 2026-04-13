@@ -1,0 +1,144 @@
+{
+  "id": "ms-de-ro-ausziehen",
+  "parent": "ms-ro-a-se-dezbraca-65ae9fa9@e53363302aeeefeb8eb9fa8b9529c78d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausziehen",
+    "definition": "etwas (z.B. Kleidung) ablegen oder einen Ort verlassen",
+    "pronunciation": "/aʊsˈtsiːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „ausziehen“ kommt vom mittelhochdeutschen „uzziehen“, was „herausziehen“ bedeutet, zusammengesetzt aus „aus“ (heraus) und „ziehen“ (ziehen).",
+        "targetText": "Verbul german „ausziehen“ provine din germana mijlocie „uzziehen“, însemnând „a trage afară“, compus din „aus“ și „ziehen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft im Kontext des Ausziehens von Kleidung oder dem Wechsel des Wohnorts verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se dezbrăca",
+    "definition": "a lăsa jos ceva (de exemplu, îmbrăcăminte) sau a părăsi un loc",
+    "pronunciation": "/a se dez.brəˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische reflexive Verb „a se dezbrăca“ setzt sich aus „de-“ (weg) und „zbrăca“ (bekleiden) zusammen und bedeutet „sich entkleiden“.",
+        "targetText": "Verbul reflexiv românesc „a se dezbrăca“ este format din prefixul „de-“ și „zbrăca“ (a îmbrăca), însemnând a se dezbrăca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, um das Ausziehen von Kleidung zu beschreiben. Das reflexive „se“ zeigt an, dass die Handlung auf die Person selbst gerichtet ist."
+  },
+  "senses": [
+    {
+      "gloss": "Ausziehen von Kleidung",
+      "explanation": {
+        "sourceText": "Das Wort wird häufig für das Ablegen von Kleidung verwendet.",
+        "targetText": "Cuvânt folosit frecvent pentru a descrie dezbrăcarea hainelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ziehe mich aus.",
+          "targetText": "Mă dezbrac."
+        },
+        {
+          "sourceText": "Er zieht seine Schuhe aus.",
+          "targetText": "Își scoate pantofii."
+        }
+      ]
+    },
+    {
+      "gloss": "Umziehen",
+      "explanation": {
+        "sourceText": "Das Wort kann auch verwendet werden, wenn jemand seinen Wohnort verlässt.",
+        "targetText": "Poate fi folosit și pentru a exprima mutarea dintr-un loc în altul."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ziehe in eine neue Wohnung.",
+          "targetText": "Mă mut în apartament nou."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kleidung",
+      "targetText": "îmbrăcăminte"
+    },
+    {
+      "sourceText": "Schuhe",
+      "targetText": "pantofi"
+    },
+    {
+      "sourceText": "Umzug",
+      "targetText": "mutare"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anziehen",
+      "targetText": "a îmbrăca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ziehe meine Jacke aus.",
+      "targetText": "Eu mă dezbrac de jachetă."
+    },
+    {
+      "sourceText": "Sie ziehen ihre Schuhe aus.",
+      "targetText": "Ei se dezbracă de pantofi."
+    },
+    {
+      "sourceText": "Ich habe mich gestern ausgezogen.",
+      "targetText": "M-am dezbrăcat ieri."
+    },
+    {
+      "sourceText": "Ich werde mich gleich ausziehen.",
+      "targetText": "Mă voi dezbrăca imediat."
+    },
+    {
+      "sourceText": "Zieh dich aus!",
+      "targetText": "Dezbracă-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a se dezbrăca“ reflexiv ist – das „se“ zeigt, dass die Handlung an dir selbst passiert, genau wie beim Ausziehen der Kleidung."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du deine Kleidung „wegziehst“ – das hilft dir, die Bedeutung von „dezbrăca“ zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Vergleiche „a se dezbrăca“ (ausziehen) mit „a îmbrăca“ (anziehen) – so merkst du dir den Gegensatz gut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

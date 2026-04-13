@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-eins",
+  "parent": "ms-ro-unu-766ab033@ae9bd318984fdd7de25b700d0c2fb5db",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "eins",
+    "definition": "Die Zahl 1; die erste natürliche Zahl.",
+    "pronunciation": "/aɪ̯ns/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Zahlwort „eins“ stammt vom althochdeutschen ‚ein‘ ab, das auf das germanische *ainaz zurückgeht, verwandt mit dem lateinischen ‚unus‘ und dem griechischen ‚heis‘.",
+        "targetText": "Cuvântul german „eins“ provine din germana veche înaltă „ein“, derivat din proto-germanicul *ainaz, înrudit cu latinul „unus“ și grecescul „heis“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "unu",
+    "definition": "Numărul 1; primul număr natural.",
+    "pronunciation": "/ˈunu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Zahlwort „unu“ stammt direkt vom lateinischen ‚unus‘ ab, das ‚eins‘ bedeutet.",
+        "targetText": "Cuvântul românesc „unu“ provine direct din latină „unus“, care înseamnă „unu“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "drei",
+      "targetText": "trei"
+    },
+    {
+      "sourceText": "erste",
+      "targetText": "primul"
+    },
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "zwei",
+      "targetText": "doi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe eins gekauft.",
+      "targetText": "Am cumpărat unu."
+    },
+    {
+      "sourceText": "Eins plus eins ist zwei.",
+      "targetText": "Unu plus unu este doi."
+    },
+    {
+      "sourceText": "Das ist das erste Mal.",
+      "targetText": "Aceasta este prima dată."
+    },
+    {
+      "sourceText": "Eins, zwei, drei, los!",
+      "targetText": "Unu, doi, trei, start!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚u‘ am Ende von ‚unu‘ macht das Wort weich und freundlich – ähnlich wie das ‚s‘ in ‚eins‘."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚eins‘ und das rumänische ‚unu‘ stammen beide vom lateinischen ‚unus‘ ab – das hilft dir, die Ähnlichkeit zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir ‚unu‘ als den Anfang der Zahlenreihe, ähnlich wie ‚eins‘ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zählst auf Rumänisch: ‚unu, doi, trei‘ – das ist wie ‚eins, zwei, drei‘."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

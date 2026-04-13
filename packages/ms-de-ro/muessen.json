@@ -1,0 +1,151 @@
+{
+  "id": "ms-de-ro-muessen",
+  "parent": "ms-ro-a-trebui-84f2f698@af52b1bbcd1f4655a4b3474c3f0d5a85",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "müssen",
+    "definition": "etwas ist notwendig oder zwingend erforderlich",
+    "pronunciation": "/ˈmʏsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „müssen“ stammt vom mittelhochdeutschen „müessen“ ab, mit unklarer Herkunft, möglicherweise verbunden mit „Mühe“.",
+        "targetText": "Verbul german „müssen“ provine din germana mijlocie „müessen“, cu origini neclare, posibil legat de „mühe“ (osteneală)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb mit verschiedenen Konjugationsformen im Präsens."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trebui",
+    "definition": "a fi necesar sau obligatoriu",
+    "pronunciation": "/a treˈbu.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a trebui“ stammt vom lateinischen „debere“ ab, was ‚müssen‘ oder ‚verpflichtet sein‘ bedeutet.",
+        "targetText": "Verbul românesc „a trebui“ provine din latinescul „debere“, care înseamnă „a trebui“ sau „a fi obligat“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb, häufig im Alltag zur Ausdruck von Notwendigkeit verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Notwendigkeit",
+      "explanation": {
+        "sourceText": "Das Wort drückt aus, dass etwas unvermeidlich ist.",
+        "targetText": "Cuvântul exprimă faptul că ceva este inevitabil."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss das tun.",
+          "targetText": "Trebuie să fac asta."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Notwendigkeit",
+      "targetText": "necesitate"
+    },
+    {
+      "sourceText": "Pflicht",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "Verpflichtung",
+      "targetText": "obligație"
+    },
+    {
+      "sourceText": "Zwang",
+      "targetText": "constrângere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "können",
+      "targetText": "a putea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich muss die Hausaufgaben machen.",
+      "targetText": "Trebuie să fac temele."
+    },
+    {
+      "sourceText": "Musst du morgen kommen?",
+      "targetText": "Trebuie să vii mâine?"
+    },
+    {
+      "sourceText": "Er muss seine Arbeit abschließen.",
+      "targetText": "El trebuie să își termine munca."
+    },
+    {
+      "sourceText": "Wir müssen die Regeln befolgen.",
+      "targetText": "Trebuie să respectăm regulile."
+    },
+    {
+      "sourceText": "Müsst ihr das auch erledigen?",
+      "targetText": "Trebuie să o rezolvați și voi?"
+    },
+    {
+      "sourceText": "Sie müssen ihre Schwierigkeiten meistern.",
+      "targetText": "Ei trebuie să depășească dificultățile."
+    },
+    {
+      "sourceText": "Ich habe es machen müssen.",
+      "targetText": "A trebuit să o fac."
+    },
+    {
+      "sourceText": "Er musste immer pünktlich sein.",
+      "targetText": "El trebuia să fie întotdeauna la timp."
+    },
+    {
+      "sourceText": "Ich werde das machen müssen.",
+      "targetText": "Va trebui să o fac."
+    },
+    {
+      "sourceText": "Ich würde gehen müssen.",
+      "targetText": "Ar trebui să plec."
+    },
+    {
+      "sourceText": "Muss das unbedingt sein!",
+      "targetText": "Trebuie neapărat!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Müssen“ und „a trebui“ drücken beide Notwendigkeit aus – die Bedeutung ist sehr ähnlich, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen signalisiert das Wort „Trebuie?“ eine Frage nach der Notwendigkeit – merk dir das für den Gebrauch."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Präsensform „Eu trebuie“ (Ich muss), um die Regelmäßigkeit des Verbs zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

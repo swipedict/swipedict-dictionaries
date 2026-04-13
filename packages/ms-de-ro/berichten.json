@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-berichten",
+  "parent": "ms-ro-a-relata-e8e516b7@1ef09af47ec82d29e4d1f0b2352b4889",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "berichten",
+    "definition": "jemandem Informationen oder Neuigkeiten mitteilen",
+    "pronunciation": "/bəˈʁɪçtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „berichten“ abgeleitet, was „erzählen“ oder „Bericht erstatten“ bedeutet.",
+        "targetText": "Derivat din germana mijlocie „berichten“, care înseamnă „a povesti“ sau „a raporta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet, um Informationen zu geben oder Nachrichten zu verbreiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a relata",
+    "definition": "a comunica informații sau știri cuiva",
+    "pronunciation": "/a re.laˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „relatare“ abgeleitet, was „erzählen“ oder „berichten“ bedeutet. Es ist eng mit der Erzählung verbunden.",
+        "targetText": "Derivat din latinescul „relatare“, care înseamnă „a povesti“ sau „a raporta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Häufig in journalistischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Bericht",
+      "explanation": {
+        "sourceText": "Bezieht sich auf eine formale oder schriftliche Mitteilung.",
+        "targetText": "Se referă la o comunicare formală sau scrisă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe den Bericht gelesen.",
+          "targetText": "Am citit raportul."
+        }
+      ]
+    },
+    {
+      "gloss": "Nachricht",
+      "explanation": {
+        "sourceText": "Ist eine lebendige Form von 'berichten'.",
+        "targetText": "Este o formă vie de a raporta."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Nachricht wurde verbreitet.",
+          "targetText": "Știrea a fost răspândită."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erzählung",
+      "targetText": "narațiune"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Meldung",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știre"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Berichten“ und „a relata“ sind eng verwandt – beide bedeuten, Informationen weiterzugeben. Das hilft dir beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu relatesz“ (Ich berichte) und stelle dir vor, wie du Nachrichten erzählst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

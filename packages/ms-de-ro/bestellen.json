@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-bestellen",
+  "parent": "ms-ro-a-comanda-8cce3235@37cec0463f004aac2264447d25a4b843",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bestellen",
+    "definition": "etwas in Auftrag geben, damit es geliefert wird",
+    "pronunciation": "/bɛˈʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom mittelhochdeutschen „bestellen“, ursprünglich „jemanden an einen Ort bringen“ – „be-“ (um) und „stellen“ (setzen) zusammensetzt.",
+        "targetText": "Das deutsche Verb „bestellen“ kommt von „be-“ (intensiv) und „stellen“ (setzen), ursprünglich im Sinne von etwas arrangieren oder anordnen."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb wird häufig in Kontexten verwendet, in denen etwas angefordert oder in Auftrag gegeben wird, wie z.B. Essen oder Waren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a comanda",
+    "definition": "a solicita ceva pentru livrare",
+    "pronunciation": "/a koˈmanda/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „a comanda“ hat seinen Ursprung im lateinischen „commandare“, was „anvertrauen, befehlen“ bedeutet. Es wird häufig verwendet, um etwas zu bestellen oder in Auftrag zu geben.",
+        "targetText": "Verbul „a comanda“ provine din latină, din „commandare“, care înseamnă a încredința sau a ordona, folosit pentru a solicita ceva."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "„A comanda“ wird verwendet, um etwas zu bestellen, sei es Essen, Ware oder Dienstleistungen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "Trinken",
+      "targetText": "băutură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stornieren",
+      "targetText": "anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bestelle ein Buch.",
+      "targetText": "Eu comand o carte."
+    },
+    {
+      "sourceText": "Bestellst du etwas zu essen?",
+      "targetText": "Comanzi ceva de mâncare?"
+    },
+    {
+      "sourceText": "Ich habe die Pizza bestellt.",
+      "targetText": "Am comandat pizza."
+    },
+    {
+      "sourceText": "Ich werde ein neues Handy bestellen.",
+      "targetText": "Voi comanda un telefon nou."
+    },
+    {
+      "sourceText": "Bestellen Sie die Getränke!",
+      "targetText": "Comandați băuturile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „a comanda“ wie an ein „Kommando“: Wenn du etwas bestellst, gibst du den Befehl, etwas zu bringen!"
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „comandă“ für alltägliche Bestellungen: „Comand o cafea“ (Ich bestelle einen Kaffee)! So wird es alltäglich und vertraut!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-abstimmen",
+  "parent": "ms-ro-a-vota-cf92cc39@07192685acb94a83a691ea78204c64e4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abstimmen",
+    "definition": "eine Entscheidung durch Abstimmung treffen",
+    "pronunciation": "/ˈapˌʃtɪmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb ‚abstimmen‘ setzt sich aus ‚ab-‘ und ‚stimmen‘ zusammen, wobei ‚stimmen‘ vom mittelhochdeutschen ‚stimmen‘ stammt und ‚übereinstimmen‘ oder ‚eine Meinung äußern‘ bedeutet.",
+        "targetText": "Verbul german „abstimmen“ provine din compunerea „ab-“ și „stimmen“, unde „stimmen“ înseamnă „a fi de acord“ sau „a exprima o opinie“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird oft im politischen Kontext verwendet, wenn es um Wahlen oder Abstimmungen geht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vota",
+    "definition": "a lua o decizie prin vot",
+    "pronunciation": "/a voˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb ‚a vota‘ stammt vom lateinischen ‚votāre‘ ab, was ‚wünschen‘ oder ‚abstimmen‘ bedeutet und wird für den Akt des Wählens verwendet.",
+        "targetText": "Verbul românesc „a vota“ provine din latină, de la „votāre“, care înseamnă „a dori“ sau „a vota“, folosit pentru exprimarea alegerii prin vot."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Besonders relevant in politischen oder organisatorischen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "Abstimmung über eine Entscheidung",
+      "explanation": {
+        "sourceText": "Das Wort kann auch eine Abstimmung im Sinne einer Meinungsäußerung beschreiben.",
+        "targetText": "Poate desemna și o votare pentru exprimarea unei opinii."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Abstimmung war sehr knapp.",
+          "targetText": "Votarea a fost foarte strânsă."
+        }
+      ]
+    },
+    {
+      "gloss": "Wahl",
+      "explanation": {
+        "sourceText": "Das Wort wird verwendet, wenn es um eine Wahl oder Entscheidung geht.",
+        "targetText": "Cuvântul este folosit pentru a desemna o alegere sau decizie."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Wahl findet nächste Woche statt.",
+          "targetText": "Alegerea are loc săptămâna viitoare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Beteiligung",
+      "targetText": "participare"
+    },
+    {
+      "sourceText": "Haltung",
+      "targetText": "poziție"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Wahl",
+      "targetText": "alegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beschließen",
+      "targetText": "decide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stimme über den Vorschlag ab.",
+      "targetText": "Eu votez asupra propunerii."
+    },
+    {
+      "sourceText": "Stimmst du für dieses Projekt ab?",
+      "targetText": "Votezi pentru acest proiect?"
+    },
+    {
+      "sourceText": "Er stimmt im Ausschuss ab.",
+      "targetText": "El votează în comitet."
+    },
+    {
+      "sourceText": "Wir stimmen gemeinsam ab.",
+      "targetText": "Noi votăm împreună."
+    },
+    {
+      "sourceText": "Stimmt ihr gegen den Vorschlag ab?",
+      "targetText": "Votați împotriva propunerii?"
+    },
+    {
+      "sourceText": "Sie (Pl.) stimmen für den neuen Plan ab.",
+      "targetText": "Ei votează pentru noul plan."
+    },
+    {
+      "sourceText": "Ich habe dafür abgestimmt.",
+      "targetText": "Am votat pentru asta."
+    },
+    {
+      "sourceText": "Er stimmte im Rat ab.",
+      "targetText": "El vota în consiliu."
+    },
+    {
+      "sourceText": "Ich werde dann abstimmen.",
+      "targetText": "Voi vota atunci."
+    },
+    {
+      "sourceText": "Stimme bitte ab!",
+      "targetText": "Votează, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „vota“ klingt ähnlich wie das deutsche Wort „Nota“ (Note) – stell dir vor, du gibst eine Note, wenn du wählst."
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran: Beim „vota“ kannst du deine Meinung ausdrücken – sei mutig und stimme ab!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a vota“ mit wichtigen Entscheidungen, z.B. einer Wahl, die den Kurs eines Landes bestimmt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

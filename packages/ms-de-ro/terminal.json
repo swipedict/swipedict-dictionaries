@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-terminal",
+  "parent": "ms-ro-terminal-8f7b1541@2a57f127739b8a208c926c0d4952d23b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Terminal",
+    "genus": "neuter",
+    "definition": "Ein Ort, an dem Reisende oder Waren ankommen oder abfahren, z. B. ein Flughafen- oder Busbahnhof.",
+    "pronunciation": "/tɛʁˈmɪnal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Terminal“ stammt vom lateinischen 'terminalis' ab, was 'am Ende gelegen' bedeutet, und wurde über das Englische ins Deutsche übernommen.",
+        "targetText": "Cuvântul german „Terminal” provine din latină, de la 'terminalis', care înseamnă 'situat la capăt', fiind preluat în germană prin engleză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "terminal",
+    "genus": "neuter",
+    "definition": "Locul unde sosesc sau pleacă călătorii sau mărfurile, de exemplu aeroport sau gară de autobuz.",
+    "pronunciation": "/ter.miˈnal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „terminal“ stammt direkt vom lateinischen Adjektiv 'terminalis' ab, das 'am Ende gelegen' bedeutet, und wurde über das Französische und Englische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „terminal” provine direct din adjectivul latin 'terminalis', care înseamnă 'situat la capăt', fiind preluat în română prin franceză și engleză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ankunft",
+      "targetText": "sosire"
+    },
+    {
+      "sourceText": "Bahnhof",
+      "targetText": "gară"
+    },
+    {
+      "sourceText": "Flughafen",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "Haltestelle",
+      "targetText": "stație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abfahrt",
+      "targetText": "plecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Terminal am Flughafen ist modern und gut ausgestattet.",
+      "targetText": "Terminalul de la aeroport este modern și bine echipat."
+    },
+    {
+      "sourceText": "Wir treffen uns am Bus-Terminal um 18 Uhr.",
+      "targetText": "Ne întâlnim la terminalul de autobuz la ora 18."
+    },
+    {
+      "sourceText": "Der Terminal für internationale Flüge befindet sich im zweiten Stock.",
+      "targetText": "Terminalul pentru zborurile internaționale se află la etajul doi."
+    },
+    {
+      "sourceText": "Am Terminal gibt es viele Geschäfte und Restaurants.",
+      "targetText": "La terminal sunt multe magazine și restaurante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'terminal' klingt fast gleich wie im Deutschen, was das Lernen erleichtert – beide stammen vom gleichen lateinischen Ursprung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'terminal' wird in vielen Sprachen ähnlich verwendet, also kannst du es leicht mit dem englischen 'terminal' oder französischen 'terminal' verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort 'Terminal' als 'Endstation' – ein Ort, wo Reisen beginnen oder enden, genau wie das lateinische 'terminalis' für 'am Ende gelegen'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist am Flughafen-Terminal, wo du deine Reise startest oder beendest – so merkst du dir die Bedeutung von 'terminal'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

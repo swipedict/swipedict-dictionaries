@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bach",
+  "parent": "ms-ro-parau-58d43682@a3505183a36fab8f2e8aa28b8f31e225",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bach",
+    "genus": "masculine",
+    "definition": "Ein kleiner natürlicher Wasserlauf, meist kleiner als ein Fluss.",
+    "pronunciation": "/bax/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bach“ stammt vom althochdeutschen „bah“ oder „bach“, das mit dem lateinischen „bachus“ verwandt ist und ursprünglich ‚fließendes Wasser‘ bedeutete.",
+        "targetText": "Cuvântul german „Bach“ provine din vechiul german înalt „bah“ sau „bach“, înrudit cu latinescul „bachus“, însemnând inițial „apă curgătoare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pârâu",
+    "genus": "neuter",
+    "definition": "Un curs mic de apă naturală, de obicei mai mic decât un râu.",
+    "pronunciation": "/pɨrˈɨw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pârâu“ stammt vom lateinischen Wort „perrivus“ ab, das ‚kleiner Bach‘ oder ‚Nebenfluss‘ bedeutete und sich im Rumänischen zu „pârâu“ entwickelte.",
+        "targetText": "Cuvântul românesc „pârâu“ provine din latinescul „perrivus“, care însemna „pârâu mic“ sau „afluent“, evoluând în limba română la „pârâu“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fluss",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "Quelle",
+      "targetText": "izvor"
+    },
+    {
+      "sourceText": "See",
+      "targetText": "lac"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Bach fließt durch den Wald.",
+      "targetText": "Pârâul curge prin pădure."
+    },
+    {
+      "sourceText": "Wir haben am Bach gespielt.",
+      "targetText": "Am jucat la pârâu."
+    },
+    {
+      "sourceText": "Der Bach ist im Sommer oft sehr niedrig.",
+      "targetText": "Pârâul este adesea foarte mic vara."
+    },
+    {
+      "sourceText": "Fische leben im Bach.",
+      "targetText": "Peștii trăiesc în pârâu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „pârâu“ klingt wie „Paar-au“ – stell dir vor, zwei kleine Wasserläufe (Paare) fließen zusammen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „pârâu“ kommt vom lateinischen „perrivus“ – denk an „per“ (durch) und „rivus“ (Bach), also Wasser, das durch das Land fließt."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen ist ein Bach klein, im Rumänischen ist „pârâu“ das passende Wort für diesen kleinen Wasserlauf."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir das „â“ in „pârâu“ als typisches rumänisches Zeichen, das oft in Naturbegriffen vorkommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

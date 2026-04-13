@@ -1,0 +1,181 @@
+{
+  "id": "ms-de-ro-behandeln",
+  "parent": "ms-ro-a-trata-4296ff2a@05df83c5d3e59ec7d29c684b5b20264c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "behandeln",
+    "definition": "mit etwas umgehen oder etwas behandeln",
+    "pronunciation": "/bəˈhaːndl̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „behandeln“ stammt vom mittelhochdeutschen „behandeln“, zusammengesetzt aus „be-“ und „handeln“ (handeln, tätig sein).",
+        "targetText": "Verbul „behandeln“ provine din germana mijlocie, format din prefixul „be-“ și verbul „handeln“ (a acționa)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb; häufig im medizinischen Kontext verwendet, aber auch für den Umgang mit Themen oder Personen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trata",
+    "definition": "a se ocupa de ceva sau a aborda o problemă",
+    "pronunciation": "/a traˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a trata“ stammt vom lateinischen „tractare“ (handhaben, behandeln), abgeleitet von „tractus“ (Zug, Bewegung).",
+        "targetText": "Românescul „a trata“ derivă din latină, de la „tractare“ (a manevra, a trata), derivat din „tractus“ (tragere, mișcare)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Verwendet in medizinischen und sozialen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "Behandeln (Medizin)",
+      "explanation": {
+        "sourceText": "Verwendung im medizinischen Kontext.",
+        "targetText": "Folosit în context medical."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich behandle den Patienten.",
+          "targetText": "Eu tratez pacientul."
+        }
+      ]
+    },
+    {
+      "gloss": "Problemlösung",
+      "explanation": {
+        "sourceText": "Behandeln kann auch im Kontext der Problemlösung verwendet werden.",
+        "targetText": "Poate fi folosit și pentru rezolvarea problemelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen das Problem behandeln.",
+          "targetText": "Trebuie să tratăm problema."
+        }
+      ]
+    },
+    {
+      "gloss": "Thematisieren",
+      "explanation": {
+        "sourceText": "Behandeln kann auch bedeuten, ein Thema anzusprechen.",
+        "targetText": "Poate însemna și a aborda o temă."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir behandeln das Thema in der Sitzung.",
+          "targetText": "Tratăm tema în ședință."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Frage",
+      "targetText": "întrebare"
+    },
+    {
+      "sourceText": "Lösung",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "Problem",
+      "targetText": "problemă"
+    },
+    {
+      "sourceText": "Thema",
+      "targetText": "tema"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vernachlässigen",
+      "targetText": "neglija"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich behandle den Patienten.",
+      "targetText": "Eu tratez pacientul."
+    },
+    {
+      "sourceText": "Behandlest du die Probleme sorgfältig?",
+      "targetText": "Tratezi problemele cu atenție?"
+    },
+    {
+      "sourceText": "Der Arzt behandelt die Verletzung.",
+      "targetText": "Doctorul tratează rana."
+    },
+    {
+      "sourceText": "Wir behandeln alle Anfragen umgehend.",
+      "targetText": "Noi tratăm toate solicitările prompt."
+    },
+    {
+      "sourceText": "Behandelt ihr die Kritik konstruktiv?",
+      "targetText": "Tratați critica constructiv?"
+    },
+    {
+      "sourceText": "Sie behandeln den Fall mit Sorgfalt.",
+      "targetText": "Ei tratează cazul cu grijă."
+    },
+    {
+      "sourceText": "Ich habe den Patienten gestern behandelt.",
+      "targetText": "Am tratat pacientul ieri."
+    },
+    {
+      "sourceText": "Er behandelte die Angelegenheit professionell.",
+      "targetText": "El trata problema profesional."
+    },
+    {
+      "sourceText": "Ich werde den nächsten Patienten behandeln.",
+      "targetText": "Voi trata următorul pacient."
+    },
+    {
+      "sourceText": "Ich würde es behandeln, wenn ich Zeit hätte.",
+      "targetText": "Aș trata dacă aș avea timp."
+    },
+    {
+      "sourceText": "Behandle das Thema ernsthaft!",
+      "targetText": "Tratează subiectul cu seriozitate!"
+    },
+    {
+      "sourceText": "Die behandelten Beschwerden sind gelindert.",
+      "targetText": "Afecțiunile tratate s-au ameliorat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A trata“ klingt ähnlich wie das englische „to treat“ – beide bedeuten etwas aktiv zu bearbeiten oder zu behandeln."
+    },
+    {
+      "lang": "de",
+      "text": "Das Partizip „tratată“ wird als Adjektiv verwendet – übe es mit anderen Adjektiven, um die Struktur zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „Eu tratez“ (ich behandle), um die Präsensform sicher zu verwenden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

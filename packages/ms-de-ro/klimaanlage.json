@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-klimaanlage",
+  "parent": "ms-ro-aer-conditionat-26b435c2@c086092ed9c8f8270f0e8173c81976ae",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Klimaanlage",
+    "genus": "feminine",
+    "definition": "Ein technisches Gerät oder System, das die Lufttemperatur, Luftfeuchtigkeit und Luftqualität in Innenräumen reguliert, um ein angenehmes Raumklima zu schaffen.",
+    "pronunciation": "/ˈkliːmaˌʔanˌlaːɡə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Klimaanlage“ setzt sich aus „Klima“ (vom griechischen κλίμα, ‚Neigung, Region‘) und „Anlage“ (von althochdeutsch 'anlaga', ‚Einrichtung‘) zusammen.",
+        "targetText": "Cuvântul german „Klimaanlage“ este compus din „Klima“ (din grecescul κλίμα, ‚înclinare, regiune‘) și „Anlage“ (din germana veche înaltă 'anlaga', ‚instalație‘)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aer condiționat",
+    "genus": "neuter",
+    "definition": "Un aparat sau sistem tehnic care reglează temperatura, umiditatea și calitatea aerului din interior pentru a crea un climat confortabil.",
+    "pronunciation": "/aˈer kon.di.t͡si.oˈnat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „aer condiționat“ stammt vom lateinischen Wort 'aer' (Luft) und dem Partizip des französischen Verbs 'conditionner' ab, das ‚bedingen, regulieren‘ bedeutet.",
+        "targetText": "Termenul românesc „aer condiționat“ provine din cuvântul latin 'aer' (aer) și participiul verbului francez 'conditionner', care înseamnă ‚a condiționa, a regla‘."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Luftfeuchtigkeit",
+      "targetText": "umiditate a aerului"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "Ventilator",
+      "targetText": "ventilator"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Heißluft",
+      "targetText": "aer cald"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Klimaanlage kühlt den Raum an heißen Sommertagen.",
+      "targetText": "Aerul condiționat răcește camera în zilele fierbinți de vară."
+    },
+    {
+      "sourceText": "Im Auto funktioniert die Klimaanlage sehr gut.",
+      "targetText": "În mașină, aerul condiționat funcționează foarte bine."
+    },
+    {
+      "sourceText": "Die Klimaanlage muss regelmäßig gewartet werden.",
+      "targetText": "Aerul condiționat trebuie întreținut regulat."
+    },
+    {
+      "sourceText": "Viele Büros haben eine Klimaanlage, um das Raumklima zu verbessern.",
+      "targetText": "Multe birouri au aer condiționat pentru a îmbunătăți climatul interior."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'aer condiționat' klingt wie 'air conditioned' im Englischen – das hilft dir, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'aer' im Rumänischen bedeutet 'Luft' und ist direkt vom Lateinischen übernommen – das hilft dir, verwandte Wörter wie 'aerobic' oder 'Aerosol' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort 'Klimaanlage' als eine 'Anlage' (Einrichtung), die das 'Klima' in einem Raum kontrolliert – ähnlich wie 'aer condiționat' im Rumänischen, das die Luft ('aer') reguliert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie die 'condiționat' (konditioniert) Luft im Raum verteilt wird – das Wort erinnert an das Regulieren oder Steuern von etwas."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-schlaf",
+  "parent": "ms-ro-somn-611c05c6@785835d765b043b950e8d3de2c4a6b50",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schlaf",
+    "genus": "masculine",
+    "definition": "in einem Zustand der Ruhe und Entspannung, in dem das Bewusstsein reduziert ist und der Körper sich erholt.",
+    "pronunciation": "/ʃla:f/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schlaf“ geht auf das althochdeutsche „slaf“ zurück, das mit dem indogermanischen „*slep-„ verwandt ist und „schlafen“ bedeutet.",
+        "targetText": "Cuvântul german „Schlaf“ provine din althochdeutsch „slaf“, legat de rădăcina indo-europeană „*slep-“, care înseamnă „a dormi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schlaf ist wichtig für die Gesundheit und das Wohlbefinden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "somn",
+    "genus": "neuter",
+    "definition": "a fi într-o stare de odihnă și relaxare, în care conștiința este redusă și corpul se reface.",
+    "pronunciation": "/somn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „somn“ stammt vom lateinischen „somnus“, das sich auf den Zustand des Schlafens bezieht. Es hat verwandte Wörter in anderen romanischen Sprachen, z.B. im Italienischen „sonno“.",
+        "targetText": "Cuvântul românesc „somn“ provine din latinul „somnus“, referindu-se la starea de a dormi. Este înrudit cu cuvinte din alte limbi romanice, cum ar fi italianul „sonno“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein ausreichender Schlaf ist entscheidend für die geistige Gesundheit."
+  },
+  "senses": [
+    {
+      "gloss": "Nacht Schlaf",
+      "explanation": {
+        "sourceText": "Viel Schlaf findet während der Nacht statt.",
+        "targetText": "Mult somn are loc în timpul nopții."
+      },
+      "examples": [
+        {
+          "sourceText": "Nacht Schlaf ist für die Gesundheit unerlässlich.",
+          "targetText": "Somnul de noapte este esențial pentru sănătate."
+        }
+      ]
+    },
+    {
+      "gloss": "Schlafzustand",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Zustand des Schlafes.",
+        "targetText": "Se referă la starea de somn."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Schlafzustand sollte mindestens 7 Stunden dauern.",
+          "targetText": "Starea de somn ar trebui să dureze cel puțin 7 ore."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erholung",
+      "targetText": "refacere"
+    },
+    {
+      "sourceText": "Schlaflosigkeit",
+      "targetText": "insomnie"
+    },
+    {
+      "sourceText": "Schlafzimmer",
+      "targetText": "dormitor"
+    },
+    {
+      "sourceText": "Traum",
+      "targetText": "vis"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wach sein",
+      "targetText": "a fi treaz"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Nach einem langen Tag brauche ich viel Schlaf.",
+      "targetText": "După o zi lungă, am nevoie de mult somn."
+    },
+    {
+      "sourceText": "Schlaf ist wichtig für die Erholung.",
+      "targetText": "Somnul este important pentru recuperare."
+    },
+    {
+      "sourceText": "Ich kann nachts schlecht schlafen.",
+      "targetText": "Nu pot dormi bine noaptea."
+    },
+    {
+      "sourceText": "Die Kinder gehen früh schlafen.",
+      "targetText": "Copiii merg să doarmă devreme."
+    },
+    {
+      "sourceText": "Er hatte einen tiefen Schlaf.",
+      "targetText": "A avut un somn adânc."
+    },
+    {
+      "sourceText": "Ich brauche mehr Schlaf, um mich besser zu fühlen.",
+      "targetText": "Am nevoie de mai mult somn pentru a mă simți mai bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Somn“ klingt ähnlich wie „sonnig“ – denk an einen sonnigen Tag, der zu gutem Schlaf führt."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „somn“ ähnlich klingt wie „Sonne“ – gutes Licht fördert guten Schlaf."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du schläfst im Sommer (Somn) in der Sonne – so bleibt das Wort im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „somn“ mit „sonnig“ – stell dir vor, wie du in der Sonne schläfst, um das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

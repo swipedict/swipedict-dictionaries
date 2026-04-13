@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-unter-praeposition",
+  "parent": "ms-ro-sub-580282dc@89b1c213138824c7542eea9bcc7e36e9",
+  "part_of_speech": "preposition",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unter",
+    "definition": "Zeigt an, dass etwas sich an einer niedrigeren Position oder innerhalb von etwas befindet.",
+    "pronunciation": "/ˈʊntɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Präposition „unter“ stammt vom althochdeutschen 'untar', das auf die urgermanische Wurzel *unter zurückgeht und 'unterhalb' bedeutet.",
+        "targetText": "Prepoziția germană „unter” provine din germana veche înaltă 'untar', derivată din rădăcina proto-germanică *unter, care înseamnă 'sub'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sub",
+    "definition": "Indică faptul că ceva se află într-o poziție inferioară sau în interiorul a ceva.",
+    "pronunciation": "/sub/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Präposition „sub“ stammt direkt vom lateinischen Wort 'sub', das 'unter' oder 'unterhalb' bedeutet.",
+        "targetText": "Prepoziția românească „sub” provine direct din cuvântul latin 'sub', care înseamnă 'sub' sau 'dedesubt'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "auf",
+      "targetText": "pe"
+    },
+    {
+      "sourceText": "neben",
+      "targetText": "lângă"
+    },
+    {
+      "sourceText": "über",
+      "targetText": "peste"
+    },
+    {
+      "sourceText": "zwischen",
+      "targetText": "între"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "über",
+      "targetText": "peste"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Buch liegt unter dem Tisch.",
+      "targetText": "Cartea este sub masă."
+    },
+    {
+      "sourceText": "Unter den Gästen waren viele Freunde.",
+      "targetText": "Printre oaspeți erau mulți prieteni."
+    },
+    {
+      "sourceText": "Der Hund schläft unter dem Baum.",
+      "targetText": "Câinele doarme sub copac."
+    },
+    {
+      "sourceText": "Unter der Brücke fließt ein Fluss.",
+      "targetText": "Sub pod curge un râu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'unter' beginnt mit 'un-', das auch in 'unsicher' vorkommt, aber hier bedeutet es 'unterhalb'. Das rumänische 'sub' ist kurz und prägnant."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'sub' ist fast identisch mit dem lateinischen Ursprung und bedeutet genau wie 'unter' im Deutschen 'darunter'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'unter' und 'sub' sind kurze, einfache Wörter, die oft in Ortsangaben verwendet werden – z.B. 'unter dem Tisch' = 'sub masă'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du legst etwas 'unter' den Tisch – auf Rumänisch sagst du einfach 'sub', was dir hilft, die Bedeutung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

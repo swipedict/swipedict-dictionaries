@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-schreiben",
+  "parent": "ms-ro-a-scrie-fe72a6ec@e0c11cbe8fd5b03ef7298cb1c4abf6d5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schreiben",
+    "definition": "Worte oder Zeichen mit einem Schreibgerät auf Papier bringen.",
+    "pronunciation": "/ˈʃraɪ̯bən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort stammt vom mittelhochdeutschen „schrîben“, das auf das althochdeutsche „scriban“ zurückgeht, was „schreiben“ bedeutet.",
+        "targetText": "Cuvântul provine din germana mijlocie „schrîben“, derivat din germana veche „scriban“, care înseamnă „a scrie“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Schreiben“ ist eine grundlegende Handlung in der Kommunikation und Literatur und hat viele unterschiedliche Anwendungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a scrie",
+    "definition": "a pune cuvinte sau semne pe hârtie cu un instrument de scris.",
+    "pronunciation": "/a ˈskri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A scrie“ hat seine Wurzeln im lateinischen „scribere“, was „schreiben“ bedeutet. Das Wort ist tief mit dem Akt des Schreibens von Texten verbunden und spielt eine zentrale Rolle in der Literatur und Bildung.",
+        "targetText": "Verbul „a scrie“ provine din latină, din „scribere“, care înseamnă „a scrie“, fiind strâns legat de actul de a scrie texte și având un rol central în literatură și educație."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Das Verb wird in vielen Kontexten verwendet, sei es beim Schreiben von Briefen, Büchern oder Notizen."
+  },
+  "senses": [
+    {
+      "gloss": "aufzeichnen",
+      "explanation": {
+        "sourceText": "In Bezug auf das Aufzeichnen oder Festhalten von Informationen.",
+        "targetText": "Referitor la înregistrarea sau păstrarea informațiilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Er zeichnet die Ergebnisse auf.",
+          "targetText": "El înregistrează rezultatele."
+        }
+      ]
+    },
+    {
+      "gloss": "notieren",
+      "explanation": {
+        "sourceText": "In einem spezifischen Kontext zum Aufzeichnen von Informationen.",
+        "targetText": "Într-un context specific, pentru a nota informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich notiere das Datum.",
+          "targetText": "Notez data."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Notiz",
+      "targetText": "notă"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Stift",
+      "targetText": "creion"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lesen",
+      "targetText": "a citi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schreibe einen Brief.",
+      "targetText": "Eu scriu o scrisoare."
+    },
+    {
+      "sourceText": "Schreibst du einen Aufsatz?",
+      "targetText": "Scrii o compunere?"
+    },
+    {
+      "sourceText": "Sie schreibt einen Artikel.",
+      "targetText": "Ea scrie un articol."
+    },
+    {
+      "sourceText": "Wir schreiben ein Buch.",
+      "targetText": "Noi scriem o carte."
+    },
+    {
+      "sourceText": "Schreibt ihr einen Blog?",
+      "targetText": "Scrieți un blog?"
+    },
+    {
+      "sourceText": "Sie schreiben das Protokoll.",
+      "targetText": "Ei scriu procesul-verbal."
+    },
+    {
+      "sourceText": "Ich habe einen Aufsatz geschrieben.",
+      "targetText": "Am scris un referat."
+    },
+    {
+      "sourceText": "Er schrieb viele Geschichten.",
+      "targetText": "El scria multe povești."
+    },
+    {
+      "sourceText": "Ich werde einen Artikel schreiben.",
+      "targetText": "Voi scrie un articol."
+    },
+    {
+      "sourceText": "Ich würde es gerne schreiben, wenn ich Zeit hätte.",
+      "targetText": "Aș dori să scriu, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Der geschriebene Text ist interessant.",
+      "targetText": "Textul scris este interesant."
+    },
+    {
+      "sourceText": "Indem ich an meinem Buch schreibe, lerne ich viel.",
+      "targetText": "Scriind la cartea mea, învăț multe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Achte auf die Endungen in den Präsensformen von „a scrie“, sie sind regelmäßig und gut vorhersehbar."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a scrie“ klingt sehr ähnlich wie das deutsche „schreiben“ – das erleichtert das Merken enorm!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du einen Brief schreibst und deinem Freund einen Rat gibst – so wird das Wort lebendig und einprägsam."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

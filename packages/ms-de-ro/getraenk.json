@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-getraenk",
+  "parent": "ms-ro-bautura-0484481d@9f74f99badcdefb39d9b8bae7cd5057c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Getränk",
+    "genus": "neuter",
+    "definition": "Eine Flüssigkeit, die zum Trinken bestimmt ist.",
+    "pronunciation": "/ɡəˈtʁɛŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Getränk“ leitet sich vom Verb 'trinken' ab, mit dem Präfix 'ge-' zur Bildung eines Nomens, das das Ergebnis der Handlung bezeichnet.",
+        "targetText": "Substantivul german „Getränk” derivă din verbul 'trinken' cu prefixul 'ge-' pentru a forma un substantiv care desemnează rezultatul acțiunii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "băutură",
+    "genus": "feminine",
+    "definition": "O lichidă destinată a fi băută.",
+    "pronunciation": "/bəˈu̯tu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „băutură“ stammt vom Verb 'a bea' (trinken) ab, gebildet mit dem Suffix '-tură', das eine Handlung oder ihr Ergebnis bezeichnet.",
+        "targetText": "Substantivul românesc „băutură” provine din verbul 'a bea' (a bea), format cu sufixul '-tură' care indică acțiunea sau rezultatul acesteia."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Alkohol",
+      "targetText": "alcool"
+    },
+    {
+      "sourceText": "Saft",
+      "targetText": "suc"
+    },
+    {
+      "sourceText": "trinken",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich möchte ein kaltes Getränk.",
+      "targetText": "Vreau o băutură rece."
+    },
+    {
+      "sourceText": "Alkoholische Getränke sind in Maßen zu genießen.",
+      "targetText": "Băuturile alcoolice trebuie consumate cu măsură."
+    },
+    {
+      "sourceText": "Das Getränk ist frisch und lecker.",
+      "targetText": "Băutura este proaspătă și gustoasă."
+    },
+    {
+      "sourceText": "Bitte bringen Sie mir ein Getränk.",
+      "targetText": "Vă rog să-mi aduceți o băutură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „băutură“ kannst du dir merken, indem du an das deutsche Verb „trinken“ denkst, denn beide beziehen sich auf Flüssigkeiten zum Trinken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Suffix „-tură“ zeigt oft eine Handlung oder ihr Ergebnis an, ähnlich wie im deutschen „Getränk“ das Ergebnis des Trinkens."
+    },
+    {
+      "lang": "de",
+      "text": "Der Anfang „bău-“ klingt ähnlich wie „Bauch“ – Getränke gehen oft in den Bauch."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „bäuerst“ nach dem Trinken einer „băutură“ – so bleibt das Wort im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

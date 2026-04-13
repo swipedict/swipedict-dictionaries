@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-sich-abtrocknen",
+  "parent": "ms-ro-a-se-usca-6e2c7749@2b11c4a65e95f6ccd211bd522a13813f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sich abtrocknen",
+    "definition": "Den Körper oder einen Teil des Körpers nach dem Waschen oder Nasswerden mit einem Tuch oder Handtuch trocken machen.",
+    "pronunciation": "/zɪç ˈʔapˌtʁɔknən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das reflexive Verb „sich abtrocknen“ setzt sich aus dem Präfix 'ab-' und dem Verb 'trocknen' zusammen, das vom althochdeutschen 'trohhan' stammt und 'trocken machen' bedeutet.",
+        "targetText": "Verbul reflexiv german „sich abtrocknen” este format din prefixul 'ab-' și verbul 'trocknen', care provine din germana veche înaltă 'trohhan' și înseamnă 'a usca'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se usca",
+    "definition": "A face corpul sau o parte a corpului uscată după spălare sau după ce s-a udat, folosind un prosop sau un șervet.",
+    "pronunciation": "/a se usˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische reflexive Verb „a se usca“ stammt vom lateinischen Verb 'uscare', einer Ableitung von 'urere' (brennen), ab, das die Bedeutung 'trocken werden' oder 'austrocknen' trägt.",
+        "targetText": "Verbul reflexiv românesc „a se usca” provine din verbul latin 'uscare', derivat din 'urere' (a arde), și înseamnă 'a deveni uscat' sau 'a se usca'."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Reflexives Verb, benutzt mit reflexivem Pronomen."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Handtuch",
+      "targetText": "prosop"
+    },
+    {
+      "sourceText": "nass",
+      "targetText": "umed"
+    },
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    },
+    {
+      "sourceText": "waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sich nass machen",
+      "targetText": "a se uda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trockne mir nach dem Duschen die Haare ab.",
+      "targetText": "Îmi usuc părul după duș."
+    },
+    {
+      "sourceText": "Bitte trockne dir die Hände ab, bevor du isst.",
+      "targetText": "Te rog să-ți usuci mâinile înainte să mănânci."
+    },
+    {
+      "sourceText": "Nach dem Schwimmen trocknet sie sich schnell ab.",
+      "targetText": "După înot, ea se usucă repede."
+    },
+    {
+      "sourceText": "Er trocknet sich das Gesicht mit einem Handtuch ab.",
+      "targetText": "El își usucă fața cu un prosop."
+    },
+    {
+      "sourceText": "Wir trocknen uns ab, bevor wir uns anziehen.",
+      "targetText": "Ne uscăm înainte să ne îmbrăcăm."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Reflexivpronomen 'se' zeigt an, dass die Handlung auf sich selbst gerichtet ist – wie beim deutschen 'sich abtrocknen'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a se usca' klingt ähnlich wie das deutsche Wort 'uscar', das man sich als 'aus-trocknen' merken kann."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb 'usca' stammt vom lateinischen 'urere' (brennen), denn trocknen fühlt sich manchmal an wie 'brennen' in der Sonne."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du benutzt ein 'USCar' (ein Auto), das dich nach dem Regen 'trocknet' – so merkst du dir 'a se usca'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-dozent",
+  "parent": "ms-ro-lector-b92369a6@1229edc270bf92b7c82385065673d396",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Dozent",
+    "genus": "masculine",
+    "definition": "eine Person, die an einer Hochschule oder Universität lehrt",
+    "pronunciation": "/doˈtsɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Dozent“ stammt vom Lateinischen „docens“, was „lehrend“ bedeutet, abgeleitet von „docere“, was „lehren“ bedeutet. Der Begriff bezeichnet einen Lehrer an einer höheren Bildungsinstitution.",
+        "targetText": "Cuvântul german „Dozent“ provine din latinul „docens“, participiul prezent al verbului „docere“ care înseamnă „a preda“. Bezeichnet o persoană care predă la o instituție de învățământ superior."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dozenten sind oft Experten auf einem bestimmten Fachgebiet und bringen praktische Erfahrungen in die Lehre ein."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lector",
+    "genus": "masculine",
+    "definition": "o persoană care predă la o universitate oder ein colegiu",
+    "pronunciation": "/ˈlekt͡or/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „lector“ stammt vom lateinischen „lector“, was „Leser“ oder „Dozent“ bedeutet. Es bezieht sich auf jemanden, der Wissen vermittelt und das Lernen fördert.",
+        "targetText": "Cuvântul românesc „lector“ provine din latinul „lector“, care înseamnă „cititor“ sau „profesor universitar“, desemnând o persoană care predă și transmite cunoștințe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dozenten oder Lektoren haben oft umfangreiche Erfahrung in ihrem Thema und fördern kritisches Denken."
+  },
+  "senses": [
+    {
+      "gloss": "Lektor (Universität)",
+      "explanation": {
+        "sourceText": "In dem Sinne, dass ein Lektor in der Universität lehrt.",
+        "targetText": "În sensul că un lector predă la universitate."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Lektor hat eine Vorlesung gehalten.",
+          "targetText": "Lectorul a susținut o prelegere."
+        }
+      ]
+    },
+    {
+      "gloss": "Veranlagt zu lehren",
+      "explanation": {
+        "sourceText": "Das bedeutet, dass jemand natürliche Fähigkeiten hat, um Wissen zu vermitteln.",
+        "targetText": "Înseamnă că cineva are abilități naturale de a transmite cunoștințe."
+      },
+      "examples": [
+        {
+          "sourceText": "Er ist ein sehr begabter Dozent.",
+          "targetText": "El este un lector foarte talentat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Klasse",
+      "targetText": "clasă"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Studium",
+      "targetText": "studiu"
+    },
+    {
+      "sourceText": "Unterricht",
+      "targetText": "predare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schüler",
+      "targetText": "student"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Dozent hat eine interessante Vorlesung gehalten.",
+      "targetText": "Lectorul a susținut o prelegere interesantă."
+    },
+    {
+      "sourceText": "Im Studium arbeitet man eng mit dem Dozenten zusammen.",
+      "targetText": "În studiu colaborezi îndeaproape cu lectorul."
+    },
+    {
+      "sourceText": "Der Dozent hat viel Erfahrung in seinem Fachgebiet.",
+      "targetText": "Lectorul are multă experiență în domeniul său."
+    },
+    {
+      "sourceText": "Der Dozent wird nächste Woche einen Workshop anbieten.",
+      "targetText": "Lectorul va oferi un workshop săptămâna viitoare."
+    },
+    {
+      "sourceText": "Die Fragen des Dozenten waren herausfordernd.",
+      "targetText": "Întrebările lectorului au fost provocatoare."
+    },
+    {
+      "sourceText": "Kann ich beim Dozenten nachfragen?",
+      "targetText": "Pot să întreb la lector?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „lector“ klingt ähnlich wie das deutsche „Lektor“ – stelle dir einen Dozenten vor, der liest und Wissen vermittelt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Ein „lector“ ist wie ein „Dozent“, der dir etwas vorliest – so bleibt die Bedeutung klar."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen Dozenten vor, der mit einem Buch vor der Klasse steht – das hilft dir, „lector“ zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Dozent“ mit „Lektor“ und denke an jemanden, der an der Uni Wissen vorliest und erklärt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

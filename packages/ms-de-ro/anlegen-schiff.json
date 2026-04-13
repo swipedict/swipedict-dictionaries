@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-anlegen-schiff",
+  "parent": "ms-ro-a-acosta-eff04bd2@1d9932076c629c44d5dd106cba06c2fd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anlegen",
+    "definition": "Ein Schiff an einen Liegeplatz oder Hafen bringen und festmachen.",
+    "pronunciation": "/ˈanleːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „anlegen“ besteht aus dem Präfix 'an-' und dem Verb 'legen', das vom althochdeutschen 'leggen' stammt und 'platzieren' bedeutet.",
+        "targetText": "Verbul german „anlegen“ este format din prefixul 'an-' și verbul 'legen', care provine din germana veche înaltă 'leggen', însemnând 'a plasa'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acosta",
+    "definition": "A aduce o navă la mal sau la chei și a o fixa acolo.",
+    "pronunciation": "/a aˈkosta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a acosta“ stammt vom italienischen 'accostare' ab, das 'anlegen' oder 'heranfahren' bedeutet und vom lateinischen 'ad' + 'costa' (Küste) abgeleitet ist.",
+        "targetText": "Verbul românesc „a acosta” provine din italianul 'accostare', care înseamnă 'a se apropia' sau 'a acosta', derivat din latinul 'ad' + 'costa' (țărm)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ablegen (Schiff)",
+      "targetText": "a pleca (navă)"
+    },
+    {
+      "sourceText": "Festmachen",
+      "targetText": "ancorare"
+    },
+    {
+      "sourceText": "Hafen",
+      "targetText": "port"
+    },
+    {
+      "sourceText": "Liegeplatz",
+      "targetText": "loc de acostare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ablegen (Schiff)",
+      "targetText": "a pleca (navă)"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Schiff legt im Hafen an.",
+      "targetText": "Nava acostează în port."
+    },
+    {
+      "sourceText": "Wir müssen anlegen, bevor es dunkel wird.",
+      "targetText": "Trebuie să acostăm înainte să se întunece."
+    },
+    {
+      "sourceText": "Das Schiff legte sicher an der Mole an.",
+      "targetText": "Nava a acostat în siguranță la dig."
+    },
+    {
+      "sourceText": "Bitte anlegen und festmachen!",
+      "targetText": "Vă rugăm să acostați și să fixați!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix 'an-' im Deutschen entspricht oft dem 'a-' im Rumänischen, z.B. 'anlegen' – 'a acosta'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a acosta' klingt ähnlich wie das italienische 'accostare' – beide bedeuten 'anlegen'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'acosta' hat das Wort 'costă' (Küste) im Klang, was an das Anlegen am Ufer erinnert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, das Schiff 'kostet' den Hafen, wenn es anlegt – so merkst du dir 'a acosta'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-hell-wohnung",
+  "parent": "ms-ro-luminos-c439df2c@8026c2d34bdd5e5d2e98630bfd3e10b6",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hell",
+    "definition": "Beschreibt eine Wohnung oder einen Raum, der viel Licht hat und dadurch freundlich und lichtdurchflutet wirkt.",
+    "pronunciation": "/hɛl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „hell“ stammt vom althochdeutschen 'hella' ab, das 'licht' oder 'leuchtend' bedeutet, und ist verwandt mit dem englischen 'hill' im Sinne von 'hell' als Licht.",
+        "targetText": "Adjectivul german „hell” provine din vechiul german înalt 'hella', care înseamnă 'luminos' sau 'strălucitor', fiind înrudit cu cuvântul englezesc 'hill' în sensul de lumină."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "luminos",
+    "definition": "Descrie o locuință sau o cameră care are multă lumină naturală, fiind astfel primitoare și plină de lumină.",
+    "pronunciation": "/lu.miˈnos/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „luminos“ stammt vom lateinischen Wort 'luminosus' ab, das 'lichtvoll' oder 'hell' bedeutet und auf 'lumen' für Licht zurückgeht.",
+        "targetText": "Adjectivul românesc „luminos” provine din cuvântul latin 'luminosus', care înseamnă 'plin de lumină' sau 'strălucitor', derivat din 'lumen' pentru lumină."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dunkel",
+      "targetText": "întunecat"
+    },
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Licht",
+      "targetText": "lumină"
+    },
+    {
+      "sourceText": "Sonne",
+      "targetText": "soare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dunkel",
+      "targetText": "întunecat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Wohnung ist sehr hell und freundlich.",
+      "targetText": "Locuința este foarte luminoasă și primitoare."
+    },
+    {
+      "sourceText": "Ein helles Zimmer mit großen Fenstern.",
+      "targetText": "O cameră luminoasă cu ferestre mari."
+    },
+    {
+      "sourceText": "Das Wohnzimmer ist hell und sonnendurchflutet.",
+      "targetText": "Camera de zi este luminoasă și scăldată în lumină de soare."
+    },
+    {
+      "sourceText": "Ich mag helle Räume, weil sie freundlich wirken.",
+      "targetText": "Îmi plac camerele luminoase pentru că par primitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'lumen' steckt in 'luminos' – wenn du an Lichtquellen denkst, fällt dir das Wort leichter ein."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'luminos' erinnert an das deutsche Wort 'Lumen', das auch Licht bedeutet. So kannst du dir merken, dass 'luminos' etwas Helles beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie das Wort 'luminos' wie eine Lampe klingt, die Licht spendet – das hilft dir, die Bedeutung 'hell' zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'luminos' mit dem deutschen Wort 'Licht' und dem englischen 'luminous' – alle haben denselben Ursprung und bedeuten hell oder leuchtend."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wechselgeld",
+  "parent": "ms-ro-rest-fd1421d0@48f012635a5c92982be3cb412fd29ae7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wechselgeld",
+    "genus": "neuter",
+    "definition": "Bargeld, das man als Rückgeld bei einem Kauf erhält, wenn man mit einem größeren Geldbetrag bezahlt.",
+    "pronunciation": "/ˈvɛksəlɡɛlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wechselgeld“ setzt sich aus 'wechseln' (tauschen) und 'Geld' zusammen, wobei 'wechseln' auf das mittelhochdeutsche 'wechseln' zurückgeht, das 'tauschen' bedeutet.",
+        "targetText": "Cuvântul german „Wechselgeld” este compus din „wechseln” (a schimba) și „Geld” (bani), unde „wechseln” provine din germana mijlocie 'wechseln', însemnând 'a schimba'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rest",
+    "genus": "neuter",
+    "definition": "Bani dați înapoi după o plată cu o sumă mai mare decât prețul bunurilor sau serviciilor.",
+    "pronunciation": "/rest/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „rest” stammt vom lateinischen Substantiv 'restare' ab, was 'übrig bleiben' bedeutet und sich auf den verbleibenden Betrag nach einer Zahlung bezieht.",
+        "targetText": "Cuvântul românesc „rest” provine din substantivul latin 'restare', care înseamnă 'a rămâne', referindu-se la suma rămasă după o plată."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bezahlung",
+      "targetText": "plată"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Kauf",
+      "targetText": "cumpărare"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe 20 Euro bezahlt und 5 Euro Wechselgeld bekommen.",
+      "targetText": "Am plătit 20 de euro și am primit 5 euro rest."
+    },
+    {
+      "sourceText": "Bitte geben Sie mir das Wechselgeld zurück.",
+      "targetText": "Vă rog să-mi dați restul înapoi."
+    },
+    {
+      "sourceText": "Das Wechselgeld wurde korrekt herausgegeben.",
+      "targetText": "Restul a fost dat corect."
+    },
+    {
+      "sourceText": "Hast du dein Wechselgeld bekommen?",
+      "targetText": "Ai primit restul?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'rest' klingt wie das englische 'rest' (Pause), was dir helfen kann, dich daran zu erinnern, dass es sich um den verbleibenden Betrag handelt."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen bedeutet 'Wechsel' auch 'Umtausch', und im Rumänischen ist 'rest' das, was nach dem Umtausch (Bezahlung) übrig bleibt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn du etwas bezahlst und mehr gibst, bekommst du den 'rest' zurück – das ist dein Wechselgeld."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zahlst mit einem 50-Euro-Schein und bekommst den 'Rest' als Wechselgeld zurück – der 'Rest' ist das, was übrig bleibt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

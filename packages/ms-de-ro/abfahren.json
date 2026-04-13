@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-abfahren",
+  "parent": "ms-ro-a-pleca-055a550c@0d796ad737594b01fb4dd00a780177cc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abfahren",
+    "definition": "von einem Ort wegfahren oder abreisen",
+    "pronunciation": "/apˈfaːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abfahren“ setzt sich aus dem Präfix „ab-“ (weg) und dem Verb „fahren“ zusammen, das vom althochdeutschen „faran“ stammt und „reisen“ oder „gehen“ bedeutet.",
+        "targetText": "Verbul german „abfahren“ este compus din prefixul „ab-“ (departe) și verbul „fahren“, derivat din althochdeutsch „faran“, care înseamnă „a călători“ sau „a merge“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in der Verbindung mit Verkehrsmitteln verwendet, wie z.B. „Der Zug fährt ab.“"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pleca",
+    "definition": "a se îndepărta de un loc sau a călători",
+    "pronunciation": "/a pleˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a pleca“ stammt vom lateinischen „plicare“ ab, ursprünglich „falten“ oder „biegen“, hat sich aber semantisch zu „weggehen“ oder „abreisen“ entwickelt.",
+        "targetText": "Verbul românesc „a pleca“ provine din latinescul „plicare“, care înseamnă inițial „a plia“ sau „a îndoi“, dar a evoluat semantic spre sensul de „a pleca“ sau „a se îndepărta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„A pleca“ wird häufig im Kontext von Reisen und Abfahrten verwendet, sowohl für Personen als auch für Fahrzeuge."
+  },
+  "senses": [
+    {
+      "gloss": "Abfahrt (Reise)",
+      "explanation": {
+        "sourceText": "Für die Bedeutung im Zusammenhang mit Reisen und Abfahrten.",
+        "targetText": "Sensul legat de călătorii și plecări."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Abfahrt ist um 16 Uhr.",
+          "targetText": "Plecarea este la ora 16."
+        }
+      ]
+    },
+    {
+      "gloss": "Umsiedlung",
+      "explanation": {
+        "sourceText": "Bedeutet auch, sich an einen neuen Ort zu bewegen.",
+        "targetText": "Înseamnă și mutarea într-un loc nou."
+      },
+      "examples": [
+        {
+          "sourceText": "Er plant eine Umsiedlung.",
+          "targetText": "El planifică o plecare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Fahrt",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ankommen",
+      "targetText": "a sosi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fahre um 8 Uhr ab.",
+      "targetText": "Eu plec la ora 8."
+    },
+    {
+      "sourceText": "Fährst du heute ab?",
+      "targetText": "Pleci astăzi?"
+    },
+    {
+      "sourceText": "Der Bus fährt um 10 Uhr ab.",
+      "targetText": "Autobuzul pleacă la ora 10."
+    },
+    {
+      "sourceText": "Wir fahren morgen ab.",
+      "targetText": "Noi plecăm mâine."
+    },
+    {
+      "sourceText": "Fahrt ihr jetzt ab?",
+      "targetText": "Plecați acum?"
+    },
+    {
+      "sourceText": "Sie fahren bald ab.",
+      "targetText": "Ei pleacă în curând."
+    },
+    {
+      "sourceText": "Ich bin gestern abgefahren.",
+      "targetText": "Am plecat ieri."
+    },
+    {
+      "sourceText": "Er fuhr ab, als ich ankam.",
+      "targetText": "El pleca atunci când am ajuns."
+    },
+    {
+      "sourceText": "Ich werde um 9 Uhr abfahren.",
+      "targetText": "Voi pleca la ora 9."
+    },
+    {
+      "sourceText": "Fahre jetzt ab!",
+      "targetText": "Plecă acum!"
+    },
+    {
+      "sourceText": "Abfahrend, ließ er alles hinter sich.",
+      "targetText": "Plecând, a lăsat totul în urmă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „abfahren“ beginnt mit „ab-“ wie „weg“ und das rumänische „a pleca“ klingt wie „plecare“ (Abfahrt), so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „fährst ab“ und „pleci“ – beide Wörter beginnen mit einem klaren „p“ oder „f“ Klang, der Bewegung signalisiert."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a pleca“ mit dem deutschen Wort „plötzlich“ – wenn etwas plötzlich wegfährt, dann „pleci“ du auch schnell!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

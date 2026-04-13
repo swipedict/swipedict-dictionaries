@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-himmel",
+  "parent": "ms-ro-cer-13512399@fb29797bcf58b940df61162e791987e5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Himmel",
+    "genus": "masculine",
+    "definition": "Der sichtbare Bereich über der Erde, in dem sich Wolken, Sonne, Mond und Sterne befinden; auch als der Ort verstanden, an den man nach dem Tod gelangen kann.",
+    "pronunciation": "/ˈhɪməl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Himmel“ stammt vom althochdeutschen 'himil' ab, das auf das urgermanische *himilaz zurückgeht und ursprünglich den sichtbaren Himmel bezeichnete.",
+        "targetText": "Cuvântul german „Himmel” provine din vechea limbă înaltă germană 'himil', derivat din proto-germanicul *himilaz, desemnând inițial cerul vizibil."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cer",
+    "genus": "neuter",
+    "definition": "Spațiul vizibil deasupra Pământului, unde se află norii, soarele, luna și stelele; de asemenea, locul considerat a fi destinul după moarte.",
+    "pronunciation": "/tʃer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cer“ stammt vom lateinischen 'caelum' ab, das ursprünglich 'Himmel' oder 'Luft' bedeutete und aus dem klassischen Latein ins Rumänische übernommen wurde.",
+        "targetText": "Cuvântul românesc „cer” provine din latinul 'caelum', care inițial însemna 'cer' sau 'aer' și a fost preluat în română din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mond",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "Sonne",
+      "targetText": "soare"
+    },
+    {
+      "sourceText": "Stern",
+      "targetText": "stea"
+    },
+    {
+      "sourceText": "Wolke",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Erde",
+      "targetText": "pământ"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Himmel ist heute klar und blau.",
+      "targetText": "Cerul este astăzi senin și albastru."
+    },
+    {
+      "sourceText": "Die Sterne leuchten am Himmel in der Nacht.",
+      "targetText": "Stelele strălucesc pe cer noaptea."
+    },
+    {
+      "sourceText": "Man sagt, die Seele geht nach dem Tod in den Himmel.",
+      "targetText": "Se spune că sufletul merge în cer după moarte."
+    },
+    {
+      "sourceText": "Die Wolken ziehen schnell am Himmel vorbei.",
+      "targetText": "Norii trec repede pe cer."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'cer' klingt wie das englische 'chair' ohne das 'h' – stell dir vor, du sitzt auf einem Stuhl und schaust zum Himmel."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'cer' kurz und prägnant ist, genau wie der klare Himmel an einem sonnigen Tag."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der Himmel ein 'Zelt' (rumänisch 'cort') ist, und 'cer' klingt ähnlich – so kannst du dir den Himmel als großen Schutz vorstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'cer' mit dem lateinischen 'caelum', das auch in anderen romanischen Sprachen wie Italienisch 'cielo' vorkommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

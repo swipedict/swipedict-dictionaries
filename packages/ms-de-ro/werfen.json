@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-werfen",
+  "parent": "ms-ro-a-arunca-9ca9f6ae@b82262c68ea5d4696211e0e1e6f095cc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "werfen",
+    "definition": "etwas mit einer schnellen Bewegung der Hand in die Luft oder in eine bestimmte Richtung schleudern",
+    "pronunciation": "/ˈvɛʁfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „werfen“ stammt vom althochdeutschen „werfan“ und mittelhochdeutschen „werfan“, mit der Bedeutung „werfen“ oder „schleudern“.",
+        "targetText": "Verbul german „werfen“ provine din germana veche „werfan“, cu sensul de a arunca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, die starke Konjugation zeigt sich in den Vergangenheitsformen. Typisch in sportlichen und alltäglichen Kontexten (z.B. einen Ball werfen)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a arunca",
+    "definition": "a lansa ceva cu o mișcare rapidă a mâinii în aer sau într-o direcție anume",
+    "pronunciation": "/a a.ruˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a arunca“ stammt vom lateinischen „aruncare“, was „werfen“ bedeutet. Es ist verwandt mit italienischem „gettare“ und spanischem „arrojar“.",
+        "targetText": "Verbul românesc „a arunca“ provine din latină „aruncare“, cu sensul de a arunca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig in alltäglichen und sportlichen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Arunca (informell)",
+      "explanation": {
+        "sourceText": "In lockerer Sprache wird 'a arunca' oft informell verwendet.",
+        "targetText": "În limbaj colocvial, „a arunca“ este folosit frecvent."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir haben das alte Möbelstück einfach rausgeworfen.",
+          "targetText": "Am aruncat mobila veche afară."
+        }
+      ]
+    },
+    {
+      "gloss": "werfen (im sportlichen Kontext)",
+      "explanation": {
+        "sourceText": "Im Sportkontext wird oft von 'werfen' gesprochen.",
+        "targetText": "În context sportiv, verbul se folosește frecvent pentru a arunca."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werfe den Ball ins Tor.",
+          "targetText": "Eu arunc mingea în poartă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ball",
+      "targetText": "minge"
+    },
+    {
+      "sourceText": "Hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "Spiel",
+      "targetText": "joc"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "țintă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fangen",
+      "targetText": "a prinde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich werfe den Ball.",
+      "targetText": "Eu arunc mingea."
+    },
+    {
+      "sourceText": "Wirfst du das Papier weg?",
+      "targetText": "Arunci tu hârtia?"
+    },
+    {
+      "sourceText": "Er wirft die Flasche in den Müll.",
+      "targetText": "El aruncă sticla la gunoi."
+    },
+    {
+      "sourceText": "Wir werfen die Äpfel in das Auto.",
+      "targetText": "Noi aruncăm merele în mașină."
+    },
+    {
+      "sourceText": "Werft ihr die alten Bücher weg?",
+      "targetText": "Aruncați voi cărțile vechi?"
+    },
+    {
+      "sourceText": "Sie werfen die Netze ins Wasser.",
+      "targetText": "Ei aruncă plasele în apă."
+    },
+    {
+      "sourceText": "Ich habe die Steine geworfen.",
+      "targetText": "Am aruncat pietrele."
+    },
+    {
+      "sourceText": "Ich werde den Ball morgen werfen.",
+      "targetText": "Voi arunca mingea mâine."
+    },
+    {
+      "sourceText": "Werfe das nicht!",
+      "targetText": "Aruncă asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „werfen“ und das rumänische „a arunca“ klingen unterschiedlich, aber beide beschreiben die schnelle Bewegung des Werfens – stell dir vor, du wirfst einen Ball!"
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere, wie du einen Ball wirfst („werfen“) und dabei „arunca“ sagst – so merkst du dir das rumänische Verb besser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

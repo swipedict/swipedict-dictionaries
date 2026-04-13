@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-wort",
+  "parent": "ms-ro-cuvant-46b4bb6a@36dd4cec38f5218f9d911133d970f199",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wort",
+    "genus": "neuter",
+    "definition": "eine sprachliche Einheit, die etwas ausdrückt",
+    "pronunciation": "/vɔʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wort“ stammt vom althochdeutschen „wuort“ ab, verwandt mit mittelhochdeutschem „wort“ und gotischem „wurd“, alle bedeutend „Sprechsache“.",
+        "targetText": "Cuvântul german „Wort“ provine din germana veche „wuort“, înrudit cu „wort“ din germana mijlocie și goticul „wurd“, toate însemnând „unitate de vorbire“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Worte sind fundamental für Kommunikation und Ausdruck."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cuvânt",
+    "genus": "neuter",
+    "definition": "unitate de limbaj care exprimă o idee",
+    "pronunciation": "/kuˈvɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cuvânt“ stammt vom lateinischen „verbum“ ab, das „Wort“ bedeutet, und ist verwandt mit italienischem „parola“ und spanischem „palabra“.",
+        "targetText": "Cuvântul românesc „cuvânt“ provine din latină, de la „verbum“, care înseamnă „cuvânt“, fiind înrudit cu italianul „parola“ și spaniolul „palabra“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Cuvânt“ ist ein wesentlicher Bestandteil der Sprache und Kommunikation in der rumänischen Kultur."
+  },
+  "senses": [
+    {
+      "gloss": "Schimpfwort",
+      "explanation": {
+        "sourceText": "'Cuvânt' kann auch als Schimpfwort oder unhöflicher Ausdruck verwendet werden.",
+        "targetText": "'Cuvânt' poate fi folosit și ca insultă sau expresie nepoliticoasă."
+      },
+      "examples": [
+        {
+          "sourceText": "Sein Wort war äußerst unhöflich.",
+          "targetText": "Cuvântul său a fost extrem de nepoliticos."
+        }
+      ]
+    },
+    {
+      "gloss": "Wort (Sprache)",
+      "explanation": {
+        "sourceText": "Das Wort 'cuvânt' bezeichnet die Grundbausteine der Sprache.",
+        "targetText": "'Cuvânt' desemnează unitățile fundamentale ale limbajului."
+      },
+      "examples": [
+        {
+          "sourceText": "Jedes Wort hat seine Bedeutung.",
+          "targetText": "Fiecare cuvânt are semnificația lui."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "abliefern",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "geben",
+      "targetText": "a oferi"
+    },
+    {
+      "sourceText": "reichen",
+      "targetText": "a întinde"
+    },
+    {
+      "sourceText": "überreichen",
+      "targetText": "a înmâna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jedes Wort hat seine Bedeutung.",
+      "targetText": "Fiecare cuvânt are semnificația lui."
+    },
+    {
+      "sourceText": "Ich lerne neue Wörter.",
+      "targetText": "Învăț cuvinte noi."
+    },
+    {
+      "sourceText": "Das Wort des Tages ist sehr interessant.",
+      "targetText": "Cuvântul zilei este foarte interesant."
+    },
+    {
+      "sourceText": "Ein Wort kann viel bewirken.",
+      "targetText": "Un cuvânt poate face mult."
+    },
+    {
+      "sourceText": "Ich kann das Wort nicht finden.",
+      "targetText": "Nu pot găsi cuvântul."
+    },
+    {
+      "sourceText": "Worte sind mächtig.",
+      "targetText": "Cuvintele sunt puternice."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „cuvânt“ klingt ein bisschen wie „Kurven“ – verbinde die geschwungenen Buchstaben mit Worten in Sätzen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an ein Fest („fest“) voller Worte („cuvânt“), um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, dass jedes „cuvânt“ wie ein kleines „Wort“ mit einer Kurve (wie im Wort „Kurve“) ist – das hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Worte sind unsere Werkzeuge zur Verständigung – erinnere dich daran, wenn du „cuvânt“ lernst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

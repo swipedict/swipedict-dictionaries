@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-huepfen",
+  "parent": "ms-ro-a-sari-e10021fb@c6349265e9133592e9df8258cf5317dc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hüpfen",
+    "definition": "sich mit Sprüngen fortbewegen",
+    "pronunciation": "/ˈhʏpfn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort geht wahrscheinlich auf das mittelhochdeutsche „huof“ (Sprung) zurück, verbunden mit dem Verb „hüfen“, was „springen“ bedeutet.",
+        "targetText": "Das deutsche Verb „hüpfen“ stammt vom mittelhochdeutschen „huof“ (Sprung) und „hüfen“ (springen) ab."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft im Kontext von spielerischen Bewegungen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sări",
+    "definition": "a se deplasa sărind",
+    "pronunciation": "/a səˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a sări“ hat seine Wurzeln im lateinischen „salīre“, was „springen“ bedeutet.",
+        "targetText": "Verbul românesc „a sări“ provine din latină, de la „salīre“, care înseamnă „a sări“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird oft im Kontext von körperlicher Aktivität verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "hüpfen",
+      "explanation": {
+        "sourceText": "Im Deutschen bedeutet es sich hüpfend fortzubewegen.",
+        "targetText": "În germană înseamnă a se deplasa sărind."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Kinder hüpfen fröhlich im Garten.",
+          "targetText": "Copiii sărind veseli în grădină."
+        }
+      ]
+    },
+    {
+      "gloss": "springen",
+      "explanation": {
+        "sourceText": "Bedeutet generell springen oder sich schnell bewegen.",
+        "targetText": "Înseamnă în general a sări sau a se mișca rapid."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich liebe es, im Frühling zu hüpfen.",
+          "targetText": "Îmi place să sar primăvara."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bewegung",
+      "targetText": "mișcare"
+    },
+    {
+      "sourceText": "Laufen",
+      "targetText": "a alerga"
+    },
+    {
+      "sourceText": "Spielen",
+      "targetText": "a se juca"
+    },
+    {
+      "sourceText": "Springen",
+      "targetText": "a sări"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fallen",
+      "targetText": "a cădea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich hüpfe im Park.",
+      "targetText": "Eu sar în parc."
+    },
+    {
+      "sourceText": "Hüpfst du auch mit mir?",
+      "targetText": "Sari și tu cu mine?"
+    },
+    {
+      "sourceText": "Das Kind hüpft fröhlich.",
+      "targetText": "Copilul sărind vesel."
+    },
+    {
+      "sourceText": "Wir hüpfen zusammen.",
+      "targetText": "Noi sărim împreună."
+    },
+    {
+      "sourceText": "Hüpft ihr mit uns?",
+      "targetText": "Săriți cu noi?"
+    },
+    {
+      "sourceText": "Die Kinder hüpfen im Garten.",
+      "targetText": "Copiii sărind în grădină."
+    },
+    {
+      "sourceText": "Ich habe im Spielplatz gehüpft.",
+      "targetText": "Am sărit pe terenul de joacă."
+    },
+    {
+      "sourceText": "Er hüpfte oft in seiner Kindheit.",
+      "targetText": "El sărea adesea în copilărie."
+    },
+    {
+      "sourceText": "Ich werde morgen hüpfen.",
+      "targetText": "Voi sări mâine."
+    },
+    {
+      "sourceText": "Ich würde hüpfen, wenn ich könnte.",
+      "targetText": "Aș sări dacă aș putea."
+    },
+    {
+      "sourceText": "Hüpf höher!",
+      "targetText": "Sari mai sus!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Verb „hüpfen“ kannst du dir merken, wenn du an spielende Kinder denkst, die fröhlich „sărind“ durch den Park hüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Ähnlichkeit von „a sări“ und „springen“ hilft dir, die Bedeutung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe mit Freunden, indem ihr zusammen hüpft („a sări“), so bleibt das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-buchen",
+  "parent": "ms-ro-a-rezerva-dc96702b@7278a00532f4e070f050df1f292da18f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "buchen",
+    "definition": "Etwas reservieren, z. B. eine Unterkunft, einen Flug oder einen Tisch.",
+    "pronunciation": "/ˈbuːxən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „buchen“ leitet sich vom mittelhochdeutschen 'bûchen' ab, ursprünglich bezogen auf das Schreiben in ein Buch (Register), was auf das althochdeutsche 'buoh' für Buch zurückgeht.",
+        "targetText": "Verbul german „buchen” provine din germana mijlocie 'bûchen', inițial referindu-se la scrierea într-o carte (registru), derivat din germana veche înaltă 'buoh' pentru carte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a rezerva",
+    "definition": "A face o rezervare pentru ceva, cum ar fi o cameră, un zbor sau o masă.",
+    "pronunciation": "/a reˈzerva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a rezerva“ stammt vom lateinischen 'reservare' ab, was 'aufbewahren' oder 'zurückhalten' bedeutet.",
+        "targetText": "Verbul românesc „a rezerva” provine din latinescul 'reservare', care înseamnă 'a păstra' sau 'a reține'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der a-Verb-Gruppe, regelmäßig konjugiert."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bestätigen",
+      "targetText": "a confirma"
+    },
+    {
+      "sourceText": "Buchung",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "Reservierung",
+      "targetText": "rezervare"
+    },
+    {
+      "sourceText": "Stornieren",
+      "targetText": "a anula"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stornieren",
+      "targetText": "a anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich buche ein Hotelzimmer für den Urlaub.",
+      "targetText": "Rezerv o cameră de hotel pentru vacanță."
+    },
+    {
+      "sourceText": "Ich habe den Flug gestern gebucht.",
+      "targetText": "Am rezervat zborul ieri."
+    },
+    {
+      "sourceText": "Früher buchte ich immer frühzeitig.",
+      "targetText": "Obișnuiam să rezerv cu mult timp înainte."
+    },
+    {
+      "sourceText": "Ich werde das Restaurant für Samstag buchen.",
+      "targetText": "Voi rezerva restaurantul pentru sâmbătă."
+    },
+    {
+      "sourceText": "Buche bitte den Tisch rechtzeitig!",
+      "targetText": "Te rog să rezervi masa din timp!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „buchen“ kommt vom Schreiben in ein Buch (Register). Denk an das rumänische „rezerva“ als das 'Zurückhalten' eines Platzes."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb „a rezerva“ ist regelmäßig und einfach zu konjugieren, perfekt für Anfänger."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: „a rezerva“ klingt wie 'reservieren' im Deutschen, beide bedeuten etwas vorab festlegen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du reservierst einen Platz und hältst ihn 'reserve' (englisch) – so merkst du „a rezerva“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

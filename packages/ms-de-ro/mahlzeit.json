@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-mahlzeit",
+  "parent": "ms-ro-masa-3c062a5a@675293e9b6ddad18b5110b976491b5bb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mahlzeit",
+    "genus": "feminine",
+    "definition": "Eine festgelegte Zeit zum Essen oder die Mahlzeit selbst.",
+    "pronunciation": "/ˈmaːltsaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Mahlzeit“ setzt sich aus ‚Mahl‘ (Speise) und ‚Zeit‘ zusammen und geht auf das althochdeutsche ‚māl‘ zurück, das 'Zeit' oder 'Termin' bedeutete, ursprünglich aus dem germanischen Sprachraum.",
+        "targetText": "Cuvântul german „Mahlzeit” este compus din „Mahl” (masă, mâncare) și „Zeit” (timp), provenind din vechiul german „māl” care însemna 'timp' sau 'moment', cu rădăcini în limbile germanice."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "masă",
+    "genus": "feminine",
+    "definition": "O perioadă stabilită pentru a mânca sau mâncarea consumată în acel moment.",
+    "pronunciation": "/ˈmasə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „masă“ stammt vom lateinischen ‚mensa‘ ab, das ‚Tisch‘ oder ‚Tafel‘ bedeutet und im übertragenen Sinn auch ‚Mahlzeit‘ bezeichnet.",
+        "targetText": "Cuvântul românesc „masă” provine din latină, de la „mensa”, care însemna 'masă' sau 'tablă', și a ajuns să desemneze și 'masă' ca moment de luat masa."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Substantiv feminin, plural: mese."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abendessen",
+      "targetText": "cină"
+    },
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "Frühstück",
+      "targetText": "mic dejun"
+    },
+    {
+      "sourceText": "Mittagessen",
+      "targetText": "prânz"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wir treffen uns zur Mahlzeit um 12 Uhr.",
+      "targetText": "Ne întâlnim la masă la ora 12."
+    },
+    {
+      "sourceText": "Guten Appetit und Mahlzeit!",
+      "targetText": "Poftă bună și masă plăcută!"
+    },
+    {
+      "sourceText": "Die Mahlzeit ist die wichtigste Zeit des Tages.",
+      "targetText": "Masa este cel mai important moment al zilei."
+    },
+    {
+      "sourceText": "Während der Mahlzeit sollte man nicht telefonieren.",
+      "targetText": "În timpul mesei nu ar trebui să vorbești la telefon."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'masă' klingt ähnlich wie das deutsche 'Mahl' und erinnert an den Tisch, an dem man isst."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das lateinische 'mensa', das 'Tisch' bedeutet – so kannst du 'masă' leicht mit Essen und Mahlzeit assoziieren."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine feste 'Zeit' für dein 'Mahl' – so merkst du dir 'Mahlzeit' als den Moment fürs Essen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Mahlzeit' mit dem deutschen Gruß beim Essen – so lernst du, dass es nicht nur die Zeit, sondern auch die Mahl selbst meint."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

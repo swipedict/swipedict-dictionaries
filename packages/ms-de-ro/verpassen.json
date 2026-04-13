@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-verpassen",
+  "parent": "ms-ro-a-pierde-4e1ade56@f2f26d33be270a6288944e786a72fc78",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verpassen",
+    "definition": "eine Gelegenheit oder einen Termin nicht rechtzeitig wahrnehmen",
+    "pronunciation": "/fɛʁˈpasn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verpassen“ stammt vom mittelhochdeutschen „verpassen“, was „verfehlen“ oder „vermissen“ bedeutet, mit der Partikel „ver-“ für negative Bedeutung.",
+        "targetText": "Verbul german „verpassen“ provine din germana mijlocie „verpassen“, însemnând „a rata“ sau „a lipsi“, prefixul „ver-“ indicând o conotație negativă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet, wenn man etwas verpasst oder nicht anwesend ist."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pierde",
+    "definition": "a nu ajunge la timp la o ocazie sau un termen",
+    "pronunciation": "/ˈpjerdɛ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a pierde“ stammt vom lateinischen „perdere“ ab, was „verlieren“ oder „verderben“ bedeutet und auch „verpassen“ ausdrücken kann.",
+        "targetText": "Verbul român „a pierde“ provine din latină, din „perdere“, însemnând „a pierde“ sau „a rata“ o ocazie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Häufig verwendet, um Situationen, Termine oder Gelegenheiten zu beschreiben, die nicht wahrgenommen wurden."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Gelegenheit",
+      "targetText": "ocazie"
+    },
+    {
+      "sourceText": "Stunde",
+      "targetText": "oră"
+    },
+    {
+      "sourceText": "Termin",
+      "targetText": "programare"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erreichen",
+      "targetText": "a ajunge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verpasse den Bus.",
+      "targetText": "Pierd autobuzul."
+    },
+    {
+      "sourceText": "Ich habe das Konzert verpasst.",
+      "targetText": "Am pierdut concertul."
+    },
+    {
+      "sourceText": "Ich werde den Termin verpassen.",
+      "targetText": "Voi pierde întâlnirea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A pierde“ wird oft für verpasste Gelegenheiten verwendet – das hilft dir, die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "„Verpassen“ und „a pierde“ haben ähnliche Bedeutungen – stell dir vor, du verpasst den Bus und verlierst dadurch etwas Wichtiges."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-absetzen",
+  "parent": "ms-ro-a-lasa-febadf41@8a8b73d3dbedd718cd5f405c6524f35f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "absetzen",
+    "definition": "etwas abnehmen oder entfernen",
+    "pronunciation": "/ˈapˌzɛt͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „absetzen“ setzt sich aus dem Präfix „ab-“ und dem Verb „setzen“ zusammen, wobei „setzen“ althochdeutsche Wurzeln hat.",
+        "targetText": "Verbul german „absetzen“ este format din prefixul „ab-“ și verbul „setzen“, care are rădăcini în althochdeutsch."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft verwendet, um das Absetzen von Personen oder Gegenständen an einem bestimmten Ort zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa",
+    "definition": "a lua deoparte sau a îndepărta ceva",
+    "pronunciation": "/a ləˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a lăsa“ stammt vom lateinischen „lassare“ ab, was „entlassen“ oder „übrig lassen“ bedeutet. Es beschreibt das Zurücklassen von etwas an einem Ort.",
+        "targetText": "Verbul românesc „a lăsa“ provine din latinescul „lassare“, care înseamnă „a elibera“ sau „a lăsa în urmă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird verwendet, um das Zurücklassen von Personen oder Dingen zu kennzeichnen."
+  },
+  "senses": [
+    {
+      "gloss": "absetzen (entfernen)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Wegnehmen von etwas.",
+        "targetText": "Se referă la îndepărtarea a ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Setze das Buch ab!",
+          "targetText": "Lasă cartea!"
+        }
+      ]
+    },
+    {
+      "gloss": "absetzen (von einer Person)",
+      "explanation": {
+        "sourceText": "Im Sinne von 'jemanden an einem bestimmten Ort zurücklassen'.",
+        "targetText": "În sensul de a lăsa pe cineva într-un loc anume."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich setze ihn am Bahnhof ab.",
+          "targetText": "Eu îl las la gară."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Abheben",
+      "targetText": "a ridica"
+    },
+    {
+      "sourceText": "Entfernen",
+      "targetText": "a elimina"
+    },
+    {
+      "sourceText": "Legen",
+      "targetText": "a pune"
+    },
+    {
+      "sourceText": "Sitzen",
+      "targetText": "așeza"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anbringen",
+      "targetText": "a aduce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich setze ihn am Bahnhof ab.",
+      "targetText": "Eu îl las la gară."
+    },
+    {
+      "sourceText": "Setzt du die Tasche ab?",
+      "targetText": "Lași tu geanta?"
+    },
+    {
+      "sourceText": "Er setzt mich an der Haltestelle ab.",
+      "targetText": "El mă lasă la stație."
+    },
+    {
+      "sourceText": "Wir setzen die Koffer im Hotel ab.",
+      "targetText": "Noi lăsăm bagajele la hotel."
+    },
+    {
+      "sourceText": "Setzt ihr die Kinder ab?",
+      "targetText": "Lăsați voi copiii?"
+    },
+    {
+      "sourceText": "Sie (Pl.) setzen die Einkäufe ab.",
+      "targetText": "Ei lasă cumpărăturile."
+    },
+    {
+      "sourceText": "Ich habe ihn am Flughafen abgesetzt.",
+      "targetText": "L-am lăsat la aeroport."
+    },
+    {
+      "sourceText": "Er setzte uns vor dem Hotel ab.",
+      "targetText": "El ne lăsa în fața hotelului."
+    },
+    {
+      "sourceText": "Ich werde sie vor dem Haus absetzen.",
+      "targetText": "Voi lăsa înainte de casă."
+    },
+    {
+      "sourceText": "Setze das Buch ab!",
+      "targetText": "Lasă cartea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu las ceva“ (Ich lasse etwas) – so verstehst du die Bedeutung von „a lăsa“ besser."
+    },
+    {
+      "lang": "de",
+      "text": "Verwechsle nicht „absetzen“ mit „setzen“ – „absetzen“ heißt etwas zurücklassen, „setzen“ heißt etwas an einen Platz bringen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

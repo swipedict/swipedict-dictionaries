@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-verlassen",
+  "parent": "ms-ro-a-parasi-09501446@e6cddfeb9b4c49961ac12994fac42613",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verlassen",
+    "definition": "einen Ort oder eine Person hinter sich lassen",
+    "pronunciation": "/fɛrˈlasən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verlassen“ stammt vom mittelhochdeutschen „verlāzzen“, was „freigeben, loslassen“ bedeutete und eine vollständige Trennung anzeigt.",
+        "targetText": "Verbul german „verlassen“ provine din germana mijlocie „verlāzzen“, însemnând „a elibera, a lăsa liber“, indicând o separare completă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Der Gebrauch ist breit, sowohl in der emotionalen (jemanden verlassen) als auch in der physischen (ein Gebäude verlassen) Hinsicht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a părăsi",
+    "definition": "a lăsa un loc sau o persoană în urmă",
+    "pronunciation": "/a pəˈrə.si/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a părăsi“ stammt vom lateinischen „parare“ ab, mit der Bedeutung „übergehen, verlassen“. Es wird häufig für physisches und emotionales Verlassen verwendet.",
+        "targetText": "Verbul român „a părăsi“ provine din latină, din „parare“, însemnând „a trece peste, a părăsi“. Este folosit frecvent pentru a exprima părăsirea fizică și emoțională."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-i). Wird häufig verwendet, wenn es darum geht, Orte oder Menschen zu verlassen."
+  },
+  "senses": [
+    {
+      "gloss": "Abschied nehmen",
+      "explanation": {
+        "sourceText": "Bedeutet, eine Person zu verlassen oder sich zu trennen.",
+        "targetText": "Înseamnă a părăsi o persoană sau a te despărți."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme von meinen Freunden Abschied.",
+          "targetText": "Îmi iau rămas bun de la prietenii mei."
+        }
+      ]
+    },
+    {
+      "gloss": "verlassen / ablegen",
+      "explanation": {
+        "sourceText": "Kann auch das Ablegen von etwas bedeuten.",
+        "targetText": "Poate însemna și a renunța la ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verlasse das alte Leben.",
+          "targetText": "Părăsesc vechea viață."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Heim",
+      "targetText": "acasă"
+    },
+    {
+      "sourceText": "Schule",
+      "targetText": "școală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kommen",
+      "targetText": "a veni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verlasse das Büro.",
+      "targetText": "Părăsesc biroul."
+    },
+    {
+      "sourceText": "Verlässt du die Sitzung?",
+      "targetText": "Părăsești ședința?"
+    },
+    {
+      "sourceText": "Er verlässt das Gebäude.",
+      "targetText": "El părăsește clădirea."
+    },
+    {
+      "sourceText": "Wir verlassen den Raum.",
+      "targetText": "Părăsim camera."
+    },
+    {
+      "sourceText": "Verlasst ihr das Restaurant?",
+      "targetText": "Părăsiți restaurantul?"
+    },
+    {
+      "sourceText": "Sie verlassen die Stadt.",
+      "targetText": "Ei părăsesc orașul."
+    },
+    {
+      "sourceText": "Ich habe das Haus verlassen.",
+      "targetText": "Am părăsit casa."
+    },
+    {
+      "sourceText": "Sie haben den Job verlassen.",
+      "targetText": "Ei au părăsit slujba."
+    },
+    {
+      "sourceText": "Er verließ sein Zimmer jeden Tag.",
+      "targetText": "El părăsea camera lui în fiecare zi."
+    },
+    {
+      "sourceText": "Ich hatte die Feier verlassen, bevor das Feuerwerk begann.",
+      "targetText": "Părăsisem petrecerea înainte de a începe focul de artificii."
+    },
+    {
+      "sourceText": "Ich werde die Stadt morgen verlassen.",
+      "targetText": "Voi părăsi orașul mâine."
+    },
+    {
+      "sourceText": "Sie wird das Treffen verlassen.",
+      "targetText": "Ea o să părăsească întâlnirea."
+    },
+    {
+      "sourceText": "Ich würde das Angebot verlassen, wenn ich könnte.",
+      "targetText": "Aș părăsi oferta dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du das Treffen verlässt.",
+      "targetText": "Este necesar să părăsești întâlnirea."
+    },
+    {
+      "sourceText": "Verlasse das Spiel!",
+      "targetText": "Părăsește jocul!"
+    },
+    {
+      "sourceText": "Verlassen Sie die Räumlichkeiten!",
+      "targetText": "Părăsiți încăperile!"
+    },
+    {
+      "sourceText": "Das verlassene Gebäude ist unheimlich.",
+      "targetText": "Clădirea părăsită este înfricoșătoare."
+    },
+    {
+      "sourceText": "Das Zimmer ist verlassen.",
+      "targetText": "Camera este părăsită."
+    },
+    {
+      "sourceText": "Indem sie das Büro verließen, schlossen sie die Türen.",
+      "targetText": "Părăsind biroul, au închis ușile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Verlassen“ und „a părăsi“ sind Kognaten – beide bedeuten „etwas zurücklassen“ und sind leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb wird sowohl für physisches als auch emotionales Verlassen verwendet – das macht es vielseitig."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung „-i“ bei „a părăsi“ – z.B. „părăsesc“ (ich verlasse), das hilft bei der Konjugation."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du lässt einen Ort oder eine Person hinter dir – so merkst du dir die Bedeutung von „a părăsi“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

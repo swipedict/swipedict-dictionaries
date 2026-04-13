@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-backen",
+  "parent": "ms-ro-a-coace-30cb7b75@bc928bba1d1eabd600fdad0da6614dc6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "backen",
+    "definition": "Nahrung im Ofen zubereiten, indem man sie erhitzt",
+    "pronunciation": "/ˈbaːkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „backen“ stammt vom althochdeutschen „backōn“ ab, das „braten“ oder „backen“ bedeutete, verwandt mit mittelniederländisch „bakken“ und angelsächsisch „bacan“.",
+        "targetText": "Verbul german „backen“ provine din germana veche „backōn“, însemnând „a coace“ sau „a prăji“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Bezieht sich meist auf das Backen von Brot, Kuchen oder Süßwaren im Ofen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a coace",
+    "definition": "a prepara mâncare în cuptor prin căldură",
+    "pronunciation": "/a ˈko.at͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a coace“ stammt vom lateinischen „coquere“ ab, was „kochen“ bedeutet. Backen ist eine spezielle Form des Kochens mit Hitze im Ofen.",
+        "targetText": "Verbul românesc „a coace“ derivă din latină, din „coquere“, care înseamnă „a găti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft für das Backen von Brot, Kuchen und anderen Teigwaren verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Brot",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "Kuchen",
+      "targetText": "tort"
+    },
+    {
+      "sourceText": "Ofen",
+      "targetText": "cuptor"
+    },
+    {
+      "sourceText": "Teig",
+      "targetText": "aluat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verbrennen",
+      "targetText": "a arde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich backe einen Kuchen.",
+      "targetText": "Eu coc un tort."
+    },
+    {
+      "sourceText": "Sie backt Brot.",
+      "targetText": "Ea coace pâine."
+    },
+    {
+      "sourceText": "Ich habe einen Apfelkuchen gebacken.",
+      "targetText": "Am copt un tort de mere."
+    },
+    {
+      "sourceText": "Ich werde einen Kuchen backen.",
+      "targetText": "Voi coace un tort."
+    },
+    {
+      "sourceText": "Backe einen Kuchen!",
+      "targetText": "Coace un tort!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a coace“ klingt wie „kochen“ – denke daran, dass Backen eine spezielle Art des Kochens ist, nämlich im Ofen."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du den Kuchen im Ofen „kochst“ – das hilft dir, „a coace“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „coace“ mit leckeren Erinnerungen an Kuchen und Brot – so bleibt das Wort besser im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

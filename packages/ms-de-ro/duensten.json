@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-duensten",
+  "parent": "ms-ro-a-sota-f84c3c0b@ef93371149355ec8ba93bcd6d69d0d3d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dünsten",
+    "definition": "Ein Kochverfahren, bei dem Lebensmittel in wenig Fett und mit Dampf gegart werden, um sie schonend zuzubereiten.",
+    "pronunciation": "/ˈdʏnstn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „dünsten“ stammt vom mittelhochdeutschen 'dünsten' ab, das mit dem althochdeutschen 'dunst' verwandt ist, was 'Dampf' bedeutet. Es ist verwandt mit dem Verb 'dunsten', das auf die Bedeutung 'mit Dampf garen' zurückgeht.",
+        "targetText": "Verbul german „dünsten“ provine din germana mijlocie 'dünsten', legat de cuvântul vechi înalt german 'dunst', care înseamnă 'abur'. Termenul desemnează procesul de gătire cu abur sau în puțin ulei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sota",
+    "definition": "A găti alimente în puțin ulei sau unt, la foc mic, adesea acoperit, pentru a le înmuia și a le păstra aroma.",
+    "pronunciation": "/a soˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a sota“ stammt aus dem Französischen 'sauter', was ursprünglich 'springen' bedeutet, hier aber das schnelle Anbraten oder Dünsten beschreibt.",
+        "targetText": "Verbul românesc „a sota” provine din franceza 'sauter', care înseamnă inițial 'a sări', dar în context culinar desemnează gătitul rapid în puțin ulei sau unt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation, Partizip: sotat."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "braten",
+      "targetText": "a prăji"
+    },
+    {
+      "sourceText": "dämpfen",
+      "targetText": "a găti la abur"
+    },
+    {
+      "sourceText": "kochen",
+      "targetText": "a fierbe"
+    },
+    {
+      "sourceText": "schmoren",
+      "targetText": "a căli"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rosten",
+      "targetText": "a prăji (până la rumenire)"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich dünste das Gemüse in etwas Öl, bis es weich ist.",
+      "targetText": "Eu sota legumele în puțin ulei până devin moi."
+    },
+    {
+      "sourceText": "Das Fleisch wird zuerst gedünstet und dann gebraten.",
+      "targetText": "Carnea se sota mai întâi, apoi se prăjește."
+    },
+    {
+      "sourceText": "Beim Dünsten bleiben die Vitamine besser erhalten als beim Kochen.",
+      "targetText": "La sota, vitaminele se păstrează mai bine decât la fierbere."
+    },
+    {
+      "sourceText": "Sie dünstet die Zwiebeln, bis sie glasig sind.",
+      "targetText": "Ea sota ceapa până devine translucidă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Partizip 'sotat' klingt wie 'satt' auf Deutsch – nach dem Dünsten sind die Speisen oft zart und sättigend."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a sota' klingt ähnlich wie das französische 'sauter' (springen). Denk an das leichte 'Springen' der Zutaten in der Pfanne beim Dünsten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Gemüse in einer Pfanne 'sacht' (sanft) in wenig Öl gart – so merkst du dir 'a sota' als schonende Garmethode."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'dünsten' mit 'Dunst' (Dampf) und merke dir, dass 'a sota' eine ähnliche schonende Kochtechnik beschreibt, bei der wenig Fett und Dampf verwendet werden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

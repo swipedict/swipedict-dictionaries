@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-starten-flugzeug",
+  "parent": "ms-ro-a-decola-ed8c5234@2678b6f644b6f790a5370ca3d0b9c75e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "starten",
+    "definition": "Mit einem Flugzeug abheben und den Flug beginnen.",
+    "pronunciation": "/ˈʃtaʁtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „starten“ stammt aus dem Englischen „to start“, das wiederum vom altenglischen 'steart' (Schwanz, Ende) abgeleitet ist und im Laufe der Zeit die Bedeutung 'beginnen' annahm.",
+        "targetText": "Verbul german „starten“ provine din englezescul „to start“, care la rândul său derivă din vechiul englez 'steart' (coadă, sfârșit) și a căpătat sensul de 'a începe' de-a lungul timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a decola",
+    "definition": "A ridica un avion de la sol și a începe zborul.",
+    "pronunciation": "/a dekoˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a decola“ stammt vom lateinischen Präfix 'de-' (weg, ab) und dem Verb 'colāre' (ursprünglich 'durchseihen', hier übertragen als 'abheben'). Es wurde im 20. Jahrhundert speziell für die Luftfahrt geprägt.",
+        "targetText": "Verbul românesc „a decola” provine din prefixul latin 'de-' (departe, jos) și verbul 'colāre' (inițial 'a cernut', aici cu sensul de 'a se ridica'). Termenul a fost creat în secolul XX pentru domeniul aviației."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abheben",
+      "targetText": "a se ridica"
+    },
+    {
+      "sourceText": "Flugzeug",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "landen",
+      "targetText": "a ateriza"
+    },
+    {
+      "sourceText": "Pilot",
+      "targetText": "pilot"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "landen",
+      "targetText": "a ateriza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Flugzeug startet pünktlich um 14 Uhr.",
+      "targetText": "Avionul decolează punctual la ora 14."
+    },
+    {
+      "sourceText": "Das Flugzeug ist gestern vom Flughafen gestartet.",
+      "targetText": "Avionul a decolat ieri de pe aeroport."
+    },
+    {
+      "sourceText": "Das Flugzeug startete bei schlechtem Wetter.",
+      "targetText": "Avionul decola în condiții meteo nefavorabile."
+    },
+    {
+      "sourceText": "Das Flugzeug wird in fünf Minuten starten.",
+      "targetText": "Avionul va decola în cinci minute."
+    },
+    {
+      "sourceText": "Starte das Flugzeug vorsichtig!",
+      "targetText": "Decolează avionul cu grijă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „starten“ kommt aus dem Englischen, aber im Rumänischen benutzt man ein ganz anderes Wort, das mit ‚de-‘ beginnt – das hilft dir, die beiden Sprachen auseinanderzuhalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a decola“ beginnt mit „de-“, was oft eine Bewegung weg oder nach oben anzeigt – hier das Abheben vom Boden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: ‚a decola‘ klingt wie ‚de‘ + ‚cola‘. Denk an ‚weg‘ und ‚aufsteigen‘ – so kannst du dir das Starten eines Flugzeugs gut merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Flugzeug „de“ (weg) vom Boden „cola“ (wie ein Sieb, das etwas durchlässt) – also es löst sich vom Boden und steigt auf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

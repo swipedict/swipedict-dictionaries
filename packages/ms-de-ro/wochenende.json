@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wochenende",
+  "parent": "ms-ro-weekend-aed2cdae@a45b4b9bc88840cf33105c0d64ebc3a5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wochenende",
+    "genus": "neuter",
+    "definition": "Die Zeitspanne vom Samstag bis Sonntag, oft zur Erholung oder Freizeit genutzt.",
+    "pronunciation": "/ˈvɔxənˌʔɛndə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort 'Wochenende' setzt sich aus 'Woche' und 'Ende' zusammen, wobei 'Woche' vom althochdeutschen 'woche' stammt und 'Ende' vom althochdeutschen 'enti'.",
+        "targetText": "Cuvântul „Wochenende” este compus din „Woche” (săptămână, din germana veche 'woche') și „Ende” (sfârșit, din germana veche 'enti')."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "weekend",
+    "genus": "neuter",
+    "definition": "Perioada de timp de sâmbătă până duminică, folosită adesea pentru odihnă sau timp liber.",
+    "pronunciation": "/ˈwik.end/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'weekend' ist ein Lehnwort aus dem Englischen, das sich aus 'week' und 'end' zusammensetzt.",
+        "targetText": "Cuvântul românesc „weekend” este un împrumut din limba engleză, format din „week” (săptămână) și „end” (sfârșit)."
+      },
+      "source": "Lehnwortlexikon Rumänisch"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erholung",
+      "targetText": "odihnă"
+    },
+    {
+      "sourceText": "Freizeit",
+      "targetText": "timp liber"
+    },
+    {
+      "sourceText": "Samstag",
+      "targetText": "sâmbătă"
+    },
+    {
+      "sourceText": "Sonntag",
+      "targetText": "duminică"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wochentag",
+      "targetText": "zi lucrătoare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Am Wochenende gehe ich oft spazieren.",
+      "targetText": "În weekend merg adesea la plimbare."
+    },
+    {
+      "sourceText": "Das Wochenende ist zum Ausruhen da.",
+      "targetText": "Weekendul este pentru odihnă."
+    },
+    {
+      "sourceText": "Wir treffen uns am Wochenende.",
+      "targetText": "Ne întâlnim în weekend."
+    },
+    {
+      "sourceText": "Das Wochenende beginnt am Freitagabend.",
+      "targetText": "Weekendul începe vineri seara."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'weekend' ist ein englisches Lehnwort – denk an die englische Woche und ihr Ende."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen ist 'Wochenende' ein zusammengesetztes Wort aus 'Woche' und 'Ende' – im Rumänischen wird das englische Wort übernommen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'weekend' im Rumänischen gleich ausgesprochen wird wie im Englischen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Wochenende' mit Erholung und Freizeit, genau wie 'weekend' im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

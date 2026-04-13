@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bestehen",
+  "parent": "ms-ro-a-exista-463af08b@99968660065d91814fd385869186e7ad",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bestehen",
+    "definition": "in einem Zustand sein oder eine Prüfung erfolgreich ablegen",
+    "pronunciation": "/beˈʃteːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom mittelhochdeutschen „bestēhen“, was „bestehen, aufrecht stehen“ bedeutet und sich aus „be-“ (um) und „stehen“ zusammensetzt.",
+        "targetText": "Das deutsche Verb „bestehen“ kommt von „be-“ (intensiv) und „stehen“ (stehen), was das Verharren oder Überstehen beschreibt."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb beschreibt die Handlung, etwas zu bestehen oder zu überstehen, häufig in Prüfungen oder Herausforderungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a exista",
+    "definition": "a fi într-o stare sau a promova un examen cu succes",
+    "pronunciation": "/a eksisˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a exista“ stammt vom lateinischen „existere“, was „herausgehen, entstehen“ bedeutet. Es ist verwandt mit dem italienischen „esistere“ und spanischen „existir“.",
+        "targetText": "Verbul „a exista“ provine din latină, din „existere“, care înseamnă a apărea sau a exista, folosit și pentru a exprima promovarea unui examen."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "„A exista“ wird oft verwendet, um die Anwesenheit oder Existenz von etwas zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Erfolg",
+      "targetText": "succes"
+    },
+    {
+      "sourceText": "Leistung",
+      "targetText": "performanță"
+    },
+    {
+      "sourceText": "Prüfung",
+      "targetText": "examen"
+    },
+    {
+      "sourceText": "Streben",
+      "targetText": "aspirație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "scheitern",
+      "targetText": "a eșua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Prüfung besteht aus drei Teilen.",
+      "targetText": "Examenul constă în trei părți."
+    },
+    {
+      "sourceText": "Ich bestehe die Prüfung.",
+      "targetText": "Eu trec examenul."
+    },
+    {
+      "sourceText": "Ich habe die Prüfung bestanden.",
+      "targetText": "Am trecut examenul."
+    },
+    {
+      "sourceText": "Ich werde bestehen.",
+      "targetText": "Voi trece."
+    },
+    {
+      "sourceText": "Bestande!",
+      "targetText": "Trece!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Nutze „a exista“ im Kontext: „Un om există“ (Ein Mensch existiert) – so merkst du dir die Bedeutung leichter."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „bestehen“ mit „bestehen bleiben“ – etwas, das bleibt oder übersteht, besteht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

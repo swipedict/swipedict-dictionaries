@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-reduzieren",
+  "parent": "ms-ro-a-reduce-3490757b@2f14bc7afe1484f61bc48fa0f2bfb6a0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "reduzieren",
+    "definition": "die Größe, Menge oder Zahl von etwas verringern",
+    "pronunciation": "/re.duˈtsiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „reduzieren“ stammt vom lateinischen „reducere“, was „zurückführen“ oder „verringern“ bedeutet.",
+        "targetText": "Verbul german „reduzieren“ provine din latinescul „reducere“, care înseamnă „a conduce înapoi“ sau „a micșora“."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig in wirtschaftlichen und technischen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reduce",
+    "definition": "a micșora dimensiunea, cantitatea sau numărul cuiva",
+    "pronunciation": "/a reˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a reduce“ kommt ebenfalls vom lateinischen „reducere“ und bedeutet „verringern“ oder „herabsetzen“.",
+        "targetText": "Verbul românesc „a reduce“ derivă din latinescul „reducere“ și înseamnă „a micșora“ sau „a reduce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation. Weit verbreitet in Mengen- und Wertkontexten, z.B. „prețul s-a redus“ (der Preis wurde gesenkt)."
+  },
+  "senses": [
+    {
+      "gloss": "Preis senken",
+      "explanation": {
+        "sourceText": "'Reduzieren' wird auch im wirtschaftlichen Kontext verwendet, z.B. Preise senken.",
+        "targetText": "'Reducerea' este folosită și în context economic, de exemplu pentru scăderea prețurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Firma reduziert die Preise.",
+          "targetText": "Compania își reduce prețurile."
+        }
+      ]
+    },
+    {
+      "gloss": "Vermindern / Verringern",
+      "explanation": {
+        "sourceText": "'Reduzieren' beschreibt die Handlung, etwas kleiner oder weniger zu machen.",
+        "targetText": "'Reducerea' descrie acțiunea de a face ceva mai mic sau mai puțin."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte mein Gewicht reduzieren.",
+          "targetText": "Vreau să îmi reduc greutatea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Größe",
+      "targetText": "dimensiune"
+    },
+    {
+      "sourceText": "Menge",
+      "targetText": "cantitate"
+    },
+    {
+      "sourceText": "Wert",
+      "targetText": "valoare"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erhöhen",
+      "targetText": "a crește"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich reduziere die Kosten.",
+      "targetText": "Eu reduc costurile."
+    },
+    {
+      "sourceText": "Reduzierst du deinen Verbrauch?",
+      "targetText": "Reduci consumul tău?"
+    },
+    {
+      "sourceText": "Er reduziert die Fehler.",
+      "targetText": "El reduce erorile."
+    },
+    {
+      "sourceText": "Wir reduzieren die Belastung.",
+      "targetText": "Noi reducem povara."
+    },
+    {
+      "sourceText": "Reduziert ihr die Zutaten?",
+      "targetText": "Reduceți ingredientele?"
+    },
+    {
+      "sourceText": "Sie reduzieren den Verbrauch.",
+      "targetText": "Ei reduc consumul."
+    },
+    {
+      "sourceText": "Ich habe die Ausgaben reduziert.",
+      "targetText": "Am redus cheltuielile."
+    },
+    {
+      "sourceText": "Sie haben die Temperatur reduziert.",
+      "targetText": "Au redus temperatura."
+    },
+    {
+      "sourceText": "Er reduzierte die Anzahl an Klassen.",
+      "targetText": "El reducea numărul de clase."
+    },
+    {
+      "sourceText": "Ich hatte die Preise bereits reduziert.",
+      "targetText": "Reducasem deja prețurile."
+    },
+    {
+      "sourceText": "Ich werde die Produktion reduzieren.",
+      "targetText": "Voi reduce producția."
+    },
+    {
+      "sourceText": "Er wird die Ausgaben reduzieren.",
+      "targetText": "El o să reducă cheltuielile."
+    },
+    {
+      "sourceText": "Ich würde es reduzieren, wenn ich könnte.",
+      "targetText": "Aș reduce dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du die Kosten reduzierst.",
+      "targetText": "Este necesar să reduci costurile."
+    },
+    {
+      "sourceText": "Reduziere die Luftverschmutzung!",
+      "targetText": "Reduci poluarea aerului!"
+    },
+    {
+      "sourceText": "Die reduzierten Preise gelten bis nächste Woche.",
+      "targetText": "Prețurile reduse sunt valabile până săptămâna viitoare."
+    },
+    {
+      "sourceText": "Reduzierend können wir Kosten sparen.",
+      "targetText": "Reducând putem economisi bani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„reduzieren“ und „a reduce“ klingen fast gleich und bedeuten dasselbe – das hilft dir, die Wörter schnell zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denke beim Lernen an das Bild, wie etwas kleiner wird – so verknüpfst du die Bedeutung mit dem Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präsensformen von „a reduce“ sind einfach: z.B. du reduci, er reduce – merke dir die Endungen für die Konjugation."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „reduzieren“ mit Alltagssituationen wie Kosten senken oder Gewicht verlieren, um es besser zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

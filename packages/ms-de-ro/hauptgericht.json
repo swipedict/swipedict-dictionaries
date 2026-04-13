@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-hauptgericht",
+  "parent": "ms-ro-fel-principal-c2a9c7c3@8791ba37517f0e2b70eb6fa231129c5b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hauptgericht",
+    "genus": "neuter",
+    "definition": "Das wichtigste oder zentrale Gericht einer Mahlzeit, meist nach der Vorspeise serviert.",
+    "pronunciation": "/ˈhaʊ̯ptɡəˌʁɪçt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Hauptgericht“ setzt sich aus 'Haupt' (von althochdeutsch 'houbit', ursprünglich 'Kopf' oder 'wichtig') und 'Gericht' (von althochdeutsch 'geriht', 'gerichtete Speise') zusammen.",
+        "targetText": "Cuvântul german „Hauptgericht“ este compus din „Haupt“ (din germana veche înaltă 'houbit', inițial 'cap' sau 'principal') și „Gericht“ (din germana veche înaltă 'geriht', 'mâncare pregătită')."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fel principal",
+    "genus": "neuter",
+    "definition": "Felul de mâncare cel mai important sau central al unei mese, servit de obicei după aperitiv.",
+    "pronunciation": "/fel prin.tsiˈpal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „fel principal“ stammt vom lateinischen 'principalis', was 'hauptsächlich' oder 'wichtig' bedeutet, und 'fel', das aus dem Lateinischen 'species' (Art, Sorte) entlehnt ist und hier 'Gericht' meint.",
+        "targetText": "Expresia românească „fel principal” provine din latină, 'principalis' însemnând 'principal' sau 'important', iar 'fel' derivă din latină, 'species', însemnând 'tip' sau 'sortă', aici referindu-se la 'mâncare'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Menü",
+      "targetText": "meniu"
+    },
+    {
+      "sourceText": "Nachspeise",
+      "targetText": "desert"
+    },
+    {
+      "sourceText": "Speise",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Vorspeise",
+      "targetText": "aperitiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Vorspeise",
+      "targetText": "aperitiv"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Hauptgericht besteht heute aus gegrilltem Fisch mit Gemüse.",
+      "targetText": "Felul principal de astăzi este pește la grătar cu legume."
+    },
+    {
+      "sourceText": "Nach der Vorspeise folgt das Hauptgericht.",
+      "targetText": "După aperitiv urmează felul principal."
+    },
+    {
+      "sourceText": "Im Restaurant bestellte ich das Hauptgericht mit Rindfleisch.",
+      "targetText": "La restaurant am comandat felul principal cu carne de vită."
+    },
+    {
+      "sourceText": "Das Hauptgericht ist oft der aufwändigste Teil eines Menüs.",
+      "targetText": "Felul principal este adesea cea mai elaborată parte a unui meniu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'fel' kannst du dir als 'Art' oder 'Sorte' vorstellen, ähnlich wie 'field' im Englischen, das ein Gebiet oder Bereich bezeichnet – hier also eine Art von Essen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'principal' klingt ähnlich wie das deutsche 'Prinzipal' oder 'principal' im Englischen, was 'hauptsächlich' bedeutet – das hilft dir, 'fel principal' als Hauptgericht zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort 'Haupt' als 'Hauptsache' oder 'wichtig', und 'Gericht' als 'Speise' – so merkst du dir, dass 'fel principal' das wichtigste Gericht ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist in einem Restaurant und bestellst zuerst den 'fel principal' – das ist der 'Chef' unter den Gerichten, also das Hauptgericht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

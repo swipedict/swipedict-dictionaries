@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-nacht",
+  "parent": "ms-ro-noapte-39befe06@28fbe4708f3efb08c4c2dd4c87f0b8a6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nacht",
+    "genus": "feminine",
+    "definition": "Die Zeitspanne zwischen Sonnenuntergang und Sonnenaufgang, wenn es dunkel ist.",
+    "pronunciation": "/naxt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Nacht“ stammt vom althochdeutschen 'naht' ab, das wiederum auf das urgermanische *nahts zurückgeht, verwandt mit dem lateinischen 'nox' und dem griechischen 'nyx', alle bedeutend 'Nacht'.",
+        "targetText": "Cuvântul german „Nacht” provine din vechiul german înalt 'naht', care la rândul său derivă din proto-germanicul *nahts, înrudit cu latinescul 'nox' și grecescul 'nyx', toate însemnând 'noapte'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "noapte",
+    "genus": "feminine",
+    "definition": "Perioada de timp dintre apusul și răsăritul soarelui, când este întuneric.",
+    "pronunciation": "/no̯apˈte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „noapte“ stammt vom lateinischen 'nox, noctis' ab, das 'Nacht' bedeutet und in vielen romanischen Sprachen ähnlich ist.",
+        "targetText": "Cuvântul românesc „noapte” provine din latinul 'nox, noctis', care înseamnă 'noapte' și este similar în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dämmerung",
+      "targetText": "amurg"
+    },
+    {
+      "sourceText": "Mond",
+      "targetText": "lună"
+    },
+    {
+      "sourceText": "Stern",
+      "targetText": "stea"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Nacht ist dunkel und still.",
+      "targetText": "Noaptea este întunecată și liniștită."
+    },
+    {
+      "sourceText": "Wir schlafen nachts.",
+      "targetText": "Dormim noaptea."
+    },
+    {
+      "sourceText": "Die Sterne leuchten in der Nacht.",
+      "targetText": "Stelele strălucesc noaptea."
+    },
+    {
+      "sourceText": "Nachts ist es kälter als tagsüber.",
+      "targetText": "Noaptea este mai rece decât ziua."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „noapte“ klingt ähnlich wie das deutsche Wort „Nacht“, beide stammen vom lateinischen 'nox' ab – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „noapte“ endet auf '-te', ähnlich wie viele rumänische Substantive der weiblichen Form, was dir hilft, das Genus zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du siehst nachts den Mond und sagst „noapte“ – das „o“ klingt wie der runde Mond, das hilft dir, das Wort zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „noapte“ mit dem englischen Wort „night“ – beide haben denselben Ursprung und ähnliche Laute, das erleichtert das Lernen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

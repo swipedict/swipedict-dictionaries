@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fernseher",
+  "parent": "ms-ro-televizor-f2d6b7c8@484d11d655c77934eedb49f2fc151dc1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fernseher",
+    "genus": "masculine",
+    "definition": "Ein Gerät, mit dem man Fernsehsendungen empfangen und ansehen kann.",
+    "pronunciation": "/ˈfɛrnˌzeːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Fernseher' setzt sich zusammen aus 'fern' (weit entfernt) und 'sehen' (beobachten).",
+        "targetText": "Cuvântul german „Fernseher” este compus din „fern” (departe) și „sehen” (a vedea)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "televizor",
+    "genus": "neuter",
+    "definition": "Un aparat folosit pentru a recepționa și viziona programe de televiziune.",
+    "pronunciation": "/televiˈzor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'televizor' stammt vom französischen 'téléviseur' ab, zusammengesetzt aus griechisch 'tele' (fern) und lateinisch 'videre' (sehen).",
+        "targetText": "Cuvântul românesc „televizor” provine din franceză, din 'téléviseur', compus din grecescul 'tele' (departe) și latinescul 'videre' (a vedea)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bildschirm",
+      "targetText": "ecran"
+    },
+    {
+      "sourceText": "Fernbedienung",
+      "targetText": "telecomandă"
+    },
+    {
+      "sourceText": "Fernsehen",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "Sender",
+      "targetText": "post de televiziune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fernseher steht im Wohnzimmer.",
+      "targetText": "Televizorul este în sufragerie."
+    },
+    {
+      "sourceText": "Ich sehe abends gerne fern.",
+      "targetText": "Îmi place să mă uit la televizor seara."
+    },
+    {
+      "sourceText": "Der Fernseher hat einen großen Bildschirm.",
+      "targetText": "Televizorul are un ecran mare."
+    },
+    {
+      "sourceText": "Kannst du den Fernseher einschalten?",
+      "targetText": "Poți să pornești televizorul?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'televizor' erinnert an das deutsche 'Fernseher' durch das griechische 'tele' für 'fern' und das lateinische 'videre' für 'sehen'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'televizor' klingt fast wie 'Televisor', ein Wort, das in vielen Sprachen ähnlich ist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'vizor' im Rumänischen mit 'sehen' zusammenhängt, ähnlich wie 'Seher' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'siehst' (videre) etwas 'fern' (tele) – so merkst du dir 'televizor'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-kreuz",
+  "parent": "ms-ro-cruce-f8b4959f@ba495ebacd553262cf646e7521349a71",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kreuz",
+    "genus": "neuter",
+    "definition": "ein Zeichen, das normalerweise aus zwei überkreuzten Linien besteht",
+    "pronunciation": "/kʁɔʏ̯ts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom althochdeutschen „kreuz“, ursprünglich „schneiden“, bezeichnet es ein geometrisches Zeichen aus zwei sich kreuzenden Linien.",
+        "targetText": "Vom althochdeutschen „kreuz“, ursprünglich „schneiden“, bezeichnet es ein geometrisches Zeichen aus zwei sich kreuzenden Linien."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Kreuz hat sowohl religiöse als auch kulturelle Bedeutungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cruce",
+    "genus": "feminine",
+    "definition": "un semn, care de obicei constă din două linii care se intersectează",
+    "pronunciation": "/ˈkru.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „crux“ abgeleitet, bezeichnet es ein Zeichen aus zwei sich kreuzenden Linien, oft mit religiöser Bedeutung.",
+        "targetText": "Vom lateinischen „crux“ abgeleitet, bezeichnet es ein Zeichen aus zwei sich kreuzenden Linien, oft mit religiöser Bedeutung."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Kreuz wird oft mit dem Christentum assoziiert."
+  },
+  "senses": [
+    {
+      "gloss": "Kreuz (geometrisches Zeichen)",
+      "explanation": {
+        "sourceText": "Das Kreuz als geometrisches Zeichen.",
+        "targetText": "Crucea ca semn geometric."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Kreuz besteht aus zwei sich kreuzenden Linien.",
+          "targetText": "Crucea constă din două linii care se intersectează."
+        }
+      ]
+    },
+    {
+      "gloss": "Kreuz (Symbol)",
+      "explanation": {
+        "sourceText": "Das Kreuz als religiöses und kulturelles Symbol.",
+        "targetText": "Crucea ca simbol religios și cultural."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Kreuz steht als Zeichen des Glaubens.",
+          "targetText": "Crucea este un simbol al credinței."
+        },
+        {
+          "sourceText": "Das Kreuz ist ein wichtiges Symbol im Christentum.",
+          "targetText": "Crucea este un simbol important în creștinism."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Form",
+      "targetText": "formă"
+    },
+    {
+      "sourceText": "Linie",
+      "targetText": "linie"
+    },
+    {
+      "sourceText": "Symbol",
+      "targetText": "simbol"
+    },
+    {
+      "sourceText": "Zeichen",
+      "targetText": "semn"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gerade",
+      "targetText": "drept"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Kreuz steht als Zeichen des Glaubens.",
+      "targetText": "Crucea este un simbol al credinței."
+    },
+    {
+      "sourceText": "Sie haben ein großes Kreuz im Garten aufgestellt.",
+      "targetText": "Au pus o cruce mare în grădină."
+    },
+    {
+      "sourceText": "Das Kreuz ist ein wichtiges Symbol im Christentum.",
+      "targetText": "Crucea este un simbol important în creștinism."
+    },
+    {
+      "sourceText": "Er trug ein Kreuz um den Hals.",
+      "targetText": "El purta o cruce la gât."
+    },
+    {
+      "sourceText": "Das Kreuz wurde aus Holz gefertigt.",
+      "targetText": "Crucea a fost făcută din lemn."
+    },
+    {
+      "sourceText": "Die Kinder bastelten ein Kreuz aus Papier.",
+      "targetText": "Copiii au făcut o cruce din hârtie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „cruce“ klingt ähnlich wie „Kreuz“ – beide haben denselben Ursprung im Lateinischen „crux“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zeichnest ein Kreuz in die Luft, während du „cruce“ sagst – so verknüpfst du Wort und Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Teile „cruce“ in zwei Silben: „cru-ce“ – so kannst du es leichter aussprechen und merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

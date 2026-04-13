@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-zoo",
+  "parent": "ms-ro-gradina-zoologica-9b2a929e@c8e3f3beaa78857f4c04db842fa61c3b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:greek",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zoo",
+    "genus": "masculine",
+    "definition": "Ein Ort, an dem verschiedene Tierarten gehalten und der Öffentlichkeit gezeigt werden.",
+    "pronunciation": "/tsoː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Zoo“ ist eine Kurzform von „Zoologischer Garten“, das aus dem Griechischen stammt: 'zōion' bedeutet 'Lebewesen' oder 'Tier'.",
+        "targetText": "Cuvântul „Zoo“ este o formă prescurtată a expresiei „Grădina Zoologică“, provenind din greaca veche, unde 'zōion' înseamnă 'ființă vie' sau 'animal'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "grădină zoologică",
+    "genus": "feminine",
+    "definition": "Un loc unde sunt ținute și expuse publicului diferite specii de animale.",
+    "pronunciation": "/ɡrəˈdi.nə zoo.loˈɡi.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „grădină zoologică“ setzt sich aus dem lateinisch beeinflussten Wort „grădină“ (Garten) und dem griechischen „zoologică“ zusammen, das von 'zōion' (Tier) und 'logos' (Lehre) stammt.",
+        "targetText": "Expresia românească „grădină zoologică“ este compusă din cuvântul „grădină“, influențat de latină, și „zoologică“, derivat din greaca veche, unde 'zōion' înseamnă 'animal' și 'logos' 'studiu' sau 'știință'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Aquarium",
+      "targetText": "acvariu"
+    },
+    {
+      "sourceText": "Tier",
+      "targetText": "animal"
+    },
+    {
+      "sourceText": "Tierpark",
+      "targetText": "parc zoologic"
+    },
+    {
+      "sourceText": "Wildtier",
+      "targetText": "animal sălbatic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Zoo ist ein beliebtes Ausflugsziel für Familien.",
+      "targetText": "Grădina zoologică este o destinație populară pentru familii."
+    },
+    {
+      "sourceText": "Im Zoo kann man viele verschiedene Tiere sehen.",
+      "targetText": "La grădina zoologică poți vedea multe animale diferite."
+    },
+    {
+      "sourceText": "Der Zoo hat auch ein Aquarium mit exotischen Fischen.",
+      "targetText": "Grădina zoologică are și un acvariu cu pești exotici."
+    },
+    {
+      "sourceText": "Der Zoo trägt zum Schutz bedrohter Tierarten bei.",
+      "targetText": "Grădina zoologică contribuie la protejarea speciilor de animale pe cale de dispariție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „Zoo“ stammt vom griechischen 'zōion' ab, das 'Tier' bedeutet – denk an Tiere im Zoo, um die Verbindung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „zoologică“ erinnert an das Wort 'Zoologie' – die Wissenschaft von Tieren, was dir hilft, die Bedeutung zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen ist „grădină“ das Wort für Garten – eine „grădină zoologică“ ist also ein 'Tiergarten', genau wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du besuchst eine „grădină“ (Garten) voller „zoologică“ (Tiere) – so merkst du dir die zusammengesetzte Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

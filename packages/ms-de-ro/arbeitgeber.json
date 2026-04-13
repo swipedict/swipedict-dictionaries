@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-arbeitgeber",
+  "parent": "ms-ro-angajator-ba47c52a@49f04f848a22019775aaa53be554694b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arbeitgeber",
+    "genus": "masculine",
+    "definition": "Person oder Organisation, die Arbeit anbietet und Löhne zahlt.",
+    "pronunciation": "/ˈaʁbaɪ̯tɡeˌbɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arbeitgeber“ setzt sich aus 'Arbeit' und 'Geber' zusammen, wobei 'Arbeit' vom althochdeutschen 'arabeit' stammt und 'Geber' vom mittelhochdeutschen 'geber'.",
+        "targetText": "Cuvântul german „Arbeitgeber” este compus din 'Arbeit' și 'Geber', unde 'Arbeit' provine din germana veche înaltă 'arabeit', iar 'Geber' din germana mijlocie 'geber'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "angajator",
+    "genus": "masculine",
+    "definition": "Persoană sau organizație care oferă muncă și plătește salarii.",
+    "pronunciation": "/anɡaˈd͡ʒator/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „angajator“ stammt vom französischen 'engager' ab, das 'anstellen, verpflichten' bedeutet, mit dem Suffix '-tor' für die handelnde Person.",
+        "targetText": "Cuvântul românesc „angajator” provine din franceza 'engager', care înseamnă 'a angaja, a obliga', cu sufixul '-tor' pentru persoana care face acțiunea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitnehmer",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "Arbeitsvertrag",
+      "targetText": "contract de muncă"
+    },
+    {
+      "sourceText": "Firma",
+      "targetText": "firmă"
+    },
+    {
+      "sourceText": "Gehalt",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Arbeitnehmer",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Arbeitgeber zahlt das Gehalt.",
+      "targetText": "Angajatorul plătește salariul."
+    },
+    {
+      "sourceText": "Mein Arbeitgeber ist sehr freundlich.",
+      "targetText": "Angajatorul meu este foarte prietenos."
+    },
+    {
+      "sourceText": "Der Arbeitgeber bietet viele Vorteile.",
+      "targetText": "Angajatorul oferă multe beneficii."
+    },
+    {
+      "sourceText": "Der Arbeitgeber kündigte den Vertrag.",
+      "targetText": "Angajatorul a reziliat contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'angajator' klingt wie 'engage' + '-tor', also die Person, die jemanden engagiert – der Arbeitgeber."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kommt aus dem Französischen, was viele Berufsbegriffe im Rumänischen beeinflusst hat."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'angajator' maskulin ist, ähnlich wie 'der Arbeitgeber' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'angajator' mit 'anstellen' – derjenige, der jemanden anstellt, ist der Arbeitgeber."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

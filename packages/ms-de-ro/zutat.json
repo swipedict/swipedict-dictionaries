@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-zutat",
+  "parent": "ms-ro-ingredient-6baf7870@989d5ef62c3c32fdef38bfc829882b72",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zutat",
+    "genus": "feminine",
+    "definition": "Ein Bestandteil, der zu einem Gericht oder einer Mischung hinzugefügt wird, um den Geschmack oder die Zusammensetzung zu beeinflussen.",
+    "pronunciation": "/ˈtsuːtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zutat“ stammt vom Verb „zutaten“ ab, das sich aus dem Präfix „zu-“ und dem Substantiv „Taten“ (Plural von „Tat“) zusammensetzt, ursprünglich im Sinne von ‚hinzufügen‘ oder ‚beifügen‘.",
+        "targetText": "Cuvântul german „Zutat“ provine de la verbul „zutaten“, format din prefixul „zu-“ și substantivul „Taten“ (pluralul lui „Tat“), cu sensul inițial de „a adăuga“ sau „a încorpora“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ingredient",
+    "genus": "neuter",
+    "definition": "Un element sau componentă adăugată într-o rețetă sau amestec pentru a influența gustul sau compoziția.",
+    "pronunciation": "/inɡreˈdjent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ingredient“ stammt direkt vom lateinischen Partizip Präsens „ingredientem“ des Verbs „ingredi“ ab, was ‚hineingehen‘ oder ‚eintreten‘ bedeutet, und wurde im Mittelalter für Bestandteile von Rezepten übernommen.",
+        "targetText": "Cuvântul românesc „ingredient“ provine direct din participiul prezent latin „ingredientem“ al verbului „ingredi“, care înseamnă „a intra“ sau „a pătrunde“, fiind preluat în Evul Mediu pentru a desemna componentele unei rețete."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gewürz",
+      "targetText": "condiment"
+    },
+    {
+      "sourceText": "Mischung",
+      "targetText": "amestec"
+    },
+    {
+      "sourceText": "Rezept",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "Zubereitung",
+      "targetText": "preparare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Hauptzutaten für den Kuchen sind Mehl, Zucker und Eier.",
+      "targetText": "Ingredientele principale pentru prăjitură sunt făina, zahărul și ouăle."
+    },
+    {
+      "sourceText": "Füge die Zutaten in der angegebenen Reihenfolge hinzu.",
+      "targetText": "Adaugă ingredientele în ordinea indicată."
+    },
+    {
+      "sourceText": "Ohne frische Zutaten schmeckt das Essen nicht so gut.",
+      "targetText": "Fără ingrediente proaspete, mâncarea nu are un gust la fel de bun."
+    },
+    {
+      "sourceText": "Jede Zutat trägt zum Geschmack des Gerichts bei.",
+      "targetText": "Fiecare ingredient contribuie la gustul preparatului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Verb „ingredi“ bedeutet ‚hineingehen‘ – also etwas, das in das Gericht ‚hineingeht‘, genau wie eine Zutat."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ingredient“ klingt fast wie das deutsche „Ingredient“ im Englischen, was dir hilft, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Ingredient“ endet auf „-ent“, was oft auf lateinische Partizipien hinweist – das hilft dir, die Herkunft und Bedeutung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie jeder „Ingredient“ in einem Rezept wie ein kleiner Baustein ist, der das Gericht zusammensetzt – ähnlich wie das deutsche „Zutat“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-eintragen",
+  "parent": "ms-ro-a-inregistra-48d2541e@d23b0ef5ffb93682f9ba2375f7df03f4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "eintragen",
+    "definition": "etwas in eine Liste oder ein Dokument schreiben",
+    "pronunciation": "/ˈaɪ̯nˌtʁaɪ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „eintragen“ setzt sich aus „ein-“ und „tragen“ zusammen und bedeutet, etwas in ein Dokument oder eine Liste zu bringen bzw. hineinzuschreiben.",
+        "targetText": "Verbul german „eintragen“ este format din prefixul „ein-“ și verbul „tragen“ și înseamnă a scrie ceva într-un document sau listă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in administrativen oder offiziellen Kontexten verwendet, um Informationen zu registrieren oder aufzunehmen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a înregistra",
+    "definition": "a scrie ceva într-o listă sau într-un document",
+    "pronunciation": "/a ɨn.reɡisˈtra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a înregistra“ stammt vom lateinischen „registra“ ab, das „aufzeichnen“ bedeutet, kombiniert mit dem Präfix „în-“ für ‚in‘. Es bedeutet, etwas offiziell zu vermerken oder zu dokumentieren.",
+        "targetText": "Verbul românesc „a înregistra“ provine din latinescul „registra“, care înseamnă „a înregistra“, combinat cu prefixul „în-“ pentru „în“. Înseamnă a nota oficial sau a documenta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation (-i). Wichtig im administrativen Bereich, insbesondere wenn es um offizielle Dokumente oder Online-Formulare geht."
+  },
+  "senses": [
+    {
+      "gloss": "Daten eingeben",
+      "explanation": {
+        "sourceText": "Auch spezifisch für die Erfassung von Daten, z.B. in digitalen Formularen.",
+        "targetText": "Se referă și la introducerea datelor, de exemplu în formulare digitale."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe die Daten ein.",
+          "targetText": "Eu introduc datele."
+        }
+      ]
+    },
+    {
+      "gloss": "Eintrag in ein Buch",
+      "explanation": {
+        "sourceText": "Kann auch für das Eintragen in Buchhaltungs- oder Protokollbücher verwendet werden.",
+        "targetText": "Poate fi folosit și pentru înregistrarea în registre contabile sau jurnale."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie trägt es ins Buch ein.",
+          "targetText": "Ea o înregistrează în carte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dokument",
+      "targetText": "document"
+    },
+    {
+      "sourceText": "Eintrag",
+      "targetText": "înregistrare"
+    },
+    {
+      "sourceText": "Liste",
+      "targetText": "listă"
+    },
+    {
+      "sourceText": "Notiz",
+      "targetText": "notiță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "austragen",
+      "targetText": "a scoate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trage die Daten ein.",
+      "targetText": "Eu înregistrez datele."
+    },
+    {
+      "sourceText": "Trägst du deinen Namen ein?",
+      "targetText": "Îți înregistrezi numele?"
+    },
+    {
+      "sourceText": "Der Mitarbeiter trägt die Informationen ein.",
+      "targetText": "Angajatul înregistrează informațiile."
+    },
+    {
+      "sourceText": "Wir tragen die Ergebnisse ein.",
+      "targetText": "Noi înregistrăm rezultatele."
+    },
+    {
+      "sourceText": "Tragt ihr die Angaben ein?",
+      "targetText": "Înscrieți informațiile?"
+    },
+    {
+      "sourceText": "Sie tragen das Produkt in die Liste ein.",
+      "targetText": "Ei înregistrează produsul în listă."
+    },
+    {
+      "sourceText": "Ich habe meine Adresse eingetragen.",
+      "targetText": "Am înregistrat adresa mea."
+    },
+    {
+      "sourceText": "Sie haben die Teilnehmer eingetragen.",
+      "targetText": "Au înregistrat participanții."
+    },
+    {
+      "sourceText": "Er trug die Daten immer zuverlässig ein.",
+      "targetText": "El înregistra mereu datele cu ușurință."
+    },
+    {
+      "sourceText": "Ich hatte die Informationen bereits eingetragen.",
+      "targetText": "Înregistrasem deja informațiile."
+    },
+    {
+      "sourceText": "Ich werde die neuen Kunden eintragen.",
+      "targetText": "Voi înregistra noii clienți."
+    },
+    {
+      "sourceText": "Sie werden die Terminliste später eintragen.",
+      "targetText": "Ei o să înregistreze lista de termeni mai târziu."
+    },
+    {
+      "sourceText": "Ich würde die Daten eintragen, wenn es möglich wäre.",
+      "targetText": "Aș înregistra datele dacă ar fi posibil."
+    },
+    {
+      "sourceText": "Es wird erwartet, dass du dich einträgst.",
+      "targetText": "Se așteaptă să te înregistrezi."
+    },
+    {
+      "sourceText": "Trage deine Informationen ein!",
+      "targetText": "Înregistrează-ți informațiile!"
+    },
+    {
+      "sourceText": "Tragen Sie die Ergebnisse ein!",
+      "targetText": "Înregistrați rezultatele!"
+    },
+    {
+      "sourceText": "Die eingetragenen Daten sind vertraulich.",
+      "targetText": "Datele înregistrate sunt confidențiale."
+    },
+    {
+      "sourceText": "Das Dokument ist eingetragen.",
+      "targetText": "Documentul este înregistrat."
+    },
+    {
+      "sourceText": "Indem ich die Adressen eintrage, helfe ich den anderen.",
+      "targetText": "Înscriind adresele, îi ajut pe ceilalți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Eintragen“ und „a înregistra“ sind Kognaten, besonders in administrativen Kontexten – denk an das offizielle Festhalten von Daten."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Konjugation: „înregistrez“, „înregistrezi“, „înregistrează“ – typisch rumänisch und wichtig für den Gebrauch."
+    },
+    {
+      "lang": "de",
+      "text": "Eine Eselsbrücke: Denk an „eintragen“ als das „Ein-Schreiben“ von Daten, und „înregistra“ als das „in die Aufzeichnung schreiben“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Unterschied zwischen „înregistrare“ (Nomen) und „a înregistra“ (Verb) – sie sind eng verbunden."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Zeitformen: „Eu înregistrez“ (ich trage ein), „Eu am înregistrat“ (ich habe eingetragen), „Eu voi înregistra“ (ich werde eintragen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

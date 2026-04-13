@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-stadt",
+  "parent": "ms-ro-oras-0df97651@a866b5af45882a4e95b7e8e962ae944d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stadt",
+    "genus": "feminine",
+    "definition": "Eine größere, dicht besiedelte Siedlung mit städtischer Infrastruktur und Verwaltung.",
+    "pronunciation": "/ʃtat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stadt“ stammt vom althochdeutschen 'stat' oder 'stadt' ab, das eine Siedlung oder einen Ort bezeichnete. Es ist verwandt mit dem altnordischen 'staðr' und dem englischen 'stead', die alle auf die indogermanische Wurzel *stā- (stehen, Ort) zurückgehen.",
+        "targetText": "Cuvântul german „Stadt” provine din vechiul german înalt 'stat' sau 'stadt', care desemna o așezare sau un loc. Este înrudit cu termenul nordic vechi 'staðr' și englezul 'stead', toate derivând din rădăcina indo-europeană *stā- (a sta, loc)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "oraș",
+    "genus": "neuter",
+    "definition": "O așezare mai mare, dens populată, cu infrastructură și administrație urbană.",
+    "pronunciation": "/oˈraʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „oraș“ stammt vom lateinischen 'horreum' ab, das ursprünglich 'Scheune' oder 'Speicher' bedeutete, später aber im Rumänischen die Bedeutung einer befestigten Siedlung oder Stadt annahm.",
+        "targetText": "Cuvântul românesc „oraș” provine din latină, de la 'horreum', care inițial însemna 'șură' sau 'depozit', dar în română a evoluat să desemneze o așezare fortificată sau oraș."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dorf",
+      "targetText": "sat"
+    },
+    {
+      "sourceText": "Metropole",
+      "targetText": "metropolă"
+    },
+    {
+      "sourceText": "Stadtzentrum",
+      "targetText": "centru oraș"
+    },
+    {
+      "sourceText": "Vorort",
+      "targetText": "suburbie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Dorf",
+      "targetText": "sat"
+    },
+    {
+      "sourceText": "Land",
+      "targetText": "țară"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Stadt hat viele Sehenswürdigkeiten.",
+      "targetText": "Orașul are multe obiective turistice."
+    },
+    {
+      "sourceText": "Ich wohne in einer kleinen Stadt.",
+      "targetText": "Locuiesc într-un oraș mic."
+    },
+    {
+      "sourceText": "Die Stadt ist sehr belebt am Wochenende.",
+      "targetText": "Orașul este foarte aglomerat în weekend."
+    },
+    {
+      "sourceText": "Viele Menschen ziehen in die Stadt, um Arbeit zu finden.",
+      "targetText": "Mulți oameni se mută în oraș pentru a găsi un loc de muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Stadt' und das englische 'stead' sind verwandt – beide beziehen sich auf einen Ort, während 'oraș' speziell eine größere Siedlung meint."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'oraș' klingt wie 'O-Rasch', stell dir vor, wie du schnell (rasch) in die Stadt willst – 'oraș' bedeutet Stadt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'oraș' vom lateinischen 'horreum' stammt, das ursprünglich 'Scheune' bedeutete – Städte entstanden oft um Lager und Handel herum."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hörst das Wort 'oraș' wie 'O-Rasch' – schnell in die Stadt, denn Städte sind lebendig und voller Bewegung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

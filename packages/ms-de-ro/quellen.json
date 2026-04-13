@@ -1,0 +1,148 @@
+{
+  "id": "ms-de-ro-quellen",
+  "parent": "ms-ro-a-tasni-00a0b513@64c387c3d70e7846e42e8dc3f578866f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "quellen",
+    "definition": "aus einer Quelle oder Öffnung hervorkommen, sprudeln; (von Substanzen) durch Aufnahme von Flüssigkeit aufschwellen",
+    "pronunciation": "/ˈkvɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Althochdeutsch 'quellan' (hervorbrechen, sprudeln). Verwandt mit 'Quelle' (source, spring).",
+        "targetText": "Verbul german „quellen“ provine din althochdeutsch „quellan“, care înseamnă a ieși sau a țâșni."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Intransitives Verb. Bezieht sich auf das Hervortreten von Flüssigkeiten oder das Aufquellen von Materialien."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a țâșni",
+    "definition": "a ieși brusc și cu putere (dintr-o deschizătură, dintr-un izvor etc.); a izvorî",
+    "pronunciation": "/a ˈt͡sɨʃˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a țâșni“ ist wahrscheinlich onomatopoetisch und beschreibt das plötzliche Heraussprudeln von Flüssigkeiten.",
+        "targetText": "Verbul românesc „a țâșni“ este probabil onomatopeic și exprimă ieșirea bruscă a unui lichid."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Intransitives Verb. Beschreibt oft das schnelle Herausfließen von Wasser oder anderen Flüssigkeiten."
+  },
+  "senses": [
+    {
+      "gloss": "Reis quellen lassen (aufschwellen)",
+      "explanation": {
+        "sourceText": "Materialien durch Flüssigkeitsaufnahme vergrößern lassen. Für diese Bedeutung ist 'a (se) umfla' oder 'a lăsa la înmuiat' passender.",
+        "targetText": "Materialele care absorb lichid și se umflă; pentru această idee se folosesc mai degrabă „a (se) umfla“ sau „a lăsa la înmuiat“."
+      },
+      "examples": [
+        {
+          "sourceText": "Man muss den Reis quellen lassen.",
+          "targetText": "Trebuie să lași orezul la umflat/înmuiat."
+        }
+      ]
+    },
+    {
+      "gloss": "Wasser quellt (hervorsprudeln)",
+      "explanation": {
+        "sourceText": "Das Hervorkommen von Wasser aus einer Quelle.",
+        "targetText": "Ieșirea apei dintr-o sursă sau izvor."
+      },
+      "examples": [
+        {
+          "sourceText": "Frisches Wasser quellt aus dem Felsen.",
+          "targetText": "Apă proaspătă țâșnește din stâncă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "aufschwellen",
+      "targetText": "a se umfla"
+    },
+    {
+      "sourceText": "fließen",
+      "targetText": "a curge"
+    },
+    {
+      "sourceText": "hervorkommen",
+      "targetText": "a ieși"
+    },
+    {
+      "sourceText": "Quelle",
+      "targetText": "izvor"
+    },
+    {
+      "sourceText": "sprudeln",
+      "targetText": "a izvorî"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "eindämmen",
+      "targetText": "a stăvili"
+    },
+    {
+      "sourceText": "schrumpfen",
+      "targetText": "a se micșora"
+    },
+    {
+      "sourceText": "versiegen",
+      "targetText": "a seca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Wasser quellt aus der Erde.",
+      "targetText": "Apa țâșnește din pământ."
+    },
+    {
+      "sourceText": "Blut quoll aus der Wunde.",
+      "targetText": "Sânge țâșnea din rană."
+    },
+    {
+      "sourceText": "Die Quelle quillt unaufhörlich.",
+      "targetText": "Izvorul țâșnește neîncetat."
+    },
+    {
+      "sourceText": "Der Reis ist schön gequollen.",
+      "targetText": "Orezul s-a umflat frumos."
+    },
+    {
+      "sourceText": "Lass die Linsen über Nacht quellen.",
+      "targetText": "Lasă lintea la înmuiat peste noapte."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Geräusch von „țâșni“ klingt wie sprudelndes Wasser – so merkst du dir das rumänische Verb leicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „quellen“ mit dem Bild einer sprudelnden Quelle („izvor“) und dem Herausfließen von Wasser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

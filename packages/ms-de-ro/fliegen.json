@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-fliegen",
+  "parent": "ms-ro-a-zbura-e0cabafe@2ca5ec05d0d16aa8953c553467a18487",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fliegen",
+    "definition": "sich in der Luft bewegen, meist mit einem Flugzeug oder einem Vogel",
+    "pronunciation": "/ˈfliːɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „fliegen“ stammt vom mittelhochdeutschen „vligen“, verwandt mit dem englischen „fly“ und niederländischen „vliegen“.",
+        "targetText": "Verbul german „fliegen“ provine din mijlocul german „vligen“, înrudit cu englezescul „fly“ și olandezul „vliegen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird sowohl wörtlich als auch metaphorisch verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a zbura",
+    "definition": "a se deplasa în aer, de obicei mit einem Flugzeug oder einer Pasăre",
+    "pronunciation": "/a zbuˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a zbura“ hat seine Wurzeln im lateinischen „volare“ und bedeutet fliegen oder sich in der Luft bewegen.",
+        "targetText": "Verbul românesc „a zbura“ derivă din latină, de la „volare“, însemnând a zbura sau a se mișca în aer."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft poetisch verwendet, um Freiheit und Aufstieg zu symbolisieren."
+  },
+  "senses": [
+    {
+      "gloss": "fliegen (in der Luft bewegen)",
+      "explanation": {
+        "sourceText": "Beschreibt die Bewegung in der Luft.",
+        "targetText": "Descrie mișcarea în aer."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fliege nach Berlin.",
+          "targetText": "Eu zbor la Berlin."
+        }
+      ]
+    },
+    {
+      "gloss": "fliegen (poetisch)",
+      "explanation": {
+        "sourceText": "Wird oft poetisch verwendet, um Freiheit auszudrücken.",
+        "targetText": "Este folosit poetic pentru a exprima libertatea."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Freiheit zu fliegen ist ein Wunsch vieler.",
+          "targetText": "Libertatea de a zbura este dorința multora."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Flugzeug",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "Luft",
+      "targetText": "aer"
+    },
+    {
+      "sourceText": "Pilot",
+      "targetText": "pilot"
+    },
+    {
+      "sourceText": "Vogel",
+      "targetText": "pasăre"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "landen",
+      "targetText": "a ateriza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fliege nach Paris.",
+      "targetText": "Eu zbor la Paris."
+    },
+    {
+      "sourceText": "Fliegst du oft?",
+      "targetText": "Zbori des?"
+    },
+    {
+      "sourceText": "Er fliegt mit dem Flugzeug.",
+      "targetText": "El zboară cu avionul."
+    },
+    {
+      "sourceText": "Wir fliegen im Sommer.",
+      "targetText": "Noi zburăm vara."
+    },
+    {
+      "sourceText": "Fliegt ihr nach Rom?",
+      "targetText": "Zburați la Roma?"
+    },
+    {
+      "sourceText": "Sie fliegen bald in den Urlaub.",
+      "targetText": "Ei zboară curând în vacanță."
+    },
+    {
+      "sourceText": "Ich bin nach Italien geflogen.",
+      "targetText": "Am zburat în Italia."
+    },
+    {
+      "sourceText": "Ich werde nächsten Monat fliegen.",
+      "targetText": "Voi zbura luna viitoare."
+    },
+    {
+      "sourceText": "Flieg hoch!",
+      "targetText": "Zboară sus!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an das englische „fly“ und das rumänische „zbura“ als verwandte Wörter, die das Fliegen beschreiben."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „fliegen“ mit dem Bild eines Vogels, der frei durch die Luft „zbura“ – so merkst du dir das rumänische Verb."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

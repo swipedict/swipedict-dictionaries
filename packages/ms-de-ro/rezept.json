@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-rezept",
+  "parent": "ms-ro-reteta-bda4c149@d1654e9ed851b755dde45657ecc5806f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Rezept",
+    "genus": "neuter",
+    "definition": "Eine schriftliche Anweisung zur Zubereitung von Speisen oder zur Verschreibung von Medikamenten.",
+    "pronunciation": "/ʁɛˈt͡sɛpt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Rezept“ stammt vom lateinischen 'receptum' ab, dem Partizip Perfekt von 'recipere', was 'empfangen' oder 'aufnehmen' bedeutet. Ursprünglich bezog es sich auf eine ärztliche Verordnung oder eine Anleitung.",
+        "targetText": "Cuvântul german „Rezept” provine din latină, de la 'receptum', participiul perfect al verbului 'recipere', care înseamnă 'a primi' sau 'a lua'. Inițial se referea la o prescripție medicală sau o instrucțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rețetă",
+    "genus": "feminine",
+    "definition": "Instrucțiune scrisă pentru prepararea mâncărurilor sau o prescripție medicală.",
+    "pronunciation": "/reˈt͡se.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „rețetă“ stammt vom lateinischen 'recepta' ab, dem Femininum des Partizips Perfekt von 'recipere', was 'empfangen' oder 'aufnehmen' bedeutet. Es wurde im Mittelalter über das Italienische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „rețetă” provine din latină, de la 'recepta', femininul participiului perfect al verbului 'recipere', care înseamnă 'a primi' sau 'a lua'. A fost preluat în română în Evul Mediu prin italiană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anleitung",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "Arztrezept",
+      "targetText": "prescripție medicală"
+    },
+    {
+      "sourceText": "Kochrezept",
+      "targetText": "rețetă de gătit"
+    },
+    {
+      "sourceText": "Zubereitung",
+      "targetText": "preparare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe ein neues Rezept für einen Kuchen gefunden.",
+      "targetText": "Am găsit o rețetă nouă pentru un tort."
+    },
+    {
+      "sourceText": "Der Arzt hat mir ein Rezept für Medikamente ausgestellt.",
+      "targetText": "Doctorul mi-a dat o rețetă pentru medicamente."
+    },
+    {
+      "sourceText": "Bitte bring das Rezept zur Apotheke mit.",
+      "targetText": "Te rog să aduci rețeta la farmacie."
+    },
+    {
+      "sourceText": "Das Rezept verlangt frische Zutaten.",
+      "targetText": "Rețeta cere ingrediente proaspete."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ț' in 'rețetă' klingt wie ein scharfes 'z', ähnlich wie das 'z' in 'Rezept' – das hilft dir, die Aussprache zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Rezept' und das rumänische 'rețetă' klingen ähnlich, weil beide vom lateinischen 'recepta' stammen – denk an 'rezeptieren' als 'empfangen' einer Anleitung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Rezept' kann sowohl Kochanweisung als auch ärztliche Verordnung bedeuten – im Rumänischen ist 'rețetă' genauso vielseitig."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst eine 'Rezept'-Karte, auf der steht, wie du etwas 'rezeptartig' (genau) zubereitest – so merkst du dir 'rețetă'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

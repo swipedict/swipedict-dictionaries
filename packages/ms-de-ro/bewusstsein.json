@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-bewusstsein",
+  "parent": "ms-ro-constiinta-5d6e6c8c@d8d5258a53474f31007e17664df8916f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bewusstsein",
+    "genus": "neuter",
+    "definition": "Der Zustand, sich seiner selbst und seiner Umgebung bewusst zu sein; geistige Wahrnehmung und Erkenntnis.",
+    "pronunciation": "/bəˈvʊs.taɪn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Bewusstsein“ setzt sich aus dem Verb 'wissen' und der Vorsilbe 'be-' zusammen, mit Ursprung im Althochdeutschen, wo 'wizzan' für 'wissen' stand.",
+        "targetText": "Substantivul german „Bewusstsein” derivă din verbul 'wissen' și prefixul 'be-', având origini în germana veche înaltă, unde 'wizzan' însemna 'a ști'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "conștiință",
+    "genus": "feminine",
+    "definition": "Starea de a fi conștient de sine și de mediul înconjurător; percepție și cunoaștere mentală.",
+    "pronunciation": "/konʃtiˈint͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „conștiință“ stammt vom lateinischen 'conscientia' ab, was 'gemeinsames Wissen' oder 'Bewusstsein' bedeutet.",
+        "targetText": "Cuvântul românesc „conștiință” provine din latină 'conscientia', care înseamnă 'cunoaștere comună' sau 'conștiență'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bewusst",
+      "targetText": "conștient"
+    },
+    {
+      "sourceText": "Erkenntnis",
+      "targetText": "cunoaștere"
+    },
+    {
+      "sourceText": "Geist",
+      "targetText": "spirit"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "știință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unbewusstsein",
+      "targetText": "inconștiență"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Bewusstsein für Umweltschutz wächst.",
+      "targetText": "Conștiința pentru protecția mediului crește."
+    },
+    {
+      "sourceText": "Er verlor das Bewusstsein nach dem Unfall.",
+      "targetText": "Și-a pierdut conștiința după accident."
+    },
+    {
+      "sourceText": "Bewusstsein ist der erste Schritt zur Veränderung.",
+      "targetText": "Conștiința este primul pas spre schimbare."
+    },
+    {
+      "sourceText": "Sie hat ein starkes Bewusstsein für soziale Gerechtigkeit.",
+      "targetText": "Ea are o conștiință puternică pentru justiția socială."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Bewusstsein' enthält 'wissen' – ähnlich wie 'știință' im Rumänischen, das Wissen bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'conștiință' klingt wie 'con' + 'știință' (Wissenschaft). Stell dir vor, Bewusstsein ist das 'Wissen mit' (con) dir selbst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist 'conștient' (bewusst) und hast eine 'conștiință' (Bewusstsein) für alles um dich herum."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'conștiință' mit dem lateinischen Ursprung 'conscientia' – das hilft, die Bedeutung als gemeinsames Wissen zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-warnen",
+  "parent": "ms-ro-a-avertiza-5bb2ea3f@e66dbe72781a2806959c2ee34c23df50",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "warnen",
+    "definition": "jemanden auf eine Gefahr oder ein Risiko hinweisen",
+    "pronunciation": "/ˈvaːʁnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „warne“ abgeleitet, was „mahnen“ oder „auffordern“ bedeutet.",
+        "targetText": "Derivat din germana mijlocie „warne“, care înseamnă „a avertiza“ sau „a atenționa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßig verwendetes Verb, um vor Gefahren zu warnen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a avertiza",
+    "definition": "a indica cu privire la un pericol sau un risc",
+    "pronunciation": "/a a.ver.tziˈza/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „advertere“ abgeleitet, was „aufmerksam machen“ bedeutet. Es wird genutzt, um vor Gefahren zu warnen.",
+        "targetText": "Derivat din latină „advertere“, care înseamnă „a atrage atenția“. Folosit pentru a avertiza despre pericole."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in offiziellen Warnungen verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Gefahr",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "Hinweis",
+      "targetText": "indicație"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beruhigen",
+      "targetText": "calma"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich warne dich vor der Gefahr.",
+      "targetText": "Te avertizez de pericol."
+    },
+    {
+      "sourceText": "Warnt mich rechtzeitig!",
+      "targetText": "Avertizează-mă la timp!"
+    },
+    {
+      "sourceText": "Ich habe ihn gewarnt.",
+      "targetText": "L-am avertizat."
+    },
+    {
+      "sourceText": "Ich werde dich warnen.",
+      "targetText": "Te voi avertiza."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „avertiza“ klingt wie „Achtung“ – so merkst du dir die Bedeutung leichter."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „warnen“ mit „a avertiza“ durch das Bild, jemanden aufmerksam zu machen, bevor etwas passiert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

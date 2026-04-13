@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-einhalten",
+  "parent": "ms-ro-a-respecta-2b4e70e0@6abcca491145bd8369c6f32de34c8906",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einhalten",
+    "definition": "sich an eine Regel oder Vereinbarung halten",
+    "pronunciation": "/aɪnˈhaltn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich zusammen aus dem Präfix „ein-“, was „hinein“ oder „innerhalb“ bedeutet, und „halten“, was „festhalten“ oder „bewahren“ bedeutet.",
+        "targetText": "Das deutsche Verb „einhalten“ kombiniert das Präfix „ein-“ (innerhalb) mit „halten“ (festhalten). Es bedeutet, Regeln oder Vereinbarungen zu befolgen oder einzuhalten."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig verwendet im Kontext von Regeln, Fristen oder Vereinbarungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a respecta",
+    "definition": "a se conforma unei reguli sau acord",
+    "pronunciation": "/a respekˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a respecta“ stammt vom lateinischen „respectare“, was „zurückblicken“ oder „beachten“ bedeutet. Das Wort wird oft im Sinne des Einhaltens von Vorschriften oder Vereinbarungen verwendet.",
+        "targetText": "Verbul românesc „a respecta“ provine din latină, de la „respectare“, care înseamnă „a privi înapoi“ sau „a lua în considerare“. Este folosit pentru a exprima respectarea regulilor sau acordurilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In der rumänischen Sprache wird es häufig verwendet, um die Einhaltung von Abmachungen oder Gesetzten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Beachtung finden",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Beachten von Regeln.",
+        "targetText": "Se referă la respectarea regulilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Anweisungen müssen beachtet werden.",
+          "targetText": "Instrucțiunile trebuie respectate."
+        }
+      ]
+    },
+    {
+      "gloss": "Sicherheitsvorschriften einhalten",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Einhaltung der Sicherheitsnormen.",
+        "targetText": "Se referă la respectarea normelor de siguranță."
+      },
+      "examples": [
+        {
+          "sourceText": "Alle müssen die Sicherheitsvorschriften einhalten.",
+          "targetText": "Toți trebuie să respecte normele de siguranță."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Pflicht",
+      "targetText": "obligație"
+    },
+    {
+      "sourceText": "Regel",
+      "targetText": "regulă"
+    },
+    {
+      "sourceText": "Vereinbarung",
+      "targetText": "înțelegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verleugnen",
+      "targetText": "ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich halte die Frist ein.",
+      "targetText": "Eu respect termenul."
+    },
+    {
+      "sourceText": "Hältst du die Regeln ein?",
+      "targetText": "Respecți regulile?"
+    },
+    {
+      "sourceText": "Er hält die Vereinbarung ein.",
+      "targetText": "El respectă acordul."
+    },
+    {
+      "sourceText": "Wir halten alle Sicherheitsvorschriften ein.",
+      "targetText": "Noi respectăm toate reglementările de siguranță."
+    },
+    {
+      "sourceText": "Haltet ihr die Abmachungen ein?",
+      "targetText": "Respectați înțelegerea?"
+    },
+    {
+      "sourceText": "Sie halten die Gesetze ein.",
+      "targetText": "Ei respectă legile."
+    },
+    {
+      "sourceText": "Ich habe die Regeln immer eingehalten.",
+      "targetText": "Am respectat întotdeauna regulile."
+    },
+    {
+      "sourceText": "Ich werde die Anforderungen einhalten.",
+      "targetText": "Voi respecta cerințele."
+    },
+    {
+      "sourceText": "Halt die Vereinbarung ein!",
+      "targetText": "Respectă acordul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einhalten“ und „a respecta“ sind kognate Verben – beide drücken das Befolgen von Regeln oder Vereinbarungen aus. Merke dir „respecți“ als „du respektierst“."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an Respekt als Grundlage für das Einhalten von Regeln – so verknüpfst du die Bedeutung gut."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-a“ in „a respecta“ zeigt die erste Konjugation an – das hilft dir bei der Verbkonjugation."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

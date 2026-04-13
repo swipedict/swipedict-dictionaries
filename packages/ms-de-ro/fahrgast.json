@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fahrgast",
+  "parent": "ms-ro-pasager-645d8b84@2d00cf85d4b7b9ec046f6d222ae018e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fahrgast",
+    "genus": "masculine",
+    "definition": "Eine Person, die als Passagier in einem Verkehrsmittel mitfährt.",
+    "pronunciation": "/ˈfaːɐ̯ɡast/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Fahrgast“ setzt sich aus „fahren“ (vom althochdeutschen 'faran', 'reisen') und „Gast“ (vom althochdeutschen 'gast', 'Fremder, Besucher') zusammen.",
+        "targetText": "Cuvântul „pasager” provine din francezul „passager”, derivat din latinul „passārius”, care înseamnă 'cel care trece' sau 'călător'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pasager",
+    "genus": "masculine",
+    "definition": "Persoană care călătorește ca pasager într-un mijloc de transport.",
+    "pronunciation": "/paˈsaʒer/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pasager“ stammt aus dem französischen „passager“, das vom lateinischen Verb 'passāre' (durchgehen, passieren) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „pasager” provine din francezul „passager”, derivat din verbul latin 'passāre', care înseamnă 'a trece'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrer",
+      "targetText": "șofer"
+    },
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Verkehrsmittel",
+      "targetText": "mijloc de transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fahrgast steigt in den Bus ein.",
+      "targetText": "Pasagerul urcă în autobuz."
+    },
+    {
+      "sourceText": "Viele Fahrgäste warten an der Haltestelle.",
+      "targetText": "Mulți pasageri așteaptă la stație."
+    },
+    {
+      "sourceText": "Der Fahrgast hat eine Fahrkarte gekauft.",
+      "targetText": "Pasagerul a cumpărat un bilet."
+    },
+    {
+      "sourceText": "Fahrgäste müssen während der Fahrt sitzen bleiben.",
+      "targetText": "Pasagerii trebuie să stea jos în timpul călătoriei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Gast“ hilft dir, die Bedeutung von „pasager“ als jemanden, der zu Besuch ist, zu verstehen – hier als Mitfahrer."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „pasager“ klingt ähnlich wie das französische „passager“ – denk an jemanden, der 'passiert' oder durchreist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „pasager“ eine Person ist, die mitfährt, also ein Fahrgast, und nicht der Fahrer selbst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist ein „Gast“ im Fahrzeug – so merkst du dir „pasager“ als Fahrgast."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

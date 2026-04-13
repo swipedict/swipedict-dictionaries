@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-berechnen",
+  "parent": "ms-ro-a-calcula-f90774e7@1884b9fe8893d51b82254b3629632cf2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "berechnen",
+    "definition": "eine Maßnahme oder einen Wert durch mathematische Operationen ermitteln",
+    "pronunciation": "/bəˈʁɛçnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus dem Präfix „be-“ und dem Verb „rechnen“ zusammen, wobei „rechnen“ vom althochdeutschen „rechnen“ stammt und „zählen“ oder „rechnen“ bedeutet.",
+        "targetText": "Verbul este format din prefixul „be-“ și verbul „rechnen“ (a calcula), care provine din germana veche și înseamnă „a număra“ sau „a calcula“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird im mathematischen und alltäglichen Kontext verwendet, um Berechnungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a calcula",
+    "definition": "a determina o valoare sau un rezultat prin operații matematice",
+    "pronunciation": "/a kal.kuˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom lateinischen „calculare“, was „zählen“ oder „rechnen“ bedeutet. Ursprünglich bezog sich „calculus“ auf kleine Steine, die zum Zählen verwendet wurden.",
+        "targetText": "Derivat din latinescul „calculare“, care înseamnă „a număra“ sau „a calcula“. „Calculus“ înseamnă „piatră mică“ folosită pentru numărare în antichitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Häufig in mathematischen und finanziellen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Kosten berechnen",
+      "explanation": {
+        "sourceText": "Verwendet, um die finanziellen Kosten zu ermitteln.",
+        "targetText": "Se folosește pentru a determina costurile financiare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss die Kosten für die Messe berechnen.",
+          "targetText": "Trebuie să calculez costurile pentru târg."
+        }
+      ]
+    },
+    {
+      "gloss": "Mathematisch berechnen",
+      "explanation": {
+        "sourceText": "Wird verwendet, um mathematische Berechnungen zu beschreiben.",
+        "targetText": "Se folosește pentru a descrie calcule matematice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich berechne die Fläche eines Kreises.",
+          "targetText": "Eu calculez aria unui cerc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Formel",
+      "targetText": "formulă"
+    },
+    {
+      "sourceText": "Gleichung",
+      "targetText": "ecuație"
+    },
+    {
+      "sourceText": "Lösung",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schätzen",
+      "targetText": "a estima"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Berechnen“ und „a calcula“ stammen beide vom lateinischen „calculare“ ab, was mit „zählen“ und kleinen Steinen zu tun hat – das macht das Wort einprägsam!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe typische Sätze wie „Eu calculez“ (Ich berechne), um das Verb im Kontext zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

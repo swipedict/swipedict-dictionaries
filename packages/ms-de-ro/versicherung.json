@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-versicherung",
+  "parent": "ms-ro-asigurare-1dd109f2@b63e0bf979765ece82f8a8b4c4d9bfe4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Versicherung",
+    "genus": "feminine",
+    "definition": "Ein Vertrag oder eine Einrichtung, die Schutz vor finanziellen Risiken bietet, indem sie im Schadensfall eine Entschädigung zahlt.",
+    "pronunciation": "/fɛɐ̯ˈzɪçəʁʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Versicherung“ leitet sich vom Verb „versichern“ ab, das aus dem mittelhochdeutschen 'versichern' stammt und ‚sicher machen‘ bedeutet, zusammengesetzt aus dem Präfix 'ver-' und 'sichern'.",
+        "targetText": "Cuvântul german „Versicherung“ provine de la verbul „versichern“, care în germană mijlocie însemna „a face sigur“, compus din prefixul 'ver-' și verbul 'sichern' (a asigura)."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "asigurare",
+    "genus": "feminine",
+    "definition": "Un contract sau o instituție care oferă protecție împotriva riscurilor financiare, plătind o despăgubire în caz de daună.",
+    "pronunciation": "/a.si.guˈra.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „asigurare“ stammt vom lateinischen Verb 'assicurare' ab, das wiederum aus dem italienischen 'assicurare' kommt und ‚sicher machen‘ bedeutet.",
+        "targetText": "Cuvântul românesc „asigurare” provine din verbul latin 'assicurare', preluat prin italiană 'assicurare', care înseamnă „a face sigur”."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Versicherer",
+      "targetText": "asigurător"
+    },
+    {
+      "sourceText": "Versicherungsbeitrag",
+      "targetText": "primă de asigurare"
+    },
+    {
+      "sourceText": "Versicherungsnehmer",
+      "targetText": "asigurat"
+    },
+    {
+      "sourceText": "Versicherungspolice",
+      "targetText": "polită de asigurare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Versicherung zahlt den Schaden nach dem Unfall.",
+      "targetText": "Asigurarea plătește dauna după accident."
+    },
+    {
+      "sourceText": "Ich habe eine Haftpflichtversicherung abgeschlossen.",
+      "targetText": "Am încheiat o asigurare de răspundere civilă."
+    },
+    {
+      "sourceText": "Die Versicherung schützt vor finanziellen Verlusten.",
+      "targetText": "Asigurarea protejează împotriva pierderilor financiare."
+    },
+    {
+      "sourceText": "Viele Menschen schließen eine Lebensversicherung ab.",
+      "targetText": "Mulți oameni încheie o asigurare de viață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'asigurare' klingt ähnlich wie das deutsche 'sichern' mit einem 'a' am Anfang – denk an 'a sichern' = 'asigurare'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'asigurare' kommt aus dem Lateinischen über Italienisch, genau wie viele andere rumänische Wörter, die mit 'a-' beginnen und Sicherheit bedeuten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Versicherung' und 'asigurare' haben beide die Bedeutung von Schutz – 'asigurare' klingt fast wie 'assure' im Englischen, was auch 'versichern' heißt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du willst dich 'absichern' – das 'a' am Anfang von 'asigurare' hilft dir, das Wort mit 'absichern' zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

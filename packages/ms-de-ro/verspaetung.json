@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-verspaetung",
+  "parent": "ms-ro-intarziere-3f4e4c93@8403119d46c68b6b5f3a735bd8fb0932",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Verspätung",
+    "genus": "feminine",
+    "definition": "Der Zustand, später als geplant oder erwartet anzukommen oder zu beginnen.",
+    "pronunciation": "/fɛɐ̯ˈʃpɛːtʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Verspätung“ leitet sich vom Verb „verspäten“ ab, das aus dem mittelhochdeutschen 'verspëten' stammt, zusammengesetzt aus dem Präfix 'ver-' und 'spät', was 'spät sein' bedeutet.",
+        "targetText": "Substantivul german „Verspätung” derivă din verbul „verspäten”, provenit din germana mijlocie 'verspëten', compus din prefixul 'ver-' și 'spät', care înseamnă 'a fi târziu'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întârziere",
+    "genus": "feminine",
+    "definition": "Starea de a ajunge sau a începe mai târziu decât era planificat sau așteptat.",
+    "pronunciation": "/ɨn.tɨrˈdzi.e.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „întârziere“ stammt vom Verb „a întârzia“ ab, das aus dem lateinischen 'interdiārium' (von 'inter' = zwischen und 'diēs' = Tag) abgeleitet ist und ursprünglich eine Verzögerung zwischen Tagen bezeichnete.",
+        "targetText": "Substantivul românesc „întârziere” provine din verbul „a întârzia”, derivat din latinul 'interdiārium' (din 'inter' = între și 'diēs' = zi), inițial indicând o întârziere între zile."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrplan",
+      "targetText": "orar"
+    },
+    {
+      "sourceText": "pünktlich",
+      "targetText": "punctual"
+    },
+    {
+      "sourceText": "Verspätung haben",
+      "targetText": "a întârzia"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Pünktlichkeit",
+      "targetText": "punctualitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Verspätung des Zuges betrug 20 Minuten.",
+      "targetText": "Întârzierea trenului a fost de 20 de minute."
+    },
+    {
+      "sourceText": "Wegen der Verspätung begann das Meeting später.",
+      "targetText": "Din cauza întârzierii, întâlnirea a început mai târziu."
+    },
+    {
+      "sourceText": "Bitte entschuldigen Sie die Verspätung.",
+      "targetText": "Vă rugăm să ne scuzați pentru întârziere."
+    },
+    {
+      "sourceText": "Verspätungen im Verkehr sind heute häufig.",
+      "targetText": "Întârzierile în trafic sunt frecvente astăzi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „întârziere“ beginnt mit 'în-', ähnlich wie das deutsche 'in', was dir helfen kann, dich an den Anfang zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort enthält 'târzi', das klingt ähnlich wie 'tard' im Französischen, was 'spät' bedeutet – so kannst du dir die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist 'in der Zeit' verloren – 'întârziere' bedeutet, dass du nicht pünktlich bist, also 'in der Zeit' verspätet."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'întârziere' mit dem deutschen Wort 'Tarif' – wenn du zu spät kommst, kann es sein, dass du eine Strafe (Tarif) zahlen musst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ms-de-ro-woche",
+  "parent": "ms-ro-saptamana-9b8e35f2@9c817a90da25641249db1791ff176bd8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Woche",
+    "genus": "feminine",
+    "definition": "eine Zeitspanne von sieben Tagen",
+    "pronunciation": "/ˈvo.xə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Woche“ stammt vom althochdeutschen „wōcha“, was „sieben Tage“ bedeutet, und ist verwandt mit gotischem „wōhō“.",
+        "targetText": "Cuvântul german „Woche“ provine din germana veche „wōcha“, cu sensul de șapte zile."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Woche ist die standardisierte Zeiteinheit für dieses Intervall und ist in vielen Kulturen verbreitet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "săptămână",
+    "genus": "feminine",
+    "definition": "o perioadă de șapte zile",
+    "pronunciation": "/səptəˈnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „săptămână“ stammt vom lateinischen „septimana“, was „sieben Tage“ bedeutet und ist verwandt mit italienischem „settimana“ und spanischem „semana“.",
+        "targetText": "Cuvântul românesc „săptămână“ provine din latină „septimana“, cu sensul de șapte zile."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Woche wird häufig in Planungen und Zeitmanagement verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Woche",
+      "explanation": {
+        "sourceText": "Das Wort wird verwendet, um eine Zeitspanne von sieben Tagen zu beschreiben.",
+        "targetText": "Cuvântul este folosit pentru a descrie o perioadă de șapte zile."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Woche hat sieben Tage.",
+          "targetText": "Săptămâna are șapte zile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dienstag",
+      "targetText": "marți"
+    },
+    {
+      "sourceText": "Kalender",
+      "targetText": "calendariu"
+    },
+    {
+      "sourceText": "Montag",
+      "targetText": "luni"
+    },
+    {
+      "sourceText": "Wochenende",
+      "targetText": "sfârșit de săptămână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Woche beginnt am Montag.",
+      "targetText": "Săptămâna începe luni."
+    },
+    {
+      "sourceText": "In dieser Woche passiert viel.",
+      "targetText": "În această săptămână se întâmplă multe."
+    },
+    {
+      "sourceText": "Ich plane meine Woche sorgfältig.",
+      "targetText": "Îmi planific săptămâna cu grijă."
+    },
+    {
+      "sourceText": "Die Woche hat sieben Tage.",
+      "targetText": "Săptămâna are șapte zile."
+    },
+    {
+      "sourceText": "Jede Woche lerne ich etwas Neues.",
+      "targetText": "În fiecare săptămână învăț ceva nou."
+    },
+    {
+      "sourceText": "Wir freuen uns auf das Wochenende am Ende der Woche.",
+      "targetText": "Așteptăm weekendul de la sfârșitul săptămânii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „săptămână“ kommt von „septimana“ – denk an die Zahl 7 für die sieben Tage der Woche!"
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das Schild „Săptămână“ beim Warten auf den Bus – die Woche kommt immer wieder!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir sieben Steine vor, die eine Woche bilden – so merkst du dir „săptămână“."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „Woche“ mit „septimana“, um die Bedeutung und Zahl 7 zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

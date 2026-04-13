@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-geldstrafe",
+  "parent": "ms-ro-amenda-c5e1d0a2@951a6a63823f3fd387ba1b74cf0a05b6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geldstrafe",
+    "genus": "feminine",
+    "definition": "Eine Strafe in Form einer Geldzahlung, die bei Gesetzesverstößen verhängt wird.",
+    "pronunciation": "/ˈɡɛltʃtraːfə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Geldstrafe“ setzt sich aus den Wörtern „Geld“ und „Strafe“ zusammen. „Geld“ stammt vom althochdeutschen 'gelt' ab, das auf das germanische *geldą zurückgeht, während „Strafe“ vom althochdeutschen 'strafā' kommt, das auf das germanische *strafa- zurückgeht und ‚Bestrafung‘ bedeutet.",
+        "targetText": "Cuvântul german „Geldstrafe” este compus din „Geld” (bani), derivat din vechiul înalt german 'gelt' cu rădăcini germanice, și „Strafe” (pedeapsă), provenind din 'strafā', cu sensul de pedeapsă sau sancțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "amendă",
+    "genus": "feminine",
+    "definition": "O pedeapsă constând în plata unei sume de bani impusă pentru încălcarea legii.",
+    "pronunciation": "/aˈmendə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „amendă“ stammt vom lateinischen Verb 'emendare' ab, was 'verbessern' oder 'korrigieren' bedeutet. Im rechtlichen Kontext entwickelte sich daraus die Bedeutung einer Geldstrafe als Korrekturmaßnahme.",
+        "targetText": "Cuvântul românesc „amendă” provine din verbul latin 'emendare', care înseamnă 'a îmbunătăți' sau 'a corecta'. În context juridic, a evoluat spre sensul de sancțiune pecuniară ca măsură corectivă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bußgeld",
+      "targetText": "amendă"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Strafe",
+      "targetText": "pedeapsă"
+    },
+    {
+      "sourceText": "Verstoß",
+      "targetText": "încălcare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Belohnung",
+      "targetText": "recompensă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Geldstrafe wurde wegen Parkens im Halteverbot verhängt.",
+      "targetText": "Amenda a fost aplicată pentru parcare în zona interzisă."
+    },
+    {
+      "sourceText": "Er musste eine hohe Geldstrafe zahlen.",
+      "targetText": "A trebuit să plătească o amendă mare."
+    },
+    {
+      "sourceText": "Die Geldstrafe dient der Abschreckung.",
+      "targetText": "Amenda servește ca mijloc de descurajare."
+    },
+    {
+      "sourceText": "Bei Wiederholung kann die Geldstrafe erhöht werden.",
+      "targetText": "La recidivă, amenda poate fi mărită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „amendă“ klingt ähnlich wie „amendieren“ im Deutschen, was ‚verbessern‘ bedeutet – stell dir vor, eine Geldstrafe soll dich ‚verbessern‘."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-ă“ ist typisch für viele rumänische Substantive, die feminin sind – so erkennst du schnell, dass „amendă“ ein Nomen ist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „amendă“ vom lateinischen ‚emendare‘ kommt, also hat es mit Korrektur zu tun, genau wie eine Strafe dich zur Besserung bringen soll."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst eine ‚amendă‘, weil du etwas ‚amendieren‘ (verbessern) solltest, aber es nicht getan hast."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

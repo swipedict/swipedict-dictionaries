@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-verkaufen",
+  "parent": "ms-ro-a-vinde-f9bdeda1@1f7e33e841b6357749e1ea15b5d184e0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verkaufen",
+    "definition": "etwas gegen Geld abgeben",
+    "pronunciation": "/fɛrˈkaʊ̯fn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verkaufen“ setzt sich aus der Vorsilbe „ver-“ und dem Verb „kaufen“ zusammen, wobei „ver-“ oft eine Handlung oder Veränderung anzeigt.",
+        "targetText": "Verbul german „verkaufen“ este compus din prefixul „ver-“ și verbul „kaufen“, unde „ver-“ indică o acțiune sau schimbare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. In der Wirtschaft häufig verwendet, um den Austausch von Waren oder Dienstleistungen gegen Geld zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vinde",
+    "definition": "a preda ceva în schimbul banilor",
+    "pronunciation": "/a ˈvinde/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vinde“ stammt vom lateinischen „vendere“ ab, was „verkaufen“ bedeutet. Es reflektiert den kulturellen Einfluss des Handels auf die Sprache.",
+        "targetText": "Verbul român „a vinde“ provine din latină, din „vendere“, însemnând „a vinde“. Reflectă influența culturală a comerțului asupra limbii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). In der Umgangssprache häufig für alle Arten von Verkaufsszenarien verwendet, von Marktverkäufen bis hin zu Online-Handel."
+  },
+  "senses": [
+    {
+      "gloss": "Analog zum deutschen 'verkaufen'",
+      "explanation": {
+        "sourceText": "Das bedeutet, eine Ware gegen Geld abzugeben.",
+        "targetText": "Înseamnă a preda un bun în schimbul banilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verkaufe frisches Gemüse.",
+          "targetText": "Vând legume proaspete."
+        }
+      ]
+    },
+    {
+      "gloss": "Markup auf Preis",
+      "explanation": {
+        "sourceText": "Der Preis, bei dem etwas verkauft wird, kann variieren.",
+        "targetText": "Prețul la care se vinde ceva poate varia."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe den Preis für das Produkt erhöht.",
+          "targetText": "Am crescut prețul produsului."
+        }
+      ]
+    },
+    {
+      "gloss": "Verkauf von Dienstleistungen",
+      "explanation": {
+        "sourceText": "Verkauf im Sinne von angebotenen Dienstleistungen.",
+        "targetText": "Vânzarea serviciilor oferite."
+      },
+      "examples": [
+        {
+          "sourceText": "Er verkauft Software.",
+          "targetText": "El vinde software."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Markt",
+      "targetText": "piață"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Verkäufer",
+      "targetText": "vânzător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kaufen",
+      "targetText": "a cumpăra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verkaufe mein Auto.",
+      "targetText": "Vând mașina mea."
+    },
+    {
+      "sourceText": "Verkaufst du die Bücher?",
+      "targetText": "Vinzi cărțile?"
+    },
+    {
+      "sourceText": "Er verkauft seine alten CDs.",
+      "targetText": "El vinde CD-urile lui vechi."
+    },
+    {
+      "sourceText": "Wir verkaufen viele Produkte.",
+      "targetText": "Vândem multe produse."
+    },
+    {
+      "sourceText": "Verkauft ihr diese Möbel?",
+      "targetText": "Vindeți aceste mobilier?"
+    },
+    {
+      "sourceText": "Sie verkaufen die neuesten Spielzeuge.",
+      "targetText": "Ei vând cele mai recente jucării."
+    },
+    {
+      "sourceText": "Ich habe das Haus verkauft.",
+      "targetText": "Am vândut casa."
+    },
+    {
+      "sourceText": "Sie haben die Küche verkauft.",
+      "targetText": "Ei au vândut bucătăria."
+    },
+    {
+      "sourceText": "Er verkaufte jeden Sommer Eis.",
+      "targetText": "El vindea înghețată în fiecare vară."
+    },
+    {
+      "sourceText": "Ich hatte den Tisch schon verkauft, als er ankam.",
+      "targetText": "Vândusem deja masa când a sosit."
+    },
+    {
+      "sourceText": "Ich werde mein Fahrrad verkaufen.",
+      "targetText": "Voi vinde bicicleta mea."
+    },
+    {
+      "sourceText": "Sie wird die alte Kamera verkaufen.",
+      "targetText": "Ea o să vândă camera veche."
+    },
+    {
+      "sourceText": "Ich würde es verkaufen, wenn ich könnte.",
+      "targetText": "Aș vinde dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du das Produkt verkaufst.",
+      "targetText": "Este necesar să vinzi produsul."
+    },
+    {
+      "sourceText": "Verkaufe deine alten Sachen!",
+      "targetText": "Vinde-ți lucrurile vechi!"
+    },
+    {
+      "sourceText": "Verkaufen Sie die Reservierungen!",
+      "targetText": "Vindeți rezervările!"
+    },
+    {
+      "sourceText": "Das verkaufte Produkt war sehr beliebt.",
+      "targetText": "Produsul vândut a fost foarte popular."
+    },
+    {
+      "sourceText": "Das Ticket ist verkauft.",
+      "targetText": "Biletul este vândut."
+    },
+    {
+      "sourceText": "Indem er die Werbung machte, verkaufte er viele Produkte.",
+      "targetText": "Vânzând, el a vândut multe produse."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Verkaufen“ und „a vinde“ sind Kognaten – die ähnliche Bedeutung hilft dir, sie leicht zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das Partizip „vândut“ wird oft verwendet – es klingt ähnlich wie „verkauft“ und hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: „vând“ (ich verkaufe), „vindeți“ (ihr verkauft) – die Endungen sind typisch für rumänische Verben."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst etwas gegen Geld weg – so merkst du dir die Bedeutung von „a vinde“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

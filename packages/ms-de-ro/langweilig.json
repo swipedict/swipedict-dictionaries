@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-langweilig",
+  "parent": "ms-ro-plictisit-fe3c5b09@adfb24fc908c081c3918a0c96843438e",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "langweilig",
+    "definition": "Beschreibt etwas, das uninteressant oder eintönig ist und Langeweile verursacht.",
+    "pronunciation": "/ˈlaŋvaɪ̯lɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „langweilig“ setzt sich aus 'lang' und 'Weile' zusammen, wobei 'Weile' auf das althochdeutsche 'wīla' zurückgeht, das 'Zeitspanne' bedeutet.",
+        "targetText": "Adjectivul german „langweilig” este format din „lang” și „Weile”, unde „Weile” provine din germana veche înaltă 'wīla', însemnând 'perioadă de timp'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "plictisit",
+    "definition": "Care descrie ceva neinteresant sau monoton, care provoacă plictiseală.",
+    "pronunciation": "/plik.tiˈsit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „plictisit“ stammt vom Verb 'a plictisi' ab, das aus dem slawischen 'plěčiti' kommt und 'stören, langweilen' bedeutet.",
+        "targetText": "Adjectivul românesc „plictisit” derivă din verbul 'a plictisi', care provine din slavona 'plěčiti', însemnând 'a deranja, a plictisi'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "interessant",
+      "targetText": "interesant"
+    },
+    {
+      "sourceText": "Langeweile",
+      "targetText": "plictiseală"
+    },
+    {
+      "sourceText": "Monotonie",
+      "targetText": "monotonie"
+    },
+    {
+      "sourceText": "Spaß",
+      "targetText": "distracție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "interessant",
+      "targetText": "interesant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Film war langweilig.",
+      "targetText": "Filmul a fost plictisitor."
+    },
+    {
+      "sourceText": "Mir ist langweilig.",
+      "targetText": "Mă plictisesc."
+    },
+    {
+      "sourceText": "Das Buch ist langweilig zu lesen.",
+      "targetText": "Cartea este plictisitoare de citit."
+    },
+    {
+      "sourceText": "Eine langweilige Vorlesung.",
+      "targetText": "O prelegere plictisitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'plictisit' klingt wie 'Plickt' + 'isit' – stell dir vor, jemand 'pickt' dich ständig, bis dir langweilig wird."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb 'a plictisi' kommt aus dem Slawischen – merke dir die fremde Herkunft, um das Wort besser zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sitzt in der Schule und alles ist so monoton, dass du 'plictisit' wirst – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'langweilig' mit 'plictisit' durch das Bild, dass etwas dich 'stört' und deshalb langweilig ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

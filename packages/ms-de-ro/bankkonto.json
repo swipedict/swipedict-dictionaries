@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-bankkonto",
+  "parent": "ms-ro-cont-bancar-43b0adfb@5a90b31bdf8b9158f8a4a30d32ab45b6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:home-living",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bankkonto",
+    "genus": "neuter",
+    "definition": "ein Konto bei einer Bank, auf dem Geld verwaltet wird",
+    "pronunciation": "/ˈbaŋkˌkɔnto/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bankkonto“ setzt sich aus „Bank“ (vom italienischen „banca“) und „Konto“ (vom lateinischen „computus“) zusammen und bezeichnet ein Geldkonto bei einer Bank.",
+        "targetText": "Cuvântul „Bankkonto“ este compus din „Bank“ (din italiană „banca“) și „Konto“ (din latină „computus“), desemnând un cont bancar."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Bankkonto ist ein Ort, an dem Geld aufbewahrt wird und Transaktionen stattfinden können."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cont bancar",
+    "genus": "neuter",
+    "definition": "un cont la o bancă, pe care se gestionează bani",
+    "pronunciation": "/kont banˈkar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „cont bancar“ leitet sich von lateinischen Wurzeln ab: „cont“ von „computus“ (Rechnung) und „bancar“ von „banca“ (Bank).",
+        "targetText": "Expresia „cont bancar“ provine din latină: „cont“ din „computus“ (calcul) și „bancar“ din „banca“ (instituție financiară)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Bankkonto ermöglicht den Nutzern, Geld zu sparen und zu verwalten."
+  },
+  "senses": [
+    {
+      "gloss": "Finanzkonto",
+      "explanation": {
+        "sourceText": "Ein spezieller Typ von Konto, der zur Verwaltung von Finanzen dient.",
+        "targetText": "Un tip special de cont folosit pentru gestionarea finanțelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe ein Finanzkonto für meine Geschäfte.",
+          "targetText": "Am un cont financiar pentru afacerile mele."
+        }
+      ]
+    },
+    {
+      "gloss": "Konto",
+      "explanation": {
+        "sourceText": "Das 'Konto' bezeichnet allgemein ein finanzielles Konto, ähnlich wie im Rumänischen.",
+        "targetText": "„Cont“ desemnează în general un cont financiar, similar cu sensul din germană."
+      },
+      "examples": [
+        {
+          "sourceText": "Wie viel Geld ist auf deinem Konto?",
+          "targetText": "Câți bani ai în contul tău?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kreditkarte",
+      "targetText": "card de credit"
+    },
+    {
+      "sourceText": "Sparbuch",
+      "targetText": "carte de economii"
+    },
+    {
+      "sourceText": "Überweisung",
+      "targetText": "transfer"
+    },
+    {
+      "sourceText": "Zinsen",
+      "targetText": "dobânzi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Bargeld",
+      "targetText": "numerar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe ein neues Bankkonto eröffnet.",
+      "targetText": "Am deschis un cont bancar nou."
+    },
+    {
+      "sourceText": "Das Geld wird auf mein Bankkonto überwiesen.",
+      "targetText": "Banii vor fi transferați în contul meu bancar."
+    },
+    {
+      "sourceText": "Ich überprüfe regelmäßig mein Bankkonto online.",
+      "targetText": "Îmi verific regulat contul bancar online."
+    },
+    {
+      "sourceText": "Er hat sein Bankkonto in einer Filiale eröffnet.",
+      "targetText": "El și-a deschis contul bancar într-o filială."
+    },
+    {
+      "sourceText": "Bitte geben Sie mir die Details meines Bankkontos.",
+      "targetText": "Te rog să-mi dai detaliile contului meu bancar."
+    },
+    {
+      "sourceText": "Das Bankkonto bietet viele Vorteile.",
+      "targetText": "Contul bancar oferă multe avantaje."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „cont“ und „bancar“ zusammen das Geldkonto bilden – so merkst du dir die Bedeutung besser."
+    },
+    {
+      "lang": "de",
+      "text": "Die Wörter haben einen klaren Bezug zu Geld und Finanzen, was dir hilft, den Kontext zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze Online-Banking, um das Wort in der Praxis zu erleben und zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, „cont bancar“ klingt wie „Concubano“ – eine lustige Geschichte hilft, die Wörter zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

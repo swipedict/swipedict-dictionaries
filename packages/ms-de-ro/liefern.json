@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-liefern",
+  "parent": "ms-ro-a-livra-da2de184@dc9e4f14968da28d2aa497a9221f8383",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "liefern",
+    "definition": "etwas zum vereinbarten Ort bringen oder schicken",
+    "pronunciation": "/ˈliːfɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „liefern“ stammt vom mittelhochdeutschen „līfen“, was „geben“ oder „tragen“ bedeutet.",
+        "targetText": "Verbul german „liefern“ provine din mijlocul germanului vechi „līfen“, însemnând „a da“ sau „a purta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft für Warenlieferungen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a livra",
+    "definition": "a aduce sau a trimite ceva la un loc stabilit",
+    "pronunciation": "/a liˈvra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a livra“ stammt vom französischen „livrer“ (übergeben, ausliefern).",
+        "targetText": "Verbul românesc „a livra“ provine din franceza „livrer“, însemnând „a preda“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in geschäftlichen Kontexten verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bestellung",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "Paket",
+      "targetText": "pachet"
+    },
+    {
+      "sourceText": "Sendung",
+      "targetText": "expediere"
+    },
+    {
+      "sourceText": "Transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abholen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich liefere die Pakete morgen.",
+      "targetText": "Eu livrez pachetele mâine."
+    },
+    {
+      "sourceText": "Lieferst du die Bücher heute?",
+      "targetText": "Livrez tu cărțile astăzi?"
+    },
+    {
+      "sourceText": "Der Fahrer liefert die Ware aus.",
+      "targetText": "Șoferul livrează marfa."
+    },
+    {
+      "sourceText": "Wir liefern die Ergebnisse bis Freitag.",
+      "targetText": "Noi livrăm rezultatele până vineri."
+    },
+    {
+      "sourceText": "Lieferst ihr die Produkte rechtzeitig?",
+      "targetText": "Livrați voi produsele la timp?"
+    },
+    {
+      "sourceText": "Sie liefern die Bestellung direkt an die Tür.",
+      "targetText": "Ei livrează comanda direct la ușă."
+    },
+    {
+      "sourceText": "Ich habe die Lieferung erhalten.",
+      "targetText": "Am primit livrarea."
+    },
+    {
+      "sourceText": "Er lieferte die Waren regelmäßig.",
+      "targetText": "El livra marfa regulat."
+    },
+    {
+      "sourceText": "Ich werde die Sendung morgen liefern.",
+      "targetText": "Voi livra expedierea mâine."
+    },
+    {
+      "sourceText": "Ich würde die Bestellung liefern, wenn ich könnte.",
+      "targetText": "Aș livra comanda, dacă aș putea."
+    },
+    {
+      "sourceText": "Liefer das Paket pünktlich!",
+      "targetText": "Livrază pachetul la timp!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Liefern“ und „a livra“ sind Kognaten – die ähnlichen Wortstämme helfen beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Beachte die regelmäßige Konjugation mit Endungen wie -ez, -ezi, -ează."
+    },
+    {
+      "lang": "de",
+      "text": "Der französische Ursprung macht „a livra“ für deutsche Sprecher vertraut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

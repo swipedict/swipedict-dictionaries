@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-geheimnis",
+  "parent": "ms-ro-secret-5ca2e8e5@2fff55e13654d89f7470af0880e37714",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geheimnis",
+    "genus": "neuter",
+    "definition": "Etwas, das verborgen gehalten wird und nicht allgemein bekannt ist.",
+    "pronunciation": "/ɡəˈhaɪ̯mnɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Geheimnis“ ist eine Ableitung von „geheim“ mit dem Suffix '-nis', das ein Substantiv bildet und auf das mittelhochdeutsche 'geheimnîs' zurückgeht.",
+        "targetText": "Cuvântul „Geheimnis” este o derivare de la „geheim” cu sufixul '-nis', formând un substantiv, provenind din germana mijlocie înaltă 'geheimnîs'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "secret",
+    "genus": "neuter",
+    "definition": "Ceva care este ținut ascuns și nu este cunoscut publicului larg.",
+    "pronunciation": "/seˈkret/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „secret“ stammt aus dem Lateinischen 'secretus', was 'getrennt' oder 'verborgen' bedeutet.",
+        "targetText": "Cuvântul românesc „secret” provine din latină 'secretus', care însemna 'separat' sau 'ascuns'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "geheim",
+      "targetText": "secret"
+    },
+    {
+      "sourceText": "Mysterium",
+      "targetText": "mister"
+    },
+    {
+      "sourceText": "Rätsel",
+      "targetText": "enigmată"
+    },
+    {
+      "sourceText": "Vertraulichkeit",
+      "targetText": "confidențialitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Offenbarung",
+      "targetText": "dezvăluire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Geheimnis wurde endlich gelüftet.",
+      "targetText": "Secretul a fost în sfârșit dezvăluit."
+    },
+    {
+      "sourceText": "Jeder hat sein eigenes Geheimnis.",
+      "targetText": "Fiecare are propriul său secret."
+    },
+    {
+      "sourceText": "Das ist ein gut gehütetes Geheimnis.",
+      "targetText": "Acesta este un secret bine păzit."
+    },
+    {
+      "sourceText": "Man darf das Geheimnis nicht verraten.",
+      "targetText": "Nu trebuie să dezvălui secretul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'secretus' hilft dir, die Bedeutung von 'secret' als etwas Verborgenes zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Geheimnis' ist eine Substantivierung von 'geheim' – im Rumänischen wird dafür das gleiche Wort 'secret' verwendet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'secret' im Rumänischen sowohl Adjektiv als auch Substantiv sein kann."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Geheimnis' ist etwas, das du 'geheim' hältst – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

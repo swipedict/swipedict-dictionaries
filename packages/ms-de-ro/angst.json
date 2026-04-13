@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-angst",
+  "parent": "ms-ro-frica-81b98496@a3f3217e3cf65fa29474658f18eb6627",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Angst",
+    "genus": "feminine",
+    "definition": "Ein Gefühl von Furcht oder Besorgnis vor einer wahrgenommenen Gefahr oder Bedrohung.",
+    "pronunciation": "/aŋst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Angst“ stammt vom althochdeutschen 'angust' ab, das 'Enge' oder 'Beklemmung' bedeutet, und ist verwandt mit dem lateinischen 'angustus'.",
+        "targetText": "Cuvântul german „Angst” provine din germana veche înaltă 'angust', care însemna 'îngustime' sau 'strâmtorare', fiind înrudit cu latinescul 'angustus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "frică",
+    "genus": "feminine",
+    "definition": "Un sentiment de teamă sau neliniște față de un pericol perceput sau o amenințare.",
+    "pronunciation": "/friˈkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „frică“ stammt vom lateinischen 'pyrica' (ursprünglich 'Fieber'), wurde aber durch den Einfluss des lateinischen 'formica' und slawische Einflüsse geprägt; die genaue Herkunft ist komplex, wird aber als lateinisch beeinflusst angesehen.",
+        "targetText": "Cuvântul românesc „frică” are o origine complexă, fiind influențat de latină și slavă, dar este considerat în principal un cuvânt de origine latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Angst haben",
+      "targetText": "a se teme"
+    },
+    {
+      "sourceText": "Besorgnis",
+      "targetText": "neliniște"
+    },
+    {
+      "sourceText": "Furcht",
+      "targetText": "teamă"
+    },
+    {
+      "sourceText": "Schrecken",
+      "targetText": "spaimă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mut",
+      "targetText": "curaj"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie hat Angst vor Spinnen.",
+      "targetText": "Ea are frică de păianjeni."
+    },
+    {
+      "sourceText": "Die Angst lähmt ihn manchmal.",
+      "targetText": "Frica îl paralizează uneori."
+    },
+    {
+      "sourceText": "Angst kann ein Schutzmechanismus sein.",
+      "targetText": "Frica poate fi un mecanism de protecție."
+    },
+    {
+      "sourceText": "Er überwältigte seine Angst.",
+      "targetText": "El și-a învins frica."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „frică“ klingt weich, aber es bedeutet genau wie das deutsche „Angst“ Furcht – denk an das englische Wort 'fright'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „frică“ ist kurz und prägnant – stell dir vor, wie eine plötzliche Angst dich kurz 'friert' (frieren) – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „frică“ mit 'f' beginnt wie 'fear' im Englischen, was dir beim Erinnern helfen kann."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „frică“ mit dem lateinischen Ursprung, um die Bedeutung als Gefühl von Bedrohung besser zu verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

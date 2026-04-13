@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-aktivieren",
+  "parent": "ms-ro-a-activa-4b6fdf68@19d8d2284637225dd0fb67d1910deea1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:technical",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aktivieren",
+    "definition": "einen Zustand oder eine Funktion in Gang setzen",
+    "pronunciation": "/aktiˈviːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom französischen „activer“, das auf das lateinische „activus“ („tätig“) zurückgeht.",
+        "targetText": "Provine din franceza „activer“, derivat din latină „activus“, care înseamnă „activ, eficient“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft im technischen Kontext (ein Gerät aktivieren) oder im allgemeinen Sinne (Personen/Prozesse in Gang setzen) verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a activa",
+    "definition": "a pune în funcțiune un anumit statut sau o funcție",
+    "pronunciation": "/a ak.tiˈva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt aus dem Französischen 'activer', das vom lateinischen 'activus' stammt, abgeleitet von 'agere' (handeln). Es bezeichnet das Ingangsetzen oder Aktivieren.",
+        "targetText": "Împrumutat din franceză „activer”, provenind din latină „activus”, derivat din „agere” (a acționa)."
+      },
+      "source": "AI, Noul Dicționar Etimologic Român"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet, um Geräte einzuschalten, Konten freizuschalten oder Prozesse zu starten. Sehr ähnlich dem deutschen Gebrauch. Benötigt meist ein direktes Objekt im Akkusativ."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Funktion",
+      "targetText": "funcție"
+    },
+    {
+      "sourceText": "Gerät",
+      "targetText": "dispozitiv"
+    },
+    {
+      "sourceText": "Programm",
+      "targetText": "program"
+    },
+    {
+      "sourceText": "Zustand",
+      "targetText": "stare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "deaktivieren",
+      "targetText": "a dezactiva"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich aktiviere die neue Funktion.",
+      "targetText": "Eu activez funcția nouă."
+    },
+    {
+      "sourceText": "Ich habe meine Karte gestern aktiviert.",
+      "targetText": "Am activat cardul meu ieri."
+    },
+    {
+      "sourceText": "Aktiviere dein Mikrofon!",
+      "targetText": "Activează microfonul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aktivieren“ und „a activa“ sind Kognaten – die ähnliche Endung hilft dir, die Bedeutung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das Wort „aktiv“ in beiden Sprachen – wenn du etwas aktivierst, machst du es lebendig oder in Betrieb."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'a activa' klingt wie 'aktiv' mit einem rumänischen 'a' am Ende – das ist der Schlüssel zum Verstehen!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

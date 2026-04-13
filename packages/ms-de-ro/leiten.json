@@ -1,0 +1,209 @@
+{
+  "id": "ms-de-ro-leiten",
+  "parent": "ms-ro-a-conduce-a4efa698@cd6806e7b27b0f5b4a0f5a939c9015a5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "leiten",
+    "definition": "etwas führen oder einen bestimmten Weg angeben",
+    "pronunciation": "/ˈlaɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „leiten“ stammt vom althochdeutschen „leiten“ (führen), verwandt mit mittelhochdeutsch „lihten“.",
+        "targetText": "Verbul german „leiten“ provine din althochdeutsch „leiten“, însemnând „a conduce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft in organisatorischen oder bildlichen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a conduce",
+    "definition": "a îndruma sau a oferi o direcție",
+    "pronunciation": "/a 'kondu.tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a conduce“ stammt vom lateinischen „conducere“ (zusammenführen, leiten).",
+        "targetText": "Verbul românesc „a conduce“ provine din latină, din „conducere“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-e). Oft genutzt im Zusammenhang mit Leitung von Projekten oder Gruppen."
+  },
+  "senses": [
+    {
+      "gloss": "anleiten",
+      "explanation": {
+        "sourceText": "Bedeutet auch jemandem zu helfen, etwas zu lernen.",
+        "targetText": "Înseamnă a ajuta pe cineva să învețe ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich leite die Schüler in Mathematik an.",
+          "targetText": "Eu îndrum elevii în matematică."
+        }
+      ]
+    },
+    {
+      "gloss": "dirigieren",
+      "explanation": {
+        "sourceText": "In der Musik auch das Leiten eines Orchesters.",
+        "targetText": "În muzică, a conduce o orchestră."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Dirigent leitet das Orchester.",
+          "targetText": "Dirijorul conduce orchestra."
+        }
+      ]
+    },
+    {
+      "gloss": "führen",
+      "explanation": {
+        "sourceText": "Hat die Bedeutung, etwas oder jemanden zu führen.",
+        "targetText": "Înseamnă a conduce ceva sau pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich führe das Auto.",
+          "targetText": "Eu conduc mașina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gruppe",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "Schule",
+      "targetText": "școală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "folgen",
+      "targetText": "a urma"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich leite das Team.",
+      "targetText": "Eu conduc echipa."
+    },
+    {
+      "sourceText": "Leitest du die Sitzung?",
+      "targetText": "Conduci ședința?"
+    },
+    {
+      "sourceText": "Er leitet den Kurs.",
+      "targetText": "El conduce cursul."
+    },
+    {
+      "sourceText": "Wir leiten das Projekt gemeinsam.",
+      "targetText": "Noi conducem proiectul împreună."
+    },
+    {
+      "sourceText": "Leitet ihr das Meeting?",
+      "targetText": "Conduceți întâlnirea?"
+    },
+    {
+      "sourceText": "Sie leiten die Diskussion.",
+      "targetText": "Ei conduc discuția."
+    },
+    {
+      "sourceText": "Ich habe das Meeting geleitet.",
+      "targetText": "Am condus întâlnirea."
+    },
+    {
+      "sourceText": "Sie haben das Seminar geleitet.",
+      "targetText": "Au condus seminarul."
+    },
+    {
+      "sourceText": "Sie leitete die Schule immer mit Herz.",
+      "targetText": "Ea conducea întotdeauna școala cu inima."
+    },
+    {
+      "sourceText": "Wir hatten das Projekt erfolgreich geleitet.",
+      "targetText": "Noi condusesem proiectul cu succes."
+    },
+    {
+      "sourceText": "Ich werde das Seminar leiten.",
+      "targetText": "Voi conduce seminarul."
+    },
+    {
+      "sourceText": "Er wird die Veranstaltung leiten.",
+      "targetText": "El o să conducă evenimentul."
+    },
+    {
+      "sourceText": "Ich würde das Marketing leiten, wenn ich den Job bekäme.",
+      "targetText": "Aș conduce marketingul dacă aș primi jobul."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du das Team leitest.",
+      "targetText": "Este important să conduci echipa."
+    },
+    {
+      "sourceText": "Leite die Diskussion!",
+      "targetText": "Condu discuția!"
+    },
+    {
+      "sourceText": "Leiten Sie das Projekt!",
+      "targetText": "Conduceți proiectul!"
+    },
+    {
+      "sourceText": "Der geleitete Kurs war informativ.",
+      "targetText": "Cursul condus a fost informativ."
+    },
+    {
+      "sourceText": "Das Projekt ist nun geleitet.",
+      "targetText": "Proiectul este acum condus."
+    },
+    {
+      "sourceText": "Indem ich das Meeting leite, kläre ich die Fragen.",
+      "targetText": "Conducând întâlnirea, clarific întrebările."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Leiten“ und „a conduce“ sind sehr ähnlich. Denk daran, dass „a conduce“ auch „fahren“ bedeuten kann – Kontext ist wichtig!"
+    },
+    {
+      "lang": "de",
+      "text": "Das Substantiv „conducere“ (Führung) hilft dir, das Verb besser zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensformen: „conduc“ (ich), „conduci“ (du), „conduce“ (er/sie), „conducem“ (wir), „conduceți“ (ihr), „conduc“ (sie). Lautes Üben hilft!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

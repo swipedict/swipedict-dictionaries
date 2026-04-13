@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-liegen",
+  "parent": "ms-ro-a-sta-e5133deb@2024e55de1ff9e101d8b65b6162c3fd2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "liegen",
+    "definition": "in einer horizontalen Position sein",
+    "pronunciation": "/ˈliːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „liegen“ stammt vom althochdeutschen „liggan“, was „sich niederlassen“ bedeutet.",
+        "targetText": "Verbul german „liegen“ provine din althochdeutsch „liggan“, însemnând „a se întinde“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb mit körperlichen und abstrakten Bedeutungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sta",
+    "definition": "a fi într-o poziție orizontală",
+    "pronunciation": "/a sta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a sta“ stammt vom lateinischen „stare“ (stehen, sich befinden).",
+        "targetText": "Verbul românesc „a sta“ provine din latină, din „stare“, însemnând „a sta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft mit Präpositionen kombiniert."
+  },
+  "senses": [
+    {
+      "gloss": "liegend",
+      "explanation": {
+        "sourceText": "Verwendet für eine horizontale Position.",
+        "targetText": "Folosit pentru poziția orizontală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich liege in der Sonne.",
+          "targetText": "Eu stau în soare."
+        }
+      ]
+    },
+    {
+      "gloss": "verweilen",
+      "explanation": {
+        "sourceText": "Hat die Bedeutung, an einem Ort zu sein.",
+        "targetText": "Înseamnă a rămâne într-un loc."
+      },
+      "examples": [
+        {
+          "sourceText": "Er liegt immer bei uns.",
+          "targetText": "El stă mereu cu noi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Decke",
+      "targetText": "plapuma"
+    },
+    {
+      "sourceText": "Sofa",
+      "targetText": "canapea"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich liege auf dem Sofa.",
+      "targetText": "Eu stau pe canapea."
+    },
+    {
+      "sourceText": "Liegt das Buch auf dem Tisch?",
+      "targetText": "Stă cartea pe masă?"
+    },
+    {
+      "sourceText": "Das Kind liegt im Bett.",
+      "targetText": "Copilul stă în pat."
+    },
+    {
+      "sourceText": "Wir liegen gerne am Strand.",
+      "targetText": "Noi stăm pe plajă."
+    },
+    {
+      "sourceText": "Liegt ihr oft auf dem Rasen?",
+      "targetText": "Stați voi des pe iarbă?"
+    },
+    {
+      "sourceText": "Sie liegen im Garten.",
+      "targetText": "Ei stau în grădină."
+    },
+    {
+      "sourceText": "Ich habe gestern auf dem Boden gelegen.",
+      "targetText": "Am stat pe jos ieri."
+    },
+    {
+      "sourceText": "Er lag immer auf dem Rücken.",
+      "targetText": "El stătea mereu pe spate."
+    },
+    {
+      "sourceText": "Ich werde auf der Wiese liegen.",
+      "targetText": "Voi sta pe fâneață."
+    },
+    {
+      "sourceText": "Ich würde liegen bleiben, wenn ich könnte.",
+      "targetText": "Aș rămâne întins, dacă aș putea."
+    },
+    {
+      "sourceText": "Liege ruhig!",
+      "targetText": "Stai liniștit!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Liegt“ und „a sta“ sind nicht identisch – „liegen“ ist horizontal, „a sta“ kann auch stehen bedeuten. Achte auf den Kontext!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir bildlich vor, wie du liegst oder stehst – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation von „a sta“ in verschiedenen Zeiten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

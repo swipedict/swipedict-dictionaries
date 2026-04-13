@@ -1,0 +1,110 @@
+{
+  "id": "ms-de-ro-verkehrsschild",
+  "parent": "ms-ro-indicator-rutier-5afffd1b@4f4c2c8d6cd4594eaadb25d0b7ed8eda",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Verkehrsschild",
+    "genus": "neuter",
+    "definition": "Ein Schild, das im Straßenverkehr zur Regelung, Warnung oder Information dient.",
+    "pronunciation": "/fɛɐ̯ˈkeːɐ̯sˌʃɪlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Verkehrsschild“ setzt sich aus 'Verkehr' (von mittelhochdeutsch 'verker' für 'Bewegung, Handel') und 'Schild' (althochdeutsch 'scilt') zusammen.",
+        "targetText": "Cuvântul german „Verkehrsschild” este compus din „Verkehr” (din germana mijlocie 'verker', însemnând 'mișcare, comerț') și „Schild” (din germana veche înaltă 'scilt')."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "indicator rutier",
+    "genus": "neuter",
+    "definition": "Un semn folosit pe drumuri pentru a regla, avertiza sau informa participanții la trafic.",
+    "pronunciation": "/in.diˈka.tor ruˈti.er/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „indicator rutier“ stammt vom lateinischen 'indicare' (anzeigen) und 'rutius' (Straße betreffend, von lateinisch 'rūta' für Straße) ab, wobei 'rutier' als Adjektiv für Straßenverkehr gebildet wurde.",
+        "targetText": "Expresia românească „indicator rutier” provine din latină, de la 'indicare' (a arăta) și 'rutier' derivat din 'rută' (drum), formând un adjectiv legat de drumuri."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Kompositum aus 'indicator' (Zeichen, Anzeiger) und 'rutier' (zum Straßenverkehr gehörend)."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ampel",
+      "targetText": "semafor"
+    },
+    {
+      "sourceText": "Straßenschild",
+      "targetText": "semn de circulație"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    },
+    {
+      "sourceText": "Warnschild",
+      "targetText": "semn de avertizare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Verkehrsschild zeigt eine Geschwindigkeitsbegrenzung an.",
+      "targetText": "Indicatorul rutier arată o limită de viteză."
+    },
+    {
+      "sourceText": "Bitte beachte das neue Verkehrsschild an der Kreuzung.",
+      "targetText": "Te rog să observi noul indicator rutier de la intersecție."
+    },
+    {
+      "sourceText": "Verkehrsschilder helfen, Unfälle zu vermeiden.",
+      "targetText": "Indicatoarele rutiere ajută la evitarea accidentelor."
+    },
+    {
+      "sourceText": "Das rote Verkehrsschild bedeutet 'Halt'.",
+      "targetText": "Indicatorul rutier roșu înseamnă 'Opriți'."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Schild' und das rumänische 'indicator' haben beide mit 'zeigen' zu tun – so kannst du dir die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'rutier' klingt ähnlich wie 'Route' und bezieht sich auf Straßen – so merkst du dir, dass es mit Verkehr zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein 'Indikator' (anzeigendes Gerät) dir den Weg zeigt – so hilft dir auch das 'indicator rutier' im Straßenverkehr."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Verkehrsschild' mit 'indicator rutier' indem du an ein 'Indizieren' denkst, also etwas anzeigen oder zeigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

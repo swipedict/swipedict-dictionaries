@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-ertrinken",
+  "parent": "ms-ro-a-se-ineca-d5c7ec73@a928646c9465caae4a1877ef158a236c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ertrinken",
+    "definition": "unter Wasser gelangen und dadurch sterben",
+    "pronunciation": "/ɛɐ̯ˈtʁɪŋkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „ertrinken“ setzt sich aus dem Präfix „er-“ und dem Verb „trinken“ zusammen, ursprünglich im Sinne von „vollständig in Flüssigkeit untergehen“.",
+        "targetText": "Verbul „ertrinken“ provine din prefixul „er-“ și verbul „trinken“, cu sensul inițial de „a se scufunda complet într-un lichid“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft metaphorisch verwendet, um Überwältigung auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se îneca",
+    "definition": "a ajunge sub apă și a muri în acest mod",
+    "pronunciation": "/se ɨˈne.ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische reflexive Verb „a se îneca“ stammt vom lateinischen „innaurare“ ab und bedeutet „untergehen“ oder „ertrinken“.",
+        "targetText": "Verbul reflexiv românesc „a se îneca“ derivă din latină, de la „innaurare“, cu sensul de „a se scufunda“ sau „a se îneca“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges reflexives Verb. Wird häufig in wörtlichen und metaphorischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "in Bedrängnis geraten",
+      "explanation": {
+        "sourceText": "Symbolische Verwendung, z.B. bei Stress oder Überforderung.",
+        "targetText": "Utilizare simbolică, de exemplu în situații de stres sau copleșire."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ertrinke im Stress.",
+          "targetText": "Mă înec în stres."
+        }
+      ]
+    },
+    {
+      "gloss": "unter Wasser sterben",
+      "explanation": {
+        "sourceText": "Die Hauptbedeutung ist das Sterben durch Untertauchen im Wasser.",
+        "targetText": "Sensul principal este moartea prin scufundare în apă."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Person ist im Fluss ertrunken.",
+          "targetText": "Persoana s-a înecat în râu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Rettung",
+      "targetText": "salvare"
+    },
+    {
+      "sourceText": "Schwimmen",
+      "targetText": "a înota"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gerettet werden",
+      "targetText": "a fi salvat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ertrinke im Stress.",
+      "targetText": "Mă înec în stres."
+    },
+    {
+      "sourceText": "Ertrinkst du im Papierchaos?",
+      "targetText": "Te îneci în haosul de hârtii?"
+    },
+    {
+      "sourceText": "Er ertrinkt in seinen Problemen.",
+      "targetText": "El se îneacă în problemele sale."
+    },
+    {
+      "sourceText": "Wir ertrinken in der Arbeit.",
+      "targetText": "Noi ne înecăm în muncă."
+    },
+    {
+      "sourceText": "Ertrinkt ihr im Arbeitstress?",
+      "targetText": "Voi vă înecați în stresul de lucru?"
+    },
+    {
+      "sourceText": "Sie ertrinken in den Schulaufgaben.",
+      "targetText": "Ei se îneacă în temele școlare."
+    },
+    {
+      "sourceText": "Ich bin im Verkehr ertrunken.",
+      "targetText": "M-am înecat în trafic."
+    },
+    {
+      "sourceText": "Sie sind im Wasser ertrunken.",
+      "targetText": "S-au înecat în apă."
+    },
+    {
+      "sourceText": "Er ertrank jeden Sommer im Fluss.",
+      "targetText": "Se îneca în fiecare vară în râu."
+    },
+    {
+      "sourceText": "Ich war schon ertrunken, bevor Hilfe kam.",
+      "targetText": "M-am înecat deja înainte de a veni ajutorul."
+    },
+    {
+      "sourceText": "Ich werde nicht ertrinken!",
+      "targetText": "Nu mă voi îneca!"
+    },
+    {
+      "sourceText": "Sie wird nicht im Ärger ertrinken.",
+      "targetText": "Ea nu se va îneca în supărare."
+    },
+    {
+      "sourceText": "Ich würde nicht ertrinken, wenn ich schwimme.",
+      "targetText": "Nu m-aș îneca dacă aș înota."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du nicht ertrinkst.",
+      "targetText": "Este important să nu te îneci."
+    },
+    {
+      "sourceText": "Ertrink nicht in deinen Sorgen!",
+      "targetText": "Nu te îneca în grijile tale!"
+    },
+    {
+      "sourceText": "Ertrinkt nicht in der Arbeit!",
+      "targetText": "Nu vă înecați în muncă!"
+    },
+    {
+      "sourceText": "Die ertrunkene Person wurde gerettet.",
+      "targetText": "Persoana înecată a fost salvată."
+    },
+    {
+      "sourceText": "Das Boot ist vor kurzem ertrunken.",
+      "targetText": "Barca a fost înecată recent."
+    },
+    {
+      "sourceText": "Indem er Hilfe rief, hätte er nicht ertrinken dürfen.",
+      "targetText": "Chemând ajutor, nu ar fi trebuit să se înece."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Bild von Wasser über dir erinnert dich an „se îneca“ – du bist komplett untergetaucht."
+    },
+    {
+      "lang": "de",
+      "text": "Das reflexive „se“ in „a se îneca“ zeigt, dass das Subjekt sich selbst betrifft – merke dir, dass man beim Ertrinken „sich“ unter Wasser befindet."
+    },
+    {
+      "lang": "de",
+      "text": "Lerne die Präsensformen: „mă înec“ (ich), „te îneci“ (du), „se îneacă“ (er/sie/es) – das hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Wellen dich umgeben – das hilft dir, „ertrinken“ mit „a se îneca“ zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

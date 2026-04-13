@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-laden",
+  "parent": "ms-ro-a-incarca-da312798@360b7a8a2316e4ebe72a423f2d91aa46",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "laden",
+    "definition": "etwas in einen Behälter oder auf ein Fahrzeug einfüllen oder hineinstellen",
+    "pronunciation": "/ˈlaːdən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom althochdeutschen „lādōn“ abgeleitet, bedeutet es beladen oder füllen.",
+        "targetText": "Vom althochdeutschen „lādōn“ abgeleitet, bedeutet es beladen oder füllen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, um das Befüllen oder Beladen von Gegenständen oder Fahrzeugen zu beschreiben. Es kann auch im übertragenen Sinne verwendet werden (z.B. „Daten laden“)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încărca",
+    "definition": "a umple sau a pune ceva într-un recipient sau pe un vehicul",
+    "pronunciation": "/ɨn.kərˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „incaricare“ entlehnt, bedeutet es beladen und ist verwandt mit „încărcătură“ (Last).",
+        "targetText": "Vom lateinischen „incaricare“ entlehnt, bedeutet es beladen und ist verwandt mit „încărcătură“ (Last)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird häufig verwendet, um das Beladen von Fahrzeugen oder das Hochladen von Daten zu beschreiben. Es kann auch im übertragenen Sinne verwendet werden."
+  },
+  "senses": [
+    {
+      "gloss": "Laden (Beladung)",
+      "explanation": {
+        "sourceText": "Das Verb beschreibt das Füllen oder Aufladen.",
+        "targetText": "Verbul descrie umplerea sau încărcarea."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Lkw wird gleich geladen.",
+          "targetText": "Camionul va fi încărcat în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "Laden (Daten)",
+      "explanation": {
+        "sourceText": "Verwendet für das Hochladen von Daten.",
+        "targetText": "Folosit pentru încărcarea datelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich lade die App.",
+          "targetText": "Încărc aplicația."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Koffer",
+      "targetText": "valiză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entladen",
+      "targetText": "a descărca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lade den Bus.",
+      "targetText": "Încărc vehiculul."
+    },
+    {
+      "sourceText": "Ich habe die Boxen geladen.",
+      "targetText": "Am încărcat cutiile."
+    },
+    {
+      "sourceText": "Ich werde das Programm laden.",
+      "targetText": "Voi încărca programul."
+    },
+    {
+      "sourceText": "Ich würde das Auto laden, wenn ich könnte.",
+      "targetText": "Aș încărca mașina dacă aș putea."
+    },
+    {
+      "sourceText": "Indem ich die Daten lade, spare ich Zeit.",
+      "targetText": "Încărcând datele, economisesc timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Verb „a încărca“ erinnert an das deutsche Wort „Last“ – beide haben mit Beladen zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an deinen Laptop, der beim „Laden“ aufgeladen wird – so merkst du dir die Bedeutung von „a încărca“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen voll beladenen Lastwagen vor, wenn du „a încărca“ hörst – das hilft beim Behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

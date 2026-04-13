@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-ermueden",
+  "parent": "ms-ro-a-obosi-4ebb3dd9@23fd690dcad5a547fee53682db7f3e94",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ermüden",
+    "definition": "müde machen oder erschöpfen",
+    "pronunciation": "/ɛʁˈmyː.dən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ermüden“ stammt vom mittelhochdeutschen „irmüden“ ab, was „müde machen“ bedeutet.",
+        "targetText": "Verbul german „ermüden“ provine din germana mijlocie „irmüden“, care înseamnă „a obosi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird sowohl für körperliches als auch für geistiges Ermüden verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a obosi",
+    "definition": "a face pe cineva să fie obosit sau epuizat",
+    "pronunciation": "/a o.boˈsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a obosi“ stammt vom lateinischen „obdurare“ ab, ursprünglich „hart werden“, hat sich aber zur Bedeutung „müde werden“ entwickelt.",
+        "targetText": "Verbul românesc „a obosi“ provine din latină, de la „obdurare“ (a deveni dur), evoluând spre sensul de „a obosi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-i). Häufig verwendet, um den Zustand der Müdigkeit auszudrücken."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Erschöpfung",
+      "targetText": "epuizare"
+    },
+    {
+      "sourceText": "Kraft",
+      "targetText": "forță"
+    },
+    {
+      "sourceText": "Müdigkeit",
+      "targetText": "oboseală"
+    },
+    {
+      "sourceText": "Ruhe",
+      "targetText": "liniște"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erquicken",
+      "targetText": "a revigora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ermüde nach einem langen Tag.",
+      "targetText": "Eu obosesc după o zi lungă."
+    },
+    {
+      "sourceText": "Ich habe mich nicht müde gearbeitet.",
+      "targetText": "Nu m-am obosit deloc."
+    },
+    {
+      "sourceText": "Ich werde müde, wenn ich nicht schlafe.",
+      "targetText": "Voi obosi dacă nu dorm."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a obosi“ klingt wie „oboseală“ (Müdigkeit) – verbinde beide Wörter bildlich mit Erschöpfung."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, dein Körper ist wie ein Akku, der leer wird – so merkst du dir „a obosi“ als ‚müde werden‘."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

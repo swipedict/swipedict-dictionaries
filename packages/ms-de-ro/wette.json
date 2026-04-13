@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wette",
+  "parent": "ms-ro-pariu-7f4f6ed7@44580837e4e79f89e95dde04fae77846",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wette",
+    "genus": "feminine",
+    "definition": "Eine Vereinbarung, bei der zwei oder mehr Personen auf den Ausgang eines Ereignisses setzen und der Gewinner einen Einsatz erhält.",
+    "pronunciation": "/ˈvɛtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Wette“ stammt vom mittelhochdeutschen 'wette' ab, das auf das althochdeutsche 'wetti' zurückgeht, verwandt mit dem altnordischen 'vett' für 'Wissen' oder 'Kenntnis', ursprünglich im Sinne von 'Kenntnis des Ausgangs'.",
+        "targetText": "Substantivul german „Wette” provine din germana mijlocie 'wette', derivat din germana veche înaltă 'wetti', înrudit cu termenul nordic vechi 'vett' care înseamnă 'cunoaștere' sau 'știință', inițial cu sensul de 'cunoașterea rezultatului'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pariu",
+    "genus": "neuter",
+    "definition": "O înțelegere prin care două sau mai multe persoane miză pe rezultatul unui eveniment, iar câștigătorul primește miza.",
+    "pronunciation": "/paˈriu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „pariu“ stammt vom lateinischen Verb 'pariare' ab, das 'setzen' oder 'wetteifern' bedeutet, mit direktem Bezug auf das Setzen von Einsätzen.",
+        "targetText": "Substantivul românesc „pariu” provine din verbul latin 'pariare', care înseamnă 'a paria' sau 'a miza', având legătură directă cu plasarea mizelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Einsatz",
+      "targetText": "miză"
+    },
+    {
+      "sourceText": "Gewinn",
+      "targetText": "câștig"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "wetten",
+      "targetText": "a paria"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe eine Wette abgeschlossen, dass das Team gewinnt.",
+      "targetText": "Am făcut un pariu că echipa va câștiga."
+    },
+    {
+      "sourceText": "Die Wette wurde mit einem hohen Einsatz gemacht.",
+      "targetText": "Pariul a fost făcut cu o miză mare."
+    },
+    {
+      "sourceText": "Wer die Wette verliert, muss eine Strafe zahlen.",
+      "targetText": "Cine pierde pariul trebuie să plătească o pedeapsă."
+    },
+    {
+      "sourceText": "Wir haben eine Wette über das Ergebnis des Spiels abgeschlossen.",
+      "targetText": "Am făcut un pariu despre rezultatul jocului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'pariu' klingt ähnlich wie das englische 'parry' (abwehren), aber hier geht es darum, eine Wette zu 'parieren' – also eine Herausforderung anzunehmen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'pariu' kommt vom lateinischen 'pariare', das mit 'setzen' zu tun hat – ähnlich wie beim deutschen 'parieren', das ursprünglich auch 'abwehren' bedeutete."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Wette' auf Deutsch und 'pariu' auf Rumänisch sind beide mit dem Setzen verbunden – 'pariu' klingt wie 'Parier' im Sinne von Einsatz."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du setzt eine 'Parade' (parade) gegen jemanden – das hilft dir, dich an 'pariu' als Wette zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

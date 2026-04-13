@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-windel",
+  "parent": "ms-ro-scutec-21ceec73@aa8d7d81fbcb9e10cd97d28237a589fe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Windel",
+    "genus": "feminine",
+    "definition": "Ein saugfähiges Tuch oder eine Einlage, die bei Babys zum Auffangen von Urin und Kot verwendet wird.",
+    "pronunciation": "/ˈvɪndəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Windel“ stammt vom mittelhochdeutschen 'wintel' ab, das auf das althochdeutsche 'wintil' zurückgeht und ursprünglich 'Wickeltuch' bedeutete.",
+        "targetText": "Cuvântul german „Windel” provine din mijlocul germanului vechi 'wintel', derivat din germana veche înaltă 'wintil', care însemna inițial 'fâșie de înfășat'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scutec",
+    "genus": "neuter",
+    "definition": "Un material absorbant folosit pentru a prinde urina și fecalele bebelușilor.",
+    "pronunciation": "/skuˈtek/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „scutec“ stammt vom lateinischen 'scutella' ab, was ursprünglich 'kleiner Schild' bedeutete, übertragen auf ein schützendes Tuch.",
+        "targetText": "Cuvântul românesc „scutec” provine din latină, de la 'scutella', care însemna inițial 'scut mic', folosit metaforic pentru un material protector."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Baby",
+      "targetText": "bebeluș"
+    },
+    {
+      "sourceText": "Feuchttuch",
+      "targetText": "șervețel umed"
+    },
+    {
+      "sourceText": "Waschlappen",
+      "targetText": "prosop de față"
+    },
+    {
+      "sourceText": "Windelwechsel",
+      "targetText": "schimbarea scutecului"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Mutter wechselt die Windel ihres Babys.",
+      "targetText": "Mama îi schimbă scutecul bebelușului."
+    },
+    {
+      "sourceText": "Windeln sind wichtig für die Hygiene von Neugeborenen.",
+      "targetText": "Scutecele sunt importante pentru igiena nou-născuților."
+    },
+    {
+      "sourceText": "Manche Windeln sind aus Stoff, andere sind Einwegprodukte.",
+      "targetText": "Unele scutece sunt din material textil, altele sunt de unică folosință."
+    },
+    {
+      "sourceText": "Das Baby schläft ruhig, nachdem es eine frische Windel bekommen hat.",
+      "targetText": "Bebelușul doarme liniștit după ce a primit un scutec curat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'scutec' klingt wie 'Schutz' mit einem 'ec' am Ende – denk an ein schützendes Tuch für Babys."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'scutec' kommt von 'scutella', einem kleinen Schild – Babys brauchen sozusagen einen Schutzschild gegen Nässe."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein kleiner 'Scut' (Schutzschild) hält alles sauber – so hilft dir 'scutec' das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Windel' mit 'Wind' und 'scutec' mit 'Schutz' – Windel schützt vor Nässe, scutec schützt das Baby."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-halten",
+  "parent": "ms-ro-a-tine-b513a197@927f3325f729ed960b27886335652fb6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "halten",
+    "definition": "etwas festhalten oder stoppen; nicht loslassen",
+    "pronunciation": "/ˈhal.tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „halten“ stammt vom mittelhochdeutschen „halten“ ab, das auf das althochdeutsche „haltan“ zurückgeht und „festhalten“ bedeutet.",
+        "targetText": "Verbul german „halten“ provine din mijlocul german „halten“, derivat din vechiul german „haltan“, care înseamnă „a ține“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird in vielen Kontexten verwendet, sei es im physikalischen Sinn (etwas festhalten) oder im übertragenen Sinn (eine Meinung vertreten)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ține",
+    "definition": "a menține sau bloca ceva; a nu lăsa să scape",
+    "pronunciation": "/a ˈt͡sine/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a ține“ stammt vom lateinischen „tenere“ ab, was „halten“ oder „behalten“ bedeutet.",
+        "targetText": "Verbul românesc „a ține“ provine din latină „tenere“, care înseamnă „a ține“ sau „a păstra“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig in der Definition von Eigentum, Verpflichtungen oder Meinungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "festhalten",
+      "explanation": {
+        "sourceText": "Das Umschließen oder Festhalten von etwas.",
+        "targetText": "A prinde sau a ține ceva strâns."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kann den Gedanken nicht loslassen.",
+          "targetText": "Nu pot să scap de gând."
+        }
+      ]
+    },
+    {
+      "gloss": "Menü halten",
+      "explanation": {
+        "sourceText": "In Bezug auf eine Sitzung oder einen Termin.",
+        "targetText": "Referitor la organizarea unei întâlniri sau eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir halten die Besprechung am Mittwoch.",
+          "targetText": "Ținem întâlnirea miercuri."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dauer",
+      "targetText": "durata"
+    },
+    {
+      "sourceText": "fest",
+      "targetText": "strâns"
+    },
+    {
+      "sourceText": "halten",
+      "targetText": "a reține"
+    },
+    {
+      "sourceText": "Unterstützung",
+      "targetText": "sprijin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loslassen",
+      "targetText": "a elibera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich halte das Buch in der Hand.",
+      "targetText": "Țin cartea în mână."
+    },
+    {
+      "sourceText": "Sie haben den Ball festgehalten.",
+      "targetText": "Ei au ținut mingea strâns."
+    },
+    {
+      "sourceText": "Ich werde die nächste Stunde halten.",
+      "targetText": "Voi ține următoarea oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „a ține“, z.B. Gedanken, Meinungen oder Termine „halten“ – so lernst du die vielfältigen Bedeutungen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das rumänische „a ține“ mit dem Bild, etwas fest in der Hand zu halten – so bleibt es leichter im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

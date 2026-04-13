@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-aufklaeren",
+  "parent": "ms-ro-a-clarifica-850d3c2c@448a032f9ef50a19662b08fd578dd00a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufklären",
+    "definition": "jemanden über etwas informieren oder etwas verständlich machen",
+    "pronunciation": "/ˈaʊ̯fˌklɛːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufklären“ setzt sich aus dem Präfix „auf-“ und dem Verb „klären“ zusammen, was \"klar machen\" oder \"erklären\" bedeutet.",
+        "targetText": "Das deutsche Verb „aufklären“ stammt vom mittelhochdeutschen „klæren“ (klar machen) und dem Präfix „auf-“ für Hervorhebung."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet in der Bildung oder bei der Aufklärung von Missverständnissen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a clarifica",
+    "definition": "a informa pe cineva despre ceva sau a face ceva mai clar",
+    "pronunciation": "/a klarifiˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das verb „a clarifica“ stammt vom lateinischen „clarificare“, was „klar machen“ bedeutet.",
+        "targetText": "Verbul românesc „a clarifica“ provine din latină, de la „clarificare“, care înseamnă „a face clar“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Verwendung oft in rechtlichen, akademischen oder erzieherischen Kontexten zur Erklärung von Informationen."
+  },
+  "senses": [
+    {
+      "gloss": "Aufklärung / Aufklärung von Informationen",
+      "explanation": {
+        "sourceText": "Im Kontext der Informationsvermittlung.",
+        "targetText": "În contextul transmiterii informațiilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Lehrer klären die Themen auf.",
+          "targetText": "Profesorii clarifică subiectele."
+        }
+      ]
+    },
+    {
+      "gloss": "Erklärung von Missverständnissen",
+      "explanation": {
+        "sourceText": "Zur Verdeutlichung von Missverständnissen.",
+        "targetText": "Pentru clarificarea neînțelegerilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir klären die Sachlage auf.",
+          "targetText": "Noi clarificăm situația."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erklären",
+      "targetText": "explicare"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Unterricht",
+      "targetText": "învățământ"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "cunoștințe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verwirren",
+      "targetText": "a confunda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kläre die Situation auf.",
+      "targetText": "Eu clarific situația."
+    },
+    {
+      "sourceText": "Klärst du das Missverständnis auf?",
+      "targetText": "Clarifici neînțelegerea?"
+    },
+    {
+      "sourceText": "Sie klärt alles schnell auf.",
+      "targetText": "Ea clarifică totul repede."
+    },
+    {
+      "sourceText": "Wir klären die Sachlage auf.",
+      "targetText": "Noi clarificăm situația."
+    },
+    {
+      "sourceText": "Klären Sie bitte die Fakten!",
+      "targetText": "Clarificați, vă rog, faptele!"
+    },
+    {
+      "sourceText": "Die Lehrer klären die Themen auf.",
+      "targetText": "Profesorii clarifică subiectele."
+    },
+    {
+      "sourceText": "Ich habe das Problem aufgeklärt.",
+      "targetText": "Am clarificat problema."
+    },
+    {
+      "sourceText": "Die Kommission klärte alle Fragen.",
+      "targetText": "Comisia clarificase toate întrebările."
+    },
+    {
+      "sourceText": "Ich werde die Daten aufklären.",
+      "targetText": "Voi clarifica datele."
+    },
+    {
+      "sourceText": "Ich würde die Sache aufklären, wenn ich Zeit hätte.",
+      "targetText": "Aș clarifica situația, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Klär das bitte!",
+      "targetText": "Clarifică, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aufklären“ und „a clarifica“ sind ähnlich – beide bedeuten, etwas klar und verständlich zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Präfix „auf-“ zeigt im Deutschen die Richtung zum Erklären, während „clarifica“ direkt aus dem Lateinischen kommt – beide helfen dir, die Bedeutung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Übe, wie du mit „aufklären“ und „a clarifica“ Missverständnisse beseitigst – so merkst du dir die Wörter besser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ms-de-ro-unueberlegt",
+  "parent": "ms-ro-necalculat-def337c2@c3d3364baca88fc75ef6c0a9e4878aec",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unüberlegt",
+    "definition": "ohne nachzudenken und ohne sorgfältige Überlegung",
+    "pronunciation": "/ʊnˈyːbɐˌleːkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Unüberlegt“ setzt sich aus der Negation „un-“ und „überlegt“ zusammen, was bedeutet, dass etwas nicht sorgfältig durchdacht wurde.",
+        "targetText": "Adjectivul „unüberlegt“ este format din prefixul negativ „un-“ și „überlegt“, indicând lipsa unei reflecții atente."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird oft verwendet, um negative Konsequenzen aus impulsiven Entscheidungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "necalculat",
+    "genus": "masculine",
+    "definition": "fără a gândi și fără o considerație atentă",
+    "pronunciation": "/ne.kaʊ̯.luˈlat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Necalculat“ provine din latină „non calculatus“, adică „necalculat“, indicând o acțiune făcută fără planificare sau gândire.",
+        "targetText": "Adjectivul „necalculat“ derivă din expresia latină „non calculatus“, semnificând ceva făcut fără o planificare atentă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort weist auf die Risiken eines wahrhaften Unbekümmertseins hin."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Nachdenken",
+      "targetText": "a reflecta"
+    },
+    {
+      "sourceText": "Planung",
+      "targetText": "planificare"
+    },
+    {
+      "sourceText": "Zögern",
+      "targetText": "a ezita"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "überlegt",
+      "targetText": "prudent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Seine unüberlegten Entscheidungen führten zu Problemen.",
+      "targetText": "Deciziile sale necalculate au dus la probleme."
+    },
+    {
+      "sourceText": "Es ist besser, überlegt zu handeln als unüberlegt.",
+      "targetText": "Este mai bine să acționezi calculat decât necalculat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Unüberlegt“ bedeutet ohne Nachdenken – denke an „necalculat“ als „nicht berechnet“ oder „nicht geplant“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn jemand unüberlegt handelt, macht er etwas „necalculat“ – ohne Plan."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

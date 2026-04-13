@@ -1,0 +1,196 @@
+{
+  "id": "ms-de-ro-praesentieren",
+  "parent": "ms-ro-a-prezenta-5cf5bfa9@b024c3c3d46e25b0f23a5ebbf90ea6cf",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "präsentieren",
+    "definition": "etwas vortragen oder zeigen, um es anderen zu erklären oder darzustellen",
+    "pronunciation": "/pʁeˈzɛntiˌʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „präsentieren“ stammt vom lateinischen „praesentare“, was „vorzeigen“ oder „darstellen“ bedeutet.",
+        "targetText": "Verbul german „präsentieren“ provine din latinescul „praesentare“, care înseamnă „a arăta“ sau „a prezenta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regular Verb, oft in Formaten wie Präsentationen und Berichten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a prezenta",
+    "definition": "a face o expunere sau a arăta ceva pentru a explica sau a derula",
+    "pronunciation": "/a pre.zenˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a prezenta“ stammt vom lateinischen „praesentare“, was „vorzeigen“ oder „bereitstellen“ bedeutet. Es ist ein direktes Lehnwort aus dem Lateinischen.",
+        "targetText": "Verbul românesc „a prezenta“ provine din latinescul „praesentare“, care înseamnă „a arăta“ sau „a pune la dispoziție“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Weit verbreitet in akademischen und geschäftlichen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "Präsentation",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Aufführung oder Vorstellung.",
+        "targetText": "Se referă la expunerea sau prezentarea unui subiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Präsentation war sehr informativ.",
+          "targetText": "Prezentarea a fost foarte informativă."
+        }
+      ]
+    },
+    {
+      "gloss": "Vorführung",
+      "explanation": {
+        "sourceText": "Eine Möglichkeit, etwas zu demonstrieren.",
+        "targetText": "O metodă de a arăta sau demonstra ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache eine Vorführung.",
+          "targetText": "Fac o demonstrație."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Publikum",
+      "targetText": "public"
+    },
+    {
+      "sourceText": "Referat",
+      "targetText": "referat"
+    },
+    {
+      "sourceText": "Thema",
+      "targetText": "subiect"
+    },
+    {
+      "sourceText": "Vorstellung",
+      "targetText": "prezentare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstecken",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich präsentiere meine Ergebnisse.",
+      "targetText": "Eu prezint rezultatele mele."
+    },
+    {
+      "sourceText": "Präsentierst du deine Arbeit?",
+      "targetText": "Prezinți munca ta?"
+    },
+    {
+      "sourceText": "Sie präsentiert die neue Idee.",
+      "targetText": "Ea prezintă noua idee."
+    },
+    {
+      "sourceText": "Wir präsentieren die Daten.",
+      "targetText": "Noi prezentăm datele."
+    },
+    {
+      "sourceText": "Präsentiert ihr das Projekt?",
+      "targetText": "Prezentați proiectul?"
+    },
+    {
+      "sourceText": "Sie präsentieren die Ergebnisse.",
+      "targetText": "Ei prezintă rezultatele."
+    },
+    {
+      "sourceText": "Ich habe das Projekt präsentiert.",
+      "targetText": "Am prezentat proiectul."
+    },
+    {
+      "sourceText": "Sie haben ihre Ideen präsentiert.",
+      "targetText": "Au prezentat ideile lor."
+    },
+    {
+      "sourceText": "Er präsentierte oft neue Konzepte.",
+      "targetText": "El prezenta adesea concepte noi."
+    },
+    {
+      "sourceText": "Ich hatte die neue Strategie bereits präsentiert.",
+      "targetText": "Prezentasem deja noua strategie."
+    },
+    {
+      "sourceText": "Ich werde die Ergebnisse präsentieren.",
+      "targetText": "Voi prezenta rezultatele."
+    },
+    {
+      "sourceText": "Wir werden die Idee präsentieren.",
+      "targetText": "Noi o să prezentăm ideea."
+    },
+    {
+      "sourceText": "Ich würde es präsentieren, wenn ich die Zeit hätte.",
+      "targetText": "Aș prezenta dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du deine Ergebnisse präsentierst.",
+      "targetText": "Este important să prezinți rezultatele tale."
+    },
+    {
+      "sourceText": "Präsentiere deine Idee!",
+      "targetText": "Prezintă ideea ta!"
+    },
+    {
+      "sourceText": "Präsentiert das Projekt!",
+      "targetText": "Prezentați proiectul!"
+    },
+    {
+      "sourceText": "Die präsentierten Ergebnisse waren überzeugend.",
+      "targetText": "Rezultatele prezentate au fost convingătoare."
+    },
+    {
+      "sourceText": "Die Idee ist nun präsentiert.",
+      "targetText": "Ideea este acum prezentată."
+    },
+    {
+      "sourceText": "Indem sie präsentierte, fasste sie Aufmerksamkeit.",
+      "targetText": "Prezentând, a captat atenția."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „präsentieren“ und das rumänische „a prezenta“ klingen sehr ähnlich – beide stammen vom lateinischen „praesentare“ und bedeuten „zeigen“ oder „vorstellen“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „präsentieren“ = „a prezenta“ – beide Wörter beginnen mit „pr“, was dir hilft, die Verbindung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hältst eine Präsentation vor einem Publikum – du „präsentierst“ deine Ideen, also „a prezenta“ in Rumänisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

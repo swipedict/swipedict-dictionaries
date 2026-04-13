@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-gedanke",
+  "parent": "ms-ro-gand-9c72f700@4f5d31243d691bbce417070e3dc08e3b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gedanke",
+    "genus": "masculine",
+    "definition": "Ein mentaler Inhalt oder eine Vorstellung, die im Bewusstsein entsteht; das Ergebnis des Denkens.",
+    "pronunciation": "/ɡəˈdaŋkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gedanke“ stammt vom althochdeutschen 'gedanc' ab, das mit dem Verb 'denken' verwandt ist und ursprünglich 'das Nachdenken' oder 'Überlegung' bedeutete.",
+        "targetText": "Cuvântul german „Gedanke” provine din vechiul german înalt 'gedanc', legat de verbul 'denken' și însemnând inițial 'gândire' sau 'reflecție'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gând",
+    "genus": "neuter",
+    "definition": "O reprezentare mentală, o idee sau o concepție care apare în conștiință; rezultatul procesului de gândire.",
+    "pronunciation": "/ɡɨnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „gând“ stammt vom lateinischen Wort 'candidus' ab, das ursprünglich 'hell' oder 'rein' bedeutete, wurde jedoch im Rumänischen semantisch zu 'Gedanke' umgedeutet.",
+        "targetText": "Substantivul românesc „gând” provine din latinescul 'candidus', care inițial însemna 'alb' sau 'curat', dar în română a suferit o schimbare semantică spre 'gând'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "denken",
+      "targetText": "a gândi"
+    },
+    {
+      "sourceText": "Idee",
+      "targetText": "idee"
+    },
+    {
+      "sourceText": "Überlegung",
+      "targetText": "reflecție"
+    },
+    {
+      "sourceText": "Vorstellung",
+      "targetText": "reprezentare mentală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unwissenheit",
+      "targetText": "ignoranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Gedanke an den Urlaub macht mich glücklich.",
+      "targetText": "Gândul la vacanță mă face fericit."
+    },
+    {
+      "sourceText": "Ich habe einen interessanten Gedanken gehabt.",
+      "targetText": "Am avut un gând interesant."
+    },
+    {
+      "sourceText": "Sei vorsichtig mit deinen Gedanken.",
+      "targetText": "Fii atent la gândurile tale."
+    },
+    {
+      "sourceText": "Der Gedanke, etwas Neues zu lernen, motiviert mich.",
+      "targetText": "Gândul de a învăța ceva nou mă motivează."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Gedanke“ enthält „Dank“ – denke daran, dass ein Gedanke oft etwas Wertvolles ist, für das man dankbar sein kann."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „gând“ klingt ähnlich wie das deutsche Wort „Gand“ in „Gandhi“. Stell dir vor, Gandhi hat viele wichtige Gedanken gehabt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „gând“ im Rumänischen kurz und prägnant ist, genau wie ein klarer Gedanke im Kopf."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „gând“ mit dem englischen Wort „mind“ – beide beziehen sich auf das Denken, aber „gând“ ist kürzer und leichter zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

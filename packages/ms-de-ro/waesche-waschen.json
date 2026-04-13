@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-waesche-waschen",
+  "parent": "ms-ro-a-spala-rufe-fee0dd42@4b18d1346f5fd3b66c6e210e0a23ad61",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wäsche waschen",
+    "definition": "Kleidung oder Textilien reinigen, indem man sie mit Wasser und Waschmittel behandelt.",
+    "pronunciation": "/ˈvɛʃə ˈvasʃn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wäsche“ stammt vom althochdeutschen 'wasc' ab, das 'Waschen' bedeutete, während „waschen“ auf das althochdeutsche 'waschan' zurückgeht, was 'reinigen mit Wasser' heißt.",
+        "targetText": "Cuvântul german „Wäsche“ provine din vechea germană înaltă 'wasc', care însemna 'spălare', iar „waschen“ derivă din 'waschan', adică 'a curăța cu apă'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a spăla rufe",
+    "definition": "A curăța haine sau textile folosind apă și detergent.",
+    "pronunciation": "/a spəˈla ˈrufe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a spăla“ stammt vom lateinischen 'spalare' ab, das 'waschen' bedeutet, während „rufe“ vom lateinischen 'roupa' für Kleidung kommt.",
+        "targetText": "Verbul românesc „a spăla” provine din latină, din 'spalare', care înseamnă 'a spăla', iar „rufe” derivă din latinescul 'roupa', însemnând haine."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bügeln",
+      "targetText": "a călca"
+    },
+    {
+      "sourceText": "Trocknen",
+      "targetText": "a usca"
+    },
+    {
+      "sourceText": "Waschmaschine",
+      "targetText": "mașină de spălat"
+    },
+    {
+      "sourceText": "Waschmittel",
+      "targetText": "detergent"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schmutzig machen",
+      "targetText": "a murdări"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wasche die Wäsche jeden Samstag.",
+      "targetText": "Spăl rufele în fiecare sâmbătă."
+    },
+    {
+      "sourceText": "Kannst du bitte die Wäsche waschen?",
+      "targetText": "Poți, te rog, să speli rufele?"
+    },
+    {
+      "sourceText": "Die Wäsche ist sauber und frisch gewaschen.",
+      "targetText": "Rufele sunt curate și proaspăt spălate."
+    },
+    {
+      "sourceText": "Wir müssen die Wäsche vor dem Trocknen waschen.",
+      "targetText": "Trebuie să spălăm rufele înainte de a le usca."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'spalare' hilft dir, verwandte Wörter in anderen romanischen Sprachen zu erkennen, z.B. italienisch 'spalare' (waschen)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'rufe' klingt ähnlich wie 'Ruf', aber hier bedeutet es Kleidung – stell dir vor, die Kleidung 'ruft' nach Reinigung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'spăla' wie das deutsche Wort 'spülen' – beide bedeuten etwas mit Wasser reinigen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a spăla rufe' mit dem Bild, wie du deine Kleidung in der Waschmaschine wäscht – 'spăla' = waschen, 'rufe' = Wäsche."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

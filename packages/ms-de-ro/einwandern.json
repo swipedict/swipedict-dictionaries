@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-einwandern",
+  "parent": "ms-ro-a-imigra-d48d8428@4b671a5682eaf3ef27ee159fa74eb66e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einwandern",
+    "definition": "in ein Land ziehen, um dort zu wohnen oder zu leben",
+    "pronunciation": "/ˈaɪ̯nˌvandʁn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einwandern“ setzt sich aus „ein-“ und „wandern“ zusammen, was den Vorgang des Zuzugs in ein neues Land beschreibt.",
+        "targetText": "Verbul german „einwandern“ este format din prefixul „ein-“ și verbul „wandern“ și descrie procesul de a se muta într-o țară nouă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Bezieht sich auf den Prozess, von einem Land in ein anderes zu ziehen, typischerweise aus Gründen wie Arbeit oder Familienzusammenführung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a imigra",
+    "definition": "a veni într-o țară pentru a locui sau a trăi",
+    "pronunciation": "/a imiˈɡra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a imigra“ stammt vom lateinischen „immigrare“ ab, was „einwandern“ bedeutet. Es wird in romanischen Sprachen verwendet, um den Zuzug in ein Land zu beschreiben.",
+        "targetText": "Verbul românesc „a imigra“ provine din latinescul „immigrare“, care înseamnă „a imigra“. Este folosit în limbile romanice pentru a descrie procesul de a veni într-o țară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wichtig in der Diskussion über Migration und Integration in der rumänischen Gesellschaft."
+  },
+  "senses": [
+    {
+      "gloss": "einwandern (in ein Land ziehen)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Prozess des Zuzugs in ein anderes Land.",
+        "targetText": "Se referă la procesul de a se muta într-o altă țară."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich wandere nach Deutschland ein.",
+          "targetText": "Eu imigrez în Germania."
+        }
+      ]
+    },
+    {
+      "gloss": "immigrieren",
+      "explanation": {
+        "sourceText": "Ein anderer Begriff für 'einwandern' im Zusammenhang mit Migration.",
+        "targetText": "Un alt termen pentru „a imigra“ în contextul migrației."
+      },
+      "examples": [
+        {
+          "sourceText": "Viele Menschen möchten in die USA einwandern.",
+          "targetText": "Mulți oameni doresc să imigreze în Statele Unite."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufenthalt",
+      "targetText": "sejur"
+    },
+    {
+      "sourceText": "Heimat",
+      "targetText": "patrie"
+    },
+    {
+      "sourceText": "Migration",
+      "targetText": "migrație"
+    },
+    {
+      "sourceText": "Visa",
+      "targetText": "viză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auswandern",
+      "targetText": "a emigra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wandere nach Deutschland ein.",
+      "targetText": "Eu imigrez în Germania."
+    },
+    {
+      "sourceText": "Wanderst du bald ein?",
+      "targetText": "Imigrezi în curând?"
+    },
+    {
+      "sourceText": "Er wandert aus Italien ein.",
+      "targetText": "El imigrează din Italia."
+    },
+    {
+      "sourceText": "Wir wandern gemeinsam ein.",
+      "targetText": "Noi imigrăm împreună."
+    },
+    {
+      "sourceText": "Wandert ihr tatsächlich ein?",
+      "targetText": "Imigrați cu adevărat?"
+    },
+    {
+      "sourceText": "Sie wandern oft ein.",
+      "targetText": "Ei imigrează adesea."
+    },
+    {
+      "sourceText": "Ich bin letzte Woche eingewandert.",
+      "targetText": "Am imigrat săptămâna trecută."
+    },
+    {
+      "sourceText": "Sie sind neu eingewandert.",
+      "targetText": "Au imigrat recent."
+    },
+    {
+      "sourceText": "Er wanderte als Kind ein.",
+      "targetText": "El imigra când era mic."
+    },
+    {
+      "sourceText": "Ich hatte schon vor Jahren eingewandert.",
+      "targetText": "Imigrasem cu ani în urmă."
+    },
+    {
+      "sourceText": "Ich werde im nächsten Jahr einwandern.",
+      "targetText": "Voi imigra anul viitor."
+    },
+    {
+      "sourceText": "Er wird bald einwandern.",
+      "targetText": "El o să imigreze în curând."
+    },
+    {
+      "sourceText": "Ich würde einwandern, wenn ich die Möglichkeit hätte.",
+      "targetText": "Aș imigra dacă aș avea ocazia."
+    },
+    {
+      "sourceText": "Es erfordert, dass du einwanderst.",
+      "targetText": "Este necesar să imigrăm."
+    },
+    {
+      "sourceText": "Wander ein!",
+      "targetText": "Imigra!"
+    },
+    {
+      "sourceText": "Wandert ein!",
+      "targetText": "Imigrați!"
+    },
+    {
+      "sourceText": "Die eingewanderten Personen sind freundlich.",
+      "targetText": "Persoanele imigrate sunt prietenoase."
+    },
+    {
+      "sourceText": "Die neuen Eingewanderten sind angekommen.",
+      "targetText": "Noii imigranți au sosit."
+    },
+    {
+      "sourceText": "Nachdem er eingewandert ist, fühlt er sich wohl.",
+      "targetText": "După ce a imigrat, se simte bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einwandern“ und „a imigra“ sind wichtige Begriffe in der Migration – denk an das lateinische „immigrare“ als ‚hineingehen‘ in ein Land."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a imigra“ oft mit dem Wunsch nach einem besseren Leben verbunden ist."
+    },
+    {
+      "lang": "de",
+      "text": "Eine Eselsbrücke: Stell dir vor, „einwandern“ ist wie jemand, der „einwandfrei“ ankommt – also sicher und richtig."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: „imigrez“, „imigrezi“, „imigrează“ – typisch rumänisch und wichtig für den Gebrauch."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Zeitformen: „Eu imigrez“ (ich wandere ein), „Eu am imigrat“ (ich bin eingewandert), „Eu voi imigra“ (ich werde einwandern)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

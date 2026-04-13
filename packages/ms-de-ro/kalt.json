@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-kalt",
+  "parent": "ms-ro-rece-dd661373@3843f90798b2a14ae7fa84f8184e891b",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kalt",
+    "definition": "Niedrige Temperatur oder Gefühl von Kälte.",
+    "pronunciation": "/kalt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „kalt“ stammt vom althochdeutschen 'kalt', das auf die urgermanische Wurzel *kaltaz zurückgeht.",
+        "targetText": "Adjectivul german „kalt” provine din germana veche înaltă 'kalt', derivat din rădăcina proto-germanică *kaltaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rece",
+    "definition": "Care are o temperatură scăzută sau provoacă senzația de frig.",
+    "pronunciation": "/ˈretʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „rece“ stammt vom lateinischen 'recedere' ab, ursprünglich 'zurückweichen', später als Adjektiv für 'kühl' verwendet.",
+        "targetText": "Cuvântul românesc „rece” provine din latină, din verbul 'recedere' care însemna inițial 'a se retrage', iar mai târziu a fost folosit ca adjectiv pentru 'răcoros'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Frost",
+      "targetText": "îngheț"
+    },
+    {
+      "sourceText": "kühlen",
+      "targetText": "a răci"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "warm",
+      "targetText": "cald"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "warm",
+      "targetText": "cald"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Wasser ist kalt.",
+      "targetText": "Apa este rece."
+    },
+    {
+      "sourceText": "Mir ist kalt, ich brauche eine Jacke.",
+      "targetText": "Îmi este rece, am nevoie de o geacă."
+    },
+    {
+      "sourceText": "Im Winter ist es oft sehr kalt.",
+      "targetText": "Iarna este adesea foarte rece."
+    },
+    {
+      "sourceText": "Kalte Luft kann erfrischend sein.",
+      "targetText": "Aerul rece poate fi revigorant."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'rece' kommt vom lateinischen 'recedere' – denk an 'zurückweichen' vor Kälte."
+    },
+    {
+      "lang": "de",
+      "text": "Im Gegensatz zu 'cald' (warm) steht 'rece' für Kälte – die beiden Wörter sind Gegensätze, die man gut zusammen lernt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'rece' mit dem Klang wie 'Rese' – stell dir vor, du 'resistierst' der Kälte."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst 'Reh, seh!' und fühlst die kalte Luft – so merkst du dir 'rece'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

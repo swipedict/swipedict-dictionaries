@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-shampoo",
+  "parent": "ms-ro-sampon-e49bd0b4@3f7af3b49f4d419362123b242f4209e8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Shampoo",
+    "genus": "neuter",
+    "definition": "Ein Haarwaschmittel, das verwendet wird, um Haare zu reinigen.",
+    "pronunciation": "/ʃamˈpuː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Shampoo“ wurde im Deutschen aus dem Englischen entlehnt, wo es ursprünglich vom Hindi-Wort 'chāmpo' stammt, was 'massieren' bedeutet. Im Englischen wurde es im 18. Jahrhundert für eine Kopfhautmassage verwendet und später auf das Waschmittel übertragen.",
+        "targetText": "Cuvântul „shampoo” a fost împrumutat în engleză din hindi 'chāmpo', care înseamnă 'a masa'. În engleză, termenul a fost folosit inițial în secolul al XVIII-lea pentru masajul scalpului și ulterior pentru produsul de spălare a părului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șampon",
+    "genus": "neuter",
+    "definition": "Un produs pentru spălarea părului, folosit pentru curățarea acestuia.",
+    "pronunciation": "/ʃamˈpon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „șampon“ wurde direkt aus dem englischen 'shampoo' entlehnt, das wiederum aus dem Hindi stammt. Es bezeichnet das Haarwaschmittel.",
+        "targetText": "Cuvântul românesc „șampon” este împrumutat direct din englezescul 'shampoo', care provine din hindi și desemnează produsul pentru spălarea părului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Maskulinum, wird im Rumänischen wie ein Substantiv der a-Konjugation behandelt."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Conditioner",
+      "targetText": "balsam de păr"
+    },
+    {
+      "sourceText": "Haar",
+      "targetText": "păr"
+    },
+    {
+      "sourceText": "Seife",
+      "targetText": "săpun"
+    },
+    {
+      "sourceText": "Waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich kaufe ein neues Shampoo für mein Haar.",
+      "targetText": "Cumpăr un șampon nou pentru părul meu."
+    },
+    {
+      "sourceText": "Dieses Shampoo macht das Haar weich und glänzend.",
+      "targetText": "Acest șampon face părul moale și strălucitor."
+    },
+    {
+      "sourceText": "Benutze das Shampoo zweimal pro Woche.",
+      "targetText": "Folosește șamponul de două ori pe săptămână."
+    },
+    {
+      "sourceText": "Das Shampoo riecht sehr angenehm.",
+      "targetText": "Șamponul miroase foarte plăcut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ș' in 'șampon' wird wie 'sch' ausgesprochen, genau wie im deutschen Wort, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'șampon' klingt fast wie das deutsche 'Shampoo', aber mit einem weichen 'ș' am Anfang – stell dir vor, du flüsterst das Wort sanft."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das englische Wort 'shampoo' und die indische Herkunft 'chāmpo' – denk an eine entspannende Kopfhautmassage, die das Haar reinigt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'șampon' mit 'păr' (Haar) – beide Wörter sind oft zusammen in der Badewanne zu hören!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

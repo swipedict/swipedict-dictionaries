@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-suess",
+  "parent": "ms-ro-dulce-c4b4e9c9@8b6f995b494bf93db73f5e698be95d31",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "süß",
+    "definition": "Geschmack, der an Zucker oder Honig erinnert; angenehm süßlich.",
+    "pronunciation": "/zyːs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „süß“ stammt vom althochdeutschen 'sūz' ab, das auf die urgermanische Wurzel *sūdzą zurückgeht, die mit dem Geschmack von Zucker oder Honig verbunden ist.",
+        "targetText": "Adjectivul german „süß” provine din germana veche înaltă 'sūz', care la rândul său derivă din rădăcina proto-germanică *sūdzą, legată de gustul dulce al zahărului sau mierii."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dulce",
+    "definition": "Care are gust asemănător zahărului sau mierii; plăcut la gust.",
+    "pronunciation": "/ˈdultʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „dulce“ stammt vom lateinischen Wort 'dulcis' ab, das 'lieblich' oder 'süß' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Adjectivul românesc „dulce” provine din cuvântul latin 'dulcis', care înseamnă 'plăcut' sau 'dulce' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Honig",
+      "targetText": "miere"
+    },
+    {
+      "sourceText": "Lecker",
+      "targetText": "delicios"
+    },
+    {
+      "sourceText": "süßlich",
+      "targetText": "dulceag"
+    },
+    {
+      "sourceText": "Zucker",
+      "targetText": "zahăr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bitter",
+      "targetText": "amar"
+    },
+    {
+      "sourceText": "sauer",
+      "targetText": "acru"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kuchen ist sehr süß.",
+      "targetText": "Prăjitura este foarte dulce."
+    },
+    {
+      "sourceText": "Ich mag süße Früchte wie Erdbeeren.",
+      "targetText": "Îmi plac fructele dulci, cum sunt căpșunile."
+    },
+    {
+      "sourceText": "Der Honig schmeckt süß und aromatisch.",
+      "targetText": "Mierea are un gust dulce și aromat."
+    },
+    {
+      "sourceText": "Süßigkeiten sind oft zu süß für mich.",
+      "targetText": "Dulciurile sunt adesea prea dulci pentru mine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'süß' und das rumänische 'dulce' stammen beide aus alten indogermanischen Wurzeln, die mit angenehmem Geschmack verbunden sind."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'dulce' klingt wie 'dulce' in spanisch oder italienisch, beide bedeuten auch süß – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst 'du lutscht' (wie lutschen an Süßigkeiten) – das klingt ähnlich wie 'dulce' und erinnert an süßen Geschmack."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an Zucker denkst, merk dir das 'du' am Anfang von 'dulce' – so kannst du dir merken, dass es etwas mit süßem Geschmack zu tun hat."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

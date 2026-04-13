@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-stattfinden",
+  "parent": "ms-ro-a-avea-loc-e7edda4b@ff4a5b76122b97b38a132d74769c27fb",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stattfinden",
+    "definition": "Ereignen, geschehen oder abgehalten werden (z.B. eine Veranstaltung).",
+    "pronunciation": "/ˈʃtatˌfɪndən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „stattfinden“ setzt sich aus 'statt' (Ort, Stelle) und 'finden' (finden, entdecken) zusammen, wobei 'statt' vom althochdeutschen 'stat' stammt und 'finden' vom althochdeutschen 'findan'.",
+        "targetText": "Verbul german „stattfinden” este compus din „statt” (loc, poziție) derivat din germana veche înaltă 'stat' și „finden” (a găsi) din germana veche înaltă 'findan'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a avea loc",
+    "definition": "Sich ereignen, stattfinden, abgehalten werden.",
+    "pronunciation": "/a aˈvea lok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „a avea loc“ besteht aus 'a avea' (haben) und 'loc' (Ort, Platz), wobei 'loc' vom lateinischen 'locus' stammt.",
+        "targetText": "Expresia românească „a avea loc” este formată din 'a avea' (a avea) și 'loc' (loc, spațiu), unde 'loc' provine din latinescul 'locus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abhalten",
+      "targetText": "a ține (eveniment)"
+    },
+    {
+      "sourceText": "ereignen",
+      "targetText": "a se întâmpla"
+    },
+    {
+      "sourceText": "geschehen",
+      "targetText": "a se petrece"
+    },
+    {
+      "sourceText": "veranstalten",
+      "targetText": "a organiza"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausfallen",
+      "targetText": "a fi anulat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Konzert findet morgen statt.",
+      "targetText": "Concertul are loc mâine."
+    },
+    {
+      "sourceText": "Die Sitzung hat gestern stattgefunden.",
+      "targetText": "Ședința a avut loc ieri."
+    },
+    {
+      "sourceText": "Wo findet das Treffen statt?",
+      "targetText": "Unde are loc întâlnirea?"
+    },
+    {
+      "sourceText": "Das Festival findet jedes Jahr im Sommer statt.",
+      "targetText": "Festivalul are loc în fiecare vară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'stattfinden' kombiniert 'statt' (Ort) und 'finden' (finden) – im Rumänischen ist es 'a avea loc', was wörtlich 'haben Ort' heißt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'loc' im Rumänischen ist eng verwandt mit dem lateinischen 'locus' – ein wichtiger Begriff für 'Ort'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'a avea loc' als 'etwas hat einen Ort' – also findet es statt."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an ein Event denkst, das an einem Ort stattfindet, hilft dir das, 'a avea loc' zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

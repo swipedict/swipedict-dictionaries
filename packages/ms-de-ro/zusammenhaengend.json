@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-zusammenhaengend",
+  "parent": "ms-ro-coerent-ac7e5e64@72883c9c71851dd804b49b3dd262ba5a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zusammenhängend",
+    "definition": "eingehend und sinnvoll verbunden; logisch",
+    "pronunciation": "/tsuˈzaːmənˌhɛŋənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „zusammenhängend“ besteht aus „zusammen“ und „hängen“, was „verbunden sein“ bedeutet.",
+        "targetText": "Cuvântul „zusammenhängend“ este compus din „zusammen“ și „hängen“, însemnând „a fi conectat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bezieht sich oft auf Klarheit in Kommunikation oder Texten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "coerent",
+    "genus": "masculine",
+    "definition": "interconectat; logic și sensibil",
+    "pronunciation": "/ko.eˈrent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „coerent“ stammt aus dem lateinischen „cohaerens“, was „verbunden“ bedeutet.",
+        "targetText": "Cuvântul „coerent“ provine din latină „cohaerens“, care înseamnă „conectat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in Literatur und Argumentation verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Kohärent",
+      "explanation": {
+        "sourceText": "Ein Zustand, in dem verschiedene Teile logisch zusammenpassen.",
+        "targetText": "O stare în care părțile diferite se potrivesc logic."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Gedanken in diesem Artikel sind kohärent.",
+          "targetText": "Gândurile din acest articol sunt coerente."
+        }
+      ]
+    },
+    {
+      "gloss": "Logisch",
+      "explanation": {
+        "sourceText": "Ein Denken oder Argumentieren, das Sinn ergibt.",
+        "targetText": "Un mod de gândire sau argumentare care are sens."
+      },
+      "examples": [
+        {
+          "sourceText": "Seine Argumente sind logisch.",
+          "targetText": "Argumentele sale sunt logice."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kohärenz",
+      "targetText": "coerență"
+    },
+    {
+      "sourceText": "Logik",
+      "targetText": "logică"
+    },
+    {
+      "sourceText": "Verbindung",
+      "targetText": "conexiune"
+    },
+    {
+      "sourceText": "Zusammenhang",
+      "targetText": "context"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "losgelöst",
+      "targetText": "separat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Argumentation war klar und zusammenhängend.",
+      "targetText": "Argumentarea a fost clară și coerentă."
+    },
+    {
+      "sourceText": "Ein guter Text muss zusammenhängend sein.",
+      "targetText": "Un text bun trebuie să fie coerent."
+    },
+    {
+      "sourceText": "Zusammenhängende Gedanken sind Schlüssel zu einem guten Aufsatz.",
+      "targetText": "Gândurile coerente sunt cheia unui eseu bun."
+    },
+    {
+      "sourceText": "Die Geschichte ist nicht zusammenhängend erzählt.",
+      "targetText": "Povestea nu este spusă coerent."
+    },
+    {
+      "sourceText": "Wir müssen zwar die Fragen klären, aber sie sollten zusammenhängend diskutiert werden.",
+      "targetText": "Trebuie să clarificăm întrebările, dar ele ar trebui discutate coerent."
+    },
+    {
+      "sourceText": "Ein zusammenhängendes Konzept hilft beim Verständnis.",
+      "targetText": "Un concept coerent ajută la înțelegere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Zusammenhängend“ ist ähnlich wie „geordnet“ – das hilft dir, „coerent“ als Klarheit zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn Gedanken zusammenhängen, bist du der König der Klarheit, nicht der Narr!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine Kette von Ideen vor, die zusammenhängen – das ist „coerent“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „zusammenhängend“ mit „zusammen“, um dir den logischen Fluss im Rumänischen mit „coerent“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

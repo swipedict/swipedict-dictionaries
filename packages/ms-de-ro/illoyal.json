@@ -1,0 +1,135 @@
+{
+  "id": "ms-de-ro-illoyal",
+  "parent": "ms-ro-neloyal-42992f7c@6b5135a116a39633c5d4a5a6f45e0f22",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "illoyal",
+    "definition": "nicht loyal; treulos",
+    "pronunciation": "/ɪlˈlojal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Illoyal“ leitet sich vom französischen „loyal“ ab, mit dem negativen Präfix „il-“, das das Gegenteil ausdrückt.",
+        "targetText": "„Illoyal“ provine din franceză, de la „loyal“, cu prefixul negativ „il-“ care exprimă contrariul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Oft genutzt in politischen oder geschäftlichen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neloyal",
+    "definition": "care nu este loial; trădător",
+    "pronunciation": "/neˈlojal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Neloyal“ ist vom rumänischen „loyal“ abgeleitet, mit dem negativen Präfix „ne-“, das „nicht loyal“ bedeutet.",
+        "targetText": "„Neloyal“ provine din „loyal“ cu prefixul negativ „ne-“, indicând lipsa loialității."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um fehlendes Vertrauen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "unloyal",
+      "explanation": {
+        "sourceText": "'Neloyal' beschreibt fehlendes Vertrauen oder Treue.",
+        "targetText": "'Neloyal' descrie lipsa încrederii sau a loialității."
+      },
+      "examples": [
+        {
+          "sourceText": "Sein illoyales Verhalten hat viele enttäuscht.",
+          "targetText": "Comportamentul său neloyal a dezamăgit pe mulți."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Traitor",
+      "targetText": "trădător"
+    },
+    {
+      "sourceText": "Treue",
+      "targetText": "loialitate"
+    },
+    {
+      "sourceText": "Vertrauen",
+      "targetText": "încredere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "loyal",
+      "targetText": "loial"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sein illoyales Verhalten hat viele enttäuscht.",
+      "targetText": "Comportamentul său neloyal a dezamăgit pe mulți."
+    },
+    {
+      "sourceText": "In der Politik ist Illoyalität häufig zu beobachten.",
+      "targetText": "În politică, neloyalitatea este frecvent întâlnită."
+    },
+    {
+      "sourceText": "Illegale Geschäfte sind oft von illoyalen Partnern geprägt.",
+      "targetText": "Afacerile ilegale sunt adesea caracterizate de parteneri neloyali."
+    },
+    {
+      "sourceText": "Viele fanden sein illoyales Verhalten inakzeptabel.",
+      "targetText": "Mulți au considerat comportamentul său neloyal inacceptabil."
+    },
+    {
+      "sourceText": "Illoyalität kann Vertrauen in einem Team zerschlagen.",
+      "targetText": "Neloyalitatea poate distruge încrederea într-o echipă."
+    },
+    {
+      "sourceText": "Man sollte immer loyal und niemals illoyal sein.",
+      "targetText": "Trebuie să fiți mereu loiali și niciodată neloyali."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „illoyal“ ist das Gegenteil von „loyal“ – merke dir das durch das negative Präfix „il-“ im Deutschen und „ne-“ im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Ähnlichkeit zwischen „illoyal“ und „neloyal“ hilft dir, die Bedeutung schnell zu erfassen."
+    },
+    {
+      "lang": "de",
+      "text": "Eine Eselsbrücke: Denk an einen „Igel“, der illoyal ist und die Loyalität der anderen prüft!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie ein illoyaler Freund das Vertrauen immer wieder testet – so bleibt das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

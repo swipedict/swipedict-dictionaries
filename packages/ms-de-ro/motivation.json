@@ -1,0 +1,129 @@
+{
+  "id": "ms-de-ro-motivation",
+  "parent": "ms-ro-motivatie-19aee641@5144df1a3f6875f58b7fb19630415b58",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 2,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Motivation",
+    "genus": "feminine",
+    "definition": "der innere Antrieb oder die Beweggründe, die zu einer bestimmten Handlung oder Leistung führen; der Zustand des Motiviertseins",
+    "pronunciation": "/motiˈvaːtsɪ̯oːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom spätlateinischen 'motivatio' (Bewegung, Anregung), zu lateinisch 'movere' (bewegen).",
+        "targetText": "Termenul „Motivation“ provine din latină târzie „motivatio“, derivat din „movere“ (a mișca)."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Motivation ist ein Schlüsselfaktor für Lernen, Leistung und persönliches Wachstum."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "motivație",
+    "genus": "feminine",
+    "definition": "totalitatea motivelor sau mobilurilor (conștiente sau nu) care determină pe cineva să efectueze o anumită acțiune sau să tindă spre anumite scopuri; starea de a fi motivat",
+    "pronunciation": "/mo.tiˈva.t͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Din franceză 'motivation', din latină 'motivatio'.",
+        "targetText": "Cuvântul românesc „motivație“ provine din franceza „motivation“, la rândul său din latină „motivatio“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Motivația poate fi intrinsecă (venind din interior) sau extrinsecă (determinată de factori externi)."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Anreiz",
+      "targetText": "stimulent"
+    },
+    {
+      "sourceText": "Antrieb",
+      "targetText": "imbold"
+    },
+    {
+      "sourceText": "Ehrgeiz",
+      "targetText": "ambiție"
+    },
+    {
+      "sourceText": "motivieren",
+      "targetText": "a motiva"
+    },
+    {
+      "sourceText": "Wille",
+      "targetText": "voință"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Antriebslosigkeit",
+      "targetText": "lipsă de inițiativă"
+    },
+    {
+      "sourceText": "Apathie",
+      "targetText": "apatie"
+    },
+    {
+      "sourceText": "Demotivation",
+      "targetText": "demotivare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Meine Motivation ist es, fitter zu werden.",
+      "targetText": "Motivația mea este să devin mai în formă."
+    },
+    {
+      "sourceText": "Ohne Motivation ist es schwierig, Ziele zu erreichen.",
+      "targetText": "Fără motivație este greu să atingi obiectivele."
+    },
+    {
+      "sourceText": "Die beste Motivation kommt von innen.",
+      "targetText": "Cea mai bună motivație vine din interior."
+    },
+    {
+      "sourceText": "Ich brauche einen Motivationsschub.",
+      "targetText": "Am nevoie de un impuls de motivație."
+    },
+    {
+      "sourceText": "Seine Motivation für das Projekt ist sehr hoch.",
+      "targetText": "Motivația sa pentru proiect este foarte mare."
+    },
+    {
+      "sourceText": "Mangelnde Motivation kann zu Prokrastination führen.",
+      "targetText": "Lipsa de motivație poate duce la procrastinare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Motivation' und das rumänische 'motivație' sind fast identisch – das macht das Lernen sehr einfach!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk an 'Motor' – Motivation ist der Motor, der dich antreibt, deine Ziele zu erreichen."
+    }
+  ],
+  "media": {
+    "images": []
+  }
+}

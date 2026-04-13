@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-verlies",
+  "parent": "ms-ro-temnita-1010ecec@6a279fe6995f32b9ac7ab3f45379e7be",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Verlies",
+    "genus": "neuter",
+    "definition": "Ein unterirdischer, meist fensterloser Raum, der als Gefängnis oder Kerker dient.",
+    "pronunciation": "/fɛɐ̯ˈliːs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Verlies“ stammt vom mittelhochdeutschen 'verlîz' ab, das auf das althochdeutsche 'firliz' zurückgeht und ursprünglich 'Gefängnis' oder 'Kerker' bedeutete.",
+        "targetText": "Cuvântul german „Verlies” provine din germana mijlocie 'verlîz', care la rândul său derivă din germana veche înaltă 'firliz' și însemna inițial 'închisoare' sau 'temniță'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "temniță",
+    "genus": "feminine",
+    "definition": "O încăpere subterană, de obicei fără ferestre, folosită ca închisoare sau loc de detenție.",
+    "pronunciation": "/temˈnit͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „temniță“ stammt vom lateinischen 'terminus' ab, das über das slawische 'temnica' in die rumänische Sprache gelangte und 'Gefängnis' bedeutet.",
+        "targetText": "Cuvântul românesc „temniță” provine din latină, de la 'terminus', preluat prin slavona veche 'temnica', și înseamnă 'închisoare'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gefangener",
+      "targetText": "prizonier"
+    },
+    {
+      "sourceText": "Gefängnis",
+      "targetText": "închisoare"
+    },
+    {
+      "sourceText": "Kerker",
+      "targetText": "temniță"
+    },
+    {
+      "sourceText": "Zelle",
+      "targetText": "celulă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Freiheit",
+      "targetText": "libertate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Verlies war dunkel und feucht.",
+      "targetText": "Temnița era întunecată și umedă."
+    },
+    {
+      "sourceText": "Der Gefangene wurde ins Verlies gebracht.",
+      "targetText": "Prizonierul a fost dus în temniță."
+    },
+    {
+      "sourceText": "Früher wurden Verließe oft in Burgen gebaut.",
+      "targetText": "În trecut, temnițele erau adesea construite în castele."
+    },
+    {
+      "sourceText": "Das Verlies hatte keine Fenster und nur eine schwere Tür.",
+      "targetText": "Temnița nu avea ferestre și doar o ușă grea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'temniță' klingt wie 'Termin' mit einem 'iț' am Ende – stell dir vor, ein Termin, den du nicht verlassen kannst, ist eine 'temniță'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'temniță' stammt über das slawische 'temnica' vom lateinischen 'terminus' ab – merke dir die Verbindung zu 'Termin' und 'Ende'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist in einem dunklen Raum ohne Fenster – das ist eine 'temniță', ein Ort, von dem man nicht entkommen kann."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'temniță' mit dem deutschen Wort 'Terminus' (Endpunkt), denn eine 'temniță' ist der Ort, an dem jemand endet, wenn er eingesperrt ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

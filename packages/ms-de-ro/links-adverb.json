@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-links-adverb",
+  "parent": "ms-ro-stanga-1e105bf4@f9d385057835d7a75b9862284da6ac05",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "links",
+    "definition": "In Richtung der linken Seite oder auf der linken Seite befindlich.",
+    "pronunciation": "/lɪŋks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adverb „links“ stammt vom althochdeutschen 'linch' ab, das mit dem altnordischen 'linkr' verwandt ist und die Bedeutung 'linksseitig' hat.",
+        "targetText": "Adverbul german „links” provine din germana veche înaltă 'linch', înrudit cu termenul nordic vechi 'linkr', având sensul de 'pe partea stângă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stânga",
+    "definition": "În direcția sau pe partea stângă.",
+    "pronunciation": "/ˈstɨŋɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „stânga“ stammt vom lateinischen 'stanga', das möglicherweise eine Lehnübersetzung oder ein Lehnwort aus einer unbekannten Quelle ist, und wurde im Rumänischen als Bezeichnung für die linke Seite übernommen.",
+        "targetText": "Cuvântul românesc „stânga” provine din latină, posibil din termenul 'stanga', adoptat ca denumire pentru partea stângă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oben",
+      "targetText": "sus"
+    },
+    {
+      "sourceText": "rechts",
+      "targetText": "dreapta"
+    },
+    {
+      "sourceText": "Seite",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "unten",
+      "targetText": "jos"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rechts",
+      "targetText": "dreapta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Haus steht links von der Kirche.",
+      "targetText": "Casa este situată stânga bisericii."
+    },
+    {
+      "sourceText": "Biegen Sie an der nächsten Kreuzung links ab.",
+      "targetText": "Virați la următoarea intersecție la stânga."
+    },
+    {
+      "sourceText": "Der Parkplatz ist links neben dem Gebäude.",
+      "targetText": "Parcarea este pe partea stângă lângă clădire."
+    },
+    {
+      "sourceText": "Links ist die Bibliothek, rechts das Café.",
+      "targetText": "Stânga este biblioteca, dreapta este cafeneaua."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'stânga' klingt ein bisschen wie 'stange' auf Deutsch, aber denk daran: 'stânga' bedeutet links, nicht eine Stange."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'links' und 'stânga' beginnen beide mit einem 's'-ähnlichen Laut (l und st), das hilft beim schnellen Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hältst deine linke Hand hoch und sagst 'links' – das hilft dir, die Richtung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du dir die Himmelsrichtungen vorstellst, ist 'stânga' immer links, genau wie im Deutschen – das macht es einfach!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

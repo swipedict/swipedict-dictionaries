@@ -1,0 +1,151 @@
+{
+  "id": "ms-de-ro-ausschuetten",
+  "parent": "ms-ro-a-varsa-baf4e05d@8f144f73f88a16c7720e8ee363e9c8e6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausschütten",
+    "definition": "etwas aus einem Behälter herausleeren",
+    "pronunciation": "/ˈaʊsˌʃʏtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausschütten“ setzt sich aus der Vorsilbe „aus-“ und dem Verb „schütten“ zusammen, das aus dem Mittelhochdeutschen stammt und „gießen, ausleeren“ bedeutet.",
+        "targetText": "A verbul german „ausschütten“ este compus din prefixul „aus-“ și verbul „schütten“, care provine din germana mijlocie și înseamnă „a turna, a goli“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Anwendung in verschiedenen Kontexten, z.B. beim Gießen von Flüssigkeiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vărsa",
+    "definition": "a goli un recipient prin turnare",
+    "pronunciation": "/a vərˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vărsa“ stammt vom lateinischen „versare“ ab, was „gießen“ oder „wenden“ bedeutet; es bezeichnet das Ausgießen von Flüssigkeiten.",
+        "targetText": "Verbul românesc „a vărsa“ derivă din latină, din „versare“, care înseamnă „a turna“ sau „a răsturna“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in der Küche oder bei anderen Flüssigkeiten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "ausschütten",
+      "explanation": {
+        "sourceText": "Verwendet für das Ausgießen einer Flüssigkeit.",
+        "targetText": "Folosit pentru a turna o lichidă dintr-un recipient."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schütte das Wasser aus.",
+          "targetText": "Eu vărs apa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Behälter",
+      "targetText": "recipient"
+    },
+    {
+      "sourceText": "Eimer",
+      "targetText": "găleată"
+    },
+    {
+      "sourceText": "Schütte",
+      "targetText": "a vărsa"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aufnehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schütte das Wasser aus.",
+      "targetText": "Eu vărs apa."
+    },
+    {
+      "sourceText": "Schüttest du den Saft aus?",
+      "targetText": "Vărși sucul?"
+    },
+    {
+      "sourceText": "Er schüttet die Flüssigkeit aus.",
+      "targetText": "El varsă lichidul."
+    },
+    {
+      "sourceText": "Wir schütten die Farben aus.",
+      "targetText": "Noi vărșăm vopselele."
+    },
+    {
+      "sourceText": "Schüttet ihr das Öl aus?",
+      "targetText": "Vărsați uleiul?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schütten den Kaffee aus.",
+      "targetText": "Ei vărșează cafeaua."
+    },
+    {
+      "sourceText": "Ich habe das Wasser ausgeschüttet.",
+      "targetText": "Am vărsat apa."
+    },
+    {
+      "sourceText": "Sie schütteten das Licht aus.",
+      "targetText": "Ei vărsau lumina."
+    },
+    {
+      "sourceText": "Ich werde die Mischung ausschütten.",
+      "targetText": "Voi vărsa amestecul."
+    },
+    {
+      "sourceText": "Ich würde die Flüssigkeit ausschütten.",
+      "targetText": "Aș vărsa lichidul."
+    },
+    {
+      "sourceText": "Schütte den Kaffee aus!",
+      "targetText": "Varsă cafeaua!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „vărsa“ klingt ähnlich wie das deutsche „versenken“ – stelle dir vor, wie du etwas ausgießt und es versinkend aus dem Behälter fließt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Verbindung: „vărsa“ und „schütten“ beschreiben beide das Ausgießen – beide Wörter beginnen mit einem V- bzw. Sch-Laut, die fließende Bewegung symbolisieren."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere in der Küche, wie du Wasser oder Saft ausgießt – das hilft dir, „a vărsa“ als das passende Verb zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

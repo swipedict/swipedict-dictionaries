@@ -1,0 +1,165 @@
+{
+  "id": "ms-de-ro-klopfen",
+  "parent": "ms-ro-a-bate-1d1ae5e2@714ba1419a8a403e5442bd0bf6a6a90c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klopfen",
+    "definition": "mit der Hand oder einem Gegenstand wiederholt auf eine Fläche schlagen",
+    "pronunciation": "/ˈklɔpn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „klopfen“ hat seinen Ursprung im mittelhochdeutschen „klopfen“, was „schlagen, schlagen mit etwas“ bedeutet. Es steht im Zusammenhang mit Geräuschen, die durch Schlagen oder Klopfen erzeugt werden.",
+        "targetText": "Das deutsche Verb „klopfen“ stammt vom mittelhochdeutschen „klopfen“ ab und bezeichnet das Schlagen oder Klopfen auf eine Oberfläche."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Das Wort beschreibt sowohl physische als auch kommunikative Handlungen, wie das Anklopfen an eine Tür oder das Klopfen auf den Tisch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a bate",
+    "definition": "a lovi repetat cu mâna sau cu un obiect pe o suprafață",
+    "pronunciation": "/a ˈbate/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „bate“ stammt vom lateinischen „battĕre“, was „schlagen“ bedeutet. Es hat sich in der Rumänischen Sprache auf verschiedene Handlungshinweise ausgeweitet.",
+        "targetText": "Cuvântul românesc „bate“ provine din latină „battĕre“ („a lovi“) și s-a extins pentru a descrie diverse acțiuni de lovire."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "„A bate“ kann in vielen Kontexten verwendet werden, von physischen Aktionen bis hin zu metaphorischen Ausdrücken wie z.B. das „Schlagen eines neuen Weges“."
+  },
+  "senses": [
+    {
+      "gloss": "Klopfen zur Begrüßung",
+      "explanation": {
+        "sourceText": "'A bate' kann verwendet werden, um zur Begrüßung zu klopfen.",
+        "targetText": "„A bate“ poate fi folosit pentru a bate la salut."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie klopfen zur Begrüßung.",
+          "targetText": "Ei bat pentru salut."
+        }
+      ]
+    },
+    {
+      "gloss": "Laut klopfen",
+      "explanation": {
+        "sourceText": "'A bate' kann auch bedeutet 'laut schlagen'.",
+        "targetText": "„A bate“ poate însemna și „a lovi tare“."
+      },
+      "examples": [
+        {
+          "sourceText": "Er klopft laut an die Tür.",
+          "targetText": "El bate tare la ușă."
+        }
+      ]
+    },
+    {
+      "gloss": "Sanfte Berührung",
+      "explanation": {
+        "sourceText": "'A bate' kann auch eine sanfte Berührung bedeuten.",
+        "targetText": "„A bate“ poate însemna și o atingere ușoară."
+      },
+      "examples": [
+        {
+          "sourceText": "Er klopfte sanft auf die Schulter.",
+          "targetText": "El a bătut ușor pe umăr."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "leise",
+      "targetText": "tăcut"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich klopfe an die Tür.",
+      "targetText": "Bate la uşă."
+    },
+    {
+      "sourceText": "Klopfst du zur Begrüßung?",
+      "targetText": "Bati pentru salut?"
+    },
+    {
+      "sourceText": "Er klopft auf den Tisch.",
+      "targetText": "El bate în masă."
+    },
+    {
+      "sourceText": "Wir klopfen an die Wand.",
+      "targetText": "Batem în perete."
+    },
+    {
+      "sourceText": "Klopft ihr mal an die Tür?",
+      "targetText": "Bateţi la uşă, vă rog?"
+    },
+    {
+      "sourceText": "Sie klopfen auf die Schulter.",
+      "targetText": "Ei bat pe umăr."
+    },
+    {
+      "sourceText": "Ich habe an die Tür geklopft.",
+      "targetText": "Am bătut la uşă."
+    },
+    {
+      "sourceText": "Er klopfte an das Fenster.",
+      "targetText": "El bătea la fereastră."
+    },
+    {
+      "sourceText": "Sie werden an die Tür klopfen.",
+      "targetText": "Vor bate la uşă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Ein Merksatz: „Ich schlage an die Tür, damit man mich hört“ – so verbindest du „bate“ mit Klopfen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a bate“ durch das Geräusch des Klopfens – stell dir vor, wie jemand an die Tür „bătut“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-arztpraxis",
+  "parent": "ms-ro-cabinet-medical-c5f4210f@88ddeeea21f0eb086203ebdbe7858c94",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arztpraxis",
+    "genus": "feminine",
+    "definition": "Der Ort, an dem ein Arzt seine Patienten behandelt.",
+    "pronunciation": "/ˈaʁt͡stˌpʁaksɪs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arztpraxis“ kombiniert 'Arzt' (vom althochdeutschen 'arz' für Heiler) und 'Praxis' (aus dem Lateinischen 'prāxis', was 'Ausübung' oder 'Praxis' bedeutet).",
+        "targetText": "Cuvântul german „Arztpraxis” combină „Arzt” (din germana veche înaltă 'arz' pentru vindecător) și „Praxis” (din latină 'prāxis', însemnând 'practică' sau 'exercițiu')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cabinet medical",
+    "genus": "neuter",
+    "definition": "Locul unde un medic își tratează pacienții.",
+    "pronunciation": "/kaˈbinet meˈdikal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cabinet medical“ stammt aus dem Französischen, wobei 'cabinet' für einen kleinen Raum steht und 'medical' vom Lateinischen 'medicus' für Arzt abgeleitet ist.",
+        "targetText": "Expresia românească „cabinet medical” provine din franceză, unde 'cabinet' înseamnă o cameră mică, iar 'medical' derivă din latină 'medicus', însemnând medic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "Behandlung",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "Krankenhaus",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "Patient",
+      "targetText": "pacient"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe einen Termin in der Arztpraxis.",
+      "targetText": "Am o programare la cabinetul medical."
+    },
+    {
+      "sourceText": "Die Arztpraxis ist modern ausgestattet.",
+      "targetText": "Cabinetul medical este echipat modern."
+    },
+    {
+      "sourceText": "In der Arztpraxis arbeitet eine freundliche Ärztin.",
+      "targetText": "La cabinetul medical lucrează o doctoriță prietenoasă."
+    },
+    {
+      "sourceText": "Viele Patienten kommen täglich in die Arztpraxis.",
+      "targetText": "Mulți pacienți vin zilnic la cabinetul medical."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „cabinet medical“ klingt wie das französische Original, was dir hilft, den Begriff als Arztpraxis zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „medical“ erinnert an das deutsche Wort „medizinisch“, was die Verbindung zum Arzt herstellt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „cabinet“ im Rumänischen nicht nur Möbel bedeutet, sondern auch einen Raum, z.B. für Ärzte."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst in ein kleines „cabinet“ – ein Raum, in dem der Arzt arbeitet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

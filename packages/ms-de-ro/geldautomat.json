@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-geldautomat",
+  "parent": "ms-ro-bancomat-3e850cac@7cb3283dddc65fee3fd28cc4078b08b7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geldautomat",
+    "genus": "masculine",
+    "definition": "Ein Gerät, das automatisch Bargeld auszahlt, meist an Banken oder öffentlichen Orten.",
+    "pronunciation": "/ˈɡɛltˌʔaʊ̯toˌmaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Geldautomat“ setzt sich aus 'Geld' und 'Automat' zusammen, wobei 'Automat' vom griechischen 'automatos' stammt, was 'selbstbewegend' bedeutet.",
+        "targetText": "Cuvântul german „Geldautomat” este compus din 'Geld' și 'Automat', unde 'Automat' provine din grecescul 'automatos', care înseamnă 'care se mișcă singur'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bancomat",
+    "genus": "neuter",
+    "definition": "Aparat automat pentru retragerea banilor lichizi de la bancă.",
+    "pronunciation": "/ban.koˈmat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bancomat“ ist eine Zusammensetzung aus 'bancă' (Bank) und 'automat', entlehnt aus dem Italienischen und Französischen.",
+        "targetText": "Cuvântul românesc „bancomat” este o compunere din 'bancă' și 'automat', împrumutat din italiană și franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Geld abheben",
+      "targetText": "a retrage bani"
+    },
+    {
+      "sourceText": "Karte",
+      "targetText": "card"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe Geld am Geldautomaten abgehoben.",
+      "targetText": "Am retras bani de la bancomat."
+    },
+    {
+      "sourceText": "Der Geldautomat ist rund um die Uhr geöffnet.",
+      "targetText": "Bancomatul este deschis non-stop."
+    },
+    {
+      "sourceText": "Bitte stecke deine Karte in den Geldautomaten.",
+      "targetText": "Te rog introdu cardul în bancomat."
+    },
+    {
+      "sourceText": "Der Geldautomat gibt nur Scheine aus.",
+      "targetText": "Bancomatul dă doar bancnote."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'bancomat' setzt sich aus 'bancă' (Bank) und 'automat' zusammen – so kannst du es leicht mit Geldautomaten verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bancomat' klingt fast wie das deutsche 'Bankomat', ein Lehnwort, das du dir gut merken kannst."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-mat', ähnlich wie 'automat', was dir hilft, die Bedeutung als Maschine zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Geldautomat' und 'bancomat' als Geräte, die automatisch Geld ausgeben."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "ms-de-ro-zitieren",
+  "parent": "ms-ro-a-cita-acd81726@5366889efa4d5e642d291688f5703687",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zitieren",
+    "definition": "etwas anführen oder einen Text oder eine Äußerung eines anderen wiedergeben",
+    "pronunciation": "/tsiˈtiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „citare“, was „rufen“ oder „heraufbeschwören“ bedeutet. Die sprachliche Verwendung kam über das mittelhochdeutsche „zitiere“ ins Deutsche.",
+        "targetText": "Verbul german „zitieren“ provine din latină „citare“, care înseamnă „a chema“ sau „a invoca“, intrat în germană prin mittelhochdeutsch „zitiere“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Es wird häufig in akademischen und literarischen Kontexten verwendet, wenn auf Quellen verwiesen wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cita",
+    "definition": "a menționa sau a reda un text sau o afirmație a altcuiva",
+    "pronunciation": "/a t͡ʃiˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a cita“ stammt vom lateinischen „citare“, was „rufen“ oder „nennen“ bedeutet. Es wird im akademischen Kontext verwendet, um Quellenangaben zu machen und ist verwandt mit „citat“ (Zitat).",
+        "targetText": "Verbul românesc „a cita“ derivă din latină „citare“, însemnând „a chema“ sau „a numi“, folosit în contexte academice pentru a face referințe, legat de „citat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Wichtig für akademisches Schreiben und Bibliographien."
+  },
+  "senses": [
+    {
+      "gloss": "zitieren (als Beweis für ein Argument)",
+      "explanation": {
+        "sourceText": "Eingesetzt, um ein Argument zu stärken.",
+        "targetText": "Folosit pentru a susține un argument."
+      },
+      "examples": [
+        {
+          "sourceText": "Er zitierte oft in seinen Arbeiten.",
+          "targetText": "El cita adesea în lucrările sale."
+        }
+      ]
+    },
+    {
+      "gloss": "zitieren (Verweis auf Quelle)",
+      "explanation": {
+        "sourceText": "Verwendet, um auf akademische Quellen hinzuweisen.",
+        "targetText": "Folosit pentru a face referire la surse academice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich zitiere die Studie.",
+          "targetText": "Eu citez studiul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Autor",
+      "targetText": "autor"
+    },
+    {
+      "sourceText": "Quellen",
+      "targetText": "surse"
+    },
+    {
+      "sourceText": "Text",
+      "targetText": "text"
+    },
+    {
+      "sourceText": "Zitat",
+      "targetText": "citat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verbergen",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zitiere den Autor.",
+      "targetText": "Eu citez autorul."
+    },
+    {
+      "sourceText": "Zitierst du die Studie?",
+      "targetText": "Citezi studiul?"
+    },
+    {
+      "sourceText": "Der Schüler zitiert das Buch.",
+      "targetText": "Elevul citează cartea."
+    },
+    {
+      "sourceText": "Wir zitieren oft meine Arbeit.",
+      "targetText": "Noi cităm adesea lucrarea mea."
+    },
+    {
+      "sourceText": "Zitiert ihr die Quelle?",
+      "targetText": "Citați sursa?"
+    },
+    {
+      "sourceText": "Sie (Pl.) zitieren mehrere Quellen.",
+      "targetText": "Ei citesc mai multe surse."
+    },
+    {
+      "sourceText": "Ich habe die Passage zitiert.",
+      "targetText": "Am citat pasajul."
+    },
+    {
+      "sourceText": "Sie haben das Zitat gefunden.",
+      "targetText": "Au găsit citatul."
+    },
+    {
+      "sourceText": "Er zitierte oft in seinen Arbeiten.",
+      "targetText": "El cita adesea în lucrările sale."
+    },
+    {
+      "sourceText": "Ich hatte das Buch bereits zitiert, bevor ich das Gespräch begann.",
+      "targetText": "Citasem deja cartea, înainte să încep conversația."
+    },
+    {
+      "sourceText": "Ich werde die Quellen zitieren.",
+      "targetText": "Voi cita sursele."
+    },
+    {
+      "sourceText": "Sie wird das Zitat erklären.",
+      "targetText": "Ea o să explice citatul."
+    },
+    {
+      "sourceText": "Ich würde es zitieren, wenn ich könnte.",
+      "targetText": "Aș cita, dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du die Quellen zitierst.",
+      "targetText": "Este necesar să citezi sursele."
+    },
+    {
+      "sourceText": "Zitiere die relevante Passage!",
+      "targetText": "Citează pasajul relevant!"
+    },
+    {
+      "sourceText": "Zitieren Sie die Quellen!",
+      "targetText": "Citați sursele!"
+    },
+    {
+      "sourceText": "Das zitierte Werk ist von hoher Qualität.",
+      "targetText": "Lucrarea citată este de înaltă calitate."
+    },
+    {
+      "sourceText": "Die Quellen sind zitiert worden.",
+      "targetText": "Sursele au fost citate."
+    },
+    {
+      "sourceText": "Indem er sie zitierte, stärkte er sein Argument.",
+      "targetText": "Citându-le, și-a întărit argumentul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „citezi“ (du) erinnert an „citare“ – diese Verbindung hilft dir bei der Konjugation und beim Lernen!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das „Zitat“ als wichtigen Beleg für Argumente – so macht das Lernen von „a cita“ mehr Spaß!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „zitieren“ und „a cita“ beide vom lateinischen „citare“ abstammen, was „rufen“ oder „nennen“ bedeutet – so bleibt der Fokus auf dem Nennen von Quellen!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

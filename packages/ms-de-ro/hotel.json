@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-hotel",
+  "parent": "ms-ro-hotel-03535ed9@deee4451e6bfcd9c73e8493ee5ad1821",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hotel",
+    "genus": "neuter",
+    "definition": "Ein Gebäude, das Gästen gegen Bezahlung Unterkunft bietet.",
+    "pronunciation": "/hoˈtɛl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Hotel“ stammt aus dem Französischen 'hôtel', das ursprünglich ein großes Stadthaus oder eine Herberge bezeichnete.",
+        "targetText": "Cuvântul german „Hotel” provine din franceza 'hôtel', care inițial desemna o casă mare în oraș sau o han."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "hotel",
+    "genus": "neuter",
+    "definition": "O clădire care oferă cazare contra cost oaspeților.",
+    "pronunciation": "/hoˈtel/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „hotel“ ist ein Lehnwort aus dem Französischen 'hôtel', das die gleiche Bedeutung hat.",
+        "targetText": "Cuvântul românesc „hotel” este un împrumut din franceza 'hôtel', cu același sens."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gasthaus",
+      "targetText": "pensiune"
+    },
+    {
+      "sourceText": "Rezeption",
+      "targetText": "recepție"
+    },
+    {
+      "sourceText": "Übernachtung",
+      "targetText": "cazare"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wir haben ein Zimmer im Hotel gebucht.",
+      "targetText": "Am rezervat o cameră la hotel."
+    },
+    {
+      "sourceText": "Das Hotel liegt im Stadtzentrum.",
+      "targetText": "Hotelul se află în centrul orașului."
+    },
+    {
+      "sourceText": "Im Hotel gibt es ein Restaurant.",
+      "targetText": "La hotel există un restaurant."
+    },
+    {
+      "sourceText": "Die Übernachtung im Hotel kostet 50 Euro.",
+      "targetText": "Cazarea la hotel costă 50 de euro."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'hotel' ist ein gutes Beispiel für ein internationales Lehnwort, das in vielen Sprachen ähnlich klingt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'hotel' ist im Rumänischen und Deutschen gleich – das macht das Lernen einfach."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich, dass 'hotel' aus dem Französischen stammt, wo es 'großes Haus' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du buchst ein Zimmer in einem 'hotel' – das Wort klingt international."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

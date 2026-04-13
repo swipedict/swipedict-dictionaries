@@ -1,0 +1,186 @@
+{
+  "id": "ms-de-ro-wechseln",
+  "parent": "ms-ro-a-schimba-c59ad0c0@8c744b3e3ee4c93477295b477048b43a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wechseln",
+    "definition": "etwas gegen etwas anderes eintauschen oder ersetzen",
+    "pronunciation": "/ˈvɛksl̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „wechseln“ stammt vom mittelhochdeutschen „wechslēn“, verwandt mit „wandeln“ und „wechseln“, und geht auf das althochdeutsche „wehsal“ (Wechsel) zurück.",
+        "targetText": "Verbul german „wechseln“ provine din germana mijlocie „wechslēn“, înrudit cu „wandeln“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, um den Austausch oder die Veränderung von Dingen oder Zuständen zu beschreiben, z.B. „Die Kleider wechseln“. Das Wort \"Wechsel\" hat auch eine spezielle wirtschaftliche Bedeutung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a schimba",
+    "definition": "a înlocui ceva cu altceva sau a face un schimb",
+    "pronunciation": "/a ʃkimˈba/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a schimba“ stammt vom lateinischen „cambiare“, was „ändern“ oder „auswechseln“ bedeutet. Es hat sich im Rumänischen erhalten und wird in vielfältigen Kontexten verwendet, z.B. „schimb valutar“ (Währungswechsel).",
+        "targetText": "Verbul românesc „a schimba“ provine din latină vulgară „cambiare“, cu sensul de a schimba sau înlocui."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Verwendung in der Praxis: „Ich wechsle die Reifen“ („Eu schimb anvelopele“)."
+  },
+  "senses": [
+    {
+      "gloss": "Bank / Sitzbank",
+      "explanation": {
+        "sourceText": "Auch für die Sitzbank (oft im Park).",
+        "targetText": "De asemenea, pentru o bancă de șezut (de obicei în parc)."
+      },
+      "examples": [
+        {
+          "sourceText": "Setzen wir uns auf die Bank.",
+          "targetText": "Să ne așezăm pe bancă."
+        }
+      ]
+    },
+    {
+      "gloss": "Sandbank",
+      "explanation": {
+        "sourceText": "Eine 'Sandbank' ist 'banc' (sächlich).",
+        "targetText": "O bancă de nisip se numește „banc“ (neutru)."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Schiff lief auf eine Bank.",
+          "targetText": "Nava a lovit un banc."
+        }
+      ]
+    },
+    {
+      "gloss": "Ufer / Flussufer",
+      "explanation": {
+        "sourceText": "Achtung: Für 'Flussufer' verwendet man 'mal' (sächlich).",
+        "targetText": "Atenție: pentru malul râului se folosește „mal“ (neutru)."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Boot liegt an der Bank.",
+          "targetText": "Barca este pe mal."
+        }
+      ]
+    },
+    {
+      "gloss": "Wechsel (Finanzinstitut)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für Geldinstitute.",
+        "targetText": "Ca și în germană, se referă la instituții financiare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gehe zur Wechsel.",
+          "targetText": "Merg la bancă."
+        },
+        {
+          "sourceText": "Die Wechsel schließen um 17 Uhr.",
+          "targetText": "Banca închide la ora 17."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Farbe",
+      "targetText": "culoare"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Kleidung",
+      "targetText": "îmbrăcăminte"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beibehalten",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wechsle die Batteries.",
+      "targetText": "Eu schimb bateriile."
+    },
+    {
+      "sourceText": "Wechselst du den Platz?",
+      "targetText": "Schimbi locul?"
+    },
+    {
+      "sourceText": "Er wechselt die Kleidung.",
+      "targetText": "El schimbă îmbrăcămintea."
+    },
+    {
+      "sourceText": "Wir wechseln die Strategie.",
+      "targetText": "Noi schimbăm strategia."
+    },
+    {
+      "sourceText": "Wechselt ihr die Musik?",
+      "targetText": "Schimbați voi muzica?"
+    },
+    {
+      "sourceText": "Sie wechseln die Route.",
+      "targetText": "Ei schimbă ruta."
+    },
+    {
+      "sourceText": "Ich habe die Öl gewechselt.",
+      "targetText": "Am schimbat uleiul."
+    },
+    {
+      "sourceText": "Er wechselte häufig das Thema.",
+      "targetText": "El schimba des subiectul frecvent."
+    },
+    {
+      "sourceText": "Ich werde die Kanäle wechseln.",
+      "targetText": "Voi schimba canalele."
+    },
+    {
+      "sourceText": "Wechsel die Richtung!",
+      "targetText": "Schimbă direcția!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische „cambiare“ steckt in „schimba“ – denk an den „Kampf“ (kampf = change) beim Wechseln."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „schimba“ klingt ähnlich wie das deutsche „schimpfen“ – stelle dir vor, du „schimpfst“ und „wechselst“ gleichzeitig die Meinung!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

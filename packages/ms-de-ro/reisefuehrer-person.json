@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-reisefuehrer-person",
+  "parent": "ms-ro-ghid-turistic-2dbaf884@b3df72bf9f52e0bd09973b3031a61e41",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Reiseführer",
+    "genus": "masculine",
+    "definition": "Eine Person, die Touristen oder Reisende begleitet und ihnen Informationen über Sehenswürdigkeiten, Geschichte und Kultur gibt.",
+    "pronunciation": "/ˈʁaɪ̯zəˌfyːʁɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Reiseführer“ setzt sich zusammen aus ‚Reise‘ (vom althochdeutschen 'rīsa', abgeleitet von der germanischen Wurzel für ‚reisen‘) und ‚Führer‘ (vom althochdeutschen 'fuorar', was ‚jemand, der führt‘ bedeutet).",
+        "targetText": "Cuvântul german „Reiseführer“ este compus din „Reise“ (călătorie), provenit din germana veche înaltă 'rīsa', și „Führer“ (ghid), derivat din 'fuorar', care înseamnă 'cel care conduce'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ghid turistic",
+    "genus": "neuter",
+    "definition": "O persoană care însoțește turiștii sau călătorii și le oferă informații despre obiective turistice, istorie și cultură.",
+    "pronunciation": "/ɡhid tuˈristik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ghid“ stammt vom lateinischen 'guidare' ab, entlehnt über das Italienische 'guidare', was ‚führen‘ bedeutet. „Turistic“ leitet sich vom französischen 'touristique' ab, das auf das französische Wort 'tour' (Rundgang) zurückgeht.",
+        "targetText": "Cuvântul românesc „ghid“ provine din latinescul 'guidare', preluat prin italiană, însemnând 'a conduce'. „Turistic“ derivă din francezul 'touristique', legat de 'tour' (tur, plimbare)."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Führung",
+      "targetText": "ghidaj"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Stadtführer",
+      "targetText": "ghid de oraș"
+    },
+    {
+      "sourceText": "Tourist",
+      "targetText": "turist"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Reiseführer erklärte die Geschichte der alten Stadt.",
+      "targetText": "Ghidul turistic a explicat istoria orașului vechi."
+    },
+    {
+      "sourceText": "Wir haben einen Reiseführer für unsere Wanderung engagiert.",
+      "targetText": "Am angajat un ghid turistic pentru drumeția noastră."
+    },
+    {
+      "sourceText": "Ein guter Reiseführer kennt viele interessante Orte.",
+      "targetText": "Un ghid turistic bun cunoaște multe locuri interesante."
+    },
+    {
+      "sourceText": "Der Reiseführer führte die Gruppe sicher durch die Stadt.",
+      "targetText": "Ghidul turistic a condus grupul în siguranță prin oraș."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Adjektiv „turistic“ erinnert an das deutsche Wort „Tourist“ – beide beziehen sich auf Reisen und Tourismus."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ghid“ klingt ähnlich wie das englische „guide“, was dir hilft, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein „G-H-I-D“ (wie ein Akronym) führt dich auf einer Tour – so merkst du dir „ghid“ als Führer."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ghid turistic“ mit dem Bild eines Reiseführers, der dir auf einer Reise hilft, damit du die Wortkombination leicht behältst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

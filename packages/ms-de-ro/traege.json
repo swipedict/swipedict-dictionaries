@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-traege",
+  "parent": "ms-ro-lenes-a8b0bb68@0ccc4ce7cf4fbede321254a2701fc627",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "träge",
+    "definition": "langsam, energielos oder wenig aktiv in Bewegung oder Denken",
+    "pronunciation": "/ˈtʁɛːɡə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „träge“ stammt vom althochdeutschen „trag“, was „schwerfällig“ oder „langsam“ bedeutete. Es beschreibt einen Zustand fehlender Energie oder Aktivität.",
+        "targetText": "Cuvântul german „träge“ provine din althochdeutsch „trag“, însemnând „greoi” sau „lent”, și descrie o stare de lipsă de energie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Träge“ kann sowohl körperliche als auch geistige Langsamkeit oder Antriebslosigkeit bezeichnen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "leneș",
+    "genus": "masculine",
+    "definition": "care evită efortul, este lipsit de energie sau activitate",
+    "pronunciation": "/le'neʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „leneș“ stammt vom Substantiv „lene“ (Faulheit), das vom lateinischen „lenis“ (mild, weich) abgeleitet sein könnte. Die genaue Herkunft ist nicht völlig gesichert.",
+        "targetText": "Cuvântul „leneș” provine din substantivul „lene” (lenevie), posibil derivat din latinescul „lenis” (blând, moale). Originea exactă este incertă."
+      },
+      "source": "Dicționarul Etimologic Român, linguistic sources"
+    },
+    "additional": "„Leneș“ poate descrie atât o stare temporară de pasivitate, cât și o trăsătură de caracter."
+  },
+  "senses": [
+    {
+      "gloss": "träge / langsam",
+      "explanation": {
+        "sourceText": "„Träge“ kann auch „langsam“ oder „träge in der Bewegung“ bedeuten.",
+        "targetText": "„Träge” poate însemna și „lent” sau „greoi în mișcare”."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fühle mich heute ganz träge.",
+          "targetText": "Mă simt destul de leneș astăzi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Faul",
+      "targetText": "leneș"
+    },
+    {
+      "sourceText": "langsam",
+      "targetText": "încet"
+    },
+    {
+      "sourceText": "träge Bewegung",
+      "targetText": "mișcare leneșă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aktiv",
+      "targetText": "activ"
+    },
+    {
+      "sourceText": "fleißig",
+      "targetText": "sârguincios"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "An trägen Tagen kann ich nie wirklich produktiv sein.",
+      "targetText": "În zilele leneșe nu sunt niciodată cu adevărat productiv."
+    },
+    {
+      "sourceText": "Sie fühlte sich an diesem trägen Tag erschöpft und müde.",
+      "targetText": "Se simțea epuizată și obosită în această zi leneșă."
+    },
+    {
+      "sourceText": "Er hat einen trägen Eindruck hinterlassen.",
+      "targetText": "A lăsat o impresie leneșă."
+    },
+    {
+      "sourceText": "Die träge Bewegung des Plans fiel allen auf.",
+      "targetText": "Mișcarea leneșă a planului a fost observată de toți."
+    },
+    {
+      "sourceText": "Ich bin oft träge, wenn es draußen regnet.",
+      "targetText": "Sunt adesea leneș când plouă afară."
+    },
+    {
+      "sourceText": "Er zeigte sich träge bei der Arbeit.",
+      "targetText": "S-a arătat leneș la muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Ein lustiger Gedanke: Wenn ein Hund träge ist, will er vielleicht einfach nur ein Nickerchen machen!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Verbindung zur „Faulheit“ im Rumänischen – das hilft beim Einprägen!"
+    },
+    {
+      "lang": "de",
+      "text": "Suche dir Synonyme in beiden Sprachen, wie „faul“, „müde“, „inactiv“, um den Begriff besser zu verankern!"
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „träge“ hörst, stell dir vor, wie du dich auf das Sofa fallen lässt – das Bild ist prägnant!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

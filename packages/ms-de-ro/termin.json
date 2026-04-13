@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-termin",
+  "parent": "ms-ro-termin-efafba9c@f05e2c6d97fbd592e6f3ac2316ce42a7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Termin",
+    "genus": "masculine",
+    "definition": "Ein festgelegter Zeitpunkt oder eine Frist für ein Ereignis, eine Verabredung oder eine Verpflichtung.",
+    "pronunciation": "/tɛrˈmiːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Termin“ stammt vom lateinischen 'terminus' ab, was 'Grenze' oder 'Endpunkt' bedeutet. Im Deutschen wurde es auf die Bedeutung eines festgesetzten Zeitpunkts übertragen.",
+        "targetText": "Cuvântul german „Termin” provine din latină, de la 'terminus', care înseamnă 'graniță' sau 'punct final'. În germană, sensul s-a extins la 'moment fixat' sau 'termen limită'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "termin",
+    "genus": "neuter",
+    "definition": "Un moment stabilit sau o dată limită pentru un eveniment, o întâlnire sau o obligație.",
+    "pronunciation": "/terˈmin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „termin” wurde aus dem Lateinischen 'terminus' entlehnt, das 'Grenze' oder 'Endpunkt' bedeutet. Es wird im Rumänischen für festgelegte Zeitpunkte oder Fristen verwendet.",
+        "targetText": "Cuvântul românesc „termin” este împrumutat din latină, de la 'terminus', care înseamnă 'graniță' sau 'punct final'. Este folosit pentru a desemna momente sau termene stabilite."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Datum",
+      "targetText": "dată"
+    },
+    {
+      "sourceText": "Frist",
+      "targetText": "termen"
+    },
+    {
+      "sourceText": "Verabredung",
+      "targetText": "întâlnire"
+    },
+    {
+      "sourceText": "Zeitpunkt",
+      "targetText": "moment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unbestimmtheit",
+      "targetText": "incertitudine"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe einen Termin beim Arzt morgen.",
+      "targetText": "Am un termin la doctor mâine."
+    },
+    {
+      "sourceText": "Der Termin für die Abgabe der Arbeit ist nächste Woche.",
+      "targetText": "Termenul pentru predarea lucrării este săptămâna viitoare."
+    },
+    {
+      "sourceText": "Bitte halten Sie den Termin ein.",
+      "targetText": "Vă rog să respectați termenul."
+    },
+    {
+      "sourceText": "Wir müssen einen neuen Termin vereinbaren.",
+      "targetText": "Trebuie să stabilim un nou termin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'termin' klingt fast genauso wie im Deutschen – das hilft dir, es dir leicht zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'termin' wird im Rumänischen genauso verwendet wie im Deutschen, also kannst du es oft direkt übernehmen – das macht das Lernen einfacher!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Termin' ist wie eine 'Termin'grenze, die du nicht überschreiten darfst – so wie das lateinische 'terminus' ursprünglich 'Grenze' bedeutete."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an einen Kalender denkst, kannst du dir vorstellen, dass jeder 'termin' ein festgelegter Punkt ist, der wie ein 'Terminus' (Endpunkt) markiert ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

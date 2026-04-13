@@ -1,0 +1,173 @@
+{
+  "id": "ms-de-ro-besichtigen",
+  "parent": "ms-ro-a-vizita-cde5e05b@2db3262c065549844d765fdd748a21d5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besichtigen",
+    "definition": "eine Sehenswürdigkeit oder einen Ort anschauen oder besuchen",
+    "pronunciation": "/bəˈzɪçtɪɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kommt von „be-“ und „sichten“, was „etwas in Sicht nehmen“ oder „prüfen“ bedeutet.",
+        "targetText": "Das deutsche Verb „besichtigen“ setzt sich zusammen aus „be-“ (intensiv) und „sichten“ (sehen, prüfen), was das genaue Betrachten oder Besuchen von Orten bedeutet."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb wird hauptsächlich in touristischen Kontexten verwendet, um Orte oder Monumente zu erkunden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vizita",
+    "definition": "a vedea sau a vizita o atracție turistică sau un loc",
+    "pronunciation": "/a vi.ziˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt aus dem lateinischen „visitare“, das „besuchen“ bedeutet, und „visere“ (herumgehen, erkunden).",
+        "targetText": "Verbul „a vizita“ provine din latină, din „visitare“, care înseamnă a vizita sau a merge să vezi un loc, derivat din „visere“ (a privi, a explora)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird in der Regel verwendet, um Orte oder Sehenswürdigkeiten zu erkunden und kann auch für formelle Besuche eingesetzt werden."
+  },
+  "senses": [
+    {
+      "gloss": "Den historischen Ort besichtigen",
+      "explanation": {
+        "sourceText": "Deutet darauf hin, dass man historische Stätten besucht.",
+        "targetText": "Indică vizitarea unor locuri istorice."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir besichtigen die Ruinen.",
+          "targetText": "Noi vizităm ruinele."
+        }
+      ]
+    },
+    {
+      "gloss": "Museum besichtigen",
+      "explanation": {
+        "sourceText": "Verwendet für den Besuch eines Museums.",
+        "targetText": "Folosit pentru a vizita un muzeu."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gehe ins Museum.",
+          "targetText": "Mă duc la muzeu."
+        }
+      ]
+    },
+    {
+      "gloss": "Stadt besichtigen",
+      "explanation": {
+        "sourceText": "Gibt an, dass man eine Stadt erkundet.",
+        "targetText": "Indică explorarea unui oraș."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich besichtige die Stadt.",
+          "targetText": "Eu vizitez orașul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Museum",
+      "targetText": "muzeu"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    },
+    {
+      "sourceText": "Tour",
+      "targetText": "tur"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "übersehen",
+      "targetText": "ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich besichtige die alte Kirche.",
+      "targetText": "Eu vizitez biserica veche."
+    },
+    {
+      "sourceText": "Besichtigst du das Museum?",
+      "targetText": "Vizitezi muzeul?"
+    },
+    {
+      "sourceText": "Der Tourist besichtigt die Stadt.",
+      "targetText": "Turistul vizitează orașul."
+    },
+    {
+      "sourceText": "Wir besichtigen die Sehenswürdigkeiten.",
+      "targetText": "Noi vizităm obiectivele turistice."
+    },
+    {
+      "sourceText": "Besichtigt ihr die Schlösser?",
+      "targetText": "Vizitați castelele?"
+    },
+    {
+      "sourceText": "Sie besichtigen die Ausstellung.",
+      "targetText": "Ei vizitează expoziția."
+    },
+    {
+      "sourceText": "Ich habe die Ruinen besichtigt.",
+      "targetText": "Am vizitat ruinele."
+    },
+    {
+      "sourceText": "Er besichtigte das neue Gebäude jeden Tag.",
+      "targetText": "El vizita noua clădire în fiecare zi."
+    },
+    {
+      "sourceText": "Ich werde das Konzert morgen besichtigen.",
+      "targetText": "Voi vizita concertul mâine."
+    },
+    {
+      "sourceText": "Ich würde das Schloss besichtigen, wenn ich Zeit hätte.",
+      "targetText": "Aș vizita castelul dacă aș avea timp."
+    },
+    {
+      "sourceText": "Besichtige die Ausstellung!",
+      "targetText": "Vizitează expoziția!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a vizita“ klingt ähnlich wie das französische „visiter“ – denk an deinen Urlaub, wenn du Sehenswürdigkeiten besichtigst!"
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird „vizita“ nicht nur für Sehenswürdigkeiten, sondern auch für soziale Besuche verwendet – nutze das Wort vielseitig!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

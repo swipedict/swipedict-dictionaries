@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-zubereiten",
+  "parent": "ms-ro-a-prepara-aaa12cf2@c3b8acfd2adb7530052d200c40fa7e7f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zubereiten",
+    "definition": "ein Gericht oder eine Mahlzeit herstellen oder kochen",
+    "pronunciation": "/ˈt͡suːbəˌʁaɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Von „zu-“, was eine Orientierung oder Hinwendung angibt, und „bereiten“, was so viel wie „vorbereiten“ bedeutet, und in mittelhochdeutschen Formen zu finden ist.",
+        "targetText": "Verbul german „zubereiten“ este compus din prefixul „zu-“ (direcție) și „bereiten“ (a pregăti), cu origini în mittelhochdeutsch."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Weit verbreitet in kulinarischen Kontexten, oft bei der Zubereitung von Speisen und Getränken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a prepara",
+    "definition": "a pregăti sau a găti un fel de mâncare sau o masă",
+    "pronunciation": "/a prepˈa.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom lateinischen „preparare“, was „vorbereiten“ oder „bereitstellen“ bedeutet. Es vereint die Bedeutung des Vorbereitens und Bereitstellens, um etwas Nutzbares zu schaffen.",
+        "targetText": "Verbul românesc „a prepara“ provine din latină „preparare“, însemnând „a pregăti“ sau „a pune la dispoziție“, combinând ideea de pregătire și oferire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Häufig verwendet im kulinarischen Bereich, bezieht sich auf das Zubereiten von Mahlzeiten und Getränken."
+  },
+  "senses": [
+    {
+      "gloss": "Küchentechnik",
+      "explanation": {
+        "sourceText": "Es bezieht sich auf die Techniken, die in der Küche verwendet werden.",
+        "targetText": "Se referă la tehnicile folosite în bucătărie."
+      },
+      "examples": [
+        {
+          "sourceText": "Er musste lernen, wie man richtig zubereitet.",
+          "targetText": "A trebuit să învețe cum se prepară corect."
+        }
+      ]
+    },
+    {
+      "gloss": "Vorbereiten",
+      "explanation": {
+        "sourceText": "Das Wort wird oft verwendet, um den Prozess des Kochens oder des Vorbereitens von Essen zu beschreiben.",
+        "targetText": "Cuvânt folosit pentru a descrie procesul de gătit sau pregătire a mâncării."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bereite das Frühstück zu.",
+          "targetText": "Eu prepar micul dejun."
+        },
+        {
+          "sourceText": "Sie bereitet das Abendessen zu.",
+          "targetText": "Ea prepară cina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gericht",
+      "targetText": "fel de mâncare"
+    },
+    {
+      "sourceText": "Kochen",
+      "targetText": "găti"
+    },
+    {
+      "sourceText": "Rezept",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "Zutaten",
+      "targetText": "ingrediente"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verderben",
+      "targetText": "strica"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bereite das Frühstück zu.",
+      "targetText": "Eu prepar micul dejun."
+    },
+    {
+      "sourceText": "Bereitest du das Mittagessen vor?",
+      "targetText": "Preparați prânzul?"
+    },
+    {
+      "sourceText": "Sie bereitet das Abendessen zu.",
+      "targetText": "Ea prepară cina."
+    },
+    {
+      "sourceText": "Wir bereiten das Menü zu.",
+      "targetText": "Noi preparăm meniul."
+    },
+    {
+      "sourceText": "Bereitet ihr die Zutaten vor?",
+      "targetText": "Preparați ingredientele?"
+    },
+    {
+      "sourceText": "Sie (Pl.) bereiten die Getränke vor.",
+      "targetText": "Ei prepară băuturile."
+    },
+    {
+      "sourceText": "Ich habe das Rezept vorbereitet.",
+      "targetText": "Am preparat rețeta."
+    },
+    {
+      "sourceText": "Sie haben die Zutaten vorbereitet.",
+      "targetText": "Au preparat ingredientele."
+    },
+    {
+      "sourceText": "Er bereitete die Speisen jeden Abend zu.",
+      "targetText": "El prepara mâncarea în fiecare seară."
+    },
+    {
+      "sourceText": "Ich hatte das Menü schon vorbereitet, bevor sie ankamen.",
+      "targetText": "Preparasem deja meniul înainte să ajungă."
+    },
+    {
+      "sourceText": "Ich werde das Fest vorbereiten.",
+      "targetText": "Voi pregăti sărbătoarea."
+    },
+    {
+      "sourceText": "Sie wird das Abendessen vorbereiten.",
+      "targetText": "Ea o să prepare cina."
+    },
+    {
+      "sourceText": "Ich würde es zubereiten, wenn ich die Zeit hätte.",
+      "targetText": "Aș pregăti, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du das Essen zubereitest.",
+      "targetText": "Este necesar să pregătești mâncarea."
+    },
+    {
+      "sourceText": "Bereite das Dessert vor!",
+      "targetText": "Pregătește desertul!"
+    },
+    {
+      "sourceText": "Bereiten Sie das Essen vor!",
+      "targetText": "Pregătiți mâncarea!"
+    },
+    {
+      "sourceText": "Das zubereitete Gericht ist köstlich.",
+      "targetText": "Mâncarea preparată este delicioasă."
+    },
+    {
+      "sourceText": "Das Essen ist zubereitet worden.",
+      "targetText": "Mâncarea a fost preparată."
+    },
+    {
+      "sourceText": "Indem ich das Essen zubereitete, dachte ich an das Rezept.",
+      "targetText": "Preparând mâncarea, m-am gândit la rețetă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Zubereiten“ und „a prepara“ sind eng verwandt – stelle dir vor, wie du ein Gericht vorbereitest, um das Wort zu verankern!"
+    },
+    {
+      "lang": "de",
+      "text": "Beachte die rumänischen Verbendungen wie „-ez“, „-i“, „-ă“ – sie helfen dir, die Konjugation von „a prepara“ zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Koche selbst ein einfaches Gericht („prepara“) – so lernst du das Wort spielerisch und praktisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

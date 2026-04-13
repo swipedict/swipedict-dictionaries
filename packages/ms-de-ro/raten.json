@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-raten",
+  "parent": "ms-ro-a-ghici-5f39f89f@73f188508af37aca186aba7d425f446e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "raten",
+    "definition": "einen Vorschlag machen oder jemandem etwas empfehlen",
+    "pronunciation": "/ˈʁaːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „raten“, was „raten“ oder „beraten“ bedeutet, verwandt mit althochdeutschem „rātōn“.",
+        "targetText": "Verbul german „raten“ provine din mijlocul germanului „raten“, legat de althochdeutsch „rātōn“, care înseamnă a sfătui sau a ghici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet, wenn man Vermutungen äußert oder Ratschläge gibt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ghici",
+    "definition": "a face o sugestie sau a recomanda cuiva ceva",
+    "pronunciation": "/a ˈɡi.t͡ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „ghici“ stammt vom lateinischen „excidere“ ab, was „herausfallen“ oder „abfallen“ bedeutet. Im übertragenen Sinne wird es verwendet, um „raten“ oder das Erraten von etwas auszudrücken.",
+        "targetText": "Cuvântul românesc „ghici“ derivă din latină „excidere“, care înseamnă a cădea sau a ieși, folosit metaforic pentru a ghici."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Häufig im Kontext von Spielen oder Rätseln, wird oft verwendet, um eine Vermutung zu äußern."
+  },
+  "senses": [
+    {
+      "gloss": "Ratschlag",
+      "explanation": {
+        "sourceText": "'Ghici' kann auch als Ratschlag angesehen werden.",
+        "targetText": "„Ghici“ poate fi folosit și ca un sfat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich rate dir, nicht zu zögern.",
+          "targetText": "Îți ghicesc să nu eziți."
+        }
+      ]
+    },
+    {
+      "gloss": "Schnelligkeit",
+      "explanation": {
+        "sourceText": "Das Wort wird auch für schnelles Raten verwendet.",
+        "targetText": "Cuvântul este folosit și pentru a exprima ghicirea rapidă."
+      },
+      "examples": [
+        {
+          "sourceText": "Er rät schneller als ich.",
+          "targetText": "El ghicește mai repede decât mine."
+        }
+      ]
+    },
+    {
+      "gloss": "Vermutung",
+      "explanation": {
+        "sourceText": "'Ghici' wird auch im Sinne von 'Vermutung aufstellen' verwendet.",
+        "targetText": "„Ghici“ se folosește și pentru a face o presupunere."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich rate, dass es morgen regnet.",
+          "targetText": "Ghicesc că mâine va ploua."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Beratung",
+      "targetText": "consultanță"
+    },
+    {
+      "sourceText": "Empfehlung",
+      "targetText": "recomandare"
+    },
+    {
+      "sourceText": "Rat",
+      "targetText": "consiliu"
+    },
+    {
+      "sourceText": "Tip",
+      "targetText": "sfat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fragen",
+      "targetText": "a întreba"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rate die richtige Antwort.",
+      "targetText": "Eu ghicesc răspunsul corect."
+    },
+    {
+      "sourceText": "Ratest du, was ich denke?",
+      "targetText": "Ghicești ce gândesc?"
+    },
+    {
+      "sourceText": "Er rät die Lösung.",
+      "targetText": "El ghicește soluția."
+    },
+    {
+      "sourceText": "Wir raten das Spiel zu gewinnen.",
+      "targetText": "Noi ghicim că vom câștiga jocul."
+    },
+    {
+      "sourceText": "Ratet ihr die Zahlen?",
+      "targetText": "Ghiciți numerele?"
+    },
+    {
+      "sourceText": "Sie raten immer gut.",
+      "targetText": "Ei ghicesc mereu bine."
+    },
+    {
+      "sourceText": "Ich habe die Lösung geraten.",
+      "targetText": "Am ghicit soluția."
+    },
+    {
+      "sourceText": "Sie haben die Frage geraten.",
+      "targetText": "Ei au ghicit întrebarea."
+    },
+    {
+      "sourceText": "Er riet immer freundlich.",
+      "targetText": "El ghicea întotdeauna amabil."
+    },
+    {
+      "sourceText": "Ich hatte die Lösung schon geraten.",
+      "targetText": "Ghicesem deja soluția."
+    },
+    {
+      "sourceText": "Ich werde raten.",
+      "targetText": "Voi ghici."
+    },
+    {
+      "sourceText": "Sie werden die Frage raten.",
+      "targetText": "Ei o să ghicească întrebarea."
+    },
+    {
+      "sourceText": "Ich würde raten, wenn ich wüsste.",
+      "targetText": "Aș ghici dacă aș ști."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du ratest.",
+      "targetText": "Este important să ghicești."
+    },
+    {
+      "sourceText": "Rate die Antwort!",
+      "targetText": "Ghicește răspunsul!"
+    },
+    {
+      "sourceText": "Rate die Fragen!",
+      "targetText": "Ghiciți întrebările!"
+    },
+    {
+      "sourceText": "Das geratene Wort ist schwierig.",
+      "targetText": "Cuvântul ghicit este greu."
+    },
+    {
+      "sourceText": "Die Antwort ist geraten worden.",
+      "targetText": "Răspunsul a fost ghicit."
+    },
+    {
+      "sourceText": "Während ich riet, kam die Antwort.",
+      "targetText": "Ghicind, a venit răspunsul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „ghici“ klingt wie ein überraschendes „Ghic!“ – so merkst du dir, dass es ums Raten geht."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an Ratespiele, bei denen du „ghici“ sagst, wenn du etwas errätst."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „ghici“, um die verschiedenen Zeiten und Kontexte zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ghici“ mit dem deutschen „raten“ – beide Wörter haben ähnliche Bedeutungen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

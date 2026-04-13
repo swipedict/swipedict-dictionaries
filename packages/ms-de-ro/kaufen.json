@@ -1,0 +1,147 @@
+{
+  "id": "ms-de-ro-kaufen",
+  "parent": "ms-ro-a-cumpara-9ab1ce96@ce674add33c91d2c8b591197202eba02",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kaufen",
+    "definition": "etwas gegen Geld erwerben",
+    "pronunciation": "/ˈkaʊfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „kaufen“ stammt vom mittelhochdeutschen „kufen“, was „erwerben, kaufen“ bedeutet, und hat Wurzeln im althochdeutschen „kufō“, was „Ware“ bedeutet.",
+        "targetText": "Das deutsche Verb „kaufen“ geht auf das mittelhochdeutsche „kufen“ zurück, das von althochdeutschen Wurzeln für „Ware“ abstammt."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Das Wort wird für den Erwerb von Gütern und Dienstleistungen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cumpăra",
+    "definition": "a obține ceva prin plata unei sume de bani",
+    "pronunciation": "/a kum.pəˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a cumpăra“ stammt vom lateinischen „co-émere“, zusammengesetzt aus „cum“ und „emere“ („kaufen, erwerben“). Es ist verwandt mit dem französischen „acheter“ und dem italienischen „comprare“.",
+        "targetText": "Verbul românesc „a cumpăra“ provine din latină vulgară „co-émere“, format din „cum“ și „emere“ („a cumpăra“), înrudit cu franceza „acheter“ și italiana „comprare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist unregelmäßig und wird oft sowohl für den Kauf trivialer Gegenstände wie auch für signifikante Anschaffungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "kaufen (einkaufen)",
+      "explanation": {
+        "sourceText": "Im Deutschen wird das Verb oft in Bezug auf Einkaufsgewohnheiten verwendet.",
+        "targetText": "În germană, verbul este frecvent folosit în contextul obiceiurilor de cumpărături."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kaufe im Supermarkt ein.",
+          "targetText": "Cumpăr la supermarket."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Geschäft",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Waren",
+      "targetText": "mărfuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verkaufen",
+      "targetText": "a vinde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kaufe das neue Buch.",
+      "targetText": "Cumpăr cartea nouă."
+    },
+    {
+      "sourceText": "Kaufst du ein Geschenk?",
+      "targetText": "Cumpărați un cadou?"
+    },
+    {
+      "sourceText": "Er kauft jeden Tag ein Brot.",
+      "targetText": "El cumpără o pâine în fiecare zi."
+    },
+    {
+      "sourceText": "Wir kaufen ein neues Auto.",
+      "targetText": "Noi cumpărăm o mașină nouă."
+    },
+    {
+      "sourceText": "Kauft ihr im Supermarkt?",
+      "targetText": "Cumpărați la supermarket?"
+    },
+    {
+      "sourceText": "Sie kaufen viele Obstsorten.",
+      "targetText": "Ei cumpără multe tipuri de fructe."
+    },
+    {
+      "sourceText": "Ich habe neue Schuhe gekauft.",
+      "targetText": "Am cumpărat încălțăminte nouă."
+    },
+    {
+      "sourceText": "Sie haben den Fernseher gekauft.",
+      "targetText": "Ei au cumpărat televizorul."
+    },
+    {
+      "sourceText": "Er kaufte ein Geschenk für seine Mutter.",
+      "targetText": "El a cumpărat un cadou pentru mama sa."
+    },
+    {
+      "sourceText": "Ich werde die Tickets kaufen.",
+      "targetText": "Voi cumpăra biletele."
+    },
+    {
+      "sourceText": "Kauf das Buch!",
+      "targetText": "Cumpără cartea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „cumpăra“ klingt wie „cum“ + „păra“ – stell dir vor, du kaufst etwas „cum“ (wie) und „păra“ (Birne) als Eselsbrücke!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „cumpăra“ mit dem deutschen „kaufen“ durch die gemeinsame lateinische Wurzel „emere“ – so merkst du dir die Bedeutung leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

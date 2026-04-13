@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-vermieter",
+  "parent": "ms-ro-proprietar-6110503c@1a27d12e56f8a50743acbd2a8bf673c2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Vermieter",
+    "genus": "masculine",
+    "definition": "Person, die eine Immobilie oder ein Objekt gegen Zahlung einer Miete an jemanden überlässt.",
+    "pronunciation": "/fɛɐ̯ˈmiːtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Vermieter“ setzt sich aus dem Verb „vermieten“ und dem Agentivsuffix „-er“ zusammen. „Vermieten“ stammt vom mittelhochdeutschen 'vermieten', was ‚gegen Entgelt überlassen‘ bedeutet.",
+        "targetText": "Cuvântul german „Vermieter“ este format din verbul „vermieten” și sufixul agentiv „-er”. „Vermieten” provine din germana mijlocie 'vermieten', care înseamnă „a închiria contra cost”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "proprietar",
+    "genus": "masculine",
+    "definition": "Persoană care închiriază o proprietate sau un obiect altcuiva contra unei chirii.",
+    "pronunciation": "/pro.pri.eˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „proprietar“ stammt vom lateinischen 'proprietarius' ab, was ‚Eigentümer‘ bedeutet und auf das lateinische 'proprius' (eigen) zurückgeht.",
+        "targetText": "Cuvântul românesc „proprietar” provine din latină, din 'proprietarius', care înseamnă „deținător” și derivă din 'proprius' („propriu”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv comun, maskulin."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Immobilie",
+      "targetText": "imobil"
+    },
+    {
+      "sourceText": "Miete",
+      "targetText": "chirie"
+    },
+    {
+      "sourceText": "Mieter",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "Vermietung",
+      "targetText": "închiriere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mieter",
+      "targetText": "chirias"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Vermieter verlangt die Miete jeden Monat.",
+      "targetText": "Proprietarul cere chiria în fiecare lună."
+    },
+    {
+      "sourceText": "Der Vermieter ist für die Instandhaltung der Wohnung verantwortlich.",
+      "targetText": "Proprietarul este responsabil pentru întreținerea apartamentului."
+    },
+    {
+      "sourceText": "Der Vermieter hat den Vertrag unterschrieben.",
+      "targetText": "Proprietarul a semnat contractul."
+    },
+    {
+      "sourceText": "Der Vermieter wohnt nicht im selben Haus.",
+      "targetText": "Proprietarul nu locuiește în aceeași clădire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚proprius‘ bedeutet ‚eigen‘ – denk an ‚propri-etar‘ als jemand, der etwas Eigenes hat, also Vermieter."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „proprietar“ klingt ähnlich wie das deutsche Wort „Proprietät“ (Eigentum), was dir hilft, die Bedeutung als Eigentümer zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Im Gegensatz zum „Mieter“ (chirias) ist der „proprietar“ derjenige, der etwas besitzt und vermietet – so kannst du die Gegensätze gut merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der „proprietar“ besitzt eine „Propeller“-Firma – so merkst du dir den Anfang „propri-“ als Hinweis auf Besitz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

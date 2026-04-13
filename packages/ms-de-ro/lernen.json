@@ -1,0 +1,209 @@
+{
+  "id": "ms-de-ro-lernen",
+  "parent": "ms-ro-a-invata-63032e43@d4d5cd86972ae270f9425167a65b3bb1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "lernen",
+    "definition": "einen Kenntnisstand oder Fähigkeiten erwerben",
+    "pronunciation": "/ˈlɛʁnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „lernen“ stammt vom althochdeutschen „leornōn“, was „erfahren“ oder „wissen“ bedeutet.",
+        "targetText": "Verbul german „lernen“ provine din althochdeutsch „leornōn“, însemnând „a învăța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft in schulischen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a învăța",
+    "definition": "a dobândi cunoștințe sau abilități",
+    "pronunciation": "/ɨn.vəˈtsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a învăța“ stammt vom lateinischen „invitare“ (einladen, lehren) und hat sich in der Bedeutung von Lernen entwickelt.",
+        "targetText": "Verbul românesc „a învăța“ provine din latină, din „invitare“, cu sensul de „a învăța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in akademischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "auswendig lernen",
+      "explanation": {
+        "sourceText": "Das bedeutet, etwas aus dem Gedächtnis zu wiederholen.",
+        "targetText": "Înseamnă a repeta ceva din memorie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss die Vokabeln auswendig lernen.",
+          "targetText": "Trebuie să învăț vocabulele pe de rost."
+        }
+      ]
+    },
+    {
+      "gloss": "Lernen durch Erfahrung",
+      "explanation": {
+        "sourceText": "Das bedeutet, durch eigene Erfahrungen zu lernen.",
+        "targetText": "Înseamnă a învăța prin experiență proprie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich lerne viel durch praktische Erfahrung.",
+          "targetText": "Învăț mult din experiența practică."
+        }
+      ]
+    },
+    {
+      "gloss": "Selbststudium",
+      "explanation": {
+        "sourceText": "Das bedeutet, alleine zu lernen.",
+        "targetText": "Înseamnă a studia singur."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich betreibe Selbststudium in verschiedenen Fächern.",
+          "targetText": "Fac studiu individual la diferite materii."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schule",
+      "targetText": "școală"
+    },
+    {
+      "sourceText": "Studium",
+      "targetText": "studii"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lerne jeden Tag neue Dinge.",
+      "targetText": "Eu învăț lucruri noi în fiecare zi."
+    },
+    {
+      "sourceText": "Lernst du für die Prüfung?",
+      "targetText": "Învoci pentru examen?"
+    },
+    {
+      "sourceText": "Sie lernt schnell die neue Sprache.",
+      "targetText": "Ea învață rapid limba nouă."
+    },
+    {
+      "sourceText": "Wir lernen gemeinsam für die Prüfung.",
+      "targetText": "Noi învățăm împreună pentru examen."
+    },
+    {
+      "sourceText": "Lernt ihr die Vokabeln?",
+      "targetText": "Învățați vocabulele?"
+    },
+    {
+      "sourceText": "Sie lernen fleißig.",
+      "targetText": "Ei învață cu sârguință."
+    },
+    {
+      "sourceText": "Ich habe Deutsch gelernt.",
+      "targetText": "Am învățat limba germană."
+    },
+    {
+      "sourceText": "Sie haben viele Dinge gelernt.",
+      "targetText": "Au învățat multe lucruri."
+    },
+    {
+      "sourceText": "Er lernte in der Schule immer fleißig.",
+      "targetText": "El învăța mereu cu sârguință."
+    },
+    {
+      "sourceText": "Wir hatten schon viel gelernt, bevor der Kurs begann.",
+      "targetText": "Noi învățasem deja multe înainte de a începe cursul."
+    },
+    {
+      "sourceText": "Ich werde jetzt ein neues Thema lernen.",
+      "targetText": "Voi învăța acum un subiect nou."
+    },
+    {
+      "sourceText": "Sie wird nach dem Unterricht viel lernen.",
+      "targetText": "Ea o să învețe mult după cursuri."
+    },
+    {
+      "sourceText": "Ich würde mehr lernen, wenn ich mehr Zeit hätte.",
+      "targetText": "Aș învăța mai mult dacă aș avea mai mult timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du jeden Tag lernst.",
+      "targetText": "Este important să înveți în fiecare zi."
+    },
+    {
+      "sourceText": "Lerne die neuen Wörter!",
+      "targetText": "Învață cuvintele noi!"
+    },
+    {
+      "sourceText": "Lernen Sie die Vokabeln!",
+      "targetText": "Învățați vocabulele!"
+    },
+    {
+      "sourceText": "Das gelernte Wissen ist wertvoll.",
+      "targetText": "Cunoștințele învățate sunt valoroase."
+    },
+    {
+      "sourceText": "Der Kurs ist jetzt gelernt.",
+      "targetText": "Cursul este acum învățat."
+    },
+    {
+      "sourceText": "Indem ich über das Thema lerne, verstehe ich es besser.",
+      "targetText": "Învățând despre acest subiect, înțeleg mai bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Lernen“ und „a învăța“ bedeuten dasselbe. Denk daran, dass „învața“ in vielen Kontexten genutzt wird – von Schule bis persönliche Entwicklung!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensendungen: -u (eu), -i (tu), -ă (el/ea), -ăm (noi), -ați (voi), -ă (ei/ele)."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze Redewendungen wie „Învățăm împreună“ (Lernen wir zusammen), um die Formen zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

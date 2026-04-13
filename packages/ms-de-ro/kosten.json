@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kosten",
+  "parent": "ms-ro-a-costa-2d874ce4@113694586c7c65a3f3e68972be066e7e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kosten",
+    "definition": "Der Betrag, der für die Herstellung oder den Erwerb von Waren oder Dienstleistungen erforderlich ist.",
+    "pronunciation": "/ˈkɔstn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom mittelhochdeutschen „kosten“ und ist verwandt mit dem englischen „cost“.",
+        "targetText": "Das deutsche Verb „kosten“ stammt vom mittelhochdeutschen „kosten“ und ist verwandt mit dem englischen „cost“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt den Preis, den etwas hat oder was etwas in Anspruch nimmt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a costa",
+    "definition": "Suma necesară pentru producerea sau achiziționarea de bunuri sau servicii.",
+    "pronunciation": "/a kosˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt aus dem lateinischen „costare“, was „Kosten verursachen“ bedeutet. Hat auch eine Verbindung zu „constare“ (fest sein), da der Preis festgelegt wird.",
+        "targetText": "Verbul românesc „a costa“ provine din latinul „costare“, care înseamnă a cauza costuri, legat și de „constare“ (a fi stabilit)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb benötigt meist ein direktes Objekt, das den Preis anzeigt. Es wird vorwiegend im wirtschaftlichen Kontext verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Ausgaben",
+      "targetText": "cheltuieli"
+    },
+    {
+      "sourceText": "Budget",
+      "targetText": "buget"
+    },
+    {
+      "sourceText": "Investition",
+      "targetText": "investiție"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Einnahmen",
+      "targetText": "venituri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Buch kostet 20 Euro.",
+      "targetText": "Cartea costă 20 de euro."
+    },
+    {
+      "sourceText": "Wie viel kostet das direkt?",
+      "targetText": "Cât costă direct?"
+    },
+    {
+      "sourceText": "Das Upgrade hat 50 Euro gekostet.",
+      "targetText": "Upgrade-ul a costat 50 de euro."
+    },
+    {
+      "sourceText": "Das neue Auto wird 30.000 Euro kosten.",
+      "targetText": "Noua mașină va costa 30.000 de euro."
+    },
+    {
+      "sourceText": "Kümmere dich um die Kosten!",
+      "targetText": "Ai grijă de costuri!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Costă“ und „cât costă“ sind nützlich, um im Geschäft nach dem Preis zu fragen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, „a costa“ bezieht sich immer auf einen Preis – übe, Preise auf Rumänisch zu nennen!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

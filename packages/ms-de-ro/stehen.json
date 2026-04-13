@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-stehen",
+  "parent": "ms-ro-a-sta-e5133deb@2024e55de1ff9e101d8b65b6162c3fd2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stehen",
+    "definition": "in aufrechter Position sein, von unten nach oben vertikal",
+    "pronunciation": "/ˈʃteːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort stammt vom althochdeutschen „stehan“ und mittelhochdeutschen „stehen“, verwandt mit dem englischen „to stand“, und bedeutet ‚aufrecht sein‘.",
+        "targetText": "Cuvântul german „stehen“ provine din germana veche „stehan“ și mijlocul german „stehen“, înrudit cu englezescul „to stand“, și înseamnă „a sta în picioare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb mit vielen idiomatischen Verwendungen. Es kann auch in verschiedenen zusammengesetzten Formen auftreten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sta",
+    "definition": "a fi într-o poziție verticală, a se afla",
+    "pronunciation": "/a sta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a sta“ stammt vom lateinischen Substantiv „stare“ ab, das ‚stehen‘ oder ‚bleiben‘ bedeutet und die Grundbedeutung des Verweilens trägt.",
+        "targetText": "Verbul românesc „a sta“ derivă din substantivul latin „stare“, care înseamnă „a sta“ sau „a rămâne“ și exprimă ideea de a fi într-un loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird häufig im Zusammenhang mit dem Verweilen an einem Ort verwendet und hat auch verschiedene Formen für Standorte."
+  },
+  "senses": [
+    {
+      "gloss": "Standpunkt",
+      "explanation": {
+        "sourceText": "In verschiedenen Kontexten verwendet, um eine Position oder Haltung zu beschreiben.",
+        "targetText": "Folosit în contexte diferite pentru a descrie o poziție sau o atitudine."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich stehe für Gerechtigkeit.",
+          "targetText": "Eu stau pentru justiție."
+        },
+        {
+          "sourceText": "Sie steht fest zu ihrer Meinung.",
+          "targetText": "Ea stă ferm pe părerea ei."
+        }
+      ]
+    },
+    {
+      "gloss": "Verweilen",
+      "explanation": {
+        "sourceText": "Kann auch im Sinne von 'an einem Ort bleiben' verwendet werden.",
+        "targetText": "Poate fi folosit și în sensul de a rămâne într-un loc."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir stehen hier noch eine Weile.",
+          "targetText": "Noi stăm aici încă o vreme."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Stuhl",
+      "targetText": "scaun"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "liegen",
+      "targetText": "a zace"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stehe an der Wand.",
+      "targetText": "Eu stau lângă perete."
+    },
+    {
+      "sourceText": "Stehst du am Fenster?",
+      "targetText": "Stai la fereastră?"
+    },
+    {
+      "sourceText": "Er steht im Mittelpunkt.",
+      "targetText": "El stă în centrul atenției."
+    },
+    {
+      "sourceText": "Wir stehen hier zusammen.",
+      "targetText": "Noi stăm aici împreună."
+    },
+    {
+      "sourceText": "Steht ihr schon auf?",
+      "targetText": "Stați deja sus?"
+    },
+    {
+      "sourceText": "Sie stehen in der Schlange.",
+      "targetText": "Ei stau la coadă."
+    },
+    {
+      "sourceText": "Ich habe die ganze Zeit gestanden.",
+      "targetText": "Am stat tot timpul."
+    },
+    {
+      "sourceText": "Er stand oft hier.",
+      "targetText": "El stătea adesea aici."
+    },
+    {
+      "sourceText": "Ich werde lange stehen.",
+      "targetText": "Voi sta mult."
+    },
+    {
+      "sourceText": "Steh still!",
+      "targetText": "Stai nemișcat!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stehen“ und „a sta“ sind direkte Kognaten: Beide bedeuten ‚stehen‘ oder ‚verweilen‘. Merke dir die Präsensformen wie „stai“ und „stau“ als häufige Formen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du stehst (stehen) an einem Ort und sagst „Eu stau aici“ – so verknüpfst du die Bedeutung und die Form spielerisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

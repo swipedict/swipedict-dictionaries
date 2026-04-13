@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-umsteigen",
+  "parent": "ms-ro-a-schimba-mijlocul-de-transport-92c2353f@41898fe8fde341b8f34e61568ac231ec",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "umsteigen",
+    "definition": "Von einem Verkehrsmittel in ein anderes wechseln, z. B. bei Zug oder Bus.",
+    "pronunciation": "/ˈʊmˌʃtaɪ̯ɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „umsteigen“ setzt sich aus der Vorsilbe „um-“ und dem Verb „steigen“ zusammen, wobei „steigen“ auf das althochdeutsche 'stīgan' zurückgeht, das 'hinaufsteigen' bedeutet.",
+        "targetText": "Verbul german „umsteigen“ este compus din prefixul „um-“ și verbul „steigen“, care provine din germana veche înaltă 'stīgan', însemnând 'a urca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a schimba (mijlocul de transport)",
+    "definition": "A trece de la un mijloc de transport la altul în timpul unei călătorii.",
+    "pronunciation": "/a ˈskimba/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a schimba“ stammt vom lateinischen 'cambiare' ab, das 'wechseln' oder 'tauschen' bedeutet und über das Italienische ins Rumänische gelangte.",
+        "targetText": "Verbul românesc „a schimba” provine din latinul 'cambiare', care înseamnă 'a schimba' sau 'a troca', pătruns în română prin italiană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird allgemein für Wechsel oder Tausch verwendet, im Kontext von Verkehrsmitteln spricht man oft von 'a schimba trenul/autobuzul'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "steigen",
+      "targetText": "a urca"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "durchfahren",
+      "targetText": "a trece fără oprire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich muss in Berlin umsteigen.",
+      "targetText": "Trebuie să schimb trenul în Berlin."
+    },
+    {
+      "sourceText": "Beim Umsteigen habe ich meinen Koffer verloren.",
+      "targetText": "La schimbarea mijlocului de transport mi-am pierdut valiza."
+    },
+    {
+      "sourceText": "Wir steigen an der nächsten Station um.",
+      "targetText": "Schimbăm mijlocul de transport la următoarea stație."
+    },
+    {
+      "sourceText": "Umsteigen ist oft notwendig, um ans Ziel zu kommen.",
+      "targetText": "Schimbarea mijlocului de transport este adesea necesară pentru a ajunge la destinație."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a schimba' klingt wie 'schimbă' – denk an 'change' im Englischen, das auch 'wechseln' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Die Vorsilbe 'um-' zeigt eine Veränderung oder einen Wechsel an, ähnlich wie im Rumänischen 'a schimba' – beides drückt einen Wechsel aus."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'umsteigen' ist immer mit Verkehrsmitteln verbunden, also 'a schimba' + 'mijlocul de transport' im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'steigst um' wie auf eine andere Stufe oder Ebene – also wechselst du das Verkehrsmittel."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

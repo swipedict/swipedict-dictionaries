@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-norden",
+  "parent": "ms-ro-nord-eee06d04@b003d9c20a5e061d2c4d48d7461ad814",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Norden",
+    "genus": "masculine",
+    "definition": "Himmelsrichtung, die auf der Kompassrose oben liegt und meist mit dem Polarstern assoziiert wird.",
+    "pronunciation": "/ˈnɔʁdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Norden“ stammt vom althochdeutschen 'nord' ab, das auf die indogermanische Wurzel *ner- zurückgeht, welche 'links' oder 'unter' bedeutete, bezogen auf die Himmelsrichtung.",
+        "targetText": "Cuvântul german „Norden” provine din vechiul german înalt 'nord', care la rândul său derivă din rădăcina indo-europeană *ner-, ce însemna 'stânga' sau 'jos', referindu-se la direcția geografică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nord",
+    "genus": "neuter",
+    "definition": "Direcția cardinală care indică partea de sus pe busolă, asociată cu steaua polară.",
+    "pronunciation": "/nord/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „nord“ stammt aus dem Lateinischen 'nord-' oder 'boreas', entlehnt über das Französische 'nord', das wiederum vom germanischen 'nord' abstammt.",
+        "targetText": "Cuvântul românesc „nord” provine din latină prin franceză ('nord'), care la rândul său își are originea în germanicul 'nord'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Himmelsrichtung",
+      "targetText": "direcție cardinală"
+    },
+    {
+      "sourceText": "Osten",
+      "targetText": "est"
+    },
+    {
+      "sourceText": "Süden",
+      "targetText": "sud"
+    },
+    {
+      "sourceText": "Westen",
+      "targetText": "vest"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Süden",
+      "targetText": "sud"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Norden liegt oben auf der Karte.",
+      "targetText": "Nordul este în partea de sus a hărții."
+    },
+    {
+      "sourceText": "Im Norden Deutschlands gibt es viele Küstenstädte.",
+      "targetText": "În nordul Germaniei sunt multe orașe de coastă."
+    },
+    {
+      "sourceText": "Der Polarstern zeigt immer nach Norden.",
+      "targetText": "Steaua polară arată întotdeauna spre nord."
+    },
+    {
+      "sourceText": "Wir fahren nach Norden, um ans Meer zu gelangen.",
+      "targetText": "Mergem spre nord pentru a ajunge la mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'nord' klingt fast genauso wie das deutsche 'Norden' – so kannst du es dir leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'nord' kommt über das Französische aus dem Germanischen – viele europäische Sprachen haben ähnliche Wörter für Norden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Nord' endet wie 'Ort' – ein Ort, an dem du nach Norden schaust."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hältst eine Karte und der 'Nord'-Pfeil zeigt immer nach oben – 'nord' ist also die Richtung nach oben."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-see-gewaesser",
+  "parent": "ms-ro-lac-16d18152@7430a1a613075694271ec459e7bbc41f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "See",
+    "genus": "masculine",
+    "definition": "Ein größeres, stehendes Gewässer, das von Land umgeben ist.",
+    "pronunciation": "/zeː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „See“ stammt vom althochdeutschen 'sēo' bzw. mittelhochdeutschen 'sē' ab, das auf die urgermanische Wurzel *saiwiz zurückgeht und allgemein 'Gewässer' bedeutet.",
+        "targetText": "Cuvântul german „See” provine din vechea germană înaltă 'sēo' și germana mijlocie 'sē', derivând din rădăcina urgermanică *saiwiz, care înseamnă în general 'apă' sau 'lac'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lac",
+    "genus": "neuter",
+    "definition": "O întindere de apă dulce, în general închisă, mai mare decât o baltă, înconjurată de uscat.",
+    "pronunciation": "/lak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „lac“ stammt direkt vom lateinischen 'lacus' ab, das 'See' oder 'Teich' bedeutet und aus dem klassischen Latein übernommen wurde.",
+        "targetText": "Cuvântul românesc „lac” provine direct din latinescul 'lacus', care înseamnă 'lac' sau 'iaz', preluat din latina clasică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fluss",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "Meer",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "Teich",
+      "targetText": "iaz"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Bodensee ist ein großer See in Mitteleuropa.",
+      "targetText": "Lacul Bodensee este un lac mare în Europa Centrală."
+    },
+    {
+      "sourceText": "Wir haben am See ein Picknick gemacht.",
+      "targetText": "Am făcut un picnic la lac."
+    },
+    {
+      "sourceText": "Der See friert im Winter zu.",
+      "targetText": "Lacul îngheață iarna."
+    },
+    {
+      "sourceText": "Viele Tiere leben in und um den See.",
+      "targetText": "Multe animale trăiesc în și în jurul lacului."
+    },
+    {
+      "sourceText": "Das Wasser im See ist sehr klar.",
+      "targetText": "Apa din lac este foarte limpede."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'lacus' bedeutet See oder Teich. Viele romanische Sprachen haben ähnliche Wörter, z.B. italienisch 'lago' oder französisch 'lac'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'lac' klingt ähnlich wie das deutsche Wort 'lack'. Stell dir vor, der See hat einen glänzenden 'Lack' auf der Oberfläche."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'lac' ist kurz und bündig, genau wie ein kleiner See, der in der Landschaft liegt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sitzt am 'LAC' und hörst das Wasser – das 'LAC' klingt wie das Plätschern des Wassers."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-singen",
+  "parent": "ms-ro-a-canta-264a1221@f08d7c702b5dc8f8e27bfeac769fcf6d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "singen",
+    "definition": "mit der Stimme Musik erzeugen",
+    "pronunciation": "/ˈzɪŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „singen“ stammt vom althochdeutschen „singan“ ab, was „mit der Stimme Töne erzeugen“ bedeutet.",
+        "targetText": "Verbul german „singen“ provine din vechiul germanic „singan“, care înseamnă „a produce sunete cu vocea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb; besonders wichtig in kulturellen und musikalischen Kontexten, Ausdruck der Emotion."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cânta",
+    "definition": "a produce muzică cu vocea",
+    "pronunciation": "/a kɨnˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a cânta“ stammt vom lateinischen „cantare“ ab, was „singen“ bedeutet. Es zeigt den Einfluss der lateinischen Sprache auf das Rumänische, besonders im musikalischen Bereich.",
+        "targetText": "Verbul românesc „a cânta“ provine din latinescul „cantare“, care înseamnă „a cânta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a); wird in vielen kulturellen und alltäglichen Situationen verwendet, besonders in der Musik."
+  },
+  "senses": [
+    {
+      "gloss": "Karaoke",
+      "explanation": {
+        "sourceText": "'A cânta' wird oft im Karaoke-Kontext verwendet.",
+        "targetText": "'A cânta' este folosit frecvent în contextul karaoke."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir gehen heute Abend Karaoke singen.",
+          "targetText": "Mergem să cântăm karaoke în seara asta."
+        }
+      ]
+    },
+    {
+      "gloss": "Lieder festigen",
+      "explanation": {
+        "sourceText": "Ein Lied wird oft im Gedächtnis behalten.",
+        "targetText": "Un cântec este adesea memorat."
+      },
+      "examples": [
+        {
+          "sourceText": "Man muss die Texte lernen, um gut zu singen.",
+          "targetText": "Trebuie să înveți versurile pentru a cânta bine."
+        }
+      ]
+    },
+    {
+      "gloss": "Soli oder Duette singen",
+      "explanation": {
+        "sourceText": "Das Wort wird auch für das Singen mit anderen verwendet.",
+        "targetText": "Cuvântul se folosește și pentru a cânta în duet sau soli."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir singen ein Duett.",
+          "targetText": "Cântăm un duet."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Chor",
+      "targetText": "coro"
+    },
+    {
+      "sourceText": "Lied",
+      "targetText": "cântec"
+    },
+    {
+      "sourceText": "Melodie",
+      "targetText": "melodie"
+    },
+    {
+      "sourceText": "Stimme",
+      "targetText": "voce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich singe ein Lied.",
+      "targetText": "Eu cânt o melodie."
+    },
+    {
+      "sourceText": "Singst du gerne?",
+      "targetText": "Îți place să cânți?"
+    },
+    {
+      "sourceText": "Sie singt in der Dusche.",
+      "targetText": "Ea cântă în duș."
+    },
+    {
+      "sourceText": "Wir singen zusammen.",
+      "targetText": "Noi cântăm împreună."
+    },
+    {
+      "sourceText": "Singt ihr im Chor?",
+      "targetText": "Voi cântați în cor?"
+    },
+    {
+      "sourceText": "Sie (Pl.) singen gerne.",
+      "targetText": "Ei cântă cu plăcere."
+    },
+    {
+      "sourceText": "Ich habe gestern ein tolles Lied gesungen.",
+      "targetText": "Am cântat o melodie frumoasă ieri."
+    },
+    {
+      "sourceText": "Er sang viel früher.",
+      "targetText": "El cânta mult mai devreme."
+    },
+    {
+      "sourceText": "Ich werde ein weiteres Lied singen.",
+      "targetText": "Voi cânta încă o melodie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an das lateinische „cantare“ – das klingt ähnlich wie „Kante“ und du kannst dir vorstellen, wie du an der Kante eines Bühnenpodests singst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endungen: „eu cânt“ (ich singe) und „tu cânți“ (du singst) – das „i“ am Ende der 2. Person ist typisch rumänisch."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a cânta“ mit dem Bild eines Sängers, der auf einer Bühne steht – so bleibt das Wort lebendig im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

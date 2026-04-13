@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-mauer",
+  "parent": "ms-ro-perete-12931ca6@1346137cbc5bdb90ce730496a6448eef",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mauer",
+    "genus": "feminine",
+    "definition": "die Wand eines Gebäudes oder eine Trennung aus Stein, Ziegel oder anderen Materialien",
+    "pronunciation": "/ˈmaʊ̯ɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Mauer“ stammt vom mittelhochdeutschen „muuwe“, das eine Wand oder Umzäunung bezeichnet, und ist mit dem Wort „massiv“ verwandt.",
+        "targetText": "Cuvântul german „Mauer“ provine din germana mijlocie „muuwe“, însemnând zid sau gard, legat de ideea de masivitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Eine Mauer kann aus verschiedenen Materialien wie Stein oder Ziegel bestehen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "perete",
+    "genus": "masculine",
+    "definition": "ziua unui edificiu sau o separație din piatră, cărămidă sau alte materiale",
+    "pronunciation": "/peˈrete/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „perete“ stammt vom lateinischen „parietem“, was Wand oder Seitenwand bedeutet und auf bauliche Strukturen verweist.",
+        "targetText": "Cuvântul românesc „perete“ provine din latină „parietem“, însemnând zid sau perete lateral."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Perete“ kann sowohl Innen- als auch Außenwände bezeichnen."
+  },
+  "senses": [
+    {
+      "gloss": "Außenmauer",
+      "explanation": {
+        "sourceText": "Verweist auf die äußere Struktur eines Gebäudes.",
+        "targetText": "Se referă la structura exterioară a unei clădiri."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Außenmauer ist sehr stabil.",
+          "targetText": "Peretele exterior este foarte stabil."
+        }
+      ]
+    },
+    {
+      "gloss": "Wand (Innenraum)",
+      "explanation": {
+        "sourceText": "Bezieht sich speziell auf Innenwände.",
+        "targetText": "Se referă în special la pereții interiori."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Innenwand ist weiß gestrichen.",
+          "targetText": "Peretele interior este vopsit alb."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bau",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Stein",
+      "targetText": "piatră"
+    },
+    {
+      "sourceText": "Ziegel",
+      "targetText": "cărămidă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Öffnung",
+      "targetText": "deschidere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Mauer ist sehr hoch.",
+      "targetText": "Peretele este foarte înalt."
+    },
+    {
+      "sourceText": "Er hat die Mauer bemalt.",
+      "targetText": "El a pictat peretele."
+    },
+    {
+      "sourceText": "Die Mauer schützt das Grundstück.",
+      "targetText": "Peretele protejează proprietatea."
+    },
+    {
+      "sourceText": "Wir haben einen neuen Zaun um die Mauer gebaut.",
+      "targetText": "Am construit un nou gard în jurul peretelui."
+    },
+    {
+      "sourceText": "Die alte Mauer ist sehr historisch.",
+      "targetText": "Peretele vechi este foarte istoric."
+    },
+    {
+      "sourceText": "Die Mauer trennt die beiden Gärten.",
+      "targetText": "Peretele separă cele două grădini."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische „parietem“, das die Struktur einer Wand beschreibt – so bleibt „perete“ im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Perete“ kann innen oder außen sein, also eine vielseitige Wand."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie eine Mauer („perete“) Räume trennt und schützt – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „perete“ mit dem Bild einer schützenden Wand, die dich vor Wind und Wetter schützt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

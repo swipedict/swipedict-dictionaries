@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-aufraeumen",
+  "parent": "ms-ro-a-face-ordine-3f68ca93@fde0be6db33f7541a27b73b79e631a31",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufräumen",
+    "definition": "Ordnung schaffen, indem man etwas wegräumt oder aufräumt",
+    "pronunciation": "/ˈaʊ̯fˌʁɔʏ̯mən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufräumen“ setzt sich zusammen aus dem Präfix „auf-“, was eine Bewegung oder eine Richtung nach oben oder eine Veränderung anzeigt, und dem Verb „räumen“, das vom mittelhochdeutschen „ruomen“ stammt, was „räumen, entfernen“ bedeutet.",
+        "targetText": "Das deutsche Verb „aufräumen“ kombiniert das Präfix „auf-“ mit „räumen“ (vom mittelhochdeutschen „ruomen“), was „ordnen“ oder „wegräumen“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Aufräumen ist häufig mit der Beseitigung von Unordnung verbunden und kann sowohl für physische als auch für metaphorische Räume verwendet werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a face ordine",
+    "definition": "a crea ordine mutând sau curățând lucruri",
+    "pronunciation": "/a ˈfa.tʃe ˈor.di.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a face ordine“ bezieht sich direkt auf die Handlung des Aufräumens. „Ordine“ stammt vom lateinischen „ordinem“, was „Ordnung“ bedeutet. Die Assoziation zwischen Ordnung und der Handlung des Aufräumens ist in den meisten Kulturen universell.",
+        "targetText": "Expresia românească „a face ordine“ provine din latinescul „ordinem“ care înseamnă „ordine“ și descrie acțiunea de a crea ordine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in Haushalten und Büros verwendet, kann es auch im übertragenen Sinne verwendet werden, um Klarheit oder Struktur zu schaffen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Müll",
+      "targetText": "gunoi"
+    },
+    {
+      "sourceText": "Ordnung",
+      "targetText": "ordinea"
+    },
+    {
+      "sourceText": "Putzen",
+      "targetText": "curățenie"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unordentlich",
+      "targetText": "a lăsa în dezordine"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich räume jetzt mein Zimmer auf.",
+      "targetText": "Eu fac acum ordine în cameră."
+    },
+    {
+      "sourceText": "Räumst du dein Zimmer auch auf?",
+      "targetText": "Faci și tu ordine în cameră?"
+    },
+    {
+      "sourceText": "Er räumt den Tisch auf.",
+      "targetText": "El face ordine pe masă."
+    },
+    {
+      "sourceText": "Wir räumen das Wohnzimmer auf.",
+      "targetText": "Noi facem ordine în living."
+    },
+    {
+      "sourceText": "Räumt ihr die Garage auf?",
+      "targetText": "Faceți ordine în garaj?"
+    },
+    {
+      "sourceText": "Sie räumen schnell alles auf.",
+      "targetText": "Ei fac rapid ordine."
+    },
+    {
+      "sourceText": "Ich habe aufgeräumt.",
+      "targetText": "Am făcut ordine."
+    },
+    {
+      "sourceText": "Sie haben das Altenheim aufgeräumt.",
+      "targetText": "Ei au făcut ordine la azil."
+    },
+    {
+      "sourceText": "Er räumte jeden Samstag auf.",
+      "targetText": "El făcea ordine în fiecare sâmbătă."
+    },
+    {
+      "sourceText": "Ich hatte schon aufgeräumt, als sie ankamen.",
+      "targetText": "Făcusem deja ordine când au sosit."
+    },
+    {
+      "sourceText": "Ich werde morgen aufräumen.",
+      "targetText": "Voi face ordine mâine."
+    },
+    {
+      "sourceText": "Er wird später aufräumen.",
+      "targetText": "El o să facă ordine mai târziu."
+    },
+    {
+      "sourceText": "Ich würde aufräumen, wenn ich Zeit hätte.",
+      "targetText": "Aș face ordine dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist besser, wenn du aufräumst.",
+      "targetText": "E mai bine să faci ordine."
+    },
+    {
+      "sourceText": "Räume auf!",
+      "targetText": "Fă ordine!"
+    },
+    {
+      "sourceText": "Räumt auf!",
+      "targetText": "Faceți ordine!"
+    },
+    {
+      "sourceText": "Das aufgeräumte Zimmer ist schön.",
+      "targetText": "Camera făcută ordine e frumoasă."
+    },
+    {
+      "sourceText": "Aufräumend, hörte ich nicht zu.",
+      "targetText": "Facând ordine, nu am ascultat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beachte, dass „aufräumen“ oft mit einem direkten Objekt verwendet wird, z.B. „Ich räume das Zimmer auf“ – ähnlich im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke bei „aufräumen“ nicht nur an das physische Aufräumen, sondern auch an mentale Ordnung – so merkst du dir die Bedeutung besser."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Eselsbrücke: „Ordnung schaffen“ ist wie „auf die Ordnung aufräumen“ – das hilft beim Verstehen von „a face ordine“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

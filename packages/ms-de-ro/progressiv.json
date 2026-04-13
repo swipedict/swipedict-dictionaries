@@ -1,0 +1,163 @@
+{
+  "id": "ms-de-ro-progressiv",
+  "parent": "ms-ro-progresiv-44d42408@10404f87250dc3c57f6608dcdce0b7a3",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 2,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "progressiv",
+    "definition": "fortschrittlich, auf sozialen oder politischen Fortschritt ausgerichtet; sich allmählich steigernd oder entwickelnd",
+    "pronunciation": "/pʁoɡʁɛˈsiːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus dem Französischen 'progressif', abgeleitet vom lateinischen 'progressus' (Fortgang, Fortschritt), Partizip Perfekt von 'progredi' (vorwärtsschreiten).",
+        "targetText": "Din franceză 'progressif', derivat din latină 'progressus', participiul perfect al verbului 'progredi' care înseamnă 'a merge înainte'."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann sich auf politische Ansichten, soziale Bewegungen, Krankheitsverläufe oder auch Steuersysteme beziehen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "progresiv",
+    "definition": "care tinde spre progres, care favorizează progresul; care crește sau se dezvoltă treptat",
+    "pronunciation": "/pro.ɡreˈsiv/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Din franceză 'progressif', derivat din latină 'progressivus', care înseamnă „în progres“ sau „în dezvoltare“.",
+        "targetText": "Din franceză 'progressif', derivat din latină 'progressivus', care înseamnă „în progres“ sau „în dezvoltare“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjectiv variabil (progresiv, progresivă, progresivi, progresive). Folosit în contexte politice, sociale, medicale sau economice."
+  },
+  "senses": [
+    {
+      "gloss": "progressiv (politisch/sozial)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf Ideen oder Bewegungen, die auf gesellschaftlichen Fortschritt und Reformen abzielen.",
+        "targetText": "Se referă la idei sau mișcări care susțin progresul social și reformele."
+      },
+      "examples": [
+        {
+          "sourceText": "Die progressive Partei setzt sich für soziale Gerechtigkeit ein.",
+          "targetText": "Partidul progresist militează pentru justiție socială."
+        }
+      ]
+    },
+    {
+      "gloss": "progressive Entwicklung (allmählich steigernd)",
+      "explanation": {
+        "sourceText": "Beschreibt einen sich schrittweise entwickelnden oder verschlimmernden Prozess.",
+        "targetText": "Descrie un proces care se dezvoltă sau se agravează treptat."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Krankheit zeigte einen progressiven Verlauf.",
+          "targetText": "Boala a avut o evoluție progresivă."
+        },
+        {
+          "sourceText": "Progressive Muskelentspannung ist eine Entspannungstechnik.",
+          "targetText": "Relaxarea musculară progresivă este o tehnică de relaxare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entwicklung",
+      "targetText": "dezvoltare"
+    },
+    {
+      "sourceText": "Fortschritt",
+      "targetText": "progres"
+    },
+    {
+      "sourceText": "fortschrittlich",
+      "targetText": "progresist"
+    },
+    {
+      "sourceText": "modern",
+      "targetText": "modern"
+    },
+    {
+      "sourceText": "reformorientiert",
+      "targetText": "orientat spre reformă"
+    },
+    {
+      "sourceText": "zukunftsorientiert",
+      "targetText": "orientat spre viitor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "konservativ",
+      "targetText": "conservator"
+    },
+    {
+      "sourceText": "reaktionär",
+      "targetText": "reacționar"
+    },
+    {
+      "sourceText": "regressiv",
+      "targetText": "regresiv"
+    },
+    {
+      "sourceText": "rückschrittlich",
+      "targetText": "regresiv"
+    },
+    {
+      "sourceText": "traditionell",
+      "targetText": "tradițional"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die progressive Bewegung fordert Veränderungen im Bildungssystem.",
+      "targetText": "Mișcarea progresistă cere schimbări în sistemul de învățământ."
+    },
+    {
+      "sourceText": "Progressive Ideen können zu bedeutenden sozialen Reformen führen.",
+      "targetText": "Ideile progresiste pot conduce la reforme sociale semnificative."
+    },
+    {
+      "sourceText": "Er hat sehr progressive Ansichten zur Umweltpolitik.",
+      "targetText": "El are vederi foarte progresiste privind politica de mediu."
+    },
+    {
+      "sourceText": "Die progressive Steuer erhöht sich mit steigendem Einkommen.",
+      "targetText": "Impozitul progresiv crește odată cu creșterea venitului."
+    },
+    {
+      "sourceText": "Es gab eine progressive Verbesserung seiner Gesundheit.",
+      "targetText": "A existat o îmbunătățire progresivă a sănătății sale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „progressiv“ und das rumänische „progresiv“ sind direkte Kognaten und daher leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an „Progress“ – „progressiv“ bedeutet, auf Fortschritt hinzuarbeiten oder ihn zu verkörpern."
+    }
+  ],
+  "media": {
+    "images": []
+  }
+}

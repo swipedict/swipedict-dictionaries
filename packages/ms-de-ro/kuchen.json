@@ -1,0 +1,142 @@
+{
+  "id": "ms-de-ro-kuchen",
+  "parent": "ms-ro-tort-ccf3ca9b@247b30fa1070a6c44b1ca8e7baf70e10",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kuchen",
+    "genus": "masculine",
+    "definition": "eine süße Speise, die aus Teig und meist mit Zucker, Obst oder Schokolade zubereitet wird",
+    "pronunciation": "/ˈkuː.xən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „kuoche“ und althochdeutschen „kuocha“ abgeleitet, bezeichnet es süßes Gebäck.",
+        "targetText": "Vom mittelhochdeutschen „kuoche“ und althochdeutschen „kuocha“ abgeleitet, bezeichnet es süßes Gebäck."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft bei Festen, Geburtstagen und besonderen Anlässen serviert."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tort",
+    "genus": "neuter",
+    "definition": "o mâncare dulce, care este preparată din aluat și de obicei cu zahăr, fructe sau ciocolată",
+    "pronunciation": "/tort/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom französischen „tarte“ abgeleitet, bezeichnet es ein süßes Backwerk für besondere Anlässe.",
+        "targetText": "Vom französischen „tarte“ abgeleitet, bezeichnet es ein süßes Backwerk für besondere Anlässe."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im Rumänischen wird „tort“ oft mit Geburtstagsfeiern assoziiert."
+  },
+  "senses": [
+    {
+      "gloss": "Schichtkuchen",
+      "explanation": {
+        "sourceText": "Ein Kuchen, der aus mehreren Schichten besteht.",
+        "targetText": "Un tort format din mai multe straturi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich liebe Schichtkuchen.",
+          "targetText": "Îmi place tortul cu straturi."
+        }
+      ]
+    },
+    {
+      "gloss": "Tortenstück",
+      "explanation": {
+        "sourceText": "Ein Stück eines Kuchens oder einer Torte.",
+        "targetText": "O felie dintr-un tort."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme ein Stück Torte.",
+          "targetText": "Ia o felie de tort."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Backen",
+      "targetText": "a coace"
+    },
+    {
+      "sourceText": "Obst",
+      "targetText": "fructe"
+    },
+    {
+      "sourceText": "Schokolade",
+      "targetText": "ciocolată"
+    },
+    {
+      "sourceText": "Zucker",
+      "targetText": "zahăr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Salz",
+      "targetText": "sare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kuchen sieht köstlich aus.",
+      "targetText": "Tortul arată delicios."
+    },
+    {
+      "sourceText": "Hast du den Kuchen gebacken?",
+      "targetText": "Ai făcut tortul?"
+    },
+    {
+      "sourceText": "Wir essen Kuchen bei der Party.",
+      "targetText": "Mâncăm tort la petrecere."
+    },
+    {
+      "sourceText": "Der Kuchen schmeckt nach Schokolade.",
+      "targetText": "Tortul are gust de ciocolată."
+    },
+    {
+      "sourceText": "Ich habe ein Stück Kuchen für dich.",
+      "targetText": "Am făcut o felie de tort pentru tine."
+    },
+    {
+      "sourceText": "Der Kuchen ist frisch gebacken.",
+      "targetText": "Tortul este proaspăt copt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir „tort“ durch die Ähnlichkeit zu „Torte“ – beide bedeuten Kuchen und klingen fast gleich."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du backst eine Torte und sagst dabei laut „tort“ – so verknüpfst du Wort und Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "ms-de-ro-betragen",
+  "parent": "ms-ro-a-se-ridica-7ef7d330@c447b55244d738f3355baab8f11ee2ae",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "betragen",
+    "definition": "einen bestimmten Betrag oder eine bestimmte Menge ausmachen",
+    "pronunciation": "/bəˈtʁaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „betragen“ stammt vom mittelhochdeutschen „betragen“, zusammengesetzt aus „be-“ und „tragen“, und bedeutet ursprünglich „etwas an einen Ort bringen“ oder „sich belaufen auf“.",
+        "targetText": "Verbul „betragen“ provine din germana mijlocie „betragen“, compus din prefixul „be-“ și verbul „tragen“ (a purta), și înseamnă a constitui o sumă sau o cantitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird hauptsächlich verwendet, um Beträge oder Maße anzugeben, oft im mathematischen oder finanziellen Kontext."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se ridica",
+    "definition": "a constitui o sumă sau o cantitate specifică",
+    "pronunciation": "/a se ri.diˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se ridica“ stammt vom lateinischen „surgere“ (aufsteigen, sich erheben) und beschreibt bildhaft das Ansteigen oder Erreichen eines Betrags oder einer Menge.",
+        "targetText": "Verbul românesc „a se ridica“ provine din latină, din „surgere“ (a se ridica), și descrie creșterea sau atingerea unei sume sau cantități."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft verwendet in der Mathematik oder Finanzangelegenheiten."
+  },
+  "senses": [
+    {
+      "gloss": "Betrag",
+      "explanation": {
+        "sourceText": "Das Wort wird oft im finanziellen Kontext verwendet.",
+        "targetText": "Cuvânt folosit frecvent în contexte financiare."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Kontostand beträgt 100 Euro.",
+          "targetText": "Soldul meu se ridică la 100 de euro."
+        }
+      ]
+    },
+    {
+      "gloss": "Kosten",
+      "explanation": {
+        "sourceText": "Wird oft verwendet, um die Höhe der Ausgaben zu beschreiben.",
+        "targetText": "Folosit pentru a descrie valoarea cheltuielilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Unsere Ausgaben betragen 1000 Euro pro Monat.",
+          "targetText": "Cheltuielile noastre se ridică la 1000 de euro pe lună."
+        }
+      ]
+    },
+    {
+      "gloss": "Preis",
+      "explanation": {
+        "sourceText": "Auch für den Preis von Waren verwendet.",
+        "targetText": "De asemenea folosit pentru prețul bunurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Beträgt das Ticket 20 Euro?",
+          "targetText": "Se ridică biletul la 20 de euro?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ausgaben",
+      "targetText": "cheltuieli"
+    },
+    {
+      "sourceText": "Betrag",
+      "targetText": "sumă"
+    },
+    {
+      "sourceText": "Kosten",
+      "targetText": "costuri"
+    },
+    {
+      "sourceText": "Preise",
+      "targetText": "prețuri"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vermindern",
+      "targetText": "a reduce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Mein Kontostand beträgt 100 Euro.",
+      "targetText": "Soldul meu se ridică la 100 de euro."
+    },
+    {
+      "sourceText": "Beträgt das Ticket 20 Euro?",
+      "targetText": "Se ridică biletul la 20 de euro?"
+    },
+    {
+      "sourceText": "Die Rechnung beträgt insgesamt 50 Euro.",
+      "targetText": "Factura se ridică în total la 50 de euro."
+    },
+    {
+      "sourceText": "Unsere Ausgaben betragen 1000 Euro pro Monat.",
+      "targetText": "Cheltuielile noastre se ridică la 1000 de euro pe lună."
+    },
+    {
+      "sourceText": "Betragen eure Schulden viel?",
+      "targetText": "Se ridică mult datoriile voastre?"
+    },
+    {
+      "sourceText": "Ihre Ausgaben betragen mehr als erwartet.",
+      "targetText": "Cheltuielile lor se ridică mai mult decât ne așteptam."
+    },
+    {
+      "sourceText": "Mein Budget hat 500 Euro betragen.",
+      "targetText": "Bugetul meu s-a ridicat la 500 de euro."
+    },
+    {
+      "sourceText": "Die Rechnung betrug früher 30 Euro.",
+      "targetText": "Factura se ridica mai devreme la 30 de euro."
+    },
+    {
+      "sourceText": "Ich werde 200 Euro zurücklegen; es beträgt dann insgesamt 700 Euro.",
+      "targetText": "Voi pune deoparte 200 de euro; se va ridica apoi în total la 700 de euro."
+    },
+    {
+      "sourceText": "Ich würde sagen, dass es 100 Euro betragen könnte.",
+      "targetText": "Aș zice că s-ar putea ridica la 100 de euro."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„betragen“ bedeutet hier nicht nur „tragen“, sondern auch „sich erheben“ – stelle dir vor, wie Zahlen „aufsteigen“ oder „sich summieren“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die rumänische Phrase „se ridică la ...“ als festen Ausdruck für Beträge und Summen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „betragen“ mit alltäglichen Ausgaben oder Rechnungen, um die Bedeutung praktisch zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

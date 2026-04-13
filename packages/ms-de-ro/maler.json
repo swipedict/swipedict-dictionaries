@@ -1,0 +1,167 @@
+{
+  "id": "ms-de-ro-maler",
+  "parent": "ms-ro-pictor-08c74647@a9baf2abb1dacf8c923452929b00a100",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Maler",
+    "genus": "masculine",
+    "definition": "eine Person, die Wände, Decken oder andere Oberflächen mit Farbe behandelt",
+    "pronunciation": "/ˈmaːlɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Maler“ stammt vom mittelhochdeutschen „maler“, abgeleitet von „malon“ (anmalen, färben).",
+        "targetText": "„Maler“ provine din germana mijlocie „maler“, derivat din „malon“ care înseamnă „a picta“ sau „a colora“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Maler ist ein Künstler, der Wände, Möbel oder Leinwände mit Farben gestaltet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pictor",
+    "genus": "masculine",
+    "definition": "o persoană care aplică vopsea pe pereți, plafon sau alte suprafețe",
+    "pronunciation": "/ˈpik.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Pictor“ stammt vom lateinischen „pictor“, was „Maler“ bedeutet, abgeleitet von „pingere“ (malen).",
+        "targetText": "„Pictor“ provine din latină, din „pictor“, care înseamnă „pictor“, derivat din „pingere“ („a picta“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein „pictor“ kann verschiedene Maltechniken verwenden, wie Öl- oder Aquarellfarben."
+  },
+  "senses": [
+    {
+      "gloss": "Maler (Beruf)",
+      "explanation": {
+        "sourceText": "Person, die Farben aufträgt.",
+        "targetText": "Persoană care aplică vopsea."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Maler hat das Bild in wenigen Stunden fertiggestellt.",
+          "targetText": "Pictorul a terminat tabloul în câteva ore."
+        },
+        {
+          "sourceText": "Jeder Maler hat seinen eigenen Stil.",
+          "targetText": "Fiecare pictor are propriul său stil."
+        }
+      ]
+    },
+    {
+      "gloss": "Maler (Künstler)",
+      "explanation": {
+        "sourceText": "Beschreibung eines künstlerischen Schaffens.",
+        "targetText": "Descriere a activității artistice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ein bekannter Maler wird eine Ausstellung haben.",
+          "targetText": "Un pictor celebru va avea o expoziție."
+        }
+      ]
+    },
+    {
+      "gloss": "Wandmaler",
+      "explanation": {
+        "sourceText": "Spezialisiert auf das Malen von Wänden.",
+        "targetText": "Specializat în pictura pe pereți."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Wandmaler verschönert die Schule.",
+          "targetText": "Pictorul de pereți împodobește școala."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Farbe",
+      "targetText": "culoare"
+    },
+    {
+      "sourceText": "Leinwand",
+      "targetText": "pânză"
+    },
+    {
+      "sourceText": "Mischung",
+      "targetText": "amestec"
+    },
+    {
+      "sourceText": "Pinsel",
+      "targetText": "pensulă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schneider",
+      "targetText": "croitor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Maler hat das Bild in wenigen Stunden fertiggestellt.",
+      "targetText": "Pictorul a terminat tabloul în câteva ore."
+    },
+    {
+      "sourceText": "Jeder Maler hat seinen eigenen Stil.",
+      "targetText": "Fiecare pictor are propriul său stil."
+    },
+    {
+      "sourceText": "Er arbeitet als Maler in einer großen Firma.",
+      "targetText": "El lucrează ca pictor într-o companie mare."
+    },
+    {
+      "sourceText": "Der Maler verwendet viele verschiedene Farben.",
+      "targetText": "Pictorul folosește multe culori diferite."
+    },
+    {
+      "sourceText": "Maler und Künstler sind oft sehr kreativ.",
+      "targetText": "Pictorii și artiștii sunt adesea foarte creativi."
+    },
+    {
+      "sourceText": "Ein bekannter Maler wird eine Ausstellung haben.",
+      "targetText": "Un pictor celebru va avea o expoziție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Ein lustiger Satz: „Der Maler ist ein bunter Pictor!“"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „pictor“ wie „Picture“ – ein Maler macht Bilder, das hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir einen Maler vor, der mit seinem Pinsel die Welt bunt macht – das ist der „pictor“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Maler“ und „pictor“ mit Farbe und Kunst, um die Wörter leichter zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

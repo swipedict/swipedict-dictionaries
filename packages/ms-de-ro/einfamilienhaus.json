@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-einfamilienhaus",
+  "parent": "ms-ro-casa-unifamiliala-c02486c5@470b53322dab960c808ff7168a76d9cd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Einfamilienhaus",
+    "genus": "neuter",
+    "definition": "Ein Haus, das für eine einzelne Familie bestimmt ist, im Gegensatz zu Mehrfamilienhäusern.",
+    "pronunciation": "/ˈaɪ̯n.faː.mi.li̯ənˌhaʊ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Einfamilienhaus“ setzt sich aus „ein“ (Zahlwort), „Familie“ (vom lateinischen 'familia') und „Haus“ zusammen und bezeichnet ein Haus für eine Familie.",
+        "targetText": "Cuvântul german „Einfamilienhaus“ este compus din „ein“ (un), „Familie“ (provenind din latină 'familia') și „Haus“ și desemnează o casă pentru o singură familie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "casă unifamilială",
+    "genus": "feminine",
+    "definition": "O casă destinată unei singure familii, spre deosebire de blocurile cu mai multe familii.",
+    "pronunciation": "/ˈka.sə uni.famiˈlja.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „unifamilială“ stammt vom lateinischen Präfix 'uni-' (ein) und 'familia' (Familie) ab, was zusammen eine einzelne Familie bezeichnet.",
+        "targetText": "Cuvântul românesc „unifamilială” provine din prefixul latin 'uni-' (unu) și 'familia' (familie), indicând o singură familie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Garten",
+      "targetText": "grădină"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Mehrfamilienhaus",
+      "targetText": "bloc de locuințe"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mehrfamilienhaus",
+      "targetText": "bloc de locuințe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Einfamilienhaus hat einen großen Garten.",
+      "targetText": "Casa unifamilială are o grădină mare."
+    },
+    {
+      "sourceText": "Viele Familien träumen von einem eigenen Einfamilienhaus.",
+      "targetText": "Multe familii visează la o casă unifamilială proprie."
+    },
+    {
+      "sourceText": "Ein Einfamilienhaus bietet mehr Privatsphäre als eine Wohnung.",
+      "targetText": "O casă unifamilială oferă mai multă intimitate decât un apartament."
+    },
+    {
+      "sourceText": "Das Einfamilienhaus steht in einer ruhigen Wohngegend.",
+      "targetText": "Casa unifamilială se află într-o zonă rezidențială liniștită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Einfamilienhaus“ ist zusammengesetzt, genau wie das rumänische „casă unifamilială“ – beide beschreiben klar, dass es nur eine Familie gibt."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort „familia“ steckt in beiden Sprachen – so kannst du dir die Bedeutung von „unifamilială“ leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „unifamilială“ beginnt mit „uni-“, was an „uni“ in Universität erinnert – etwas Einzigartiges, hier also für eine Familie."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine Familie wohnt in einer „uni“-versalen (einzigen) Wohnung – so merkst du dir „unifamilială“ als Haus für eine Familie."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

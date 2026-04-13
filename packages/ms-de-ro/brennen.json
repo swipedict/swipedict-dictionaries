@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-brennen",
+  "parent": "ms-ro-a-arde-5b0d4574@d15e505b418ad18f82fcb94627963ab1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "brennen",
+    "definition": "eine Flamme erzeugen oder Hitze erzeugen; sich entzünden",
+    "pronunciation": "/ˈbʁɛnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom althochdeutschen „brennan“, was „brennen“ bedeutet.",
+        "targetText": "Provine din germana veche (althochdeutsch) „brennan“, care înseamnă „a arde“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, beschreibt den Vorgang des Brennens oder der Verbrennung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a arde",
+    "definition": "a produce o flacără sau o căldură; a se aprinde",
+    "pronunciation": "/a ˈarde/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „ardere“, was „brennen“ bedeutet, mit Parallelen in mehreren romanischen Sprachen.",
+        "targetText": "Provine din latinescul „ardere“, care înseamnă „a arde“, cu forme similare în alte limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Wird oft in Bezug auf Wärme und Licht verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Hitze",
+      "targetText": "căldură"
+    },
+    {
+      "sourceText": "Licht",
+      "targetText": "lumină"
+    },
+    {
+      "sourceText": "Rauch",
+      "targetText": "fum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "löschen",
+      "targetText": "a stinge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich brenne das Papier.",
+      "targetText": "Eu ard hârtia."
+    },
+    {
+      "sourceText": "Brennst du die Kerze?",
+      "targetText": "Arzi lumânarea?"
+    },
+    {
+      "sourceText": "Das Feuer brennt heiß.",
+      "targetText": "Focul arde fierbinte."
+    },
+    {
+      "sourceText": "Wir brennen für die Musik.",
+      "targetText": "Noi ardem pentru muzică."
+    },
+    {
+      "sourceText": "Brennt ihr auch im Winter?",
+      "targetText": "Ardeți și voi iarna?"
+    },
+    {
+      "sourceText": "Die Lichter brennen hell.",
+      "targetText": "Luminile ard strălucitor."
+    },
+    {
+      "sourceText": "Ich habe das Holz gebrannt.",
+      "targetText": "Am ars lemnul."
+    },
+    {
+      "sourceText": "Er brannte das Bild.",
+      "targetText": "El ardea imaginea."
+    },
+    {
+      "sourceText": "Wir werden das Feuer brennen.",
+      "targetText": "Noi vom arde focul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die Endung „-e“ in „a arde“ zeigt die regelmäßige Konjugation – wie das stetige Brennen eines Feuers."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie Wärme und Licht entstehen, wenn etwas „arde“ – so merkst du dir die Bedeutung leicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a arde“ mit dem lateinischen Ursprung „ardere“ und dem Bild von brennendem Holz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

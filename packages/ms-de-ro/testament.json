@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-testament",
+  "parent": "ms-ro-testament-116a262d@74c22dae8b8065cb58ec2b356f7ad76f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Testament",
+    "genus": "neuter",
+    "definition": "Ein rechtsgültiges Dokument, in dem eine Person festlegt, wie ihr Vermögen nach dem Tod verteilt werden soll.",
+    "pronunciation": "/tɛstaˈmɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Testament“ stammt vom lateinischen 'testamentum' ab, das 'letzter Wille' oder 'Verfügung' bedeutet und sich aus 'testari' (bezeugen) ableitet.",
+        "targetText": "Cuvântul german „Testament“ provine din latină, de la 'testamentum', care înseamnă 'ultimul voință' sau 'dispoziție', derivat din 'testari' (a depune mărturie)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "testament",
+    "genus": "neuter",
+    "definition": "Un document legal prin care o persoană dispune cum să fie împărțită averea sa după moarte.",
+    "pronunciation": "/tes.taˈment/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „testament“ stammt direkt vom lateinischen 'testamentum' ab, das im Recht die letztwillige Verfügung bezeichnet.",
+        "targetText": "Cuvântul românesc „testament” provine direct din latină, de la 'testamentum', care desemnează o dispoziție testamentară în drept."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erbe",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Nachlass",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "Verfügung",
+      "targetText": "dispoziție"
+    },
+    {
+      "sourceText": "Vermächtnis",
+      "targetText": "legat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er hat sein Testament vor seinem Tod geschrieben.",
+      "targetText": "El și-a scris testamentul înainte de moarte."
+    },
+    {
+      "sourceText": "Das Testament regelt die Verteilung des Vermögens.",
+      "targetText": "Testamentul reglementează împărțirea averii."
+    },
+    {
+      "sourceText": "Ein Testament muss handschriftlich oder notariell beglaubigt sein.",
+      "targetText": "Un testament trebuie să fie scris de mână sau autentificat notarial."
+    },
+    {
+      "sourceText": "Ohne Testament fällt das Erbe an die gesetzlichen Erben.",
+      "targetText": "Fără testament, moștenirea revine moștenitorilor legali."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'testari' bedeutet 'bezeugen' – so kannst du dir merken, dass ein Testament deine letzten Wünsche bezeugt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Testament' klingt im Deutschen und Rumänischen fast gleich – das hilft dir, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird 'testament' genauso geschrieben wie im Deutschen, nur die Aussprache ist etwas weicher."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du schreibst deinen letzten Willen auf ein 'Testament'-Dokument, das deine 'Test'-phase im Leben abschließt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

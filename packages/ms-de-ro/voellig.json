@@ -1,0 +1,145 @@
+{
+  "id": "ms-de-ro-voellig",
+  "parent": "ms-ro-complet-da223f6a@e997ea1d6c36baa9070ec80400543780",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "völlig",
+    "definition": "vollständig oder ganz; ohne Einschränkungen oder Zweifel",
+    "pronunciation": "/ˈfœlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „völlig“ stammt vom mittelhochdeutschen „vollen“, was „voll“ oder „umfänglich“ bedeutet.",
+        "targetText": "Adjectivul românesc „complet“ provine din latină, de la „completus“, participiul trecut al verbului „complere“, care înseamnă „a umple“ sau „a face întreg“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "complet",
+    "genus": "masculine",
+    "definition": "complet sau întreg; fără restricții sau îndoieli",
+    "pronunciation": "/komˈplet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „complet“ stammt vom lateinischen „completus“, was „vollständig“ oder „abgeschlossen“ bedeutet.",
+        "targetText": "Românescul „complet“ provine din latină, de la „completus“, care înseamnă „complet“ sau „încheiat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "Völlig / absolut",
+      "explanation": {
+        "sourceText": "'Völlig' wird auch verwendet, um 'absolut' zu betonen.",
+        "targetText": "'Völlig' este folosit și pentru a sublinia 'absolut'."
+      },
+      "examples": [
+        {
+          "sourceText": "Das ist völlig absurd.",
+          "targetText": "Asta este complet absurd."
+        }
+      ]
+    },
+    {
+      "gloss": "Völlig / ganz",
+      "explanation": {
+        "sourceText": "'Völlig' ist synonym zu 'ganz'.",
+        "targetText": "'Völlig' este sinonim cu 'întreg'."
+      },
+      "examples": [
+        {
+          "sourceText": "Dieser Plan ist völlig in Ordnung.",
+          "targetText": "Acest plan este complet în regulă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "absolut",
+      "targetText": "absolut"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "întreg"
+    },
+    {
+      "sourceText": "komplett",
+      "targetText": "complet"
+    },
+    {
+      "sourceText": "voll",
+      "targetText": "plin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "teilweise",
+      "targetText": "parțial"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er war völlig überrascht von der Nachricht.",
+      "targetText": "A fost complet surprins de veste."
+    },
+    {
+      "sourceText": "Das Essen war völlig klar.",
+      "targetText": "Mâncarea a fost complet clară."
+    },
+    {
+      "sourceText": "Sie fühlte sich völlig glücklich.",
+      "targetText": "Se simțea complet fericită."
+    },
+    {
+      "sourceText": "Das war völlig unnötig.",
+      "targetText": "A fost complet inutil."
+    },
+    {
+      "sourceText": "Er ist völlig schockiert.",
+      "targetText": "El este complet șocat."
+    },
+    {
+      "sourceText": "Die Situation war völlig unerwartet.",
+      "targetText": "Situația a fost complet neașteptată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Völlig“ klingt wie „voll“ – stelle dir einen Koffer vor, der völlig voll ist, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „völlig“ und „complet“ Zwillinge sind – beide bedeuten „ganz“ oder „vollständig“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „völlig“ mit „complet“ durch die Vorstellung eines komplett gefüllten Objekts."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

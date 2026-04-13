@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-entspannen",
+  "parent": "ms-ro-a-se-relaxa-d9968cfc@33cf6862cc57f3b5c8031fab86348355",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "YourNameOrHandle",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "entspannen",
+    "definition": "sich lockern, zur Ruhe kommen, die Anspannung lösen (reflexiv: sich entspannen); etwas lockern, die Spannung von etwas nehmen (transitiv)",
+    "pronunciation": "/ɛntˈʃpanən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Präfix 'ent-' (weg, auseinander) + 'spannen' (to stretch, to tense). Bedeutet also wörtlich, die Spannung wegzunehmen.",
+        "targetText": "Prefixul „ent-“ (departe, separat) + „spannen“ (a întinde, a încorda). Literal înseamnă a lua tensiunea departe."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann reflexiv ('sich entspannen' - to relax oneself) oder transitiv ('die Muskeln entspannen' - to relax the muscles) verwendet werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se relaxa",
+    "definition": "a se destinde, a se odihni, a elimina încordarea sau tensiunea nervoasă",
+    "pronunciation": "/a se re.lakˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se relaxa“ kommt aus dem Französischen „se relaxer“, das wiederum vom lateinischen „relaxare“ stammt, was „lockern“ oder „entspannen“ bedeutet.",
+        "targetText": "Verbul românesc „a se relaxa“ provine din franceza „se relaxer“, derivat din latină „relaxare“, care înseamnă „a slăbi“ sau „a destinde“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Verb reflexiv. Hauptverb für „sich entspannen“. Für den transitiven Sinn von „entspannen“ (etwas lockern) kann „a destinde“ verwendet werden."
+  },
+  "senses": [
+    {
+      "gloss": "Muskeln entspannen (etwas lockern)",
+      "explanation": {
+        "sourceText": "Die Spannung aus einem Körperteil nehmen.",
+        "targetText": "A lua tensiunea de pe o parte a corpului."
+      },
+      "examples": [
+        {
+          "sourceText": "Er versuchte, seine verspannten Schultern zu entspannen.",
+          "targetText": "A încercat să-și destindă umerii încordați."
+        }
+      ]
+    },
+    {
+      "gloss": "sich entspannen (zur Ruhe kommen)",
+      "explanation": {
+        "sourceText": "Der Vorgang des körperlichen oder geistigen Zur-Ruhe-Kommens.",
+        "targetText": "Procesul de a ajunge la relaxare fizică sau mentală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss mich nach der Arbeit entspannen.",
+          "targetText": "Trebuie să mă relaxez după muncă."
+        },
+        {
+          "sourceText": "Entspann dich mal!",
+          "targetText": "Relaxează-te!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "beruhigen",
+      "targetText": "a (se) calma"
+    },
+    {
+      "sourceText": "Entspannung",
+      "targetText": "relaxare"
+    },
+    {
+      "sourceText": "Erholung",
+      "targetText": "odihnă"
+    },
+    {
+      "sourceText": "locker",
+      "targetText": "relaxat"
+    },
+    {
+      "sourceText": "Ruhe",
+      "targetText": "liniște"
+    },
+    {
+      "sourceText": "Stress abbauen",
+      "targetText": "a reduce stresul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anspannen",
+      "targetText": "a (se) încorda"
+    },
+    {
+      "sourceText": "aufregen",
+      "targetText": "a (se) agita"
+    },
+    {
+      "sourceText": "stressen",
+      "targetText": "a (se) stresa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich entspanne mich gerne mit einem guten Buch.",
+      "targetText": "Îmi place să mă relaxez cu o carte bună."
+    },
+    {
+      "sourceText": "Nach dem Sport sollten sich die Muskeln entspannen.",
+      "targetText": "După sport, mușchii ar trebui să se relaxeze."
+    },
+    {
+      "sourceText": "Wie entspannst du dich am besten?",
+      "targetText": "Cum te relaxezi cel mai bine?"
+    },
+    {
+      "sourceText": "Die Lage hat sich etwas entspannt.",
+      "targetText": "Situația s-a mai relaxat / s-a mai destins puțin."
+    },
+    {
+      "sourceText": "Er konnte sich trotz des Lärms entspannen.",
+      "targetText": "A putut să se relaxeze în ciuda zgomotului."
+    },
+    {
+      "sourceText": "Wir haben uns im Urlaub total entspannt.",
+      "targetText": "Ne-am relaxat total în vacanță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „entspannen“ bedeutet wörtlich „die Spannung wegnehmen“ – genau wie das rumänische „a se relaxa“."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das Wort „Spannung“: „ent-spannen“ heißt, die Spannung lösen, genau wie „relaxa“ im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

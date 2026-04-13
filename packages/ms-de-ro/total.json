@@ -1,0 +1,172 @@
+{
+  "id": "ms-de-ro-total",
+  "parent": "ms-ro-total-c22fe15e@0281236d5751d29afc60d5c48fbe5bb5",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "total",
+    "definition": "völlig, gänzlich, uneingeschränkt; die Gesamtheit betreffend",
+    "pronunciation": "/toˈtaːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „total“ stammt aus dem Mittellateinischen „totalis“ (gesamthaft), abgeleitet von lateinisch „totus“ (ganz).",
+        "targetText": "Cuvântul german „total“ provine din latină medievală „totalis“, derivat din latină clasică „totus“, însemnând „întreg“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann als Adjektiv oder Adverb verwendet werden. Oft auch umgangssprachlich zur Verstärkung (total super = sehr super)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "total",
+    "definition": "complet, întreg, absolut; care privește ansamblul",
+    "pronunciation": "/toˈtal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „total“ stammt aus dem Französischen „total“, das wiederum vom lateinischen „totalis“ abgeleitet ist.",
+        "targetText": "Cuvântul românesc „total“ provine din franceză „total“, derivat din latină „totalis“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Poate fi folosit ca adjectiv sau adverb. Adjectiv variabil (total, totală, totali, totale)."
+  },
+  "senses": [
+    {
+      "gloss": "total (als Adjektiv: vollständig)",
+      "explanation": {
+        "sourceText": "Beschreibt etwas als vollständig oder die Gesamtheit umfassend.",
+        "targetText": "Descrie ceva ca fiind complet sau cuprinzând totalitatea."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Erfolg war total.",
+          "targetText": "Succesul a fost total."
+        },
+        {
+          "sourceText": "Wir brauchen eine totale Veränderung.",
+          "targetText": "Avem nevoie de o schimbare totală."
+        }
+      ]
+    },
+    {
+      "gloss": "total (als Adverb: völlig, gänzlich)",
+      "explanation": {
+        "sourceText": "Verstärkt eine Eigenschaft oder ein Gefühl.",
+        "targetText": "Intensifică o calitate sau un sentiment."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bin total müde.",
+          "targetText": "Sunt total obosit(ă)."
+        },
+        {
+          "sourceText": "Das ist total verrückt!",
+          "targetText": "Asta e total nebunesc!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "absolut",
+      "targetText": "absolut"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "întreg"
+    },
+    {
+      "sourceText": "Gesamtheit",
+      "targetText": "totalitate"
+    },
+    {
+      "sourceText": "komplett",
+      "targetText": "complet"
+    },
+    {
+      "sourceText": "Summe",
+      "targetText": "sumă"
+    },
+    {
+      "sourceText": "völlig",
+      "targetText": "complet"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "geringfügig",
+      "targetText": "minor"
+    },
+    {
+      "sourceText": "kaum",
+      "targetText": "abia"
+    },
+    {
+      "sourceText": "teilweise",
+      "targetText": "parțial"
+    },
+    {
+      "sourceText": "unvollständig",
+      "targetText": "incomplet"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Verlust war total.",
+      "targetText": "Pierderea a fost totală."
+    },
+    {
+      "sourceText": "Das war eine totale Überraschung.",
+      "targetText": "A fost o surpriză totală."
+    },
+    {
+      "sourceText": "Er ist total begeistert von dem Film.",
+      "targetText": "El este total încântat de film."
+    },
+    {
+      "sourceText": "Die Rechnung war total falsch.",
+      "targetText": "Factura a fost total greșită."
+    },
+    {
+      "sourceText": "Ihr Erfolg war total verdient.",
+      "targetText": "Succesul ei a fost total meritat."
+    },
+    {
+      "sourceText": "Ein totaler Umbruch in der Firma steht bevor.",
+      "targetText": "O transformare totală în firmă este iminentă."
+    },
+    {
+      "sourceText": "Ich habe das total vergessen.",
+      "targetText": "Am uitat total acest lucru."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'total' und das rumänische 'total' sind identisch in Schreibweise und Bedeutung – sehr leicht zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'Totalbetrag' auf einer Rechnung – die gesamte, vollständige Summe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-unfall",
+  "parent": "ms-ro-accident-8f31db6f@0812dc904afaf007ff32971a82465a47",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Unfall",
+    "genus": "masculine",
+    "definition": "Ein plötzliches, unerwartetes Ereignis, das meist zu Schaden oder Verletzung führt.",
+    "pronunciation": "/ˈʊnˌfal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Unfall“ setzt sich aus dem negierenden Präfix 'un-' und dem Substantiv 'Fall' zusammen. 'Fall' stammt vom althochdeutschen 'fall', das auf die indogermanische Wurzel *pol- (fallen, stürzen) zurückgeht.",
+        "targetText": "Cuvântul german „Unfall” este compus din prefixul negativ 'un-' și substantivul 'Fall' (cădere). 'Fall' provine din germana veche înaltă 'fall', derivată din rădăcina indo-europeană *pol- care înseamnă a cădea sau a se prăbuși."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "accident",
+    "genus": "neuter",
+    "definition": "Un eveniment neașteptat și nedorit care cauzează daune sau vătămări.",
+    "pronunciation": "/akˈt͡ʃident/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „accident“ stammt direkt aus dem lateinischen 'accidens, accidentis', Partizip Präsens von 'accidere' (geschehen, sich ereignen), das wiederum von 'ad-' (zu) und 'cadere' (fallen) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „accident” provine direct din latină, din 'accidens, accidentis', participiul prezent al verbului 'accidere' (a se întâmpla), derivat din 'ad-' (către) și 'cadere' (a cădea)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Unfallopfer",
+      "targetText": "victimă a accidentului"
+    },
+    {
+      "sourceText": "Unfallstelle",
+      "targetText": "locul accidentului"
+    },
+    {
+      "sourceText": "Unfallversicherung",
+      "targetText": "asigurare de accident"
+    },
+    {
+      "sourceText": "Verkehrsunfall",
+      "targetText": "accident rutier"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Unfall passierte gestern auf der Autobahn.",
+      "targetText": "Accidentul a avut loc ieri pe autostradă."
+    },
+    {
+      "sourceText": "Nach dem Unfall rief er sofort den Notarzt an.",
+      "targetText": "După accident, a sunat imediat la ambulanță."
+    },
+    {
+      "sourceText": "Glücklicherweise gab es bei dem Unfall keine Verletzten.",
+      "targetText": "Din fericire, nu au fost răniți în accident."
+    },
+    {
+      "sourceText": "Die Polizei untersucht die Ursache des Unfalls.",
+      "targetText": "Poliția investighează cauza accidentului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix 'un-' im Deutschen zeigt eine Negation an, hier also ein Ereignis, das nicht geplant oder gewollt ist – ein Unfall. Im Rumänischen ist das Wort direkt aus dem Lateinischen entlehnt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'accident' klingt ähnlich wie das englische 'accident'. Beide stammen vom lateinischen 'accidere' ab, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort 'Fall' im Deutschen, das 'Sturz' bedeutet. Ein 'Unfall' ist also ein unerwarteter 'Nicht-Fall' im Sinne eines Ereignisses, das passiert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, etwas 'fällt' plötzlich und unerwartet – so passiert ein 'accident' (Unfall). Das lateinische 'cadere' bedeutet 'fallen' und steckt im rumänischen Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

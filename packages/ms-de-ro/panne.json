@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-panne",
+  "parent": "ms-ro-defectiune-a99ad842@73f4044b0e443fd8b3480280fe069733",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Panne",
+    "genus": "feminine",
+    "definition": "Ein unerwartetes technisches oder mechanisches Problem, das zum Ausfall oder Stillstand eines Fahrzeugs oder Geräts führt.",
+    "pronunciation": "/ˈpanə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Panne“ stammt aus dem Französischen „panne“, das ursprünglich eine ‚Unterbrechung‘ oder ‚Störung‘ bedeutete und vom lateinischen ‚pannus‘ (Tuch, Lappen) abgeleitet ist, da früher oft ein Tuch als Signal bei einer Störung verwendet wurde.",
+        "targetText": "Cuvântul german „Panne“ provine din franceza „panne“, care inițial însemna „întrerupere“ sau „defecțiune“ și derivă din latină „pannus“ (bucată de pânză), deoarece în trecut se folosea adesea o bucată de pânză ca semnal pentru o defecțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "defecțiune",
+    "genus": "feminine",
+    "definition": "O problemă tehnică neașteptată sau o avarie care cauzează oprirea sau nefuncționarea unui vehicul sau dispozitiv.",
+    "pronunciation": "/de.feʧˈt͡si.u.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „defecțiune“ stammt vom lateinischen ‚defectio‘ ab, was ‚Mangel‘ oder ‚Versagen‘ bedeutet, und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „defecțiune“ provine din latină „defectio“, care înseamnă „lipsă“ sau „eșec“, fiind preluat în română prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ausfall",
+      "targetText": "pană"
+    },
+    {
+      "sourceText": "Panne beheben",
+      "targetText": "a remedia o defecțiune"
+    },
+    {
+      "sourceText": "Reparatur",
+      "targetText": "reparație"
+    },
+    {
+      "sourceText": "Störung",
+      "targetText": "defecțiune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Funktionieren",
+      "targetText": "funcționare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Panne am Auto führte zu einer langen Verzögerung.",
+      "targetText": "Defecțiunea la mașină a cauzat o întârziere mare."
+    },
+    {
+      "sourceText": "Wir hatten eine Panne auf der Autobahn und mussten den Abschleppdienst rufen.",
+      "targetText": "Am avut o defecțiune pe autostradă și a trebuit să chemăm serviciul de tractare."
+    },
+    {
+      "sourceText": "Die Panne wurde schnell behoben.",
+      "targetText": "Defecțiunea a fost remediată rapid."
+    },
+    {
+      "sourceText": "Bei einer Panne sollte man Warnblinker einschalten.",
+      "targetText": "La o defecțiune trebuie să pornești luminile de avarie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische Wort „panne“ ist im Deutschen übernommen, aber im Rumänischen benutzt man lieber das lateinisch abgeleitete „defecțiune“."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „defecțiune“ klingt ähnlich wie das deutsche „Defekt“ – beide stammen vom lateinischen ‚defectio‘ ab."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „defecțiune“ als das technische Problem, das eine Maschine „defekt“ macht – so kannst du die Bedeutung leicht verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Auto hat eine „defecțiune“ – das klingt wie „defekt“ und hilft dir, das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

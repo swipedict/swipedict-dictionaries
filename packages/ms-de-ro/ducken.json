@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-ducken",
+  "parent": "ms-ro-a-se-apleca-5aeb877d@5f6492dd32bac6b0bd4b6ccb8b400d51",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ducken",
+    "definition": "sich bücken oder die Körperhaltung senken, um nicht gesehen zu werden",
+    "pronunciation": "/ˈdʊkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „ducken“, was „sich bücken“ oder „sich beugen“ bedeutet.",
+        "targetText": "Das Verb „ducken“ stammt vom mittelhochdeutschen „ducken“ ab und bedeutet „sich bücken“ oder „sich vorbeugen“, um nicht gesehen zu werden."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet im Zusammenhang mit körperlicher Bewegung, z.B. um etwas zu vermeiden oder leichter hindurch zu gelangen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se apleca",
+    "definition": "a se apleca sau a-și modifica postura pentru a nu fi văzut",
+    "pronunciation": "/a se a.ple'ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Entsprechung „a se apleca“ stammt vom lateinischen „plicare“, was „falten“ oder „biegen“ bedeutet. Der Begriff hat mithin die Bedeutung des Sich-bückens oder -beugens übernommen, die im Deutschen durch „ducken“ ausgedrückt wird.",
+        "targetText": "Verbul românesc „a se apleca“ provine din latină, din „plicare“, care înseamnă „a îndoi“ sau „a pleca“. Este folosit pentru a descrie acțiunea de a se apleca sau de a-și schimba postura."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges reflexives Verb. Oft verwendet, um eine Körperhaltung zu beschreiben, bei der man sich beugt, um einem Hindernis auszuweichen oder etwas zu betrachten."
+  },
+  "senses": [
+    {
+      "gloss": "sich beugen",
+      "explanation": {
+        "sourceText": "Oft verwendet, um einer Gefahr auszuweichen.",
+        "targetText": "Folosit frecvent pentru a evita un pericol."
+      },
+      "examples": [
+        {
+          "sourceText": "El duckt sich vor dem Ball.",
+          "targetText": "El se apleacă de mingea."
+        }
+      ]
+    },
+    {
+      "gloss": "sich bücken",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: die Körperhaltung senken.",
+        "targetText": "Ca în germană: a-și coborî postura corpului."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich duckte mich unter dem Tisch.",
+          "targetText": "Mă aplec sub masă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bücken",
+      "targetText": "a se apleca"
+    },
+    {
+      "sourceText": "Geduckt",
+      "targetText": "aplecat"
+    },
+    {
+      "sourceText": "Sicht",
+      "targetText": "vedere"
+    },
+    {
+      "sourceText": "Verstecken",
+      "targetText": "ascunde"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aufstehen",
+      "targetText": "a se ridica"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich duckte mich unter dem Tisch.",
+      "targetText": "Mă aplec sub masă."
+    },
+    {
+      "sourceText": "Duckst du schnell?",
+      "targetText": "Te apleci repede?"
+    },
+    {
+      "sourceText": "Er duckt sich vor dem Ball.",
+      "targetText": "El se apleacă de mingea."
+    },
+    {
+      "sourceText": "Wir ducksen uns gemeinsam.",
+      "targetText": "Ne aplecăm împreună."
+    },
+    {
+      "sourceText": "Ducks ihr, wenn es regnet!",
+      "targetText": "Îndoiți-vă dacă plouă!"
+    },
+    {
+      "sourceText": "Sie ducken sich vor dem Lärm.",
+      "targetText": "Ei se apleacă din cauza zgomotului."
+    },
+    {
+      "sourceText": "Ich habe mich vor der Tür geduckt.",
+      "targetText": "M-am aplecat înaintea ușii."
+    },
+    {
+      "sourceText": "Ich werde mich ducken müssen.",
+      "targetText": "Va trebui să mă aplec."
+    },
+    {
+      "sourceText": "Duck dich!",
+      "targetText": "Apleacă-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Ducken“ bedeutet sich bücken – verbinde es mit dem Bild einer Person, die sich versteckt, um nicht gesehen zu werden."
+    },
+    {
+      "lang": "de",
+      "text": "Das „se“ zeigt die Reflexivität, ähnlich wie „sich“ im Deutschen – das hilft dir, die Form zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die reflexive Form „a se apleca“, indem du dir vorstellst, wie du dich bewusst beugst, um unter einem Hindernis durchzugehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

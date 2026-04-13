@@ -1,0 +1,148 @@
+{
+  "id": "ms-de-ro-zunehmen",
+  "parent": "ms-ro-a-creste-d2283e60@68152fab72fc07ecf32fdfd63ca7d603",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zunehmen",
+    "definition": "größer oder mehr werden, an Gewicht oder Menge gewinnen",
+    "pronunciation": "/ˈtsuːnɛm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich aus dem Präfix „zu-“ und dem Verb „nehmen“ zusammen, was den Prozess des Wachsens beschreibt.",
+        "targetText": "Cuvântul este format din prefixul „zu-“ și verbul „nehmen“, descriind procesul de creștere."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird im übertragenen Sinne verwendet, um Mengen oder Aktivität zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a crește",
+    "definition": "a deveni mai mare sau mai mult, a câștiga în greutate sau cantitate",
+    "pronunciation": "/a ˈkreʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb stammt vom lateinischen „crescere“, was „wachsen“ oder „zunehmen“ bedeutet.",
+        "targetText": "Verbul provine din latină „crescere“, care înseamnă „a crește“ sau „a se mări“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-e). Häufig für Gewicht oder Menge verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Anzahl zunehmen",
+      "explanation": {
+        "sourceText": "'A crește' kann auch eine Zunahme der Menge bedeuten.",
+        "targetText": "'A crește' poate însemna și o creștere a cantității."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Teilnehmerzahl nimmt zu.",
+          "targetText": "Numărul participanților crește."
+        }
+      ]
+    },
+    {
+      "gloss": "Gewicht zunehmen",
+      "explanation": {
+        "sourceText": "'A crește' bezieht sich auch auf das Zunehmen an Gewicht.",
+        "targetText": "'A crește' se referă și la creșterea în greutate."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme zu.",
+          "targetText": "Eu cresc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gewicht",
+      "targetText": "greutate"
+    },
+    {
+      "sourceText": "Menge",
+      "targetText": "cantitate"
+    },
+    {
+      "sourceText": "Wachstum",
+      "targetText": "creștere"
+    },
+    {
+      "sourceText": "Zunahme",
+      "targetText": "creștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abnehmen",
+      "targetText": "a scădea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme zu.",
+      "targetText": "Eu cresc."
+    },
+    {
+      "sourceText": "Nimmst du zu?",
+      "targetText": "Crești?"
+    },
+    {
+      "sourceText": "Er nimmt zu.",
+      "targetText": "El crește."
+    },
+    {
+      "sourceText": "Wir nehmen zu.",
+      "targetText": "Noi creștem."
+    },
+    {
+      "sourceText": "Nehmt ihr zu?",
+      "targetText": "Creșteți?"
+    },
+    {
+      "sourceText": "Sie nehmen zu.",
+      "targetText": "Ei cresc."
+    },
+    {
+      "sourceText": "Ich habe zugenommen.",
+      "targetText": "Am crescut."
+    },
+    {
+      "sourceText": "Ich werde zunehmen.",
+      "targetText": "Voi crește."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Zunehmen“ kann in vielen Kontexten verwendet werden – denke an Gewicht, Menge oder Aktivität, um das Wort flexibel zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb „a crește“ bedeutet wachsen oder zunehmen. Stell dir vor, wie etwas größer wird, um die Bedeutung zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

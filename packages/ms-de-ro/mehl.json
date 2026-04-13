@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-mehl",
+  "parent": "ms-ro-faina-e7943d22@d65fcd8f30ad8183e9b0f36a957ac393",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mehl",
+    "genus": "neuter",
+    "definition": "Feines Pulver, das durch Mahlen von Getreidekörnern entsteht und zum Backen und Kochen verwendet wird.",
+    "pronunciation": "/meːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Mehl“ stammt vom althochdeutschen 'mēl' ab, das wiederum auf das lateinische 'mola' zurückgeht, was 'Mühle' oder 'Mahlgut' bedeutet.",
+        "targetText": "Cuvântul german „Mehl” provine din vechiul german înalt 'mēl', care la rândul său derivă din latină 'mola', însemnând 'moară' sau 'material măcinat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "făină",
+    "genus": "feminine",
+    "definition": "Pulbere fină obținută prin măcinarea cerealelor, folosită la copt și gătit.",
+    "pronunciation": "/fəˈinə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „făină“ stammt vom lateinischen 'farina' ab, was ursprünglich 'Mehl' oder 'gemahlenes Getreide' bedeutete und eine wichtige Grundlage der römischen Ernährung war.",
+        "targetText": "Cuvântul românesc „făină” derivă din latină 'farina', care inițial însemna 'făină' sau 'cereale măcinate', fiind o componentă esențială a alimentației romane."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Backen",
+      "targetText": "a coace"
+    },
+    {
+      "sourceText": "Brot",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "Getreide",
+      "targetText": "cereală"
+    },
+    {
+      "sourceText": "Mühle",
+      "targetText": "moară"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich brauche Mehl, um Brot zu backen.",
+      "targetText": "Am nevoie de făină pentru a coace pâine."
+    },
+    {
+      "sourceText": "Das Mehl wird aus Weizen hergestellt.",
+      "targetText": "Făina este făcută din grâu."
+    },
+    {
+      "sourceText": "Für den Kuchen benötigt man Mehl, Zucker und Eier.",
+      "targetText": "Pentru prăjitură ai nevoie de făină, zahăr și ouă."
+    },
+    {
+      "sourceText": "Das Mehl ist in der Speisekammer gelagert.",
+      "targetText": "Făina este depozitată în cămară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort 'farina' ist auch die Wurzel für das französische 'farine' – so kannst du Verbindungen zu anderen romanischen Sprachen herstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „făină“ klingt ähnlich wie „Fein“ – Mehl ist ja auch ein feines Pulver."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: „făină“ beginnt mit 'f', wie 'fein' – Mehl ist immer fein gemahlen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du in der Mühle (moară) das Getreide mahlst und daraus die „făină“ entsteht – so kannst du die Herkunft besser merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

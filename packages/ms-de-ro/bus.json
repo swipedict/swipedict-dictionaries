@@ -1,0 +1,137 @@
+{
+  "id": "ms-de-ro-bus",
+  "parent": "ms-ro-autobuz-2d9eafd8@b1873eae0cd80776cd97cc93b19484db",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bus",
+    "genus": "masculine",
+    "definition": "ein großes Fahrzeug, das viele Passagiere transportiert",
+    "pronunciation": "/bʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abkürzung von englisch „omnibus“, was „für alle“ bedeutet, im 19. Jahrhundert eingeführt.",
+        "targetText": "Prescurtare din englezescul „omnibus“, care înseamnă „pentru toți“, introdus în secolul al XIX-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Busse sind ein weit verbreitetes Verkehrsmittel in Städten und auf dem Land."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autobuz",
+    "genus": "neuter",
+    "definition": "un vehicul mare care transportă mulți pasageri",
+    "pronunciation": "/autobuʊz/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom französischen „autobus“ abgeleitet, das vom lateinischen „omnibus“ stammt und „für alle“ bedeutet.",
+        "targetText": "Provine din francezul „autobus“, derivat din latinescul „omnibus“, care înseamnă „pentru toți“."
+      },
+      "source": "AI + Wiktionary"
+    },
+    "additional": "„Autobuz“ ist ein häufig benutztes Wort im öffentlichen Verkehr."
+  },
+  "senses": [
+    {
+      "gloss": "Bus (Transportmittel)",
+      "explanation": {
+        "sourceText": "Ein großes Fahrzeug zur Personenbeförderung.",
+        "targetText": "Un vehicul mare pentru transportul persoanelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Bus fährt zur Schule.",
+          "targetText": "Autobuzul merge la școală."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrer",
+      "targetText": "șofer"
+    },
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Haltestelle",
+      "targetText": "stație"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fahrrad",
+      "targetText": "bicicletă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Bus kommt in fünf Minuten.",
+      "targetText": "Autobuzul vine în cinci minute."
+    },
+    {
+      "sourceText": "Der Bus fährt zur nächsten Haltestelle.",
+      "targetText": "Autobuzul merge la următoarea stație."
+    },
+    {
+      "sourceText": "Wir nehmen den Bus zum Konzert.",
+      "targetText": "Luăm autobuzul la concert."
+    },
+    {
+      "sourceText": "Bitte den Busfahrer ansprechen.",
+      "targetText": "Te rog să îi vorbești șoferului de autobuz."
+    },
+    {
+      "sourceText": "Ich habe meine Fahrkarte im Bus vergessen.",
+      "targetText": "Am uitat biletul în autobuz."
+    },
+    {
+      "sourceText": "Der Bus hat Verspätung.",
+      "targetText": "Autobuzul are întârziere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„autobuz“ klingt wie „Auto“ + „buz“ – stell dir ein großes Auto vor, das viele Leute transportiert."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „autobuz“ als das „Auto für viele“ – das hilft dir, das Wort zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du mit Freunden in einem „autobuz“ fährst – das macht das Wort lebendig."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Bus“ mit „autobuz“ durch das Bild eines vollen Busses in der Stadt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ms-de-ro-stur",
+  "parent": "ms-ro-indaratnic-fc935ca9@4c240d572af5934231a489d33a6d4db3",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:slavic",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stur",
+    "definition": "starr und unnachgiebig, nicht bereit, Kompromisse einzugehen",
+    "pronunciation": "/ʃtuːʁ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „stur“ kommt vom mittelhochdeutschen „stur“, was „hartnäckig“ oder „eigensinnig“ bedeutet.",
+        "targetText": "Cuvântul „stur“ provine din germana mijlocie „stur“, care înseamnă „încăpățânat“ sau „îndărătnic“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "îndărătnic",
+    "genus": "masculine",
+    "definition": "încăpățânat și inflexibil, nefiind dispus să facă compromisuri",
+    "pronunciation": "/ɨn.də.rɨtˈnik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „îndărătnic“ stammt aus dem Slawischen und bedeutet „hartnäckig“ oder „widerspenstig“.",
+        "targetText": "Cuvântul românesc „îndărătnic“ provine din limba slavă și înseamnă „încăpățânat“ sau „rezistent la schimbare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft verwendet, um Menschen zu beschreiben, die nicht leicht zu überzeugen sind."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Eigensinn",
+      "targetText": "voință proprie"
+    },
+    {
+      "sourceText": "Hartnäckig",
+      "targetText": "tenace"
+    },
+    {
+      "sourceText": "Sturheit",
+      "targetText": "încăpățânare"
+    },
+    {
+      "sourceText": "Unerbittlich",
+      "targetText": "necruțător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "flexibel",
+      "targetText": "adaptabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist sehr stur.",
+      "targetText": "El este foarte încăpățânat."
+    },
+    {
+      "sourceText": "Sie ist stur wie ein Esel.",
+      "targetText": "Ea este încăpățânată ca un măgar."
+    },
+    {
+      "sourceText": "Du bist manchmal zu stur.",
+      "targetText": "Ești uneori prea încăpățânat."
+    },
+    {
+      "sourceText": "Er verhält sich stur.",
+      "targetText": "El se comportă încăpățânat."
+    },
+    {
+      "sourceText": "Sture Menschen sind oft schwer zu überzeugen.",
+      "targetText": "Oamenii încăpățânați sunt adesea greu de convins."
+    },
+    {
+      "sourceText": "Sie können stur sein, wenn sie wollen.",
+      "targetText": "Ei pot fi încăpățânați dacă vor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stur“ klingt wie „stur“ im Deutschen – stelle dir einen starren Baum vor, der sich nicht bewegt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „îndărătnic“ klingt etwas kompliziert, aber denke an „îndărătnic“ als jemanden, der stur an seiner Meinung festhält."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie jemand mit starkem Willen (stur) wie ein Fels in der Brandung steht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „stur“ mit dem Bild eines Esel, der nicht vom Fleck kommt – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

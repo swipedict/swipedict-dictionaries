@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-wettervorhersage",
+  "parent": "ms-ro-prognoza-meteo-7e500ca0@c07c715b6a982fb2aae18467d6ef7806",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wettervorhersage",
+    "genus": "feminine",
+    "definition": "Die Prognose oder Voraussage des zukünftigen Wetters, basierend auf meteorologischen Daten.",
+    "pronunciation": "/ˈvɛtɐˌfoːɐ̯ˌzaxə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wettervorhersage“ setzt sich aus ‚Wetter‘ und ‚Vorhersage‘ zusammen. ‚Wetter‘ stammt vom althochdeutschen 'wetar' ab, das auf die indogermanische Wurzel *wed- (bedeuten ‚feucht‘, ‚Wasser‘) zurückgeht. ‚Vorhersage‘ leitet sich vom Verb ‚vorhersagen‘ ab, das aus ‚vor‘ und ‚sagen‘ besteht.",
+        "targetText": "Cuvântul german „Wettervorhersage“ este compus din „Wetter“ și „Vorhersage“. „Wetter“ provine din germana veche înaltă 'wetar', legat de rădăcina indo-europeană *wed- care înseamnă 'umed', 'apă'. „Vorhersage“ derivă din verbul „vorhersagen“, compus din „vor“ și „sagen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prognoză meteo",
+    "genus": "feminine",
+    "definition": "Previziunea sau estimarea stării vremii viitoare, bazată pe date meteorologice.",
+    "pronunciation": "/proɡˈno.zə meˈte.o/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „prognoză“ stammt vom lateinischen ‚prognōsis‘ ab, das aus dem Griechischen ‚πρόγνωσις‘ (prógnōsis) stammt und ‚Voraussage‘ bedeutet. ‚Meteo‘ ist eine Kurzform von ‚meteorologic‘, das ebenfalls aus dem Griechischen ‚μετεωρολογικός‘ (meteorologikós) stammt.",
+        "targetText": "Cuvântul românesc „prognoză“ provine din latină, din „prognōsis“, care la rândul său vine din greaca „πρόγνωσις“ (prógnōsis), însemnând „previziune“. „Meteo“ este o formă prescurtată a cuvântului „meteorologic“, derivat din greaca „μετεωρολογικός“ (meteorologikós)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Meteorologie",
+      "targetText": "meteorologie"
+    },
+    {
+      "sourceText": "Vorhersage",
+      "targetText": "previziune"
+    },
+    {
+      "sourceText": "Wetter",
+      "targetText": "vreme"
+    },
+    {
+      "sourceText": "Wolke",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Wettervorhersage sagt Regen für morgen voraus.",
+      "targetText": "Prognoza meteo anunță ploaie pentru mâine."
+    },
+    {
+      "sourceText": "Laut der Wettervorhersage wird es nächste Woche sonnig.",
+      "targetText": "Conform prognozei meteo, săptămâna viitoare va fi însorit."
+    },
+    {
+      "sourceText": "Die Wettervorhersage hilft uns, den Tag besser zu planen.",
+      "targetText": "Prognoza meteo ne ajută să planificăm mai bine ziua."
+    },
+    {
+      "sourceText": "Die Wettervorhersage wurde im Radio bekanntgegeben.",
+      "targetText": "Prognoza meteo a fost anunțată la radio."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚Wettervorhersage‘ ist ein zusammengesetztes Wort, im Rumänischen benutzt man zwei Wörter: ‚prognoză‘ (Vorhersage) und ‚meteo‘ (Wetter)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚meteo‘ erinnert an ‚Meteorologie‘, das Studium des Wetters. ‚Prognoză meteo‘ ist also die Wetterprognose."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚prognoză‘ klingt ähnlich wie ‚Prognose‘ im Deutschen – beide stammen vom griechischen ‚πρόγνωσις‘ ab. So kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist ein ‚Meteor‘, der die Zukunft des Wetters ‚vorhersagt‘ – so verbindet sich ‚meteo‘ mit ‚prognoză‘."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-wetter",
+  "parent": "ms-ro-vreme-d2110393@e02b2c5c22d86db6b311b245bde9175a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wetter",
+    "genus": "neuter",
+    "definition": "Der Zustand der Atmosphäre an einem bestimmten Ort und zu einer bestimmten Zeit, insbesondere bezüglich Temperatur, Niederschlag, Wind und Bewölkung.",
+    "pronunciation": "/ˈvɛtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wetter“ stammt vom althochdeutschen 'wetar' ab, das auf die indogermanische Wurzel *wed- zurückgeht, die mit Wasser und Feuchtigkeit verbunden ist.",
+        "targetText": "Cuvântul german „Wetter” provine din vechiul german înalt 'wetar', derivat din rădăcina indo-europeană *wed-, legată de apă și umezeală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vreme",
+    "genus": "feminine",
+    "definition": "Starea atmosferei într-un anumit loc și moment, în special referitoare la temperatură, precipitații, vânt și nori.",
+    "pronunciation": "/ˈvre.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vreme“ stammt vom lateinischen 'verēm' ab, das ursprünglich 'Jahreszeit' oder 'Zeit' bedeutete und sich auf das Wetter bezog.",
+        "targetText": "Cuvântul românesc „vreme” provine din latină, din termenul 'verēm', care inițial însemna 'sezon' sau 'timp' și era folosit pentru a desemna starea vremii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Klima",
+      "targetText": "climă"
+    },
+    {
+      "sourceText": "Regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "Wind",
+      "targetText": "vânt"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Wetter ist heute sonnig und warm.",
+      "targetText": "Vremea este astăzi însorită și caldă."
+    },
+    {
+      "sourceText": "Im Winter ist das Wetter oft kalt und nass.",
+      "targetText": "Iarna vremea este adesea rece și umedă."
+    },
+    {
+      "sourceText": "Das Wetter kann sich schnell ändern.",
+      "targetText": "Vremea se poate schimba rapid."
+    },
+    {
+      "sourceText": "Wir sollten das Wetter beobachten, bevor wir rausgehen.",
+      "targetText": "Ar trebui să urmărim vremea înainte să ieșim afară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'vreme' klingt ähnlich wie das deutsche Wort 'Zeit' und bedeutet ursprünglich auch 'Zeit' bzw. 'Jahreszeit', was dir hilft, die Verbindung zum Wetter zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vreme' endet auf '-e', was typisch für viele rumänische Substantive ist – das hilft dir, es als Nomen zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie das Wetter die 'Zeit' (vreme) bestimmt, die du draußen verbringst – so kannst du dir das Wort leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'vreme' mit dem englischen Wort 'weather' – beide beginnen mit 'w' und beziehen sich auf das gleiche Thema."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

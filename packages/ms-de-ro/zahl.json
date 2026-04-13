@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-zahl",
+  "parent": "ms-ro-numar-69e8753f@c86e0845821bb5a24e21c11bcbd5e3ec",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zahl",
+    "genus": "feminine",
+    "definition": "Ein Symbol oder eine Menge, die eine Anzahl oder einen Wert ausdrückt.",
+    "pronunciation": "/tsaːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zahl“ stammt vom althochdeutschen 'zala' ab, das auf das lateinische 'cifra' zurückgeht, ursprünglich aus dem Arabischen, und wurde über das Mittellateinische ins Deutsche übernommen.",
+        "targetText": "Cuvântul german „Zahl” provine din vechiul german 'zala', care la rândul său derivă din latină medievală 'cifra', împrumutat din arabă, și a intrat în germană prin intermediul latinului medieval."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "număr",
+    "genus": "neuter",
+    "definition": "Un simbol sau o cantitate care exprimă o valoare sau o cantitate numerică.",
+    "pronunciation": "/nuˈmər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „număr“ stammt direkt vom lateinischen 'numerus' ab, das 'Zahl' oder 'Anzahl' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „număr” provine direct din latinul 'numerus', care înseamnă 'număr' sau 'cantitate' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mathematik",
+      "targetText": "matematică"
+    },
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "Rechnen",
+      "targetText": "a calcula"
+    },
+    {
+      "sourceText": "Ziffer",
+      "targetText": "cifră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Zahl sieben ist eine Primzahl.",
+      "targetText": "Numărul șapte este un număr prim."
+    },
+    {
+      "sourceText": "Bitte gib deine Telefonnummer an.",
+      "targetText": "Te rog să dai numărul tău de telefon."
+    },
+    {
+      "sourceText": "Die Zahl der Teilnehmer ist gestiegen.",
+      "targetText": "Numărul participanților a crescut."
+    },
+    {
+      "sourceText": "In der Mathematik lernt man verschiedene Arten von Zahlen.",
+      "targetText": "La matematică înveți diferite tipuri de numere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'numerus' steckt in 'număr' – viele romanische Sprachen haben ähnliche Wörter, z.B. italienisch 'numero'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'număr' klingt wie 'Nummer' im Deutschen, was dir hilft, es mit Zahlen und Nummern zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zählst mit 'Nummer' – das hilft dir, 'număr' als Zahl zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'număr' mit dem deutschen Wort 'Nummer', um dir die Bedeutung als Zahl oder Nummer besser einzuprägen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

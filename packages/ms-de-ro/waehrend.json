@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-waehrend",
+  "parent": "ms-ro-in-timp-ce-d1723f4d@1036948bcffa7d301e908a22b09f86a0",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "während",
+    "definition": "Eine Konjunktion, die einen Zeitraum angibt, in dem etwas passiert, oft mit dem Sinn von 'zur gleichen Zeit wie'.",
+    "pronunciation": "/ˈvɛːʁənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „während“ stammt vom mittelhochdeutschen 'währende', dem Partizip Präsens von 'währen', das auf das althochdeutsche 'wëren' zurückgeht und 'dauern' bedeutet.",
+        "targetText": "Cuvântul german „während“ provine din mijlocul germanului vechi 'währende', participiul prezent al verbului 'währen', derivat din germana veche înaltă 'wëren', care înseamnă 'a dura'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în timp ce",
+    "definition": "Conjuncție care indică faptul că două acțiuni sau stări se petrec simultan.",
+    "pronunciation": "/ɨn timp tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Wendung 'în timp ce' besteht aus dem lateinischen Präposition 'in', dem Substantiv 'tempus' (Zeit) und dem Relativpronomen 'ce', das aus dem lateinischen 'quid' stammt. Somit hat die Wendung eine klare lateinische Herkunft.",
+        "targetText": "Locuțiunea românească „în timp ce” este formată din prepoziția latină 'in', substantivul 'tempus' (timp) și pronumele relativ 'ce', derivat din latină 'quid', având astfel o origine latină clară."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "gleichzeitig",
+      "targetText": "simultan"
+    },
+    {
+      "sourceText": "solange",
+      "targetText": "atâta timp cât"
+    },
+    {
+      "sourceText": "währenddessen",
+      "targetText": "între timp"
+    },
+    {
+      "sourceText": "Zeit",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nachdem",
+      "targetText": "după ce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Während ich koche, hört er Musik.",
+      "targetText": "În timp ce gătesc, el ascultă muzică."
+    },
+    {
+      "sourceText": "Sie liest ein Buch, während er fernsehen schaut.",
+      "targetText": "Ea citește o carte, în timp ce el se uită la televizor."
+    },
+    {
+      "sourceText": "Während des Meetings hat niemand gesprochen.",
+      "targetText": "În timpul ședinței nimeni nu a vorbit."
+    },
+    {
+      "sourceText": "Während ich arbeite, höre ich oft Podcasts.",
+      "targetText": "În timp ce lucrez, ascult adesea podcasturi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'während' kommt vom Verb 'währen' (dauern). Denk an 'währen' = 'dauern', also etwas, das während einer Zeitspanne passiert."
+    },
+    {
+      "lang": "de",
+      "text": "Die rumänische Wendung 'în timp ce' enthält 'timp' (Zeit). Verbinde das mit dem deutschen 'während' als Zeitangabe."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'während' drückt Gleichzeitigkeit aus, genau wie 'în timp ce' – beide markieren, dass zwei Dinge parallel passieren."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie die Zeit (timp) in einem Film gleichzeitig abläuft – 'während' und 'în timp ce' verbinden zwei parallele Handlungen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

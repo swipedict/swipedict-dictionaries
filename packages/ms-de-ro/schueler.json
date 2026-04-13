@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-schueler",
+  "parent": "ms-ro-elev-cd9da182@504313393c1a8862786499f44c3f300b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schüler",
+    "genus": "masculine",
+    "definition": "Eine Person, die eine Schule besucht, um zu lernen, meist ein Kind oder Jugendlicher.",
+    "pronunciation": "/ˈʃyːlɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schüler“ stammt vom mittelhochdeutschen 'schüle' ab, das 'Schule' bedeutet, und bezeichnet jemanden, der lernt.",
+        "targetText": "Cuvântul german „Schüler” provine din germana mijlocie 'schüle', care înseamnă 'școală', desemnând pe cel care învață."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "elev",
+    "genus": "masculine",
+    "definition": "Persoană care frecventează o școală pentru a învăța, de obicei un copil sau adolescent.",
+    "pronunciation": "/eˈlev/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „elev“ stammt vom lateinischen 'elevatus', Partizip von 'elevare' (erheben, aufziehen) ab, ursprünglich im Sinne von 'hochgehoben' oder 'aufgezogen'.",
+        "targetText": "Cuvântul românesc „elev” provine din latină, din participiul 'elevatus' de la verbul 'elevare' care înseamnă 'a ridica', inițial cu sensul de 'ridicat' sau 'crescut'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Klasse",
+      "targetText": "clasă"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schule",
+      "targetText": "școală"
+    },
+    {
+      "sourceText": "Unterricht",
+      "targetText": "curs"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Schüler lernt fleißig für die Prüfung.",
+      "targetText": "Elevul învață cu sârguință pentru examen."
+    },
+    {
+      "sourceText": "Viele Schüler besuchen die Schule jeden Tag.",
+      "targetText": "Mulți elevi merg la școală în fiecare zi."
+    },
+    {
+      "sourceText": "Der Schüler schreibt seine Hausaufgaben.",
+      "targetText": "Elevul își scrie temele pentru acasă."
+    },
+    {
+      "sourceText": "Die Schüler sitzen im Klassenzimmer.",
+      "targetText": "Elevii stau în clasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Schüler' enthält 'Schule', genau wie 'elev' für jemanden steht, der in der Schule ist – beide Wörter beziehen sich auf Lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'elev' klingt wie das englische 'elevate' (erheben). Stell dir vor, wie ein Schüler durch Lernen 'erhoben' wird."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'elev' vom lateinischen 'elevare' kommt, was 'hochheben' bedeutet – ein Schüler wird durch Bildung 'hochgehoben'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein 'elev' eine Leiter (englisch 'elevator') hochsteigt – so lernst du, dass 'elev' mit 'erheben' zu tun hat."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

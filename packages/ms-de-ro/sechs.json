@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-sechs",
+  "parent": "ms-ro-sase-7c8ad9fc@c76f0ef35852eeac16ee4752427d02a0",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sechs",
+    "definition": "Die Zahl 6, eine natürliche Zahl zwischen fünf und sieben.",
+    "pronunciation": "/zɛks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „sechs“ stammt vom althochdeutschen 'sehs' ab, das auf das urgermanische *seks zurückgeht, welches wiederum aus dem Proto-Indogermanischen *seks- stammt.",
+        "targetText": "Cuvântul german „sechs” provine din vechea germană înaltă 'sehs', care la rândul său derivă din proto-germanicul *seks, provenind din proto-indo-europeanul *seks-."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șase",
+    "definition": "Numărul 6, un număr natural între cinci și șapte.",
+    "pronunciation": "/ˈʃase/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „șase“ stammt direkt vom lateinischen Wort 'sex' ab, das die Zahl sechs bezeichnet und aus dem Proto-Indogermanischen *seks- stammt.",
+        "targetText": "Cuvântul românesc „șase” provine direct din latină, din cuvântul 'sex', care desemna cifra șase, având originea în proto-indo-europeanul *seks-."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fünf",
+      "targetText": "cinci"
+    },
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "sieben",
+      "targetText": "șapte"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe sechs Äpfel gekauft.",
+      "targetText": "Am cumpărat șase mere."
+    },
+    {
+      "sourceText": "Sechs ist eine gerade Zahl.",
+      "targetText": "Șase este un număr par."
+    },
+    {
+      "sourceText": "Der Zug fährt um sechs Uhr ab.",
+      "targetText": "Trenul pleacă la ora șase."
+    },
+    {
+      "sourceText": "Sie hat sechs Geschwister.",
+      "targetText": "Ea are șase frați."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ș' in 'șase' klingt wie 'sch' im Deutschen, also kannst du dir merken: 'șase' = 'schase' = sechs."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'șase' klingt wie 'Sah-se', stell dir vor, du sagst 'sah sechs' auf Deutsch, um die Zahl zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Zahl 6 ist in beiden Sprachen ähnlich, weil beide vom lateinischen 'sex' abstammen – denk an die gemeinsame Wurzel."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du die Zahlenreihe lernst, merk dir, dass 'șase' zwischen 'cinci' (5) und 'șapte' (7) steht – ähnlich wie im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

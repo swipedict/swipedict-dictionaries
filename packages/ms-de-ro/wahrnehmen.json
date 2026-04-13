@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-wahrnehmen",
+  "parent": "ms-ro-a-percepe-164ca375@bd8a37e0b396a121d033ed5cc863a6c5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wahrnehmen",
+    "definition": "etwas durch die Sinne registrieren oder erkennen",
+    "pronunciation": "/ˈvaːʁˌneːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus „wahr“ (althochdeutsch „wara“, durch Erfahrung) und „nehmen“ (mittelhochdeutsch „nemen“, annehmen) zusammen.",
+        "targetText": "Verbul este format din „wahr“ (din germana veche „wara“, prin experiență) și „nehmen“ (din germana mijlocie „nemen“, a primi)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Oft in psychologischen und physiologischen Kontexten verwendet, um Sinneseindrücke zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a percepe",
+    "definition": "a înregistra sau a recunoaște ceva prin simțuri",
+    "pronunciation": "/a perˈt͡ʃe.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „percipere“ abgeleitet, was „erfassen, wahrnehmen“ bedeutet. Im Rumänischen als Neologismus im 19. Jahrhundert eingeführt.",
+        "targetText": "Derivat din latină „percipere“, care înseamnă „a percepe“ sau „a înțelege“. A intrat în limba română ca neologism în secolul al XIX-lea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Häufig verwendet, um Wahrnehmung und Verständnis zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Erkennen",
+      "targetText": "a recunoaște"
+    },
+    {
+      "sourceText": "Fühlen",
+      "targetText": "a simți"
+    },
+    {
+      "sourceText": "Hören",
+      "targetText": "a auzi"
+    },
+    {
+      "sourceText": "Sehen",
+      "targetText": "a vedea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "übersehen",
+      "targetText": "ignora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme die Veränderung war.",
+      "targetText": "Eu percep schimbarea."
+    },
+    {
+      "sourceText": "Nimmst du die Diskussion wahr?",
+      "targetText": "Percepi discuția?"
+    },
+    {
+      "sourceText": "Ich habe die Botschaft wahrgenommen.",
+      "targetText": "Am perceput mesajul."
+    },
+    {
+      "sourceText": "Ich werde es wahrnehmen.",
+      "targetText": "Voi percepe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir „wahrnehmen“ und „a percepe“ als kognitive Verben, die das Erfassen von Eindrücken beschreiben."
+    },
+    {
+      "lang": "de",
+      "text": "Übe „a percepe“, indem du im Alltag bewusst Dinge wahrnimmst und sagst: „Eu percep asta!“ (Ich nehme das wahr)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-abgeben",
+  "parent": "ms-ro-a-preda-fadde367@0fdc44827805aa6c3269e8cdc5b1a857",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abgeben",
+    "definition": "etwas überreichen oder abliefern",
+    "pronunciation": "/ˈapˌɡeːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abgeben“ besteht aus dem Präfix „ab-“ (weg) und dem Verb „geben“ (überreichen), das aus dem althochdeutschen „geban“ stammt.",
+        "targetText": "Verbul german „abgeben“ este format din prefixul „ab-“ (departe) și verbul „geben“, derivat din althochdeutsch „geban“, care înseamnă „a da“ sau „a înmâna“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Commonly used in various contexts such as returning things or handing in documents."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a preda",
+    "definition": "a preda sau a livra ceva",
+    "pronunciation": "/a preˈda/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a preda“ stammt vom lateinischen „praedare“ ab, das ursprünglich „übergeben“ bedeutete und sich zu einem allgemeinen Begriff für das Übergeben von Objekten und Personen entwickelte.",
+        "targetText": "Verbul românesc „a preda“ provine din latinescul „praedare“, care inițial însemna „a preda“ sau „a înmâna“ și a evoluat spre sensul general de a da sau a livra ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„A preda“ wird oft in akademischen und administrativen Kontexten verwendet, z.B. beim Abgeben von Arbeiten oder Dokumenten."
+  },
+  "senses": [
+    {
+      "gloss": "etwas retournieren",
+      "explanation": {
+        "sourceText": "Das Zurückgeben von etwas, das man ausgeliehen hat.",
+        "targetText": "A returna ceva împrumutat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe das Buch ab.",
+          "targetText": "Eu predau cartea."
+        }
+      ]
+    },
+    {
+      "gloss": "etwas überreichen",
+      "explanation": {
+        "sourceText": "Bedeutet, dass man etwas einer anderen Person gibt.",
+        "targetText": "Înseamnă a da ceva unei alte persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe den Brief ab.",
+          "targetText": "Eu predau scrisoarea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "abholung",
+      "targetText": "ridicare"
+    },
+    {
+      "sourceText": "lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "übergabe",
+      "targetText": "predare"
+    },
+    {
+      "sourceText": "überreichen",
+      "targetText": "a oferi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erhalten",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gebe das Paket ab.",
+      "targetText": "Eu predau pachetul."
+    },
+    {
+      "sourceText": "Gibst du die Unterlagen ab?",
+      "targetText": "Predai documentele?"
+    },
+    {
+      "sourceText": "Er gibt die Prüfung ab.",
+      "targetText": "El predă examenul."
+    },
+    {
+      "sourceText": "Wir geben die Bücher ab.",
+      "targetText": "Noi predăm cărțile."
+    },
+    {
+      "sourceText": "Gebt ihr die Formulare ab?",
+      "targetText": "Predați formularele?"
+    },
+    {
+      "sourceText": "Sie geben die Geräte ab.",
+      "targetText": "Ei predau echipamentele."
+    },
+    {
+      "sourceText": "Ich habe das Dokument abgegeben.",
+      "targetText": "Am predat documentul."
+    },
+    {
+      "sourceText": "Er gab das Buch ab, als ich ankam.",
+      "targetText": "El predă cartea când am sosit."
+    },
+    {
+      "sourceText": "Ich werde die Aufgabe abgeben.",
+      "targetText": "Voi preda sarcina."
+    },
+    {
+      "sourceText": "Gib das Heft ab!",
+      "targetText": "Predă caietul!"
+    },
+    {
+      "sourceText": "Abgebend, dachte ich an die Note.",
+      "targetText": "Predând, m-am gândit la notă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „abgeben“ und das rumänische „a preda“ klingen ähnlich und haben beide mit dem Übergeben zu tun – das hilft beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst etwas ab und „predai“ es weiter – so merkst du die Bedeutung von „a preda“ leicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a preda“ mit der Schule: Hausaufgaben abgeben heißt „temele predate“ – das macht die Erinnerung einfacher."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-maus",
+  "parent": "ms-ro-soarece-cef8297e@22827f8f29f0e4b9250dd9333421861e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Maus",
+    "genus": "feminine",
+    "definition": "Ein kleines Nagetier mit spitzem Gesicht und langem Schwanz.",
+    "pronunciation": "/maʊ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Maus“ stammt vom althochdeutschen 'mūs', das auf die proto-germanische Wurzel *mūs zurückgeht und mit dem lateinischen 'mus' verwandt ist.",
+        "targetText": "Cuvântul german „Maus” provine din germana veche înaltă 'mūs', care la rândul său vine din rădăcina proto-germanică *mūs și este înrudit cu latinescul 'mus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șoarece",
+    "genus": "masculine",
+    "definition": "Un rozător mic cu față ascuțită și coadă lungă.",
+    "pronunciation": "/ʃo̯aˈret͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „șoarece“ stammt vom lateinischen 'sorex, soricis' ab, was 'Wühlmaus' bedeutet, mit slawischem Einfluss in der Aussprache.",
+        "targetText": "Cuvântul românesc „șoarece” provine din latină 'sorex, soricis', care însemna 'șoarece de câmp', cu influențe slave în pronunție."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mäusejagd",
+      "targetText": "vânătoare de șoareci"
+    },
+    {
+      "sourceText": "Mausfalle",
+      "targetText": "capcană pentru șoareci"
+    },
+    {
+      "sourceText": "Nagetiere",
+      "targetText": "rozătoare"
+    },
+    {
+      "sourceText": "Ratte",
+      "targetText": "șobolan"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Maus läuft schnell durch das Zimmer.",
+      "targetText": "Șoarecele aleargă repede prin cameră."
+    },
+    {
+      "sourceText": "Eine Maus versteckt sich hinter dem Schrank.",
+      "targetText": "Un șoarece se ascunde în spatele dulapului."
+    },
+    {
+      "sourceText": "Die Katze jagt die Maus.",
+      "targetText": "Pisica vânează șoarecele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'șoarece' klingt ungewöhnlich, aber denk an 'Schore' + 'ače' als kleine Kreatur, die flink ist wie eine Maus."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kommt vom lateinischen 'sorex' – stell dir vor, ein 'Sorex' ist ein flinkes kleines Tier, genau wie die Maus."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an die Katze, die 'șoarece' jagt – so kannst du dir das Wort im Kontext gut merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde die 'ș' am Anfang mit dem scharfen Geräusch, das eine Maus machen könnte, um das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

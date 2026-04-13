@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-juristisch",
+  "parent": "ms-ro-juridic-0323d871@05ce3d6c218deef0bbc69c928c43ac17",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "juristisch",
+    "definition": "von der Rechtswissenschaft oder dem Rechtssystem betreffend",
+    "pronunciation": "/juˈʁɪstɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „juristisch“ leitet sich vom lateinischen „juris“ ab, was „Recht“ bedeutet.",
+        "targetText": "Das Adjektiv „juristisch“ stammt vom lateinischen „juris“ ab und bezieht sich auf Recht und Rechtswissenschaft."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In vielen Ländern gibt es spezielle juristische Fachbegriffe."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "juridic",
+    "genus": "masculine",
+    "definition": "referitor la știința dreptului sau sistemul juridic",
+    "pronunciation": "/ʒuˈridik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „juridic“ kommt ebenfalls vom lateinischen „juris“ und bezieht sich auf rechtliche Zusammenhänge.",
+        "targetText": "Termenul românesc „juridic“ provine din latină, din „juris“, și se referă la aspecte legale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "senses": [
+    {
+      "gloss": "Rechtsauffassung",
+      "explanation": {
+        "sourceText": "Dieses Wort bezieht sich auf die Auffassung von Recht und Gerechtigkeit.",
+        "targetText": "Se referă la interpretarea dreptului și a justiției."
+      },
+      "examples": [
+        {
+          "sourceText": "Die juristische Auffassung dieser Frage war umstritten.",
+          "targetText": "Aprecierea juridică a acestei întrebări era controversată."
+        }
+      ]
+    },
+    {
+      "gloss": "Rechtssystem",
+      "explanation": {
+        "sourceText": "Das kann sowohl das Gesamtsystem als auch spezifische rechtliche Situationen betreffen.",
+        "targetText": "Se referă atât la sistemul juridic în ansamblu, cât și la situații legale specifice."
+      },
+      "examples": [
+        {
+          "sourceText": "Das juristische System in Deutschland ist komplex.",
+          "targetText": "Sistemul juridic din Germania este complex."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Prozess",
+      "targetText": "proces"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Richter",
+      "targetText": "judecător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht juristisch",
+      "targetText": "illegal"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das juristische Studium erfordert viel Engagement.",
+      "targetText": "Studii juridice necesită mult angajament."
+    },
+    {
+      "sourceText": "Juristische Fachbegriffe können verwirrend sein.",
+      "targetText": "Termenii juridici pot fi confuzi."
+    },
+    {
+      "sourceText": "Er hat eine juristische Ausbildung gemacht.",
+      "targetText": "El a făcut o pregătire juridică."
+    },
+    {
+      "sourceText": "Juristische Fragen sollten immer von Experten beantwortet werden.",
+      "targetText": "Întrebările juridice ar trebui să fie întotdeauna răspunse de experți."
+    },
+    {
+      "sourceText": "In diesem Land gibt es viele juristische Probleme.",
+      "targetText": "În această țară există multe probleme juridice."
+    },
+    {
+      "sourceText": "Juristische Normen sind wichtig für einen funktionierenden Rechtsstaat.",
+      "targetText": "Normele juridice sunt importante pentru un stat de drept funcțional."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Juridic“ klingt ähnlich und erinnert an Gesetze und Regeln."
+    },
+    {
+      "lang": "de",
+      "text": "Juristische Begriffe stammen oft aus dem Lateinischen – das hilft beim Lernen beider Sprachen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „juristisch“ mit dem „Jura“-Studium, um es besser zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „juristisch“ hörst, denke an Anwälte und Gerichte – so merkst du dir das rumänische „juridic“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

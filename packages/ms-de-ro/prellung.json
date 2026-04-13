@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-prellung",
+  "parent": "ms-ro-vanataie-cad3375f@3743c89e259f2b587dd25265c4e16195",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Prellung",
+    "genus": "feminine",
+    "definition": "Eine Verletzung, bei der das Gewebe durch einen Stoß oder Schlag gequetscht wird, ohne dass die Haut verletzt ist.",
+    "pronunciation": "/ˈprɛlʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Prellung“ stammt vom Verb „prellen“ ab, das im Mittelhochdeutschen als 'prëllen' belegt ist und ‚stoßen, schlagen‘ bedeutet. Es geht auf eine lautmalerische Wurzel zurück, die den Klang eines Aufpralls nachahmt.",
+        "targetText": "Cuvântul german „Prellung“ provine de la verbul „prellen“, atestat în germana mijlocie ca 'prëllen', însemnând „a lovi, a ciocni“. Originea este onomatopeică, imitând sunetul unui impact."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânătaie",
+    "genus": "feminine",
+    "definition": "O leziune a țesutului cauzată de o lovitură sau un șoc, fără a deteriora pielea, caracterizată prin decolorarea pielii datorită sângerării subcutanate.",
+    "pronunciation": "/vəˈnəta.je/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vânătaie“ leitet sich von „vânăt“ ab, was ‚bläulich‘ oder ‚blau‘ bedeutet, und stammt vom lateinischen Adjektiv 'vannatus' ab, das ‚gefärbt‘ oder ‚gefleckt‘ bezeichnet.",
+        "targetText": "Cuvântul românesc „vânătaie“ derivă din „vânăt“, care înseamnă „albastru“ sau „învinețit“, provenind din adjectivul latin 'vannatus', care însemna „colorat“ sau „petețit“."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bluterguss",
+      "targetText": "hematom"
+    },
+    {
+      "sourceText": "Schlag",
+      "targetText": "lovitură"
+    },
+    {
+      "sourceText": "Schwellung",
+      "targetText": "umflare"
+    },
+    {
+      "sourceText": "Verletzung",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Nach dem Sturz hatte er eine große Prellung am Bein.",
+      "targetText": "După căzătură, a avut o vânătaie mare pe picior."
+    },
+    {
+      "sourceText": "Die Prellung schmerzt, aber die Haut ist nicht verletzt.",
+      "targetText": "Vânătaia doare, dar pielea nu este rănită."
+    },
+    {
+      "sourceText": "Er bekam eine Prellung durch den heftigen Schlag.",
+      "targetText": "A primit o vânătaie din cauza loviturii puternice."
+    },
+    {
+      "sourceText": "Eine Prellung heilt meist ohne Narbenbildung.",
+      "targetText": "O vânătaie se vindecă de obicei fără cicatrici."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Prellung“ klingt wie ‚prallen‘, also etwas, das gegen die Haut prallt und eine vânătaie verursacht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „vânătaie“ erinnert an „vânăt“, was ‚bläulich‘ bedeutet – genau wie die typische Farbe einer Prellung."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-aie“ in „vânătaie“ ist typisch für rumänische Substantive, die Zustände oder Ergebnisse bezeichnen, hier die Folge eines Stoßes."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine blaue „VAN“ (Auto) und eine „ATAIE“ (Attacke) – die Attacke verursacht eine blaue Prellung: vânătaie."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

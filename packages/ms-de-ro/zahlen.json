@@ -1,0 +1,161 @@
+{
+  "id": "ms-de-ro-zahlen",
+  "parent": "ms-ro-a-plati-4258ee3a@b621465306fe843eb4f238e94c838979",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zahlen",
+    "definition": "eine Geldsumme übergeben oder leisten",
+    "pronunciation": "/ˈtsaːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „zahlen“ stammt vom mittelhochdeutschen „zalen“ ab, verwandt mit althochdeutschem „zalan“, und bedeutet „bezahlen“ oder „Rechnung legen“.",
+        "targetText": "Verbul german „zahlen“ provine din germana mijlocie „zalen“, înrudit cu germana veche „zalan“, însemnând „a plăti“ sau „a face o factură“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird verwendet, um den Akt des Bezahlens auszudrücken, sei es für Waren, Dienstleistungen oder Schulden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a plăti",
+    "definition": "a da o sumă de bani",
+    "pronunciation": "/a pləˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a plăti“ stammt vom lateinischen „platare“ ab, was „bezahlen“ oder „entrichten“ bedeutet und in finanziellen Kontexten verwendet wird.",
+        "targetText": "Verbul românesc „a plăti“ provine din latină, de la „platare“, care înseamnă „a plăti“ sau „a achita“ și este folosit în contexte financiare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Häufig verwendet, um Zahlungsprozesse zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Abrechnung",
+      "explanation": {
+        "sourceText": "Die Aussage über die Zahlung in einem bestimmten Kontext.",
+        "targetText": "Declarația despre plată într-un anumit context."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Abrechnung erfolgt am Monatsende.",
+          "targetText": "Abonamentul se face la sfârșitul lunii."
+        }
+      ]
+    },
+    {
+      "gloss": "bezahlen",
+      "explanation": {
+        "sourceText": "Synonym zu 'zahlen', häufig verwendet.",
+        "targetText": "Sinonim pentru „zahlen“, folosit frecvent."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte die Rechnung bezahlen.",
+          "targetText": "Vreau să plătesc factura."
+        }
+      ]
+    },
+    {
+      "gloss": "Zahlung",
+      "explanation": {
+        "sourceText": "Verwendet für den Prozess des Geldgebens.",
+        "targetText": "Folosit pentru procesul de a da bani."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Zahlung ist fällig.",
+          "targetText": "Plata este datorată."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zahle die Rechnung.",
+      "targetText": "Eu plătesc factura."
+    },
+    {
+      "sourceText": "Zahlst du bar oder mit Karte?",
+      "targetText": "Plătești cash sau cu cardul?"
+    },
+    {
+      "sourceText": "Er zahlt seine Schulden.",
+      "targetText": "El își plătește datoriile."
+    },
+    {
+      "sourceText": "Wir zahlen die Miete jeden Monat.",
+      "targetText": "Noi plătim chiria în fiecare lună."
+    },
+    {
+      "sourceText": "Zahlen Sie mit Kreditkarte?",
+      "targetText": "Plătiți cu cardul de credit?"
+    },
+    {
+      "sourceText": "Sie zahlen den Kauf sofort.",
+      "targetText": "Ei plătesc achiziția imediat."
+    },
+    {
+      "sourceText": "Ich habe die Gebühr überwiesen.",
+      "targetText": "Am plătit taxa."
+    },
+    {
+      "sourceText": "Ich werde die nächste Rechnung zahlen.",
+      "targetText": "Voi plăti următoarea factură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe „a plăti“ in verschiedenen Zeiten, um die Flexibilität des Verbs zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a plăti“ mit Alltagssituationen wie Einkaufen: „Ich gehe zahlen!“ So bleibt das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

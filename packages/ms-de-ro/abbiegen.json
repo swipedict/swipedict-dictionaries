@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-abbiegen",
+  "parent": "ms-ro-a-vira-9d45170d@aa191071abde540d046eae9806dfdb0f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abbiegen",
+    "definition": "Die Richtung ändern, indem man von einer Straße oder einem Weg abzweigt.",
+    "pronunciation": "/ˈapˌbiːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abbiegen“ setzt sich aus der Vorsilbe 'ab-' und dem Verb 'biegen' zusammen, wobei 'biegen' auf das althochdeutsche 'bīgan' zurückgeht, was 'sich krümmen' oder 'sich wenden' bedeutet.",
+        "targetText": "Verbul german „abbiegen“ este format din prefixul 'ab-' și verbul 'biegen', care provine din germana veche înaltă 'bīgan', însemnând 'a se îndoi' sau 'a se întoarce'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vira",
+    "definition": "A schimba direcția prin deviere de pe o stradă sau un drum.",
+    "pronunciation": "/a ˈvi.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vira“ stammt vom lateinischen Verb 'virare' ab, das 'drehen' oder 'wenden' bedeutet und im Lateinischen mit 'versare' verwandt ist.",
+        "targetText": "Verbul românesc „a vira” provine din verbul latin 'virare', care înseamnă 'a întoarce' sau 'a vira', fiind înrudit cu 'versare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abbiegen an der Kreuzung",
+      "targetText": "a vira la intersecție"
+    },
+    {
+      "sourceText": "abbiegen links",
+      "targetText": "a vira la stânga"
+    },
+    {
+      "sourceText": "abbiegen rechts",
+      "targetText": "a vira la dreapta"
+    },
+    {
+      "sourceText": "biegen",
+      "targetText": "a îndoi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "geradeaus gehen",
+      "targetText": "a merge drept înainte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich biege an der nächsten Kreuzung rechts ab.",
+      "targetText": "Eu virez la următoarea intersecție la dreapta."
+    },
+    {
+      "sourceText": "Biegen Sie bitte links ab, um zum Bahnhof zu gelangen.",
+      "targetText": "Virați vă rog la stânga pentru a ajunge la gară."
+    },
+    {
+      "sourceText": "Das Auto biegt langsam ab.",
+      "targetText": "Mașina virează încet."
+    },
+    {
+      "sourceText": "Du musst hier abbiegen, um zum Supermarkt zu kommen.",
+      "targetText": "Trebuie să virezi aici ca să ajungi la supermarket."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'virare' hilft dir, das rumänische 'a vira' zu verstehen – beide bedeuten drehen oder wenden."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a vira' klingt wie 'wirre' (verwirren), aber hier bedeutet es, die Richtung zu ändern, also nicht verwirren, sondern drehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'biegt' (biegt) ab wie ein Wegweiser, der dir zeigt, wo du abbiegen musst – so merkst du dir 'a vira'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'abbiegen' mit 'a vira', beide beschreiben eine Richtungsänderung, die du beim Autofahren oder Gehen machst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

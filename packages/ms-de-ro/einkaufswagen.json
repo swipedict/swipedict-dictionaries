@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-einkaufswagen",
+  "parent": "ms-ro-carucior-de-cumparaturi-49313d67@78d4b909ac119eb6c2fbd2af25e35e42",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:english",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Einkaufswagen",
+    "genus": "masculine",
+    "definition": "Ein Wagen mit Rädern, der in Geschäften benutzt wird, um Einkäufe zu transportieren.",
+    "pronunciation": "/ˈaɪ̯nkaʊ̯fsˌvaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Einkaufswagen“ setzt sich aus 'Einkauf' und 'Wagen' zusammen, wobei 'Einkauf' vom mittelhochdeutschen 'einkouf' stammt und 'Wagen' auf das althochdeutsche 'wagan' zurückgeht.",
+        "targetText": "Cuvântul german „Einkaufswagen” este compus din „Einkauf” (cumpărături) și „Wagen” (căruță), cu rădăcini în germana mijlocie și veche."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cărucior de cumpărături",
+    "genus": "neuter",
+    "definition": "Un cărucior cu roți folosit în magazine pentru a transporta cumpărăturile.",
+    "pronunciation": "/kəˈrut͡ʃor de kum.pə.rəˈt͡su.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „cărucior de cumpărături“ ist eine Zusammensetzung aus 'cărucior' (verkleinerte Form von 'car', entlehnt aus dem Lateinischen 'carrus' für Wagen) und 'cumpărături' (Plural von 'cumpărătură', abgeleitet vom Verb 'a cumpăra' aus dem Lateinischen 'comparare').",
+        "targetText": "Expresia românească „cărucior de cumpărături” este o compunere din „cărucior” (diminutiv de la „car”, împrumutat din latină „carrus” pentru căruță) și „cumpărături” (pluralul de la „cumpărătură”, derivat din verbul „a cumpăra”, din latină „comparare”)."
+      },
+      "source": "Dicționar etimologic român"
+    },
+    "additional": "Substantiv compus, feminin, pluralul: cărucioare de cumpărături."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Einkauf",
+      "targetText": "cumpărături"
+    },
+    {
+      "sourceText": "Kasse",
+      "targetText": "casă de marcat"
+    },
+    {
+      "sourceText": "Supermarkt",
+      "targetText": "supermarket"
+    },
+    {
+      "sourceText": "Wagen",
+      "targetText": "căruță"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich nehme einen Einkaufswagen, um meine Lebensmittel zu transportieren.",
+      "targetText": "Ia un cărucior de cumpărături pentru a-ți transporta alimentele."
+    },
+    {
+      "sourceText": "Der Einkaufswagen ist voll mit frischem Obst und Gemüse.",
+      "targetText": "Căruciorul de cumpărături este plin cu fructe și legume proaspete."
+    },
+    {
+      "sourceText": "Bitte stelle den Einkaufswagen nach dem Gebrauch zurück.",
+      "targetText": "Te rog să pui căruciorul de cumpărături la loc după ce îl folosești."
+    },
+    {
+      "sourceText": "Im Supermarkt sind viele Einkaufswagen verfügbar.",
+      "targetText": "În supermarket sunt disponibile multe cărucioare de cumpărături."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'cumpărături' kommt vom Verb 'a cumpăra' (kaufen). So kannst du dir merken, dass es mit Einkaufen zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das englische Wort 'carriage' für Wagen – 'cărucior' klingt ähnlich und bedeutet auch einen kleinen Wagen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Kombination 'cărucior de cumpărături' ist wie eine Mini-Satzkonstruktion: Wagen (cărucior) für Einkäufe (cumpărături)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du schiebst einen kleinen 'car' (Auto) – das hilft dir, 'cărucior' als kleinen Wagen zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

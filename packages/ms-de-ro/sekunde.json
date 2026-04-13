@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-sekunde",
+  "parent": "ms-ro-secunda-4077cf21@65189bba4d0f055b31b363faa01242df",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sekunde",
+    "genus": "feminine",
+    "definition": "Die Basiseinheit der Zeit, die 1/60 einer Minute entspricht.",
+    "pronunciation": "/zɛˈkʊndə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sekunde“ stammt vom lateinischen 'secunda (pars)' ab, was 'zweiter Teil' bedeutet, da es die zweite Unterteilung der Stunde nach der Minute ist.",
+        "targetText": "Cuvântul german „Sekunde” provine din latinescul 'secunda (pars)', care înseamnă 'a doua parte', deoarece reprezintă a doua subdiviziune a orei după minut."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "secundă",
+    "genus": "feminine",
+    "definition": "Unitatea de bază a timpului, egală cu 1/60 dintr-un minut.",
+    "pronunciation": "/seˈkundə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „secundă“ stammt direkt vom lateinischen 'secunda' ab, was 'zweiter' bedeutet, und wurde als Maßeinheit der Zeit übernommen.",
+        "targetText": "Cuvântul românesc „secundă” provine direct din latinescul 'secunda', care înseamnă 'a doua', fiind preluat ca unitate de măsură a timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Minute",
+      "targetText": "minut"
+    },
+    {
+      "sourceText": "Stunde",
+      "targetText": "oră"
+    },
+    {
+      "sourceText": "Uhr",
+      "targetText": "ceas"
+    },
+    {
+      "sourceText": "Zeit",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Eine Minute hat sechzig Sekunden.",
+      "targetText": "Un minut are șaizeci de secunde."
+    },
+    {
+      "sourceText": "Die Sekunde ist die kleinste Zeiteinheit in der Uhrzeitangabe.",
+      "targetText": "Secunda este cea mai mică unitate de timp în indicarea orei."
+    },
+    {
+      "sourceText": "Ich warte nur eine Sekunde.",
+      "targetText": "Aștept doar o secundă."
+    },
+    {
+      "sourceText": "Die Uhr zeigt die genaue Sekunde an.",
+      "targetText": "Ceasul arată secunda exactă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „secundă“ klingt fast genauso wie das deutsche „Sekunde“. So kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „secundă“ beginnt mit 'sec-', was an 'Sekunde' erinnert und an das lateinische 'secundus' (zweiter) anknüpft."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die Zeit wird in Teile geteilt: zuerst die Minute, dann die Sekunde, die 'zweite' Unterteilung – genau wie das lateinische 'secunda'."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an eine Uhr denkst, kannst du dir merken, dass die Sekunde die kleinste Einheit ist, die man auf einer analogen Uhr oft als den Sekundenzeiger sieht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

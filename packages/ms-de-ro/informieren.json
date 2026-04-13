@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-informieren",
+  "parent": "ms-ro-a-informa-b01319a1@1dcbb413808abdcb0dcad7167d2bf9e2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "informieren",
+    "definition": "jemanden über etwas Bescheid geben oder informieren",
+    "pronunciation": "/ɪnˈfɔʁmiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „informare“, was „gestalten“ oder „ein Bild geben“ bedeutet.",
+        "targetText": "Provine din latină, „informare“, care înseamnă „a da formă“ sau „a da o imagine“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um Wissen oder Nachrichten mitzuteilen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a informa",
+    "definition": "a da informații cu privire la ceva",
+    "pronunciation": "/a inˈfor.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Verbul „a informa“ stammt vom lateinischen „informare“ ab und bedeutet, jemandem Wissen oder Nachrichten zu übermitteln.",
+        "targetText": "Verbul „a informa“ provine din latină, „informare“, și înseamnă a transmite informații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in formellen und informellen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "Erklärung",
+      "explanation": {
+        "sourceText": "'Erklärung' kann auch als 'explicație' verwendet werden.",
+        "targetText": "'Explicație' oferită cuiva."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Erklärung war klar.",
+          "targetText": "Explicația a fost clară."
+        }
+      ]
+    },
+    {
+      "gloss": "Nachricht",
+      "explanation": {
+        "sourceText": "'Nachricht' kann auch als 'informație' übersetzt werden.",
+        "targetText": "'Mesaj' sau 'informație' transmisă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe eine gute Nachricht.",
+          "targetText": "Am o veste bună."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Botschaft",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "Erklärung",
+      "targetText": "explicație"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "cunoaștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich informiere meine Freunde über das Event.",
+      "targetText": "Eu informez prietenii mei despre eveniment."
+    },
+    {
+      "sourceText": "Informierst du mich über die neuesten Nachrichten?",
+      "targetText": "Mă informezi despre cele mai recente știri?"
+    },
+    {
+      "sourceText": "Er informiert die Teilnehmer über das Programm.",
+      "targetText": "El informează participanții despre program."
+    },
+    {
+      "sourceText": "Wir informieren alle rechtzeitig.",
+      "targetText": "Noi informăm pe toată lumea la timp."
+    },
+    {
+      "sourceText": "Informiert ihr die anderen über die Änderungen?",
+      "targetText": "Informați-i pe ceilalți despre modificări?"
+    },
+    {
+      "sourceText": "Sie (Pl.) informieren die Gruppe über den Fortschritt.",
+      "targetText": "Ei informează grupul despre progres."
+    },
+    {
+      "sourceText": "Ich habe dich bereits informiert.",
+      "targetText": "Te-am informat deja."
+    },
+    {
+      "sourceText": "Sie haben die Teilnehmer informiert.",
+      "targetText": "Ei au informat participanții."
+    },
+    {
+      "sourceText": "Er informierte die Zuschauer über das Thema.",
+      "targetText": "El informa spectatorii despre subiect."
+    },
+    {
+      "sourceText": "Ich hatte euch informiert, bevor ihr angekommen seid.",
+      "targetText": "V-am informat înainte să ajungeți."
+    },
+    {
+      "sourceText": "Ich werde die Daten schnellstmöglich informieren.",
+      "targetText": "Voi informa datele cât mai curând posibil."
+    },
+    {
+      "sourceText": "Er wird die Ergebnisse später informieren.",
+      "targetText": "El o să informeze rezultatele mai târziu."
+    },
+    {
+      "sourceText": "Ich würde dich informieren, wenn ich könnte.",
+      "targetText": "Te-aș informa dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du auch die anderen informierst.",
+      "targetText": "Este important să-i informezi și pe ceilalți."
+    },
+    {
+      "sourceText": "Informiere deine Kollegen!",
+      "targetText": "Informează-ți colegii!"
+    },
+    {
+      "sourceText": "Informieren Sie bitte alle Teilnehmer!",
+      "targetText": "Informați toți participanții, vă rog!"
+    },
+    {
+      "sourceText": "Die informierten Personen wissen Bescheid.",
+      "targetText": "Persoanele informate știu."
+    },
+    {
+      "sourceText": "Die Daten sind jetzt informiert.",
+      "targetText": "Datele sunt acum informate."
+    },
+    {
+      "sourceText": "Während ich die Gruppe informierte, stellte ich viele Fragen.",
+      "targetText": "Informând grupul, am pus multe întrebări."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Informieren“ und „a informa“ sind Kognaten – das erleichtert das Lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Humor hilft: Stell dir vor, du informierst Katzen über ihr Futter!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung „-ez“ in der 1. Person Präsens und die Bedeutung von „inform“."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze, in denen du jemanden informierst – das festigt die Verwendung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

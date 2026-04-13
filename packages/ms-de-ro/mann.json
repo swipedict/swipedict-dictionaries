@@ -1,0 +1,122 @@
+{
+  "id": "ms-de-ro-mann",
+  "parent": "ms-ro-barbat-12b5edb8@3780281e0289c505382f35d163d3d384",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mann",
+    "genus": "masculine",
+    "definition": "ein erwachsener männlicher Mensch",
+    "pronunciation": "/man/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Mann“ stammt vom althochdeutschen „man“, ursprünglich „Mensch“ oder „Kerl“, und bezeichnete das männliche Geschlecht.",
+        "targetText": "Cuvântul german „Mann“ provine din vechiul german „man“, inițial însemnând „om“ sau „bărbat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Mann ist in vielen Kulturen traditionell der Hauptverdiener und Familienoberhaupt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bărbat",
+    "genus": "masculine",
+    "definition": "o persoană adultă de sex masculin",
+    "pronunciation": "/bəˈrbat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bărbat“ stammt vom slawischen „brat“ (Bruder) ab und bezeichnet einen erwachsenen Mann oder Ehemann.",
+        "targetText": "Cuvântul românesc „bărbat“ provine din slavona „brat“, însemnând „frate“, și desemnează un bărbat adult sau soț."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Bărbat“ kann auch für „Ehemann“ verwendet werden."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bruder",
+      "targetText": "frate"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Sohn",
+      "targetText": "fiul"
+    },
+    {
+      "sourceText": "Vater",
+      "targetText": "tată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Frau",
+      "targetText": "femeie"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Mann trägt einen Anzug zur Arbeit.",
+      "targetText": "Bărbatul poartă un costum la muncă."
+    },
+    {
+      "sourceText": "Ein guter Mann hilft anderen.",
+      "targetText": "Un bărbat bun ajută pe ceilalți."
+    },
+    {
+      "sourceText": "Der Mann hat viele Hobbys.",
+      "targetText": "Bărbatul are multe hobby-uri."
+    },
+    {
+      "sourceText": "Er ist ein starker Mann.",
+      "targetText": "El este un bărbat puternic."
+    },
+    {
+      "sourceText": "Der Mann hat einen Hund.",
+      "targetText": "Bărbatul are un câine."
+    },
+    {
+      "sourceText": "Wir begegneten einem freundlichen Mann.",
+      "targetText": "Am întâlnit un bărbat prietenos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „bărbat“ klingt wie „Brat“, das deutsche Wort für Bruder – stell dir vor, jeder Mann ist wie ein Bruder."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an den deutschen „Mann“ als erwachsenen Menschen und an „bărbat“ als den erwachsenen Bruder."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Viele „bărbați“ (Mehrzahl von bărbat) sind wie Brüder in einer Gemeinschaft."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „bărbat“ mit dem Bild eines starken Bruders, der für seine Familie sorgt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

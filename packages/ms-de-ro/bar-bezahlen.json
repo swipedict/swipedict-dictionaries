@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-bar-bezahlen",
+  "parent": "ms-ro-a-plati-cash-5dcf261f@d0840a5e80c4d9a2aee0a5741fae06b3",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bar bezahlen",
+    "definition": "Eine Zahlung direkt mit Bargeld leisten, ohne elektronische oder andere Zahlungsmittel zu verwenden.",
+    "pronunciation": "/baːɐ̯ bəˈtsaːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Phrase „bar bezahlen“ kombiniert das Adjektiv „bar“ (ursprünglich vom mittelhochdeutschen 'bar' für 'nackt, frei') mit dem Verb „bezahlen“, das vom althochdeutschen 'bezalen' stammt und 'eine Schuld begleichen' bedeutet.",
+        "targetText": "Expresia „bar bezahlen“ combină adjectivul „bar“ (inițial din germana mijlocie înaltă 'bar' însemnând 'gol, liber') cu verbul „bezahlen”, derivat din germana veche înaltă 'bezalen', care înseamnă 'a plăti o datorie'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a plăti cash",
+    "definition": "A efectua o plată direct cu bani lichizi, fără a folosi mijloace electronice sau alte metode de plată.",
+    "pronunciation": "/a pləˈti kaʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a plăti“ stammt vom lateinischen 'placitare' ab, das 'eine Forderung geltend machen' bedeutete, während das Wort 'cash' aus dem Englischen entlehnt ist und 'Bargeld' bedeutet.",
+        "targetText": "Verbul românesc „a plăti” provine din latină, din 'placitare', care însemna 'a revendica o datorie', iar „cash” este un împrumut din limba engleză, însemnând 'bani lichizi'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase mit dem Verb „a plăti“ und dem Lehnwort „cash“."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bargeld",
+      "targetText": "bani lichizi"
+    },
+    {
+      "sourceText": "bezahlen",
+      "targetText": "a plăti"
+    },
+    {
+      "sourceText": "Kreditkarte",
+      "targetText": "card de credit"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auf Rechnung bezahlen",
+      "targetText": "a plăti pe factură"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich möchte bar bezahlen, bitte.",
+      "targetText": "Aș dori să plătesc cash, vă rog."
+    },
+    {
+      "sourceText": "Kann ich hier bar bezahlen?",
+      "targetText": "Pot să plătesc cash aici?"
+    },
+    {
+      "sourceText": "Viele Menschen bevorzugen bar zu bezahlen, um den Überblick zu behalten.",
+      "targetText": "Mulți oameni preferă să plătească cash pentru a avea control asupra cheltuielilor."
+    },
+    {
+      "sourceText": "Bar bezahlen ist oft schneller als mit Karte.",
+      "targetText": "A plăti cash este adesea mai rapid decât cu cardul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „bar“ bedeutet hier ‚direkt‘ oder ‚in Geldform‘ – im Rumänischen hilft dir das englische Lehnwort „cash“ weiter."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „cash“ im Rumänischen klingt wie im Englischen – denk an das englische Wort für Bargeld, um dir „a plăti cash“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hältst echtes Bargeld in der Hand, das du direkt gibst – so funktioniert „bar bezahlen“ bzw. „a plăti cash“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „plăti“ mit dem deutschen „bezahlen“ – beide bedeuten zahlen, aber „plăti“ kommt aus dem Lateinischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

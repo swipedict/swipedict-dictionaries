@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-krank",
+  "parent": "ms-ro-bolnav-19a5cf10@d94148931f4eaaa6baa217d191128483",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:germanic",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "krank",
+    "definition": "Nicht gesund; von einer Krankheit betroffen.",
+    "pronunciation": "/kraŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „krank“ stammt vom althochdeutschen 'kranc' ab, das 'schwach' oder 'krank' bedeutete, und geht auf eine germanische Wurzel zurück.",
+        "targetText": "Adjectivul german „krank” provine din germana veche înaltă 'kranc', care însemna 'slab' sau 'bolnav', având o rădăcină germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bolnav",
+    "definition": "A nu fi sănătos; afectat de o boală.",
+    "pronunciation": "/bolˈnav/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bolnav“ stammt vom slawischen 'bolenŭ' ab, was 'krank' bedeutet und in das Rumänische übernommen wurde.",
+        "targetText": "Cuvântul românesc „bolnav” provine din slavona 'bolenŭ', care înseamnă 'bolnav', fiind împrumutat în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Gesund",
+      "targetText": "sănătos"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Medizin",
+      "targetText": "medicină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gesund",
+      "targetText": "sănătos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist krank und bleibt zu Hause.",
+      "targetText": "El este bolnav și stă acasă."
+    },
+    {
+      "sourceText": "Sie fühlt sich krank und müde.",
+      "targetText": "Ea se simte bolnavă și obosită."
+    },
+    {
+      "sourceText": "Der kranke Mann braucht Ruhe.",
+      "targetText": "Bărbatul bolnav are nevoie de odihnă."
+    },
+    {
+      "sourceText": "Krank sein bedeutet, dass der Körper nicht gesund ist.",
+      "targetText": "A fi bolnav înseamnă că trupul nu este sănătos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'b' am Anfang von 'bolnav' hilft dir, an 'behandeln' zu denken, was man mit Kranken macht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'bolnav' klingt ähnlich wie das deutsche Wort 'Bohne' + 'nav' – stell dir eine Bohne vor, die krank ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bolnav' kommt aus dem Slawischen, ähnlich wie viele andere rumänische Wörter für Gesundheit und Krankheit."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'krank' auf Deutsch entspricht 'bolnav' auf Rumänisch – beide beschreiben einen schlechten Gesundheitszustand."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

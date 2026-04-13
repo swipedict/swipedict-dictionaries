@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-wenn",
+  "parent": "ms-ro-daca-0bcc7781@9946f244e1dceed13e9268b932427740",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wenn",
+    "definition": "Eine Konjunktion, die verwendet wird, um Bedingungen, Zeitpunkte oder Wiederholungen in Nebensätzen auszudrücken.",
+    "pronunciation": "/vɛn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „wenn“ stammt vom althochdeutschen 'wenn' oder 'wenne' ab, das auf das germanische *wannō zurückgeht, ursprünglich eine temporale und konditionale Konjunktion.",
+        "targetText": "Cuvântul german „wenn” provine din germana veche înaltă 'wenn' sau 'wenne', derivat din rădăcina germanică *wannō, folosit inițial ca conjuncție temporală și condițională."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dacă",
+    "definition": "O conjuncție folosită pentru a introduce propoziții subordonate condiționale sau temporale, echivalentul lui 'wenn' în germană.",
+    "pronunciation": "/ˈdaka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dacă“ stammt vom lateinischen 'dare' (geben) ab, das sich im Laufe der Zeit zu einer konditionalen Konjunktion entwickelte, die 'wenn' oder 'falls' bedeutet.",
+        "targetText": "Cuvântul românesc „dacă” provine din latinescul 'dare' (a da), care în timp a evoluat într-o conjuncție condițională cu sensul de 'dacă' sau 'în cazul în care'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "als",
+      "targetText": "când"
+    },
+    {
+      "sourceText": "falls",
+      "targetText": "în cazul în care"
+    },
+    {
+      "sourceText": "ob",
+      "targetText": "dacă"
+    },
+    {
+      "sourceText": "wann",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wenn es regnet, bleibe ich zu Hause.",
+      "targetText": "Dacă plouă, stau acasă."
+    },
+    {
+      "sourceText": "Ich rufe dich an, wenn ich zu Hause bin.",
+      "targetText": "Te sun când sunt acasă."
+    },
+    {
+      "sourceText": "Wenn du Zeit hast, können wir uns treffen.",
+      "targetText": "Dacă ai timp, ne putem întâlni."
+    },
+    {
+      "sourceText": "Wenn ich müde bin, trinke ich Kaffee.",
+      "targetText": "Când sunt obosit, beau cafea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'dacă' klingt wie 'da' + 'că' – 'da' bedeutet 'ja' und 'că' ist eine häufige Konjunktion, zusammen ergibt das eine Bedingung, ähnlich wie 'wenn'."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen benutzt man 'wenn' für Bedingungen und Zeitpunkte; im Rumänischen ist 'dacă' die typische Wahl für Bedingungen, während 'când' für Zeitpunkte steht."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'dacă' im Rumänischen oft für Bedingungen steht, genau wie 'wenn' im Deutschen – beide leiten Nebensätze ein, die eine Voraussetzung ausdrücken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst (lat. 'dare') jemandem eine Bedingung – so kannst du dir merken, dass 'dacă' von 'dare' stammt und 'wenn' bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

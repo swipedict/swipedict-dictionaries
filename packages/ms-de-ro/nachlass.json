@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-nachlass",
+  "parent": "ms-ro-mostenire-cde75081@8da6cc657a9014eb61be1c44f903acf5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nachlass",
+    "genus": "masculine",
+    "definition": "Das Vermögen und die Rechte, die eine Person nach ihrem Tod hinterlässt.",
+    "pronunciation": "/ˈnaːxˌlas/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Nachlass“ setzt sich aus ‚nach‘ und ‚lassen‘ zusammen und bezeichnet ursprünglich das, was jemand ‚nachlässt‘, also hinterlässt. Es stammt aus dem Mittelhochdeutschen und ist seit dem 16. Jahrhundert belegt.",
+        "targetText": "Cuvântul german „Nachlass“ provine din compunerea dintre „nach“ (după) și „lassen“ (a lăsa), desemnând ceea ce o persoană lasă în urmă după moarte. Termenul este atestat încă din germana mijlocie, din secolul al XVI-lea."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "moștenire",
+    "genus": "feminine",
+    "definition": "Bunurile, drepturile și obligațiile pe care o persoană le lasă după moarte.",
+    "pronunciation": "/moʃteˈnirɛ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „moștenire“ stammt vom lateinischen Verb 'monstrare' ab, das sich im Rumänischen zu 'moșteni' entwickelte, was 'erben' bedeutet. Die Endung '-ire' bildet ein Substantiv, das den Vorgang oder das Ergebnis bezeichnet.",
+        "targetText": "Substantivul românesc „moștenire” derivă din verbul latin 'monstrare', care în evoluția limbii române a devenit 'moșteni', însemnând 'a moșteni'. Sufixul '-ire' formează un substantiv ce desemnează acțiunea sau rezultatul."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erbe",
+      "targetText": "moștenitor"
+    },
+    {
+      "sourceText": "Erbschaft",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Testament",
+      "targetText": "testament"
+    },
+    {
+      "sourceText": "Vermögen",
+      "targetText": "avere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Verzicht",
+      "targetText": "renunțare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Nachlass wurde unter den Erben aufgeteilt.",
+      "targetText": "Moștenirea a fost împărțită între moștenitori."
+    },
+    {
+      "sourceText": "Er hat seinen Nachlass in einem Testament geregelt.",
+      "targetText": "Și-a reglementat moștenirea printr-un testament."
+    },
+    {
+      "sourceText": "Der Nachlass umfasst Immobilien und Geldanlagen.",
+      "targetText": "Moștenirea cuprinde imobile și investiții financiare."
+    },
+    {
+      "sourceText": "Die Erben müssen den Nachlass verwalten.",
+      "targetText": "Moștenitorii trebuie să administreze moștenirea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚moștenire‘ klingt ähnlich wie ‚moș‘ (Großvater) – Großeltern geben oft eine ‚moștenire‘ (Erbschaft) weiter."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb ‚moșteni‘ bedeutet ‚erben‘, und ‚moștenire‘ ist das Substantiv dazu – merke dir die Verbindung zwischen Erben und Erbschaft."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung ‚-ire‘ im Rumänischen zeigt oft eine Handlung oder ein Ergebnis an, hier also das Ergebnis des ‚moșteni‘ (Erbens): die ‚moștenire‘."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand ‚lässt nach‘ (gibt weiter) etwas Wertvolles – so kannst du dir ‚Nachlass‘ als das vorstellen, was nach dem Tod ‚nachgelassen‘ wird."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

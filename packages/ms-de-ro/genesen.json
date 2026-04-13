@@ -1,0 +1,148 @@
+{
+  "id": "ms-de-ro-genesen",
+  "parent": "ms-ro-a-se-vindeca-b43e8363@a331d79115abfbcc54f751b13ab485f1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "genesen",
+    "definition": "von einer Krankheit oder Verletzung gesund werden",
+    "pronunciation": "/ɡəˈneːzən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „genesen“ stammt vom mittelhochdeutschen „genesen“, das auf althochdeutsch „gisēn“ zurückgeht und bedeutet „wieder gesund werden“.",
+        "targetText": "Verbul „genesen“ provine din germana mijlocie „genesen“, derivat din germana veche „gisēn“ și înseamnă „a se însănătoși“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in medizinischen Kontexten verwendet und beschreibt den Prozess der Heilung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se vindeca",
+    "definition": "a deveni sănătos după o boală sau o leziune",
+    "pronunciation": "/a se vinˈde.ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se vindeca“ stammt vom slawischen „vindicare“ ab, was „heilen“ bedeutet und beschreibt den Prozess der Wiederherstellung der Gesundheit.",
+        "targetText": "Verbul românesc „a se vindeca“ derivă din slavona „vindicare“, care înseamnă „a vindeca“ și descrie procesul de refacere a sănătății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, um den Heilungsprozess nach Krankheiten oder Verletzungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Gesund werden",
+      "explanation": {
+        "sourceText": "Im Sinne von 'sich erholen' oder 'wieder gesund werden'.",
+        "targetText": "În sensul de „a se recupera“ sau „a deveni din nou sănătos“."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte gesund werden.",
+          "targetText": "Vreau să mă fac bine."
+        }
+      ]
+    },
+    {
+      "gloss": "Heilungsprozess",
+      "explanation": {
+        "sourceText": "Der Prozess des Geneses. Verwiesen auf den Fortschritt der Genesung.",
+        "targetText": "Procesul de vindecare. Se referă la progresul însănătoșirii."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Heilungsprozess war schmerzhaft.",
+          "targetText": "Procesul de vindecare a fost dureros."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Symptom",
+      "targetText": "simptom"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erkranken",
+      "targetText": "a se îmbolnăvi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich genese schnell nach einer Erkältung.",
+      "targetText": "Mă vindec repede după o răceală."
+    },
+    {
+      "sourceText": "Genesest du gut nach deiner Operation?",
+      "targetText": "Te vindeci bine după operație?"
+    },
+    {
+      "sourceText": "Sie genest nicht so schnell.",
+      "targetText": "Ea nu se vindecă atât de repede."
+    },
+    {
+      "sourceText": "Wir genesen gemeinsam.",
+      "targetText": "Ne vindecăm împreună."
+    },
+    {
+      "sourceText": "Genest ihr langsam?",
+      "targetText": "Vă vindecați încet?"
+    },
+    {
+      "sourceText": "Sie genesen nach der Behandlung.",
+      "targetText": "Se vindecă după tratament."
+    },
+    {
+      "sourceText": "Ich habe in kurzer Zeit genesen.",
+      "targetText": "M-am vindecat în scurt timp."
+    },
+    {
+      "sourceText": "Ich werde gut genesen.",
+      "targetText": "Mă voi vindeca bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „vindeca“ klingt ähnlich wie das deutsche „wieder heilen“ – stell dir vor, wie du dich wieder gesund fühlst, um dir „a se vindeca“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „genesen“ mit „a se vindeca“ durch die gemeinsame Bedeutung des Gesundwerdens nach Krankheit oder Verletzung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-kuehlen",
+  "parent": "ms-ro-a-raci-0a65658e@4a51fe3c26218ba6be787cec72139e2c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kühlen",
+    "definition": "die Temperatur eines Gegenstandes senken, um ihn frisch oder kalt zu halten",
+    "pronunciation": "/ˈkyːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „kühle“ abgeleitet, verwandt mit dem englischen „cool“, bezeichnet es das Senken der Temperatur.",
+        "targetText": "Vom mittelhochdeutschen „kühle“ abgeleitet, verwandt mit dem englischen „cool“, bezeichnet es das Senken der Temperatur."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt die Reduzierung der Temperatur, meist in Bezug auf Lebensmittel oder Getränke."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a răci",
+    "definition": "a reduce temperatura unui obiect pentru a-l menține proaspăt sau rece",
+    "pronunciation": "/a rəˈt͡ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „frigidus“ (kalt) abgeleitet, beschreibt es den Prozess des Abkühlens.",
+        "targetText": "Vom lateinischen „frigidus“ (kalt) abgeleitet, beschreibt es den Prozess des Abkühlens."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In der rumänischen Sprache wird es oft verwendet, um das Abkühlen von Speisen oder Getränken zu beschreiben, vor allem im Sommer."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Eis",
+      "targetText": "ghiac"
+    },
+    {
+      "sourceText": "Frische",
+      "targetText": "prospețime"
+    },
+    {
+      "sourceText": "Kälte",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "Kühlschrank",
+      "targetText": "frigorifer"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erwärmen",
+      "targetText": "a încălzi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kühle das Getränk im Kühlschrank.",
+      "targetText": "Răcesc băutura în frigider."
+    },
+    {
+      "sourceText": "Er kühlte die Suppe ab.",
+      "targetText": "El a răcit supa."
+    },
+    {
+      "sourceText": "Ich werde das Essen kühlen。",
+      "targetText": "Voi răci mâncarea."
+    },
+    {
+      "sourceText": "Kühle das Wasser!",
+      "targetText": "Răcește apa!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Răcesc mâncarea ca să nu se strice“ – so festigst du die Verwendung von „a răci“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a răci“ mit der Erfrischung an heißen Sommertagen – so merkst du dir das Wort leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

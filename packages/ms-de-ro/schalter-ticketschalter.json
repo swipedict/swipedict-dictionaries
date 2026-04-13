@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-schalter-ticketschalter",
+  "parent": "ms-ro-ghiseu-250dd61c@eb624a5f317f338720e9f76a7cc15731",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schalter",
+    "genus": "masculine",
+    "definition": "Ein fester oder beweglicher Teil, an dem man z. B. Tickets kaufen oder Informationen erhalten kann; speziell hier: Ticketschalter.",
+    "pronunciation": "/ˈʃaltɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schalter“ stammt vom mittelhochdeutschen 'schalter' oder 'schaltere', was ursprünglich 'Klappe' oder 'Lade' bedeutete, und ist verwandt mit dem Verb 'schalten' im Sinne von 'umschalten' oder 'verändern'.",
+        "targetText": "Cuvântul german „Schalter” provine din germana medie 'schalter' sau 'schaltere', care inițial însemna 'oblon' sau 'sertar', fiind legat de verbul 'schalten' cu sensul de 'a comuta' sau 'a schimba'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ghiseu",
+    "genus": "neuter",
+    "definition": "Un loc amenajat unde se vând bilete sau se oferă informații, de obicei cu un tejghea sau o fereastră pentru interacțiunea cu clienții.",
+    "pronunciation": "/ɡiˈʃew/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ghiseu“ stammt aus dem französischen 'guichet', das wiederum aus dem mittelfranzösischen 'guichet' kommt und 'Fenster' oder 'Schalter' bedeutet.",
+        "targetText": "Cuvântul românesc „ghiseu” provine din franceza 'guichet', care la rândul său vine din franceza veche 'guichet' și înseamnă 'fereastră' sau 'ghișeu'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrkarte",
+      "targetText": "bilet de călătorie"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Kasse",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Ticket",
+      "targetText": "bilet"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe mein Ticket am Schalter gekauft.",
+      "targetText": "Mi-am cumpărat biletul la ghișeu."
+    },
+    {
+      "sourceText": "Der Schalter ist von 8 bis 18 Uhr geöffnet.",
+      "targetText": "Ghișeul este deschis de la 8 la 18."
+    },
+    {
+      "sourceText": "Bitte warten Sie am Schalter, bis Sie aufgerufen werden.",
+      "targetText": "Vă rugăm să așteptați la ghișeu până când sunteți chemat."
+    },
+    {
+      "sourceText": "Am Schalter können Sie Fahrkarten für den Zug kaufen.",
+      "targetText": "La ghișeu puteți cumpăra bilete de tren."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Schalter' erinnert an 'schalten' – man wechselt hier vom Warten zum Kaufen, genau wie man einen Schalter umlegt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ghiseu“ klingt ähnlich wie das französische 'guichet', das man sich als kleines Fenster vorstellen kann, durch das man Tickets bekommt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: Am 'ghiseu' bekommst du nicht nur Tickets, sondern auch Informationen – es ist dein direkter Kontaktpunkt, ähnlich wie der Schalter im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du stehst an einem Fenster (wie ein kleines 'Gitter' oder 'Giebel'), um Tickets zu kaufen – das hilft dir, 'ghiseu' zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

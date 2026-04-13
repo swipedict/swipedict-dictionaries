@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-schnupfen",
+  "parent": "ms-ro-raceala-ab31b278@c03b171251abab57edc664135cdf2971",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schnupfen",
+    "genus": "masculine",
+    "definition": "Eine Erkältungskrankheit, bei der die Nasenschleimhäute entzündet sind und vermehrt Sekret produzieren, was zu einer laufenden oder verstopften Nase führt.",
+    "pronunciation": "/ˈʃnʊpfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Schnupfen“ stammt vom mittelhochdeutschen ‚snupfen‘ ab, das ‚schniefen‘ oder ‚die Nase reiben‘ bedeutete, und ist lautmalerisch geprägt, um das Geräusch des Nasenatmens bei Erkältung zu beschreiben.",
+        "targetText": "Cuvântul german „Schnupfen“ provine din germana medie înaltă 'snupfen', care însemna 'a sughița' sau 'a freca nasul', fiind onomatopeic pentru sunetul respirației nazale în timpul răcelii."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "răceală",
+    "genus": "feminine",
+    "definition": "O boală comună caracterizată prin inflamația mucoasei nazale și secreție abundentă, cauzând nas înfundat sau care curge.",
+    "pronunciation": "/rəˈt͡ʃe̯alə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „răceală“ stammt vom lateinischen Verb 'ragere' (kalt sein) ab, über die Entwicklung im Rumänischen mit dem Suffix '-eală', das eine Krankheit oder Zustand bezeichnet.",
+        "targetText": "Cuvântul românesc „răceală” derivă din verbul latin 'ragere' (a fi rece), prin dezvoltarea în limba română cu sufixul '-eală', care indică o boală sau o stare."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erkältung",
+      "targetText": "răceală"
+    },
+    {
+      "sourceText": "Husten",
+      "targetText": "tuse"
+    },
+    {
+      "sourceText": "Nase",
+      "targetText": "nas"
+    },
+    {
+      "sourceText": "Schniefen",
+      "targetText": "a sughița"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gesund",
+      "targetText": "sănătos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe Schnupfen und muss oft niesen.",
+      "targetText": "Am răceală și trebuie să strănut des."
+    },
+    {
+      "sourceText": "Bei Schnupfen hilft oft ein Taschentuch.",
+      "targetText": "La răceală ajută adesea un șervețel."
+    },
+    {
+      "sourceText": "Schnupfen ist eine häufige Erkältungskrankheit im Winter.",
+      "targetText": "Răceala este o boală frecventă de sezon în timpul iernii."
+    },
+    {
+      "sourceText": "Er hat Schnupfen und fühlt sich schlapp.",
+      "targetText": "Are răceală și se simte obosit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚-eală‘ am Ende von 'răceală' zeigt oft eine Krankheit oder Zustand an, ähnlich wie das deutsche '-ung' in 'Erkältung'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'răceală' erinnert an 'rece' (kalt). Eine Erkältung kommt oft, wenn es kalt ist – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du bei einer Erkältung ständig 'schnupfst' – das Geräusch hilft dir, das Wort 'Schnupfen' mit der laufenden Nase zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Bild einer roten, laufenden Nase mit dem Wort 'răceală' – so bleibt es dir leichter im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

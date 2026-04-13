@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-erbe-das-erbe",
+  "parent": "ms-ro-mostenire-cde75081@8da6cc657a9014eb61be1c44f903acf5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Erbe",
+    "genus": "neuter",
+    "definition": "Das Vermögen oder die Rechte, die eine Person nach dem Tod eines anderen erhält.",
+    "pronunciation": "/ˈɛʁbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Erbe“ stammt vom althochdeutschen 'irbi' ab, das auf das germanische *arbijaz zurückgeht und 'Erbschaft' oder 'Besitz' bedeutet.",
+        "targetText": "Cuvântul german „Erbe” provine din germana veche înaltă 'irbi', derivat din rădăcina germanică *arbijaz, însemnând 'moștenire' sau 'posesiune'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "moștenire",
+    "genus": "feminine",
+    "definition": "Bunurile sau drepturile primite de o persoană după decesul altcuiva.",
+    "pronunciation": "/moʃteˈnirʲe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „moștenire“ stammt vom lateinischen 'mustinare' ab, das sich aus 'monstrare' entwickelte, wurde aber stark beeinflusst von slawischen Einflüssen und bedeutet 'Erbschaft'.",
+        "targetText": "Cuvântul românesc „moștenire” provine din latină, de la 'mustinare' (derivat din 'monstrare'), dar a fost puternic influențat de limbi slave, însemnând 'moștenire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "erben",
+      "targetText": "a moșteni"
+    },
+    {
+      "sourceText": "Erbschaft",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Nachlass",
+      "targetText": "succesiune"
+    },
+    {
+      "sourceText": "Vermächtnis",
+      "targetText": "legat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Verlust",
+      "targetText": "pierdere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er erhielt das Erbe seines Großvaters.",
+      "targetText": "El a primit moștenirea bunicului său."
+    },
+    {
+      "sourceText": "Das Erbe umfasst Häuser, Geld und Schmuck.",
+      "targetText": "Moștenirea include case, bani și bijuterii."
+    },
+    {
+      "sourceText": "Viele Menschen kümmern sich um ihr Erbe.",
+      "targetText": "Mulți oameni se ocupă de moștenirea lor."
+    },
+    {
+      "sourceText": "Das Erbe wurde gerecht unter den Kindern verteilt.",
+      "targetText": "Moștenirea a fost împărțită echitabil între copii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Erbe“ und das rumänische „moștenire“ sind beide mit Besitz und Weitergabe verbunden – denk an das Weitergeben von etwas Wertvollem."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „moștenire“ klingt wie „moș“ (alter Mann) + „tenire“ (halten), stell dir vor, ein alter Mann hält sein Erbe."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „moștenire“ endet auf '-ire', eine typische Endung für Substantive aus Verben, hier vom Verb „a moșteni“ (erben)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wer etwas erbt, „moștenește“ – beide Wörter beginnen mit 'mo', das hilft beim Erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

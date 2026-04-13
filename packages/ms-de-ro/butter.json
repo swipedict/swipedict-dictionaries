@@ -1,0 +1,167 @@
+{
+  "id": "ms-de-ro-butter",
+  "parent": "ms-ro-unt-016d80a5@078018d5602e2fdc81269cd3318ab0d8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Butter",
+    "genus": "feminine",
+    "definition": "ein fettiges Lebensmittel, das aus Milch oder Sahne hergestellt wird",
+    "pronunciation": "/ˈbʊtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Butter“ entstammt dem lateinischen „butyrum“, welches wahrscheinlich aus dem Griechischen „βούτυρον“ (bouturon) stammt. Es bezeichnet ein Milchprodukt, das durch das Verarbeiten von Sahne oder Milch entsteht.",
+        "targetText": "Der Ursprung liegt im Griechischen, über Latein ins Deutsche gelangt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Butter ist eine häufig verwendete Zutat in der deutschen Küche, oft zum Backen oder Braten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "unt",
+    "genus": "neuter",
+    "definition": "un aliment gras care este făcut din lapte sau smântână",
+    "pronunciation": "/unt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „unt“ stammt vom lateinischen „butyrum“ ab, das über das Bulgarische ins Rumänische gelangte. Es bezeichnet ein Milchprodukt, das durch das Schlagen von Rahm oder Milch hergestellt wird.",
+        "targetText": "Termenul provine din latină, cu influențe slave, și desemnează un produs lactat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Butter wird in Rumänien häufig in der Küche verwendet, auch für die Zubereitung traditioneller Gerichte."
+  },
+  "senses": [
+    {
+      "gloss": "Butter (Lebensmittel)",
+      "explanation": {
+        "sourceText": "Ein wichtiges Fett in der Küche.",
+        "targetText": "Un ingredient gras esențial în bucătărie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich esse gerne Brot mit Butter.",
+          "targetText": "Îmi place să mănânc pâine cu unt."
+        },
+        {
+          "sourceText": "Die Butter sollte kühl gelagert werden.",
+          "targetText": "Untul trebuie păstrat la rece."
+        }
+      ]
+    },
+    {
+      "gloss": "Schulbank",
+      "explanation": {
+        "sourceText": "'Bancă' ist auch das Wort für Schulbank.",
+        "targetText": "„Bancă“ înseamnă și bancă de școală."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Banknachbar fehlt.",
+          "targetText": "Colegul meu de bancă lipsește."
+        }
+      ]
+    },
+    {
+      "gloss": "Sitzbank",
+      "explanation": {
+        "sourceText": "In Parks oft zu finden.",
+        "targetText": "Un loc de șezut în parcuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Setzen wir uns auf die Bank.",
+          "targetText": "Să ne așezăm pe bancă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Brot",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "Käse",
+      "targetText": "brânză"
+    },
+    {
+      "sourceText": "Milch",
+      "targetText": "lapte"
+    },
+    {
+      "sourceText": "Sahne",
+      "targetText": "smântână"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Öl",
+      "targetText": "ulei"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich esse gerne Brot mit Butter.",
+      "targetText": "Îmi place să mănânc pâine cu unt."
+    },
+    {
+      "sourceText": "Die Butter sollte kühl gelagert werden.",
+      "targetText": "Untul trebuie păstrat la rece."
+    },
+    {
+      "sourceText": "Butter macht viele Gerichte schmackhaft.",
+      "targetText": "Untul face multe preparate mai gustoase."
+    },
+    {
+      "sourceText": "Ich habe Butter für den Kuchen gekauft.",
+      "targetText": "Am cumpărat unt pentru prăjitură."
+    },
+    {
+      "sourceText": "Kannst du mir etwas Butter geben?",
+      "targetText": "Îmi poți da puțin unt?"
+    },
+    {
+      "sourceText": "In vielen Rezepten wird Butter verwendet.",
+      "targetText": "În multe rețete se folosește unt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „unt“ vom lateinischen „butyrum“ stammt – das hilft, die Verbindung zu „Butter“ zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Die kurze Form „unt“ klingt knackig und einfach – perfekt, um sich das Wort zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie das „u“ in „unt“ für „Ursprung“ steht – das Wort ist ein uraltes Milchprodukt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Butter“ mit „unt“: Beide Wörter sind kurz und einfach – stelle dir vor, wie du Butter (unt) auf dein Brot streichst!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

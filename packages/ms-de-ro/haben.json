@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-haben",
+  "parent": "ms-ro-a-avea-427218f0@d0b32950f775d0bc7112d7be73abffd7",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "haben",
+    "definition": "im Besitz von etwas sein",
+    "pronunciation": "/ˈhaːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „haben“ stammt vom althochdeutschen „habēn“ ab, was „besitzen“ bedeutet, mit verwandten Formen in anderen germanischen Sprachen.",
+        "targetText": "Verbul german „haben“ provine din vechiul german „habēn“, care înseamnă „a poseda“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Haben ist ein unregelmäßiges Verb, das in verschiedenen Zeiten sowohl als Vollverb als auch als Hilfsverb verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a avea",
+    "definition": "a fi în posesia a ceva",
+    "pronunciation": "/a aˈve.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a avea“ stammt vom lateinischen „habere“ ab, was „haben“ oder „besitzen“ bedeutet, verbunden mit dem Konzept von Besitz und Fürsorge.",
+        "targetText": "Verbul românesc „a avea“ provine din latină „habere“, care înseamnă „a avea, a poseda“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb, das in vielen konjugierten Formen vorkommt und oft als Hilfsverb genutzt wird."
+  },
+  "senses": [
+    {
+      "gloss": "Haben (Besitz haben)",
+      "explanation": {
+        "sourceText": "'Haben' bezieht sich auf den Besitz von Dingen oder Rechten.",
+        "targetText": "'A avea' se referă la posesia unor obiecte sau drepturi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe ein Auto.",
+          "targetText": "Eu am o mașină."
+        }
+      ]
+    },
+    {
+      "gloss": "Haben (Hilfsverb)",
+      "explanation": {
+        "sourceText": "'Haben' wird auch als Hilfsverb in der Vergangenheit verwendet.",
+        "targetText": "'A avea' este folosit și ca verb auxiliar la timpul trecut."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe das Buch gelesen.",
+          "targetText": "Am citit cartea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besitz",
+      "targetText": "posesie"
+    },
+    {
+      "sourceText": "Eigenschaft",
+      "targetText": "caracteristică"
+    },
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlieren",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe ein Buch.",
+      "targetText": "Eu am o carte."
+    },
+    {
+      "sourceText": "Hast du einen Hund?",
+      "targetText": "Ai un câine?"
+    },
+    {
+      "sourceText": "Er hat viele Freunde.",
+      "targetText": "El are mulți prieteni."
+    },
+    {
+      "sourceText": "Wir haben Zeit.",
+      "targetText": "Noi avem timp."
+    },
+    {
+      "sourceText": "Habt ihr ein Ziel?",
+      "targetText": "Aveți un obiectiv?"
+    },
+    {
+      "sourceText": "Sie haben ein schönes Haus.",
+      "targetText": "Ei au o casă frumoasă."
+    },
+    {
+      "sourceText": "Ich habe einen Apfel gegessen.",
+      "targetText": "Am mâncat un măr."
+    },
+    {
+      "sourceText": "Ich werde einen Hund haben.",
+      "targetText": "Voi avea un câine."
+    },
+    {
+      "sourceText": "Habe Geduld!",
+      "targetText": "Aibă răbdare!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Haben“ und „a avea“ sind essentielle Verben in beiden Sprachen. Denke daran, dass „a avea“ oft als Hilfsverb verwendet wird! Übe die Formen „Eu am“, „Eu am avut“, „Eu voi avea“ für den alltäglichen Gebrauch."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du etwas Besitzbares in den Händen hältst – das hilft, die Bedeutung und Nutzung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

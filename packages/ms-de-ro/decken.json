@@ -1,0 +1,162 @@
+{
+  "id": "ms-de-ro-decken",
+  "parent": "ms-ro-a-acoperi-e0e052f9@d41bc967740e3259fbf5becde8330726",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "decken",
+    "definition": "einen Tisch für eine Mahlzeit vorbereiten oder mit einem Tuch oder einer Decke etwas abdecken",
+    "pronunciation": "/ˈdɛkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort leitet sich vom althochdeutschen „dahhan“ ab, was „abdecken“ bedeutet und mit mittelhochdeutsch „decken“ verwandt ist.",
+        "targetText": "Cuvântul provine din althochdeutsch „dahhan“, care înseamnă „a acoperi“, fiind înrudit cu mijlocigermanicul „decken“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verben, die eine Abdeckung oder das Bedecken eines Objekts beschreiben. Häufig verwendet in Bezug auf Tische (decken) oder zum Schutz (z.B. „die Wunden decken“)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acoperi",
+    "definition": "a pregăti o masă sau a acoperi ceva cu o pânză sau o pătură",
+    "pronunciation": "/a a.ko.peˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a acoperi“ stammt vom lateinischen Wort „cooperire“ ab, was „bedecken“ bedeutet, abgeleitet von „co-“, was „gemeinsam“ oder „zusammen“ bedeutet und „operire“, was „bedecken, schützen“ bedeutet. Diese Wortherkunft zeigt, dass die grundlegende Bedeutung das Zusammenbringen von etwas zum Schutz oder zur Überdeckung beschreibt.",
+        "targetText": "Verbul „a acoperi“ provine din latinescul „cooperire“, format din „co-“ (împreună) și „operire“ (a acoperi), indicând ideea de a acoperi sau proteja ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird oft verwendet, um etwas physisch zu bedecken oder auch metaphorisch (zum Beispiel das Verstecken von Gefühlen)."
+  },
+  "senses": [
+    {
+      "gloss": "Abdecken",
+      "explanation": {
+        "sourceText": "'Abdecken' bedeutet, etwas vor etwas anderes zu verbergen.",
+        "targetText": "„A acoperi“ înseamnă a ascunde ceva sub altceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich decke das Geheimnis.",
+          "targetText": "Eu acopăr secretul."
+        }
+      ]
+    },
+    {
+      "gloss": "Bedecken",
+      "explanation": {
+        "sourceText": "'Bedecken' bezieht sich auf das physische Abdecken von Objekten.",
+        "targetText": "Se referă la acoperirea fizică a obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde die Möbel während des Umzugs abdecken.",
+          "targetText": "Voi acoperi mobila în timpul mutării."
+        }
+      ]
+    },
+    {
+      "gloss": "Sich um etw. kümmern",
+      "explanation": {
+        "sourceText": "Das Wort kann auch im übertragenen Sinne verwendet werden.",
+        "targetText": "Poate fi folosit și în sens figurat, pentru a arăta grijă față de ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kümmere mich um die Gäste.",
+          "targetText": "Mă ocup de oaspeți."
+        }
+      ]
+    },
+    {
+      "gloss": "Vorbereiten",
+      "explanation": {
+        "sourceText": "'Vorbereiten' ist eine häufige Verwendung, wenn man etwas für eine Mahlzeit oder ein Ereignis 'deckt'.",
+        "targetText": "Se folosește frecvent pentru pregătirea mesei sau a unui eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich decke das Frühstück.",
+          "targetText": "Eu acopăr micul dejun."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besteck",
+      "targetText": "tăiș"
+    },
+    {
+      "sourceText": "Serviette",
+      "targetText": "servet"
+    },
+    {
+      "sourceText": "Teller",
+      "targetText": "farfurie"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entdecken",
+      "targetText": "a descoperi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich decke den Tisch für das Abendessen.",
+      "targetText": "Eu acopăr masa pentru cină."
+    },
+    {
+      "sourceText": "Ich habe das Buch mit einem Tuch gedeckt.",
+      "targetText": "Am acoperit cartea cu o cârpă."
+    },
+    {
+      "sourceText": "Ich werde den Pool in den Wintermonaten abdecken.",
+      "targetText": "Voi acoperi piscina în timpul iernii."
+    },
+    {
+      "sourceText": "Ich würde den Tisch decken, wenn du kommst.",
+      "targetText": "Aș acoperi masa dacă ai veni."
+    },
+    {
+      "sourceText": "Decke das Bett!",
+      "targetText": "Acoperă patul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a acoperi“ kommt vom lateinischen „cooperire“ – stell dir vor, wie du etwas gemeinsam abdeckst, um es zu schützen!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „decken“ sowohl das physische Abdecken als auch das metaphorische Bedecken von Informationen oder Gefühlen bedeutet. Es ist ein vielseitiges Wort!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

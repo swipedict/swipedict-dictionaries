@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-amt",
+  "parent": "ms-ro-oficiu-c6fd066c@78b4979381197d7db89cf38136080b54",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Amt",
+    "genus": "neuter",
+    "definition": "Eine offizielle Behörde oder Dienststelle, die bestimmte Aufgaben oder Funktionen erfüllt.",
+    "pronunciation": "/amt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort 'Amt' stammt vom althochdeutschen 'ambt' ab, das auf das lateinische 'ambactus' zurückgeht, was 'Diener' oder 'Beamter' bedeutet.",
+        "targetText": "Cuvântul german „Amt” provine din germana veche înaltă „ambt”, derivat din latină „ambactus”, însemnând „servitor” sau „funcționar”."
+      },
+      "source": "Etymologische Quellen Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "oficiu",
+    "genus": "neuter",
+    "definition": "O instituție oficială sau o autoritate care îndeplinește anumite funcții administrative.",
+    "pronunciation": "/oˈfitʃju/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'oficiu' stammt vom lateinischen 'officium' ab, das 'Dienst' oder 'Amt' bedeutet.",
+        "targetText": "Cuvântul românesc „oficiu” provine din latină „officium”, însemnând „serviciu” sau „funcție”."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beamter",
+      "targetText": "funcționar"
+    },
+    {
+      "sourceText": "Behörde",
+      "targetText": "autoritate"
+    },
+    {
+      "sourceText": "Dienststelle",
+      "targetText": "instituție"
+    },
+    {
+      "sourceText": "Verwaltung",
+      "targetText": "administrație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Privatperson",
+      "targetText": "persoană privată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich muss zum Amt gehen, um meinen Pass zu beantragen.",
+      "targetText": "Trebuie să merg la oficiu pentru a-mi solicita pașaportul."
+    },
+    {
+      "sourceText": "Das Amt ist von Montag bis Freitag geöffnet.",
+      "targetText": "Oficiul este deschis de luni până vineri."
+    },
+    {
+      "sourceText": "Im Amt arbeiten viele Beamte und Sachbearbeiter.",
+      "targetText": "La oficiu lucrează mulți funcționari și lucrători administrativi."
+    },
+    {
+      "sourceText": "Das Amt hat die Aufgabe, Dokumente auszustellen.",
+      "targetText": "Oficiul are sarcina de a elibera documente."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'officium' ist die Wurzel für viele Wörter rund um Dienst und Amt in romanischen Sprachen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'oficiu' klingt ähnlich wie das französische 'office' und bedeutet ebenfalls eine offizielle Stelle."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'Amt' und 'oficiu' als Wörter, die beide mit Verwaltung und Behörden zu tun haben."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst zum 'oficiu', um wichtige Dokumente zu erledigen – das hilft dir, die Bedeutung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

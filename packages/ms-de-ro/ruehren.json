@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-ruehren",
+  "parent": "ms-ro-a-amesteca-91115bc7@9e2667175509d5fc7bd4e378faa9156b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "rühren",
+    "definition": "mit einem Löffel oder ähnlichen Gegenstand in einer Flüssigkeit oder einer Masse bewegen, um diese zu vermischen oder zu bearbeiten",
+    "pronunciation": "/ˈryːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „rühren“ stammt vom mittelhochdeutschen „rüren“ ab, das aus dem althochdeutschen „rūrian“ kommt und „bewegen“ oder „drehen“ bedeutet.",
+        "targetText": "Verbul „rühren“ provine din germana mijlocie „rüren“, derivat din germana veche „rūrian“, care înseamnă „a mișca“ sau „a întoarce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft in der Küche verwendet, um Zutaten zu vermischen oder eine Masse herzustellen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a amesteca",
+    "definition": "a mișca o substanță lichidă sau o masă cu o lingură sau un obiect similar pentru a le amesteca sau a le prelucra",
+    "pronunciation": "/a ameʃteˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a amesteca“ stammt vom lateinischen „miscere“ ab, was „mischen“ bedeutet und beschreibt das Zusammenführen verschiedener Zutaten.",
+        "targetText": "Verbul românesc „a amesteca“ provine din latină, de la „miscere“, care înseamnă „a amesteca“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet bei Kochvorgängen."
+  },
+  "senses": [
+    {
+      "gloss": "Mischen",
+      "explanation": {
+        "sourceText": "Eine andere Bedeutung des Verbs.",
+        "targetText": "O altă semnificație a verbului."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mische die Zutaten.",
+          "targetText": "Eu amestec ingredientele."
+        }
+      ]
+    },
+    {
+      "gloss": "Umdrehen",
+      "explanation": {
+        "sourceText": "Man kann 'rühren' auch im Sinne von 'umschichten' verwenden.",
+        "targetText": "Poate însemna și „a întoarce“ sau „a amesteca“."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich drehe den Teig um.",
+          "targetText": "Întorc aluatul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kochen",
+      "targetText": "gătit"
+    },
+    {
+      "sourceText": "Löffel",
+      "targetText": "lingură"
+    },
+    {
+      "sourceText": "Pfanne",
+      "targetText": "tigăi"
+    },
+    {
+      "sourceText": "Teig",
+      "targetText": "aluat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stillstehen",
+      "targetText": "a sta nemișcat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rühre die Suppe.",
+      "targetText": "Eu amestec supa."
+    },
+    {
+      "sourceText": "Rührst du den Teig?",
+      "targetText": "Amesteci aluatul?"
+    },
+    {
+      "sourceText": "Sie rührt den Salat.",
+      "targetText": "Ea amestecă salata."
+    },
+    {
+      "sourceText": "Wir rühren die Zutaten zusammen.",
+      "targetText": "Noi amestecăm ingredientele."
+    },
+    {
+      "sourceText": "Rührt ihr die Soße?",
+      "targetText": "Amestecați sosul?"
+    },
+    {
+      "sourceText": "Sie rühren den Kuchen bis er fertig ist.",
+      "targetText": "Ei amestecă prăjitura până este gata."
+    },
+    {
+      "sourceText": "Ich habe die Mischung gut gerührt.",
+      "targetText": "Am amestecat bine compoziția."
+    },
+    {
+      "sourceText": "Er rührte den Pudding jeden Abend.",
+      "targetText": "El amesteca budinca în fiecare seară."
+    },
+    {
+      "sourceText": "Ich werde die Masse rühren.",
+      "targetText": "Voi amesteca compoziția."
+    },
+    {
+      "sourceText": "Ich würde die Mischung rühren, wenn ich Zeit hätte.",
+      "targetText": "Aș amesteca compoziția dacă aș avea timp."
+    },
+    {
+      "sourceText": "Rühre den Salat!",
+      "targetText": "Amestecă salata!"
+    },
+    {
+      "sourceText": "Die gerührte Mischung trocknete schnell.",
+      "targetText": "Compunerea amestecată s-a uscat repede."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Rühren“ und „a amesteca“ sind Verben aus der Küche – stelle dir vor, wie du Zutaten vermischst."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation von „a amesteca“ in verschiedenen Zeiten, z. B. „Eu amestec“ (ich rühre)."
+    },
+    {
+      "lang": "de",
+      "text": "Verwende „amesteca“ oft beim Kochen, z. B. „amesteca sarmale“ – so bleibt das Wort im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-lehren",
+  "parent": "ms-ro-a-invata-63032e43@d4d5cd86972ae270f9425167a65b3bb1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "lehren",
+    "definition": "jemanden Wissen oder Fähigkeiten vermitteln",
+    "pronunciation": "/ˈleːʁn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „lehren“ stammt vom althochdeutschen „lehren“, was „jemandem etwas beibringen“ bedeutet, und ist eng mit „Lehre“ verbunden.",
+        "targetText": "Cuvântul „lehren“ provine din germana veche „lehren“, care înseamnă „a învăța pe cineva“, fiind legat de „Lehre“ (învățătură)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, häufig in pädagogischen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a învăța",
+    "definition": "a oferi cuiva cunoștințe sau abilități",
+    "pronunciation": "/a în-vəˈtsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a învăța“ stammt vom lateinischen „instructus“, was „unterrichten“ bedeutet, und ist mit „înțelegere“ (Verstehen) verwandt.",
+        "targetText": "Verbul românesc „a învăța“ provine din latină, de la „instructus“, care înseamnă „a instrui“, fiind legat de „înțelegere“ (înțelegere)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Es wird verwendet, um sowohl formales als auch informelles Lernen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "a învăța (aprenție)",
+      "explanation": {
+        "sourceText": "Könnte auch auf allgemeine Lernerfahrungen angewendet werden.",
+        "targetText": "Poate desemna și experiențe generale de învățare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich lerne jeden Tag etwas Neues.",
+          "targetText": "Învăț în fiecare zi ceva nou."
+        }
+      ]
+    },
+    {
+      "gloss": "a învăța (educare)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das lehrende Handeln.",
+        "targetText": "Se referă la acțiunea de a preda."
+      },
+      "examples": [
+        {
+          "sourceText": "Wie unterrichtest du die Kinder?",
+          "targetText": "Cum îi înveți pe copii?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schüler",
+      "targetText": "elev"
+    },
+    {
+      "sourceText": "Unterricht",
+      "targetText": "lecție"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "cunoaștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "lernen",
+      "targetText": "a învăța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lehre Mathematik.",
+      "targetText": "Eu învăț matematică."
+    },
+    {
+      "sourceText": "Lehrst du oft?",
+      "targetText": "Învăți tu adesea?"
+    },
+    {
+      "sourceText": "Er lehrt die Schüler.",
+      "targetText": "El învață elevii."
+    },
+    {
+      "sourceText": "Wir lehren Geschichte.",
+      "targetText": "Noi învățăm istoria."
+    },
+    {
+      "sourceText": "Lehrt ihr viel?",
+      "targetText": "Învățați voi mult?"
+    },
+    {
+      "sourceText": "Sie lehren die Grundlagen.",
+      "targetText": "Ei învață fundamentele."
+    },
+    {
+      "sourceText": "Ich habe die Klasse gelehrt.",
+      "targetText": "Am învățat clasa."
+    },
+    {
+      "sourceText": "Er lehrte immer die besten Methoden.",
+      "targetText": "El învăța mereu cele mai bune metode."
+    },
+    {
+      "sourceText": "Ich werde unterrichten.",
+      "targetText": "Voi învăța."
+    },
+    {
+      "sourceText": "Ich würde es lehren, wenn ich die Zeit hätte.",
+      "targetText": "Aș învăța dacă aș avea timp."
+    },
+    {
+      "sourceText": "Lehre gut!",
+      "targetText": "Învăță bine!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an „învăța copii“ (Kinder unterrichten), um die Bedeutung von „lehren“ klar zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Die Ähnlichkeit von „a învăța“ mit „instructus“ hilft dir, es mit Bildung und Lernen zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „Eu învăț“ als Basis für viele Sätze, um das Wort aktiv zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-batterie-auto",
+  "parent": "ms-ro-baterie-9cd5e674@2ca2e29fd7bca9d709b1006e2dd64b1f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Batterie",
+    "genus": "feminine",
+    "definition": "Ein Gerät, das elektrische Energie speichert und liefert, hier speziell für Autos.",
+    "pronunciation": "/batəˈʁiː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Batterie“ stammt vom französischen 'batterie' ab, das ursprünglich 'Schlag' oder 'Schlagwerk' bedeutete und vom lateinischen 'battuere' (schlagen) abgeleitet ist.",
+        "targetText": "Cuvântul „Batterie“ provine din francezul 'batterie', care inițial însemna 'lovitură' sau 'instrument de lovit', derivat din latinul 'battuere' (a lovi)."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "baterie",
+    "genus": "feminine",
+    "definition": "Dispozitiv care stochează și furnizează energie electrică, folosit în special la automobile.",
+    "pronunciation": "/baˈte.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Termenul românesc „baterie“ provine din franceza 'batterie', la rândul său derivat din latinul 'battuere', care înseamnă 'a lovi'.",
+        "targetText": "Cuvântul românesc „baterie“ provine din franceza 'batterie', derivat din latinul 'battuere', care înseamnă 'a lovi'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Akku",
+      "targetText": "acumulator"
+    },
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Elektrizität",
+      "targetText": "electricitate"
+    },
+    {
+      "sourceText": "Strom",
+      "targetText": "curent"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Batterie des Autos ist leer.",
+      "targetText": "Bateria mașinii este descărcată."
+    },
+    {
+      "sourceText": "Ich muss die Batterie wechseln.",
+      "targetText": "Trebuie să schimb bateria."
+    },
+    {
+      "sourceText": "Eine gute Batterie hält lange.",
+      "targetText": "O baterie bună ține mult."
+    },
+    {
+      "sourceText": "Die Batterie liefert den Strom für den Motor.",
+      "targetText": "Bateria furnizează curentul pentru motor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Batterie und baterie haben beide die Bedeutung eines Energiespeichers, was die Verbindung klar macht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'baterie' klingt fast identisch mit dem deutschen und französischen Wort, was das Lernen erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das französische Verb 'battre' (schlagen), das die Herkunft von 'baterie' erklärt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'baterie' im Rumänischen sowohl für Auto als auch für andere Arten von Batterien verwendet wird."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

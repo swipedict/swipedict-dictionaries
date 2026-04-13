@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-stuhl",
+  "parent": "ms-ro-scaun-e0945514@cc550c1974a879e0b3f3e98ebdd7e11d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stuhl",
+    "genus": "masculine",
+    "definition": "Ein Möbelstück zum Sitzen, meist mit Rückenlehne und vier Beinen.",
+    "pronunciation": "/ʃtuːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stuhl“ stammt vom althochdeutschen 'stuol', das auf das germanische *stōlaz zurückgeht und 'Sitz' oder 'Thron' bedeutet.",
+        "targetText": "Cuvântul german „Stuhl” provine din germana veche înaltă 'stuol', derivat din germanicul *stōlaz, însemnând 'scaun' sau 'tron'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scaun",
+    "genus": "neuter",
+    "definition": "Un obiect de mobilier pentru șezut, de obicei cu spătar și patru picioare.",
+    "pronunciation": "/ˈska.un/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „scaun“ stammt vom lateinischen 'scamnum' ab, das 'Hocker' oder 'Sitz' bedeutet und aus dem Lateinischen ins Rumänische übernommen wurde.",
+        "targetText": "Cuvântul românesc „scaun” provine din latinescul 'scamnum', care însemna 'taburet' sau 'scaun', preluat în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hocker",
+      "targetText": "taburet"
+    },
+    {
+      "sourceText": "Sitz",
+      "targetText": "șezut"
+    },
+    {
+      "sourceText": "Sofa",
+      "targetText": "canapea"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stehen",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Bitte setz dich auf den Stuhl.",
+      "targetText": "Te rog, așază-te pe scaun."
+    },
+    {
+      "sourceText": "Der Stuhl ist aus Holz.",
+      "targetText": "Scaunul este din lemn."
+    },
+    {
+      "sourceText": "Ich habe einen bequemen Stuhl gekauft.",
+      "targetText": "Am cumpărat un scaun confortabil."
+    },
+    {
+      "sourceText": "Der Stuhl steht am Tisch.",
+      "targetText": "Scaunul este lângă masă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'sc' in 'scaun' wird wie 'sch' ausgesprochen, ähnlich wie im deutschen 'Stuhl'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'scaun' klingt ähnlich wie das lateinische 'scamnum' – denk an einen Hocker oder Stuhl."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'scaun' ein Möbelstück zum Sitzen ist, ähnlich wie 'Stuhl' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an einen Stuhl denkst, stell dir einen bequemen 'scaun' vor, auf dem du sitzen kannst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

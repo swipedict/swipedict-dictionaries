@@ -1,0 +1,163 @@
+{
+  "id": "ms-de-ro-bau",
+  "parent": "ms-ro-constructie-ebdbb465@9155a5856327b89202417406c6f73348",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bau",
+    "genus": "masculine",
+    "definition": "eine Struktur oder ein Gebäude errichten oder herstellen",
+    "pronunciation": "/baʊ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bau“ stammt vom mittelhochdeutschen „bū“, das die Handlung des Bauens bezeichnet, verwandt mit althochdeutsch „būan“ (wohnen).",
+        "targetText": "Cuvântul german „Bau“ provine din mijlocul german „bū“, care desemnează acțiunea de a construi, fiind legat de vechiul german „būan“ (a locui)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Bau umfasst die Errichtung von Gebäuden und anderen Strukturen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "construcție",
+    "genus": "feminine",
+    "definition": "a ridica sau a crea o structură sau o clădire",
+    "pronunciation": "/konstrukˈtsi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „construcție“ stammt vom lateinischen „constructio“, was „Aufbau“ oder „Errichtung“ bedeutet.",
+        "targetText": "Cuvântul românesc „construcție“ provine din latinul „constructio“, care înseamnă „construcție“ sau „ridicare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Begriff wird verwendet, um alle Arten von Bauprojekten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Bau / Aufbau",
+      "explanation": {
+        "sourceText": "Betont auch den Aufbau von Strukturen.",
+        "targetText": "Se referă și la ridicarea structurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Bau des neuen Wohnhauses wird bald beginnen.",
+          "targetText": "Construcția noului bloc de locuințe va începe în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "Bauarbeiten",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Arbeiten im Bauwesen.",
+        "targetText": "Se referă la lucrările de construcție."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bauarbeiten werden bis zum Frühjahr abgeschlossen sein.",
+          "targetText": "Lucrările de construcție vor fi finalizate până la primăvară."
+        }
+      ]
+    },
+    {
+      "gloss": "Bauplan",
+      "explanation": {
+        "sourceText": "Dies bezieht sich auf den Entwurf eines Bauprojektes.",
+        "targetText": "Se referă la planul unui proiect de construcție."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Bauplan für das neue Stadion ist bereits genehmigt.",
+          "targetText": "Planul de construcție pentru noul stadion a fost deja aprobat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Architekt",
+      "targetText": "arhitect"
+    },
+    {
+      "sourceText": "Bauarbeiter",
+      "targetText": "muncitor în construcții"
+    },
+    {
+      "sourceText": "Baustelle",
+      "targetText": "șantier"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Bau des neuen Hauses hat begonnen.",
+      "targetText": "Construcția noului case a început."
+    },
+    {
+      "sourceText": "Wir müssen den Bau bis Ende des Jahres abschließen.",
+      "targetText": "Trebuie să finalizăm construcția până la sfârșitul anului."
+    },
+    {
+      "sourceText": "Der Bau einer Brücke ist teuer.",
+      "targetText": "Construcția unui pod este costisitoare."
+    },
+    {
+      "sourceText": "Bauarbeiten dauern oft lange.",
+      "targetText": "Lucrările de construcție durează adesea mult timp."
+    },
+    {
+      "sourceText": "Ich interessiere mich für den Bau von Häusern.",
+      "targetText": "Sunt interesat de construcția caselor."
+    },
+    {
+      "sourceText": "Der Bau wird von Spezialisten durchgeführt.",
+      "targetText": "Construcția este efectuată de specialiști."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Construcție“ klingt wie „Konstruktion“ – beide Wörter beziehen sich auf das Bauen von etwas."
+    },
+    {
+      "lang": "de",
+      "text": "In Rumänien sieht man oft Bauprojekte im Fernsehen – das Wort „construcție“ wird dir so vertraut."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir eine Baustelle vor, auf der ein großes Gebäude entsteht – so merkst du dir „construcție“."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du Bauprojekte in deiner Stadt siehst, verbinde sie mit dem Wort „construcție“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

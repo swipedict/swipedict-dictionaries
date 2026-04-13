@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-ironisch",
+  "parent": "ms-ro-ironic-5ca3aded@cca39e0ad5867426cd2d78c72011af33",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:greek",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ironisch",
+    "definition": "eine Art des Sprechens, bei der das Gesagte das Gegenteil von dem bedeutet, was gemeint ist",
+    "pronunciation": "/aɪ̯ˈʁɔ.nɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „ironisch“ stammt vom französischen „ironiques“ und geht auf das griechische „eironeía“ zurück, was „Verstellung“ oder „Vorwand“ bedeutet.",
+        "targetText": "Cuvântul german „ironisch“ provine din francezul „ironiques“ și din grecescul „eironeía“, care înseamnă „prefăcătorie“ sau „înșelăciune“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In der Umgangssprache oft verwendet, um Sarkasmus zu betonen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ironic",
+    "genus": "masculine",
+    "definition": "o formă de exprimare în care ceea ce se spune înseamnă opusul a ceea ce se intenționează",
+    "pronunciation": "/iˈro.nik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „ironic“ hat ähnliche italienische und französische Ursprünge wie das deutsche Wort und bedeutet eine getäuschte oder doppeldeutige Bedeutung.",
+        "targetText": "Termenul românesc „ironic“ are origini italiene și franceze similare și desemnează o exprimare cu sens dublu sau înșelător."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Ironie“ ist eine Form des Humors, die oft in Literatur verwendet wird."
+  },
+  "senses": [
+    {
+      "gloss": "Ironie",
+      "explanation": {
+        "sourceText": "Eine Ausdrucksweise, die absichtlich das Gegenteil von dem meint, was gesagt wird.",
+        "targetText": "O formă de exprimare care intenționat spune opusul a ceea ce înseamnă."
+      },
+      "examples": [
+        {
+          "sourceText": "Dein ironischer Kommentar hat die ganze Gruppe zum Lachen gebracht.",
+          "targetText": "Comentariul tău ironic a făcut toată grupa să râdă."
+        }
+      ]
+    },
+    {
+      "gloss": "ironisch",
+      "explanation": {
+        "sourceText": "Wird verwendet, um humorvolle oder sarkastische Bemerkungen zu beschreiben.",
+        "targetText": "Este folosit pentru a descrie remarci umoristice sau sarcastice."
+      },
+      "examples": [
+        {
+          "sourceText": "Das ist ja ironisch, oder?",
+          "targetText": "Este ironic, nu-i așa?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Humor",
+      "targetText": "umor"
+    },
+    {
+      "sourceText": "Sarkasmus",
+      "targetText": "sarkasm"
+    },
+    {
+      "sourceText": "Spaß",
+      "targetText": "glumă"
+    },
+    {
+      "sourceText": "Wortspiel",
+      "targetText": "joc de cuvinte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ernst",
+      "targetText": "serios"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sein ironischer Kommentar hat die Situation aufgelockert.",
+      "targetText": "Comentariul său ironic a relaxat situația."
+    },
+    {
+      "sourceText": "Es ist ironisch, dass er genau dort die Worte verlor, wo er sie am meisten brauchte.",
+      "targetText": "Este ironic că exact acolo și-a pierdut cuvintele când avea mai mult nevoie de ele."
+    },
+    {
+      "sourceText": "Die ironische Bemerkung war nicht der richtige Weg, um das Problem zu lösen.",
+      "targetText": "Remarkă ironică nu a fost calea corectă de a rezolva problema."
+    },
+    {
+      "sourceText": "Ironisch betrachtet, waren die Fehler unvermeidlich.",
+      "targetText": "Privind ironic, erorile erau inevitabile."
+    },
+    {
+      "sourceText": "Seine ironische Haltung machte ihn in der Gruppe beliebt.",
+      "targetText": "Atitudinea sa ironică l-a făcut popular în grup."
+    },
+    {
+      "sourceText": "Ironische Kommentare sind oft mehr wert als ernsthafte Anmerkungen.",
+      "targetText": "Comentariile ironice sunt adesea mai valoroase decât observațiile serioase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „Iron Man“, der oft ironische Sprüche macht – so merkst du dir „ironic“ leichter!"
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-isch“ im Deutschen hilft dir, das rumänische „ironic“ als verwandtes Wort zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, Iron Man macht vor dem Kampf immer einen Scherz – das hilft dir, die Bedeutung von „ironic“ zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „ironisch“ hörst, erinnere dich daran, dass Ironie oft nicht ernst gemeint ist – das hilft beim Verständnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

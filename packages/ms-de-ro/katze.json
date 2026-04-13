@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-katze",
+  "parent": "ms-ro-pisica-c7972f5d@8bb2209fcac3e0666deaa72758303729",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Katze",
+    "genus": "feminine",
+    "definition": "Ein kleines, meist domestiziertes Raubtier mit weichem Fell, das oft als Haustier gehalten wird.",
+    "pronunciation": "/ˈkat͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Katze“ stammt vom althochdeutschen 'chazza' ab, das wiederum auf das lateinische 'cattus' zurückgeht, welches die domestizierte Katze bezeichnete.",
+        "targetText": "Cuvântul german „Katze” provine din vechiul german înalt 'chazza', care la rândul său derivă din latinul 'cattus', desemnând pisica domestică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pisică",
+    "genus": "feminine",
+    "definition": "Un animal mic, de obicei domesticit, cu blană moale, ținut adesea ca animal de companie.",
+    "pronunciation": "/piˈsi.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pisică“ stammt vom lateinischen 'pīca' ab, das ursprünglich 'Elster' bedeutete, wurde aber im Laufe der Zeit auf die Katze übertragen, möglicherweise beeinflusst durch slawische Sprachen.",
+        "targetText": "Cuvântul românesc „pisică” provine din latinul 'pīca', care inițial însemna 'coțofană', dar a fost transferat în timp pentru a desemna pisica, posibil sub influența limbilor slave."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Haustier",
+      "targetText": "animal de companie"
+    },
+    {
+      "sourceText": "Kater",
+      "targetText": "motan"
+    },
+    {
+      "sourceText": "Katzenfutter",
+      "targetText": "hrană pentru pisici"
+    },
+    {
+      "sourceText": "Mieze",
+      "targetText": "pisicuță"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Katze schläft den ganzen Tag.",
+      "targetText": "Pisica doarme toată ziua."
+    },
+    {
+      "sourceText": "Meine Katze ist sehr verspielt.",
+      "targetText": "Pisica mea este foarte jucăușă."
+    },
+    {
+      "sourceText": "Die Katze jagt eine Maus.",
+      "targetText": "Pisica aleargă după un șoarece."
+    },
+    {
+      "sourceText": "Ich habe eine schwarze Katze gesehen.",
+      "targetText": "Am văzut o pisică neagră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'pisică' klingt wie 'Pisa' mit einem 'k' und 'a' am Ende – stell dir eine Katze vor, die in Pisa balanciert."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das englische Wort 'pussycat', das ähnlich klingt wie 'pisică' und dir hilft, das rumänische Wort für Katze zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische 'pīca' (Elster), um die ungewöhnliche Herkunft von 'pisică' zu verstehen – ein Vogel wurde zur Katze!"
+    },
+    {
+      "lang": "de",
+      "text": "Pisică endet auf '-ică', eine typische rumänische Diminutivendung, die oft für kleine oder niedliche Dinge benutzt wird – perfekt für eine kleine Katze."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

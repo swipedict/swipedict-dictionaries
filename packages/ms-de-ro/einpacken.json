@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-einpacken",
+  "parent": "ms-ro-a-impacheta-3ca02e85@bf116abd7fb1fc5ce7f9649525c2a6bf",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einpacken",
+    "definition": "etwas in ein Paket oder eine Tasche legen",
+    "pronunciation": "/aɪ̯nˈpaːkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich zusammen aus „ein“ (Richtung oder Hinzufügen) und „packen“ (einen Gegenstand in etwas legen oder schließen).",
+        "targetText": "Das deutsche Verb „einpacken“ besteht aus „ein-“ (hinein) und „packen“ (etwas in einen Behälter legen). Es beschreibt das Verpacken von Gegenständen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig im Kontext von Reisen oder Umzügen verwendet, um anzugeben, dass Gegenstände in Taschen oder Koffer gelegt werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împacheta",
+    "definition": "a pune ceva într-un pachet sau într-o geantă",
+    "pronunciation": "/a ɨm.paˈke.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt vom französischen \"emballer\", das \"einpacken\" oder \"verpacken\" bedeutet, und von dem lateinischen \"impacare\", was \"einpacken\" bedeutet. Auch verwandt mit dem rumänischen Wort \"pachet\", das \"Paket\" bedeutet.",
+        "targetText": "Verbul românesc „a împacheta“ provine din franceză „emballer“ și latină „impacare“, ambele însemnând „a împacheta“. Este legat și de cuvântul „pachet“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig im Zusammenhang mit dem Verpacken von Lebensmitteln, Geschenken oder Reiseutensilien verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Geschenkem Verpacken",
+      "explanation": {
+        "sourceText": "Oft verwendet, um Geschenke festlich zu verpacken.",
+        "targetText": "Folosit adesea pentru împachetarea cadourilor festiv."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe die Geschenke schön eingepackt.",
+          "targetText": "Am împachetat frumos cadourile."
+        }
+      ]
+    },
+    {
+      "gloss": "Verpacken von Lebensmitteln",
+      "explanation": {
+        "sourceText": "Auch zum Verpacken von Lebensmitteln verwendet.",
+        "targetText": "Folosit și pentru împachetarea alimentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich packe das Mittagessen ein.",
+          "targetText": "Împachetez prânzul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Paket",
+      "targetText": "pachet"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    },
+    {
+      "sourceText": "Tasche",
+      "targetText": "geantă"
+    },
+    {
+      "sourceText": "Verpackung",
+      "targetText": "ambalare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auspacken",
+      "targetText": "a despacheta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich packe die Sachen ein.",
+      "targetText": "Eu împachetez lucrurile."
+    },
+    {
+      "sourceText": "Ich habe die Geschenke eingepackt.",
+      "targetText": "Am împachetat cadourile."
+    },
+    {
+      "sourceText": "Ich werde morgen alles einpacken.",
+      "targetText": "Voi împacheta totul mâine."
+    },
+    {
+      "sourceText": "Ich würde es einpacken, wenn ich Zeit hätte.",
+      "targetText": "Aș împacheta, dacă aș avea timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an das deutsche Wort „Paket“ – das hilft dir, „împacheta“ mit Verpacken zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-a“ zeigt die erste Konjugation an, das hilft dir bei der Verbform."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a împacheta“ als das Gegenteil von „a despacheta“ (auspacken) – so hast du zwei verwandte Begriffe im Kopf!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

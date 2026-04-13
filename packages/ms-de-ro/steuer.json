@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-steuer",
+  "parent": "ms-ro-impozit-178e451b@a44f15352128f3245ce5347ee7fc48f6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Steuer",
+    "genus": "feminine",
+    "definition": "Eine vom Staat erhobene Abgabe, die Bürger und Unternehmen zahlen müssen, um öffentliche Ausgaben zu finanzieren.",
+    "pronunciation": "/ˈʃtɔʏ̯ɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Steuer“ stammt vom althochdeutschen 'stiura' ab, das mit dem mittelhochdeutschen 'stiure' verwandt ist und ursprünglich 'Lenkung' oder 'Steuerung' bedeutete. Im Mittelalter wurde es auf die Abgabe übertragen, die man zur Finanzierung des Staates entrichtet.",
+        "targetText": "Cuvântul german „Steuer” provine din vechiul german înalt 'stiura', legat de termenul mijlocigerman 'stiure', care inițial însemna 'direcție' sau 'control'. În Evul Mediu, sensul s-a extins la taxa plătită pentru finanțarea statului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "impozit",
+    "genus": "neuter",
+    "definition": "O taxă obligatorie impusă de stat cetățenilor și companiilor pentru finanțarea cheltuielilor publice.",
+    "pronunciation": "/im.poˈzit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „impozit“ stammt vom lateinischen 'impositum' ab, dem Partizip Perfekt von 'imponere', was 'auferlegen' oder 'auflegen' bedeutet. Es bezeichnet eine auferlegte Steuer oder Abgabe.",
+        "targetText": "Cuvântul românesc „impozit” derivă din latinescul 'impositum', participiul perfect al verbului 'imponere', care înseamnă 'a impune' sau 'a aplica'. Termenul desemnează o taxă impusă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Steuerbehörde",
+      "targetText": "autoritate fiscală"
+    },
+    {
+      "sourceText": "Steuererklärung",
+      "targetText": "declarație de impozit"
+    },
+    {
+      "sourceText": "Steuerpflicht",
+      "targetText": "obligație fiscală"
+    },
+    {
+      "sourceText": "Steuersatz",
+      "targetText": "cotă de impozitare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Steuerfreiheit",
+      "targetText": "scutire de impozit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Steuer muss jedes Jahr bezahlt werden.",
+      "targetText": "Impozitul trebuie plătit în fiecare an."
+    },
+    {
+      "sourceText": "Viele Menschen zahlen Einkommensteuer.",
+      "targetText": "Mulți oameni plătesc impozitul pe venit."
+    },
+    {
+      "sourceText": "Die Steuererklärung ist bis zum 30. April abzugeben.",
+      "targetText": "Declarația de impozit trebuie depusă până la 30 aprilie."
+    },
+    {
+      "sourceText": "Der Steuersatz variiert je nach Einkommen.",
+      "targetText": "Cota de impozitare variază în funcție de venit."
+    },
+    {
+      "sourceText": "Steuerhinterziehung ist illegal.",
+      "targetText": "Evadarea fiscală este ilegală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „impozit“ klingt ähnlich wie das deutsche Wort „imponieren“ – beide stammen vom lateinischen 'imponere' ab, was 'auferlegen' bedeutet. So kannst du dir merken, dass ein Impozit etwas ist, das dir auferlegt wird."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Steuer“ und „impozit“ haben beide mit Kontrolle und Verpflichtung zu tun: Steuer lenkt und kontrolliert, Impozit wird auferlegt. So kannst du die Verbindung zwischen den beiden Wörtern leichter behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „impozit“ ein Substantiv ist, das mit dem lateinischen Ursprung 'imponere' verbunden ist – ähnlich wie das deutsche Wort „imponieren“, das du vielleicht kennst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst eine 'IMPOZIT'-Nachricht, die dich daran erinnert, dass du eine Steuer zahlen musst – das 'IMPO' klingt wie 'impose' (auferlegen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

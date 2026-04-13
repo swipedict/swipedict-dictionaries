@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-knochenbruch",
+  "parent": "ms-ro-fractura-osoasa-01d8f8e1@a35a3aa537774cf392547e4b937116f3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Knochenbruch",
+    "genus": "masculine",
+    "definition": "Das Zerbrechen eines Knochens im Körper, meist durch Unfall oder Verletzung.",
+    "pronunciation": "/ˈknoːxn̩bʁʊx/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Knochenbruch“ setzt sich aus „Knochen“ (Knochen) und „Bruch“ (Bruch, Zerbrechen) zusammen. „Knochen“ stammt vom althochdeutschen 'knoc' ab, verwandt mit dem englischen 'knock'.",
+        "targetText": "Cuvântul german „Knochenbruch“ este compus din „Knochen“ (os) și „Bruch“ (fractură, rupere). „Knochen“ provine din germana veche înaltă 'knoc', înrudit cu englezescul 'knock'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fractură osoasă",
+    "genus": "feminine",
+    "definition": "Ruperea unui os în corp, de obicei cauzată de un accident sau o leziune.",
+    "pronunciation": "/frakˈtu.rə oˈso.a.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „fractură“ stammt vom lateinischen 'fractura', abgeleitet von 'frangere' (brechen). „Osoasă“ ist das Adjektiv zu „os“ (Knochen), das ebenfalls aus dem Lateinischen 'os, ossis' stammt.",
+        "targetText": "Cuvântul românesc „fractură“ provine din latină, din 'fractura', derivat din 'frangere' (a rupe). „Osoasă“ este adjectivul de la „os”, care provine tot din latină, 'os, ossis'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bruch",
+      "targetText": "fractură"
+    },
+    {
+      "sourceText": "Knochen",
+      "targetText": "os"
+    },
+    {
+      "sourceText": "Unfall",
+      "targetText": "accident"
+    },
+    {
+      "sourceText": "Verletzung",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Arzt diagnostizierte einen Knochenbruch am Arm.",
+      "targetText": "Doctorul a diagnosticat o fractură osoasă la braț."
+    },
+    {
+      "sourceText": "Nach dem Sturz hatte sie einen Knochenbruch im Bein.",
+      "targetText": "După căzătură, ea a avut o fractură osoasă la picior."
+    },
+    {
+      "sourceText": "Ein Knochenbruch muss oft mit einem Gips behandelt werden.",
+      "targetText": "O fractură osoasă trebuie adesea tratată cu un ghips."
+    },
+    {
+      "sourceText": "Der Knochenbruch heilte nach mehreren Wochen.",
+      "targetText": "Fractura osoasă s-a vindecat după câteva săptămâni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „fractură“ klingt ähnlich wie das deutsche Wort „Fraktur“, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die lateinische Wurzel „frangere“ bedeutet „brechen“ und steckt in vielen europäischen Sprachen, z.B. französisch „frapper“ (schlagen)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „osoasă“ als Adjektiv zu „os“ (Knochen). Es klingt wie „Oase“ – stell dir vor, Knochen sind wie kleine Oasen im Körper."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Knochen bricht und du hörst ein knackendes „Frak-tur“ Geräusch – so kannst du dir das rumänische Wort gut merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

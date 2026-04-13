@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-einstellen",
+  "parent": "ms-ro-a-seta-f5dbb9dd@d34902efaa7065813cd5f030d60ee4fe",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:other-loan",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einstellen",
+    "definition": "jemanden in einem Unternehmen anstellen oder einsetzen",
+    "pronunciation": "/ˈaɪ̯nʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einstellen“ besteht aus „ein-“ und „stellen“ und bedeutet, etwas an einen bestimmten Ort oder in eine Position zu bringen.",
+        "targetText": "Verbul german „einstellen“ este format din prefixul „ein-“ și verbul „stellen“ și înseamnă a plasa ceva într-un loc sau poziție anume."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet in technischen, administrativen oder alltäglichen Kontexten, um etwas zu positionieren oder anzupassen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a seta",
+    "definition": "a face o angajare într-o companie sau a folosi pe cineva",
+    "pronunciation": "/a seˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a seta“ ist ein Lehnwort aus dem Englischen „to set“ und wird besonders in technischen und digitalen Kontexten verwendet, um das Einstellen oder Anpassen zu beschreiben.",
+        "targetText": "Verbul românesc „a seta“ este un împrumut din englezescul „to set“ și este folosit mai ales în contexte tehnice și digitale pentru a descrie ajustarea sau configurarea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in der Programmierung oder bei der Bedienung von Geräten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "eine Einstellung vornehmen",
+      "explanation": {
+        "sourceText": "Bedeutet, Einstellungen für Software oder Geräte vorzunehmen.",
+        "targetText": "Înseamnă a face setări pentru software sau dispozitive."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Benutzer stellen die Programme ein.",
+          "targetText": "Utilizatorii setează programele."
+        }
+      ]
+    },
+    {
+      "gloss": "Parameter einstellen",
+      "explanation": {
+        "sourceText": "Verwendung in der technischen und digitalen Sprache.",
+        "targetText": "Folosit în limbaj tehnic și digital."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich stelle die Lautstärke ein.",
+          "targetText": "Eu setez volumul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Mitarbeiter",
+      "targetText": "angajat"
+    },
+    {
+      "sourceText": "Stelle",
+      "targetText": "loc de muncă"
+    },
+    {
+      "sourceText": "Unternehmen",
+      "targetText": "companie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entlassen",
+      "targetText": "a concedia"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle die Lautstärke ein.",
+      "targetText": "Eu setez volumul."
+    },
+    {
+      "sourceText": "Stellst du die Kamera richtig ein?",
+      "targetText": "Setezi camera cum trebuie?"
+    },
+    {
+      "sourceText": "Der Benutzer stellt die Parameter ein.",
+      "targetText": "Utilizatorul setează parametrii."
+    },
+    {
+      "sourceText": "Wir stellen die Zeit ein.",
+      "targetText": "Noi setăm timpul."
+    },
+    {
+      "sourceText": "Stellt ihr die Heizung ein?",
+      "targetText": "Setați încălzirea?"
+    },
+    {
+      "sourceText": "Sie stellen die Programme ein.",
+      "targetText": "Ei setează programele."
+    },
+    {
+      "sourceText": "Ich habe die Einstellungen gestern geändert.",
+      "targetText": "Am setat setările ieri."
+    },
+    {
+      "sourceText": "Sie haben die Höhe eingestellt.",
+      "targetText": "Au setat înălțimea."
+    },
+    {
+      "sourceText": "Er stellte die Kamera immer richtig ein.",
+      "targetText": "El seta mereu camera corect."
+    },
+    {
+      "sourceText": "Ich hatte die Einstellungen schon vorgenommen, als du ankamst.",
+      "targetText": "Setasem deja setările când ai sosit."
+    },
+    {
+      "sourceText": "Ich werde die Software morgen einstellen.",
+      "targetText": "Voi seta software-ul mâine."
+    },
+    {
+      "sourceText": "Er wird die Uhr später einstellen.",
+      "targetText": "El o să seteze ceasul mai târziu."
+    },
+    {
+      "sourceText": "Ich würde die Funktion einstellen, wenn ich könnte.",
+      "targetText": "Aș seta funcția dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Bildqualität einstellst.",
+      "targetText": "Este important să setezi calitatea imaginii."
+    },
+    {
+      "sourceText": "Stelle die Lautstärke ein!",
+      "targetText": "Setează volumul!"
+    },
+    {
+      "sourceText": "Stellen Sie die Farben ein!",
+      "targetText": "Setați culorile!"
+    },
+    {
+      "sourceText": "Das eingestellte Gerät funktioniert einwandfrei.",
+      "targetText": "Dispozitivul setat funcționează perfect."
+    },
+    {
+      "sourceText": "Die Einstellungen sind jetzt gespeichert.",
+      "targetText": "Setările sunt acum salvate."
+    },
+    {
+      "sourceText": "Während er die Software einstellte, liefen die Tests im Hintergrund.",
+      "targetText": "Setând software-ul, testele au rulat în fundal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einstellen“ und „a seta“ sind Kognaten im technischen Kontext – denk an das englische „to set“ und die Bedeutung des Einstellens."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Konjugation: „setez“, „setezi“, „setează“ – ähnlich wie deutsche Endungen, aber rumänisch."
+    },
+    {
+      "lang": "de",
+      "text": "Eine Eselsbrücke: Du „setzt“ Dinge ein und „stellst“ sie ein – beide Wörter sind eng verwandt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „setzt“ etwas genau richtig – so merkst du dir „a seta“ als das Einstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Zeitformen: „Eu setez“ (ich stelle ein), „Am setat“ (ich habe eingestellt), „Voi seta“ (ich werde einstellen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

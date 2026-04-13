@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-ernten",
+  "parent": "ms-ro-a-culege-21047d5c@62920a3ff6d59ad1f7a3e6d0caf63cd1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ernten",
+    "definition": "die reifen Früchte oder Pflanzen einholen",
+    "pronunciation": "/ˈɛʁntən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ernten“ stammt vom mittelhochdeutschen „ernte“ ab, was „Ertrag der Pflanze“ bedeutet.",
+        "targetText": "Verbul german „ernten“ provine din germana mijlocie „ernte“, care înseamnă „recoltă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft in landwirtschaftlichen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a culege",
+    "definition": "a culege fructele sau plantele coapte",
+    "pronunciation": "/a kuˈled͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a culege“ stammt vom lateinischen „colligere“ ab, was „zusammenbringen, sammeln“ bedeutet.",
+        "targetText": "Verbul românesc „a culege“ provine din latină, de la „colligere“, care înseamnă „a aduna, a strânge“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig im landwirtschaftlichen Kontext."
+  },
+  "senses": [
+    {
+      "gloss": "Culegere (von Pflanzen)",
+      "explanation": {
+        "sourceText": "'Culegere' bedeutet auch das Sammeln von Pflanzen.",
+        "targetText": "„Culegere“ înseamnă și adunarea plantelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir machen eine Culegere de plante.",
+          "targetText": "Facem o culegere de plante."
+        }
+      ]
+    },
+    {
+      "gloss": "Ernte (von Früchten)",
+      "explanation": {
+        "sourceText": "So wie im Deutschen: für die Ernte von reifen Früchten.",
+        "targetText": "La fel ca în germană: pentru recoltarea fructelor coapte."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich freue mich auf die Ernte.",
+          "targetText": "Mă bucur de recoltă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bauernhof",
+      "targetText": "ferma"
+    },
+    {
+      "sourceText": "Erntezeit",
+      "targetText": "timpul recoltei"
+    },
+    {
+      "sourceText": "Frucht",
+      "targetText": "fruct"
+    },
+    {
+      "sourceText": "Getreide",
+      "targetText": "cereale"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "pflanzen",
+      "targetText": "a planta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ernte die Äpfel im Garten.",
+      "targetText": "Eu culeg merele din grădină."
+    },
+    {
+      "sourceText": "Erntest du das Gemüse?",
+      "targetText": "Culegi legumele?"
+    },
+    {
+      "sourceText": "Sie erntet die Blumen im Frühling.",
+      "targetText": "Ea culege florile primăvara."
+    },
+    {
+      "sourceText": "Wir ernten in diesem Jahr viel Obst.",
+      "targetText": "Noi culesc în acest an multe fructe."
+    },
+    {
+      "sourceText": "Erntet ihr die Beeren?",
+      "targetText": "Culegeți vișinele?"
+    },
+    {
+      "sourceText": "Sie (Pl.) ernten die Kulturpflanzen.",
+      "targetText": "Ei culeg plantele agricole."
+    },
+    {
+      "sourceText": "Ich habe die Weizenernte erfolgreich abgeschlossen.",
+      "targetText": "Am încheiat cu succes culesul grâului."
+    },
+    {
+      "sourceText": "Sie haben die Erdbeeren gepflückt.",
+      "targetText": "Ei au cules căpșunile."
+    },
+    {
+      "sourceText": "Er erntete jeden Sommer eine große Menge Gemüse.",
+      "targetText": "El culegea o cantitate mare de legume în fiecare vară."
+    },
+    {
+      "sourceText": "Ich hatte die Trauben bereits geerntet, als es zu regnen begann.",
+      "targetText": "Culesesem deja strugurii când a început să plouă."
+    },
+    {
+      "sourceText": "Ich werde das Obst nächste Woche ernten.",
+      "targetText": "Voi culege fructele săptămâna viitoare."
+    },
+    {
+      "sourceText": "Sie werden morgen die Kulturpflanzen ernten.",
+      "targetText": "Ea o să culeagă plantele agricole mâine."
+    },
+    {
+      "sourceText": "Ich würde im Herbst die Nüsse ernten, wenn ich Zeit hätte.",
+      "targetText": "Aș culege nucile toamna, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es wäre gut, wenn du die Ernte heute abschließt.",
+      "targetText": "Ar fi bine să finalizezi culesul astăzi."
+    },
+    {
+      "sourceText": "Ernte die Früchte rechtzeitig!",
+      "targetText": "Culege fructele la timp!"
+    },
+    {
+      "sourceText": "Erntet die Kartoffeln, bitte!",
+      "targetText": "Culegeți cartofii, vă rog!"
+    },
+    {
+      "sourceText": "Die geernteten Äpfel sind frisch.",
+      "targetText": "Merele culese sunt proaspete."
+    },
+    {
+      "sourceText": "Beim Ernten der Trauben, lerne ich viel über die Erntezeit.",
+      "targetText": "Culegând strugurii, învăț multe despre perioada de recoltare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beachte die Präsensendung „-ez“ bei „culeg“-Formen, z.B. „culeg“, „culegi“ – übe sie laut."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „a culege“ klingt anders als „ernten“, aber beide bedeuten das Sammeln von Früchten – stelle dir einen glücklichen Landwirt vor, der erntet."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a culege“ mit Orten, an denen man Früchte und Gemüse sammelt, um die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

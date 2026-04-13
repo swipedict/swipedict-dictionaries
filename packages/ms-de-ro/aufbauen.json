@@ -1,0 +1,217 @@
+{
+  "id": "ms-de-ro-aufbauen",
+  "parent": "ms-ro-a-construi-25463540@2c4324aff38e76dbdb32f16bd065de35",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufbauen",
+    "definition": "etwas errichten oder herstellen",
+    "pronunciation": "/ˈaʊ̯fbau̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufbauen“ setzt sich aus „auf“ (nach oben) und „bauen“ (konstruieren) zusammen. „Bauen“ stammt vom althochdeutschen „buan“, was „bewohnen“ oder „bauen“ bedeutet.",
+        "targetText": "Verbul „aufbauen“ este compus din „auf“ (sus) și „bauen“ (a construi), iar „bauen“ provine din germana veche „buan“, însemnând „a locui“ sau „a construi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig in Bezug auf Konstruktion, Organisation oder die Entwicklung von etwas verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a construi",
+    "definition": "a ridica sau a crea ceva",
+    "pronunciation": "/a kons.tˈru.i/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a construi“ stammt vom lateinischen „construere“, zusammengesetzt aus „con-“ (zusammen) und „struere“ (bauen), und bedeutet „etwas aufbauen oder errichten“.",
+        "targetText": "Românescul „a construi“ derivă din latină, din „construere“, compus din „con-“ (împreună) și „struere“ (a construi), însemnând „a ridica sau a forma ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird in verschiedenen Bereichen wie Architektur, Organisation und persönliche Entwicklung verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Entwickeln",
+      "explanation": {
+        "sourceText": "Kann auch die Entwicklung von Ideen oder Konzepten bedeuten.",
+        "targetText": "Poate însemna și dezvoltarea unor idei sau concepte."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir entwickeln neue Strategien.",
+          "targetText": "Noi dezvoltăm noi strategii."
+        }
+      ]
+    },
+    {
+      "gloss": "Konstruieren",
+      "explanation": {
+        "sourceText": "Das Wort wird auch für den Prozess des Errichtens verwendet.",
+        "targetText": "Cuvântul este folosit și pentru procesul de ridicare a unor structuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich konstruire ein neues Gebäude.",
+          "targetText": "Eu construiesc o clădire nouă."
+        }
+      ]
+    },
+    {
+      "gloss": "Ordnung herstellen",
+      "explanation": {
+        "sourceText": "Das Wort wird auch im organisatorischen Kontext verwendet.",
+        "targetText": "Este folosit și în context organizațional pentru a pune ordine."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen unsere Gedanken ordnungsgemäß aufbauen.",
+          "targetText": "Trebuie să ne organizăm gândurile corespunzător."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bau",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "Dach",
+      "targetText": "acoperiș"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abriss",
+      "targetText": "demolieren"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich baue mein eigenes Haus auf.",
+      "targetText": "Eu construiesc propria mea casă."
+    },
+    {
+      "sourceText": "Baust du gerade einen neuen Tisch auf?",
+      "targetText": "Construiești acum o masă nouă?"
+    },
+    {
+      "sourceText": "Er baut eine neue Strategie auf.",
+      "targetText": "El construiește o nouă strategie."
+    },
+    {
+      "sourceText": "Wir bauen ein Team auf.",
+      "targetText": "Noi construim o echipă."
+    },
+    {
+      "sourceText": "Baut ihr die Verbindung auf?",
+      "targetText": "Construiți conexiunea?"
+    },
+    {
+      "sourceText": "Sie (Pl.) bauen die Brücke auf.",
+      "targetText": "Ei construiesc podul."
+    },
+    {
+      "sourceText": "Ich habe die Fundamente aufgebaut.",
+      "targetText": "Am construit fundațiile."
+    },
+    {
+      "sourceText": "Sie haben das Dach aufgebaut.",
+      "targetText": "Au construit acoperișul."
+    },
+    {
+      "sourceText": "Er baute früher viel auf.",
+      "targetText": "El construia mult înainte."
+    },
+    {
+      "sourceText": "Ich hatte das Gebäude bereits aufgebaut.",
+      "targetText": "Construisem deja clădirea."
+    },
+    {
+      "sourceText": "Ich werde bald das Projekt aufbauen.",
+      "targetText": "Voi construi în curând proiectul."
+    },
+    {
+      "sourceText": "Sie wird die neue Infrastruktur aufbauen.",
+      "targetText": "Ea o să construiască noua infrastructură."
+    },
+    {
+      "sourceText": "Ich würde gerne ein Gebäude aufbauen.",
+      "targetText": "Aș vrea să construiesc o clădire."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du das Fundament aufbaust.",
+      "targetText": "Este necesar să construiești fundația."
+    },
+    {
+      "sourceText": "Baue die Mauer auf!",
+      "targetText": "Construiește zidul!"
+    },
+    {
+      "sourceText": "Baut die Straße auf!",
+      "targetText": "Construiți strada!"
+    },
+    {
+      "sourceText": "Der aufgebaute Plan ist gut.",
+      "targetText": "Planul construit este bun."
+    },
+    {
+      "sourceText": "Das Gebäude ist jetzt aufgebaut.",
+      "targetText": "Clădirea este acum construită."
+    },
+    {
+      "sourceText": "Während wir aufbauen, lernen wir viel.",
+      "targetText": "Construind, învățăm mult."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aufbauen“ und „a construi“ sind Kognaten und teilen die Basis, was das Merken erleichtert!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran: „construire“ ist wie ein Künstler, der aus nassen Ton neue Formen schafft!"
+    },
+    {
+      "lang": "de",
+      "text": "Etabliere mentale Verbindungen zwischen dem Aufbauen von physischen Strukturen und dem Erstellen platonischer Ideen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe, einfache Sätze über Bauprojekte zu bilden und besonders zu betonen, was du „construiești“ – damit wird es zum Spiel!"
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere das Bild eines Gebäudes und stelle dir dabei vor, wie du „construi“ sagst – das macht es leichter!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

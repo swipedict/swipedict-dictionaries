@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-samstag",
+  "parent": "ms-ro-sambata-3bf17024@7424c0e0ce48cc022ffbd9bb600291ab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Samstag",
+    "genus": "masculine",
+    "definition": "Der sechste Tag der Woche, nach dem Freitag und vor dem Sonntag.",
+    "pronunciation": "/ˈzamstaːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Samstag“ stammt vom althochdeutschen 'sambaztag' ab, das auf das lateinische 'sabbatum' zurückgeht, welches wiederum vom hebräischen 'Schabbat' stammt.",
+        "targetText": "Cuvântul german „Samstag” provine din germana veche înaltă 'sambaztag', care la rândul său derivă din latinul 'sabbatum', provenit din ebraicul 'Shabbat'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sâmbătă",
+    "genus": "feminine",
+    "definition": "A șasea zi a săptămânii, după vineri și înainte de duminică.",
+    "pronunciation": "/ˈsɨmbətə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sâmbătă“ stammt vom lateinischen 'sabbatum' ab, das wiederum vom hebräischen 'Schabbat' stammt, dem Ruhetag.",
+        "targetText": "Cuvântul românesc „sâmbătă” provine din latină, din 'sabbatum', care la rândul său provine din ebraicul 'Shabbat', ziua de odihnă."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Freitag",
+      "targetText": "vineri"
+    },
+    {
+      "sourceText": "Sonntag",
+      "targetText": "duminică"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Am Samstag gehen wir ins Kino.",
+      "targetText": "Sâmbătă mergem la cinema."
+    },
+    {
+      "sourceText": "Der Samstag ist mein Lieblingstag.",
+      "targetText": "Sâmbăta este ziua mea preferată."
+    },
+    {
+      "sourceText": "Samstag ist ein freier Tag.",
+      "targetText": "Sâmbăta este o zi liberă."
+    },
+    {
+      "sourceText": "Am Samstag habe ich viel zu tun.",
+      "targetText": "Sâmbătă am multe de făcut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'sâmbătă' hat einen weichen Klang, der an das ruhige Wochenende erinnert."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'sâmbătă' klingt ähnlich wie 'Samstag', beide stammen vom hebräischen 'Schabbat'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'sâmbătă' der Ruhetag ist, genau wie der Ursprung des Wortes aus 'Schabbat' zeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du ruhst dich am 'sâmbătă' aus, so wie es die Tradition des Schabbats ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

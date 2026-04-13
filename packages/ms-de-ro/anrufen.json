@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-anrufen",
+  "parent": "ms-ro-a-suna-59d0e076@9425a8b6b1494cfe91d163a77ddb293d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anrufen",
+    "definition": "jemanden telefonisch kontaktieren",
+    "pronunciation": "/ˈanˌruːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort ‚anrufen‘ besteht aus ‚an‘ und ‚rufen‘. ‚Rufen‘ stammt vom althochdeutschen ‚ruofen‘ und bedeutet ‚rufen‘.",
+        "targetText": "Cuvântul „anrufen“ este format din „an“ și „rufen“. „Rufen“ provine din germana veche „ruofen“ și înseamnă „a chema“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig genutzt in Kommunikationskontexten, insbesondere bei Telefonanrufen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a suna",
+    "definition": "a contacta pe cineva prin telefon",
+    "pronunciation": "/a sunˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb stammt vom lateinischen ‚sonare‘ ab, was ‚klingen‘ oder ‚tönen‘ bedeutet, und beschreibt das Signalisieren eines Anrufs.",
+        "targetText": "Verbul românesc provine din latină, din „sonare“, care înseamnă „a suna“ sau „a face un sunet“, și descrie semnalizarea unui apel."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Bedeutet, jemanden anzurufen oder zu kontaktieren."
+  },
+  "senses": [
+    {
+      "gloss": "Telefonanruf",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Handlung eines eingehenden oder ausgehenden Anrufs.",
+        "targetText": "Se referă la acțiunea unui apel telefonic primit sau efectuat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe ein wichtiges Gespräch am Telefon.",
+          "targetText": "Am avut o discuție importantă la telefon."
+        }
+      ]
+    },
+    {
+      "gloss": "telefonisch kontaktieren",
+      "explanation": {
+        "sourceText": "Allgemeine Bedeutung des Kontakts über das Telefon.",
+        "targetText": "Sens general de a contacta pe cineva prin telefon."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde meine Eltern anrufen.",
+          "targetText": "Voi suna părinții mei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Gespräch",
+      "targetText": "conversație"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "Telefon",
+      "targetText": "telefon"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auflegen",
+      "targetText": "a termina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rufe dich an.",
+      "targetText": "Te sun."
+    },
+    {
+      "sourceText": "Ich habe dich angerufen.",
+      "targetText": "Te-am sunat."
+    },
+    {
+      "sourceText": "Ich werde dich anrufen.",
+      "targetText": "Te voi suna."
+    },
+    {
+      "sourceText": "Ruf mich später an!",
+      "targetText": "Sună-mă mai târziu!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Anrufen“ und „a suna“ sind leicht zu merken, da beide mit dem Klang eines Anrufs verbunden sind."
+    },
+    {
+      "lang": "de",
+      "text": "Das ‚a‘ am Anfang von ‚a suna‘ erinnert an das deutsche ‚an‘ in ‚anrufen‘ – beide zeigen eine gerichtete Handlung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass ‚a suna‘ oft ein direktes Objekt braucht, z.B. ‚Te sun‘ (Ich rufe dich an)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

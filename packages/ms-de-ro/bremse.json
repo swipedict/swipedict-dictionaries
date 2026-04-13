@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bremse",
+  "parent": "ms-ro-frana-d9770eba@993e7151bccb140876251fced0e85fe2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bremse",
+    "genus": "feminine",
+    "definition": "Mechanisches Bauteil, das ein Fahrzeug verlangsamt oder zum Stillstand bringt.",
+    "pronunciation": "/ˈbʁɛmzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bremse“ stammt vom althochdeutschen 'bremisa' ab, das mit dem Verb 'bremsen' verwandt ist und auf eine germanische Wurzel zurückgeht.",
+        "targetText": "Cuvântul „Bremse” provine din germana veche înaltă 'bremisa', înrudit cu verbul 'bremsen', având o rădăcină germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "frână",
+    "genus": "feminine",
+    "definition": "Dispozitiv mecanic care încetinește sau oprește un vehicul.",
+    "pronunciation": "/ˈfrɨ.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „frână“ stammt vom slawischen 'frana' ab, was 'Bremsen' bedeutet.",
+        "targetText": "Cuvântul românesc „frână” provine din slavonul 'frana', care înseamnă 'frână'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anhalten",
+      "targetText": "a opri"
+    },
+    {
+      "sourceText": "bremsen",
+      "targetText": "a frâna"
+    },
+    {
+      "sourceText": "Fahrzeug",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "Geschwindigkeit",
+      "targetText": "viteză"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Bremse funktioniert einwandfrei.",
+      "targetText": "Frâna funcționează perfect."
+    },
+    {
+      "sourceText": "Bitte benutze die Bremse vorsichtig.",
+      "targetText": "Te rog să folosești frâna cu grijă."
+    },
+    {
+      "sourceText": "Die Bremse des Autos ist kaputt.",
+      "targetText": "Frâna mașinii este stricată."
+    },
+    {
+      "sourceText": "Ohne Bremse ist das Fahren gefährlich.",
+      "targetText": "Fără frână, condusul este periculos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'frână' klingt wie 'frană' im Deutschen, aber mit einem weichen 'n' – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf -ă, typisch für viele feminine rumänische Substantive."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'frână' vom slawischen Wort für Bremsen stammt, was die Technik des Anhaltens beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'frierst' (kalt) und musst deshalb anhalten – 'frână' hilft dir, das Fahrzeug zu stoppen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

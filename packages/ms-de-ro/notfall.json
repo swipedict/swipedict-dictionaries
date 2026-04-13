@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-notfall",
+  "parent": "ms-ro-urgenta-304a5c5e@9a2a8ec6b02eb57b557718f0ddc8d15f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Notfall",
+    "genus": "masculine",
+    "definition": "Eine Situation, in der sofortiges Handeln erforderlich ist, um Schaden oder Gefahr abzuwenden.",
+    "pronunciation": "/ˈnoːtˌfal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Notfall“ setzt sich aus „Not“ (eine dringende, schwierige Lage) und „Fall“ (Ereignis) zusammen, wobei „Not“ auf das althochdeutsche 'not' zurückgeht, das mit dem urgermanischen *nutą verwandt ist.",
+        "targetText": "Cuvântul german „Notfall“ este compus din „Not“ (situație urgentă, dificilă) și „Fall“ (eveniment), unde „Not“ provine din germana veche înaltă 'not', înrudit cu rădăcina urgermanică *nutą."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "urgență",
+    "genus": "feminine",
+    "definition": "O situație care necesită acțiune imediată pentru a preveni un pericol sau un prejudiciu.",
+    "pronunciation": "/urˈdʒen.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „urgență“ stammt vom lateinischen 'urgentia' ab, abgeleitet vom Verb 'urgere', was 'drängen' oder 'zwingen' bedeutet.",
+        "targetText": "Cuvântul românesc „urgență” provine din latină, de la 'urgentia', derivat din verbul 'urgere', care înseamnă 'a presa' sau 'a obliga'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Alarm",
+      "targetText": "alarmă"
+    },
+    {
+      "sourceText": "Katastrophe",
+      "targetText": "catastrofă"
+    },
+    {
+      "sourceText": "Not",
+      "targetText": "nevoie"
+    },
+    {
+      "sourceText": "Rettung",
+      "targetText": "salvare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Routine",
+      "targetText": "rutină"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Im Notfall rufen Sie bitte die Feuerwehr an.",
+      "targetText": "În caz de urgență, vă rugăm să sunați la pompieri."
+    },
+    {
+      "sourceText": "Das Krankenhaus hat eine Notfallaufnahme.",
+      "targetText": "Spitalul are o secție de urgență."
+    },
+    {
+      "sourceText": "Bei einem Notfall zählt jede Sekunde.",
+      "targetText": "Într-o urgență, fiecare secundă contează."
+    },
+    {
+      "sourceText": "Notfälle erfordern schnelles Handeln.",
+      "targetText": "Urgențele necesită acțiuni rapide."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Notfall“ besteht aus „Not“ und „Fall“ – denk an einen „Fall“ (Ereignis) in der „Not“ (dringenden Lage), ähnlich wie „urgență“ für eine dringende Lage."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „urgență“ klingt ähnlich wie das englische Wort „urgent“, was dir hilft, die Bedeutung schnell zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand drängt dich (lat. 'urgere'), weil es eine dringende Situation gibt – so merkst du dir „urgență“."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „urgență“ hörst, kannst du an das Wort „Urgent“ denken, das in vielen Sprachen ähnlich klingt und Dringlichkeit ausdrückt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

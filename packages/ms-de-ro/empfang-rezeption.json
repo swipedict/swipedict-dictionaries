@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-empfang-rezeption",
+  "parent": "ms-ro-receptie-7fc0063b@b2bfdb0e4eef888c81d31cabe0dbad63",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Empfang",
+    "genus": "masculine",
+    "definition": "Der Ort oder die Handlung, an dem/der Gäste, Besucher oder Post angenommen und begrüßt werden; speziell der Bereich in einem Gebäude, wo man ankommt und empfangen wird.",
+    "pronunciation": "/ˈɛmpfaŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Empfang“ stammt vom mittelhochdeutschen 'empfangen', das auf das althochdeutsche 'empfangan' zurückgeht, zusammengesetzt aus 'ent-' (entgegen) und 'fangen' (fangen, nehmen).",
+        "targetText": "Cuvântul german „Empfang“ provine din mijlocul germanului vechi 'empfangen', derivat din germana veche înaltă 'empfangan', compus din 'ent-' (spre) și 'fangen' (a prinde, a lua)."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "recepție",
+    "genus": "feminine",
+    "definition": "Locul sau activitatea de a primi și întâmpina oaspeți, vizitatori sau corespondență; zona dintr-o clădire unde se face primirea.",
+    "pronunciation": "/re.tʃepˈt͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „recepție“ stammt vom lateinischen 'receptio', was 'Empfang' oder 'Aufnahme' bedeutet, entlehnt über das Französische 'réception'.",
+        "targetText": "Cuvântul românesc „recepție” provine din latină, de la 'receptio', care înseamnă 'primire' sau 'acceptare', preluat prin franceza 'réception'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Empfangen",
+      "targetText": "a primi"
+    },
+    {
+      "sourceText": "Posteingang",
+      "targetText": "primire poștală"
+    },
+    {
+      "sourceText": "Rezeptionist",
+      "targetText": "receptionist"
+    },
+    {
+      "sourceText": "Willkommen",
+      "targetText": "bun venit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abgang",
+      "targetText": "plecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Empfang im Hotel ist rund um die Uhr besetzt.",
+      "targetText": "Recepția hotelului este deschisă non-stop."
+    },
+    {
+      "sourceText": "Bitte melden Sie sich am Empfang, wenn Sie ankommen.",
+      "targetText": "Vă rugăm să vă prezentați la recepție când ajungeți."
+    },
+    {
+      "sourceText": "Der Empfangsbereich ist modern und freundlich gestaltet.",
+      "targetText": "Zona de recepție este modernă și primitoare."
+    },
+    {
+      "sourceText": "Am Empfang erhält man die Schlüssel für das Zimmer.",
+      "targetText": "La recepție primești cheile pentru cameră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „recepție“ klingt ähnlich wie das französische „réception“, was dir helfen kann, die Bedeutung mit Empfang zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Empfang“ enthält ‚fangen‘, was ‚fangen‘ oder ‚nehmen‘ bedeutet – in Rumänisch nimmst du die Gäste an der ‚recepție‘ auf."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass ‚recepție‘ nicht nur für Personen gilt, sondern auch für das Empfangen von Nachrichten oder Signalen, ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst in ein Hotel und wirst an der „Recepție“ begrüßt – das „Re-“ am Anfang erinnert an ‚Reaktion‘, also das Reagieren auf Gäste."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

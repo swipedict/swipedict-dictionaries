@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-einschaetzen",
+  "parent": "ms-ro-a-evalua-32dfb309@6a43763b062b8f8482ac7cb53c658d8d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einschätzen",
+    "definition": "eine Beurteilung oder Einschätzung über einen Zustand oder eine Situation vornehmen",
+    "pronunciation": "/ˈaɪ̯nˌʃɛt͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Zerlegt in „ein“ und „schätzen“. „Schätzen“ bedeutet, den Wert oder die Bedeutung von etwas zu bestimmen.",
+        "targetText": "Das deutsche Verb „einschätzen“ besteht aus „ein-“ (hinein) und „schätzen“ (bewerten). Es bedeutet, eine Bewertung oder Einschätzung vorzunehmen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in der Bewertung von Risiken, Eigenschaften und Wertigkeiten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a evalua",
+    "definition": "a face o evaluare sau o estimare asupra unei stări sau situații",
+    "pronunciation": "/a e.vaˈlua/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom lateinischen „valere“, was \"wert sein\" bedeutet. Es geht um die Einschätzung des Wertes oder der Qualität von etwas.",
+        "targetText": "Verbul românesc „a evalua“ provine din latină, de la „valere“ (a avea valoare). Înseamnă a estima sau a aprecia valoarea unei situații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein verb, das oft in akademischen, wirtschaftlichen oder sozialen Bewertungen verwendet wird, zum Beispiel bei Bewertungen oder Prüfungen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bewertung",
+      "targetText": "evaluare"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Situationsanalyse",
+      "targetText": "analiză a situației"
+    },
+    {
+      "sourceText": "Überblick",
+      "targetText": "perspectivă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unterschätzen",
+      "targetText": "subestima"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schätze die Situation ein.",
+      "targetText": "Eu evaluez situația."
+    },
+    {
+      "sourceText": "Ich habe die Situation eingeschätzt.",
+      "targetText": "Am evaluat situația."
+    },
+    {
+      "sourceText": "Ich werde die Lage einschätzen.",
+      "targetText": "Voi evalua situația."
+    },
+    {
+      "sourceText": "Ich würde die Risiken einschätzen, wenn ich genug Informationen hätte.",
+      "targetText": "Aș evalua riscurile, dacă aș avea suficiente informații."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „schätzen“ hilft dir, die Bedeutung von „a evalua“ als Einschätzung zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „evaluare“ als Substantiv für Bewertung – so verstehst du den Kontext besser."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „evalua“ mit dem deutschen Wort „Wert“ – du bewertest oder schätzt etwas ein."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

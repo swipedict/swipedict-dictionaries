@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-braten",
+  "parent": "ms-ro-a-praji-26dff149@bc87041088b806dc9c638b9885b5864f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "YourNameOrHandle",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "braten",
+    "definition": "Nahrungsmittel, insbesondere Fleisch, in heißem Fett in einer Pfanne oder im Backofen garen; rösten",
+    "pronunciation": "/ˈbʁaːtn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Althochdeutsch 'brātan' (braten, rösten). Verwandt mit englisch 'to braise'.",
+        "targetText": "Provine din germana veche (althochdeutsch) „brātan“, înrudit cu englezescul „to braise“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann sich auf das Garen in der Pfanne oder im Ofen beziehen. Das Substantiv 'der Braten' bezeichnet ein gebratenes Stück Fleisch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a prăji",
+    "definition": "a găti alimente, în special carne, în grăsime încinsă într-o tigaie; a frige (în tigaie)",
+    "pronunciation": "/a prəˈʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus dem Altslawischen „pragiti“ (a prăji, a frige), das in den rumänischen Sprachgebrauch übernommen wurde.",
+        "targetText": "Provine din slavă veche „pragiti“ care înseamnă „a prăji“ sau „a frige“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Bezieht sich meist auf das Garen in der Pfanne. Für das Backen im Ofen verwendet man 'a coace' oder 'a frige la cuptor'."
+  },
+  "senses": [
+    {
+      "gloss": "im Ofen braten / rösten (roasting)",
+      "explanation": {
+        "sourceText": "Das Garen von größeren Fleischstücken oder Geflügel im Backofen.",
+        "targetText": "Gătitul bucăților mari de carne sau a păsărilor în cuptor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir braten heute einen Schweinebraten im Ofen.",
+          "targetText": "Astăzi coacem o friptură de porc la cuptor."
+        },
+        {
+          "sourceText": "Das Hähnchen brät eine Stunde im Rohr.",
+          "targetText": "Puiul se coace / se frige o oră la cuptor."
+        }
+      ]
+    },
+    {
+      "gloss": "in der Pfanne braten (frying)",
+      "explanation": {
+        "sourceText": "Das Garen von Lebensmitteln in heißem Fett in einer Pfanne.",
+        "targetText": "Gătitul alimentelor în grăsime încinsă într-o tigaie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich brate ein Ei in der Pfanne.",
+          "targetText": "Prăjesc un ou în tigaie."
+        },
+        {
+          "sourceText": "Das Fleisch wird kurz angebraten.",
+          "targetText": "Carnea se prăjește puțin (se rumenește)."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Braten (Substantiv)",
+      "targetText": "friptură"
+    },
+    {
+      "sourceText": "Fett",
+      "targetText": "grăsime"
+    },
+    {
+      "sourceText": "Fleisch",
+      "targetText": "carne"
+    },
+    {
+      "sourceText": "Ofen",
+      "targetText": "cuptor"
+    },
+    {
+      "sourceText": "Öl",
+      "targetText": "ulei"
+    },
+    {
+      "sourceText": "Pfanne",
+      "targetText": "tigaie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dünsten",
+      "targetText": "a înăbuși"
+    },
+    {
+      "sourceText": "kochen (in Wasser)",
+      "targetText": "a fierbe"
+    },
+    {
+      "sourceText": "roh lassen",
+      "targetText": "a lăsa crud"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich brate mir Spiegeleier zum Frühstück.",
+      "targetText": "Îmi prăjesc ouă ochiuri la micul dejun."
+    },
+    {
+      "sourceText": "Bratkartoffeln sind eine beliebte Beilage.",
+      "targetText": "Cartofii prăjiți (rondele) sunt o garnitură populară."
+    },
+    {
+      "sourceText": "Sie brät das Hähnchen im Backofen knusprig.",
+      "targetText": "Ea coace puiul crocant la cuptor."
+    },
+    {
+      "sourceText": "Das Fleisch muss von allen Seiten gut gebraten werden.",
+      "targetText": "Carnea trebuie bine prăjită / friptă pe toate părțile."
+    },
+    {
+      "sourceText": "In der Pfanne brutzelt das Schnitzel.",
+      "targetText": "În tigaie sfârâie șnițelul."
+    },
+    {
+      "sourceText": "Für den Sonntagsbraten braucht man Zeit.",
+      "targetText": "Pentru friptura de duminică este nevoie de timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚pr‘ am Anfang von ‚prăji‘ erinnert an ‚Pfanne‘ – so kannst du die Bedeutung leichter behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'Bratpfanne' – die Pfanne, in der du 'prăjești' (brätst)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'a prăji' ist das Braten in der Pfanne, während 'a coace' das Backen im Ofen bezeichnet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-ausdruecken",
+  "parent": "ms-ro-a-exprima-ff9c33a2@39ce46fbf864f7327e4012f3f5285d27",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausdrücken",
+    "definition": "etwas mit Worten formulieren oder zeigen",
+    "pronunciation": "/ˈaʊsˌdʁʏkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich aus „drücken“ und dem Präfix „aus-“ zusammen, was bedeutet, etwas sichtbar oder hörbar zu machen.",
+        "targetText": "Cuvântul este format din verbul „drücken“ și prefixul „aus-“, indicând exprimarea sau manifestarea unei idei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft verwendet, um Gedanken, Gefühle oder Meinungen zu formulieren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a exprima",
+    "definition": "a formula sau a arăta ceva cu cuvinte",
+    "pronunciation": "/a eksˈpri.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a exprima“ stammt vom lateinischen „exprimere“, was „herausdrücken“ bedeutet. Es bezieht sich auf die Fähigkeit, Gedanken oder Gefühle auszudrücken.",
+        "targetText": "Verbul românesc „a exprima“ derivă din latinescul „exprimere“, care înseamnă „a scoate în evidență“ sau „a exprima“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in der Kommunikation verwendet, um Meinungen oder Gefühle zu artikulieren."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Botschaft",
+      "targetText": "mesaj"
+    },
+    {
+      "sourceText": "Gefühl",
+      "targetText": "sentiment"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Wort",
+      "targetText": "cuvânt"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstecken",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich drücke meine Gefühle aus.",
+      "targetText": "Eu îmi exprim sentimentele."
+    },
+    {
+      "sourceText": "Er hat seine Gedanken klar ausgedrückt.",
+      "targetText": "El și-a exprimat clar gândurile."
+    },
+    {
+      "sourceText": "Wir werden unsere Meinungen ausdrucken.",
+      "targetText": "Noi ne vom exprima opiniile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A exprima“ klingt wie „exprimierend“ – stell dir vor, du sagst etwas Wichtiges laut und deutlich."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit Gefühlen: „Eu exprim fericirea“ (Ich drücke das Glück aus) – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

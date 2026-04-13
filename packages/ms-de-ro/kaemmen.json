@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-kaemmen",
+  "parent": "ms-ro-a-pieptana-6b1bfd6e@43acc93862e97a0f7d7912ba3a081fd2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kämmen",
+    "definition": "Haar durch eine Kämme oder Bürste in Ordnung bringen",
+    "pronunciation": "/ˈkɛmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich von dem mittelhochdeutschen „kamen“ ab, was „kämmen“ bedeutet, vermutlich von „kamma“, dem alten Wort für „Kamm“.",
+        "targetText": "Das Verb „kämmen“ stammt vom mittelhochdeutschen „kamen“ ab, das auf das althochdeutsche „kamma“ (Kamm) zurückgeht."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft im Zusammenhang mit Haarpflege und Ordnung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pieptăna",
+    "definition": "a aranja părul cu un pieptene sau cu o perie",
+    "pronunciation": "/a pjeˈptə.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a pieptăna“ kommt vom moldauischen „piaptăn“, was „Kamm“ bedeutet, das selbst aus dem lateinischen „pecten“ (Kamm) stammt.",
+        "targetText": "Verbul „a pieptăna“ provine din cuvântul moldovenesc „piaptăn“ (pieptene), care la rândul său vine din latină, din „pecten“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation, verwendet für Haare und andere Gegenstände, die entwirrt werden."
+  },
+  "senses": [
+    {
+      "gloss": "Gegenstände entwirren",
+      "explanation": {
+        "sourceText": "Nicht nur für Haare, sondern auch für andere Dinge wie Fäden.",
+        "targetText": "Nu doar pentru păr, ci și pentru alte obiecte, cum ar fi firele."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie kämmen die Puppen.",
+          "targetText": "Ei pieptănă păpușile."
+        }
+      ]
+    },
+    {
+      "gloss": "Haare ordnen",
+      "explanation": {
+        "sourceText": "Die Handlung, die für das Styling von Haaren durchgeführt wird.",
+        "targetText": "Acțiunea de a aranja părul pentru coafare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kämme mir die Haare.",
+          "targetText": "Mă pieptăn."
+        },
+        {
+          "sourceText": "Er kämmt das Mädchen.",
+          "targetText": "El îi pieptănă fata."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bürste",
+      "targetText": "perie"
+    },
+    {
+      "sourceText": "Frisur",
+      "targetText": "coafură"
+    },
+    {
+      "sourceText": "Haar",
+      "targetText": "păr"
+    },
+    {
+      "sourceText": "Kamm",
+      "targetText": "pieptene"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verwuscheln",
+      "targetText": "a zbârci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kämme mir die Haare.",
+      "targetText": "Mă pieptăn."
+    },
+    {
+      "sourceText": "Kämmt du deine Haare?",
+      "targetText": "Te piepteni?"
+    },
+    {
+      "sourceText": "Er kämmt das Mädchen.",
+      "targetText": "El îi pieptănă fata."
+    },
+    {
+      "sourceText": "Wir kämmen uns vor dem Schlafen.",
+      "targetText": "Ne pieptănăm înainte de culcare."
+    },
+    {
+      "sourceText": "Kämmt ihr schnell!",
+      "targetText": "Pieptănați repede!"
+    },
+    {
+      "sourceText": "Sie kämmen die Puppen.",
+      "targetText": "Ei pieptănă păpușile."
+    },
+    {
+      "sourceText": "Ich habe mir die Haare gekämmt.",
+      "targetText": "M-am pieptănat."
+    },
+    {
+      "sourceText": "Sie haben die Puppen gekämmt.",
+      "targetText": "Au pieptănat păpușile."
+    },
+    {
+      "sourceText": "Er kämmte sein Haar jeden Morgen.",
+      "targetText": "El își pieptăna părul în fiecare dimineață."
+    },
+    {
+      "sourceText": "Ich werde mich heute Abend kämmen.",
+      "targetText": "Mă voi pieptăna în seara asta."
+    },
+    {
+      "sourceText": "Kämme dein Haar!",
+      "targetText": "Pieptănă-ți părul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Pieptăna“ kommt von „piaptăn“ (Kamm) – denk an den Kamm, wenn du das Wort hörst."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „pieptăna“ mit dem lateinischen „pecten“ (Kamm), um die Herkunft zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

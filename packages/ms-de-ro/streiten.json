@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-streiten",
+  "parent": "ms-ro-a-se-certa-575a2e32@6904cbb4e031b29cff7c65acd200fd76",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "streiten",
+    "definition": "eine Meinungsverschiedenheit haben oder sich schlagen",
+    "pronunciation": "/ˈʃtʁaɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „streiten“ kommt vom mittelhochdeutschen „streiten“, was „kämpfen, sich streiten“ bedeutet, und stammt vom althochdeutschen „strītan“ ab.",
+        "targetText": "Verbul „streiten“ provine din germana mijlocie „streiten“, care înseamnă „a lupta, a se certa“, derivat din germana veche „strītan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in zwischenmenschlichen Konflikten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se certa",
+    "definition": "a avea o dispută sau a se combate",
+    "pronunciation": "/a se ˈt͡ʃerta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische reflexive Verb „a se certa“ stammt vom lateinischen „certare“ ab, was „kämpfen, streiten“ bedeutet, und zeigt die romanische Herkunft.",
+        "targetText": "Verbul reflexiv românesc „a se certa“ derivă din latinescul „certare“, care înseamnă „a lupta, a se certa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein reflexives Verb, das oft in emotionalen Kontexten verwendet wird, insbesondere bei Konflikten."
+  },
+  "senses": [
+    {
+      "gloss": "Streit",
+      "explanation": {
+        "sourceText": "Im Deutschen wird 'Streit' auch direkt als Konflikt oder Auseinandersetzung angesehen.",
+        "targetText": "'Streit' se referă la un conflict sau o dispută între persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "Es gab einen Streit zwischen den Nachbarn.",
+          "targetText": "A fost un conflict între vecini."
+        }
+      ]
+    },
+    {
+      "gloss": "Zank",
+      "explanation": {
+        "sourceText": "Im Deutschen kann 'Zank' eine informelle Art des Streits beschreiben.",
+        "targetText": "'Zank' descrie o ceartă mai puțin formală sau o dispută minoră."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie haben einen Zank über das Wetter.",
+          "targetText": "Ei au avut o ceartă despre vreme."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Diskussion",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "Konflikt",
+      "targetText": "conflict"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "părere"
+    },
+    {
+      "sourceText": "Problem",
+      "targetText": "problemă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "versöhnen",
+      "targetText": "a împăca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich streite mit ihm.",
+      "targetText": "Mă cert cu el."
+    },
+    {
+      "sourceText": "Streitest du auch heute wieder?",
+      "targetText": "Te cerți și tu din nou astăzi?"
+    },
+    {
+      "sourceText": "Er streitet immer mit seinen Eltern.",
+      "targetText": "El se ceartă mereu cu părinții săi."
+    },
+    {
+      "sourceText": "Wir streiten aus Prinzip.",
+      "targetText": "Ne certăm din principiu."
+    },
+    {
+      "sourceText": "Streitet ihr oft?",
+      "targetText": "Vă certați des?"
+    },
+    {
+      "sourceText": "Sie streiten nie über Geld.",
+      "targetText": "Ei nu se ceartă niciodată pe bani."
+    },
+    {
+      "sourceText": "Ich habe mich letzte Woche mit ihr gestritten.",
+      "targetText": "M-am certat săptămâna trecută cu ea."
+    },
+    {
+      "sourceText": "Ich werde morgen mit dir streiten.",
+      "targetText": "Mă voi certa mâine cu tine."
+    },
+    {
+      "sourceText": "Ich würde nicht streiten, wenn ich wüsste, dass du recht hast.",
+      "targetText": "Nu m-aș certa dacă aș ști că ai dreptate."
+    },
+    {
+      "sourceText": "Streite nicht!",
+      "targetText": "Nu te certa!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das reflexive „a se certa“ erinnert an „sich streiten“ – beide beschreiben Konflikte zwischen Menschen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz „Ich streite nicht gerne“ und übersetze ihn als „Nu mă cert cu plăcere“ – so verknüpfst du die Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie zwei Personen sich streiten (streiten) und dabei „a se certa“ sagen – das hilft, die Bedeutung zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

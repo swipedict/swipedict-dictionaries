@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-standpunkt",
+  "parent": "ms-ro-punct-de-vedere-1525f8e2@4da4314fda6503d20e4f04918cbfdf03",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Standpunkt",
+    "genus": "masculine",
+    "definition": "Die persönliche oder sachliche Haltung oder Meinung zu einem Thema.",
+    "pronunciation": "/ˈʃtantˌpʊŋkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Standpunkt“ setzt sich aus den Wörtern 'Stand' und 'Punkt' zusammen, wobei 'Stand' auf das althochdeutsche 'stant' zurückgeht, das 'stehen' bedeutet, und 'Punkt' vom lateinischen 'punctum' stammt, was 'Punkt' oder 'Stelle' bedeutet.",
+        "targetText": "Cuvântul german „Standpunkt” este compus din „Stand” (din germana veche înaltă 'stant', care înseamnă 'a sta') și „Punkt” (din latină 'punctum', însemnând 'punct' sau 'loc')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "punct de vedere",
+    "genus": "neuter",
+    "definition": "Atitudinea sau opinia personală sau obiectivă față de un subiect.",
+    "pronunciation": "/ˈpunkt de ˈvedere/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „punct de vedere“ stammt vom lateinischen 'punctum' für 'Punkt' und 'videre' für 'sehen', zusammengesetzt als 'Standpunkt' im Sinne von 'Sichtweise'.",
+        "targetText": "Expresia românească „punct de vedere” provine din latină: 'punctum' însemnând 'punct' și 'videre' însemnând 'a vedea', formând astfel sensul de 'punct de vedere' sau 'perspectivă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ansicht",
+      "targetText": "părere"
+    },
+    {
+      "sourceText": "Haltung",
+      "targetText": "atitudine"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Perspektive",
+      "targetText": "perspectivă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unentschlossenheit",
+      "targetText": "nehotărâre"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sein Standpunkt zu diesem Thema ist klar.",
+      "targetText": "Punctul său de vedere asupra acestui subiect este clar."
+    },
+    {
+      "sourceText": "Wir sollten den Standpunkt aller Beteiligten berücksichtigen.",
+      "targetText": "Ar trebui să luăm în considerare punctul de vedere al tuturor celor implicați."
+    },
+    {
+      "sourceText": "Der Standpunkt des Autors ist überzeugend dargestellt.",
+      "targetText": "Punctul de vedere al autorului este prezentat convingător."
+    },
+    {
+      "sourceText": "Man kann den Standpunkt wechseln, wenn man neue Informationen bekommt.",
+      "targetText": "Poți să-ți schimbi punctul de vedere când primești informații noi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'punct' klingt wie das deutsche 'Punkt', und 'vedere' erinnert an 'sehen' – zusammen 'Standpunkt' als Sichtweise."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vedere' ist verwandt mit dem lateinischen 'videre' – das hilft dir, die Bedeutung 'sehen' und damit 'Sichtweise' zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen festen 'Stand' auf einem 'Punkt' – so merkst du dir 'punct de vedere' als festen Blickwinkel."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an eine Kamera denkst, die einen 'Punkt' fokussiert, hilft dir das, 'punct de vedere' als Perspektive zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

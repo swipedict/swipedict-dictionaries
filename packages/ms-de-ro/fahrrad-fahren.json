@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-fahrrad-fahren",
+  "parent": "ms-ro-a-merge-cu-bicicleta-ed0814d9@f37a13e14dde7e90ed7fcb500bb7e02a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fahrrad fahren",
+    "definition": "Mit einem Fahrrad sich fortbewegen, indem man in die Pedale tritt.",
+    "pronunciation": "/ˈfaːɐ̯ˌʁaːt ˈfaːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fahrrad“ entstand im 19. Jahrhundert aus den Bestandteilen 'fahren' und 'Rad', wobei 'Rad' auf das althochdeutsche 'rāt' zurückgeht, das mit dem lateinischen 'rota' (Rad) verwandt ist.",
+        "targetText": "Cuvântul german „Fahrrad” a apărut în secolul al XIX-lea din combinarea verbului 'fahren' și substantivului 'Rad', care provine din germana veche înaltă 'rāt', înrudit cu latinescul 'rota' (roată)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a merge cu bicicleta",
+    "definition": "A se deplasa folosind o bicicletă, pedalând.",
+    "pronunciation": "/a ˈmerʒe ku bi.t͡ʃiˈklet͡sa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „a merge cu bicicleta“ setzt sich aus dem Verb 'a merge' (gehen, fahren) und dem Substantiv 'bicicletă' zusammen, das aus dem französischen 'bicyclette' stammt, welches wiederum vom italienischen 'bici' abgeleitet ist.",
+        "targetText": "Expresia românească „a merge cu bicicleta” combină verbul 'a merge' (a merge, a circula) cu substantivul 'bicicletă', care provine din franceza 'bicyclette', la rândul său derivat din italiană 'bici'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Phrase mit dem Verb 'a merge' plus Präposition 'cu' und Substantiv 'bicicletă'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fahren",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "Fahrrad",
+      "targetText": "bicicletă"
+    },
+    {
+      "sourceText": "Pedal",
+      "targetText": "pedală"
+    },
+    {
+      "sourceText": "Rad",
+      "targetText": "roată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zu Fuß gehen",
+      "targetText": "a merge pe jos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fahre jeden Tag Fahrrad zur Arbeit.",
+      "targetText": "Eu merg cu bicicleta la serviciu în fiecare zi."
+    },
+    {
+      "sourceText": "Kannst du schon Fahrrad fahren?",
+      "targetText": "Știi să mergi cu bicicleta deja?"
+    },
+    {
+      "sourceText": "Wir fahren morgen zusammen Fahrrad im Park.",
+      "targetText": "Mâine mergem împreună cu bicicleta în parc."
+    },
+    {
+      "sourceText": "Fahrrad fahren macht Spaß und ist gesund.",
+      "targetText": "A merge cu bicicleta este distractiv și sănătos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'bicicletă' klingt ähnlich wie das französische 'bicyclette', was dir hilft, die Herkunft und Bedeutung zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb 'a merge' ist sehr vielseitig und bedeutet 'gehen' oder 'fahren'. Kombiniert mit 'cu' (mit) und 'bicicletă' (Fahrrad) entsteht die Phrase für Fahrrad fahren."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Fahrrad fahren' = 'a merge cu bicicleta'. Das 'cu' ist die rumänische Präposition für 'mit' – ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du mit deinem 'BICI' (italienisch für Fahrrad) durch die Straßen 'MERGI' (rumänisch für gehen/fahren) – so merkst du dir 'a merge cu bicicleta'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

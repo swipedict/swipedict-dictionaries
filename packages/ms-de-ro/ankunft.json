@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-ankunft",
+  "parent": "ms-ro-sosire-394b4f2e@5eddd0d51de9a96cc1545605950302d9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ankunft",
+    "genus": "feminine",
+    "definition": "Das Eintreffen an einem Ort nach einer Reise oder Bewegung.",
+    "pronunciation": "/ˈankʊnft/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Ankunft“ setzt sich aus der Vorsilbe 'an-' und dem Verb 'kommen' zusammen, wobei 'kommen' auf das althochdeutsche 'queman' zurückgeht, das vom urgermanischen *kweman stammt und 'sich bewegen, kommen' bedeutet.",
+        "targetText": "Substantivul german „Ankunft” este format din prefixul 'an-' și verbul 'kommen', care provine din germana veche înaltă 'queman', derivat din rădăcina urgermanică *kweman, însemnând 'a se mișca, a veni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sosire",
+    "genus": "feminine",
+    "definition": "Acțiunea de a ajunge într-un loc după o călătorie sau deplasare.",
+    "pronunciation": "/soˈsi.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „sosire“ stammt vom Verb 'a sosi' ab, das aus dem lateinischen 'surgere' (aufstehen, sich erheben) über eine volkssprachliche Entwicklung entstand und die Bedeutung 'ankommen' erhielt.",
+        "targetText": "Substantivul românesc „sosire” derivă din verbul 'a sosi', care provine din latină, din 'surgere' (a se ridica), evoluând semantic spre 'a ajunge'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abfahrt",
+      "targetText": "plecare"
+    },
+    {
+      "sourceText": "Ankommen",
+      "targetText": "a sosi"
+    },
+    {
+      "sourceText": "Flughafen",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abreise",
+      "targetText": "plecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Ankunft des Zuges ist um 18 Uhr.",
+      "targetText": "Sosirea trenului este la ora 18."
+    },
+    {
+      "sourceText": "Wir erwarten die Ankunft unserer Gäste.",
+      "targetText": "Așteptăm sosirea oaspeților noștri."
+    },
+    {
+      "sourceText": "Nach der Ankunft am Flughafen gingen wir zum Gepäckband.",
+      "targetText": "După sosirea la aeroport, am mers la banda de bagaje."
+    },
+    {
+      "sourceText": "Die Ankunft des Pakets wurde bestätigt.",
+      "targetText": "Sosirea coletului a fost confirmată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „sosire“ klingt wie „so sie re“ – stell dir vor, jemand sagt: „So, sie ist da!“ bei der Ankunft."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-ire' im Rumänischen zeigt oft eine Substantivbildung von Verben, hier von 'a sosi' zu 'sosire'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Flugzeug landet und alle sagen: 'So, sie ist da!' – das hilft dir, 'sosire' mit Ankunft zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Ankunft' mit dem Verb 'kommen' und merke, dass 'sosire' vom lateinischen 'surgere' kommt, was 'aufstehen' bedeutet – also das Aufstehen an einem neuen Ort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

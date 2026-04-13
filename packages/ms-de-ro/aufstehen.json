@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-aufstehen",
+  "parent": "ms-ro-a-se-ridica-7ef7d330@c447b55244d738f3355baab8f11ee2ae",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufstehen",
+    "definition": "sich aus einer liegenden oder sitzenden Position erheben",
+    "pronunciation": "/ˈaʊ̯fˌʃteːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufstehen“ besteht aus dem Präfix „auf-“ und dem Verb „stehen“, welches vom althochdeutschen „stēhan“ stammt. Es beschreibt die Handlung des Heraustretens aus einer sitzenden oder liegenden Position oder die Bewegung in eine aufrechte Position.",
+        "targetText": "Das deutsche Verb „aufstehen“ kombiniert das Präfix „auf-“ mit „stehen“ (vom althochdeutschen „stēhan“), was „sich erheben“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Aufstehen“ wird in vielen Kulturen als ein Zeichen des Respekts angesehen, insbesondere bei Begrüßungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se ridica",
+    "definition": "a se ridica dintr-o poziție culcată sau așezată",
+    "pronunciation": "/a se riˈdi.ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a se ridica“ kommt vom lateinischen „ridicare“, was „erheben, erhöhen“ bedeutet. Es bezieht sich auf die Handlung des sich selbst in eine aufrechte Position zu bringen.",
+        "targetText": "Verbul românesc „a se ridica“ provine din latină, de la „ridicare“, care înseamnă „a ridica“ sau „a înălța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort hat oft eine Metapher, insbesondere für das Überwinden von Schwierigkeiten im Leben."
+  },
+  "senses": [
+    {
+      "gloss": "Aufstehen (Frühstücken)",
+      "explanation": {
+        "sourceText": "'Aufstehen' impliziert oft, dass man auch bereit ist, Frühstück zu essen.",
+        "targetText": "Adesea implică pregătirea pentru micul dejun."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich stehe auf, um zu frühstücken.",
+          "targetText": "Mă ridic să iau micul dejun."
+        }
+      ]
+    },
+    {
+      "gloss": "Aufstehen (sich erheben)",
+      "explanation": {
+        "sourceText": "Hier bezieht sich 'aufstehen' auf die allgemeine Handlung des Erhebens.",
+        "targetText": "Se referă la acțiunea generală de a te ridica."
+      },
+      "examples": [
+        {
+          "sourceText": "Er musste aufstehen, um die Tür zu öffnen.",
+          "targetText": "El a trebuit să se ridice pentru a deschide ușa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufwachen",
+      "targetText": "a se trezi"
+    },
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Morgen",
+      "targetText": "dimineață"
+    },
+    {
+      "sourceText": "Schlafen",
+      "targetText": "a dormi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sitzen",
+      "targetText": "a sta jos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stehe um 7 Uhr auf.",
+      "targetText": "Eu mă ridic la ora 7."
+    },
+    {
+      "sourceText": "Stehst du früh auf?",
+      "targetText": "Te ridici devreme?"
+    },
+    {
+      "sourceText": "Er steht immer spät auf.",
+      "targetText": "El se ridică întotdeauna târziu."
+    },
+    {
+      "sourceText": "Wir stehen jetzt auf.",
+      "targetText": "Noi ne ridicăm acum."
+    },
+    {
+      "sourceText": "Steht ihr auf?",
+      "targetText": "Vă ridicați?"
+    },
+    {
+      "sourceText": "Sie stehen langsam auf.",
+      "targetText": "Ei se ridică încet."
+    },
+    {
+      "sourceText": "Ich bin aufgestanden.",
+      "targetText": "M-am ridicat."
+    },
+    {
+      "sourceText": "Sie sind früh aufgestanden.",
+      "targetText": "Ei s-au ridicat devreme."
+    },
+    {
+      "sourceText": "Er stand jeden Morgen auf.",
+      "targetText": "El se ridica în fiecare dimineață."
+    },
+    {
+      "sourceText": "Ich war schon aufgestanden, als er anrief.",
+      "targetText": "M-am ridicat deja când a sunat."
+    },
+    {
+      "sourceText": "Ich werde morgen aufstehen.",
+      "targetText": "Voi să mă ridic mâine."
+    },
+    {
+      "sourceText": "Er wird schnell aufstehen.",
+      "targetText": "El o să se ridice repede."
+    },
+    {
+      "sourceText": "Ich würde aufstehen, wenn ich nicht müde wäre.",
+      "targetText": "Aș ridica, dacă nu aș fi obosit."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du aufstehst.",
+      "targetText": "Este important să te ridici."
+    },
+    {
+      "sourceText": "Steh auf!",
+      "targetText": "Ridică-te!"
+    },
+    {
+      "sourceText": "Steht auf!",
+      "targetText": "Ridicați-vă!"
+    },
+    {
+      "sourceText": "Das aufgestandene Kind ist wach.",
+      "targetText": "Copilul ridicat este treaz."
+    },
+    {
+      "sourceText": "Aufstehend, bemerkte ich die Zeit.",
+      "targetText": "Ridicându-mă, am observat că e vremea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aufstehen“ bedeutet nicht nur physisch aufstehen, sondern symbolisiert oft einen Neuanfang – verbinde das mit „a se ridica“."
+    },
+    {
+      "lang": "de",
+      "text": "Der Satz „Morgen stehe ich auf“ kann dir helfen, die Bedeutung und Verwendung von „aufstehen“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du jeden Morgen aufstehst – das hilft dir, „aufstehen“ und „a se ridica“ zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

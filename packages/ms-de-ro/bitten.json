@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-bitten",
+  "parent": "ms-ro-a-ruga-30ae3c5a@afd998dd44c34976b6a54595072bc82c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bitten",
+    "definition": "jemanden um etwas ersuchen oder anflehen",
+    "pronunciation": "/ˈbɪtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „bitten“ stammt vom mittelhochdeutschen „bitten“, was „anflehen“ oder „ersuchen“ bedeutet.",
+        "targetText": "Verbul german „bitten“ provine din mijlocul german și înseamnă „a ruga“ sau „a cere cu umilință“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig verwendet, um höfliche Anfragen oder Bitten auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ruga",
+    "definition": "a cere cuiva să facă ceva",
+    "pronunciation": "/a ruˈɡa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a ruga“ stammt vom lateinischen „rogare“ ab, was „bitten“ oder „fragen“ bedeutet. Es ist in vielen romanischen Sprachen verbreitet.",
+        "targetText": "Verbul românesc „a ruga“ provine din latină, din „rogare“, care înseamnă „a cere“ sau „a întreba“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist sehr höflich und wird häufig in formellen Anfragen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Anfrage",
+      "explanation": {
+        "sourceText": "Das Wort wird oft verwendet, um eine formelle Anfrage zu stellen.",
+        "targetText": "Cuvântul este folosit frecvent pentru a face o cerere formală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich stelle eine Anfrage.",
+          "targetText": "Fac o cerere."
+        }
+      ]
+    },
+    {
+      "gloss": "Hilfe",
+      "explanation": {
+        "sourceText": "In vielen Kontexten wird um Hilfe oder Unterstützung gebeten.",
+        "targetText": "În multe contexte se cere ajutor sau sprijin."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich brauche Hilfe.",
+          "targetText": "Am nevoie de ajutor."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anfrage",
+      "targetText": "cerere"
+    },
+    {
+      "sourceText": "Bitte",
+      "targetText": "rugăciune"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "antworten",
+      "targetText": "a răspunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bitte um deine Unterstützung.",
+      "targetText": "Te rog pentru ajutorul tău."
+    },
+    {
+      "sourceText": "Bittest du mich um einen Gefallen?",
+      "targetText": "Mă rogi pentru un favor?"
+    },
+    {
+      "sourceText": "Er bittet höflich um Informationen.",
+      "targetText": "El roagă politicos pentru informații."
+    },
+    {
+      "sourceText": "Wir bitten um Geduld.",
+      "targetText": "Vă rugăm pentru răbdare."
+    },
+    {
+      "sourceText": "Bittet ihr mich, es zu tun?",
+      "targetText": "Mă rugați să o fac?"
+    },
+    {
+      "sourceText": "Sie bitten um ein Treffen.",
+      "targetText": "Ei roagă pentru o întâlnire."
+    },
+    {
+      "sourceText": "Ich habe ihn um Hilfe gebeten.",
+      "targetText": "L-am rugat pentru ajutor."
+    },
+    {
+      "sourceText": "Er bat um Entschuldigung.",
+      "targetText": "El a rugat pentru scuze."
+    },
+    {
+      "sourceText": "Ich werde um deine Meinung bitten.",
+      "targetText": "Te voi ruga pentru părerea ta."
+    },
+    {
+      "sourceText": "Bitte hilf mir!",
+      "targetText": "Te rog, ajută-mă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a ruga“ klingt ähnlich wie das deutsche „Rogate“ (bitten) – denk an höfliches Bitten oder Anflehen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a ruga“ mit dem lateinischen „rogare“ – so merkst du dir, dass es um eine höfliche Bitte geht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

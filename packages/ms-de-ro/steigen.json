@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-steigen",
+  "parent": "ms-ro-a-urca-cc5ad762@ac5e739fd68e184835555f2aab6353c6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "steigen",
+    "definition": "auf etwas hinaufgehen oder sich nach oben bewegen",
+    "pronunciation": "/ˈʃtaɪ̯ɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort kommt vom mittelhochdeutschen „stigen“ und ist verwandt mit dem englischen „to rise“. Es beschreibt die Bewegung von niedriger zu höherer Position.",
+        "targetText": "Cuvântul provine din mijlocul germanului „stigen“ și este înrudit cu englezescul „to rise“. Descrie mișcarea de la o poziție joasă la una înaltă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Verwendung ist vielseitig: vom körperlichen Aufstieg bis zum Anstieg von Preisen oder Leistungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a urca",
+    "definition": "a merge sau a se deplasa în sus",
+    "pronunciation": "/a urˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A urca“ hat seinen Ursprung im lateinischen „horca“, was ‚hinaufsteigen‘ bedeutet, und steht für die Bewegung nach oben.",
+        "targetText": "„A urca“ își are originea în latinul „horca“, care înseamnă „a urca“ și exprimă mișcarea în sus."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, wenn man sich auf Berge oder Treppen bezieht; ebenfalls in einem übertragenen Sinne bei Erfolg und Fortschritt."
+  },
+  "senses": [
+    {
+      "gloss": "aufsteigen",
+      "explanation": {
+        "sourceText": "'Aufsteigen' bedeutet auch, den Rang oder die Position zu erhöhen.",
+        "targetText": "„A urca“ înseamnă și a crește în rang sau poziție."
+      },
+      "examples": [
+        {
+          "sourceText": "Er steigt in der Firma auf.",
+          "targetText": "El urcă în firmă."
+        }
+      ]
+    },
+    {
+      "gloss": "steigend",
+      "explanation": {
+        "sourceText": "Das Verb beschreibt auch die steigende Qualität oder den Fortschritt.",
+        "targetText": "Verbul descrie și creșterea calității sau progresul."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Preise steigen.",
+          "targetText": "Prețurile urcă."
+        }
+      ]
+    },
+    {
+      "gloss": "Ufer",
+      "explanation": {
+        "sourceText": "Für 'Ufer' verwendet man 'mal' (sächlich).",
+        "targetText": "Pentru „mal“ (țărm) se folosește substantivul neutru."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Boot liegt an der Bank.",
+          "targetText": "Barca este pe mal."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    },
+    {
+      "sourceText": "Höhe",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "Klettern",
+      "targetText": "scalare"
+    },
+    {
+      "sourceText": "Treppen",
+      "targetText": "scări"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "steigen",
+      "targetText": "a coborî"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich steige die Treppe hoch.",
+      "targetText": "Eu urc scările."
+    },
+    {
+      "sourceText": "Steigst du ins Auto?",
+      "targetText": "Urci în mașină?"
+    },
+    {
+      "sourceText": "Er steigt auf das Dach.",
+      "targetText": "El urcă pe acoperiș."
+    },
+    {
+      "sourceText": "Wir steigen zum Gipfel auf.",
+      "targetText": "Noi urcăm la vârf."
+    },
+    {
+      "sourceText": "Steigt ihr mit uns?",
+      "targetText": "Urcați cu noi?"
+    },
+    {
+      "sourceText": "Sie steigen ins Flugzeug.",
+      "targetText": "Ei urcă în avion."
+    },
+    {
+      "sourceText": "Ich bin die Treppen hochgestiegen.",
+      "targetText": "Am urcat treptele."
+    },
+    {
+      "sourceText": "Er stieg oft hier auf.",
+      "targetText": "El urca adesea aici."
+    },
+    {
+      "sourceText": "Ich werde die Leiter steigen.",
+      "targetText": "Voi urca scara."
+    },
+    {
+      "sourceText": "Steig jetzt!",
+      "targetText": "Urcă acum!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Steigen“ und „a urca“ bedeuten beide ‚nach oben gehen‘. Denk an das Bild, wie du eine Treppe (scări) hinaufsteigst (urci)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz: „Urc și eu, dar nu mai pot!“ (Ich steige auch, aber ich kann nicht mehr!) – so bleibt „a urca“ im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

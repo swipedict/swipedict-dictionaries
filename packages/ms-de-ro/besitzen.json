@@ -1,0 +1,147 @@
+{
+  "id": "ms-de-ro-besitzen",
+  "parent": "ms-ro-a-detine-72d1006e@4288429ae8537773da8d8ba37ebb4e5c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besitzen",
+    "definition": "etwas (z. B. ein Eigentum) haben oder der Eigentümer von etwas sein",
+    "pronunciation": "/bəˈzɪt͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Zusammengesetzt aus „be-“, was den Zustand des Besitzens anzeigt, und „sitzen“, was steht für „sich an einem Ort niederlassen“.",
+        "targetText": "Das deutsche Verb „besitzen“ setzt sich aus „be-“ (intensiv) und „sitzen“ (sich befinden) zusammen und bedeutet, Eigentum zu haben."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Wort wird verwendet, um Eigentum oder Besitz zu beschreiben und kann formal (rechtlich) oder informell sein."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a deține",
+    "definition": "a avea sau a fi proprietarul unui lucru",
+    "pronunciation": "/a deziˈne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kommt vom lateinischen „detinere“, was „halten“ oder „besitzen“ bedeutet, und ist mit dem Präfix „de-“ verbunden, das die Idee von „nehmen“ oder „abnehmen“ vermittelt.",
+        "targetText": "Verbul „a deține“ provine din latină, din „detinere“, care înseamnă a ține sau a poseda, format prin prefixul „de-“ ce exprimă acțiunea de a ține."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist wichtig in rechtlichen und wirtschaftlichen Kontexten, um Eigentum oder Besitz zu kennzeichnen."
+  },
+  "senses": [
+    {
+      "gloss": "Eigentum besitzen",
+      "explanation": {
+        "sourceText": "Im rechtlichen Kontext bedeutet es, das rechtmäßige Eigentum an etwas zu haben.",
+        "targetText": "În context juridic, înseamnă a avea proprietatea legală asupra unui lucru."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich besitze eine Eigentumswohnung.",
+          "targetText": "Eu dețin un apartament proprietate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besitzer",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "Eigentum",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Ressource",
+      "targetText": "resursă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlieren",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich besitze ein neues Auto.",
+      "targetText": "Eu dețin o mașină nouă."
+    },
+    {
+      "sourceText": "Besitzt du eine Wohnung?",
+      "targetText": "Deții un apartament?"
+    },
+    {
+      "sourceText": "Er besitzt das Haus.",
+      "targetText": "El deține casa."
+    },
+    {
+      "sourceText": "Wir besitzen mehrere Grundstücke.",
+      "targetText": "Noi deținem mai multe terenuri."
+    },
+    {
+      "sourceText": "Besitzt ihr ein Unternehmen?",
+      "targetText": "Dețineți o companie?"
+    },
+    {
+      "sourceText": "Sie besitzen mehrere Firmen.",
+      "targetText": "Ei dețin mai multe firme."
+    },
+    {
+      "sourceText": "Ich habe mein Haus besessen.",
+      "targetText": "Am deținut casa mea."
+    },
+    {
+      "sourceText": "Sie besaßen ein großes Unternehmen.",
+      "targetText": "Ei dețineau o companie mare."
+    },
+    {
+      "sourceText": "Ich werde ein neues Büro besitzen.",
+      "targetText": "Voi deține un birou nou."
+    },
+    {
+      "sourceText": "Ich würde gerne ein Haus besitzen.",
+      "targetText": "Aș dori să dețin o casă."
+    },
+    {
+      "sourceText": "Besitze dein Glück!",
+      "targetText": "Deține-ți fericirea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A deține“ wird oft in rechtlichen Kontexten verwendet – denk an Besitz und Kontrolle, wenn du das Wort hörst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „eu dețin“ (ich besitze) und „tu deții“ (du besitzt) – die Endungen helfen dir, die Formen zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

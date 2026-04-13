@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-entschuldigen",
+  "parent": "ms-ro-a-se-scuza-891ddd67@abc0d9fe96d4a2bcc524a873d25031c8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "entschuldigen",
+    "definition": "sich für etwas entschuldigen oder um Verzeihung bitten",
+    "pronunciation": "/ɛntˈʃʊldiɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „entschuldigen“ leitet sich vom Wort „Schuld“ ab, kombiniert mit dem Präfix „ent-“, das eine Aufhebung oder Befreiung anzeigt.",
+        "targetText": "Verbul „entschuldigen“ derivă din cuvântul „Schuld“ (vină), combinat cu prefixul „ent-“, care indică o anulare sau eliberare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet, um sich oder anderen eine ungünstige Situation zu erklären oder Verzeihung zu bitten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se scuza",
+    "definition": "a-și cere scuze pentru ceva sau a solicita iertare",
+    "pronunciation": "/a se skuˈza/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se scuza“ stammt vom lateinischen „excusa“ ab, was „Entschuldigung“ bedeutet, und setzt sich aus „ex-“ (aus) und „causa“ (Ursache) zusammen.",
+        "targetText": "Verbul românesc „a se scuza“ provine din latină, din „excusa“, care înseamnă „scuză“, format din „ex-“ (din) și „causa“ (cauză)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um sich für etwas zu entschuldigen oder nachsichtig zu bitten."
+  },
+  "senses": [
+    {
+      "gloss": "Entschuldigung",
+      "explanation": {
+        "sourceText": "Das bedeutet auch 'die Bitte um Verzeihung'.",
+        "targetText": "Înseamnă și „cererea de iertare“."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich brauche deine Entschuldigung.",
+          "targetText": "Am nevoie de scuzele tale."
+        }
+      ]
+    },
+    {
+      "gloss": "sich für etwas entschuldigen",
+      "explanation": {
+        "sourceText": "Wenn man Verantwortung für einen Fehler übernehmen möchte.",
+        "targetText": "Atunci când cineva își asumă responsabilitatea pentru o greșeală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich entschuldige mich immer, wenn ich einen Fehler mache.",
+          "targetText": "Îmi cer întotdeauna scuze când fac o greșeală."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entschuldigung",
+      "targetText": "scuză"
+    },
+    {
+      "sourceText": "Fehler",
+      "targetText": "eroare"
+    },
+    {
+      "sourceText": "Reue",
+      "targetText": "regrete"
+    },
+    {
+      "sourceText": "Verzeihung",
+      "targetText": "iertare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beschuldigen",
+      "targetText": "a acuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich entschuldige mich für die Verspätung.",
+      "targetText": "Mă scuzați pentru întârziere."
+    },
+    {
+      "sourceText": "Entschuldigt du den Fehler bitte!",
+      "targetText": "Îmi cer scuze pentru greșeală!"
+    },
+    {
+      "sourceText": "Er entschuldigt sich häufig bei seinen Freunden.",
+      "targetText": "El se scuza frecvent la prietenii săi."
+    },
+    {
+      "sourceText": "Wir entschuldigen uns für die Unannehmlichkeiten.",
+      "targetText": "Ne cerem scuze pentru neplăceri."
+    },
+    {
+      "sourceText": "Entschuldigt ihr uns, wenn wir zu spät sind?",
+      "targetText": "Ne scuzați dacă întârziem?"
+    },
+    {
+      "sourceText": "Sie entschuldigen sich für ihre späte Ankunft.",
+      "targetText": "Ei se scuză pentru sosirea lor târzie."
+    },
+    {
+      "sourceText": "Ich habe mich heute entschuldigt.",
+      "targetText": "M-am scuzat azi."
+    },
+    {
+      "sourceText": "Er entschuldigte sich regelmässig.",
+      "targetText": "El se scuza regulat."
+    },
+    {
+      "sourceText": "Ich werde mich entschuldigen.",
+      "targetText": "Mă voi scuza."
+    },
+    {
+      "sourceText": "Ich würde mich entschuldigen, wenn ich könnte.",
+      "targetText": "M-aș scuza dacă aș putea."
+    },
+    {
+      "sourceText": "Entschuldige dich!",
+      "targetText": "Scuză-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a se scuza“ ist reflexiv – merke dir die Reflexivpronomen (mă, te, se, ne, vă, se) für korrekte Verwendung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „entschuldigen“ mit „scuza“ und stelle dir vor, du „schneidest“ (klingt ähnlich wie „scuza“) eine Schuld weg, indem du um Verzeihung bittest."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

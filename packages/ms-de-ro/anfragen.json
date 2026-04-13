@@ -1,0 +1,173 @@
+{
+  "id": "ms-de-ro-anfragen",
+  "parent": "ms-ro-a-intreba-db002f47@c6d5b8dd31279c275dd46270c8356327",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anfragen",
+    "definition": "eine Anfrage stellen oder um Information bitten",
+    "pronunciation": "/ˈanˌfʁaŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Kombiniert das Präfix „an“ mit dem Verb „fragen“, was „um etwas bitten“ bedeutet. Es wird oft im offiziellen Kontext verwendet.",
+        "targetText": "Provine din combinarea prefixului „an-“ cu verbul „fragen” (a întreba)."
+      },
+      "source": "AI"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in der Geschäftskommunikation verwendet, um Informationen oder Unterstützung zu soliciteren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întreba",
+    "definition": "a solicita informații sau a face o cerere",
+    "pronunciation": "/ɨnˈtre.ba/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich ab vom lateinischen „interrogare“, was „fragen“ bedeutet. Es ist eine gängige Form, um Fragen zu stellen oder Informationen zu erfragen.",
+        "targetText": "Provine din latinescul „interrogare”, care înseamnă „a întreba”."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig in formellen Kontexten verwendet, um Anfragen zu stellen."
+  },
+  "senses": [
+    {
+      "gloss": "bitten um Informationen",
+      "explanation": {
+        "sourceText": "In offiziellen Kontexten verwendet.",
+        "targetText": "Folosit în contexte oficiale pentru a solicita informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bitte um Auskunft.",
+          "targetText": "Cer informații."
+        }
+      ]
+    },
+    {
+      "gloss": "fragen",
+      "explanation": {
+        "sourceText": "Verwendet, wenn man Informationen erbittet.",
+        "targetText": "Folosit pentru a cere informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich frage nach Informationen.",
+          "targetText": "Eu întreb despre informații."
+        }
+      ]
+    },
+    {
+      "gloss": "Nachricht senden",
+      "explanation": {
+        "sourceText": "In der Kommunikation verwendet, um um Informationen zu bitten.",
+        "targetText": "Folosit în comunicare pentru a solicita informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich sende eine Anfrage.",
+          "targetText": "Trimit o întrebare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "antworten",
+      "targetText": "a răspunde"
+    },
+    {
+      "sourceText": "der Anruf",
+      "targetText": "apelul"
+    },
+    {
+      "sourceText": "der Informationsaustausch",
+      "targetText": "schimbul de informații"
+    },
+    {
+      "sourceText": "die Frage",
+      "targetText": "întrebarea"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "antworten",
+      "targetText": "a răspunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich frage nach der Rechnung.",
+      "targetText": "Eu întreb de factură."
+    },
+    {
+      "sourceText": "Fragst du nach dem Termin?",
+      "targetText": "Întrebi de întâlnire?"
+    },
+    {
+      "sourceText": "Sie fragt nach den Ergebnissen.",
+      "targetText": "Ea întreabă despre rezultate."
+    },
+    {
+      "sourceText": "Wir fragen nach Informationen.",
+      "targetText": "Noi întrebăm despre informații."
+    },
+    {
+      "sourceText": "Fragt ihr nach einer Lösung?",
+      "targetText": "Întrebați de o soluție?"
+    },
+    {
+      "sourceText": "Sie fragen nach der Unterstützung.",
+      "targetText": "Ei întreabă de sprijin."
+    },
+    {
+      "sourceText": "Ich habe nach dem Preis gefragt.",
+      "targetText": "Am întrebat de preț."
+    },
+    {
+      "sourceText": "Er fragte häufig nach Hilfe.",
+      "targetText": "El întreba adesea de ajutor."
+    },
+    {
+      "sourceText": "Ich werde nach den Details fragen.",
+      "targetText": "Voi întreba despre detalii."
+    },
+    {
+      "sourceText": "Ich würde nach Rat fragen.",
+      "targetText": "Aș întreba despre sfaturi."
+    },
+    {
+      "sourceText": "Frag nach!",
+      "targetText": "Întreabă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Verb ist einfach strukturiert – nutze es, um viele Sätze zu bilden und so die Anwendung zu üben."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a întreba' mit dem Bild einer Person, die eine Frage stellt – das macht es leicht merkbar."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

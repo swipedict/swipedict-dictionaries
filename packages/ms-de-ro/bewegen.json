@@ -1,0 +1,144 @@
+{
+  "id": "ms-de-ro-bewegen",
+  "parent": "ms-ro-a-misca-f71f6739@27ff6b623fb002be20c14e031b6e088d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bewegen",
+    "definition": "sich von einem Ort zu einem anderen fortbewegen; in Bewegung bringen",
+    "pronunciation": "/bəˈveːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „bewegen“ stammt vom mittelhochdeutschen „bewegen“, zusammengesetzt aus „be-“ und „wegen“ (bewegen), und bedeutet etwas in Bewegung setzen oder sich bewegen.",
+        "targetText": "Verbul „bewegen“ provine din germana mijlocie „bewegen“, compus din prefixul „be-“ și „wegen“ (a mișca), însemnând a pune ceva în mișcare sau a se mișca."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um physische oder emotionale Bewegungen oder Änderungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mișca",
+    "definition": "a se deplasa de la un loc la altul; a pune în mișcare",
+    "pronunciation": "/a miʃˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a mișca“ stammt vom lateinischen „movere“ (bewegen) und bedeutet, etwas zu bewegen oder sich zu bewegen.",
+        "targetText": "Verbul românesc „a mișca“ provine din latină, din „movere“ (a mișca), însemnând a pune ceva în mișcare sau a se deplasa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um die Bewegung eines Körpers oder die Verschiebung von Objekten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Bewegen (physische Bewegung)",
+      "explanation": {
+        "sourceText": "Verwendet für die körperliche Bewegung von einem Ort zum anderen.",
+        "targetText": "Folosit pentru mișcarea fizică de la un loc la altul."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bewege den Tisch ins Zimmer.",
+          "targetText": "Eu mișc masa în cameră."
+        },
+        {
+          "sourceText": "Ich habe das Auto bewegt.",
+          "targetText": "Am mișcat mașina."
+        }
+      ]
+    },
+    {
+      "gloss": "Emotionale Bewegung",
+      "explanation": {
+        "sourceText": "Kann auch emotionale Veränderungen oder Einflüsse beschreiben.",
+        "targetText": "Poate descrie și schimbări sau influențe emoționale."
+      },
+      "examples": [
+        {
+          "sourceText": "Diese Musik bewegt mich.",
+          "targetText": "Această muzică mă mișcă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fahren",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "Gehen",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "Laufen",
+      "targetText": "a alerga"
+    },
+    {
+      "sourceText": "Schwingen",
+      "targetText": "a legăna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stillstehen",
+      "targetText": "a sta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bewege den Tisch ins Zimmer.",
+      "targetText": "Eu mișc masa în cameră."
+    },
+    {
+      "sourceText": "Ich habe das Auto bewegt.",
+      "targetText": "Am mișcat mașina."
+    },
+    {
+      "sourceText": "Ich werde das Bild bewegen.",
+      "targetText": "Voi mișca imaginea."
+    },
+    {
+      "sourceText": "Ich würde das Problem bewegen, wenn ich könnte.",
+      "targetText": "Aș mișca problema, dacă aș putea."
+    },
+    {
+      "sourceText": "Bewege das Fahrzeug!",
+      "targetText": "Mișcă vehiculul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a mișca“ klingt ähnlich wie „Mist“ – stell dir vor, du räumst Mist weg und bewegst etwas."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „a mișca“, z.B. „Eu mișc masa“, um das Verb in Bewegung zu setzen."
+    },
+    {
+      "lang": "de",
+      "text": "Vergleiche „a mișca“ mit anderen Bewegungsverben und bilde eigene Sätze in verschiedenen Zeiten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

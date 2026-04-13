@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-blockieren",
+  "parent": "ms-ro-a-bloca-12ed1438@189f6a8e6a299203a32a4ebe3f9afbf8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "blockieren",
+    "definition": "etwas unzugänglich machen oder verhindern, dass etwas passiert",
+    "pronunciation": "/bloˈkiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort stammt aus dem englischen „to block“ und wurde im Deutschen als technisches Fachwort übernommen, ein Anglizismus mit Bedeutung in Physik und Technik.",
+        "targetText": "Cuvântul german „blockieren“ este un anglicism provenit din englezescul „to block“ și este folosit în contexte tehnice și fizice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft verwendet, wenn es darum geht, den Zugang oder die Bewegung zu verhindern, sei es in physikalischen oder digitalen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a bloca",
+    "definition": "a face ceva inaccesibil sau a împiedica un lucru să se întâmple",
+    "pronunciation": "/a bloˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a bloca“ ist eine Entlehnung aus dem englischen „to block“ oder französischen „bloquer“. Es wird ähnlich wie im Deutschen verwendet, um Blockaden oder Sperren zu beschreiben.",
+        "targetText": "Verbul românesc „a bloca“ este un împrumut din engleză („to block“) sau franceză („bloquer“) și este folosit pentru a descrie blocarea sau împiedicarea accesului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Wird oft in technischer und alltäglicher Sprache im Zusammenhang mit Blockaden verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Blockierung",
+      "explanation": {
+        "sourceText": "'A bloca' wird auch im Sinne der Blockierung verwendet.",
+        "targetText": "„A bloca“ este folosit și pentru a descrie blocarea accesului."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Blockierung des Zugangs war notwendig.",
+          "targetText": "Blocarea accesului a fost necesară."
+        }
+      ]
+    },
+    {
+      "gloss": "Sperren",
+      "explanation": {
+        "sourceText": "Das Wort wird auch für das Sperren von Konten verwendet.",
+        "targetText": "Cuvântul este folosit și pentru blocarea conturilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bank hat das Konto gesperrt.",
+          "targetText": "Banca a blocat contul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Hindernis",
+      "targetText": "obstacol"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "Sperre",
+      "targetText": "barieră"
+    },
+    {
+      "sourceText": "Stop",
+      "targetText": "oprire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entsperren",
+      "targetText": "a debloca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich blockiere den Zugang.",
+      "targetText": "Eu blochez accesul."
+    },
+    {
+      "sourceText": "Blockierst du das Fenster?",
+      "targetText": "Blochezi fereastra?"
+    },
+    {
+      "sourceText": "Er blockiert den Weg.",
+      "targetText": "El blochează drumul."
+    },
+    {
+      "sourceText": "Wir blockieren die Straße.",
+      "targetText": "Noi blocăm strada."
+    },
+    {
+      "sourceText": "Blockiert ihr die Zugänge?",
+      "targetText": "Blocați accesurile?"
+    },
+    {
+      "sourceText": "Sie blockieren den Computer.",
+      "targetText": "Ei blochează computerul."
+    },
+    {
+      "sourceText": "Ich habe die Software blockiert.",
+      "targetText": "Am blocat software-ul."
+    },
+    {
+      "sourceText": "Er blockierte den Zugang.",
+      "targetText": "El bloca accesul."
+    },
+    {
+      "sourceText": "Ich werde die Kamera blockieren.",
+      "targetText": "Voi bloca camera."
+    },
+    {
+      "sourceText": "Ich würde den Zugang blockieren, wenn ich könnte.",
+      "targetText": "Aș bloca accesul dacă aș putea."
+    },
+    {
+      "sourceText": "Blockiere das Dokument!",
+      "targetText": "Blochează documentul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „blockieren“ und das rumänische „a bloca“ sind fast identisch – merke dir die Anfangssilben „blo-“ als Schlüssel zur Bedeutung!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du stehst in einem engen Gang und kannst nicht weiter – so merkst du dir die Bedeutung von „a bloca“."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu blochez ușa“ (Ich blockiere die Tür), um das Verb im Alltag zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "ms-de-ro-gelten",
+  "parent": "ms-ro-a-fi-valabil-b3d19956@82fa18114df73f11a64afb70c3a92d64",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gelten",
+    "definition": "für etwas gültig sein oder als damit in Verbindung stehend betrachtet werden",
+    "pronunciation": "/ˈɡɛltn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „gelten“ stammt vom mittelhochdeutschen „gelten“ ab und bedeutet „wert sein“ oder „gültig sein“.",
+        "targetText": "Verbul german „gelten“ provine din germana mijlocie „gelten“ și înseamnă „a avea valoare“ sau „a fi valabil“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird verwendet, um die Gültigkeit oder Relevanz von etwas zu betonen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fi valabil",
+    "definition": "a fi valid sau considerat a fi de relevanță",
+    "pronunciation": "/a fi vaˈla.bil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a fi valabil“ stammt vom lateinischen „validus“ ab, was „stark“ oder „kräftig“ bedeutet und sich auf Gültigkeit bezieht.",
+        "targetText": "Expresia românească „a fi valabil“ provine din latină „validus“, care înseamnă „puternic“ sau „valid“, referindu-se la valabilitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig in rechtlichen und alltäglichen Kontexten verwendet, um die Gültigkeit einer Regel oder eines Objekts zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bedingung",
+      "targetText": "condiție"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Norm",
+      "targetText": "normă"
+    },
+    {
+      "sourceText": "Regel",
+      "targetText": "regulă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ungültig sein",
+      "targetText": "a nu fi valabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Angebot gilt bis Ende Monat.",
+      "targetText": "Oferta este valabilă până la sfârșitul lunii."
+    },
+    {
+      "sourceText": "Gilt das auch für andere Produkte?",
+      "targetText": "E valabil și pentru alte produse?"
+    },
+    {
+      "sourceText": "Das Ticket gilt für alle Züge.",
+      "targetText": "Biletul este valabil pentru toate trenurile."
+    },
+    {
+      "sourceText": "Wir wissen, dass das Angebot gilt.",
+      "targetText": "Știm că oferta este valabilă."
+    },
+    {
+      "sourceText": "Gilt ihr als Zeugen?",
+      "targetText": "Sunteți considerați martori?"
+    },
+    {
+      "sourceText": "Sie sind nicht mehr gültig.",
+      "targetText": "Ele nu mai sunt valabile."
+    },
+    {
+      "sourceText": "Das Angebot hat lange gegolten.",
+      "targetText": "Oferta a fost valabilă mult timp."
+    },
+    {
+      "sourceText": "Das Ticket wird einen Monat gültig sein.",
+      "targetText": "Biletul va fi valabil timp de o lună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„gelten“ bedeutet Gültigkeit – verbinde es mit „a fi valabil“, das oft in Verträgen und Regeln verwendet wird."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie ein Vertrag „gültig“ ist, um dir „a fi valabil“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

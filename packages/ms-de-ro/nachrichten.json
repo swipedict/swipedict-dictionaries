@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-nachrichten",
+  "parent": "ms-ro-stiri-21ee0702@08e1b1aff0b99135ab334480d69a5dca",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nachrichten",
+    "genus": "feminine",
+    "definition": "Informationen über aktuelle Ereignisse, die mündlich, schriftlich oder elektronisch übermittelt werden.",
+    "pronunciation": "/ˈnaːxʁɪçtn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Nachricht“ stammt vom mittelhochdeutschen 'nachrichte' ab, zusammengesetzt aus 'nach' und 'richten' im Sinne von 'mitteilen' oder 'berichten'.",
+        "targetText": "Cuvântul german „Nachricht“ provine din germana mijlocie 'nachrichte', compus din 'nach' și 'richten', cu sensul de 'a comunica' sau 'a raporta'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "știri",
+    "genus": "feminine",
+    "definition": "Informații despre evenimente actuale, transmise oral, scris sau electronic.",
+    "pronunciation": "/ʃtiˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „știri“ stammt vom lateinischen Verb 'stare' ab, über die Entwicklung zu 'a ști' (wissen), wobei 'știri' ursprünglich 'Kenntnisse' oder 'Nachrichten' bedeutete.",
+        "targetText": "Cuvântul românesc „știri” derivă din verbul latin 'stare', prin evoluția către 'a ști' (a ști), iar „știri” însemna inițial 'cunoștințe' sau 'informații'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fernsehen",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "Radio",
+      "targetText": "radio"
+    },
+    {
+      "sourceText": "Zeitung",
+      "targetText": "ziar"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gerücht",
+      "targetText": "zvon"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich sehe jeden Abend die Nachrichten im Fernsehen.",
+      "targetText": "Privesc știrile la televizor în fiecare seară."
+    },
+    {
+      "sourceText": "Die Nachrichten heute sind sehr wichtig.",
+      "targetText": "Știrile de azi sunt foarte importante."
+    },
+    {
+      "sourceText": "Hast du die neuesten Nachrichten gehört?",
+      "targetText": "Ai auzit cele mai noi știri?"
+    },
+    {
+      "sourceText": "Im Radio gibt es stündlich Nachrichten.",
+      "targetText": "La radio sunt știri la fiecare oră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Nachrichten“ enthält „richten“ – denken Sie an „richten“ als „richten, berichten“. Im Rumänischen ist „știri“ das Wissen, das man richtet oder weitergibt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „știri“ klingt wie „Stiri“ – stell dir vor, du „stirrst“ (starrst) gespannt auf die Nachrichten, um nichts zu verpassen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Știri“ endet auf -i, was im Rumänischen oft Plural anzeigt. Eine einzelne Nachricht heißt „știre“ – ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „știri“ mit dem Verb „a ști“ (wissen). Nachrichten sind das, was du wissen solltest – „știri“ sind also „Wissensinhalte“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

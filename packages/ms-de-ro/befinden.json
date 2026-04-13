@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-befinden",
+  "parent": "ms-ro-a-se-afla-2c22cad5@dccd9d0537a651bec211f3b97a1fcc89",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:places-geography",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "befinden",
+    "definition": "an einem bestimmten Ort sein oder sich in einem bestimmten Zustand befinden",
+    "pronunciation": "/bəˈfɪndən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „befinden“ stammt vom althochdeutschen „bi-findan“, was „finden“ oder „auffinden“ bedeutet und beschreibt das Feststellen eines Ortes oder Zustands.",
+        "targetText": "Verbul „befinden“ provine din germana veche „bi-findan“, care înseamnă „a găsi“ sau „a descoperi“, indicând localizarea sau starea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, um den Standort oder Zustand von etwas zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se afla",
+    "definition": "a fi într-un anumit loc sau într-o anumită stare",
+    "pronunciation": "/se aˈlfa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Wendung „a se afla“ stammt vom lateinischen Ausdruck „se afferre“ (sich an einen Ort bringen) und bedeutet „sich befinden“.",
+        "targetText": "Expresia „a se afla“ derivă din latină, din „se afferre“ (a se aduce la un loc), însemnând „a se găsi“ sau „a se afla“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Reflexives Verb der 1. Konjugation. Häufig verwendet, um den Zustand oder die Position einer Person oder Sache zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Seine Position oder seinen Zustand angeben",
+      "explanation": {
+        "sourceText": "Gebrauch, um über den Zustand einer Person oder Sache zu sprechen.",
+        "targetText": "Folosit pentru a indica starea unei persoane sau a unui obiect."
+      },
+      "examples": [
+        {
+          "sourceText": "Er befindet sich in einem schlechten Gesundheitszustand.",
+          "targetText": "El se află într-o stare proastă de sănătate."
+        }
+      ]
+    },
+    {
+      "gloss": "Sich befinden / sich an einem bestimmten Ort aufhalten",
+      "explanation": {
+        "sourceText": "Verwendet, um einen spezifischen Aufenthaltsort zu beschreiben.",
+        "targetText": "Folosit pentru a descrie o locație specifică."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich befinde mich im Park.",
+          "targetText": "Mă aflu în parc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ort",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Platz",
+      "targetText": "spațiu"
+    },
+    {
+      "sourceText": "Situation",
+      "targetText": "situație"
+    },
+    {
+      "sourceText": "Zustand",
+      "targetText": "stare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlassen",
+      "targetText": "a părăsi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich befinde mich in der Stadt.",
+      "targetText": "Mă aflu în oraș."
+    },
+    {
+      "sourceText": "Befindest du dich zu Hause?",
+      "targetText": "Te afli acasă?"
+    },
+    {
+      "sourceText": "Er befindet sich in der Schule.",
+      "targetText": "El se află la școală."
+    },
+    {
+      "sourceText": "Wir befinden uns am Flughafen.",
+      "targetText": "Ne aflăm la aeroport."
+    },
+    {
+      "sourceText": "Befindet ihr euch im Park?",
+      "targetText": "Vă aflați în parc?"
+    },
+    {
+      "sourceText": "Sie befinden sich im Restaurant.",
+      "targetText": "Se află în restaurant."
+    },
+    {
+      "sourceText": "Ich habe mich im Hotel befunden.",
+      "targetText": "M-am aflat în hotel."
+    },
+    {
+      "sourceText": "Er befand sich oft im Ausland.",
+      "targetText": "El se afla adesea în străinătate."
+    },
+    {
+      "sourceText": "Ich werde mich im Büro befinden.",
+      "targetText": "Mă voi afla la birou."
+    },
+    {
+      "sourceText": "Befinde dich ruhig!",
+      "targetText": "Află-te liniștit!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Befinden“ und „a se afla“ drücken aus, wo oder wie man ist – denk daran, dass „afla“ auch „herausfinden“ bedeutet, also bist du „gefunden“ an einem Ort."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die reflexive Form: `Mă aflu` (ich befinde mich), `M-am aflat` (ich habe mich befunden), `Mă voi afla` (ich werde mich befinden). So merkst du dir die Formen besser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

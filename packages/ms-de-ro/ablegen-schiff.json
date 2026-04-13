@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-ablegen-schiff",
+  "parent": "ms-ro-a-pleca-nava-fbcb33d6@a01b3d38f6020ee2072a74428ffc662e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ablegen",
+    "definition": "Ein Schiff vom Liegeplatz oder Hafen aus in See stechen lassen.",
+    "pronunciation": "/ˈapleːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ablegen“ setzt sich aus dem Präfix 'ab-' und dem Verb 'legen' zusammen, wobei 'legen' auf das althochdeutsche 'leggen' zurückgeht, das 'platzieren' bedeutet.",
+        "targetText": "Verbul german „ablegen“ este format din prefixul 'ab-' și verbul 'legen', care provine din germana veche înaltă 'leggen', însemnând 'a plasa'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pleca (navă)",
+    "definition": "A porni o navă din port sau de la chei spre mare.",
+    "pronunciation": "/a ˈplek.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a pleca“ stammt vom lateinischen 'plicare' ab, das 'falten' bedeutete, entwickelte sich aber im Rumänischen zur Bedeutung 'weggehen' oder 'abfahren'.",
+        "targetText": "Verbul românesc „a pleca” provine din latinul 'plicare', care însemna 'a plia', dar în română a evoluat cu sensul de 'a pleca' sau 'a porni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abfahren",
+      "targetText": "a pleca"
+    },
+    {
+      "sourceText": "anlegen (Schiff)",
+      "targetText": "a acosta"
+    },
+    {
+      "sourceText": "auslaufen (Schiff)",
+      "targetText": "a ieși în larg"
+    },
+    {
+      "sourceText": "Hafen",
+      "targetText": "port"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anlegen (Schiff)",
+      "targetText": "a acosta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Schiff legt um 10 Uhr ab.",
+      "targetText": "Nava pleacă la ora 10."
+    },
+    {
+      "sourceText": "Wir müssen bald ablegen, sonst verpassen wir die Tide.",
+      "targetText": "Trebuie să plecăm curând, altfel ratăm mareea."
+    },
+    {
+      "sourceText": "Das Schiff legte bei Sonnenaufgang ab.",
+      "targetText": "Nava a plecat la răsăritul soarelui."
+    },
+    {
+      "sourceText": "Bitte ablegen und Kurs setzen!",
+      "targetText": "Vă rog să plecați și să setați cursul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a pleca' klingt ähnlich wie das englische 'to leave' – beide bedeuten 'weggehen'."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'ablegen' wie 'loslegen' – das Schiff legt los, also es startet seine Fahrt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'pleca' hat das 'pl' wie 'plötzlich' – plötzlich verlässt das Schiff den Hafen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, das Schiff 'legt ab' und 'pleacă' – beide Wörter zeigen den Anfang einer Reise."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

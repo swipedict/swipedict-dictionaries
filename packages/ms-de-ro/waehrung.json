@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-waehrung",
+  "parent": "ms-ro-moneda-13b72b59@8cabbcb45ef9a7231970a7d913f44d2f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Währung",
+    "genus": "feminine",
+    "definition": "Ein gesetzliches Zahlungsmittel eines Landes oder einer Wirtschaftsregion, das als Tauschmittel dient.",
+    "pronunciation": "/ˈvɛːʁʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Währung“ stammt vom Verb „währen“ ab, das aus dem althochdeutschen 'wæren' kommt und 'dauern, Bestand haben' bedeutet. Die Bedeutung entwickelte sich im wirtschaftlichen Kontext zu 'Geld, das Bestand hat'.",
+        "targetText": "Substantivul german „Währung” provine din verbul „währen”, care la rândul său vine din germana veche înaltă 'wæren', însemnând 'a dura, a avea continuitate'. Sensul s-a dezvoltat în context economic ca 'monedă cu valoare stabilă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "monedă",
+    "genus": "feminine",
+    "definition": "Mijloc legal de plată al unei țări sau regiuni economice, folosit pentru schimburi comerciale.",
+    "pronunciation": "/moˈnedə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „monedă“ stammt vom lateinischen 'moneta' ab, das ursprünglich 'Münze' bedeutete und auf den Tempel der Juno Moneta in Rom zurückgeht, wo Münzen geprägt wurden.",
+        "targetText": "Cuvântul românesc „monedă” provine din latină, de la 'moneta', care inițial însemna 'monedă' și este legat de templul zeiței Juno Moneta din Roma, unde se băteau monedele."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Banknote",
+      "targetText": "bancnotă"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Münze",
+      "targetText": "monedă metalică"
+    },
+    {
+      "sourceText": "Wechselkurs",
+      "targetText": "curs de schimb"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Währung des Landes ist der Euro.",
+      "targetText": "Moneda țării este euro."
+    },
+    {
+      "sourceText": "Der Wechselkurs der Währung hat sich verändert.",
+      "targetText": "Cursul de schimb al monedei s-a schimbat."
+    },
+    {
+      "sourceText": "Viele Länder haben ihre eigene Währung.",
+      "targetText": "Multe țări au propria lor monedă."
+    },
+    {
+      "sourceText": "Die Währung verliert an Wert bei Inflation.",
+      "targetText": "Moneda își pierde valoarea în timpul inflației."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Währung' kommt von 'währen' (dauern), also etwas, das Bestand hat – Geld soll ja auch stabil sein, genau wie eine Währung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'monedă' erinnert an das englische 'money' – beide stammen vom lateinischen 'moneta' ab, was dir hilft, die Bedeutung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an den Tempel der Juno Moneta in Rom, wo Münzen geprägt wurden – so kannst du dir die Herkunft von 'monedă' als Geld vorstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine 'Moneda' ist wie eine 'Münze' (deutsch) mit einem lateinischen Ursprung – beide Wörter klingen ähnlich und beziehen sich auf Geld."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

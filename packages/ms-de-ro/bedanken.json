@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-bedanken",
+  "parent": "ms-ro-a-multumi-88347e37@c33d937a8160f0dee2135a2129e0421b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bedanken",
+    "definition": "Dank für etwas empfinden oder ausdrücken",
+    "pronunciation": "/bəˈdaŋkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort kommt vom mittelhochdeutschen „bedenken“, was „sich avisiere an jemanden oder für etwas“ bedeutet.",
+        "targetText": "Cuvântul provine din germana mijlocie „bedenken“, care înseamnă „a se gândi la“ sau „a mulțumi cuiva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig in formellen und informellen Kontexte verwendet, um Dankbarkeit auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mulţumi",
+    "definition": "a simți sau a exprima recunoștință pentru ceva",
+    "pronunciation": "/a mulˈt͡sumi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a mulţumi“ stammt vom lateinischen „multum“ ab, was „viel“ bedeutet, und drückt Wertschätzung für etwas Großes oder Wichtiges aus.",
+        "targetText": "Verbul românesc „a mulțumi“ derivă din latină, din „multum“ (mult), exprimând recunoștința pentru ceva considerat valoros."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In Rumänien ist es üblich, auch kleine Geschenke oder Gefälligkeiten mit einem „mulţumesc“ zu würdigen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Dank",
+      "targetText": "mulțumire"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bedanke mich herzlich für Ihre Hilfe.",
+      "targetText": "Îi mulţumesc sincer pentru ajutorul dumneavoastră."
+    },
+    {
+      "sourceText": "Sie bedankt sich bei ihm für das Geschenk.",
+      "targetText": "Ea îi mulţumeşte lui pentru cadou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst viel (multum) zurück, wenn du dich bedankst – das hilft dir, das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „mulţumi“ mit „de mulţi“ (viele) – je mehr du dankst, desto mehr gibst du zurück!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

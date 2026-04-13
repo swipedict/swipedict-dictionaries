@@ -1,0 +1,159 @@
+{
+  "id": "ms-de-ro-art",
+  "parent": "ms-ro-tip-4883b84c@1cade02a72f19ef10ca1a37ff7a5ac18",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "die Art",
+    "genus": "feminine",
+    "definition": "Eine Sorte, ein Typ oder eine bestimmte Weise.",
+    "pronunciation": "/aːɐ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Art“ stammt vom mittelhochdeutschen „art“ (Beschaffenheit, Eigenschaft) und ist verwandt mit dem lateinischen „ars“ (Kunst, Fähigkeit), ursprünglich im Sinne von „etwas Zusammengesetztes“.",
+        "targetText": "Cuvântul „Art“ provine din germana mijlocie „art“ (calitate, proprietate) și este înrudit cu latinescul „ars“ (artă, abilitate), inițial cu sensul de „ceva compus“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feminines Nomen. Plural: die Arten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tip",
+    "genus": "neuter",
+    "definition": "O categorie de lucruri sau persoane cu caracteristici comune; fel, soi.",
+    "pronunciation": "/tip/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „tip“ ist ein Neologismus aus dem französischen „type“, das vom lateinischen „typus“ stammt, welches wiederum auf das altgriechische „τύπος“ (túpos) zurückgeht.",
+        "targetText": "Cuvântul românesc „tip“ este un neologism din francezul „type“, care provine din latinescul „typus“, la rândul său derivat din grecescul vechi „τύπος“ (túpos)."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Substantiv neutru. Plural: tipuri."
+  },
+  "senses": [
+    {
+      "gloss": "Art und Weise",
+      "explanation": {
+        "sourceText": "Wird verwendet, um die 'Art und Weise' oder den 'Stil' zu beschreiben, wie etwas getan wird.",
+        "targetText": "Se folosește pentru a descrie „modul“ sau „stilul“ în care ceva este făcut."
+      },
+      "examples": [
+        {
+          "sourceText": "Seine Art zu denken ist bewundernswert.",
+          "targetText": "Felul său de a gândi este admirabil."
+        }
+      ]
+    },
+    {
+      "gloss": "Spezies",
+      "explanation": {
+        "sourceText": "Die biologische Bedeutung, die sich auf Tier- oder Pflanzenarten bezieht.",
+        "targetText": "Sens biologic, referindu-se la specii de animale sau plante."
+      },
+      "examples": [
+        {
+          "sourceText": "Diese Art ist vom Aussterben bedroht.",
+          "targetText": "Această specie este pe cale de dispariție."
+        }
+      ]
+    },
+    {
+      "gloss": "Typ, Sorte",
+      "explanation": {
+        "sourceText": "Die häufigste Übersetzung für 'Art' im Sinne von 'Kategorie' oder 'Sorte'.",
+        "targetText": "Cea mai frecventă traducere pentru „Art“ în sensul de „categorie“ sau „sortă“."
+      },
+      "examples": [
+        {
+          "sourceText": "Welche Art von Musik magst du?",
+          "targetText": "Ce tip de muzică îți place?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kategorie",
+      "targetText": "categorie"
+    },
+    {
+      "sourceText": "Sorte",
+      "targetText": "soi"
+    },
+    {
+      "sourceText": "Typ",
+      "targetText": "tip"
+    },
+    {
+      "sourceText": "Weise",
+      "targetText": "fel / mod"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Einzelfall",
+      "targetText": "caz individual"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist eine besondere Art von Blume.",
+      "targetText": "Acesta este un tip special de floare."
+    },
+    {
+      "sourceText": "Ich mag ihre freundliche Art.",
+      "targetText": "Îmi place felul ei prietenos."
+    },
+    {
+      "sourceText": "Es gibt viele Arten von Insekten in diesem Wald.",
+      "targetText": "Există multe specii de insecte în această pădure."
+    },
+    {
+      "sourceText": "Auf diese Art und Weise können wir das Problem lösen.",
+      "targetText": "În acest fel putem rezolva problema."
+    },
+    {
+      "sourceText": "Jede Art von Hilfe ist willkommen.",
+      "targetText": "Orice tip de ajutor este binevenit."
+    },
+    {
+      "sourceText": "Die Artenvielfalt in den Ozeanen ist riesig.",
+      "targetText": "Biodiversitatea speciilor din oceane este uriașă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Achtung, falscher Freund: Deutsch „die Art“ (Typ, Sorte) ist nicht dasselbe wie Rumänisch „artă“ (Kunst)!"
+    },
+    {
+      "lang": "de",
+      "text": "Der Plural „die Arten“ wird oft mit „specii“ (für Biologie) oder „tipuri“ / „feluri“ (für Kategorien) übersetzt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die drei Hauptübersetzungen je nach Kontext: „tip“ (Typ/Kategorie), „fel“ (Art und Weise) und „specie“ (biologische Art)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

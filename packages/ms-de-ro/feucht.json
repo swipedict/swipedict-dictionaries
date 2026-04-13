@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-feucht",
+  "parent": "ms-ro-umed-6fffed62@f54d46fdfd559c476e4f752a80690485",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "feucht",
+    "definition": "Mit einer geringen Menge Wasser oder Flüssigkeit bedeckt; leicht nass.",
+    "pronunciation": "/fɔʏ̯çt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „feucht“ stammt vom althochdeutschen 'fiucht' ab, das mit dem mittelhochdeutschen 'vuht' verwandt ist und auf die indogermanische Wurzel *pug- (feucht, nass) zurückgeht.",
+        "targetText": "Adjectivul german „feucht” provine din germana veche înaltă 'fiucht', înrudit cu germana mijlocie 'vuht', și derivă din rădăcina indo-europeană *pug- care înseamnă umed sau ud."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "umed",
+    "definition": "Acoperit cu o cantitate mică de apă sau lichid; ușor umed.",
+    "pronunciation": "/uˈmed/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „umed“ stammt vom lateinischen Wort 'humidus' ab, das 'feucht' oder 'nass' bedeutet und auf die indogermanische Wurzel *dhghem- (Erde, feucht) zurückgeht.",
+        "targetText": "Adjectivul românesc „umed” provine din cuvântul latin 'humidus', care înseamnă 'umed' sau 'îmbibat cu apă', derivat din rădăcina indo-europeană *dhghem- ce înseamnă pământ sau umed."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "feuchtigkeit",
+      "targetText": "umiditate"
+    },
+    {
+      "sourceText": "nass",
+      "targetText": "ud"
+    },
+    {
+      "sourceText": "regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "trocken",
+      "targetText": "uscat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocken",
+      "targetText": "uscat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Boden ist nach dem Regen noch feucht.",
+      "targetText": "Solul este încă umed după ploaie."
+    },
+    {
+      "sourceText": "Das feuchte Klima begünstigt das Wachstum von Pflanzen.",
+      "targetText": "Clima umedă favorizează creșterea plantelor."
+    },
+    {
+      "sourceText": "Die feuchte Luft fühlt sich schwer an.",
+      "targetText": "Aerul umed se simte greu."
+    },
+    {
+      "sourceText": "Nach dem Schwimmen war mein Handtuch noch feucht.",
+      "targetText": "După înot, prosopul meu era încă umed."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „umed“ klingt wie „u-med“, stell dir vor, du bist 'unter Medizin', die dich feucht hält."
+    },
+    {
+      "lang": "de",
+      "text": "Feucht und umed haben beide ein weiches 'u' am Anfang, das an Wasser und Feuchtigkeit erinnert."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein nasser Schwamm ist 'umed' – das hilft dir, das Wort mit Feuchtigkeit zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „umed“ mit dem lateinischen Ursprung 'humidus' – beide beginnen mit 'hum', was an 'Humus' (feuchte Erde) erinnert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

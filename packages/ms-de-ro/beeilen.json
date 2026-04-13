@@ -1,0 +1,151 @@
+{
+  "id": "ms-de-ro-beeilen",
+  "parent": "ms-ro-a-se-grabi-2864d856@9742042d950cba1b0082df07375fe269",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beeilen",
+    "definition": "sich schnell bewegen oder etwas schnell tun",
+    "pronunciation": "/bəˈaɪ̯lən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „bile“, was „eilig“ oder „schnell“ bedeutet. Gebildet mit dem Präfix „be-“.",
+        "targetText": "Provine din germana mijlocie „bile“, care înseamnă „grabă“ sau „rapid“, format cu prefixul „be-“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Bedeutung in Alltagssituationen, häufig in Verbindung mit Terminvereinbarungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se grăbi",
+    "definition": "a se mișca repede sau a face ceva repede",
+    "pronunciation": "/a se ɡrəˈbi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a se grăbi“ stammt vom lateinischen „grabere“ ab, was „schnell sein“ bedeutet. Es ist reflexiv und drückt Eile aus.",
+        "targetText": "Expresia românească „a se grăbi“ derivă din latină, exprimând ideea de a face ceva rapid, fiind un verb reflexiv."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges reflexives Verb. Oft in alltäglichen Kontexten verwendet, um Eile oder Dringlichkeit auszudrücken."
+  },
+  "senses": [
+    {
+      "gloss": "sich beeilen",
+      "explanation": {
+        "sourceText": "'A se grăbi' wird verwendet, um ein Gefühl der Dringlichkeit auszudrücken.",
+        "targetText": "'A se grăbi' exprimă o stare de urgență sau grabă."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen uns beeilen.",
+          "targetText": "Trebuie să ne grăbim."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Eile",
+      "targetText": "grabă"
+    },
+    {
+      "sourceText": "Füße",
+      "targetText": "picioare"
+    },
+    {
+      "sourceText": "Hast",
+      "targetText": "viteză"
+    },
+    {
+      "sourceText": "schnell",
+      "targetText": "repede"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verzögern",
+      "targetText": "a întârzia"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich beeile mich, um pünktlich zu sein.",
+      "targetText": "Mă grăbesc să fiu la timp."
+    },
+    {
+      "sourceText": "Beeilst du dich?",
+      "targetText": "Te grăbești?"
+    },
+    {
+      "sourceText": "Er beeilt sich ständig.",
+      "targetText": "El se grăbește constant."
+    },
+    {
+      "sourceText": "Wir beeilen uns, die Aufgaben zu erledigen.",
+      "targetText": "Ne grăbim să terminăm sarcinile."
+    },
+    {
+      "sourceText": "Beeilt ihr euch mit der Arbeit?",
+      "targetText": "Vă grăbiți cu munca?"
+    },
+    {
+      "sourceText": "Sie beeilen sich, um den Zug zu erreichen.",
+      "targetText": "Ei se grăbesc să prindă trenul."
+    },
+    {
+      "sourceText": "Ich habe mich beeilt, um nicht zu spät zu kommen.",
+      "targetText": "M-am grăbit să nu întârzii."
+    },
+    {
+      "sourceText": "Er beeilte sich immer, wenn wir gehen mussten.",
+      "targetText": "El se grăbea mereu când trebuia să plecăm."
+    },
+    {
+      "sourceText": "Ich werde mich beeilen, um die Deadline einzuhalten.",
+      "targetText": "Mă voi grăbi să respect termenul limită."
+    },
+    {
+      "sourceText": "Ich würde mich beeilen, wenn ich wüsste, dass ihr wartet.",
+      "targetText": "M-aș grăbi dacă aș ști că așteptați."
+    },
+    {
+      "sourceText": "Beeile dich!",
+      "targetText": "Grăbește-te!"
+    },
+    {
+      "sourceText": "Die sich beeilenden Personen waren nervös.",
+      "targetText": "Persoanele care se grăbesc erau nervoase."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„grăbi“ klingt wie „grab“ – stell dir vor, du greifst schnell zu, um dich zu beeilen."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Reflexivität: „Mă grăbesc“ bedeutet „ich beeile mich“ – das ist wichtig für den korrekten Gebrauch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

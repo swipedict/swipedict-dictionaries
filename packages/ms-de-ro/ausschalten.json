@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-ausschalten",
+  "parent": "ms-ro-a-opri-ad781fd5@2f7999628fd177523fa872dbf3af7ce9",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausschalten",
+    "definition": "etwas in einen Zustand versetzen, in dem es nicht mehr funktioniert oder aktiv ist",
+    "pronunciation": "/ˈaʊsˌʃaltən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausschalten“ setzt sich aus „aus“ und „schalten“ zusammen. „Schalten“ stammt vom mittelhochdeutschen „schalten“ und bedeutet „steuern“ oder „umschalten“.",
+        "targetText": "Verbul german „ausschalten“ provine din „aus“ + „schalten“ (a comuta), indicând oprirea unui aparat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig im Kontext von elektronischen Geräten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a opri",
+    "definition": "a face ca ceva să nu mai funcționeze sau să nu mai fie activ",
+    "pronunciation": "/a oˈpri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a opri“ stammt vom slawischen „oprìti“, was „anhalten“ oder „stoppen“ bedeutet. Es wird verwendet, um das Ausschalten oder Stoppen eines Geräts oder Prozesses zu beschreiben.",
+        "targetText": "Verbul român „a opri“ provine din slavonă „oprìti“, însemnând a opri sau a întrerupe funcționarea."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-i). In technischen Kontexten oft verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "a opri (Gerät ausschalten)",
+      "explanation": {
+        "sourceText": "Ein Gerät in einen inaktiven Zustand versetzen.",
+        "targetText": "A face un aparat să nu mai funcționeze."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schalte das Licht aus.",
+          "targetText": "Eu opresc lumina."
+        },
+        {
+          "sourceText": "Schaltest du den Fernseher aus?",
+          "targetText": "Oprești televizorul?"
+        }
+      ]
+    },
+    {
+      "gloss": "a opri (Prozess stoppen)",
+      "explanation": {
+        "sourceText": "Einen Vorgang oder Prozess anhalten.",
+        "targetText": "A întrerupe un proces."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir schalten jetzt die Anlage aus.",
+          "targetText": "Noi oprim acum sistemul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fernbedienung",
+      "targetText": "telecomandă"
+    },
+    {
+      "sourceText": "Gerät",
+      "targetText": "aparat"
+    },
+    {
+      "sourceText": "Licht",
+      "targetText": "lumină"
+    },
+    {
+      "sourceText": "Strom",
+      "targetText": "curent"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einschalten",
+      "targetText": "a porni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schalte das Licht aus.",
+      "targetText": "Eu opresc lumina."
+    },
+    {
+      "sourceText": "Schaltest du den Fernseher aus?",
+      "targetText": "Oprești televizorul?"
+    },
+    {
+      "sourceText": "Er schaltet den Computer aus.",
+      "targetText": "El oprește calculatorul."
+    },
+    {
+      "sourceText": "Wir schalten jetzt die Anlage aus.",
+      "targetText": "Noi oprim acum sistemul."
+    },
+    {
+      "sourceText": "Schaltet ihr die Geräte aus?",
+      "targetText": "Opriți aparatele?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schalten die Lichter aus.",
+      "targetText": "Ei opresc luminile."
+    },
+    {
+      "sourceText": "Ich habe den Computer ausgestellt.",
+      "targetText": "Am oprit calculatorul."
+    },
+    {
+      "sourceText": "Er schaltete das Radio jeden Abend aus.",
+      "targetText": "El oprea radioul în fiecare seară."
+    },
+    {
+      "sourceText": "Ich werde die Heizung ausschalten.",
+      "targetText": "Voi opri încălzirea."
+    },
+    {
+      "sourceText": "Ich würde das Licht ausschalten.",
+      "targetText": "Aș opri lumina."
+    },
+    {
+      "sourceText": "Schalte das Gerät aus!",
+      "targetText": "Oprește aparatul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A opri“ klingt wie „stoppen“ – stelle dir vor, wie du den Stecker ziehst und das Gerät ausschaltest."
+    },
+    {
+      "lang": "de",
+      "text": "„A opri“ wird oft bei Geräten benutzt – genau wie „ausschalten“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Form „opresc“ (ich schalte aus) als Verbindung zu „ich schalte“ im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

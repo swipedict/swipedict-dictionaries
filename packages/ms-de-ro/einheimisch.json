@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-einheimisch",
+  "parent": "ms-ro-autohton-a9e70bdc@c90567c5cb15573b62661867b8324e65",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einheimisch",
+    "definition": "Bezeichnet etwas oder jemanden, der aus dem betreffenden Land oder der Region stammt oder dort verwurzelt ist.",
+    "pronunciation": "/ˈaɪ̯nhaɪ̯mɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „einheimisch“ setzt sich aus 'ein' und 'Heim' zusammen, wobei 'Heim' auf das althochdeutsche 'heim' zurückgeht, das 'Haus' oder 'Heimat' bedeutet. Es bezeichnet also jemanden, der im eigenen Land oder der eigenen Heimat lebt.",
+        "targetText": "Cuvântul german „einheimisch“ este compus din 'ein' și 'Heim', unde 'Heim' provine din germana veche înaltă 'heim', însemnând 'casă' sau 'patrie'. Termenul desemnează pe cineva care trăiește în propria țară sau regiune."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autohton",
+    "definition": "Care provine din țara sau regiunea respectivă, nativ, originar.",
+    "pronunciation": "/aw.toˈhton/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „autohton“ stammt vom griechischen Wort 'autochthōn' ab, das sich aus 'autos' (selbst) und 'chthōn' (Erde) zusammensetzt und 'einheimisch' oder 'ursprünglich' bedeutet.",
+        "targetText": "Adjectivul românesc „autohton” provine din cuvântul grecesc 'autochthōn', format din 'autos' (sine) și 'chthōn' (pământ), însemnând 'indigen' sau 'originar'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Adjektiv, häufig in formellem und neutralem Kontext verwendet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heimat",
+      "targetText": "patrie"
+    },
+    {
+      "sourceText": "indigen",
+      "targetText": "indigen"
+    },
+    {
+      "sourceText": "regional",
+      "targetText": "regional"
+    },
+    {
+      "sourceText": "Ursprung",
+      "targetText": "origine"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausländisch",
+      "targetText": "extern"
+    },
+    {
+      "sourceText": "fremd",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die einheimischen Pflanzen sind an das Klima angepasst.",
+      "targetText": "Plantele autohtone sunt adaptate la climă."
+    },
+    {
+      "sourceText": "Er bevorzugt einheimische Produkte aus der Region.",
+      "targetText": "El preferă produsele autohtone din regiune."
+    },
+    {
+      "sourceText": "Viele einheimische Völker bewahren ihre Traditionen.",
+      "targetText": "Multe popoare autohtone își păstrează tradițiile."
+    },
+    {
+      "sourceText": "Das Festival feiert die einheimische Kultur.",
+      "targetText": "Festivalul sărbătorește cultura autohtonă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'einheimisch' enthält 'Heim', was an 'Heimat' erinnert. Im Rumänischen hilft dir 'autohton' mit dem griechischen Ursprung, das Konzept der Herkunft zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'autohton' beginnt mit 'auto-', was an 'automatisch' erinnert – etwas, das von selbst, also ursprünglich und einheimisch ist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'autohton' klingt wie 'Auto' + 'Ton'. Stell dir vor, ein Auto fährt auf dem Tonboden der Heimat – so bleibst du bei 'einheimisch' und 'autohton'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, 'autohton' bedeutet 'selbst auf dem Boden' (auto = selbst, chthon = Erde), also jemand, der von der Erde selbst kommt – einheimisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

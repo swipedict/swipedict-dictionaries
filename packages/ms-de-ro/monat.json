@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-monat",
+  "parent": "ms-ro-luna-60f92a8f@fc007dd3a316b6941703ba6238d0e4ed",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Monat",
+    "genus": "masculine",
+    "definition": "Eine der zwölf Zeitabschnitte eines Jahres, basierend auf dem Mondzyklus.",
+    "pronunciation": "/ˈmoːnat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Monat' stammt vom althochdeutschen 'manod' ab, das auf das germanische Wort für 'Mond' zurückgeht, da die Monate ursprünglich nach Mondzyklen bemessen wurden.",
+        "targetText": "Cuvântul german „Monat” provine din germana veche înaltă 'manod', care derivă din cuvântul germanic pentru 'lună', deoarece lunile erau inițial măsurate după ciclurile lunare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lună",
+    "genus": "feminine",
+    "definition": "Una dintre cele douăsprezece perioade ale anului, bazată pe ciclul lunar.",
+    "pronunciation": "/ˈlu.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'lună' stammt direkt vom lateinischen 'luna' ab, das 'Mond' bedeutet und die Zeitperiode bezeichnet.",
+        "targetText": "Cuvântul românesc „lună” provine direct din latinul 'luna', care înseamnă 'lună' și desemnează perioada de timp."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Jahr",
+      "targetText": "an"
+    },
+    {
+      "sourceText": "Kalender",
+      "targetText": "calendar"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "Woche",
+      "targetText": "săptămână"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ein Monat hat ungefähr 30 Tage.",
+      "targetText": "O lună are aproximativ 30 de zile."
+    },
+    {
+      "sourceText": "Der Januar ist der erste Monat des Jahres.",
+      "targetText": "Ianuarie este prima lună a anului."
+    },
+    {
+      "sourceText": "Im Monat Mai blühen viele Blumen.",
+      "targetText": "În luna mai înfloresc multe flori."
+    },
+    {
+      "sourceText": "Ich zahle die Miete jeden Monat.",
+      "targetText": "Plătesc chiria în fiecare lună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Monat' und das rumänische 'lună' sind beide eng mit dem Mondzyklus verbunden – das erleichtert das Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'lună' bedeutet sowohl 'Mond' als auch 'Monat' – genau wie die ursprüngliche Bedeutung im Deutschen mit 'Monat' und 'Mond'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'lună' direkt vom lateinischen 'luna' kommt, was dir hilft, verwandte Wörter in romanischen Sprachen zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jeder Monat ist eine kleine 'Luna' (Mond), die den Himmel im Laufe des Jahres verändert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

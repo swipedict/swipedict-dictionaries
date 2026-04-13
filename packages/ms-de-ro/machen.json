@@ -1,0 +1,181 @@
+{
+  "id": "ms-de-ro-machen",
+  "parent": "ms-ro-a-face-97fbf623@ec1b66dd966450835b3ca0089b36cb08",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "machen",
+    "definition": "eine Handlung ausführen oder etwas herstellen",
+    "pronunciation": "/ˈmaχən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Machen“ stammt vom mittelhochdeutschen „machen“, abgeleitet vom althochdeutschen „mahan“, und bedeutet „handeln“ oder „schaffen“.",
+        "targetText": "„Machen“ provine din germana mijlocie „machen“, derivat din germana veche „mahan“, însemnând „a acționa“ sau „a crea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb, das in vielen Kontexten verwendet wird, die mit Erzeugung, Herstellung oder Ausführung zu tun haben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a face",
+    "definition": "a efectua o acțiune sau a produce ceva",
+    "pronunciation": "/a ˈfa.tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A face“ stammt vom lateinischen „facere“, was „tun“ oder „machen“ bedeutet, und ist ein grundlegendes Verb im Rumänischen.",
+        "targetText": "„A face“ provine din latină, din „facere“, care înseamnă „a face“ sau „a realiza“, fiind un verb fundamental în limba română."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Ein unregelmäßiges Verb mit vielen Anwendungen im Rumänischen, von einfachen Handlungen bis zu komplexen Bedeutungen."
+  },
+  "senses": [
+    {
+      "gloss": "eine Handlung ausführen",
+      "explanation": {
+        "sourceText": "Verwendung für das Ausführen einer Tätigkeit oder eines Auftrages.",
+        "targetText": "Folosit pentru a efectua o activitate sau o sarcină."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache meine Aufgaben.",
+          "targetText": "Fac sarcinile mele."
+        }
+      ]
+    },
+    {
+      "gloss": "etwas herstellen",
+      "explanation": {
+        "sourceText": "Für die Herstellung oder Produktion von Dingen.",
+        "targetText": "Pentru a produce sau crea lucruri."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache einen Tisch.",
+          "targetText": "Eu fac o masă."
+        }
+      ]
+    },
+    {
+      "gloss": "sich um etwas kümmern",
+      "explanation": {
+        "sourceText": "Im Sinne von etwas erledigen oder managen.",
+        "targetText": "În sensul de a gestiona sau a rezolva ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache meine Finanzen.",
+          "targetText": "Îmi fac finanțele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Lernen",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "Spiel",
+      "targetText": "joc"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vermeiden",
+      "targetText": "a evita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich mache das Essen.",
+      "targetText": "Eu fac cina."
+    },
+    {
+      "sourceText": "Machst du deine Hausaufgaben?",
+      "targetText": "Faci temele tale?"
+    },
+    {
+      "sourceText": "Er macht ein Lied.",
+      "targetText": "El face o melodie."
+    },
+    {
+      "sourceText": "Wir machen einen Ausflug.",
+      "targetText": "Noi facem o excursie."
+    },
+    {
+      "sourceText": "Macht ihr das nächste Projekt?",
+      "targetText": "Faceți următorul proiect?"
+    },
+    {
+      "sourceText": "Sie machen ihre Gärten schön.",
+      "targetText": "Ei fac grădinile lor frumoase."
+    },
+    {
+      "sourceText": "Ich habe ein Bild gemacht.",
+      "targetText": "Am făcut o poză."
+    },
+    {
+      "sourceText": "Sie machten das gleiche jeden Tag.",
+      "targetText": "Ei făceau la fel în fiecare zi."
+    },
+    {
+      "sourceText": "Ich werde das Problem lösen.",
+      "targetText": "Voi rezolva problema."
+    },
+    {
+      "sourceText": "Ich würde es gerne machen, wenn ich Zeit hätte.",
+      "targetText": "Aș vrea să o fac dacă aș avea timp."
+    },
+    {
+      "sourceText": "Mach deinen Job!",
+      "targetText": "Fă-ți datoria!"
+    },
+    {
+      "sourceText": "Das Gemachte ist gut.",
+      "targetText": "Ceea ce s-a făcut este bun."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Machen“ und „a face“ sind Kognaten – beide stammen vom lateinischen „facere“ und bedeuten „tun“ oder „machen“."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a face“ oft ohne direktes Objekt steht, z.B. „Fac“ (Ich mache)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a face“ in vielen rumänischen Ausdrücken verwendet wird – das macht es sehr vielseitig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

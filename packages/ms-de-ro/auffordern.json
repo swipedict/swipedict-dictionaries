@@ -1,0 +1,141 @@
+{
+  "id": "ms-de-ro-auffordern",
+  "parent": "ms-ro-a-solicita-f418b087@04a12f7491e1c6f28e8b9fc6767c8a14",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auffordern",
+    "definition": "jemandem die Anweisung geben, etwas zu tun",
+    "pronunciation": "/ˈaʊ̯fˌfɔʁdɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „auffordern“ setzt sich aus „auf“ und „fordern“ zusammen und bedeutet, jemanden zu einer Handlung aufzufordern oder zu bitten.",
+        "targetText": "Verbul „auffordern“ este compus din „auf“ și „fordern“ și înseamnă a cere sau a solicita cuiva să facă ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in der Form „jemanden auffordern“ verwendet, um jemanden zu einer Handlung zu bewegen oder um eine Bitte zu äußern."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a solicita",
+    "definition": "a solicita cuiva să facă ceva",
+    "pronunciation": "/a sɔliˈcita/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a solicita“ stammt vom lateinischen „sollicitare“, was „auffordern“ oder „bitten“ bedeutet.",
+        "targetText": "Românescul „a solicita“ derivă din latină, din „sollicitare“, însemnând „a cere“ sau „a solicita“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um formelle Aufforderungen oder Bitten auszudrücken."
+  },
+  "senses": [
+    {
+      "gloss": "Anweisung",
+      "explanation": {
+        "sourceText": "Um einer Person Anweisungen zu geben.",
+        "targetText": "Pentru a da instrucțiuni unei persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe dir eine Anweisung.",
+          "targetText": "Îți dau o instrucțiune."
+        }
+      ]
+    },
+    {
+      "gloss": "Aufruf",
+      "explanation": {
+        "sourceText": "Für einen formellen oder offiziellen Aufruf.",
+        "targetText": "Pentru un apel formal sau oficial."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Aufruf zur Versammlung wurde veröffentlicht.",
+          "targetText": "Apelul pentru întâlnire a fost publicat."
+        }
+      ]
+    },
+    {
+      "gloss": "Einladung",
+      "explanation": {
+        "sourceText": "Für das Einladen einer Person zu einem Ereignis.",
+        "targetText": "Pentru invitarea unei persoane la un eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich sende dir eine Einladung.",
+          "targetText": "Îți trimit o invitație."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anweisung",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "Aufruf",
+      "targetText": "apel"
+    },
+    {
+      "sourceText": "Bitte",
+      "targetText": "rugăminte"
+    },
+    {
+      "sourceText": "Einladung",
+      "targetText": "invitație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verhindern",
+      "targetText": "interzice"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fordere dich auf, ehrlich zu sein.",
+      "targetText": "Te solicit să fii sincer."
+    },
+    {
+      "sourceText": "Ich habe ihn aufgefordert, das Problem zu lösen.",
+      "targetText": "L-am solicitat să rezolve problema."
+    },
+    {
+      "sourceText": "Ich werde dich morgen auffordern, die Präsentation zu halten.",
+      "targetText": "Te voi solicita mâine să susții prezentarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort kann auch in formellen Kontexten verwendet werden – denke an „Solicitud oficial“, wenn du an „solicita“ denkst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand ruft dir zu: „Ich fordere dich auf!“, um die Bedeutung von „auffordern“ zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

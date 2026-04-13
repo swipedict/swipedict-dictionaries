@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-auspacken",
+  "parent": "ms-ro-a-despacheta-92a3a51f@77f199bea2cb85014ec5f73bba00e1c1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auspacken",
+    "definition": "Etwas aus einem Behälter oder einer Verpackung herausnehmen.",
+    "pronunciation": "/ˈaʊ̯sˌpakn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „auspacken“ besteht aus dem Präfix 'aus-' und dem Verb 'packen', das vom mittelhochdeutschen 'packen' stammt und 'greifen, fassen' bedeutet.",
+        "targetText": "Verbul german „auspacken” este compus din prefixul 'aus-' și verbul 'packen', care provine din germana mijlocie 'packen' și înseamnă 'a apuca, a prinde'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a despacheta",
+    "definition": "A scoate ceva dintr-un ambalaj sau container.",
+    "pronunciation": "/a despaˈketa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a despacheta“ stammt vom französischen 'dépaqueter' ab, das aus dem Präfix 'dé-' (weg, heraus) und 'paquet' (Paket) gebildet ist.",
+        "targetText": "Verbul românesc „a despacheta” provine din franceza 'dépaqueter', format din prefixul 'dé-' (dez-) și 'paquet' (pachet)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "auspacken (Nomen)",
+      "targetText": "despachetare"
+    },
+    {
+      "sourceText": "öffnen",
+      "targetText": "a deschide"
+    },
+    {
+      "sourceText": "packen",
+      "targetText": "a împacheta"
+    },
+    {
+      "sourceText": "verpacken",
+      "targetText": "a ambala"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einpacken",
+      "targetText": "a împacheta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich packe meinen Koffer aus.",
+      "targetText": "Eu îmi despachetez valiza."
+    },
+    {
+      "sourceText": "Sie hat die Geschenke ausgepackt.",
+      "targetText": "Ea a despachetat cadourile."
+    },
+    {
+      "sourceText": "Kannst du bitte die Pakete auspacken?",
+      "targetText": "Poți, te rog, să despachetezi pachetele?"
+    },
+    {
+      "sourceText": "Wir packen die Lebensmittel aus dem Auto aus.",
+      "targetText": "Despachetăm alimentele din mașină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische 'dépaqueter' hilft dir, die Herkunft von 'despacheta' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'despacheta' klingt wie 'des-' (weg) + 'pachet' (Paket), also etwas aus dem Paket herausnehmen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'packst' etwas aus dem Paket heraus – das hilft dir, 'a despacheta' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'auspacken' mit 'packen' und dem Präfix 'aus-', das 'heraus' bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

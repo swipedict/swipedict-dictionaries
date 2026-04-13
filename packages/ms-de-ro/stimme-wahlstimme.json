@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-stimme-wahlstimme",
+  "parent": "ms-ro-vot-1a300fbd@471a3f01012caa50d8e0bd06f07cfad5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stimme",
+    "genus": "feminine",
+    "definition": "Das Recht oder die Möglichkeit, bei einer Wahl oder Abstimmung seine Meinung durch eine Wahlstimme auszudrücken.",
+    "pronunciation": "/ˈʃtɪmə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Stimme“ stammt vom althochdeutschen 'stimma' ab, das mit dem gotischen 'stimmô' verwandt ist und ursprünglich 'Ton, Laut' bedeutete. Im übertragenen Sinn entwickelte sich die Bedeutung 'Wahlrecht' oder 'Abstimmungsrecht'.",
+        "targetText": "Cuvântul german „Stimme” provine din vechiul german înalt 'stimma', înrudit cu goticul 'stimmô', care însemna inițial 'sunet, glas'. În sens figurat, a evoluat spre înțelesul de 'drept de vot' sau 'drept de exprimare a opiniei prin vot'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vot",
+    "genus": "neuter",
+    "definition": "Dreptul oder die Handlung, bei einer Wahl oder Abstimmung seine Meinung durch eine Wahlstimme auszudrücken.",
+    "pronunciation": "/vot/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vot“ stammt direkt vom lateinischen Wort 'votum' ab, das ursprünglich 'Gelübde, Wunsch' bedeutete und später die Bedeutung 'Stimme bei einer Wahl' annahm.",
+        "targetText": "Cuvântul românesc „vot” provine direct din latinescul 'votum', care inițial însemna 'vot, jurământ, dorință' și ulterior a căpătat sensul de 'voce exprimată la o alegere'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abstimmung",
+      "targetText": "votare"
+    },
+    {
+      "sourceText": "Kandidat",
+      "targetText": "candidat"
+    },
+    {
+      "sourceText": "Stimmzettel",
+      "targetText": "buletin de vot"
+    },
+    {
+      "sourceText": "Wahl",
+      "targetText": "alegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stimmlosigkeit",
+      "targetText": "absență de vot"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jeder Bürger hat das Recht, seine Stimme abzugeben.",
+      "targetText": "Fiecare cetățean are dreptul să-și dea votul."
+    },
+    {
+      "sourceText": "Die Wahlbeteiligung war sehr hoch, viele Menschen gaben ihre Stimme ab.",
+      "targetText": "Participarea la vot a fost foarte mare, mulți oameni și-au exprimat votul."
+    },
+    {
+      "sourceText": "Er erhielt die meisten Stimmen bei der Wahl.",
+      "targetText": "El a primit cele mai multe voturi la alegeri."
+    },
+    {
+      "sourceText": "Die Stimme zählt bei demokratischen Prozessen.",
+      "targetText": "Votul contează în procesele democratice."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'vot' klingt ähnlich wie das deutsche 'Votum', das du vielleicht aus dem Lateinischen kennst – beide bedeuten 'Stimme' oder 'Wahl'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vot' ist kurz und prägnant, genau wie eine Stimme bei einer Wahl – einfach und direkt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gibst bei einer Wahl deinen 'VOT' ab – das klingt wie ein kurzer, klarer Ruf, der deine Stimme symbolisiert."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'vot' mit dem lateinischen Ursprung 'votum', das auch 'Gelübde' bedeutet – so kannst du dir merken, dass eine Stimme auch ein Versprechen oder eine Verpflichtung sein kann."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

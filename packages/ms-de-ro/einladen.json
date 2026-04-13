@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-einladen",
+  "parent": "ms-ro-a-invita-c79333bd@1548ad358e92f475f02d07e21d219361",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einladen",
+    "definition": "jemanden zu einer Veranstaltung bitten oder auffordern",
+    "pronunciation": "/ˈaɪnˌlaːdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Ein zusammengesetztes Wort aus dem Präfix „ein-“, was „hinein“ bedeutet, und „laden“, was „fordern“ oder „einladen“ bedeutet.",
+        "targetText": "Das deutsche Verb „einladen“ setzt sich aus „ein-“ (hinein) und „laden“ (bitten, auffordern) zusammen und bedeutet, jemanden zu einer Veranstaltung einzuladen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig im Sinne von gesellschaftlichen Zusammenkünften verwendet, um Personen zu Veranstaltungen einzuladen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a invita",
+    "definition": "a cere sau a solicita cuiva să participe la un eveniment",
+    "pronunciation": "/a in.viˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a invita“ stammt vom lateinischen „invitaré“, was „einladen“ oder „einladen um zu kommen“ bedeutet. Es hat sich die Bedeutung des Einladens in sozialen Kontexten erhalten.",
+        "targetText": "Verbul românesc „a invita“ provine din latină, de la „invitaré“, care înseamnă „a chema“ sau „a invita“. Este folosit pentru a solicita prezența cuiva la un eveniment."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„A invita“ wird oft in sowohl formellen als auch informellen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Einladung",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: Einladung zu einem Ereignis.",
+        "targetText": "Ca în germană: invitație la un eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Einladung ist formell gestaltet.",
+          "targetText": "Invitația este formală."
+        }
+      ]
+    },
+    {
+      "gloss": "invitare",
+      "explanation": {
+        "sourceText": "Synonym für das Einladen.",
+        "targetText": "Sinonim pentru a invita."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Einladen ist wichtig für gute Beziehungen.",
+          "targetText": "Invitarea este importantă pentru relații bune."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Einladung",
+      "targetText": "invitație"
+    },
+    {
+      "sourceText": "Feier",
+      "targetText": "petrecere"
+    },
+    {
+      "sourceText": "Gast",
+      "targetText": "oaspeți"
+    },
+    {
+      "sourceText": "Veranstaltung",
+      "targetText": "eveniment"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausladen",
+      "targetText": "a expulza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lade dich zur Feier ein.",
+      "targetText": "Te invit la petrecere."
+    },
+    {
+      "sourceText": "Lädst du deine Freunde ein?",
+      "targetText": "Îi inviți pe prietenii tăi?"
+    },
+    {
+      "sourceText": "Sie lädt ihre Nachbarn zur Mottoparty ein.",
+      "targetText": "Ea își invită vecinii la petrecerea tematică."
+    },
+    {
+      "sourceText": "Wir laden alle Bekannten ein.",
+      "targetText": "Noi invităm toți cunoscuții."
+    },
+    {
+      "sourceText": "Ladet ihr die Gäste ein?",
+      "targetText": "Invitați oaspeții?"
+    },
+    {
+      "sourceText": "Sie laden die Kollegen zur Besprechung ein.",
+      "targetText": "Ei invită colegii la întâlnire."
+    },
+    {
+      "sourceText": "Ich habe dich zur Hochzeit eingeladen.",
+      "targetText": "Te-am invitat la nuntă."
+    },
+    {
+      "sourceText": "Ich werde meine Freunde zur Party einladen.",
+      "targetText": "Voi invita prietenii la petrecere."
+    },
+    {
+      "sourceText": "Lade mich ein!",
+      "targetText": "Invită-mă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einladen“ und „a invita“ sind kognativ – beide bedeuten jemanden bitten, zu kommen. Merke dir „te invit“ als „ich lade dich ein“."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-a“ zeigt die erste Konjugation an – das hilft dir bei der Verbform."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du Freunde zu einer Feier einlädst – so verknüpfst du das Wort mit sozialen Situationen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

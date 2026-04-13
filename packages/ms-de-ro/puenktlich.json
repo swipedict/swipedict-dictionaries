@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-puenktlich",
+  "parent": "ms-ro-punctual-15cb3827@740d96f2d6ce72ad571e19099b61b869",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "pünktlich",
+    "definition": "Etwas oder jemand, der genau zur vereinbarten Zeit erscheint oder etwas genau zur festgelegten Zeit tut.",
+    "pronunciation": "/ˈpʏŋktlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „pünktlich“ leitet sich vom Substantiv „Punkt“ ab, das aus dem mittelhochdeutschen 'punkt' stammt und ursprünglich 'kleiner Fleck, Markierung' bedeutete. Die Endung '-lich' bildet ein Adjektiv, das die Eigenschaft beschreibt, genau auf den Punkt der Zeit zu sein.",
+        "targetText": "Adjectivul german „pünktlich” derivă din substantivul „Punkt”, care provine din germana mijlocie 'punkt' și însemna inițial 'punct mic, marcaj'. Sufixul '-lich' formează un adjectiv ce descrie calitatea de a fi exact la momentul stabilit."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "punctual",
+    "definition": "Care apare sau se întâmplă exact la timpul stabilit, fără întârziere.",
+    "pronunciation": "/punkˈtual/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „punctual“ stammt direkt vom lateinischen Wort 'punctum' ab, das 'Punkt' bedeutet. Es wurde über das Französische 'ponctuel' ins Rumänische übernommen und beschreibt die Eigenschaft, genau zur vereinbarten Zeit zu sein.",
+        "targetText": "Adjectivul românesc „punctual” provine direct din cuvântul latin 'punctum', care înseamnă 'punct'. A fost preluat prin franceza 'ponctuel' și descrie calitatea de a fi exact la timpul stabilit."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Punkt",
+      "targetText": "punct"
+    },
+    {
+      "sourceText": "rechtzeitig",
+      "targetText": "la timp"
+    },
+    {
+      "sourceText": "Termineinhaltung",
+      "targetText": "respectarea termenelor"
+    },
+    {
+      "sourceText": "Verspätung",
+      "targetText": "întârziere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unpünktlich",
+      "targetText": "nepunctual"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist immer pünktlich zur Arbeit.",
+      "targetText": "El este întotdeauna punctual la serviciu."
+    },
+    {
+      "sourceText": "Bitte sei pünktlich zum Treffen.",
+      "targetText": "Te rog să fii punctual la întâlnire."
+    },
+    {
+      "sourceText": "Der Zug kam pünktlich an.",
+      "targetText": "Trenul a sosit punctual."
+    },
+    {
+      "sourceText": "Pünktlichkeit wird in diesem Unternehmen sehr geschätzt.",
+      "targetText": "Punctualitatea este foarte apreciată în această companie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort „punctum“ bedeutet Punkt. Viele romanische Sprachen haben ähnliche Wörter, z.B. französisch „ponctuel“. So kannst du die Verwandtschaft leicht erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „punctual“ klingt fast wie das deutsche „Punkt“ mit der Endung „-ual“. So kannst du dir merken, dass es um genau den richtigen Zeitpunkt geht – den „Punkt“ der Zeit."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn du „punctual“ bist, triffst du genau den Punkt der Zeit – ohne zu spät zu kommen. Das hilft dir, das Wort mit Pünktlichkeit zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen kleinen Punkt auf der Uhr, der genau die richtige Zeit markiert. Dieser Punkt macht dich „punctual“ – also pünktlich."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

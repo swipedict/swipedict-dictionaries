@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-dorf",
+  "parent": "ms-ro-sat-8278e0d8@d646864f7e7e22cee100dcff315120ea",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Dorf",
+    "genus": "neuter",
+    "definition": "eine kleine Ansiedlung oder Gemeinde",
+    "pronunciation": "/dɔʁf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Dorf“ stammt vom althochdeutschen „dorf“, was eine Ansiedlung oder einen Wohnplatz bezeichnete. Es ist verwandt mit dem mittellateinischen „dorpus“.",
+        "targetText": "Cuvântul german „Dorf“ provine din althochdeutsch „dorf“, desemnând o așezare mică sau locuință, înrudit cu termenul latin „dorpus“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dörfer sind oft ländliche Gemeinschaften mit weniger Einwohnern als Städte."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sat",
+    "genus": "neuter",
+    "definition": "o așezare mică sau comună",
+    "pronunciation": "/sat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „sat“ stammt vom lateinischen „satus“ (gepflanzt, angesiedelt) ab und bezeichnet eine kleine ländliche Siedlung.",
+        "targetText": "Cuvântul românesc „sat“ derivă din latină „satus“ („plantat, așezat“) și desemnează o așezare rurală mică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dörfer sind oft kleinere Gemeinschaften mit ländlichem Charakter."
+  },
+  "senses": [
+    {
+      "gloss": "Siedlung",
+      "explanation": {
+        "sourceText": "In einem weiteren Sinne bezeichnet 'sat' eine kleine Siedlung.",
+        "targetText": "În sens larg, „sat“ desemnează o așezare mică."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Dorf ist bekannt für seine Schönheit.",
+          "targetText": "Satul este cunoscut pentru frumusețea sa."
+        }
+      ]
+    },
+    {
+      "gloss": "Weiler",
+      "explanation": {
+        "sourceText": "'Sat' kann auch einen Weiler bezeichnen, eine noch kleinere Ansiedlung.",
+        "targetText": "„Sat“ poate desemna și un cătun, o așezare mai mică."
+      },
+      "examples": [
+        {
+          "sourceText": "Es gibt einen Weiler in dieser Region.",
+          "targetText": "Există un cătun în această regiune."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bauernhof",
+      "targetText": "fermă"
+    },
+    {
+      "sourceText": "Gemeinschaft",
+      "targetText": "comunitate"
+    },
+    {
+      "sourceText": "Land",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wohne in einem kleinen Dorf.",
+      "targetText": "Locuiesc într-un sat mic."
+    },
+    {
+      "sourceText": "Das Dorf hat eine sehr schöne Landschaft.",
+      "targetText": "Satul are un peisaj foarte frumos."
+    },
+    {
+      "sourceText": "Im Dorf gibt es einen kleinen Laden.",
+      "targetText": "În sat există un mic magazin."
+    },
+    {
+      "sourceText": "Die Leute im Dorf sind sehr freundlich.",
+      "targetText": "Oamenii din sat sunt foarte prietenoși."
+    },
+    {
+      "sourceText": "Das Dorf ist bekannt für seine Traditionen.",
+      "targetText": "Satul este cunoscut pentru tradițiile sale."
+    },
+    {
+      "sourceText": "Im Dorf findet jeden Sommer ein Fest statt.",
+      "targetText": "În sat are loc o sărbătoare în fiecare vară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Ein Merksatz: „Im Dorf (sat) ist das Leben einfach und überschaubar.“"
+    },
+    {
+      "lang": "de",
+      "text": "Erstelle eine kleine Geschichte, die in einem Dorf spielt – das macht das Wort lebendig."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „sat“ kurz und einfach klingt, genau wie ein kleines Dorf – das hilft beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Dorf“ mit dem Bild eines kleinen, ruhigen Ortes, wo jeder jeden kennt – so merkst du dir „sat“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

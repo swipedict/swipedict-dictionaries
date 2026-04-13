@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-diagnose",
+  "parent": "ms-ro-diagnostic-fa7c8889@4de2eb33db07eaca52e234cd89191016",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:greek",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Diagnose",
+    "genus": "feminine",
+    "definition": "Feststellung und Benennung einer Krankheit oder eines Problems durch Untersuchung.",
+    "pronunciation": "/diˈaɡnoːzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Diagnose“ stammt aus dem Griechischen „διάγνωσις“ (diágnōsis), was ‚Unterscheidung‘ oder ‚Erkennung‘ bedeutet, zusammengesetzt aus ‚dia-‘ (durch) und ‚gnōsis‘ (Wissen).",
+        "targetText": "Cuvântul „diagnose“ provine din grecescul „διάγνωσις“ (diágnōsis), care înseamnă „distincție“ sau „recunoaștere“, format din „dia-” (prin) și „gnōsis” (cunoaștere)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "diagnostic",
+    "genus": "neuter",
+    "definition": "Stabilirea și denumirea unei boli sau a unei probleme prin examinare.",
+    "pronunciation": "/di.aɡˈnos.tik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „diagnostic“ stammt direkt vom griechischen ‚διάγνωσις‘ über das Lateinische ‚diagnosticus‘ ab und wurde im medizinischen Kontext übernommen.",
+        "targetText": "Cuvântul românesc „diagnostic“ provine direct din grecescul „διάγνωσις“ prin latină „diagnosticus“ și a fost preluat în context medical."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Diagnostik",
+      "targetText": "diagnosticare"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    },
+    {
+      "sourceText": "Symptom",
+      "targetText": "simptom"
+    },
+    {
+      "sourceText": "Untersuchung",
+      "targetText": "examinare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Diagnose wurde nach mehreren Tests gestellt.",
+      "targetText": "Diagnosticul a fost pus după mai multe teste."
+    },
+    {
+      "sourceText": "Der Arzt gab eine schnelle Diagnose ab.",
+      "targetText": "Doctorul a dat un diagnostic rapid."
+    },
+    {
+      "sourceText": "Eine genaue Diagnose ist wichtig für die Behandlung.",
+      "targetText": "Un diagnostic precis este important pentru tratament."
+    },
+    {
+      "sourceText": "Die Diagnose bestätigte eine Grippe.",
+      "targetText": "Diagnosticul a confirmat o gripă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚dia-‘ im Wort bedeutet ‚durch‘, also ‚durch Wissen erkennen‘ – das hilft, die medizinische Bedeutung zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚diagnostic‘ endet auf ‚-ic‘ wie viele medizinische Begriffe, das ist typisch für Fachwörter aus dem Griechischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚diagnostic‘ klingt ähnlich wie ‚Diagnose‘, beide stammen vom griechischen ‚gnōsis‘ für Wissen – denk an ‚Erkennen durch Wissen‘."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Arzt ‚diagnostiziert‘ mit viel ‚Wissen‘ (gnōsis) – das hilft, die Bedeutung zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

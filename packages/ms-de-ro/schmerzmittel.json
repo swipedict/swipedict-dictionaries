@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-schmerzmittel",
+  "parent": "ms-ro-analgezic-248f1a56@6d3d58d63b87afc4a2121cb9d6fafabe",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schmerzmittel",
+    "genus": "neuter",
+    "definition": "Ein Medikament oder eine Substanz, die Schmerzen lindert oder beseitigt.",
+    "pronunciation": "/ˈʃmɛrtsˌmɪtl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schmerzmittel“ setzt sich aus 'Schmerz' (von althochdeutsch 'smerza', verwandt mit dem gotischen 'smerþs') und 'Mittel' (von althochdeutsch 'mitil', was 'Maß' oder 'Menge' bedeutet) zusammen.",
+        "targetText": "Cuvântul german „Schmerzmittel” este compus din „Schmerz” (durere), provenit din germana veche înaltă 'smerza', și „Mittel” (remediu, mijloc), derivat din 'mitil', care înseamnă 'măsură' sau 'remediu'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "analgezic",
+    "genus": "neuter",
+    "definition": "Un medicament care reduce sau elimină durerea.",
+    "pronunciation": "/anaˈldʒezik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „analgezic“ stammt vom griechischen 'an-' (ohne) und 'algos' (Schmerz) ab, über das lateinische 'analgesicus', das 'schmerzstillend' bedeutet.",
+        "targetText": "Cuvântul românesc „analgezic” provine din grecescul 'an-' (fără) și 'algos' (durere), prin latinescul 'analgesicus', care înseamnă 'care oprește durerea'."
+      },
+      "source": "Dicționare etimologice, analiza lingvistică"
+    },
+    "additional": "Substantiv neutru, Plural: analgezice."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Entzündung",
+      "targetText": "inflamație"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "Tablette",
+      "targetText": "comprimat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schmerzverstärker",
+      "targetText": "intensificator de durere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Schmerzmittel hilft schnell gegen Kopfschmerzen.",
+      "targetText": "Analgezicul ajută rapid împotriva durerilor de cap."
+    },
+    {
+      "sourceText": "Nach der Operation bekam er ein starkes Schmerzmittel.",
+      "targetText": "După operație, a primit un analgezic puternic."
+    },
+    {
+      "sourceText": "Viele Schmerzmittel sind rezeptfrei in der Apotheke erhältlich.",
+      "targetText": "Multe analgezice sunt disponibile fără rețetă la farmacie."
+    },
+    {
+      "sourceText": "Das Schmerzmittel sollte nur nach Anweisung eingenommen werden.",
+      "targetText": "Analgezicul trebuie luat doar conform indicațiilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das griechische 'algos' steckt auch im Wort 'Algologie' (Schmerzmedizin), so kannst du 'analgezic' leicht mit Schmerzmitteln verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'analgezic' beginnt mit 'anal-', ähnlich wie 'analysieren', aber hier bedeutet es 'ohne Schmerz' (an- = ohne, algos = Schmerz)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-gezic', was an das deutsche 'medizinisch' erinnert – also ein medizinisches Mittel gegen Schmerzen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast 'analge' (ähnlich wie 'angel') die Schmerzen 'wegangelt' – so hilft dir das 'analgezic'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

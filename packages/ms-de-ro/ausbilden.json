@@ -1,0 +1,209 @@
+{
+  "id": "ms-de-ro-ausbilden",
+  "parent": "ms-ro-a-forma-7fa500bb@e9866c0912a3eed8bdba6e958fb694c0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausbilden",
+    "definition": "jemanden in einer bestimmten Fertigkeit oder einem bestimmten Beruf ausbilden",
+    "pronunciation": "/ˈaʊ̯sˌbaɪ̯dən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus dem Präfix „aus-“ (Abgrenzung, Hervorhebung) und „bilden“ (gestalten) zusammen. Es beschreibt den Prozess, jemanden fachlich oder persönlich zu formen.",
+        "targetText": "Verbul „a forma“ provine din latinescul „formare“, care înseamnă „a da formă“ sau „a modela“. Este folosit în educație și dezvoltare personală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Beschreibt den Prozess der Bildung oder Erziehung in verschiedenen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a forma",
+    "definition": "a pregăti pe cineva într-o anumită competență sau profesie",
+    "pronunciation": "/a forˈma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a forma“ stammt vom lateinischen „formare“, was „gestalten“ oder „formen“ bedeutet. Es wird in Bildung und persönlicher Entwicklung verwendet.",
+        "targetText": "Verbul românesc „a forma“ derivă din latinescul „formare“, care înseamnă „a da formă“ sau „a modela“. Este folosit în educație și dezvoltare personală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Sehr häufig in Bildungseinrichtungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "ausbilden (beruflich)",
+      "explanation": {
+        "sourceText": "Jemanden für einen Beruf oder Bereich ausbilden.",
+        "targetText": "A pregăti pe cineva pentru o profesie sau domeniu."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde Sie im neuen Programm ausbilden.",
+          "targetText": "Te voi forma în noul program."
+        }
+      ]
+    },
+    {
+      "gloss": "ausbilden (persönlich)",
+      "explanation": {
+        "sourceText": "Auch für persönliche Weiterbildung verwendet.",
+        "targetText": "Folosit și pentru dezvoltarea personală."
+      },
+      "examples": [
+        {
+          "sourceText": "Er bildet sich ständig weiter.",
+          "targetText": "El se formează constant."
+        }
+      ]
+    },
+    {
+      "gloss": "ausbilden (Tiere)",
+      "explanation": {
+        "sourceText": "Bezieht sich auch auf das Training von Tieren.",
+        "targetText": "Se referă și la dresajul animalelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir bilden einen Hund aus.",
+          "targetText": "Formăm un câine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kurs",
+      "targetText": "curs"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Schüler",
+      "targetText": "elev"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "cunoștințe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unterschulen",
+      "targetText": "a dezvăța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bilde neue Auszubildende aus.",
+      "targetText": "Eu formez noi ucenici."
+    },
+    {
+      "sourceText": "Bildest du auch Auszubildende aus?",
+      "targetText": "Formezi și tu ucenicii?"
+    },
+    {
+      "sourceText": "Sie bildet die Schüler aus.",
+      "targetText": "Ea formează elevii."
+    },
+    {
+      "sourceText": "Wir bilden im Unternehmen aus.",
+      "targetText": "Noi formăm în companie."
+    },
+    {
+      "sourceText": "Bildet ihr die neuen Mitarbeiter aus?",
+      "targetText": "Formați angajații noi?"
+    },
+    {
+      "sourceText": "Sie bilden in der Schule aus.",
+      "targetText": "Ei formează în școală."
+    },
+    {
+      "sourceText": "Ich habe die Auszubildenden ausgebildet.",
+      "targetText": "Am format ucenicii."
+    },
+    {
+      "sourceText": "Sie haben die Schüler ausgebildet.",
+      "targetText": "Ei au format elevii."
+    },
+    {
+      "sourceText": "Er bildete oft Azubis aus.",
+      "targetText": "El forma ucenicii des."
+    },
+    {
+      "sourceText": "Ich hatte die Auszubildenden bereits ausgebildet, als du ankamst.",
+      "targetText": "Formasem deja ucenicii când ai sosit."
+    },
+    {
+      "sourceText": "Ich werde morgen die neuen Auszubildenden ausbilden.",
+      "targetText": "Voi forma noii ucenici mâine."
+    },
+    {
+      "sourceText": "Sie werden die Mitarbeiter später ausbilden.",
+      "targetText": "Ei o să formeze angajații mai târziu."
+    },
+    {
+      "sourceText": "Ich würde die Schüler ausbilden, wenn ich könnte.",
+      "targetText": "Aș forma elevii dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Auszubildenden ausbildest.",
+      "targetText": "Este important să formezi ucenicii."
+    },
+    {
+      "sourceText": "Bilde die neuen Azubis aus!",
+      "targetText": "Formează noii ucenici!"
+    },
+    {
+      "sourceText": "Bildet die Schüler aus!",
+      "targetText": "Formați elevii!"
+    },
+    {
+      "sourceText": "Die ausgebildeten Azubis sind bereit für die Prüfung.",
+      "targetText": "Ucenicii formați sunt pregătiți pentru examen."
+    },
+    {
+      "sourceText": "Die Schüler sind ausgebildet.",
+      "targetText": "Elevii sunt formați."
+    },
+    {
+      "sourceText": "Indem ich die Azubis ausbilde, helfe ich ihnen.",
+      "targetText": "Formând ucenicii, îi ajut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A forma“ wird oft in Bildungskontexten genutzt – denk an das Formen von Fähigkeiten und Wissen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „ausbilden“ enthält „bilden“, was dir hilft, das rumänische „a forma“ (formen) zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Azubis geformt werden wie Ton – so merkst du dir „a forma“ gut!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

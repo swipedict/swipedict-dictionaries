@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-mund",
+  "parent": "ms-ro-gura-518ff0d3@e818c96933d4a3e2d78c0aba7055bec4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 2,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mund",
+    "genus": "masculine",
+    "definition": "die Körperöffnung im Gesicht von Menschen und Tieren, die zum Atmen, zur Nahrungsaufnahme und zur Lautbildung dient",
+    "pronunciation": "/mʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Mund“ stammt vom althochdeutschen „mund“ ab und hat germanische Wurzeln; verwandt mit dem englischen „mouth“.",
+        "targetText": "Cuvântul „gură“ provine din latină, von „gula“ (gâtlej), cu o evoluție semantică spre „gură“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Plural: Münder. Der Mund enthält Zähne, Zunge und Lippen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "gură",
+    "genus": "feminine",
+    "definition": "cavitatea din partea anterioară a capului oamenilor și animalelor, prin care se introduc alimentele și prin care se emit sunete",
+    "pronunciation": "/ˈɡu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „gură“ stammt vom lateinischen „gula“ ab, das ‚Rachen‘ oder ‚Schlund‘ bedeutet, und hat sich semantisch erweitert.",
+        "targetText": "Cuvântul românesc „gură“ provine din latinescul „gula“ (gâtlej), cu o evoluție semantică spre „gură“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Plural: guri. Es ist das Hauptorgan für Sprechen, Kauen und teilweise Atmen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "Kuss",
+      "targetText": "sărut"
+    },
+    {
+      "sourceText": "Lippen",
+      "targetText": "buze"
+    },
+    {
+      "sourceText": "sprechen",
+      "targetText": "a vorbi"
+    },
+    {
+      "sourceText": "Zähne",
+      "targetText": "dinți"
+    },
+    {
+      "sourceText": "Zunge",
+      "targetText": "limbă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er öffnete den Mund, um zu sprechen.",
+      "targetText": "A deschis gura să vorbească."
+    },
+    {
+      "sourceText": "Man soll nicht mit vollem Mund sprechen.",
+      "targetText": "Nu trebuie să vorbești cu gura plină."
+    },
+    {
+      "sourceText": "Sie küsste ihn auf den Mund.",
+      "targetText": "L-a sărutat pe gură."
+    },
+    {
+      "sourceText": "Der Mund ist wichtig für das Sprechen.",
+      "targetText": "Gura este importantă pentru vorbire."
+    },
+    {
+      "sourceText": "Das Baby hat einen kleinen Mund.",
+      "targetText": "Bebelușul are o guriță mică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an das Geräusch „Mmmh“, das man mit dem Mund macht, wenn etwas gut schmeckt – so verbindest du das Wort mit dem Körperteil."
+    },
+    {
+      "lang": "de",
+      "text": "Der deutsche 'Mund' ist maskulin ('der Mund'), aber das rumänische 'gură' ist feminin ('o gură') – merke dir diesen Unterschied!"
+    }
+  ],
+  "media": {
+    "images": []
+  }
+}

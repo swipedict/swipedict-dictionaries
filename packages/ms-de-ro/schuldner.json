@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-schuldner",
+  "parent": "ms-ro-debitor-10e61231@7b840a5c4515daef4ddae8fecdc76212",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schuldner",
+    "genus": "masculine",
+    "definition": "Person, die eine Schuld hat und verpflichtet ist, diese zu begleichen.",
+    "pronunciation": "/ˈʃʊldnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort ‚Schuldner‘ leitet sich vom Substantiv ‚Schuld‘ ab, das aus dem althochdeutschen ‚sculda‘ stammt, und dem Suffix ‚-ner‘ zur Bezeichnung einer Person, die eine Schuld hat.",
+        "targetText": "Cuvântul german „Schuldner” provine de la substantivul „Schuld” (datorie), care are origini în germana veche înaltă „sculda”, și sufixul „-ner” care indică o persoană care are o datorie."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "debitor",
+    "genus": "masculine",
+    "definition": "Persoană care are o datorie și este obligată să o plătească.",
+    "pronunciation": "/deˈbi.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚debitor‘ stammt direkt vom lateinischen ‚debitor‘ ab, was ‚Schuldner‘ oder ‚jemand, der schuldet‘ bedeutet.",
+        "targetText": "Cuvântul românesc „debitor” provine direct din latină, din termenul „debitor”, care înseamnă „cel care datorează” sau „debitor”."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gläubiger",
+      "targetText": "creditor"
+    },
+    {
+      "sourceText": "Schuld",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    },
+    {
+      "sourceText": "Tilgung",
+      "targetText": "rambursare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gläubiger",
+      "targetText": "creditor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Schuldner muss die Rechnung bis Ende des Monats bezahlen.",
+      "targetText": "Debitorul trebuie să plătească factura până la sfârșitul lunii."
+    },
+    {
+      "sourceText": "Viele Schuldner verhandeln mit ihren Gläubigern über eine Ratenzahlung.",
+      "targetText": "Mulți debitori negociază cu creditorii lor plata în rate."
+    },
+    {
+      "sourceText": "Ein Schuldner kann in Konkurs gehen, wenn er seine Schulden nicht begleichen kann.",
+      "targetText": "Un debitor poate intra în faliment dacă nu își poate plăti datoriile."
+    },
+    {
+      "sourceText": "Der Schuldner hat eine Verpflichtung, seine Schulden zurückzuzahlen.",
+      "targetText": "Debitorul are obligația să-și ramburseze datoriile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚de-‘ am Anfang von ‚debitor‘ erinnert an ‚defizit‘, also etwas, das fehlt – so kannst du dir merken, dass ein Schuldner etwas zurückzahlen muss."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort ‚debitor‘ klingt ähnlich wie das deutsche ‚Debitor‘ im wirtschaftlichen Kontext – beide beziehen sich auf jemanden, der Schulden hat."
+    },
+    {
+      "lang": "de",
+      "text": "Im Lateinischen bedeutet ‚debere‘ ‚schulden‘ oder ‚müssen‘ – ‚debitor‘ ist also wörtlich ‚derjenige, der muss‘, was dir hilft, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir ‚debitor‘, indem du an ‚debit‘ im Englischen denkst, was ‚abbuchen‘ bedeutet – jemand, von dem Geld abgebucht wird, ist ein Schuldner."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

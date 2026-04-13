@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bestrafen",
+  "parent": "ms-ro-a-pedepsi-e4f1e0f8@36affc9bd7c6bbb65b79ebf453890949",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bestrafen",
+    "definition": "jemanden für ein Fehlverhalten mit einer Strafe belegen",
+    "pronunciation": "/bəˈʃtraːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entspringt dem mittelhochdeutschen „bistrafen“, wobei „be-“ (um) und „strafen“ (bestrafen, züchtigen) enthalten sind.",
+        "targetText": "Das deutsche Verb „bestrafen“ stammt von „be-“ (intensiv) und „strafen“ (zürnen, bestrafen) ab."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb beschreibt oft das Verhängen von Strafen oder Maßnahmen zur Korrektur von Fehlverhalten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pedepsi",
+    "definition": "a supune pe cineva la o sancțiune pentru un comportament greșit",
+    "pronunciation": "/a peˈdʲepsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a pedepsi“ leitet sich vom lateinischen „paenitere“ ab, was „bereuen“ bedeutet. Es wird im Kontext von Strafen verwendet.",
+        "targetText": "Verbul „a pedepsi“ provine din latină, din „poena“ (pedeapsă), indicând acțiunea de a aplica o sancțiune."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "„A pedepsi“ wird häufig in rechtlichen und erzieherischen Kontexten verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Strafe",
+      "targetText": "pedeapsă"
+    },
+    {
+      "sourceText": "Vergehen",
+      "targetText": "delict"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "belohnen",
+      "targetText": "a răsplăti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Lehrer bestraft den Schüler.",
+      "targetText": "Profesorul îl pedepsește pe elev."
+    },
+    {
+      "sourceText": "Ich bestrafe das Fehlverhalten.",
+      "targetText": "Eu pedepsesc comportamentul greșit."
+    },
+    {
+      "sourceText": "Ich habe ihn bestraft.",
+      "targetText": "L-am pedepsit."
+    },
+    {
+      "sourceText": "Ich werde ihn bestrafen.",
+      "targetText": "Îl voi pedepsi."
+    },
+    {
+      "sourceText": "Bestraft die Übeltäter!",
+      "targetText": "Pedepsiți răufăcătorii!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Pedepsi“ klingt wie „feste Strafe“ – denk daran, dass es um das Aussprechen einer Strafe geht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a pedepsi“ mit „pedeapsă“ (Strafe) – so merkst du dir, dass das Verb das Verhängen einer Strafe bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

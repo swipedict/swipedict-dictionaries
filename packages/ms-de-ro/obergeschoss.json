@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-obergeschoss",
+  "parent": "ms-ro-etaj-afc5ca01@bd05fa9b8a04200af62cca0f97b273c9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Obergeschoss",
+    "genus": "neuter",
+    "definition": "Ein Stockwerk eines Gebäudes, das sich über dem Erdgeschoss befindet.",
+    "pronunciation": "/ˈoːbɐɡəʃɔs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Obergeschoss“ setzt sich aus den deutschen Bestandteilen „ober-“ (über) und „Geschoss“ (Stockwerk) zusammen, wobei „Geschoss“ vom mittelhochdeutschen 'geschoss' stammt, das ursprünglich 'das Geschossene' oder 'geschossener Pfeil' bedeutete und später auf Stockwerk übertragen wurde.",
+        "targetText": "Cuvântul german „Obergeschoss“ este compus din „ober-“ (deasupra) și „Geschoss“ (etaj), unde „Geschoss“ provine din germana mijlocie 'geschoss', inițial însemnând 'săgeată trasă' și ulterior folosit pentru a desemna un nivel al clădirii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "etaj",
+    "genus": "neuter",
+    "definition": "Un nivel al unei clădiri situat deasupra parterului.",
+    "pronunciation": "/eˈtatʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „etaj“ stammt aus dem Französischen 'étage', das wiederum vom spätlateinischen 'staticum' abgeleitet ist, was 'stehend' oder 'stationär' bedeutet.",
+        "targetText": "Cuvântul românesc „etaj” provine din franceza 'étage', care la rândul său derivă din latină târzie 'staticum', însemnând 'stând' sau 'staționar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dachgeschoss",
+      "targetText": "mansardă"
+    },
+    {
+      "sourceText": "Erdgeschoss",
+      "targetText": "parter"
+    },
+    {
+      "sourceText": "Stockwerk",
+      "targetText": "nivel"
+    },
+    {
+      "sourceText": "Treppenhaus",
+      "targetText": "casa scării"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kellergeschoss",
+      "targetText": "subsol"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Büro befindet sich im Obergeschoss des Gebäudes.",
+      "targetText": "Biroul se află la etajul clădirii."
+    },
+    {
+      "sourceText": "Wir wohnen im Obergeschoss mit Blick auf den Garten.",
+      "targetText": "Locuim la etaj, cu vedere spre grădină."
+    },
+    {
+      "sourceText": "Die Treppe führt vom Erdgeschoss ins Obergeschoss.",
+      "targetText": "Scara duce de la parter la etaj."
+    },
+    {
+      "sourceText": "Im Obergeschoss gibt es drei Schlafzimmer.",
+      "targetText": "La etaj sunt trei dormitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Obergeschoss' hat 'ober' für oben – im Rumänischen heißt das einfach 'etaj', das du dir als 'Etage' mit einem kleinen 'j' merken kannst."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'etaj' klingt ähnlich wie das französische 'étage', das du vielleicht aus dem Deutschen 'Etage' kennst – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst eine Treppe hinauf und sagst 'Ich gehe zum Etaj' – das hilft dir, 'etaj' mit dem Obergeschoss zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an ein Haus denkst, merk dir: 'parter' ist das Erdgeschoss, 'etaj' das Obergeschoss – so lernst du beide wichtigen Stockwerke auf Rumänisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

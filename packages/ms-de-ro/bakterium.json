@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bakterium",
+  "parent": "ms-ro-bacterie-8a75fa33@f34a97a0b74cae1e60fb25a610f2b15a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bakterium",
+    "genus": "neuter",
+    "definition": "Ein einzelliger Mikroorganismus, oft mit Bedeutung für Gesundheit oder Krankheit.",
+    "pronunciation": "/bakˈtɛːʁiʊm/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bakterium“ stammt vom griechischen Wort „baktērion“ ab, das ‚kleiner Stock‘ bedeutet, und wurde über das Lateinische in die deutsche Sprache übernommen.",
+        "targetText": "Cuvântul „Bakterium“ provine din grecescul „baktērion“, care înseamnă „băț mic“, și a fost preluat în germană prin latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bacterie",
+    "genus": "feminine",
+    "definition": "Un microorganism unicelular, adesea relevant pentru sănătate sau boală.",
+    "pronunciation": "/bakˈte.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Cuvântul românesc „bacterie“ provine din grecescul „baktērion“, prin latină, cu sensul de „băț mic“, folosit pentru a denumi microorganismele.",
+        "targetText": "Das rumänische Wort „bacterie“ stammt vom griechischen „baktērion“ über das Lateinische ab und bedeutet ‚kleiner Stock‘, was auf die Form der Bakterien anspielt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Antibiotikum",
+      "targetText": "antibiotic"
+    },
+    {
+      "sourceText": "Infektion",
+      "targetText": "infecție"
+    },
+    {
+      "sourceText": "Mikroorganismus",
+      "targetText": "microorganism"
+    },
+    {
+      "sourceText": "Virus",
+      "targetText": "virus"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Bakterium verursacht eine Infektion.",
+      "targetText": "Bacteria provoacă o infecție."
+    },
+    {
+      "sourceText": "Man kann Bakterien unter dem Mikroskop sehen.",
+      "targetText": "Poți vedea bacteriile la microscop."
+    },
+    {
+      "sourceText": "Antibiotika töten Bakterien ab.",
+      "targetText": "Antibioticele omoară bacteriile."
+    },
+    {
+      "sourceText": "Nicht alle Bakterien sind schädlich.",
+      "targetText": "Nu toate bacteriile sunt dăunătoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „bacterie“ klingt fast wie das deutsche „Bakterium“ – das hilft dir, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf -ie, eine typische rumänische Endung für Substantive, die du bei vielen wissenschaftlichen Begriffen findest."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an den griechischen Ursprung „baktērion“ für ‚kleiner Stock‘, der die Form vieler Bakterien beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „bacterie“ mit „Antibiotikum“ (antibiotic) – beide Wörter gehören zum Bereich Gesundheit und Krankheit."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

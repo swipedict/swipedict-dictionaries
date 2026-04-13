@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kueche",
+  "parent": "ms-ro-bucatarie-8c931648@580bfc5606de26d00b2470551dc87aa8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Küche",
+    "genus": "feminine",
+    "definition": "Ein Raum oder Bereich in einem Haus, in dem Speisen zubereitet und gekocht werden.",
+    "pronunciation": "/ˈkʏçə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Küche“ stammt vom althochdeutschen 'kuohho' ab, das wiederum auf das lateinische 'coquina' zurückgeht, was 'Kochstelle' oder 'Küche' bedeutet.",
+        "targetText": "Cuvântul german „Küche” provine din vechiul german înalt 'kuohho', care la rândul său derivă din latinescul 'coquina', însemnând 'locul de gătit' sau 'bucătărie'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bucătărie",
+    "genus": "feminine",
+    "definition": "O cameră sau un spațiu dintr-o casă unde se pregătesc și se gătesc alimente.",
+    "pronunciation": "/bu.ka.təˈri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bucătărie“ stammt vom lateinischen 'coquina' ab, das 'Küche' oder 'Kochstelle' bedeutet. Die Entwicklung erfolgte über das spätlateinische 'coquina' und das rumänische 'bucătărie'.",
+        "targetText": "Cuvântul românesc „bucătărie” derivă din latinescul 'coquina', care însemna 'bucătărie' sau 'loc de gătit'. Evoluția a trecut prin latină târzie și s-a adaptat fonetic în română."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Esszimmer",
+      "targetText": "sufragerie"
+    },
+    {
+      "sourceText": "Herd",
+      "targetText": "aragaz"
+    },
+    {
+      "sourceText": "Kochen",
+      "targetText": "a găti"
+    },
+    {
+      "sourceText": "Messer",
+      "targetText": "cuțit"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Küche ist der Raum, in dem wir das Essen zubereiten.",
+      "targetText": "Bucătăria este camera în care pregătim mâncarea."
+    },
+    {
+      "sourceText": "In der Küche steht ein großer Herd.",
+      "targetText": "În bucătărie este un aragaz mare."
+    },
+    {
+      "sourceText": "Wir haben die Küche renoviert und neue Schränke eingebaut.",
+      "targetText": "Am renovat bucătăria și am montat dulapuri noi."
+    },
+    {
+      "sourceText": "Die Küche ist oft der Mittelpunkt des Hauses.",
+      "targetText": "Bucătăria este adesea centrul casei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Küche' und das rumänische 'bucătărie' stammen beide vom lateinischen 'coquina' ab – das hilft, die Verbindung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'bucătărie' klingt wie 'Buch' + 'Tarie'. Stell dir vor, du liest ein Kochbuch in der 'bucătărie'."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-ărie' in 'bucătărie' ist typisch für rumänische Substantive, die Orte oder Räume bezeichnen – wie 'bibliotecă' (Bibliothek)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'bucătărie' mit 'bu-' beginnt, ähnlich wie 'Buch', und in der Küche liest man manchmal Kochbücher."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

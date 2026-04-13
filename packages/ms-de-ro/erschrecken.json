@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-erschrecken",
+  "parent": "ms-ro-a-speria-17bde35f@743e7d1001528984799eea8665dd00d5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erschrecken",
+    "definition": "jemanden plötzlich Angst einjagen oder überraschen",
+    "pronunciation": "/ɛʁˈʃʁɛkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „erschrecken“ stammt vom mittelhochdeutschen „erschrecken“ ab, was „erschrecken“ bedeutet.",
+        "targetText": "Verbul german „erschrecken“ provine din germana mijlocie „erschrecken“, care înseamnă „a speria“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb kann sowohl aktiv als auch passiv verwendet werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a speria",
+    "definition": "a cauza cuiva frică sau surpriză",
+    "pronunciation": "/a speˈria/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a speria“ stammt vom lateinischen „experiri“ ab, was „erfahren“ bedeutet und sich zur Bedeutung „erschrecken“ entwickelte.",
+        "targetText": "Verbul românesc „a speria“ provine din latină, de la „experiri“ (a încerca, a experimenta), evoluând spre sensul de „a speria“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in Situationen verwendet, in denen jemand Angst hat oder erschreckt wird."
+  },
+  "senses": [
+    {
+      "gloss": "Alarmieren",
+      "explanation": {
+        "sourceText": "'Erschrecken' kann auch im Sinne von 'jemanden alarmieren' verwendet werden.",
+        "targetText": "„A speria“ poate însemna și a alarma pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Nachricht hat viele erschreckt.",
+          "targetText": "Știrea a speriat pe mulți."
+        }
+      ]
+    },
+    {
+      "gloss": "Erschrecken (Emotion)",
+      "explanation": {
+        "sourceText": "Sich über etwas Unerwartetes erschrecken.",
+        "targetText": "A se speria din cauza unui eveniment neașteptat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich erschrecke über unerwartete Geräusche.",
+          "targetText": "Eu mă sperii de zgomote neașteptate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Angst",
+      "targetText": "frica"
+    },
+    {
+      "sourceText": "Furcht",
+      "targetText": "teama"
+    },
+    {
+      "sourceText": "Schreck",
+      "targetText": "spaimă"
+    },
+    {
+      "sourceText": "Überraschung",
+      "targetText": "surpriză"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beruhigen",
+      "targetText": "a calma"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erschrecke über lautem Geräusch.",
+      "targetText": "Eu mă sperii de un zgomot tare."
+    },
+    {
+      "sourceText": "Erschrickst du bei diesem Film?",
+      "targetText": "Te sperii la acest film?"
+    },
+    {
+      "sourceText": "Sie erschreckt sich immer bei Überraschungen.",
+      "targetText": "Ea se sperie mereu de surprize."
+    },
+    {
+      "sourceText": "Wir erschrecken bei dem Donner.",
+      "targetText": "Noi ne speriem la tunet."
+    },
+    {
+      "sourceText": "Erschreckt ihr euch leicht?",
+      "targetText": "Vă speriați ușor?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erschrecken über die Spinne.",
+      "targetText": "Ei se sperie de păianjen."
+    },
+    {
+      "sourceText": "Ich habe mich erschreckt, als es geklopft hat.",
+      "targetText": "M-am speriat când a bătut la ușă."
+    },
+    {
+      "sourceText": "Sie haben sich beim Schreck erschreckt.",
+      "targetText": "Ei s-au speriat de frică."
+    },
+    {
+      "sourceText": "Er erschreckte sich bei jeder Überraschung.",
+      "targetText": "El se speria la fiecare surpriză."
+    },
+    {
+      "sourceText": "Ich hatte mich erschrocken, bevor sie den Scherz erklärte.",
+      "targetText": "M-am speriat înainte să explice gluma."
+    },
+    {
+      "sourceText": "Ich werde mich nicht erschrecken.",
+      "targetText": "Nu mă voi speria."
+    },
+    {
+      "sourceText": "Sie wird sich nicht erschrecken.",
+      "targetText": "Ea nu o să se sperie."
+    },
+    {
+      "sourceText": "Ich würde mich nicht erschrecken, wenn ich wüsste, dass es ein Scherz ist.",
+      "targetText": "Nu m-aș speria dacă aș ști că este o glumă."
+    },
+    {
+      "sourceText": "Es wäre besser, wenn du dich nicht erschreckst.",
+      "targetText": "Ar fi mai bine să nu te sperii."
+    },
+    {
+      "sourceText": "Erschreck dich nicht!",
+      "targetText": "Nu te speria!"
+    },
+    {
+      "sourceText": "Erschreckt euch nicht!",
+      "targetText": "Nu vă speriați!"
+    },
+    {
+      "sourceText": "Der erschreckte Käufer ging schnell hinaus.",
+      "targetText": "Cumpărătorul speriat a ieșit repede."
+    },
+    {
+      "sourceText": "Indem er die Geschichte hörte, erschreckte er sich.",
+      "targetText": "Ascultând povestea, s-a speriat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a speria“ klingt ähnlich wie das englische „spooky“ – verbinde es mit Angst und Schrecken."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du plötzlich erschrickst – so merkst du dir „a speria“ als ‚erschrecken‘."
+    },
+    {
+      "lang": "de",
+      "text": "Übe das Verb mit gruseligen Geschichten oder Filmen, um die Bedeutung lebendig zu halten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

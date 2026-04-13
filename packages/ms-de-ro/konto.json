@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-konto",
+  "parent": "ms-ro-cont-e74af8e0@651645b30690eaca258943e6f42cb13c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Konto",
+    "genus": "neuter",
+    "definition": "ein Ort, an dem Geld aufbewahrt wird, zum Beispiel bei einer Bank",
+    "pronunciation": "/ˈkɔnto/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Konto“ stammt vom lateinischen „computus“, was „Berechnung“ bedeutet, und bezeichnet einen individuellen Finanzstatus innerhalb einer Bank oder eines Buchhaltungssystems.",
+        "targetText": "Substantivul german „Konto“ provine din latinul „computus“ (calcul), desemnând un cont financiar individual într-o bancă sau contabilitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig im Finanz- und Buchhaltungswesen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cont",
+    "genus": "neuter",
+    "definition": "un loc unde se păstrează bani, de exemplu la o bancă",
+    "pronunciation": "/kont/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cont“ hat seine Wurzeln im lateinischen „computus“ und bezieht sich auf eine Finanz- oder Buchhaltungseinheit.",
+        "targetText": "Substantivul românesc „cont“ derivă din latinul „computus“ și desemnează o unitate financiară sau contabilă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im Rumänischen wird „cont“ sowohl für Bankkonten als auch für Rechnungswesen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Sparkonto",
+      "explanation": {
+        "sourceText": "Ein Konto für das Geldsparen.",
+        "targetText": "Cont destinat economisirii banilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich eröffne ein Sparkonto.",
+          "targetText": "Deschid un cont de economii."
+        }
+      ]
+    },
+    {
+      "gloss": "Zahlungskonto",
+      "explanation": {
+        "sourceText": "Das Konto wird oft auch als Zahlungskonto verwendet.",
+        "targetText": "Cont folosit pentru plăți."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich brauche ein Zahlungskonto für mein Gehalt.",
+          "targetText": "Am nevoie de un cont de plată pentru salariul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "Einzahlung",
+      "targetText": "depunere"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Sparen",
+      "targetText": "economisire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abhebung",
+      "targetText": "retragere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe ein neues Konto bei der Bank eröffnet.",
+      "targetText": "Am deschis un cont nou la bancă."
+    },
+    {
+      "sourceText": "Wie viel Geld ist auf meinem Konto?",
+      "targetText": "Câți bani sunt în contul meu?"
+    },
+    {
+      "sourceText": "Das Konto muss regelmäßig überprüft werden.",
+      "targetText": "Contul trebuie verificat periodic."
+    },
+    {
+      "sourceText": "Ich habe einen Überblick über meine Kontobewegungen.",
+      "targetText": "Am un rezumat al mișcărilor contului meu."
+    },
+    {
+      "sourceText": "Mein Konto wurde gehackt.",
+      "targetText": "Contul meu a fost piratat."
+    },
+    {
+      "sourceText": "Die Bank sendet mir einen Kontoauszug.",
+      "targetText": "Banca îmi trimite un extras de cont."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „cont“ klingt wie das deutsche „Konto“ – beide beziehen sich auf Geld und Finanzen."
+    },
+    {
+      "lang": "de",
+      "text": "Ein Gemeinschaftskonto heißt auf Rumänisch „cont comun“ – das hilft dir, die Wörter zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „cont“ ist wie „konto“, aber ohne ‚k‘ – das spart Zeit beim Lernen!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir einen Geldbeutel vor, wenn du „cont“ sagst – so merkst du dir die Bedeutung leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

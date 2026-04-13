@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-indizieren",
+  "parent": "ms-ro-a-indexa-982c1ac1@057521189f8627dd129f6e78c4c7cdcc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "indizieren",
+    "definition": "etwas in ein Verzeichnis aufnehmen oder anzeigen",
+    "pronunciation": "/ɪnˈdiːtsi̯ʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „indicare“, was „zeigen“ oder „anzeigen“ bedeutet.",
+        "targetText": "Provine din latină, „indicare“, care înseamnă „a arăta“ sau „a indica“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig in wissenschaftlichen oder bibliothekarischen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a indexa",
+    "definition": "a introduce ceva într-un index sau catalog pentru o mai bună regăsire",
+    "pronunciation": "/a inˈdeksa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a indexa“ stammt vom lateinischen „indicare“ ab und bedeutet, etwas in ein Verzeichnis aufzunehmen.",
+        "targetText": "Verbul românesc „a indexa“ provine din latină, „indicare“, și înseamnă a introduce ceva într-un index."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wichtig in Forschung und Bibliotheken."
+  },
+  "senses": [
+    {
+      "gloss": "Indizieren (Artikel)",
+      "explanation": {
+        "sourceText": "Wird häufig in wissenschaftlichen Arbeiten verwendet.",
+        "targetText": "Este folosit frecvent în lucrări științifice."
+      },
+      "examples": [
+        {
+          "sourceText": "Indizierst du die Artikel für die Bibliothek?",
+          "targetText": "Indexezi articolele pentru bibliotecă?"
+        }
+      ]
+    },
+    {
+      "gloss": "Indizieren (Daten)",
+      "explanation": {
+        "sourceText": "Verwendet für die Aufnahme von Daten in Bibliotheken oder Datenbanken.",
+        "targetText": "Se folosește pentru introducerea datelor în biblioteci sau baze de date."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir indizieren die Daten regelmäßig.",
+          "targetText": "Noi indexăm datele în mod regulat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "abliefern",
+      "targetText": "a aduce"
+    },
+    {
+      "sourceText": "liefern",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "senden",
+      "targetText": "a trimite"
+    },
+    {
+      "sourceText": "übergeben",
+      "targetText": "a înmâna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "behalten",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich indiziere die neuesten Publikationen.",
+      "targetText": "Eu indexez cele mai recente publicații."
+    },
+    {
+      "sourceText": "Indizierst du die Artikel für die Bibliothek?",
+      "targetText": "Indexezi articolele pentru bibliotecă?"
+    },
+    {
+      "sourceText": "Der Bibliothekar indiziert die neuen Bücher.",
+      "targetText": "Bibliotecarul indexează noile cărți."
+    },
+    {
+      "sourceText": "Wir indizieren die Daten regelmäßig.",
+      "targetText": "Noi indexăm datele în mod regulat."
+    },
+    {
+      "sourceText": "Indiziert ihr die neuesten Zeitschriften?",
+      "targetText": "Indexați cele mai recente reviste?"
+    },
+    {
+      "sourceText": "Sie (Pl.) indizieren die Ergebnisse ihrer Forschung.",
+      "targetText": "Ei indexează rezultatele cercetării lor."
+    },
+    {
+      "sourceText": "Ich habe die Daten indiziert.",
+      "targetText": "Am indexat datele."
+    },
+    {
+      "sourceText": "Sie haben die Artikel indiziert.",
+      "targetText": "Au indexat articolele."
+    },
+    {
+      "sourceText": "Er indizierte die Bücher immer pünktlich.",
+      "targetText": "El indexa cărțile întotdeauna la timp."
+    },
+    {
+      "sourceText": "Ich hatte die Publikationen bereits indiziert, bevor ich sie einreichte.",
+      "targetText": "Indexasem publicațiile înainte de a le trimite."
+    },
+    {
+      "sourceText": "Ich werde die neuen Berichte indizieren.",
+      "targetText": "Voi indexa noile rapoarte."
+    },
+    {
+      "sourceText": "Er wird die Informationen später indizieren.",
+      "targetText": "El o să indexeze informațiile mai târziu."
+    },
+    {
+      "sourceText": "Ich würde sie indizieren, wenn ich könnte.",
+      "targetText": "Aș indexa-o dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Daten indizierst.",
+      "targetText": "Este important să indexezi datele."
+    },
+    {
+      "sourceText": "Indiziere die alten Dokumente!",
+      "targetText": "Indexează documentele vechi!"
+    },
+    {
+      "sourceText": "Indizieren Sie bitte die neuen Artikel!",
+      "targetText": "Indexați, vă rog, articolele noi!"
+    },
+    {
+      "sourceText": "Die indizierten Bücher sind leicht auffindbar.",
+      "targetText": "Cărțile indexate sunt ușor de găsit."
+    },
+    {
+      "sourceText": "Die Daten sind jetzt indiziert.",
+      "targetText": "Datele sunt acum indexate."
+    },
+    {
+      "sourceText": "Indizierend, sammle ich Informationen für das Projekt.",
+      "targetText": "Indexând, adun informații pentru proiect."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Indizieren“ und „a indexa“ sind Kognaten – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran: Indizierte Bücher sind leichter zu finden, genau wie du das Wort leichter findest, wenn du es übst!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die typische rumänische Endung „-ez“ für die 1. Person Singular Präsens."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie Bücher in einer Bibliothek indiziert werden – das macht das Wort lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

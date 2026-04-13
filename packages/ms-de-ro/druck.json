@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-druck",
+  "parent": "ms-ro-presiune-867c4ac1@47645c5171faae9af91be3c795bd7a45",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Druck",
+    "genus": "masculine",
+    "definition": "das Ausüben von Kraft auf eine Fläche, die das Volumen eines Gases oder einer Flüssigkeit verändert",
+    "pronunciation": "/dʁʊk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Druck“ stammt vom mittelhochdeutschen „druck“ oder „druc“, das auf das althochdeutsche „druck“ zurückgeht und mit dem Verb „drücken“ verwandt ist. Es bezeichnet die physikalische Kraft, die auf eine Fläche wirkt.",
+        "targetText": "Cuvântul german „Druck“ provine din mijlocul germanului vechi „druck“ și este legat de verbul „drücken“ (a apăsa). Se referă la forța exercitată pe o suprafață."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Konzept von Druck ist zentral für das Verständnis von verschiedenen physikalischen Phänomenen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "presiune",
+    "genus": "feminine",
+    "definition": "exercitarea unei forțe asupra unei suprafețe, care modifică volumul unui gaz sau al unui lichid",
+    "pronunciation": "/pre.siˈu.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „presiune“ stammt vom lateinischen „pressio, pressionis“, was „Druck“ bedeutet. Es beschreibt die Kraft, die auf eine bestimmte Fläche wirkt und wird in physikalischen Kontexten verwendet.",
+        "targetText": "Cuvântul românesc „presiune“ provine din latină, din „pressio, pressionis“, care înseamnă „presiune“ sau „apăsare“ și descrie forța exercitată pe o suprafață."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im technischen Kontext ist der Druck ein wichtiger Parameter."
+  },
+  "senses": [
+    {
+      "gloss": "Druck (im psychologischen Sinne)",
+      "explanation": {
+        "sourceText": "Auch für Stress oder Drucksituationen verwendet.",
+        "targetText": "Folosit și pentru a descrie stresul sau situațiile presante."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Druck bei Prüfungen kann hoch sein.",
+          "targetText": "Presiunea în examene poate fi mare."
+        }
+      ]
+    },
+    {
+      "gloss": "Druck (in der Physik)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: beschreibt physikalische Konzepte.",
+        "targetText": "Ca în germană: descrie concepte fizice legate de forța exercitată pe suprafețe."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Wasserdruck in der Leitung ist hoch.",
+          "targetText": "Presiunea apei din țeavă este mare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Flüssigkeit",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "Gas",
+      "targetText": "gaz"
+    },
+    {
+      "sourceText": "Kraft",
+      "targetText": "forță"
+    },
+    {
+      "sourceText": "Volumen",
+      "targetText": "volum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Entspannung",
+      "targetText": "relaxare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Druck in den Reifen ist zu niedrig.",
+      "targetText": "Presiunea din anvelope este prea mică."
+    },
+    {
+      "sourceText": "Druck und Temperatur sind eng miteinander verbunden.",
+      "targetText": "Presiunea și temperatura sunt strâns legate."
+    },
+    {
+      "sourceText": "Der Druck steigt, wenn sich die Luft erhitzt.",
+      "targetText": "Presiunea crește când aerul se încălzește."
+    },
+    {
+      "sourceText": "Ein Druckmessgerät zeigt den aktuellen Druck an.",
+      "targetText": "Un manometru arată presiunea actuală."
+    },
+    {
+      "sourceText": "Zu hoher Druck kann zu Schäden führen.",
+      "targetText": "Presiunea prea mare poate duce la daune."
+    },
+    {
+      "sourceText": "Der luftdruck beeinflusst das Wetter.",
+      "targetText": "Presiunea aerului influențează vremea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Presiune“ klingt ähnlich wie „Pression“ (französisch für Druck) – stelle dir vor, wie du etwas mit Kraft „presst“ (pressen) und so den Druck erzeugst!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das deutsche Wort „Druck“ und ersetze das „Dr-“ durch „Pre-“ wie in „Pressen“ – das hilft dir, „presiune“ zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du mit der Hand auf eine Fläche drückst („presiune“), um die Kraft zu spüren – so verknüpfst du das Wort mit der Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „presiune“ mit dem Bild eines Luftballons, der durch den inneren Druck aufgeblasen wird – so merkst du dir die Bedeutung leicht!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

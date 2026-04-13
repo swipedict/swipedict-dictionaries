@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-uebersetzen",
+  "parent": "ms-ro-a-traduce-3b8e824c@9f6131b628679579ab62c8e24f2c0cf5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "übersetzen",
+    "definition": "etwas von einer Sprache in eine andere übertragen",
+    "pronunciation": "/ˈyːbɐˌzɛt͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „übersetzen“ stammt vom mittelhochdeutschen „übersetzen“, zusammengesetzt aus „über“ und „setzen“, ursprünglich im Sinne von ‚hinübersetzen‘ (z.B. über einen Fluss). Die Bedeutung ‚in eine andere Sprache übertragen‘ entwickelte sich später.",
+        "targetText": "Verbul „a traduce“ provine din latină vulgară „traducere“, derivat din „traducere“ (a conduce peste), cu sensul de a transfera sensul unui text dintr-o limbă în alta."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Am häufigsten im akademischen und professionellen Umfeld verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a traduce",
+    "definition": "a transfera un text sau vorbire dintr-o limbă în alta",
+    "pronunciation": "/a traˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a traduce“ stammt vom lateinischen „traducere“ ab, das „hinüberführen“ oder „übertragen“ bedeutet. Es bezieht sich auf das Übertragen von Bedeutung zwischen Sprachen.",
+        "targetText": "Verbul românesc „a traduce“ derivă din latinescul „traducere“, care înseamnă „a conduce peste“ sau „a transfera“, referindu-se la procesul de transfer al sensului între limbi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-e). Wichtig in der Kommunikation sowie bei Literatur- und Dokumentenübersetzungen."
+  },
+  "senses": [
+    {
+      "gloss": "Text übersetzen",
+      "explanation": {
+        "sourceText": "Im Sinne von 'etwas in eine andere Sprache übertragen'.",
+        "targetText": "În sensul de a transfera un text dintr-o limbă în alta."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich übersetze einen Text ins Rumänische.",
+          "targetText": "Eu traduc un text în română."
+        }
+      ]
+    },
+    {
+      "gloss": "untertiteln",
+      "explanation": {
+        "sourceText": "'Übersetzen' kann auch die Bedeutung von 'Untertitel erstellen' haben.",
+        "targetText": "„A traduce“ poate însemna și „a crea subtitrări“."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen den Film übersetzen.",
+          "targetText": "Trebuie să traduceți filmul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "abliefern",
+      "targetText": "a preda"
+    },
+    {
+      "sourceText": "liefern",
+      "targetText": "a livra"
+    },
+    {
+      "sourceText": "übergeben",
+      "targetText": "a înmâna"
+    },
+    {
+      "sourceText": "versenden",
+      "targetText": "a trimite"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "empfangen",
+      "targetText": "a primi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich übersetze einen Text ins Rumänische.",
+      "targetText": "Eu traduc un text în română."
+    },
+    {
+      "sourceText": "Übersetzt du diesen Satz?",
+      "targetText": "Traduci această propoziție?"
+    },
+    {
+      "sourceText": "Er übersetzt die Bedienungsanleitung.",
+      "targetText": "El traduce manualul de utilizare."
+    },
+    {
+      "sourceText": "Wir übersetzen zusammen.",
+      "targetText": "Noi traducem împreună."
+    },
+    {
+      "sourceText": "Übersetzt ihr die Dokumente?",
+      "targetText": "Traduceți documentele?"
+    },
+    {
+      "sourceText": "Sie übersetzen mehrere Sprachen.",
+      "targetText": "Ei traduc mai multe limbi."
+    },
+    {
+      "sourceText": "Ich habe den Artikel übersetzt.",
+      "targetText": "Am tradus articolul."
+    },
+    {
+      "sourceText": "Sie übersetzte jeden Tag Texte.",
+      "targetText": "Ea traducea texte în fiecare zi."
+    },
+    {
+      "sourceText": "Ich werde den Bericht übersetzen.",
+      "targetText": "Voi traduce raportul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Übersetzen“ und „a traduce“ stammen beide vom lateinischen Wort für ‚hinüberführen‘ ab – stelle dir vor, du ‚setzt‘ Wörter von einer Sprache in die andere ‚über‘!"
+    },
+    {
+      "lang": "de",
+      "text": "Das „-duce“ in „a traduce“ klingt wie „führen“ – also führe die Bedeutung von einer Sprache in die andere!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: Ich „traduc“, du „traduci“, er „traduce“ – das „c“ und „ci“ helfen dir, die Formen zu erkennen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

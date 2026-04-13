@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-aufgeben",
+  "parent": "ms-ro-a-renunta-dc805908@be47203cc47fca60bea6a9b8617aefcc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufgeben",
+    "definition": "etwas einstellen, nicht weiterführen oder verzichten",
+    "pronunciation": "/ˈaʊ̯fˌɡeːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufgeben“ setzt sich aus „auf“ und „geben“ zusammen und bedeutet ursprünglich „etwas auf etwas anderes geben“ oder „verzichten“.",
+        "targetText": "Verbul „aufgeben“ este compus din „auf“ și „geben“ și înseamnă inițial „a da ceva pe ceva“ sau „a renunța“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet, um das Aufgabe oder Verzicht auf etwas zu beschreiben, z.B. „an einer Prüfung aufgeben“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a renunța",
+    "definition": "a opri ceva, a nu mai continua sau a ceda",
+    "pronunciation": "/a re.nunˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a renunța“ stammt vom lateinischen „renuntiare“, was „verzichten“ oder „aufgeben“ bedeutet.",
+        "targetText": "Românescul „a renunța“ derivă din latină, din „renuntiare“, însemnând „a renunța“ sau „a abandona“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, wenn jemand seine Bemühungen oder seinen Anspruch aufgibt."
+  },
+  "senses": [
+    {
+      "gloss": "Abgeben (im Sinne von übergeben)",
+      "explanation": {
+        "sourceText": "Kann auch in der Bedeutung von etwas übergeben werden.",
+        "targetText": "Poate însemna și a preda sau a da ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe das in deine Hände.",
+          "targetText": "Renunț la asta în mâinile tale."
+        }
+      ]
+    },
+    {
+      "gloss": "Aufgeben (im Sinne von etwas nicht weiterführen)",
+      "explanation": {
+        "sourceText": "Wie im deutschen Gebrauch; etwas aufhören.",
+        "targetText": "Ca în germană; a înceta ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe das Projekt auf.",
+          "targetText": "Renunț la proiect."
+        },
+        {
+          "sourceText": "Sie hat aufgegeben, das Problem zu lösen.",
+          "targetText": "A renunțat să rezolve problema."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Hoffnung",
+      "targetText": "speranță"
+    },
+    {
+      "sourceText": "Versuch",
+      "targetText": "încercare"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fortsetzen",
+      "targetText": "a continua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gebe das Projekt auf.",
+      "targetText": "Renunț la proiect."
+    },
+    {
+      "sourceText": "Sie hat aufgegeben, das Problem zu lösen.",
+      "targetText": "A renunțat să rezolve problema."
+    },
+    {
+      "sourceText": "Ich werde niemals aufgeben!",
+      "targetText": "Nu voi renunța niciodată!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „renunț” – wie ein aktives Loslassen von etwas, was dich belastet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „aufgeben“ als einen Weg, sagen zu können: „Ich lasse es los!“ – eine mentale Entlastung!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-helfen",
+  "parent": "ms-ro-a-ajuta-64149304@02e8ade2cc8a3a176e4def91ecc4739a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "helfen",
+    "definition": "jemandem Unterstützung oder Beistand geben",
+    "pronunciation": "/ˈhɛl.fən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom althochdeutschen „helfan“, was „unterstützen“ oder „beistehen“ bedeutet, abgeleitet.",
+        "targetText": "Verbul germanic „helfan“ însemna „a sprijini“ sau „a ajuta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Wird häufig in sozialen und unterstützenden Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ajuta",
+    "definition": "a oferi sprijin sau ajutor cuiva",
+    "pronunciation": "/a a.d͡ʒuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „adiutare“, was „unterstützen“ oder „helfen“ bedeutet. Das Wort ist verwandt mit „ad“ (zu) und „iuvare“ (helfen).",
+        "targetText": "Verbul românesc „a ajuta“ provine din latină, de la „adiutare“, format din „ad“ (către) și „iuvare“ (a ajuta)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig verwendet, um Hilfe in alltäglichen Situationen anzubieten."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Unterstützung",
+      "targetText": "sprijin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schaden",
+      "targetText": "a dăuna"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich helfe dir.",
+      "targetText": "Te ajut."
+    },
+    {
+      "sourceText": "Ich habe dir geholfen.",
+      "targetText": "Te-am ajutat."
+    },
+    {
+      "sourceText": "Ich werde dir helfen.",
+      "targetText": "Te voi ajuta."
+    },
+    {
+      "sourceText": "Ich würde dir helfen, wenn ich könnte.",
+      "targetText": "Te-aș ajuta dacă aș putea."
+    },
+    {
+      "sourceText": "Hilf mir!",
+      "targetText": "Ajută-mă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „ajuta“ klingt wie „Aju!“, ein Ausruf, wenn man um Hilfe ruft – so merkst du dir die Bedeutung von „helfen“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „Te ajut“ als einfachen Satz für „Ich helfe dir“ – kurz, klar und praktisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

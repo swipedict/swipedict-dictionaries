@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fahrkarte",
+  "parent": "ms-ro-bilet-6dd1733a@fc741327aefaffe73edb3eaea0fa620b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fahrkarte",
+    "genus": "feminine",
+    "definition": "Ein Ticket, das die Berechtigung zum Fahren mit einem Verkehrsmittel bestätigt.",
+    "pronunciation": "/ˈfaːɐ̯ˌkaʁtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fahrkarte“ setzt sich aus 'fahren' und 'Karte' zusammen. 'Fahren' stammt vom althochdeutschen 'faran' (reisen, gehen), 'Karte' vom italienischen 'carta' (Papier, Karte).",
+        "targetText": "Cuvântul german „Fahrkarte” este compus din 'fahren' și 'Karte'. 'Fahren' provine din germana veche înaltă 'faran' (a călători), iar 'Karte' din italiană 'carta' (hartă, carte)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bilet",
+    "genus": "neuter",
+    "definition": "Un document care dă dreptul de a călători cu un mijloc de transport.",
+    "pronunciation": "/biˈlet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bilet“ stammt aus dem Französischen 'billet', was 'kleines Papier' oder 'Ticket' bedeutet, entlehnt aus dem Italienischen.",
+        "targetText": "Cuvântul românesc „bilet” provine din franceza 'billet', care înseamnă 'bilet mic' sau 'tichet', împrumutat din italiană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bus",
+      "targetText": "autobuz"
+    },
+    {
+      "sourceText": "Fahrplan",
+      "targetText": "orariu"
+    },
+    {
+      "sourceText": "Ticket",
+      "targetText": "bilet"
+    },
+    {
+      "sourceText": "Zug",
+      "targetText": "tren"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe eine Fahrkarte für den Zug gekauft.",
+      "targetText": "Am cumpărat un bilet pentru tren."
+    },
+    {
+      "sourceText": "Die Fahrkarte gilt nur für eine Fahrt.",
+      "targetText": "Biletul este valabil doar pentru o călătorie."
+    },
+    {
+      "sourceText": "Bitte zeigen Sie Ihre Fahrkarte vor.",
+      "targetText": "Vă rugăm să arătați biletul."
+    },
+    {
+      "sourceText": "Fahrkarten können online oder am Schalter gekauft werden.",
+      "targetText": "Biletele pot fi cumpărate online sau la ghișeu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „bilet“ klingt ähnlich wie das französische 'billet' – denk an ein kleines Papier, das du zum Fahren brauchst."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Fahrkarte“ setzt sich aus fahren + Karte zusammen; im Rumänischen ist es einfach „bilet“ – merke dir die Kürze."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du kaufst einen „bilet“ für den Bus – das Wort ist kurz und einfach, genau wie das deutsche „Billett“ (veraltet)."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „bilet“ mit dem deutschen Wort „Ticket“ – beide bedeuten Fahrkarte oder Eintrittskarte."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

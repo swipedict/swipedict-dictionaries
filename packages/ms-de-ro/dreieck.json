@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-dreieck",
+  "parent": "ms-ro-triunghi-272dd5ea@c8b9fd2a6ad4f5641f055ba2f5ab632d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Dreieck",
+    "genus": "neuter",
+    "definition": "Eine geometrische Figur mit drei Ecken und drei Seiten.",
+    "pronunciation": "/ˈdʁaɪ̯ˌɛk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Dreieck“ setzt sich aus den althochdeutschen Wörtern 'drī' (drei) und 'eck' (Ecke) zusammen und bezeichnet eine Figur mit drei Ecken.",
+        "targetText": "Cuvântul german „Dreieck” provine din cuvintele vechi germane 'drī' (trei) și 'eck' (colț), desemnând o figură cu trei colțuri."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "triunghi",
+    "genus": "neuter",
+    "definition": "O figură geometrică cu trei colțuri și trei laturi.",
+    "pronunciation": "/triˈunɡi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „triunghi“ stammt vom lateinischen 'triangulus' ab, das sich aus 'tri-' (drei) und 'angulus' (Winkel, Ecke) zusammensetzt.",
+        "targetText": "Cuvântul românesc „triunghi” provine din latină, din 'triangulus', compus din 'tri-' (trei) și 'angulus' (unghi, colț)."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Geometrie",
+      "targetText": "geometrie"
+    },
+    {
+      "sourceText": "Kreis",
+      "targetText": "cerc"
+    },
+    {
+      "sourceText": "Viereck",
+      "targetText": "patrulater"
+    },
+    {
+      "sourceText": "Winkel",
+      "targetText": "unghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Dreieck hat drei Seiten.",
+      "targetText": "Triunghiul are trei laturi."
+    },
+    {
+      "sourceText": "In der Geometrie lernt man verschiedene Dreiecke kennen.",
+      "targetText": "La geometrie înveți despre diferite tipuri de triunghiuri."
+    },
+    {
+      "sourceText": "Ein gleichseitiges Dreieck hat drei gleich lange Seiten.",
+      "targetText": "Un triunghi echilateral are trei laturi de aceeași lungime."
+    },
+    {
+      "sourceText": "Das Dreieck ist eine der Grundformen in der Mathematik.",
+      "targetText": "Triunghiul este una dintre formele de bază în matematică."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'triunghi' beginnt mit 'tri-', was an die Zahl drei erinnert, genau wie im Deutschen 'Drei'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'unghi' bedeutet 'Winkel' auf Rumänisch und steckt in 'triunghi' – also drei Winkel, drei Ecken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Dreieck' und 'triunghi' sind beide zusammengesetzte Wörter, die die Zahl drei und eine geometrische Form beschreiben."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Tri'athlon besteht aus drei Teilen – genau wie ein 'Tri'unghi drei Ecken hat."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

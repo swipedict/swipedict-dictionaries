@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-roentgenbild",
+  "parent": "ms-ro-radiografie-90fd8c24@6f95e9bff88ef2ac1b3bd756126396e1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Röntgenbild",
+    "genus": "neuter",
+    "definition": "Ein Bild, das mit Röntgenstrahlen aufgenommen wurde, um innere Strukturen des Körpers sichtbar zu machen.",
+    "pronunciation": "/ˈrœntɡn̩ˌbɪlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Röntgenbild“ leitet sich vom Namen des Physikers Wilhelm Conrad Röntgen ab, der 1895 die nach ihm benannten Röntgenstrahlen entdeckte. „Bild“ stammt vom althochdeutschen 'bilidi', was 'Abbild' bedeutet.",
+        "targetText": "Cuvântul german „Röntgenbild” provine de la numele fizicianului Wilhelm Conrad Röntgen, care a descoperit razele X în 1895, iar „Bild” înseamnă „imagine” sau „fotografie”."
+      },
+      "source": "Etymological Dictionaries, Historische Quellen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "radiografie",
+    "genus": "feminine",
+    "definition": "O imagine obținută prin expunerea la raze X, folosită pentru a vizualiza structurile interne ale corpului.",
+    "pronunciation": "/radi.oɡraˈfi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „radiografie“ stammt vom lateinischen Wort 'radius' (Strahl) und dem griechischen 'gráphein' (schreiben), zusammengesetzt als wissenschaftlicher Fachbegriff für die bildgebende Methode mit Strahlen.",
+        "targetText": "Cuvântul românesc „radiografie” provine din latinescul 'radius' (raza) și grecescul 'gráphein' (a scrie), desemnând o metodă de imagistică medicală bazată pe raze."
+      },
+      "source": "Dicționare etimologice, surse științifice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bildgebung",
+      "targetText": "imagistică"
+    },
+    {
+      "sourceText": "Röntgenaufnahme",
+      "targetText": "radiografie"
+    },
+    {
+      "sourceText": "Röntgengerät",
+      "targetText": "aparat de radiografie"
+    },
+    {
+      "sourceText": "Röntgenstrahlen",
+      "targetText": "raze X"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Arzt hat ein Röntgenbild von meinem Arm gemacht.",
+      "targetText": "Doctorul a făcut o radiografie la brațul meu."
+    },
+    {
+      "sourceText": "Auf dem Röntgenbild sieht man den Bruch deutlich.",
+      "targetText": "Pe radiografie se vede clar fractura."
+    },
+    {
+      "sourceText": "Das Röntgenbild hilft bei der Diagnose von Knochenverletzungen.",
+      "targetText": "Radiografia ajută la diagnosticarea leziunilor osoase."
+    },
+    {
+      "sourceText": "Bitte bleiben Sie während der Aufnahme still für ein gutes Röntgenbild.",
+      "targetText": "Vă rugăm să stați nemișcat în timpul radiografiei pentru o imagine clară."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „Röntgenbild“ ist nach dem Entdecker benannt, während das rumänische Wort die Technik beschreibt – so kannst du beide gut unterscheiden."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „radiografie“ enthält das lateinische Wort „radius“ für Strahl – denk an die Strahlen, die das Bild erzeugen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „schreibst“ (griechisch 'gráphein') mit Strahlen ein Bild – so entsteht das Wort „radiografie“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „radiografie“ mit dem deutschen Wort „Radio“ – beide haben mit Strahlen zu tun, aber hier geht es um Röntgenstrahlen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

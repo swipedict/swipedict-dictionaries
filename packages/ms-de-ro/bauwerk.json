@@ -1,0 +1,154 @@
+{
+  "id": "ms-de-ro-bauwerk",
+  "parent": "ms-ro-constructie-ebdbb465@9155a5856327b89202417406c6f73348",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bauwerk",
+    "genus": "neuter",
+    "definition": "ein gebautes Objekt, wie ein Gebäude oder eine Brücke",
+    "pronunciation": "/ˈbaʊ̯vɛʁk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bauwerk“ setzt sich aus „Bau“ und „Werk“ zusammen. „Werk“ bedeutet „Erzeugnis“ oder „Produkt“ und ist verwandt mit dem mittelhochdeutschen „werc“ und dem althochdeutschen „werc“.",
+        "targetText": "Cuvântul german „Bauwerk“ este compus din „Bau“ și „Werk“, unde „Werk“ înseamnă „lucrare“ sau „produs“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Bauwerk kann alles von einem Haus bis hin zu Brücken und Denkmälern sein."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "construcție",
+    "genus": "feminine",
+    "definition": "un obiect construit, cum ar fi o clădire sau un pod",
+    "pronunciation": "/konstrukˈtsi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „construcție“ ist dasselbe wie für das Wort „Bau“ und bedeutet „Errichtung“ oder „Aufbau“ und wird oft für große Projekte verwendet.",
+        "targetText": "Cuvântul românesc „construcție“ este același ca pentru „Bau“ și înseamnă „ridicare“ sau „construcție“, folosit adesea pentru proiecte mari."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Construcții sind wichtige Teile der Infrastruktur."
+  },
+  "senses": [
+    {
+      "gloss": "Bauwerk (Brücke)",
+      "explanation": {
+        "sourceText": "Auch im Sinne von 'Brücke' genutzt.",
+        "targetText": "Folosit și în sensul de „pod“."
+      },
+      "examples": [
+        {
+          "sourceText": "Diese Brücke ist ein faszinierendes Bauwerk.",
+          "targetText": "Acest pod este o construcție fascinantă."
+        }
+      ]
+    },
+    {
+      "gloss": "Bauwerk (Gebäude)",
+      "explanation": {
+        "sourceText": "Verwendet im Sinne von 'Gebäude'.",
+        "targetText": "Folosit în sensul de „clădire“."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Bauwerk ist beeindruckend.",
+          "targetText": "Construcția este impresionantă."
+        },
+        {
+          "sourceText": "Das Bauwerk wurde vor vielen Jahren erbaut.",
+          "targetText": "Construcția a fost realizată cu mulți ani în urmă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Architektur",
+      "targetText": "arhitectură"
+    },
+    {
+      "sourceText": "Bau",
+      "targetText": "construcție"
+    },
+    {
+      "sourceText": "Brücke",
+      "targetText": "pod"
+    },
+    {
+      "sourceText": "Gebäude",
+      "targetText": "clădire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abriss",
+      "targetText": "demolare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Bauwerk ist beeindruckend.",
+      "targetText": "Construcția este impresionantă."
+    },
+    {
+      "sourceText": "Das Bauwerk wurde vor vielen Jahren erbaut.",
+      "targetText": "Construcția a fost realizată cu mulți ani în urmă."
+    },
+    {
+      "sourceText": "Architekten entwerfen große Bauwerke.",
+      "targetText": "Arhitecții proiectează mari construcții."
+    },
+    {
+      "sourceText": "Die Statik des Bauwerks wurde überprüft.",
+      "targetText": "Statica construcției a fost verificată."
+    },
+    {
+      "sourceText": "Schöne Bauwerke sind Touristenattraktionen.",
+      "targetText": "Construcții frumoase sunt atracții turistice."
+    },
+    {
+      "sourceText": "Das neue Bauwerk wird bald eingeweiht.",
+      "targetText": "Noua construcție va fi inaugurată în curând."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Schau dir Videos über beeindruckende Bauwerke weltweit an, um einen visuellen Bezug herzustellen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Bauwerk“ mit „Werk“ als Ergebnis von etwas, das du selbst bauen würdest."
+    },
+    {
+      "lang": "de",
+      "text": "Verwende das Wort „construcție“ beim Sprechen über architektonische Designs."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „construcție“ hörst, stelle dir die imposanten Bauwerke deiner Stadt vor."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

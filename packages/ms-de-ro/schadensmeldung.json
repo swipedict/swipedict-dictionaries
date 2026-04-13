@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-schadensmeldung",
+  "parent": "ms-ro-aviz-de-dauna-0a836af4@03fc4de38b8fa4f83cb1ba9a9d0e046c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schadensmeldung",
+    "genus": "feminine",
+    "definition": "Eine Mitteilung oder Anzeige über einen Schaden, meist im Zusammenhang mit Versicherungen oder technischen Problemen.",
+    "pronunciation": "/ˈʃaːdənˌmɛldʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schadensmeldung“ setzt sich aus „Schaden“ (von althochdeutsch 'scado', verwandt mit dem englischen 'scathe') und „Meldung“ (von mittelhochdeutsch 'melden', was 'melden, anzeigen' bedeutet) zusammen.",
+        "targetText": "Cuvântul german „Schadensmeldung“ este compus din „Schaden“ (din germana veche înaltă 'scado', înrudit cu englezescul 'scathe') și „Meldung“ (din germana mijlocie 'melden', care înseamnă 'a raporta, a anunța')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aviz de daună",
+    "genus": "feminine",
+    "definition": "O notificare oficială despre un prejudiciu sau o pagubă, folosită în special în contextul asigurărilor.",
+    "pronunciation": "/aˈviz de ˈdaunə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „aviz de daună“ stammt vom französischen Wort „avis“ ab, das 'Mitteilung' oder 'Benachrichtigung' bedeutet, und vom lateinischen 'damnum' für 'Schaden'.",
+        "targetText": "Expresia românească „aviz de daună“ provine din cuvântul francez „avis“, care înseamnă 'aviz' sau 'notificare', și din latinescul 'damnum', care înseamnă 'daună' sau 'prejudiciu'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Meldung",
+      "targetText": "aviz"
+    },
+    {
+      "sourceText": "Schaden",
+      "targetText": "daună"
+    },
+    {
+      "sourceText": "Schadensersatz",
+      "targetText": "despăgubire"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Schadensmeldung muss innerhalb von 24 Stunden eingereicht werden.",
+      "targetText": "Avizul de daună trebuie depus în termen de 24 de ore."
+    },
+    {
+      "sourceText": "Nach dem Unfall machte er sofort eine Schadensmeldung bei der Versicherung.",
+      "targetText": "După accident, a făcut imediat un aviz de daună la asigurare."
+    },
+    {
+      "sourceText": "Die Schadensmeldung enthält alle wichtigen Details zum Vorfall.",
+      "targetText": "Avizul de daună conține toate detaliile importante despre incident."
+    },
+    {
+      "sourceText": "Bitte füllen Sie das Formular für die Schadensmeldung sorgfältig aus.",
+      "targetText": "Vă rugăm să completați cu atenție formularul pentru avizul de daună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „aviz“ klingt ähnlich wie das französische „avis“, was dir helfen kann, es als 'Mitteilung' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „aviz de daună“ wird oft in Versicherungsfällen verwendet – denk an den offiziellen Papierkram nach einem Unfall."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst einen 'Avis' (Brief) über einen 'Daună' (Schaden) – so merkst du dir die zusammengesetzte Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „daună“ mit dem deutschen Wort „Schaden“ – beide bedeuten einen Verlust oder eine Beschädigung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

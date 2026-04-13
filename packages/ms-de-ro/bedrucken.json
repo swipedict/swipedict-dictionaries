@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-bedrucken",
+  "parent": "ms-ro-a-imprima-6b27cafe@5e2d16be284e10a657c10b568ccdfc28",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bedrucken",
+    "definition": "mit Farbe oder Muster versehen",
+    "pronunciation": "/bəˈdʁʊkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich zusammen aus „be-“, einer Präfixform und „drucken“.",
+        "targetText": "Das Verb „bedrucken“ setzt sich aus dem Präfix „be-“ und dem Verb „drucken“ zusammen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in einem technischen oder künstlerischen Kontext verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a imprima",
+    "definition": "a pune culoare sau un model",
+    "pronunciation": "/a imˈpri.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A imprima“ stammt vom lateinischen „imprimere“ und bedeutet „auf etwas drücken“ oder „abdrücken“.",
+        "targetText": "Verbul românesc „a imprima“ provine din latină, din „imprimere“, care înseamnă „a apăsa pe ceva“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Häufig im Kontext von Drucktechniken in der Industrie oder Kunst verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Drucken / Bedrucken",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für das Bedrucken von Unterlagen.",
+        "targetText": "Ca în germană: pentru imprimarea documentelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bedrucke das Papier.",
+          "targetText": "Eu imprim hârtia."
+        },
+        {
+          "sourceText": "Der Drucker bedruckt das Etikett.",
+          "targetText": "Imprimanta imprimă eticheta."
+        }
+      ]
+    },
+    {
+      "gloss": "Textildruck",
+      "explanation": {
+        "sourceText": "Für das Bedrucken von Textilien.",
+        "targetText": "Pentru imprimarea textilelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir bedrucken die T-Shirts.",
+          "targetText": "Imprimăm tricourile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Farbe",
+      "targetText": "culoare"
+    },
+    {
+      "sourceText": "Muster",
+      "targetText": "model"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Textil",
+      "targetText": "textil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rein",
+      "targetText": "a curăța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bedrucke das Papier.",
+      "targetText": "Eu imprim hârtia."
+    },
+    {
+      "sourceText": "Bedruckst du die T-Shirts?",
+      "targetText": "Imprimați tricourile?"
+    },
+    {
+      "sourceText": "Der Drucker bedruckt das Etikett.",
+      "targetText": "Imprimanta imprimă eticheta."
+    },
+    {
+      "sourceText": "Wir bedrucken die Plakate.",
+      "targetText": "Noi imprimăm afișele."
+    },
+    {
+      "sourceText": "Bedruckt ihr die Bücher?",
+      "targetText": "Imprimați cărțile?"
+    },
+    {
+      "sourceText": "Sie bedrucken die Karten.",
+      "targetText": "Ei imprimă cărțile."
+    },
+    {
+      "sourceText": "Ich habe das Etikett bedruckt.",
+      "targetText": "Am imprimat eticheta."
+    },
+    {
+      "sourceText": "Er bedruckte die Flyer.",
+      "targetText": "El imprima pliantele."
+    },
+    {
+      "sourceText": "Ich werde die Einladungen bedrucken.",
+      "targetText": "Voi imprima invitațiile."
+    },
+    {
+      "sourceText": "Ich würde sie bedrucken, wenn ich die Zeit hätte.",
+      "targetText": "Le-aș imprima, dacă aș avea timp."
+    },
+    {
+      "sourceText": "Bedrucke das Banner!",
+      "targetText": "Imprimă bannerul!"
+    },
+    {
+      "sourceText": "Das bedruckte Papier wurde verteilt.",
+      "targetText": "Hârtia imprimată a fost distribuită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„imprima“ klingt wie das englische „imprint“ – stell dir vor, du drückst ein Muster auf Papier."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: -ez, -ezi, -ează, -ăm, -ați, -ează – so konjugierst du „a imprima“ richtig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

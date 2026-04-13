@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-vierzig",
+  "parent": "ms-ro-patruzeci-5534e8b8@7af13e035c28ee1dd04caeca5be6a614",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vierzig",
+    "definition": "Die Zahl 40, die nach 39 und vor 41 kommt.",
+    "pronunciation": "/ˈfiːɐ̯tsɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „vierzig“ stammt vom althochdeutschen 'fiorzig' ab, das eine Zusammensetzung aus 'vier' und einer alten Form von 'zig' (Zehner) ist und auf das germanische Zahlensystem zurückgeht.",
+        "targetText": "Cuvântul german „vierzig” provine din germana veche înaltă 'fiorzig', o compunere între 'vier' (patru) și o formă veche de 'zig' (zecime), reflectând sistemul numeric germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "patruzeci",
+    "definition": "Numărul 40, care vine după 39 și înainte de 41.",
+    "pronunciation": "/pa.truˈt͡ʃeʦʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „patruzeci“ stammt vom lateinischen 'quadraginta' ab, das sich im Laufe der Zeit phonologisch und morphologisch verändert hat, wobei der Anfang 'quadra-' zu 'patru' (vier) wurde und '-ginta' zu '-zeci' (Zehner).",
+        "targetText": "Cuvântul românesc „patruzeci” derivă din latină 'quadraginta', care s-a modificat fonologic și morfologic de-a lungul timpului, transformând începutul 'quadra-' în 'patru' (patru) și '-ginta' în '-zeci' (zecime)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dreißig",
+      "targetText": "treizeci"
+    },
+    {
+      "sourceText": "fünfzig",
+      "targetText": "cincizeci"
+    },
+    {
+      "sourceText": "vier",
+      "targetText": "patru"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich bin vierzig Jahre alt.",
+      "targetText": "Am patruzeci de ani."
+    },
+    {
+      "sourceText": "Vierzig ist eine runde Zahl.",
+      "targetText": "Patruzeci este un număr rotund."
+    },
+    {
+      "sourceText": "Das Buch kostet vierzig Euro.",
+      "targetText": "Cartea costă patruzeci de euro."
+    },
+    {
+      "sourceText": "Er hat vierzig Kilometer gelaufen.",
+      "targetText": "El a alergat patruzeci de kilometri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'vierzig' und das rumänische 'patruzeci' stammen beide vom Lateinischen ab, was dir hilft, die Verbindung zwischen den Zahlen zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'patruzeci' beginnt mit 'patru', was 'vier' bedeutet. So kannst du dir merken, dass es mit der Zahl 4 zusammenhängt."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-zeci' in 'patruzeci' steht für Zehner. Andere Zahlen wie 'treizeci' (30) oder 'cincizeci' (50) haben dieselbe Endung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast vier (patru) Zehner (zeci) in einer Reihe – das ergibt 'patruzeci'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

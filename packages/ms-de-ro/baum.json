@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-baum",
+  "parent": "ms-ro-copac-87591f81@38bcc702570b76b36e1eb01ab156b6e7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:dacian",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Baum",
+    "genus": "masculine",
+    "definition": "eine mehrjährige, verholzte Pflanze, die aus Wurzel, Stamm, Krone und Blättern besteht und eine bestimmte Mindesthöhe erreicht",
+    "pronunciation": "/baʊ̯m/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Althochdeutsch 'boum', mittelhochdeutsch 'boum'. Germanische Wurzel, verwandt mit englisch 'beam' (ursprünglich Baum, Balken).",
+        "targetText": "Cuvântul german „Baum“ provine din germana veche „boum“, având rădăcini germanice, înrudit cu englezescul „beam“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Plural: Bäume. Bäume sind essenziell für das Ökosystem, produzieren Sauerstoff und bieten Lebensraum."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "copac",
+    "genus": "masculine",
+    "definition": "plantă perenă lemnoasă, formată din rădăcină, trunchi, coroană și frunze, care atinge o anumită înălțime minimă; arbore",
+    "pronunciation": "/koˈpak/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Ungewisse Herkunft. Möglicherweise ein autochthones Wort (thrakisch-dakisch) oder Verbindungen zu anderen Sprachen der Region. Einige Theorien bringen es mit dem lateinischen 'caput' (Kopf, bezogen auf die Baumkrone) in Verbindung oder spekulieren über andere Ursprünge. Partielles Synonym: 'arbore' (aus lat. 'arbor').",
+        "targetText": "Originea cuvântului „copac“ este incertă, posibil autohtonă (traco-dacică) sau legată de alte limbi regionale; unele teorii îl leagă de latinul „caput“ (cap), referindu-se la coroana copacului."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Der Plural ist: copaci. Es gibt eine große Vielfalt an Baumarten. 'Arbore' ist ein gehobeneres oder poetischeres Synonym."
+  },
+  "senses": [
+    {
+      "gloss": "Baum (als Pflanze)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die gesamte Pflanze mit Stamm, Ästen und Blättern.",
+        "targetText": "Se referă la planta completă cu trunchi, ramuri și frunze."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Baum im Garten ist sehr alt.",
+          "targetText": "Copacul din grădină este foarte bătrân."
+        },
+        {
+          "sourceText": "Unter dem Baum ist es schattig.",
+          "targetText": "Sub copac este umbros."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ast",
+      "targetText": "creangă"
+    },
+    {
+      "sourceText": "Blatt",
+      "targetText": "frunză"
+    },
+    {
+      "sourceText": "Holz",
+      "targetText": "lemn"
+    },
+    {
+      "sourceText": "pflanzen",
+      "targetText": "a planta"
+    },
+    {
+      "sourceText": "Stamm",
+      "targetText": "trunchi"
+    },
+    {
+      "sourceText": "Wald",
+      "targetText": "pădure"
+    },
+    {
+      "sourceText": "Wurzel",
+      "targetText": "rădăcină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Keimling",
+      "targetText": "puiet"
+    },
+    {
+      "sourceText": "Strauch",
+      "targetText": "arbust"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Baum hat viele Äste.",
+      "targetText": "Copacul are multe crengi."
+    },
+    {
+      "sourceText": "Im Herbst verlieren die Bäume ihre Blätter.",
+      "targetText": "Toamna, copacii își pierd frunzele."
+    },
+    {
+      "sourceText": "Ein Baum kann sehr alt werden.",
+      "targetText": "Un copac poate trăi foarte mult."
+    },
+    {
+      "sourceText": "Ich habe einen Apfelbaum gepflanzt.",
+      "targetText": "Am plantat un măr."
+    },
+    {
+      "sourceText": "Die Vögel singen in den Bäumen.",
+      "targetText": "Păsările cântă în copaci."
+    },
+    {
+      "sourceText": "Der Schatten des Baumes ist angenehm.",
+      "targetText": "Umbra copacului este plăcută."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Baum“ und das rumänische „copac“ sind beide wichtige Wörter für diese Pflanze – verbinde sie mit dem Bild eines großen Baumes."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir das Wort „arbore“ als ein formelleres Synonym, das direkt vom Lateinischen „arbor“ kommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

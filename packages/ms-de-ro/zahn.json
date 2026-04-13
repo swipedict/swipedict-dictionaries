@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-zahn",
+  "parent": "ms-ro-dinte-d87c5116@6a1abbb52618f8d406048021495e04d0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zahn",
+    "genus": "masculine",
+    "definition": "ein harter, knöcherner Teil des Kiefers, der zum Kauen von Nahrung dient",
+    "pronunciation": "/tsaːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zahn“ stammt vom althochdeutschen „zān“ ab, mit indoeuropäischer Wurzel, die „scharf“ oder „schnittig“ bedeutet.",
+        "targetText": "Cuvântul german „Zahn“ provine din germana veche „zān“, având o rădăcină indo-europeană ce înseamnă „ascuțit“ sau „tăios“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Zähne sind wichtig für das Kauen und die Artikulation von Sprache."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dinte",
+    "genus": "masculine",
+    "definition": "o parte tare, osoasă a maxilarului, folosită pentru a mesteca mâncarea",
+    "pronunciation": "/ˈdinte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dinte“ stammt vom lateinischen „dentem“ ab, abgeleitet von „dentes“, was „Zähne“ bedeutet, mit indogermanischer Wurzel für „scharf“.",
+        "targetText": "Cuvântul românesc „dinte“ provine din latină, de la „dentem“, plural „dentes“, însemnând „dinți“, cu o rădăcină indo-europeană ce înseamnă „ascuțit“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Im Rumänischen gibt es viele Redewendungen, die das Wort „dinte“ verwenden, besonders im Gesundheitskontext."
+  },
+  "senses": [
+    {
+      "gloss": "Zahn (im übertragenen Sinne: scharf)",
+      "explanation": {
+        "sourceText": "Nutzt das Wort metaphorisch, um etwas Scharfes oder Schneidendes zu beschreiben.",
+        "targetText": "Folosește cuvântul metaforic pentru a descrie ceva ascuțit sau tăios."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Wetter hat einen scharfen Zahn heute.",
+          "targetText": "Vremea are un dinte ascuțit astăzi."
+        }
+      ]
+    },
+    {
+      "gloss": "Zahn (Körperteil)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Körperstruktur, die im Mund zum Kauen verwendet wird.",
+        "targetText": "Se referă la structura corporală din gură folosită pentru mestecat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe einen Zahnschmerz.",
+          "targetText": "Am un dinte inflamat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kauen",
+      "targetText": "mesteca"
+    },
+    {
+      "sourceText": "Mund",
+      "targetText": "gură"
+    },
+    {
+      "sourceText": "Zahnarzt",
+      "targetText": "dentist"
+    },
+    {
+      "sourceText": "Zahnfleisch",
+      "targetText": "gingie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kiefer",
+      "targetText": "maxilar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich muss unbedingt zum Zahnarzt.",
+      "targetText": "Trebuie să merg neapărat la dentist."
+    },
+    {
+      "sourceText": "Meine Zähne sind sehr empfindlich.",
+      "targetText": "Dinții mei sunt foarte sensibili."
+    },
+    {
+      "sourceText": "Zähne putzen ist wichtig für die Gesundheit.",
+      "targetText": "Periajul dinților este important pentru sănătate."
+    },
+    {
+      "sourceText": "Er hat einen Zahn verloren.",
+      "targetText": "A pierdut un dinte."
+    },
+    {
+      "sourceText": "Der Zahnarzt hat mir eine Füllung gemacht.",
+      "targetText": "Dentistul mi-a făcut un plomb."
+    },
+    {
+      "sourceText": "Es ist wichtig, regelmäßig zum Zahnarzt zu gehen.",
+      "targetText": "Este important să mergi regulat la dentist."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Dinte“ klingt ähnlich wie „Ding“ – denke an viele kleine Dinge in deinem Mund, die beim Kauen helfen."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich, dass „dinte“ oft in rumänischen Sprichwörtern vorkommt – das macht das Wort lebendig."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze das Wort „dinte“, wenn du über Zahnpflege sprichst, um es zu festigen."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du bei jedem Biss deinen „dinte“ (Zahn) festhältst – so merkst du dir das Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

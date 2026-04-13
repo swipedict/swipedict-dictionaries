@@ -1,0 +1,157 @@
+{
+  "id": "ms-de-ro-verbessern",
+  "parent": "ms-ro-a-imbunatati-e83ae5aa@d16ba2bfec866e78bbdfbdd5593ac641",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verbessern",
+    "definition": "die Qualität oder den Zustand von etwas erhöhen oder optimieren",
+    "pronunciation": "/fɛʁˈbeːsɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Verbessern“ stammt vom mittelhochdeutschen „verbessern“, zusammengesetzt aus „ver-“ (umkehren) und „bessern“ (besser machen).",
+        "targetText": "Verbul „verbessern“ provine din germana mijlocie, format din prefixul „ver-“ și „bessern“, însemnând a face ceva mai bun."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet in Bezug auf die Verbesserung von Fähigkeiten, Leistungen oder Bedingungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îmbunătăți",
+    "definition": "a spori sau a optimiza calitatea sau starea cuiva",
+    "pronunciation": "/ɨm.bu.nə.təˈtsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A îmbunătăți“ ist eine Neubildung im Rumänischen, zusammengesetzt aus dem Präfix „îm-“ und dem Adjektiv „bun“ (gut) mit dem Verbalsuffix „-ătăți“. Es bedeutet wörtlich „gut machen“ oder „besser machen“.",
+        "targetText": "„A îmbunătăți“ este o creație internă a limbii române, formată din prefixul „îm-”, adjectivul „bun” și sufixul verbal „-ătăți”, cu sensul de „a face mai bun”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um etwas zu optimieren oder zu verbessern."
+  },
+  "senses": [
+    {
+      "gloss": "Bessermachen",
+      "explanation": {
+        "sourceText": "Allgemein für Zustände oder Dinge, die verbessert werden können.",
+        "targetText": "General pentru stări sau lucruri ce pot fi îmbunătățite."
+      },
+      "examples": [
+        {
+          "sourceText": "Das neue System verbessert die Effizienz.",
+          "targetText": "Noul sistem îmbunătățește eficiența."
+        }
+      ]
+    },
+    {
+      "gloss": "Optimieren",
+      "explanation": {
+        "sourceText": "Im Sinne von effizienter oder fehlerfreier werden.",
+        "targetText": "În sensul de a deveni mai eficient sau fără erori."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen den Prozess verbessern.",
+          "targetText": "Trebuie să îmbunătățim procesul."
+        }
+      ]
+    },
+    {
+      "gloss": "Verbessern (zum Beispiel in der Schule)",
+      "explanation": {
+        "sourceText": "Für Schulleistungen oder akademische Fähigkeiten.",
+        "targetText": "Pentru performanțe școlare sau abilități academice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verbessere meine Noten durch Lernen.",
+          "targetText": "Eu îmbunătățesc notele mele prin învățare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "effektiv",
+      "targetText": "eficient"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Lösung",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "schnell",
+      "targetText": "rapid"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschlechtern",
+      "targetText": "a agrava"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verbessere mein Französisch.",
+      "targetText": "Eu îmbunătățesc franceza mea."
+    },
+    {
+      "sourceText": "Er verbessert seine Noten.",
+      "targetText": "El îmbunătățește notele sale."
+    },
+    {
+      "sourceText": "Ich habe mein Deutsch verbessert.",
+      "targetText": "Am îmbunătățit germana mea."
+    },
+    {
+      "sourceText": "Ich werde meine Skills verbessern.",
+      "targetText": "Voi îmbunătăți abilitățile mele."
+    },
+    {
+      "sourceText": "Verbessere deine Arbeit!",
+      "targetText": "Îmbunătățește-ți munca!"
+    },
+    {
+      "sourceText": "Das verbesserte Programm läuft stabil.",
+      "targetText": "Programul îmbunătățit funcționează stabil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a îmbunătăți“ das Wort „bun“ (gut) enthält – denke an etwas, das besser wird."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „îmbunătățesc“, um die Konjugation zu festigen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „verbessern“ mit „ver-“ und „besser“ – beide deuten auf Optimierung hin."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

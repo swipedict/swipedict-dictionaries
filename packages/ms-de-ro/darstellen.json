@@ -1,0 +1,196 @@
+{
+  "id": "ms-de-ro-darstellen",
+  "parent": "ms-ro-a-reprezenta-a95dc2a3@f7068762d2b246f4d7a4f1271b1aa032",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "darstellen",
+    "definition": "etwas auf eine bestimmte Weise präsentieren oder zeigen",
+    "pronunciation": "/ˈdaʁʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „darstellen“ hat seine Wurzeln im mittelhochdeutschen „darstellen“ (was „vorstellen“ bedeutet) und setzt sich zusammen aus „dar“ (heraus, hervor) und „stellen“ (setzen, bringen). Es wird verwendet, um etwas visuell oder theoretisch zu präsentieren.",
+        "targetText": "Verbul german „darstellen“ provine din mijlocigermanicul „darstellen“ care înseamnă „a prezenta“, compus din „dar“ (înainte) și „stellen“ (a pune). Se folosește pentru a arăta sau prezenta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb. Oft in der Kunst oder Präsentation von Inhalten verwendet. In der modernen Sprache hat es auch metaphorische Bedeutungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reprezenta",
+    "definition": "a prezenta sau a arăta ceva într-un anumit mod",
+    "pronunciation": "/a re.pɨ.zenˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „a reprezenta“ stammt vom Lateinischen „repraesentare“, was „präsentieren, darstellen“ bedeutet. Es ist ein gängiger Ausdruck in der rumänischen Sprache, wenn man über Kunst, Theater oder Präsentationen spricht.",
+        "targetText": "Cuvântul românesc „a reprezenta“ derivă din latinescul „repraesentare“, care înseamnă „a prezenta“ sau „a arăta“. Este folosit frecvent în artă și teatru."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Verwendet, um verschiedene Darstellungen und Interpretationen auszudrücken, sowohl künstlerisch als auch theoretisch."
+  },
+  "senses": [
+    {
+      "gloss": "Interpretation",
+      "explanation": {
+        "sourceText": "Das Wort beschreibt oft die kreativen Ansätze zur Präsentation.",
+        "targetText": "Cuvântul descrie adesea abordările creative ale prezentării."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Interpretation des Werkes war innovativ.",
+          "targetText": "Interpretarea lucrării a fost inovatoare."
+        }
+      ]
+    },
+    {
+      "gloss": "Präsentation",
+      "explanation": {
+        "sourceText": "Das Wort wird oft in der Kunst zur Beschreibung visueller Darstellungen verwendet.",
+        "targetText": "Cuvântul este folosit frecvent în artă pentru a descrie reprezentări vizuale."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Präsentation des Künstlers war beeindruckend.",
+          "targetText": "Prezentarea artistului a fost impresionantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bild",
+      "targetText": "imagine"
+    },
+    {
+      "sourceText": "Darstellung",
+      "targetText": "reprezentare"
+    },
+    {
+      "sourceText": "Interpretation",
+      "targetText": "interpretare"
+    },
+    {
+      "sourceText": "Künstler",
+      "targetText": "artist"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verbergen",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle das Bild dar.",
+      "targetText": "Eu reprezint imaginea."
+    },
+    {
+      "sourceText": "Stellst du die Idee dar?",
+      "targetText": "Reprezinți ideea?"
+    },
+    {
+      "sourceText": "Er stellt die Argumente dar.",
+      "targetText": "El reprezintă argumentele."
+    },
+    {
+      "sourceText": "Wir stellen die Daten dar.",
+      "targetText": "Noi reprezentăm datele."
+    },
+    {
+      "sourceText": "Stellt ihr die Informationen dar?",
+      "targetText": "Reprezentați informațiile?"
+    },
+    {
+      "sourceText": "Sie stellen den Charakter dar.",
+      "targetText": "Ei reprezintă caracterul."
+    },
+    {
+      "sourceText": "Ich habe das Stück dargelegt.",
+      "targetText": "Am reprezentat piesa."
+    },
+    {
+      "sourceText": "Sie haben die Ansicht dargestellt.",
+      "targetText": "Au reprezentat viziunea."
+    },
+    {
+      "sourceText": "Er stellte die Szene oft dar.",
+      "targetText": "El reprezenta des scena."
+    },
+    {
+      "sourceText": "Ich hatte das Bild bereits dargestellt.",
+      "targetText": "Reprezentasem deja imaginea."
+    },
+    {
+      "sourceText": "Ich werde die Studie darstellen.",
+      "targetText": "Voi reprezenta studiul."
+    },
+    {
+      "sourceText": "Sie wird das Projekt darstellen.",
+      "targetText": "Ea o să reprezinte proiectul."
+    },
+    {
+      "sourceText": "Ich würde dir die Ergebnisse darstellen.",
+      "targetText": "Ți-aș reprezenta rezultatele."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du die Ideen darstellst.",
+      "targetText": "Este necesar să reprezinți ideile."
+    },
+    {
+      "sourceText": "Stell das Konzept dar!",
+      "targetText": "Reprezintă conceptul!"
+    },
+    {
+      "sourceText": "Stellen Sie das Projekt dar!",
+      "targetText": "Reprezentați proiectul!"
+    },
+    {
+      "sourceText": "Das dargestellte Bild ist beeindruckend.",
+      "targetText": "Imaginea reprezentată este impresionantă."
+    },
+    {
+      "sourceText": "Die Studie ist dargestellt.",
+      "targetText": "Studiul este reprezentat."
+    },
+    {
+      "sourceText": "Indem er das Bild darstellt, erzeugt er viele Emotionen.",
+      "targetText": "Reprezentând imaginea, el generează multe emoții."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A reprezenta“ kannst du leicht mit „darstellen“ verknüpfen – denke an Kunst und Dramaturgie!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe verschiedene Situationen, in denen du etwas darstellen musst: einer Gruppe vorstellen, im Theater arbeiten etc."
+    },
+    {
+      "lang": "de",
+      "text": "Verwende Merksprüche, um dir die Formulierungen zu merken – „Stelle dir die Vorstellung vor!“ als spielerischer Ansatz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

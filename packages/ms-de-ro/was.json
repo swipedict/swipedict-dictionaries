@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-was",
+  "parent": "ms-ro-ce-32d1bf4c@5f3c02dee1149663d0b3276632db5af4",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "was",
+    "definition": "Fragepronomen, das nach einer Sache, Handlung oder einem Sachverhalt fragt.",
+    "pronunciation": "/vas/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Fragepronomen „was“ stammt vom althochdeutschen 'was' ab, das auf das urgermanische *hwas zurückgeht und ‚was‘ oder ‚etwas‘ bedeutete.",
+        "targetText": "Pronumele german „was“ provine din germana veche înaltă 'was', derivat din proto-germanicul *hwas, însemnând „ce” sau „ceva”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ce",
+    "definition": "Pronume interogativ, folosit pentru a întreba despre un lucru, o acțiune sau o situație.",
+    "pronunciation": "/tʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Fragepronomen „ce“ stammt vom lateinischen Demonstrativpronomen 'quid' ab, das sich im Laufe der Zeit zu 'ce' entwickelte und ‚was‘ bedeutet.",
+        "targetText": "Pronumele românesc „ce” provine din pronumele demonstrativ latin 'quid', care în timp a evoluat în 'ce', însemnând „ce”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "wann",
+      "targetText": "când"
+    },
+    {
+      "sourceText": "wer",
+      "targetText": "cine"
+    },
+    {
+      "sourceText": "wie",
+      "targetText": "cum"
+    },
+    {
+      "sourceText": "wo",
+      "targetText": "unde"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Was machst du?",
+      "targetText": "Ce faci?"
+    },
+    {
+      "sourceText": "Was ist das?",
+      "targetText": "Ce este asta?"
+    },
+    {
+      "sourceText": "Ich weiß nicht, was er sagt.",
+      "targetText": "Nu știu ce spune el."
+    },
+    {
+      "sourceText": "Was möchtest du essen?",
+      "targetText": "Ce vrei să mănânci?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'was' und das rumänische 'ce' sind beide kurze Fragewörter, die du oft im Alltag brauchst."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'ce' klingt wie das deutsche 'Tsche' – stell dir vor, du fragst neugierig 'Tsche?'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du fragst 'Ce?' wie ein neugieriges Kind, das alles wissen will."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'ce' mit dem lateinischen 'quid', das auch 'was' bedeutet – so merkst du dir die Herkunft."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

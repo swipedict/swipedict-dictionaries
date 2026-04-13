@@ -1,0 +1,196 @@
+{
+  "id": "ms-de-ro-auftreten",
+  "parent": "ms-ro-a-aparea-eb5ba71c@ee8047387b2dffcdcfe8935e28e121a1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auftreten",
+    "definition": "sich zeigen oder präsentieren; auf der Bühne sein",
+    "pronunciation": "/ˈaʊ̯fˌtʁeːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „auftreten“ setzt sich aus dem Präfix „auf-“ (eine Bewegung nach oben oder hervor) und dem Verb „treten“ zusammen, das ursprünglich „schreiten“ oder „einen Schritt machen“ bedeutet. Es beschreibt das Hervortreten oder Sichzeigen, besonders auf einer Bühne.",
+        "targetText": "Verbul „a apărea“ provine din latinescul „apparere“, care înseamnă „a se arăta“ sau „a apărea“. În limba română, este folosit pentru a descrie manifestarea sau apariția unei persoane sau situații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Übertragen auf Personen und Situationen, z.B. das Auftreten von Problemen oder Personen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a apărea",
+    "definition": "a se arăta sau a se prezenta; a fi pe scenă",
+    "pronunciation": "/ə apəˈrea/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a apărea“ stammt aus dem lateinischen „apparere“, was „erscheinen“ bedeutet. Es hat sich im rumänischen Sprachraum verbreitet und wird in verschiedenen Kontexten verwendet, um das Erscheinen von Personen oder Dingen zu beschreiben.",
+        "targetText": "Verbul românesc „a apărea“ provine din latinescul „apparere“, care înseamnă „a se arăta“. Este folosit pentru a descrie apariția sau manifestarea în diverse contexte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet für Bühnenauftritte und gesellschaftliche Erscheinungen."
+  },
+  "senses": [
+    {
+      "gloss": "auftreten (Erscheinen)",
+      "explanation": {
+        "sourceText": "Das Erscheinen im sozialen oder allgemeinen Kontext.",
+        "targetText": "Apariția în context social sau general."
+      },
+      "examples": [
+        {
+          "sourceText": "Er tritt bei Veranstaltungen auf.",
+          "targetText": "El apare la evenimente."
+        }
+      ]
+    },
+    {
+      "gloss": "auftreten (Theater)",
+      "explanation": {
+        "sourceText": "Verwendet im Kontext von Auftritten auf der Bühne.",
+        "targetText": "Folosit în contextul aparițiilor pe scenă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich trete auf der Bühne auf.",
+          "targetText": "Eu apar pe scenă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bühne",
+      "targetText": "scenă"
+    },
+    {
+      "sourceText": "Publikum",
+      "targetText": "public"
+    },
+    {
+      "sourceText": "Schauspieler",
+      "targetText": "actor"
+    },
+    {
+      "sourceText": "Vorstellung",
+      "targetText": "spectacol"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschwinden",
+      "targetText": "a dispărea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trete bei der Konferenz auf.",
+      "targetText": "Eu apar la conferință."
+    },
+    {
+      "sourceText": "Trittst du heute auf?",
+      "targetText": "Apari tu astăzi?"
+    },
+    {
+      "sourceText": "Er tritt als Hauptredner auf.",
+      "targetText": "El apare ca vorbitor principal."
+    },
+    {
+      "sourceText": "Wir treten gemeinsam auf.",
+      "targetText": "Noi aparăm împreună."
+    },
+    {
+      "sourceText": "Tretet ihr auch beim Fest auf?",
+      "targetText": "Apareți și voi la petrecere?"
+    },
+    {
+      "sourceText": "Sie treten in der besten Tanzgruppe auf.",
+      "targetText": "Ei apar în cea mai bună grupă de dans."
+    },
+    {
+      "sourceText": "Ich bin gestern aufgetreten.",
+      "targetText": "Am apărut ieri."
+    },
+    {
+      "sourceText": "Sie sind letzte Woche aufgetreten.",
+      "targetText": "Ei au apărut săptămâna trecută."
+    },
+    {
+      "sourceText": "Er trat oft in der Schule auf.",
+      "targetText": "El apărea des la școală."
+    },
+    {
+      "sourceText": "Ich war schon aufgetreten, als du ankamst.",
+      "targetText": "Apărasem deja când ai sosit."
+    },
+    {
+      "sourceText": "Ich werde nächste Woche auftreten.",
+      "targetText": "Voi apărea săptămâna viitoare."
+    },
+    {
+      "sourceText": "Sie werden später auftreten.",
+      "targetText": "Ei o să apară mai târziu."
+    },
+    {
+      "sourceText": "Ich würde auftreten, wenn ich könnte.",
+      "targetText": "Aș apărea dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du auftrittst.",
+      "targetText": "Este important să apari."
+    },
+    {
+      "sourceText": "Tritt auf!",
+      "targetText": "Apar!"
+    },
+    {
+      "sourceText": "Tretet auf!",
+      "targetText": "Apărați!"
+    },
+    {
+      "sourceText": "Der aufgetretene Fehler wurde schnell behoben.",
+      "targetText": "Eroarea apărută a fost rezolvată rapid."
+    },
+    {
+      "sourceText": "Das Stück ist gut aufgetreten.",
+      "targetText": "Numărul a fost bine apărat."
+    },
+    {
+      "sourceText": "Während er auftrat, applaudierten die Zuschauer.",
+      "targetText": "Apariând, spectatorii aplaudau."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A apărea“ wird oft benutzt, nicht nur auf der Bühne, sondern auch im Alltag – denk an das Erscheinen von Personen oder Situationen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Form „auftritt“ klingt ähnlich wie das rumänische „apare“ – diese Klangähnlichkeit hilft dir, die Verbindung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „auf-“ in „auftreten“ bedeutet „hervortreten“, genau wie „a apărea“ im Rumänischen. Beide drücken das Erscheinen aus!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

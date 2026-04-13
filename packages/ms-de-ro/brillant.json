@@ -1,0 +1,172 @@
+{
+  "id": "ms-de-ro-brillant",
+  "parent": "ms-ro-stralucitor-23ece44f@4efa0ba1af044fda2a3b045d0476760f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:french",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "brillant",
+    "definition": "hervorragend, glänzend, ausgezeichnet; von strahlender Helligkeit oder Intelligenz",
+    "pronunciation": "/bʁɪlˈjant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus dem Französischen 'brillant' (glänzend, strahlend), Partizip Präsens von 'briller' (glänzen, strahlen).",
+        "targetText": "Provine din francezul „brillant“, participiul prezent al verbului „briller“ care înseamnă „a străluci“."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Kann sich auf Licht, Farben, Ideen, Leistungen oder Personen beziehen. Auch ein speziell geschliffener Diamant."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "strălucitor",
+    "definition": "care strălucește, care emite sau reflectă o lumină puternică; remarcabil, excepțional, excelent",
+    "pronunciation": "/strə.lu.t͡ʃiˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derivat din 'a străluci' (a străluci) + sufixul '-tor'. Influențat și de französisches 'brillant'.",
+        "targetText": "Derivat din verbul românesc „a străluci“ cu sufixul agent „-tor“, influențat și de francezul „brillant“."
+      },
+      "source": "DEX, Wiktionary"
+    },
+    "additional": "Adjektiv variabel (strălucitor, strălucitoare, strălucitori, strălucitoare). 'Briliant' als Substantiv bezeichnet einen Diamanten."
+  },
+  "senses": [
+    {
+      "gloss": "brillant (glänzend, strahlend)",
+      "explanation": {
+        "sourceText": "Beschreibt physischen Glanz oder strahlende Helligkeit.",
+        "targetText": "Descrie strălucirea fizică sau luminozitatea puternică."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Diamant war brillant geschliffen.",
+          "targetText": "Diamantul era tăiat briliant."
+        },
+        {
+          "sourceText": "Die Sterne leuchteten brillant am Himmel.",
+          "targetText": "Stelele străluceau briliant pe cer."
+        }
+      ]
+    },
+    {
+      "gloss": "brillant (hervorragend, ausgezeichnet)",
+      "explanation": {
+        "sourceText": "Beschreibt herausragende Qualität, Intelligenz oder Leistung.",
+        "targetText": "Descrie o calitate, inteligență sau performanță remarcabilă."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie hatte eine brillante Idee.",
+          "targetText": "Ea a avut o idee strălucitoare."
+        },
+        {
+          "sourceText": "Seine Analyse war brillant.",
+          "targetText": "Analiza sa a fost briliantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "ausgezeichnet",
+      "targetText": "remarcabil"
+    },
+    {
+      "sourceText": "genial",
+      "targetText": "genial"
+    },
+    {
+      "sourceText": "Glanz",
+      "targetText": "strălucire"
+    },
+    {
+      "sourceText": "glänzend",
+      "targetText": "strălucitor"
+    },
+    {
+      "sourceText": "hervorragend",
+      "targetText": "excelent"
+    },
+    {
+      "sourceText": "Intelligenz",
+      "targetText": "inteligență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dunkel",
+      "targetText": "întunecat"
+    },
+    {
+      "sourceText": "gewöhnlich",
+      "targetText": "obișnuit"
+    },
+    {
+      "sourceText": "matt",
+      "targetText": "mat"
+    },
+    {
+      "sourceText": "mittelmäßig",
+      "targetText": "mediocru"
+    },
+    {
+      "sourceText": "stumpf",
+      "targetText": "tern"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Atmosphäre beim Konzert war einfach brillant.",
+      "targetText": "Atmosfera de la concert a fost pur și simplu strălucitoare."
+    },
+    {
+      "sourceText": "Sie hat brillante Ideen für das Projekt.",
+      "targetText": "Ea are idei strălucitoare pentru proiect."
+    },
+    {
+      "sourceText": "Sein brillantes Lächeln verzauberte alle.",
+      "targetText": "Zâmbetul său strălucitor a fermecat pe toată lumea."
+    },
+    {
+      "sourceText": "Der brillante Wissenschaftler erhielt einen Preis.",
+      "targetText": "Savantul briliant a primit un premiu."
+    },
+    {
+      "sourceText": "Die Farben im Gemälde sind brillant.",
+      "targetText": "Culorile din tablou sunt strălucitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚stră‘ am Anfang von ‚strălucitor‘ erinnert an ‚strahlend‘ – so merkst du dir den Glanz."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche 'brillant' und das französische Lehnwort 'briliant' im Rumänischen sind sehr ähnlich – denk an Diamanten!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir einen 'Brillanten' vor – ein glänzender Diamant, der für höchste Qualität steht, genau wie 'strălucitor' für brillante Ideen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

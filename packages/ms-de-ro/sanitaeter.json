@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-sanitaeter",
+  "parent": "ms-ro-paramedic-f0b45d9e@e76ca87a17d3ffa7e9d4b72a025e8a34",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sanitäter",
+    "genus": "masculine",
+    "definition": "Person, die medizinische Ersthilfe leistet, insbesondere bei Unfällen oder Notfällen.",
+    "pronunciation": "/zaniˈtɛːtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Sanitäter“ leitet sich vom Adjektiv „sanitär“ ab, das aus dem lateinischen 'sanitas' (Gesundheit) stammt, mit dem Suffix '-äter' zur Bezeichnung einer Person, die im Gesundheitswesen tätig ist.",
+        "targetText": "Cuvântul „Sanitäter” provine de la adjectivul „sanitär”, derivat din latină 'sanitas' (sănătate), cu sufixul '-äter' care desemnează o persoană activă în domeniul sănătății."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "paramedic",
+    "genus": "masculine",
+    "definition": "Persoană care oferă primul ajutor medical, în special în situații de urgență sau accidente.",
+    "pronunciation": "/paraˈmedik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „paramedic” stammt aus dem Englischen, zusammengesetzt aus dem griechischen Präfix 'para-' (neben) und dem lateinischen 'medicus' (Arzt), bezeichnet eine medizinische Hilfsperson.",
+        "targetText": "Cuvântul românesc „paramedic” provine din engleză, compus din prefixul grecesc 'para-' (alături de) și latinescul 'medicus' (doctor), desemnând o persoană auxiliară medicală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Erste Hilfe",
+      "targetText": "primul ajutor"
+    },
+    {
+      "sourceText": "Krankenpfleger",
+      "targetText": "asistent medical"
+    },
+    {
+      "sourceText": "Rettung",
+      "targetText": "salvare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Sanitäter kam schnell zum Unfallort.",
+      "targetText": "Paramedicul a ajuns rapid la locul accidentului."
+    },
+    {
+      "sourceText": "Sanitäter müssen in Notfällen Ruhe bewahren.",
+      "targetText": "Paramedicii trebuie să păstreze calmul în situații de urgență."
+    },
+    {
+      "sourceText": "Der Sanitäter versorgte die Verletzten vor Ort.",
+      "targetText": "Paramedicul a acordat îngrijiri răniților la fața locului."
+    },
+    {
+      "sourceText": "Viele Sanitäter arbeiten im Rettungsdienst.",
+      "targetText": "Mulți paramedici lucrează în serviciul de ambulanță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „paramedic“ enthält das griechische Präfix „para-“, das „neben“ bedeutet, und erinnert an jemanden, der neben dem Arzt arbeitet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-medic', ähnlich wie 'medizinisch', was dir hilft, die medizinische Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Paramedic klingt wie „para“ + „Medic“ – also jemand, der neben dem Arzt (Medic) arbeitet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein „paramedic“ ist wie ein „Partner“ des Arztes, der schnell Erste Hilfe leistet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

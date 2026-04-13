@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-erzaehlen",
+  "parent": "ms-ro-a-povesti-124d2fe2@5b7ab12bab002969b3534cef6ad46329",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erzählen",
+    "definition": "eine Geschichte oder Information mitteilen",
+    "pronunciation": "/ɛʁˈt͡sɛːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „erzählen“ stammt vom mittelhochdeutschen „verzellen“, was „berichten“ oder „erzählen“ bedeutet.",
+        "targetText": "Verbul „erzählen“ provine din germana mijlocie „verzellen“, cu sensul de „a relata“ sau „a povesti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um Geschichten oder Informationen mitzuteilen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a povesti",
+    "definition": "a comunica o poveste sau o informație",
+    "pronunciation": "/a poˈvesti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a povesti“ stammt vom lateinischen „pavere“ ab, was „sprechen“ oder „erzählen“ bedeutet. Es betont den narrativen Aspekt der Sprache.",
+        "targetText": "Verbul românesc „a povesti“ derivă din latină, de la „pavere“, cu sensul de „a vorbi“ sau „a povesti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wichtig für das Erzählen von Geschichten und Berichten."
+  },
+  "senses": [
+    {
+      "gloss": "eine Geschichte erzählen",
+      "explanation": {
+        "sourceText": "Verwendet, um eine Erzählung zu beschreiben.",
+        "targetText": "Folosit pentru a descrie o povestire."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte dir eine Geschichte erzählen.",
+          "targetText": "Vreau să-ți povestesc o poveste."
+        }
+      ]
+    },
+    {
+      "gloss": "etwas berichten",
+      "explanation": {
+        "sourceText": "Um Informationen zu teilen.",
+        "targetText": "Pentru a împărtăși informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich berichte über meine Reise.",
+          "targetText": "Povestesc despre călătoria mea."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bericht",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "Erlebnis",
+      "targetText": "experiență"
+    },
+    {
+      "sourceText": "Geschichte",
+      "targetText": "poveste"
+    },
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erzähle dir eine Geschichte.",
+      "targetText": "Îți povestesc o poveste."
+    },
+    {
+      "sourceText": "Erzählst du mir mehr?",
+      "targetText": "Îmi povestești mai mult?"
+    },
+    {
+      "sourceText": "Sie erzählt von ihrer Kindheit.",
+      "targetText": "Ea povestește despre copilăria ei."
+    },
+    {
+      "sourceText": "Wir erzählen unsere Erlebnisse.",
+      "targetText": "Noi povestim experiențele noastre."
+    },
+    {
+      "sourceText": "Erzählt ihr die Wahrheit?",
+      "targetText": "Povestiți adevărul?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erzählen ihre Geschichten.",
+      "targetText": "Ei povestesc poveștile lor."
+    },
+    {
+      "sourceText": "Ich habe die Geschichte erzählt.",
+      "targetText": "Am povestit povestea."
+    },
+    {
+      "sourceText": "Er erzählte in der Schule Geschichten.",
+      "targetText": "El povestea povești în școală."
+    },
+    {
+      "sourceText": "Ich werde dir eine Geschichte erzählen.",
+      "targetText": "Îți voi povesti o poveste."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Povesti“ klingt wie „Poesie“ – verbinde das Erzählen von Geschichten mit Poesie, um dir das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Povestesc despre“ (Ich erzähle über) – so baust du deinen Wortschatz auf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

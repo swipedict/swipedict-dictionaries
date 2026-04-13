@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-koennen-modalverb",
+  "parent": "ms-ro-a-putea-63f523d8@d8d09177b46f82a1971c46683874493d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "können",
+    "definition": "Die Fähigkeit oder Möglichkeit haben, etwas zu tun.",
+    "pronunciation": "/ˈkœnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Modalverb „können“ stammt vom althochdeutschen 'kunnan' ab, das auf die germanische Wurzel *kunnaną zurückgeht und 'wissen, können' bedeutet.",
+        "targetText": "Verbul modal german „können” provine din germana veche înaltă 'kunnan', derivat din rădăcina germanică *kunnaną, care înseamnă 'a ști, a putea'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a putea",
+    "definition": "A avea capacitatea sau posibilitatea de a face ceva.",
+    "pronunciation": "/a ˈpute.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a putea“ stammt vom lateinischen Verb 'potere' ab, das 'können' oder 'fähig sein' bedeutet.",
+        "targetText": "Verbul românesc „a putea” derivă din verbul latin 'potere', care însemna 'a putea' sau 'a fi capabil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, Konjugation ähnlich 'a vrea'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dürfen",
+      "targetText": "a avea voie"
+    },
+    {
+      "sourceText": "können (Fähigkeit)",
+      "targetText": "a fi capabil"
+    },
+    {
+      "sourceText": "mögen",
+      "targetText": "a plăcea"
+    },
+    {
+      "sourceText": "wissen",
+      "targetText": "a ști"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht können",
+      "targetText": "a nu putea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kann Deutsch sprechen.",
+      "targetText": "Eu pot vorbi germană."
+    },
+    {
+      "sourceText": "Ich habe gestern gut singen können.",
+      "targetText": "Ieri am putut să cânt bine."
+    },
+    {
+      "sourceText": "Früher konnte ich besser schwimmen.",
+      "targetText": "Pe vremuri puteam să înot mai bine."
+    },
+    {
+      "sourceText": "Ich werde morgen kommen können.",
+      "targetText": "Voi putea să vin mâine."
+    },
+    {
+      "sourceText": "Kannst du mir helfen?",
+      "targetText": "Poți să mă ajuți?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'potere' ist die Wurzel von 'a putea' – wenn du Latein kennst, hilft dir das beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Modalverb „können“ drückt Fähigkeit aus – genauso wie „a putea“ im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a putea“ klingt ähnlich wie das englische 'to put' – stell dir vor, du kannst etwas 'hinlegen' (put), also kannst du es tun."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die unregelmäßige Konjugation von „a putea“, ähnlich wie bei „a vrea“ (wollen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

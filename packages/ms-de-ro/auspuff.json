@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-auspuff",
+  "parent": "ms-ro-evacuare-5a8e3adf@0b90c823621ab831bd3e70736a8dd440",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Auspuff",
+    "genus": "masculine",
+    "definition": "Teil eines Fahrzeugs, durch den die Abgase ausgestoßen werden.",
+    "pronunciation": "/ˈaʊ̯sˌpʊf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Auspuff“ setzt sich aus den Teilen 'aus-' und 'puffen' zusammen, wobei 'puffen' ein lautmalerisches Verb für das Ausstoßen von Luft oder Gasen ist.",
+        "targetText": "Cuvântul german „Auspuff“ este compus din prefixul 'aus-' și verbul onomatopeic 'puffen', care descrie expulzarea aerului sau gazelor."
+      },
+      "source": "Etymologische Quellen Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "evacuare",
+    "genus": "feminine",
+    "definition": "Componenta unui vehicul prin care sunt evacuate gazele de eșapament.",
+    "pronunciation": "/e.va.kuˈa.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „evacuare“ stammt vom lateinischen „evacuare“, was „hinausbringen, räumen, evakuieren“ bedeutet.",
+        "targetText": "Cuvântul românesc „evacuare“ provine din latinescul 'evacuare', care înseamnă 'a scoate afară, a evacua'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abgas",
+      "targetText": "gaz de eșapament"
+    },
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Motor",
+      "targetText": "motor"
+    },
+    {
+      "sourceText": "Rohr",
+      "targetText": "țeavă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Auspuff ist beschädigt und muss repariert werden.",
+      "targetText": "Evacuarea este deteriorată și trebuie reparată."
+    },
+    {
+      "sourceText": "Das Auto hat einen lauten Auspuff.",
+      "targetText": "Mașina are o evacuare zgomotoasă."
+    },
+    {
+      "sourceText": "Der Auspuff leitet die Abgase vom Motor weg.",
+      "targetText": "Evacuarea conduce gazele de eșapament departe de motor."
+    },
+    {
+      "sourceText": "Ein defekter Auspuff kann die Umwelt verschmutzen.",
+      "targetText": "O evacuare defectă poate polua mediul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Auspuff' enthält 'aus', was das Herauskommen der Gase beschreibt – ähnlich wie 'evacuare' im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „evacuare“ klingt ähnlich wie das deutsche Wort 'evakuieren' – beide bedeuten etwas herausbringen oder wegführen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'evacuare' endet auf '-are', typisch für viele rumänische Substantive, die Handlungen oder Prozesse bezeichnen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie die Abgase durch die 'evacuare' aus dem Auto 'evakuiert' werden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

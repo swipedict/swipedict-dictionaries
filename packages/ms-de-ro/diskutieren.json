@@ -1,0 +1,197 @@
+{
+  "id": "ms-de-ro-diskutieren",
+  "parent": "ms-ro-a-discuta-b058500e@03362b0b1f75555bdaf1d53f7b6cbb05",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "diskutieren",
+    "definition": "eine Meinung zu einem Thema austauschen oder darüber sprechen",
+    "pronunciation": "/dɪs.kuˈtiː.ʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort leitet sich vom lateinischen „discutere“ ab, was „zerschlagen, untersuchen“ bedeutet. Es besagt, ein Thema in einem Gespräch zu analysieren oder zu betrachten.",
+        "targetText": "Verbul german „diskutieren“ provine din latină „discutere“, care înseamnă „a examina“ sau „a analiza“ un subiect prin vorbire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet im Kontext von Meetings, Debatten oder Diskussionen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a discuta",
+    "definition": "a schimba opinii despre un subiect sau a vorbi despre el",
+    "pronunciation": "/a dis.kuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a discuta“ stammt ebenfalls vom lateinischen „discutere“ ab und wird im Sinne von Meinungs- oder Gedankenaustausch verwendet.",
+        "targetText": "Verbul românesc „a discuta“ derivă din latină „discutere“ și înseamnă a schimba opinii sau a vorbi despre un subiect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb hat eine ähnliche Bedeutung wie im Deutschen und wird oft in akademischen oder formellen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Debatte",
+      "explanation": {
+        "sourceText": "Eine Debatte über einen bestimmten Punkt.",
+        "targetText": "O dezbatere asupra unui punct anume."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir sollten die Debatte über die neuen Regeln führen.",
+          "targetText": "Ar trebui să purtăm dezbaterea asupra noilor reguli."
+        }
+      ]
+    },
+    {
+      "gloss": "Gespräch",
+      "explanation": {
+        "sourceText": "'Diskussion' als formelles Gespräch.",
+        "targetText": "'Discuție' ca un dialog formal."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe ein Gespräch mit ihm geführt.",
+          "targetText": "Am avut o discuție cu el."
+        }
+      ]
+    },
+    {
+      "gloss": "Meinungsaustausch",
+      "explanation": {
+        "sourceText": "Der Austausch von Meinungen zu einem Thema.",
+        "targetText": "Schimbul de opinii despre un subiect."
+      },
+      "examples": [
+        {
+          "sourceText": "In der Diskussion gab es einen lebhaften Meinungsaustausch.",
+          "targetText": "În discuție a fost un schimb viu de opinii."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Debatte",
+      "targetText": "dezbatere"
+    },
+    {
+      "sourceText": "Gespräch",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "opinie"
+    },
+    {
+      "sourceText": "Thema",
+      "targetText": "temă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich diskutiere das Thema.",
+      "targetText": "Eu discut tema."
+    },
+    {
+      "sourceText": "Diskutierst du mit mir?",
+      "targetText": "Discuți cu mine?"
+    },
+    {
+      "sourceText": "Er diskutiert die Probleme.",
+      "targetText": "El discută problemele."
+    },
+    {
+      "sourceText": "Wir diskutieren die Ergebnisse.",
+      "targetText": "Noi discutăm rezultatele."
+    },
+    {
+      "sourceText": "Diskutiert ihr über den Vorschlag?",
+      "targetText": "Discutați despre propunere?"
+    },
+    {
+      "sourceText": "Sie diskutieren wichtige Themen.",
+      "targetText": "Ei discută subiecte importante."
+    },
+    {
+      "sourceText": "Ich habe das Problem mit dir diskutiert.",
+      "targetText": "Am discutat problema cu tine."
+    },
+    {
+      "sourceText": "Sie haben die Änderung diskutiert.",
+      "targetText": "Au discutat schimbarea."
+    },
+    {
+      "sourceText": "Er diskutierte oft über Politik.",
+      "targetText": "El discuta adesea despre politică."
+    },
+    {
+      "sourceText": "Ich hatte das Thema bereits diskutiert.",
+      "targetText": "Discutasem deja tema."
+    },
+    {
+      "sourceText": "Ich werde das Thema morgen diskutieren.",
+      "targetText": "Voi discuta tema mâine."
+    },
+    {
+      "sourceText": "Er wird die Details später diskutieren.",
+      "targetText": "El o să discute detaliile mai târziu."
+    },
+    {
+      "sourceText": "Ich würde es gerne diskutieren.",
+      "targetText": "Aș dori să discut."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du darüber diskutierst.",
+      "targetText": "Este important să discuți despre asta."
+    },
+    {
+      "sourceText": "Diskutiere nicht so viel!",
+      "targetText": "Nu discuta atât de mult!"
+    },
+    {
+      "sourceText": "Diskutiert das Thema!",
+      "targetText": "Discutați subiectul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Diskutieren“ und „a discuta“ sind Kognaten – das hilft dir, die Bedeutung schnell zu verstehen und zu behalten!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das englische Wort „discuss“ – es klingt ähnlich und bedeutet ebenfalls „diskutieren“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensendungen: -ez, -ezi, -ează, -ăm, -ați, -ează – so konjugierst du „a discuta“ sicher."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

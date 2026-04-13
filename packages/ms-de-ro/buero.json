@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-buero",
+  "parent": "ms-ro-birou-f681255c@229ca9982febb1e7d90f7985ad347fd5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Büro",
+    "genus": "neuter",
+    "definition": "Ein Raum oder Ort, an dem berufliche oder administrative Tätigkeiten ausgeführt werden.",
+    "pronunciation": "/byˈʁoː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Büro“ stammt aus dem Französischen 'bureau', das ursprünglich 'Schreibtisch' bedeutete und vom altfranzösischen 'burel' (ein grober Wollstoff) abgeleitet ist.",
+        "targetText": "Cuvântul german „Büro“ provine din franceza 'bureau', care inițial însemna 'birou' (masă de scris), derivat din vechea franceză 'burel', un tip de stofă groasă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "birou",
+    "genus": "neuter",
+    "definition": "O cameră sau un loc unde se desfășoară activități profesionale sau administrative.",
+    "pronunciation": "/biˈru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Românul „birou“ provine din franceza 'bureau', care însemna inițial 'birou' sau 'masă de scris', cu origini în cuvântul vechi francez 'burel'.",
+        "targetText": "Cuvântul românesc „birou“ provine din franceza 'bureau', care inițial desemna 'birou' sau 'masă de scris', derivat din vechea franceză 'burel'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "Chef",
+      "targetText": "șef"
+    },
+    {
+      "sourceText": "Kollege",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "Schreibtisch",
+      "targetText": "birou (mobilă)"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich arbeite im Büro von Montag bis Freitag.",
+      "targetText": "Lucrez la birou de luni până vineri."
+    },
+    {
+      "sourceText": "Das Büro ist modern eingerichtet.",
+      "targetText": "Biroul este amenajat modern."
+    },
+    {
+      "sourceText": "Im Büro gibt es viele Kollegen.",
+      "targetText": "La birou sunt mulți colegi."
+    },
+    {
+      "sourceText": "Das Büro befindet sich im Stadtzentrum.",
+      "targetText": "Biroul se află în centrul orașului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische 'bureau' bedeutete ursprünglich 'Wollstoff', weil die Schreibtische oft mit Stoff bedeckt waren."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'birou' ist ein typisches Beispiel für französische Lehnwörter im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Büro' klingt fast gleich wie das rumänische 'birou' – beide stammen aus dem Französischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sitzt an deinem 'Büro' (Schreibtisch) und arbeitest – so merkst du dir das Wort leicht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-winkel",
+  "parent": "ms-ro-unghi-f83bfd64@3839e6309f88d9f7bf53dcb009c0c360",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Winkel",
+    "genus": "masculine",
+    "definition": "Die geometrische Figur, die durch zwei Strahlen mit einem gemeinsamen Anfangspunkt gebildet wird; auch allgemein eine Ecke oder ein Raum, der durch zwei sich treffende Linien oder Flächen begrenzt ist.",
+    "pronunciation": "/ˈvɪŋkəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Winkel“ stammt vom althochdeutschen 'winkil' ab, das auf das germanische *winkilaz zurückgeht und 'Ecke' oder 'Biegung' bedeutet.",
+        "targetText": "Cuvântul german „Winkel” provine din vechiul german înalt 'winkil', derivat din rădăcina germanică *winkilaz, care înseamnă 'colț' sau 'îndoire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "unghi",
+    "genus": "neuter",
+    "definition": "Figura geometrică formată de două semidrepte cu un punct comun, sau colțul format de două laturi sau suprafețe care se întâlnesc.",
+    "pronunciation": "/unˈɡi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „unghi“ stammt vom lateinischen 'angulus' ab, das 'Ecke' oder 'Winkel' bedeutet und über das Vulgärlatein in die rumänische Sprache gelangte.",
+        "targetText": "Cuvântul românesc „unghi” provine din latină, de la 'angulus', care înseamnă 'colț' sau 'unghi', pătrunzând în limba română prin latina vulgară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ecke",
+      "targetText": "colț"
+    },
+    {
+      "sourceText": "Geometrie",
+      "targetText": "geometrie"
+    },
+    {
+      "sourceText": "Kante",
+      "targetText": "muchie"
+    },
+    {
+      "sourceText": "Linie",
+      "targetText": "linie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der rechte Winkel misst 90 Grad.",
+      "targetText": "Unghiul drept măsoară 90 de grade."
+    },
+    {
+      "sourceText": "Bitte miss den Winkel zwischen den beiden Linien.",
+      "targetText": "Te rog să măsori unghiul dintre cele două linii."
+    },
+    {
+      "sourceText": "In der Geometrie lernt man verschiedene Arten von Winkeln kennen.",
+      "targetText": "La geometrie înveți diferite tipuri de unghiuri."
+    },
+    {
+      "sourceText": "Der Tisch steht in der Ecke des Zimmers, also im Winkel.",
+      "targetText": "Masa este în colțul camerei, adică în unghi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'angulus' bedeutet Ecke – denk an einen 'Angelhaken', der eine scharfe Ecke hat, um 'unghi' zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'unghi' klingt ähnlich wie das englische 'angle', was dir hilft, die Bedeutung als geometrischen Winkel zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, das 'un' in 'unghi' steht für 'unter' zwei Linien, die sich treffen und so einen Winkel bilden."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du 'Winkel' hörst, denk an das Wort 'winkeln' (verbiegen) – beide beziehen sich auf eine Biegung oder Ecke, genau wie 'unghi'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

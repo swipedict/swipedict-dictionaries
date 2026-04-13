@@ -1,0 +1,169 @@
+{
+  "id": "ms-de-ro-eingeben",
+  "parent": "ms-ro-a-introduce-50f8a180@6c34d9de284a2dce45438c213df66093",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "eingeben",
+    "definition": "Daten oder Informationen in ein System oder eine Maschine eingeben",
+    "pronunciation": "/ˈaɪ̯nˌɡeːbən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „eingeben“ setzt sich aus den Teilen „ein“ und „geben“ zusammen und bedeutet, etwas in einen bestimmten Kontext zu übermitteln oder zur Verfügung zu stellen.",
+        "targetText": "Das deutsche Verb „eingeben“ stammt von der Kombination des Präfixes „ein-“ (hinein) und „geben“ (übermitteln, liefern). Es beschreibt die Handlung, Informationen in ein System hineinzufügen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet in der digitalen Welt, wenn man Daten in ein System eingibt oder übermittelt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a introduce",
+    "definition": "a introduce date sau informații într-un sistem sau o mașină",
+    "pronunciation": "/a in.tɾoˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a introduce“ ist verwandt mit dem Lateinischen „introducere“, was „hereinführen“ oder „einführen“ bedeutet. Es wird oft verwendet, um zu beschreiben, dass Informationen in ein System oder eine Datenbank eingegeben werden.",
+        "targetText": "Verbul românesc „a introduce“ provine din latină, de la „introducere“, format din „intro-“ (înăuntru) și „ducere“ (a conduce). Înseamnă a pune sau a introduce ceva într-un spațiu sau sistem."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig in Computer- und Datenkontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Daten eingeben",
+      "explanation": {
+        "sourceText": "Der Prozess, Daten in ein System einzugeben.",
+        "targetText": "Procesul de a introduce date într-un sistem."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich gebe die Daten ein.",
+          "targetText": "Introduc datele."
+        }
+      ]
+    },
+    {
+      "gloss": "Informationen eingeben",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Eingabe von Informationen in eine Datenbank.",
+        "targetText": "Se referă la introducerea informațiilor într-o bază de date."
+      },
+      "examples": [
+        {
+          "sourceText": "Gibst du die Informationen ein?",
+          "targetText": "Introduci informațiile?"
+        }
+      ]
+    },
+    {
+      "gloss": "Passwort eingeben",
+      "explanation": {
+        "sourceText": "Das Eingeben eines Passworts in ein System.",
+        "targetText": "Introducerea unei parole într-un sistem."
+      },
+      "examples": [
+        {
+          "sourceText": "Bitte geben Sie Ihr Passwort ein.",
+          "targetText": "Te rog introdu parola."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Daten",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "Eingabe",
+      "targetText": "introducere"
+    },
+    {
+      "sourceText": "Programm",
+      "targetText": "program"
+    },
+    {
+      "sourceText": "System",
+      "targetText": "sistem"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausgeben",
+      "targetText": "a cheltui"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gebe die Daten ein.",
+      "targetText": "Introduc datele."
+    },
+    {
+      "sourceText": "Gibst du das Passwort ein?",
+      "targetText": "Introduci parola?"
+    },
+    {
+      "sourceText": "Er gibt die Informationen ein.",
+      "targetText": "El introduce informațiile."
+    },
+    {
+      "sourceText": "Wir geben die Daten ein.",
+      "targetText": "Introducem datele."
+    },
+    {
+      "sourceText": "Gebt ihr die Änderungen ein?",
+      "targetText": "Introduceți modificările?"
+    },
+    {
+      "sourceText": "Sie geben die Daten in das System ein.",
+      "targetText": "Ei introduc datele în sistem."
+    },
+    {
+      "sourceText": "Ich habe die Daten eingegeben.",
+      "targetText": "Am introdus datele."
+    },
+    {
+      "sourceText": "Ich werde die Informationen eingeben.",
+      "targetText": "Voi introduce informațiile."
+    },
+    {
+      "sourceText": "Gib die Daten ein!",
+      "targetText": "Introdu datele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a introduce“ klingt ähnlich wie das deutsche „introduzieren“ – stelle dir vor, wie du Informationen „hereinführst“ wie bei einer Einführung."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an die Computerwelt: Du „gibst ein“ und „introduci“ Daten – beide Verben beschreiben denselben Vorgang."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ein“ im Deutschen mit „intro-“ im Rumänischen, beide bedeuten ‚hinein‘, was dir hilft, das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

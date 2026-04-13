@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-ernte",
+  "parent": "ms-ro-recolta-90e2b551@230b295798a53bf4cd7dbd3df5ceac25",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ernte",
+    "genus": "feminine",
+    "definition": "Das Sammeln von reifen Feldfrüchten zur Weiterverarbeitung oder Lagerung.",
+    "pronunciation": "/ˈɛʁntə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Ernte“ stammt vom althochdeutschen 'ernte' ab, das mit dem Verb 'ernten' verwandt ist und auf die germanische Wurzel *ar-nōną (sammeln) zurückgeht.",
+        "targetText": "Cuvântul german „Ernte” provine din germana veche înaltă 'ernte', înrudit cu verbul 'ernten' și derivat din rădăcina germanică *ar-nōną (a aduna)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "recoltă",
+    "genus": "feminine",
+    "definition": "Acțiunea de a aduna fructele coapte de pe câmp pentru prelucrare sau depozitare.",
+    "pronunciation": "/reˈkol.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „recoltă“ stammt vom lateinischen 'recolligere' ab, was 'wieder sammeln' bedeutet, zusammengesetzt aus 're-' (wieder) und 'colligere' (sammeln).",
+        "targetText": "Cuvântul românesc „recoltă” provine din latină, de la 'recolligere', care înseamnă 'a aduna din nou', format din 're-' (din nou) și 'colligere' (a aduna)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bauer",
+      "targetText": "țăran"
+    },
+    {
+      "sourceText": "ernten",
+      "targetText": "a recolta"
+    },
+    {
+      "sourceText": "Feldfrucht",
+      "targetText": "cultură agricolă"
+    },
+    {
+      "sourceText": "Landwirtschaft",
+      "targetText": "agricultură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Aussaat",
+      "targetText": "semănat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Ernte beginnt im Spätsommer.",
+      "targetText": "Recolta începe la sfârșitul verii."
+    },
+    {
+      "sourceText": "Eine gute Ernte sichert das Überleben der Bauern.",
+      "targetText": "O recoltă bună asigură supraviețuirea țăranilor."
+    },
+    {
+      "sourceText": "Die Ernte wurde wegen des Regens verzögert.",
+      "targetText": "Recolta a fost întârziată din cauza ploii."
+    },
+    {
+      "sourceText": "Nach der Ernte werden die Früchte gelagert.",
+      "targetText": "După recoltă, fructele sunt depozitate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Ernte“ und das rumänische „recoltă“ sind beide eng mit Landwirtschaft verbunden – denk an das Bild vom Feld."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „recoltă“ enthält das Präfix „re-“, das an ‚wieder‘ erinnert, und das Verb „a culege“ (sammeln), was die Bedeutung gut beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ltă', eine typische Endung für weibliche Substantive im Rumänischen, die du oft bei abstrakten oder konkreten Begriffen findest."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Bauern die Früchte ‚wieder sammeln‘ – das hilft dir, „recoltă“ mit Ernte zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

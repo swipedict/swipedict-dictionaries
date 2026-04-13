@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-ertragen",
+  "parent": "ms-ro-a-suporta-6e0ce343@9f53caab23d53fa79bce3347d4891f86",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ertragen",
+    "definition": "mit etwas Unangenehmem umgehen können",
+    "pronunciation": "/ɛɐ̯ˈtʁaːɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „ertragen“ stammt vom mittelhochdeutschen „tragen“ mit dem Präfix „er-“, das eine Vollendung oder Intensivierung der Handlung ausdrückt.",
+        "targetText": "Verbul „ertragen“ provine din germana mijlocie „tragen“ cu prefixul „er-“, indicând o acțiune completă sau intensă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Beschreibt die Fähigkeit, Schmerz oder Belastungen auszuhalten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a suporta",
+    "definition": "a face față la ceva neplăcut",
+    "pronunciation": "/suˈporta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a suporta“ stammt vom lateinischen „supportare“, was „tragen“ oder „unterstützen“ bedeutet. Es wird verwendet, um das Aushalten von Belastungen zu beschreiben.",
+        "targetText": "Verbul românesc „a suporta“ derivă din latină, de la „supportare“, cu sensul de „a purta“ sau „a susține“ și este folosit pentru a exprima capacitatea de a îndura."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig im Kontext des emotionalen oder physischen Aushaltens."
+  },
+  "senses": [
+    {
+      "gloss": "Druck ertragen",
+      "explanation": {
+        "sourceText": "'Ertragen' beschreibt auch das Aushalten von äußerem Druck.",
+        "targetText": "„A suporta“ descrie și capacitatea de a face față presiunii exterioare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kann den Druck nicht ertragen.",
+          "targetText": "Nu pot suporta presiunea."
+        }
+      ]
+    },
+    {
+      "gloss": "Herausforderung ertragen",
+      "explanation": {
+        "sourceText": "Es beschreibt auch das Standhalten bei Herausforderungen.",
+        "targetText": "Descrie și capacitatea de a face față provocărilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir mussten viele Herausforderungen ertragen.",
+          "targetText": "A trebuit să suportăm multe provocări."
+        }
+      ]
+    },
+    {
+      "gloss": "Leid ertragen",
+      "explanation": {
+        "sourceText": "'Ertragen' bedeutet, emotionalen oder physischen Schmerz auszuhalten.",
+        "targetText": "„A suporta“ înseamnă a îndura durere emoțională sau fizică."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ertrage die Tränen.",
+          "targetText": "Eu suport lacrimile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Herausforderung",
+      "targetText": "provocare"
+    },
+    {
+      "sourceText": "Leid",
+      "targetText": "suferință"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "Ungerechtigkeit",
+      "targetText": "nedreptate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beenden",
+      "targetText": "încheia"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ertrage den Schmerz nicht.",
+      "targetText": "Eu nu suport durerea."
+    },
+    {
+      "sourceText": "Erträgst du das Wetter?",
+      "targetText": "Suporți vremea?"
+    },
+    {
+      "sourceText": "Sie erträgt die Schwierigkeiten geduldig.",
+      "targetText": "Ea suportă dificultățile cu răbdare."
+    },
+    {
+      "sourceText": "Wir ertragen die Probleme gemeinsam.",
+      "targetText": "Noi suportăm problemele împreună."
+    },
+    {
+      "sourceText": "Ertragt ihr die Kälte?",
+      "targetText": "Suportați frigul?"
+    },
+    {
+      "sourceText": "Sie ertragen die Ungerechtigkeit.",
+      "targetText": "Ei suportă nedreptatea."
+    },
+    {
+      "sourceText": "Ich habe die Prüfung ertragen.",
+      "targetText": "Am suportat examenul."
+    },
+    {
+      "sourceText": "Sie haben die Herausforderung ertragen.",
+      "targetText": "Au suportat provocarea."
+    },
+    {
+      "sourceText": "Er trug die Last lange Zeit.",
+      "targetText": "El suporta povara mult timp."
+    },
+    {
+      "sourceText": "Ich hatte das Gewicht schon lange ertragen, bevor ich abgebrochen habe.",
+      "targetText": "Susținusem greutatea mult timp înainte de a renunța."
+    },
+    {
+      "sourceText": "Ich werde die Verantwortung ertragen.",
+      "targetText": "Voi suporta responsabilitatea."
+    },
+    {
+      "sourceText": "Sie wird die Kritik ertragen.",
+      "targetText": "Ea o să suporte critica."
+    },
+    {
+      "sourceText": "Ich würde den Druck ertragen, wenn ich könnte.",
+      "targetText": "Aș suporta presiunea dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du den Schmerz erträgst.",
+      "targetText": "Este important să suporți durerea."
+    },
+    {
+      "sourceText": "Ertrage die Schwierigkeiten!",
+      "targetText": "Suportă dificultățile!"
+    },
+    {
+      "sourceText": "Ertragt die möglichen Herausforderungen!",
+      "targetText": "Suportați provocările posibile!"
+    },
+    {
+      "sourceText": "Die ertragene Last war schwer.",
+      "targetText": "Povara suportată a fost grea."
+    },
+    {
+      "sourceText": "Die Prüfung ist gut ertragen worden.",
+      "targetText": "Examenul a fost bine suportat."
+    },
+    {
+      "sourceText": "Durch das Ertragen der Schwierigkeiten wuchs er in seiner Stärke.",
+      "targetText": "Suportând dificultățile, a crescut în puterea sa."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a suporta“ erinnert an „support“ (Unterstützung) im Englischen – denke daran, dass du etwas „unterstützt“, indem du es erträgst."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präsensendungen „-i“ (ich: suport, du: supporti, er/sie: suportă) helfen dir, die Formen von „a suporta“ zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du trägst eine schwere Last – so merkst du dir, dass „a suporta“ bedeutet, etwas Unangenehmes auszuhalten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ertragen“ mit dem Bild von Gewicht, das du trägst – wenn du es aushältst, bist du stark!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

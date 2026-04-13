@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-schiff",
+  "parent": "ms-ro-nava-53c471f1@c708f238ee84934b03406fc0225ae1a8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schiff",
+    "genus": "neuter",
+    "definition": "Ein großes Wasserfahrzeug, das zur Beförderung von Personen oder Gütern auf Flüssen, Seen oder Meeren dient.",
+    "pronunciation": "/ʃɪf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schiff“ stammt vom althochdeutschen 'scif' ab, das auf das germanische *skipą zurückgeht und ursprünglich ein Wasserfahrzeug bezeichnete.",
+        "targetText": "Cuvântul german „Schiff” provine din germana veche înaltă 'scif', derivat din germanicul *skipą, desemnând inițial o ambarcațiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "navă",
+    "genus": "feminine",
+    "definition": "Un vehicul mare destinat transportului de persoane sau mărfuri pe râuri, lacuri sau mări.",
+    "pronunciation": "/ˈnavə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „navă“ stammt vom lateinischen 'navis' ab, das 'Schiff' oder 'Boot' bedeutet und eine lange Tradition in den romanischen Sprachen hat.",
+        "targetText": "Cuvântul românesc „navă” provine din latină, din 'navis', care înseamnă 'navă' sau 'barcă', având o tradiție îndelungată în limbile romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Boot",
+      "targetText": "barcă"
+    },
+    {
+      "sourceText": "Hafen",
+      "targetText": "port"
+    },
+    {
+      "sourceText": "Kapitän",
+      "targetText": "căpitan"
+    },
+    {
+      "sourceText": "Segel",
+      "targetText": "pânză"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Schiff legt morgen früh ab.",
+      "targetText": "Nava pleacă mâine dimineață."
+    },
+    {
+      "sourceText": "Wir haben das große Schiff im Hafen gesehen.",
+      "targetText": "Am văzut nava mare în port."
+    },
+    {
+      "sourceText": "Das Schiff fährt über das Meer.",
+      "targetText": "Nava navighează pe mare."
+    },
+    {
+      "sourceText": "Der Kapitän steuert das Schiff sicher.",
+      "targetText": "Căpitanul conduce nava în siguranță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort 'navis' ist die Wurzel für viele europäische Wörter für Schiff, z.B. italienisch 'nave' und rumänisch 'navă'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „navă“ klingt ähnlich wie das deutsche Wort „Navigation“, was dir hilft, es mit Schiff und Seefahrt zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „navă“ mit einem weichen 'v' gesprochen wird, ähnlich wie das deutsche 'Navi' – das hilft bei der Aussprache."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Schiff eine 'Nave' (Kirchenschiff) durch das Wasser gleitet – so merkst du dir „navă“ als Schiff."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

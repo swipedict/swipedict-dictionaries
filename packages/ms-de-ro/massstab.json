@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-massstab",
+  "parent": "ms-ro-scara-9cd6de36@fb5e21e6a3c9aecbe92064e7c8f425de",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Maßstab",
+    "genus": "masculine",
+    "definition": "Ein Gerät oder eine Referenz, mit der man Größen, Entfernungen oder Verhältnisse misst oder vergleicht.",
+    "pronunciation": "/ˈmasˌʃtaːp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Maßstab“ setzt sich aus den Wörtern „Maß“ (von althochdeutsch 'maʒ') und „Stab“ (von althochdeutsch 'stab') zusammen, wobei „Maß“ auf eine germanische Wurzel für 'messen' zurückgeht.",
+        "targetText": "Cuvântul german „Maßstab” este compus din „Maß” (măsură) provenind din germana veche înaltă 'maʒ' și „Stab” (băț), derivat din germana veche înaltă 'stab', ambele cu rădăcini germanice legate de măsurare și obiecte lungi."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scară",
+    "genus": "feminine",
+    "definition": "Un instrument sau o referință folosită pentru a măsura dimensiuni, distanțe sau proporții.",
+    "pronunciation": "/ˈska.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „scară“ stammt vom lateinischen 'scala' ab, das 'Leiter' oder 'Stufen' bedeutet und im übertragenen Sinn auch für Maßstäbe oder Skalen verwendet wird.",
+        "targetText": "Cuvântul românesc „scară” provine din latină, de la 'scala', care înseamnă 'scară' sau 'trepte' și este folosit și în sens figurat pentru a desemna scale sau măsuri."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Lineal",
+      "targetText": "riglă"
+    },
+    {
+      "sourceText": "Maß",
+      "targetText": "măsură"
+    },
+    {
+      "sourceText": "Messgerät",
+      "targetText": "instrument de măsură"
+    },
+    {
+      "sourceText": "Skala",
+      "targetText": "scală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Unmaß",
+      "targetText": "imposibil de măsurat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Maßstab auf der Landkarte zeigt die Entfernung an.",
+      "targetText": "Scara de pe hartă indică distanța."
+    },
+    {
+      "sourceText": "Wir brauchen einen Maßstab, um die Größe zu bestimmen.",
+      "targetText": "Avem nevoie de o scară pentru a determina dimensiunea."
+    },
+    {
+      "sourceText": "Der Maßstab für Erfolg ist oft subjektiv.",
+      "targetText": "Scara succesului este adesea subiectivă."
+    },
+    {
+      "sourceText": "Der Architekt benutzte einen Maßstab, um die Pläne zu zeichnen.",
+      "targetText": "Arhitectul a folosit o scară pentru a desena planurile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'scala' bedeutet Leiter, und im Rumänischen wurde daraus 'scară', das auch für Maßstab verwendet wird – verbinde die Idee von Stufen mit Messung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'scară' klingt ähnlich wie 'Skala' im Deutschen, was dir hilft, die Bedeutung als Maßstab oder Skala zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an eine 'Leiter' (scară), die Stufen hat – so kannst du dir vorstellen, wie 'scară' als Maßstab verschiedene Stufen oder Größen anzeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du misst etwas mit einer Leiter (scară), die dir hilft, die Höhe oder Größe zu bestimmen – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

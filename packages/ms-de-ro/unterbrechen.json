@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-unterbrechen",
+  "parent": "ms-ro-a-intrerupe-0ce19d76@b252d87d22d240617dc08e0ea7148bb2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unterbrechen",
+    "definition": "etwas kurz stoppen oder eine Handlung unterbrechen",
+    "pronunciation": "/ˌʊntɐˈbʁɛxən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich aus „unter“ und „brechen“ zusammen und hat seine Ursprünge im mittelhochdeutschen „underbrechen“.",
+        "targetText": "Das deutsche Verb „unterbrechen“ stammt vom mittelhochdeutschen „underbrechen“ ab, zusammengesetzt aus „unter“ und „brechen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird verwendet, wenn jemand einen laufenden Prozess oder eine Kommunikation stoppt oder stört."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a întrerupe",
+    "definition": "a opri temporar ceva sau a întrerupe o acțiune",
+    "pronunciation": "/ɨntrəˈupe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a întrerupe“ stammt vom lateinischen „interrumpere“, was „unterbrechen“ bedeutet. Es besteht aus dem Präfix „în“ und dem Stamm „trupere“ (brechen).",
+        "targetText": "Verbul românesc „a întrerupe“ derivă din latinescul „interrumpere“, compus din prefixul „în-“ și verbul „rumpere“ (a rupe), însemnând „a opri“ sau „a întrerupe“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um auszudrücken, dass eine Handlung gestoppt oder unterbrochen wird, sei es in Gesprächen oder Aktivitäten."
+  },
+  "senses": [
+    {
+      "gloss": "Pausen während der Arbeit",
+      "explanation": {
+        "sourceText": "Unterbruch kann auch für Pausen während der Arbeit verwendet werden.",
+        "targetText": "„Întreruperea“ poate desemna și pauze în timpul muncii."
+      },
+      "examples": [
+        {
+          "sourceText": "Während der Arbeit ist es wichtig, Pausen zu machen.",
+          "targetText": "Este important să faci pauze în timpul muncii."
+        }
+      ]
+    },
+    {
+      "gloss": "Unterbrechung von Gesprächen",
+      "explanation": {
+        "sourceText": "Wenn Deckung fehlt, kommt es zu Unterbrechungen.",
+        "targetText": "Când nu există continuitate, apar întreruperi."
+      },
+      "examples": [
+        {
+          "sourceText": "Das ständige Telefon unterbricht die Gespräche.",
+          "targetText": "Telefonul constant întrerupe discuțiile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aktion",
+      "targetText": "acțiune"
+    },
+    {
+      "sourceText": "Gespräch",
+      "targetText": "discuție"
+    },
+    {
+      "sourceText": "Pause",
+      "targetText": "pauză"
+    },
+    {
+      "sourceText": "Störung",
+      "targetText": "deranj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "fortsetzen",
+      "targetText": "a continua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich unterbreche unsere Diskussion.",
+      "targetText": "Întrebupt discuția noastră."
+    },
+    {
+      "sourceText": "Ich habe das Gespräch unterbrochen.",
+      "targetText": "Am întrerupt conversația."
+    },
+    {
+      "sourceText": "Ich werde die Präsentation unterbrechen.",
+      "targetText": "Voi întrerupe prezentarea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Unterbrechen“ und „a întrerupe“ teilen die Betonung auf „-bre-“ und „-rup-“, beide bedeuten ‚brechen‘ oder ‚stoppen‘ – verbinde diese Klangähnlichkeit!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du ein Gespräch ‚unterbrichst‘, indem du den Fluss ‚brichst‘ – so merkst du dir die Bedeutung von „a întrerupe“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

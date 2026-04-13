@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-uebernehmen",
+  "parent": "ms-ro-a-prelua-1b2611b6@7f63734af9f672154b7786b4bed1ab48",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "übernehmen",
+    "definition": "eine Aufgabe oder Verantwortung an sich ziehen",
+    "pronunciation": "/ˌyːbɐˈneːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „übernehmen“ besteht aus dem Präfix „über-“ und dem Verb „nehmen“ und bedeutet „etwas an sich nehmen“.",
+        "targetText": "Verbul „übernehmen“ este format din prefixul „über-“ și verbul „nehmen“ și înseamnă „a prelua ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, oft verwendet, um Verantwortlichkeiten oder Aufgaben zu übernehmen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a prelua",
+    "definition": "a accepta o sarcină sau o responsabilitate",
+    "pronunciation": "/a preˈlua/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a prelua“ stammt vom lateinischen „prendere“ ab, was „nehmen“ bedeutet. Es beschreibt das Übernehmen von Aufgaben oder Verantwortung.",
+        "targetText": "Verbul românesc „a prelua“ provine din latină „prendere“, care înseamnă „a lua“. Se referă la preluarea unei sarcini sau responsabilități."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig im geschäftlichen und alltäglichen Kontext verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Hilfsbereitschaft",
+      "targetText": "disponibilitate de ajutor"
+    },
+    {
+      "sourceText": "Leiter",
+      "targetText": "lider"
+    },
+    {
+      "sourceText": "Verantwortung",
+      "targetText": "responsabilitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abgeben",
+      "targetText": "a ceda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich übernehme die Verantwortung.",
+      "targetText": "Eu preiau responsabilitatea."
+    },
+    {
+      "sourceText": "Übernimmst du die Leitung?",
+      "targetText": "Preiei conducerea?"
+    },
+    {
+      "sourceText": "Er/Sie übernimmt das Projekt.",
+      "targetText": "El/Ea preia proiectul."
+    },
+    {
+      "sourceText": "Wir übernehmen die neuen Aufgaben.",
+      "targetText": "Noi preluăm noile sarcini."
+    },
+    {
+      "sourceText": "Übernehmt ihr die Verantwortung?",
+      "targetText": "Preluați responsabilitatea?"
+    },
+    {
+      "sourceText": "Sie übernehmen die Kontrolle.",
+      "targetText": "Ei preiau controlul."
+    },
+    {
+      "sourceText": "Ich habe die Aufgabe übernommen.",
+      "targetText": "Am preluat sarcina."
+    },
+    {
+      "sourceText": "Er/Sie übernahm die Pflege des Projektes.",
+      "targetText": "El/Ea prelua întreținerea proiectului."
+    },
+    {
+      "sourceText": "Ich werde die Verantwortung übernehmen.",
+      "targetText": "Voi prelua responsabilitatea."
+    },
+    {
+      "sourceText": "Ich würde es übernehmen, wenn du mich darum bittest.",
+      "targetText": "Aș prelua dacă m-ai ruga."
+    },
+    {
+      "sourceText": "Übernimm die Verantwortung!",
+      "targetText": "Preia responsabilitatea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Übernehmen“ und „a prelua“ sind Kognaten – beide bedeuten, eine Aufgabe oder Verantwortung anzunehmen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „prelua“ als Verb, das oft im Geschäftsleben verwendet wird – ähnlich wie „übernehmen“ im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

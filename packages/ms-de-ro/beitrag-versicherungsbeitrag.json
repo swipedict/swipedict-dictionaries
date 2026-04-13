@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-beitrag-versicherungsbeitrag",
+  "parent": "ms-ro-cotizatie-149cd0d2@082fe2576772676bbe478ae9fb68e950",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Beitrag (Versicherungsbeitrag)",
+    "genus": "masculine",
+    "definition": "Eine regelmäßige Zahlung, die zur Finanzierung einer Versicherung oder eines gemeinsamen Fonds geleistet wird.",
+    "pronunciation": "/ˈbaɪ̯traːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Beitrag“ stammt vom mittelhochdeutschen 'bîtrac', zusammengesetzt aus 'bi-' (bei) und 'trac' (tragen), was 'Mittragen' oder 'Beisteuer' bedeutet.",
+        "targetText": "Cuvântul german „Beitrag” provine din germana mijlocie înaltă 'bîtrac', compus din 'bi-' (lângă) și 'trac' (a purta), însemnând 'a contribui' sau 'a adăuga'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cotizație",
+    "genus": "feminine",
+    "definition": "O plată regulată făcută pentru a finanța o asigurare sau un fond comun.",
+    "pronunciation": "/kot͡siˈat͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cotizație“ stammt vom französischen 'cotisation' ab, das wiederum vom italienischen 'cotizzare' kommt, was 'bewerten' oder 'festsetzen' bedeutet.",
+        "targetText": "Cuvântul românesc „cotizație” provine din franceza 'cotisation', care la rândul său vine din italiana 'cotizzare', însemnând 'a evalua' sau 'a stabili'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beitragspflicht",
+      "targetText": "obligație de cotizare"
+    },
+    {
+      "sourceText": "Mitgliedsbeitrag",
+      "targetText": "cotizație de membru"
+    },
+    {
+      "sourceText": "Prämie",
+      "targetText": "primă"
+    },
+    {
+      "sourceText": "Versicherung",
+      "targetText": "asigurare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Versicherungsbeitrag muss monatlich bezahlt werden.",
+      "targetText": "Cotizația de asigurare trebuie plătită lunar."
+    },
+    {
+      "sourceText": "Viele Menschen zahlen regelmäßig ihren Beitrag zur Rentenversicherung.",
+      "targetText": "Mulți oameni plătesc regulat cotizația la asigurarea de pensii."
+    },
+    {
+      "sourceText": "Der Beitrag ist notwendig, um den Versicherungsschutz zu gewährleisten.",
+      "targetText": "Cotizația este necesară pentru a asigura protecția asigurării."
+    },
+    {
+      "sourceText": "Ohne Beitrag gibt es keinen Versicherungsschutz.",
+      "targetText": "Fără cotizație nu există protecție asigurativă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beitrag heißt auf Rumänisch ‚cotizație‘ – denk an das regelmäßige Zahlen für eine Gemeinschaft."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „cotizație“ klingt ähnlich wie das französische „cotisation“ – beide bedeuten Beitrag oder Zahlung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kommt aus dem Französischen und Italienischen, was typisch für viele Fachbegriffe im Bereich Arbeit und Versicherung ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zahlst eine ‚Quote‘ (ähnlich wie ‚coti-‘) für deine Versicherung – so merkst du dir ‚cotizație‘."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-gebuehr",
+  "parent": "ms-ro-taxa-f2e3eb84@617802274106b08384fe7edfef6318a5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gebühr",
+    "genus": "feminine",
+    "definition": "Ein festgelegter Geldbetrag, der für eine Dienstleistung oder eine amtliche Handlung zu zahlen ist.",
+    "pronunciation": "/ɡəˈfyːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Gebühr“ stammt vom mittelhochdeutschen 'gebuor' oder 'gebuor(e)', was 'Zahlung' oder 'Abgabe' bedeutete, und geht zurück auf das althochdeutsche 'gibūr', abgeleitet von 'geben'.",
+        "targetText": "Cuvântul „Gebühr” provine din germana mijlocie 'gebuor' sau 'gebuor(e)', însemnând 'plată' sau 'taxă', derivat din germana veche înaltă 'gibūr', de la verbul 'a da'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "taxă",
+    "genus": "feminine",
+    "definition": "O sumă fixă de bani care trebuie plătită pentru un serviciu sau o acțiune oficială.",
+    "pronunciation": "/ˈtak.sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „taxă“ stammt vom lateinischen 'taxa' ab, das 'Bewertung' oder 'Gebühr' bedeutete und aus dem Lateinischen entlehnt wurde.",
+        "targetText": "Cuvântul românesc „taxă” provine din latină 'taxa', care însemna 'evaluare' sau 'taxă', împrumutat din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gebühr bezahlen",
+      "targetText": "a plăti taxa"
+    },
+    {
+      "sourceText": "Gebührenordnung",
+      "targetText": "tarif"
+    },
+    {
+      "sourceText": "Kosten",
+      "targetText": "costuri"
+    },
+    {
+      "sourceText": "Strafe",
+      "targetText": "amendă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kostenlos",
+      "targetText": "gratuit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Gebühr für die Ausstellung des Passes beträgt 50 Euro.",
+      "targetText": "Taxa pentru eliberarea pașaportului este de 50 de euro."
+    },
+    {
+      "sourceText": "Man muss eine Gebühr für die Nutzung des Schwimmbads zahlen.",
+      "targetText": "Trebuie să plătești o taxă pentru utilizarea piscinei."
+    },
+    {
+      "sourceText": "Die Gebühr wird jährlich erhoben.",
+      "targetText": "Taxa se percepe anual."
+    },
+    {
+      "sourceText": "Ohne Gebühr ist der Eintritt nicht möglich.",
+      "targetText": "Intrarea nu este posibilă fără taxă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'taxa' bedeutet Bewertung – so kannst du dir merken, dass 'taxă' eine festgelegte Gebühr ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'taxă' klingt ähnlich wie das deutsche Wort 'Taxe', das auch eine Gebühr oder einen Preis bezeichnet."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen gibt es das Wort 'Gebühr', das von 'geben' kommt – ähnlich wie 'taxă' eine festgelegte Zahlung ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zahlst eine 'taxă' wie eine 'Taxe' für eine Dienstleistung – beide Wörter sind eng verwandt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

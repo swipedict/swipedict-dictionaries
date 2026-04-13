@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-installieren",
+  "parent": "ms-ro-a-instala-9870fda5@77ca1e2099d4338aa844552459d75337",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "installieren",
+    "definition": "ein Programm oder Gerät einrichten und in Betrieb nehmen",
+    "pronunciation": "/ɪnˈstaliːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „installieren“ stammt vom italienischen „installare“, das wiederum aus dem lateinischen „installare“ kommt und „an einen Ort stellen“ bedeutet.",
+        "targetText": "Verbul german „installieren“ provine din italianul „installare“, derivat din latinul „installare“, care înseamnă „a pune într-un loc“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft in technischen Kontexten verwendet, besonders bei Software, Geräten und Infrastruktur."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a instala",
+    "definition": "a pregăti un program sau un dispozitiv pentru utilizare",
+    "pronunciation": "/a inˈsta.la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a instala“ stammt vom italienischen „installare“, das vom lateinischen „installare“ kommt und „aufstellen“ oder „einrichten“ bedeutet. Es bezeichnet das Einrichten von Geräten oder Software an einem bestimmten Ort oder in einem System.",
+        "targetText": "Verbul românesc „a instala“ provine din italianul „installare“, derivat din latinul „installare“, care înseamnă „a pune“ sau „a aranja“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wichtig in der Informatik und Technik, um Software oder Hardware zu initialisieren und betriebsbereit zu machen."
+  },
+  "senses": [
+    {
+      "gloss": "a instala (allgemeine Verwendung)",
+      "explanation": {
+        "sourceText": "Verwendung in technischem Kontext, z.B. Software oder Geräte einrichten.",
+        "targetText": "Utilizare în context tehnic, de exemplu pentru configurarea software-ului sau a dispozitivelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich installiere die neue Software.",
+          "targetText": "Eu instalez noul software."
+        },
+        {
+          "sourceText": "Installierst du das Programm auf deinem Computer?",
+          "targetText": "Instalezi programul pe computerul tău?"
+        }
+      ]
+    },
+    {
+      "gloss": "Einrichtung von Hardware",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Einrichten oder Montieren von Hardwarekomponenten.",
+        "targetText": "Se referă la configurarea sau montarea componentelor hardware."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Techniker installiert die neue Hardware.",
+          "targetText": "Tehnicianul instalează noul hardware."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anwendung",
+      "targetText": "aplicație"
+    },
+    {
+      "sourceText": "Gerät",
+      "targetText": "dispozitiv"
+    },
+    {
+      "sourceText": "Programm",
+      "targetText": "program"
+    },
+    {
+      "sourceText": "Software",
+      "targetText": "software"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "deinstallieren",
+      "targetText": "a dezinstala"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich installiere die neue Software.",
+      "targetText": "Eu instalez noul software."
+    },
+    {
+      "sourceText": "Installierst du das Programm auf deinem Computer?",
+      "targetText": "Instalezi programul pe computerul tău?"
+    },
+    {
+      "sourceText": "Der Techniker installiert die neue Hardware.",
+      "targetText": "Tehnicianul instalează noul hardware."
+    },
+    {
+      "sourceText": "Wir installieren das System morgen.",
+      "targetText": "Noi instalăm sistemul mâine."
+    },
+    {
+      "sourceText": "Installiert ihr die Änderungen?",
+      "targetText": "Instalați modificările?"
+    },
+    {
+      "sourceText": "Sie (Pl.) installieren die Geräte im Büro.",
+      "targetText": "Ei instalează echipamentele în birou."
+    },
+    {
+      "sourceText": "Ich habe das Update installiert.",
+      "targetText": "Am instalat actualizarea."
+    },
+    {
+      "sourceText": "Sie haben die Software installiert.",
+      "targetText": "Ei au instalat software-ul."
+    },
+    {
+      "sourceText": "Er installierte das neue Programm oft.",
+      "targetText": "El instala adesea noul program."
+    },
+    {
+      "sourceText": "Ich hatte die Software bereits installiert.",
+      "targetText": "Instalasem deja software-ul."
+    },
+    {
+      "sourceText": "Ich werde die Anwendung am Freitag installieren.",
+      "targetText": "Voi instala aplicația vineri."
+    },
+    {
+      "sourceText": "Sie wird die Updates am Samstag installieren.",
+      "targetText": "Ea o să instaleze actualizările sâmbătă."
+    },
+    {
+      "sourceText": "Ich würde die Software installieren, wenn ich Zeit hätte.",
+      "targetText": "Aș instala software-ul dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du das Programm installierst.",
+      "targetText": "Este important să instalezi programul."
+    },
+    {
+      "sourceText": "Installiere das neue Gerät!",
+      "targetText": "Instalează noul dispozitiv!"
+    },
+    {
+      "sourceText": "Installieren Sie die Änderungen bitte!",
+      "targetText": "Instalați modificările, vă rog!"
+    },
+    {
+      "sourceText": "Die installierte Software funktioniert einwandfrei.",
+      "targetText": "Software-ul instalat funcționează perfect."
+    },
+    {
+      "sourceText": "Das Update ist jetzt installiert.",
+      "targetText": "Actualizarea este acum instalată."
+    },
+    {
+      "sourceText": "Installierend, setzte er sein Gesicht vor den Monitor.",
+      "targetText": "Instalând, și-a pus fața în fața monitorului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Installieren“ und „a instala“ sind Kognaten – das hilft dir, die Bedeutung schnell zu verbinden!"
+    },
+    {
+      "lang": "de",
+      "text": "Das „a“ am Anfang von „a instala“ zeigt dir, dass es ein Verb ist – ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensendung „-ez“ in „instalez“ als Hinweis auf die 1. Person Singular."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „installierst“ ein Gerät, indem du es an einen festen Platz „installierst“ – so merkst du dir die Bedeutung von „a instala“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

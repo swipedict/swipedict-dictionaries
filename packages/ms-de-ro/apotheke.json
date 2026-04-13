@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-apotheke",
+  "parent": "ms-ro-farmacie-39c38e14@bba5467df443536970ed73769179bdb1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:greek",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Apotheke",
+    "genus": "feminine",
+    "definition": "Ein Geschäft oder Ort, an dem Medikamente verkauft und pharmazeutische Beratung angeboten wird.",
+    "pronunciation": "/apoˈteːkə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Apotheke“ stammt vom griechischen Wort 'apothēkē' ab, was 'Lager' oder 'Aufbewahrungsort' bedeutet, und wurde über das Lateinische ins Deutsche übernommen.",
+        "targetText": "Cuvântul german „Apotheke” provine din grecescul 'apothēkē', care înseamnă 'depozit' sau 'loc de păstrare', preluat în germană prin latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "farmacie",
+    "genus": "feminine",
+    "definition": "Un loc unde se vând medicamente și se oferă consultanță farmaceutică.",
+    "pronunciation": "/far.maˈt͡ʃi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „farmacie“ stammt vom griechischen 'pharmakeia' ab, über das Lateinische und Französische, und bedeutet ursprünglich 'Zauberei' oder 'Medizin', heute 'Apotheke'.",
+        "targetText": "Cuvântul românesc „farmacie” provine din grecescul 'pharmakeia', prin latină și franceză, însemnând inițial 'vrăjitorie' sau 'medicină', astăzi 'farmacie'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Apotheker",
+      "targetText": "farmacist"
+    },
+    {
+      "sourceText": "Arznei",
+      "targetText": "leac"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Rezept",
+      "targetText": "rețetă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich gehe zur Apotheke, um Medikamente zu kaufen.",
+      "targetText": "Merg la farmacie să cumpăr medicamente."
+    },
+    {
+      "sourceText": "Die Apotheke ist täglich von 8 bis 20 Uhr geöffnet.",
+      "targetText": "Farmacia este deschisă zilnic de la 8 la 20."
+    },
+    {
+      "sourceText": "In der Apotheke bekommt man auch Beratung zur Einnahme von Medikamenten.",
+      "targetText": "La farmacie primești și sfaturi despre administrarea medicamentelor."
+    },
+    {
+      "sourceText": "Die Apotheke befindet sich in der Nähe des Krankenhauses.",
+      "targetText": "Farmacia se află aproape de spital."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'farmacie' erinnert an das deutsche Wort 'Pharmazie', beide stammen vom griechischen 'pharmakeia' ab."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Apotheke' klingt ähnlich wie das griechische 'apothēkē', was 'Lager' bedeutet – stell dir eine Apotheke als Lager für Medizin vor."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'Apotheke' ein Ort ist, genau wie 'farmacie' – beide sind konkrete Orte, an denen man Medizin bekommt."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'farmacie' mit 'Pharma' und 'Medikamente' – so kannst du dir leicht merken, dass es um Medikamente geht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

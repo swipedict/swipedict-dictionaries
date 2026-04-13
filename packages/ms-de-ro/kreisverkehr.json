@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-kreisverkehr",
+  "parent": "ms-ro-sens-giratoriu-5e5c0c19@c720b0c37eb8edb7e9e859e715f9d4dc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kreisverkehr",
+    "genus": "masculine",
+    "definition": "Eine Verkehrsführung, bei der Fahrzeuge in einem Kreis fahren und Vorfahrt haben, um Kreuzungen sicherer und flüssiger zu machen.",
+    "pronunciation": "/ˈkʁaɪ̯s.fɛɐ̯ˌkeːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Kreisverkehr' setzt sich aus 'Kreis' (von althochdeutsch 'kreis', verwandt mit lateinisch 'circus' für 'Ring') und 'Verkehr' (von althochdeutsch 'ferhher' für 'Bewegung, Verkehr') zusammen.",
+        "targetText": "Cuvântul german „Kreisverkehr” este compus din „Kreis” (cerc), provenit din germana veche înaltă „kreis”, înrudit cu latinul „circus” care înseamnă „inel”, și „Verkehr” (trafic), derivat din germana veche înaltă „ferhher”, însemnând „mișcare, trafic”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sens giratoriu",
+    "genus": "neuter",
+    "definition": "O intersecție rutieră în care traficul circulă în jurul unui cerc, pentru a fluidiza și a crește siguranța circulației.",
+    "pronunciation": "/sens ʒiraˈto.riu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff 'sens giratoriu' stammt vom lateinischen Wort 'sensus' (Richtung, Sinn) und dem französischen 'giratoire' (kreisförmig, drehend), das wiederum vom lateinischen 'gyrāre' (drehen) abgeleitet ist.",
+        "targetText": "Termenul românesc „sens giratoriu” provine din cuvântul latin „sensus” (sens, direcție) și din francezul „giratoire” (circular, rotativ), care la rândul său derivă din latinul „gyrāre” (a se învârti)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Feste Wendung, die im Straßenverkehr verwendet wird."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ampel",
+      "targetText": "semafor"
+    },
+    {
+      "sourceText": "Kreuzung",
+      "targetText": "intersecție"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ampelkreuzung",
+      "targetText": "intersecție cu semafor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Kreisverkehr sorgt für einen flüssigeren Verkehr.",
+      "targetText": "Sensul giratoriu asigură un trafic mai fluid."
+    },
+    {
+      "sourceText": "Im Kreisverkehr hat der Verkehr von links Vorfahrt.",
+      "targetText": "În sensul giratoriu, traficul din stânga are prioritate."
+    },
+    {
+      "sourceText": "Bitte im Kreisverkehr langsam fahren und auf Fußgänger achten.",
+      "targetText": "Vă rugăm să circulați încet în sensul giratoriu și să aveți grijă de pietoni."
+    },
+    {
+      "sourceText": "Der neue Kreisverkehr wurde letztes Jahr gebaut.",
+      "targetText": "Sensul giratoriu nou a fost construit anul trecut."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'sens' bedeutet Richtung, ähnlich wie das deutsche 'Sinn' – im Kreisverkehr ist die Richtung wichtig."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'giratoriu' klingt wie 'giraffe' mit 'tor' – stell dir eine Giraffe vor, die sich im Kreis dreht, um 'giratoriu' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das französische 'giratoire', das mit 'drehen' zu tun hat – im Kreisverkehr drehen sich die Fahrzeuge."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Autos in einem 'Kreis' fahren, und das Wort 'verkehr' erinnert an Verkehr – so merkst du dir 'sens giratoriu' als Kreisverkehr."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

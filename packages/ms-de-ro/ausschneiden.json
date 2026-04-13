@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-ausschneiden",
+  "parent": "ms-ro-a-taia-db3a5aea@744e2c59886aae76956d75865eeb8bee",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausschneiden",
+    "definition": "etwas mit einer Schere oder einem Messer abtrennen oder herausnehmen",
+    "pronunciation": "/ˈaʊsˌʃaɪ̯dən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausschneiden“ setzt sich aus „aus“ und „schneiden“ zusammen. „Schneiden“ stammt vom althochdeutschen „snīdan“ und bedeutet „schneiden“ oder „abtrennen“.",
+        "targetText": "Verbul german „ausschneiden“ provine din „aus“ + „schneiden“ (a tăia), indicând tăierea sau decuparea unui obiect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Verwendet in der Kunst, beim Handwerk und in der Küche."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a tăia",
+    "definition": "a separa sau a îndepărta ceva cu o foarfecă sau un cuțit",
+    "pronunciation": "/a təˈja/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a tăia“ stammt vom lateinischen „tallare“, was „schneiden“ oder „zerlegen“ bedeutet. Es beschreibt das physische Schneiden von Materialien.",
+        "targetText": "Verbul român „a tăia“ derivă din lat. „tallare“, însemnând a tăia sau a separa ceva."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in künstlerischen und handwerklichen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Ausschneiden (in der Kunst)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Ausschneiden von Formen oder Bildern.",
+        "targetText": "Se referă la decuparea formelor sau imaginilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schneide ein Bild aus.",
+          "targetText": "Eu tai o imagine."
+        }
+      ]
+    },
+    {
+      "gloss": "Das Gemüse ausschneiden",
+      "explanation": {
+        "sourceText": "Verwendet in der Küche für das Schneiden von Gemüse.",
+        "targetText": "Se folosește în bucătărie pentru tăierea legumelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schneide das Gemüse.",
+          "targetText": "Eu tai legumele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bastelmaterial",
+      "targetText": "materiale de artizanat"
+    },
+    {
+      "sourceText": "Messer",
+      "targetText": "cuțit"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Schere",
+      "targetText": "foarfecă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einschneiden",
+      "targetText": "a tăia în interior"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schneide das Papier aus.",
+      "targetText": "Eu tai hârtia."
+    },
+    {
+      "sourceText": "Schneidest du die Bilder aus?",
+      "targetText": "Tai imaginile?"
+    },
+    {
+      "sourceText": "Sie schneidet die Blumen aus.",
+      "targetText": "Ea taie florile."
+    },
+    {
+      "sourceText": "Wir schneiden die Form aus.",
+      "targetText": "Noi tăiem forma."
+    },
+    {
+      "sourceText": "Schneidet ihr die Teile aus?",
+      "targetText": "Tăiați piesele?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schneiden die Karten aus.",
+      "targetText": "Ei taie cărțile."
+    },
+    {
+      "sourceText": "Ich habe die Pause ausgeschnitten.",
+      "targetText": "Am tăiat pauza."
+    },
+    {
+      "sourceText": "Er schnitt das Bild aus.",
+      "targetText": "El a tăiat imaginea."
+    },
+    {
+      "sourceText": "Ich werde das Gemüse ausschneiden.",
+      "targetText": "Voi tăia legumele."
+    },
+    {
+      "sourceText": "Ich würde das Papier ausschneiden.",
+      "targetText": "Aș tăia hârtia."
+    },
+    {
+      "sourceText": "Schneide das Stück aus!",
+      "targetText": "Taie bucata!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A tăia“ klingt wie „ta.“ – stelle dir vor, wie du ein Stück mit einem „ta-ta“ schneidest."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a tăia“ in der Küche und Kunst oft gebraucht wird – so bleibt das Wort lebendig im Kopf."
+    },
+    {
+      "lang": "de",
+      "text": "Die Form „tai“ (ich schneide) beginnt mit „t“ wie das deutsche „trennen“ – das hilft beim Merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

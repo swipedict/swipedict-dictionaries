@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-grab",
+  "parent": "ms-ro-mormant-c2812467@6382cf187382a299342d0cb70655f74e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Grab",
+    "genus": "neuter",
+    "definition": "Eine Stelle, an der ein Verstorbener beigesetzt wird; eine Ruhestätte für Tote.",
+    "pronunciation": "/ɡʁaːp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Grab“ stammt vom althochdeutschen 'grap' ab, das eine Vertiefung oder Grube bezeichnete, und ist verwandt mit dem germanischen Wort für Grube oder Loch.",
+        "targetText": "Cuvântul german „Grab” provine din vechiul german înalt 'grap', care însemna o adâncitură sau groapă, fiind legat de termenii germanici pentru groapă sau loc adânc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mormânt",
+    "genus": "neuter",
+    "definition": "Loc unde este îngropată o persoană decedată; o groapă pentru odihna morților.",
+    "pronunciation": "/morˈmɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „mormânt“ stammt vom lateinischen 'monumentum' ab, das ursprünglich ein Denkmal oder eine Gedenkstätte bezeichnete und später die Bedeutung einer Grabstätte annahm.",
+        "targetText": "Cuvântul românesc „mormânt” derivă din latinul 'monumentum', care inițial desemna un monument sau o amintire, iar mai târziu a căpătat sensul de loc de îngropăciune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beerdigung",
+      "targetText": "înmormântare"
+    },
+    {
+      "sourceText": "Friedhof",
+      "targetText": "cimitir"
+    },
+    {
+      "sourceText": "Grabstein",
+      "targetText": "cruce de mormânt"
+    },
+    {
+      "sourceText": "Sarg",
+      "targetText": "sicriu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Leben",
+      "targetText": "viață"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Grab ist mit Blumen geschmückt.",
+      "targetText": "Mormântul este împodobit cu flori."
+    },
+    {
+      "sourceText": "Wir besuchten das Grab unserer Großeltern.",
+      "targetText": "Am vizitat mormântul bunicilor noștri."
+    },
+    {
+      "sourceText": "Das Grab befindet sich auf dem Friedhof am Ortsrand.",
+      "targetText": "Mormântul se află în cimitir la marginea localității."
+    },
+    {
+      "sourceText": "Viele Menschen legen Kerzen auf das Grab.",
+      "targetText": "Mulți oameni pun lumânări pe mormânt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Grab“ und das rumänische „mormânt“ sind beide mit dem Tod verbunden, aber „mormânt“ kommt vom lateinischen 'monumentum', was dir hilft, die Bedeutung zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „mormânt“ klingt wie „Monument“ und erinnert daran, dass ein Grab oft auch eine Gedenkstätte ist."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: „mor-“ am Anfang von „mormânt“ erinnert an „mort“ (tot), was die Bedeutung als Grab unterstützt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Grab ist ein „Monument“ für die Ruhe – so merkst du dir „mormânt“ als Ort der letzten Ruhe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

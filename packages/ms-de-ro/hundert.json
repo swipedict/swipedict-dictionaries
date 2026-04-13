@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-hundert",
+  "parent": "ms-ro-o-suta-704b7ba9@6bac70fcf3a573c427634b15a9863bbe",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hundert",
+    "definition": "Die Zahl 100, eine runde Zahl, die zehnmal zehn entspricht.",
+    "pronunciation": "/ˈhʊndɐt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „hundert“ stammt vom althochdeutschen 'hundar' ab, das auf die germanische Wurzel *hundą zurückgeht, ursprünglich für 'Zahl 100' verwendet.",
+        "targetText": "Cuvântul german „hundert” provine din vechiul german înalt 'hundar', derivat din rădăcina germanică *hundą, folosit inițial pentru numărul 100."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "o sută",
+    "definition": "Numărul 100, o cifră rotundă egală cu zece înmulțit cu zece.",
+    "pronunciation": "/o ˈsutə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sută“ stammt vom lateinischen 'sāta' ab, einer Ableitung von 'centum', das 100 bedeutet, mit einer Lautentwicklung im Rumänischen.",
+        "targetText": "Cuvântul românesc „sută” provine din latină, din 'sāta', o formă derivată din 'centum', care înseamnă 100, cu o evoluție fonetică specifică limbii române."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "tausend",
+      "targetText": "o mie"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    },
+    {
+      "sourceText": "zehn",
+      "targetText": "zece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe hundert Euro.",
+      "targetText": "Am o sută de euro."
+    },
+    {
+      "sourceText": "Hundert ist zehn mal zehn.",
+      "targetText": "O sută este zece înmulțit cu zece."
+    },
+    {
+      "sourceText": "Die Zahl hundert ist eine runde Zahl.",
+      "targetText": "Numărul o sută este un număr rotund."
+    },
+    {
+      "sourceText": "Im Jahr gibt es hundert Jahre.",
+      "targetText": "Un secol are o sută de ani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'hundert' und das rumänische 'sută' haben beide eine lange Geschichte, aber 'sută' kommt direkt aus dem Lateinischen 'centum'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Hundert' ist im Deutschen eine runde Zahl, im Rumänischen sagt man 'o sută' – 'o' als unbestimmter Artikel, ähnlich wie 'eine'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'SUTTE' (wie eine Flasche) voll mit 100 Tropfen. So merkst du dir 'o sută' als 100."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'sută' mit dem englischen Wort 'set' – stell dir vor, du hast ein Set von 100 Dingen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-waschmaschine",
+  "parent": "ms-ro-masina-de-spalat-2b8079ff@34a1e290a0bdc3134398384dd39d09a9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:germanic",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Waschmaschine",
+    "genus": "feminine",
+    "definition": "Ein elektrisches Gerät zum Waschen von Kleidung und Textilien.",
+    "pronunciation": "/ˈvaʃmaˌʃiːnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Waschmaschine“ setzt sich zusammen aus 'waschen' (vom althochdeutschen 'waschan') und 'Maschine' (aus dem Französischen 'machine', ursprünglich vom lateinischen 'machina').",
+        "targetText": "Cuvântul german „Waschmaschine” este compus din 'waschen' (a spăla), derivat din germana veche înaltă 'waschan', și 'Maschine', împrumutat din franceza 'machine', la rândul său provenind din latină 'machina'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mașină de spălat",
+    "genus": "feminine",
+    "definition": "Un aparat electric folosit pentru spălarea hainelor și a textilelor.",
+    "pronunciation": "/maˈʃinə de spəˈlat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „mașină de spălat“ besteht aus 'mașină' (aus dem Italienischen 'macchina', vom Lateinischen 'machina') und 'spălat' (Partizip von 'a spăla', das vom lateinischen 'spalare' abstammt).",
+        "targetText": "Expresia românească „mașină de spălat” este formată din 'mașină' (împrumutat din italiană 'macchina', provenind din latină 'machina') și 'spălat' (participiul verbului 'a spăla', derivat din latinescul 'spalare')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Zusammensetzung aus Substantiv und Partizip, gebräuchlich im Alltag."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Kleidung",
+      "targetText": "haină"
+    },
+    {
+      "sourceText": "Reinigung",
+      "targetText": "curățare"
+    },
+    {
+      "sourceText": "Trockner",
+      "targetText": "uscător"
+    },
+    {
+      "sourceText": "Waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Waschmaschine ist kaputt und muss repariert werden.",
+      "targetText": "Mașina de spălat este stricată și trebuie reparată."
+    },
+    {
+      "sourceText": "Ich lade die Waschmaschine mit schmutziger Wäsche.",
+      "targetText": "Încărc mașina de spălat cu rufe murdare."
+    },
+    {
+      "sourceText": "Die Waschmaschine hat verschiedene Programme für empfindliche Stoffe.",
+      "targetText": "Mașina de spălat are programe diferite pentru țesături delicate."
+    },
+    {
+      "sourceText": "Nach dem Waschen trockne ich die Kleidung im Trockner.",
+      "targetText": "După spălare, usuc hainele în uscător."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'mașină' klingt ähnlich wie das deutsche 'Maschine', was dir hilft, den ersten Teil des Wortes zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'spălat' kommt vom Verb 'a spăla' (waschen). Denk an das deutsche 'spülen' als Eselsbrücke für 'spăla'."
+    },
+    {
+      "lang": "de",
+      "text": "Die Kombination 'mașină de spălat' ist wie eine kleine Phrase: 'Maschine zum Waschen' – genau wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie die 'Maschine' (Maschine) deine Kleidung 'wascht' – so kannst du dir 'mașină de spălat' als 'Waschmaschine' merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

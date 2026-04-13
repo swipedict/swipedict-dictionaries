@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-fliessen",
+  "parent": "ms-ro-a-curge-756314a3@d7b2dee31bfa32fc52af249ce6ce0d8c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fließen",
+    "definition": "sich in einer bestimmten Richtung bewegen; wie Wasser oder eine Flüssigkeit",
+    "pronunciation": "/ˈfliːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „fließen“ stammt vom mittelhochdeutschen „vliesen“ und ist verwandt mit dem englischen „to flow“.",
+        "targetText": "Verbul german „fließen“ provine din mijlocul german „vliesen“ și este înrudit cu englezescul „to flow“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb. Wird oft für Wasser oder Flüssigkeiten verwendet, auch metaphorisch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a curge",
+    "definition": "a se mișca într-o direcție specifică; precum apa sau un lichid",
+    "pronunciation": "/a ˈkur.dʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a curge“ stammt vom lateinischen „currere“ (laufen, fließen) ab und beschreibt Bewegung von Flüssigkeiten oder Zeit.",
+        "targetText": "Verbul românesc „a curge“ derivă din latină, de la „currere“ (a alerga, a curge), descriind mișcarea lichidelor sau a timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation (-e). Häufig im Alltag verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Fluss",
+      "targetText": "râu"
+    },
+    {
+      "sourceText": "Flüssigkeit",
+      "targetText": "lichid"
+    },
+    {
+      "sourceText": "Strom",
+      "targetText": "curent"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Wasser fließt schnell.",
+      "targetText": "Apa curge repede."
+    },
+    {
+      "sourceText": "Der Fluss fließt durch das Tal.",
+      "targetText": "Râul curge prin vale."
+    },
+    {
+      "sourceText": "Das Wasser ist geflossen.",
+      "targetText": "Apa a curs."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Fließen“ und „a curge“ haben die gleiche Bedeutung – stell dir vor, wie Wasser aus einem Hahn „curge“."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „curge“ klingt wie „kurz“ – denk daran, wie Wasser schnell und kurz fließt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

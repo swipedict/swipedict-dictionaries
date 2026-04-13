@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-durchatmen",
+  "parent": "ms-ro-a-respira-profund-883e7a92@9eecee86d4bb383c789c28e4c8333c36",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "durchatmen",
+    "definition": "einen tiefen Atemzug nehmen oder die Luft tief ein- und ausatmen",
+    "pronunciation": "/ˈdʊʁçˌat.mən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich zusammen aus „durch“, das „hindurch“ oder „komplett“ bedeutet, und „atmen“, was aus dem mittelhochdeutschen „atmen“ stammt.",
+        "targetText": "Das deutsche Verb „durchatmen“ kombiniert „durch“ (hindurch) und „atmen“ (aus dem Mittelhochdeutschen), was „tief atmen“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet in Situationen, in denen man tief durchatmen muss, um Stress abzubauen oder sich zu beruhigen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a respira profund",
+    "definition": "a lua o respirație profundă sau a inspira și expira aerul adânc",
+    "pronunciation": "/a res.piˈra proˈfund/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a respira“ entstammt dem lateinischen „respirare“, das „wieder ausatmen“ bedeutet. In Verbindung mit „profund“ bezieht es sich auf das tiefere Atmen, das zur Beruhigung und Entspannung führt.",
+        "targetText": "Expresia românească „a respira“ provine din latină, din „respirare“, care înseamnă „a respira“, iar „profund“ înseamnă „adânc“, deci „a respira profund“ înseamnă a lua o respirație adâncă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Achtsamkeit und Stressbewältigung werden oft durch tiefes Atmen genutzt. Besonders hilfreich bei Entspannungsübungen und Meditation."
+  },
+  "senses": [
+    {
+      "gloss": "Atmen während der Meditation",
+      "explanation": {
+        "sourceText": "Es bezieht sich auf bewusste Atemtechniken während der Meditation.",
+        "targetText": "Se referă la tehnici conștiente de respirație în timpul meditației."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich atme während der Meditation tief durch.",
+          "targetText": "Respir profund în timpul meditației."
+        }
+      ]
+    },
+    {
+      "gloss": "Tief durchatmen zur Entspannung",
+      "explanation": {
+        "sourceText": "Benutzt, um Stress abzubauen.",
+        "targetText": "Folosit pentru a reduce stresul."
+      },
+      "examples": [
+        {
+          "sourceText": "Tief durchatmen hilft mir, mich zu entspannen.",
+          "targetText": "A respira profund mă ajută să mă relaxez."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Atem",
+      "targetText": "respirație"
+    },
+    {
+      "sourceText": "Entspannung",
+      "targetText": "relaxare"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Luft",
+      "targetText": "aer"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anhalten",
+      "targetText": "a opri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich atme tief durch.",
+      "targetText": "Respir profund."
+    },
+    {
+      "sourceText": "Atmest du auch durch?",
+      "targetText": "Respiri și tu profund?"
+    },
+    {
+      "sourceText": "Er atmet tief durch.",
+      "targetText": "El respiră profund."
+    },
+    {
+      "sourceText": "Wir atmen gemeinsam durch.",
+      "targetText": "Noi respirăm împreună."
+    },
+    {
+      "sourceText": "Atmet ihr gemeinsam durch?",
+      "targetText": "Respirați împreună?"
+    },
+    {
+      "sourceText": "Sie atmen alle tief durch.",
+      "targetText": "Ei respiră toți profund."
+    },
+    {
+      "sourceText": "Ich habe tief durchgeatmet.",
+      "targetText": "Am respirat profund."
+    },
+    {
+      "sourceText": "Ich werde durchatmen.",
+      "targetText": "Voi respira profund."
+    },
+    {
+      "sourceText": "Atme durch!",
+      "targetText": "Respiră profund!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an das deutsche „durchatmen“ und ersetze „durch“ mit „profund“ – beide drücken das tiefe Atmen aus."
+    },
+    {
+      "lang": "de",
+      "text": "Sprich die rumänische Form laut aus, während du tief atmest – so verknüpfst du das Wort mit der Handlung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a respira profund“ mit dem Bild, wie du tief in eine frische Bergluft einatmest – das hilft dir, das Wort zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

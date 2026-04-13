@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-klingeln-fahrrad",
+  "parent": "ms-ro-a-suna-59d0e076@9425a8b6b1494cfe91d163a77ddb293d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klingeln",
+    "definition": "Ein helles, klingelndes Geräusch machen, wie es bei einer Fahrradklingel der Fall ist.",
+    "pronunciation": "/ˈklɪŋəl(n)/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „klingeln“ leitet sich vom lautmalerischen Wort „Klingel“ ab, das den Klang einer kleinen Glocke beschreibt. Es ist verwandt mit dem mittelhochdeutschen 'klingelen', das den Klang einer Glocke nachahmt.",
+        "targetText": "Verbul german „klingeln“ provine de la cuvântul onomatopeic „Klingel“, care descrie sunetul unei clopoțele mici. Este înrudit cu termenul din germana mijlocie 'klingelen', care imită sunetul unei clopote."
+      },
+      "source": "Etymologische Wörterbücher, Lautmalerei"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a suna",
+    "definition": "A emite un sunet clar și repetitiv, cum face clopoțelul unei biciclete.",
+    "pronunciation": "/a suˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a suna“ stammt vom lateinischen Verb 'sonare' ab, das 'klingen' oder 'tönen' bedeutet und die Grundlage für viele romanische Wörter mit ähnlicher Bedeutung bildet.",
+        "targetText": "Verbul românesc „a suna” provine din verbul latin 'sonare', care înseamnă 'a răsuna' sau 'a face sunet' și stă la baza multor cuvinte romanice cu sens similar."
+      },
+      "source": "Dicționare etimologice, Analiză lingvistică"
+    },
+    "additional": "Verb regulat, folosit frecvent pentru sunete produse de clopoțele sau telefoane."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahrrad",
+      "targetText": "bicicletă"
+    },
+    {
+      "sourceText": "Klingel",
+      "targetText": "clopoțel"
+    },
+    {
+      "sourceText": "klingelnd",
+      "targetText": "sonor, care sună"
+    },
+    {
+      "sourceText": "läuten",
+      "targetText": "a bate (clopotul)"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstummen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Fahrradklingel klingelt, wenn ich den Hebel drücke.",
+      "targetText": "Clopoțelul bicicletei sună când apăs maneta."
+    },
+    {
+      "sourceText": "Bitte klingel, bevor du die Tür öffnest.",
+      "targetText": "Te rog să suni înainte să deschizi ușa."
+    },
+    {
+      "sourceText": "Das Telefon klingelt laut im Büro.",
+      "targetText": "Telefonul sună tare în birou."
+    },
+    {
+      "sourceText": "Er klingelt an der Haustür.",
+      "targetText": "El sună la ușa casei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'klingeln' ist lautmalerisch. Im Rumänischen hilft dir das lateinische 'a suna' die Bedeutung als 'klingen' oder 'tönen' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a suna' klingt ähnlich wie das englische 'to sound'. Stell dir vor, dass die Fahrradklingel 'soundet' – so merkst du dir 'a suna'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a suna' mit dem lateinischen Ursprung 'sonare', das auch in Wörtern wie 'Sonar' oder 'Sonate' steckt – alles hat mit Klang zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an eine Fahrradklingel denkst, stell dir vor, wie sie 'sunn' macht – ähnlich wie 'sună' im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

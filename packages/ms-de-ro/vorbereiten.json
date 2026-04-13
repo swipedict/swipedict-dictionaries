@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-vorbereiten",
+  "parent": "ms-ro-a-pregati-74bd732e@0fb0bb508616b4be77ef3e1dffd81dd3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vorbereiten",
+    "definition": "etwas für einen bestimmten Zweck vorbereiten oder anordnen",
+    "pronunciation": "/ˈfoʁbɛʁaɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus dem Präfix „vor-“ und dem Verb „bereiten“ zusammen, das vom mittelhochdeutschen „beriten“ stammt und „bereit machen“ bedeutet.",
+        "targetText": "Verbul este format din prefixul „vor-“ și verbul „bereiten“, derivat din germana mijlocie „beriten“, care înseamnă „a pregăti“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird häufig verwendet, um Vorbereitungen für Ereignisse oder Tätigkeiten zu beschreiben, beispielsweise für Events, Mahlzeiten oder Prüfungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pregăti",
+    "definition": "a aranja sau a pregăti ceva pentru un anumit scop",
+    "pronunciation": "/a preɡəˈti/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „praeparare“ abgeleitet, was „vorbereiten“ bedeutet. Im Rumänischen hat sich das Wort als Neologismus etabliert und wird in vielfältigen Kontexten verwendet.",
+        "targetText": "Derivat din latină „praeparare“, care înseamnă „a pregăti“. În limba română este un neologism folosit frecvent în contexte variate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird oft genutzt, um vorbereitende Maßnahmen, Kochprozesse oder organisatorische Tätigkeiten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Gericht vorbereiten",
+      "explanation": {
+        "sourceText": "Das bedeutet, das Essen vorzubereiten.",
+        "targetText": "Înseamnă a pregăti mâncarea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bereite das Gericht vor.",
+          "targetText": "Eu pregătesc felul."
+        }
+      ]
+    },
+    {
+      "gloss": "Vorbereitung für ein Event",
+      "explanation": {
+        "sourceText": "Das bedeutet, alles für eine Veranstaltung vorzubereiten.",
+        "targetText": "Înseamnă a pregăti totul pentru un eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir bereiten die Feier vor.",
+          "targetText": "Noi pregătim petrecerea."
+        }
+      ]
+    },
+    {
+      "gloss": "Vorbereitung für eine Prüfung",
+      "explanation": {
+        "sourceText": "Das bedeutet, sich auf eine Prüfung vorzubereiten.",
+        "targetText": "Înseamnă a te pregăti pentru un examen."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Schüler bereiten sich auf die Prüfung vor.",
+          "targetText": "Elevii se pregătesc pentru examen."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Feier",
+      "targetText": "sărbătoare"
+    },
+    {
+      "sourceText": "Gäste",
+      "targetText": "oaspeți"
+    },
+    {
+      "sourceText": "Getränk",
+      "targetText": "băutură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verzögern",
+      "targetText": "amâna"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bereite die Präsentation vor.",
+      "targetText": "Eu pregătesc prezentarea."
+    },
+    {
+      "sourceText": "Bereitest du das Essen vor?",
+      "targetText": "Pregătești mâncarea?"
+    },
+    {
+      "sourceText": "Der Lehrer bereitet die Schüler auf die Prüfung vor.",
+      "targetText": "Profesorul îi pregătește pe elevi pentru examen."
+    },
+    {
+      "sourceText": "Wir bereiten alles für die Feier vor.",
+      "targetText": "Noi pregătim totul pentru petrecere."
+    },
+    {
+      "sourceText": "Bereitet ihr die Unterlagen vor?",
+      "targetText": "Pregătiți documentele?"
+    },
+    {
+      "sourceText": "Sie bereiten den Unterricht optimal vor.",
+      "targetText": "Ei pregătesc lecția optim."
+    },
+    {
+      "sourceText": "Ich habe die Reise gut vorbereitet.",
+      "targetText": "Am pregătit bine călătoria."
+    },
+    {
+      "sourceText": "Sie haben alles für das Meeting vorbereitet.",
+      "targetText": "Ei au pregătit totul pentru întâlnire."
+    },
+    {
+      "sourceText": "Er bereitete die Unterlagen jeden Morgen vor.",
+      "targetText": "El pregătea documentele în fiecare dimineață."
+    },
+    {
+      "sourceText": "Ich hatte alles schon vorbereitet, als die Gäste eintrafen.",
+      "targetText": "Pregătisem deja totul când au sosit oaspeții."
+    },
+    {
+      "sourceText": "Ich werde das Essen morgen vorbereiten.",
+      "targetText": "Voi pregăti mâncarea mâine."
+    },
+    {
+      "sourceText": "Sie werden die Prüfungen rechtzeitig vorbereiten.",
+      "targetText": "Ea o să pregătească examenele la timp."
+    },
+    {
+      "sourceText": "Ich würde das Event vorbereiten, wenn ich Zeit hätte.",
+      "targetText": "Aș pregăti evenimentul dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Zutaten vorbereitest.",
+      "targetText": "Este important să pregătești ingredientele."
+    },
+    {
+      "sourceText": "Bereite dich gut vor!",
+      "targetText": "Pregătește-te bine!"
+    },
+    {
+      "sourceText": "Bereitet die Bücher vor!",
+      "targetText": "Pregătiți cărțile!"
+    },
+    {
+      "sourceText": "Die vorbereiteten Materialien sind bereit zur Verwendung.",
+      "targetText": "Materialele pregătite sunt gata pentru utilizare."
+    },
+    {
+      "sourceText": "Die Prüfung ist gut vorbereitet.",
+      "targetText": "Examenul este bine pregătit."
+    },
+    {
+      "sourceText": "Indem ich alles vorbereite, fühle ich mich sicherer.",
+      "targetText": "Pregătind totul, mă simt mai sigur."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Achte auf die Konjugation „pregătesc“ (ich bereite vor) – das „-esc“ ist typisch für die 1. Person Singular im Präsens."
+    },
+    {
+      "lang": "de",
+      "text": "Das „pre-“ in „pregăti“ klingt wie „prä-“ in Deutsch, was oft „vor-“ bedeutet – so kannst du die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a pregăti“ mit dem deutschen Wort „bereit“ – beide bedeuten, etwas vorzubereiten oder fertig zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „bereitest“ (pregătești) ein Fest vor – das hilft dir, die Bedeutung lebendig zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

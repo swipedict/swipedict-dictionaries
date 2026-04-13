@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-fegen",
+  "parent": "ms-ro-a-matura-d4cff74e@5fc05c71ef68b72d168dc735447304d4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fegen",
+    "definition": "Mit einem Besen oder ähnlichem Werkzeug den Boden sauber machen, indem man Schmutz oder Staub zusammenkehrt.",
+    "pronunciation": "/ˈfeːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb 'fegen' stammt vom althochdeutschen 'fegān' ab, das mit dem germanischen Wort für 'reinigen' verwandt ist.",
+        "targetText": "Verbul german „fegen” provine din germana veche înaltă 'fegān', legat de cuvântul germanic pentru 'a curăța'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a mătura",
+    "definition": "A curăța podeaua folosind o mătură pentru a aduna murdăria sau praful.",
+    "pronunciation": "/a məˈtu.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb 'a mătura' stammt vom lateinischen 'matutare' ab, das 'reinigen' oder 'fegen' bedeutet.",
+        "targetText": "Verbul românesc „a mătura” provine din latină, 'matutare', care înseamnă 'a curăța' sau 'a mătura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Besen",
+      "targetText": "mătură"
+    },
+    {
+      "sourceText": "putzen",
+      "targetText": "a curăța"
+    },
+    {
+      "sourceText": "sauber",
+      "targetText": "curat"
+    },
+    {
+      "sourceText": "wischen",
+      "targetText": "a șterge"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich fege den Boden jeden Morgen.",
+      "targetText": "Eu mătur podeaua în fiecare dimineață."
+    },
+    {
+      "sourceText": "Kannst du bitte die Terrasse fegen?",
+      "targetText": "Poți să mături terasa, te rog?"
+    },
+    {
+      "sourceText": "Nach dem Fest musste die ganze Halle gefegt werden.",
+      "targetText": "După petrecere, toată sala a trebuit să fie măturată."
+    },
+    {
+      "sourceText": "Er fegt den Gehweg vor dem Haus.",
+      "targetText": "El mătură trotuarul din fața casei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a mătura' klingt wie 'Matura' – stell dir vor, du hast deine 'Matura' bestanden und fegst jetzt den Boden als Belohnung."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'fegen' klingt wie 'fein' – stell dir vor, du machst alles fein sauber mit dem Besen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: eu mătur, tu mături, el/ea mătura – ähnlich wie bei anderen rumänischen Verben auf -a."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'fegen' mit dem Bild eines Besens, der den Boden fegt – 'a mătura' ist das rumänische Verb dafür."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

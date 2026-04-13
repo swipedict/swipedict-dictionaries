@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-einatmen",
+  "parent": "ms-ro-a-inspira-cd400495@2dd0c035ea8335a3a8af1d4022f894de",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einatmen",
+    "definition": "Luft in die Lunge ziehen",
+    "pronunciation": "/ˈaɪ̯nˌat͡s.mən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „einatmen“ setzt sich aus „ein“ und „atmen“ zusammen, wobei „atmen“ vom althochdeutschen „atmen“ stammt und „Luft holen“ bedeutet.",
+        "targetText": "Cuvântul „einatmen“ este compus din „ein“ și „atmen“, unde „atmen“ provine din germana veche și înseamnă a respira."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Indiziert den Vorgang, durch den Luft in die Lunge gelangt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a inspira",
+    "definition": "a trage aer în plămâni",
+    "pronunciation": "/a insˈpira/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a inspira“ stammt vom lateinischen „inspirare“ ab, was „einatmen“ bedeutet und wird häufig im medizinischen Kontext verwendet.",
+        "targetText": "Verbul românesc „a inspira“ provine din latină, din „inspirare“, care înseamnă a trage aer în plămâni."
+      },
+      "source": "AI, Wiktionary, Linguistic Analysis"
+    },
+    "additional": "Das Verb „a inspira“ findet Anwendung in der Alltagssprache, oft in Verbindung mit Atemübungen oder gesundheitlichen Aspekten."
+  },
+  "senses": [
+    {
+      "gloss": "Einatmen bei Anstrengung",
+      "explanation": {
+        "sourceText": "Oft verbunden mit Anstrengung oder Sport.",
+        "targetText": "Adesea legat de efort fizic sau sport."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich atme ein, bevor ich sprinten gehe.",
+          "targetText": "Intru inspir, înainte să alerg."
+        }
+      ]
+    },
+    {
+      "gloss": "Einatmen für Entspannung",
+      "explanation": {
+        "sourceText": "Verwendet, um Entspannungstechniken zu beschreiben.",
+        "targetText": "Folosit pentru a descrie tehnici de relaxare prin respirație."
+      },
+      "examples": [
+        {
+          "sourceText": "Beim Yoga atme ich tief ein.",
+          "targetText": "La yoga, inspir profund."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Atmung",
+      "targetText": "respirație"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Körper",
+      "targetText": "corp"
+    },
+    {
+      "sourceText": "Lunge",
+      "targetText": "plămân"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ausatmen",
+      "targetText": "a expira"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich atme tief ein.",
+      "targetText": "Eu inspir profund."
+    },
+    {
+      "sourceText": "Atmest du auch ein?",
+      "targetText": "Inspiri și tu?"
+    },
+    {
+      "sourceText": "Sie atmet langsam ein.",
+      "targetText": "Ea inspiră încet."
+    },
+    {
+      "sourceText": "Wir atmen schnell ein.",
+      "targetText": "Noi inspirăm repede."
+    },
+    {
+      "sourceText": "Atmet ihr tief ein?",
+      "targetText": "Inspirați adânc?"
+    },
+    {
+      "sourceText": "Sie atmen die frische Luft ein.",
+      "targetText": "Ei inspiră aerul proaspăt."
+    },
+    {
+      "sourceText": "Ich habe gerade einatmen.",
+      "targetText": "Am inspirat tocmai acum."
+    },
+    {
+      "sourceText": "Sie haben gut einatmen.",
+      "targetText": "Au inspirat bine."
+    },
+    {
+      "sourceText": "Er atmete tief ein.",
+      "targetText": "El inspira adânc."
+    },
+    {
+      "sourceText": "Ich werde morgen einatmen.",
+      "targetText": "Voi inspira mâine."
+    },
+    {
+      "sourceText": "Ich würde einatmen, wenn ich die Chance hätte.",
+      "targetText": "Aș inspira dacă aș avea ocazia."
+    },
+    {
+      "sourceText": "Atme ein!",
+      "targetText": "Inspiră!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einatmen“ und „a inspira“ sind eng mit Gesundheit verbunden – stelle dir vor, wie du tief Luft holst, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Übe den Gegensatz zu „ausatmen“ (a expira), um die Bedeutung klar zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere, wie du bei Stress tief einatmest – das hilft dir, „a inspira“ mit Entspannung zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

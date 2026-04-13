@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-streamen",
+  "parent": "ms-ro-a-transmite-in-flux-b1157453@0681bdacedfaa16db3b59a7d83c9e9e5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:english",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "streamen",
+    "definition": "Digitale Medieninhalte in Echtzeit über das Internet übertragen, ohne sie vorher vollständig herunterzuladen.",
+    "pronunciation": "/ˈstʁiːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „streamen“ ist ein Lehnwort aus dem Englischen, abgeleitet vom Substantiv 'stream' im Sinne von 'Fluss' oder 'Strom', übertragen auf den Datenfluss im Internet.",
+        "targetText": "Verbul german „streamen“ este un împrumut din limba engleză, derivat din substantivul 'stream' care înseamnă 'pârâu' sau 'curgere', folosit metaforic pentru fluxul de date pe internet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a transmite în flux",
+    "definition": "A reda conținut media digital în timp real prin internet, fără a-l descărca complet înainte.",
+    "pronunciation": "/a transˈmite ɨn fluks/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „a transmite în flux“ ist eine Übersetzung des englischen Begriffs 'to stream', wobei 'a transmite' vom lateinischen 'transmittere' stammt und 'în flux' den Datenfluss beschreibt.",
+        "targetText": "Expresia românească „a transmite în flux” este o traducere a termenului englezesc 'to stream', unde 'a transmite' provine din latină ('transmittere'), iar 'în flux' descrie curgerea datelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verbphrase, gebräuchlich im Kontext digitaler Medien und Internet."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Download",
+      "targetText": "descărcare"
+    },
+    {
+      "sourceText": "Internet",
+      "targetText": "internet"
+    },
+    {
+      "sourceText": "übertragen",
+      "targetText": "a transmite"
+    },
+    {
+      "sourceText": "Video",
+      "targetText": "video"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "herunterladen",
+      "targetText": "a descărca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich streame heute Abend ein Konzert live.",
+      "targetText": "Eu transmit în flux un concert live în această seară."
+    },
+    {
+      "sourceText": "Viele Menschen streamen Filme und Serien online.",
+      "targetText": "Mulți oameni transmit în flux filme și seriale online."
+    },
+    {
+      "sourceText": "Kannst du das Spiel streamen?",
+      "targetText": "Poți să transmiți în flux meciul?"
+    },
+    {
+      "sourceText": "Streaming ermöglicht es, Inhalte ohne Wartezeit zu sehen.",
+      "targetText": "Streaming-ul permite vizionarea conținutului fără timp de așteptare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das englische Wort 'stream' hilft dir, die Bedeutung zu verstehen: Wie ein Fluss, der nie stoppt, fließen beim Streamen die Daten kontinuierlich."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a transmite în flux' kannst du dir merken, indem du an 'transmittere' (lateinisch für senden) und 'flux' (Fluss) denkst – also 'senden im Fluss'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen 'Stream' als einen Fluss vor, der ständig fließt – so fließen auch die Daten beim 'streamen' direkt zu dir."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du 'streamen' hörst, denk an das Bild eines Flusses (stream), der Medieninhalte direkt zu dir bringt, ohne dass du sie speichern musst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

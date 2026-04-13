@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-verhandeln",
+  "parent": "ms-ro-a-negocia-5b9bf21f@996ceb918602c10287188b57c2604785",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verhandeln",
+    "definition": "Mit anderen Personen über Bedingungen oder Preise sprechen, um eine Einigung zu erzielen.",
+    "pronunciation": "/fɛɐ̯ˈhandl̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verhandeln“ setzt sich aus der Vorsilbe ‚ver-‘ und dem Verb ‚handeln‘ zusammen. ‚Handeln‘ stammt vom althochdeutschen 'handelen' ab, was ‚mit der Hand tun‘ bedeutet.",
+        "targetText": "Verbul german „verhandeln” este format din prefixul „ver-” și verbul „handeln”, care provine din germana veche înaltă 'handelen', însemnând „a face cu mâna”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a negocia",
+    "definition": "A discuta condiții sau prețuri cu alții pentru a ajunge la un acord.",
+    "pronunciation": "/a neɡoˈt͡ʃia/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a negocia“ stammt vom lateinischen 'negotiari' ab, was 'Geschäfte machen, verhandeln' bedeutet.",
+        "targetText": "Verbul românesc „a negocia” provine din latină 'negotiari', care înseamnă „a face afaceri, a negocia”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abkommen",
+      "targetText": "înțelegere"
+    },
+    {
+      "sourceText": "Handel",
+      "targetText": "comerț"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ablehnen",
+      "targetText": "a refuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Wir verhandeln heute über den Vertrag.",
+      "targetText": "Astăzi negociem contractul."
+    },
+    {
+      "sourceText": "Sie haben lange verhandelt.",
+      "targetText": "Ei au negociat mult timp."
+    },
+    {
+      "sourceText": "Früher verhandelte man persönlich.",
+      "targetText": "Mai demult se negocia personal."
+    },
+    {
+      "sourceText": "Wir werden morgen verhandeln.",
+      "targetText": "Mâine vom negocia."
+    },
+    {
+      "sourceText": "Verhandle fair!",
+      "targetText": "Negociază corect!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚verhandeln‘ enthält ‚handeln‘. Im Rumänischen ist ‚a negocia‘ das passende Verb für das geschäftliche Handeln und Verhandeln."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚negotiari‘ bedeutet ‚Geschäfte machen‘. So kannst du dir merken, dass ‚a negocia‘ immer mit Verhandlungen und Geschäften zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „a negocia“ klingt wie „negotiere“ im Englischen. Stell dir vor, du bist ein Geschäftsmann, der verhandelt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Wenn du ‚a negocia‘ hörst, denke an ‚Negotiation‘ im Englischen – das hilft dir, die Bedeutung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

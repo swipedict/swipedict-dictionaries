@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-hafen",
+  "parent": "ms-ro-port-43915dcc@d25f9552fa9ea8678864ab30a4959f0d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hafen",
+    "genus": "masculine",
+    "definition": "Ein geschützter Ort an der Küste oder an einem Fluss, wo Schiffe anlegen, laden und entladen können.",
+    "pronunciation": "/ˈhaːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Hafen“ stammt vom althochdeutschen 'hafn' ab, das auf das urgermanische *habnō zurückgeht und ursprünglich einen geschützten Ort zum Anlegen von Schiffen bezeichnete.",
+        "targetText": "Cuvântul german „Hafen” provine din germana veche înaltă 'hafn', derivat din rădăcina urgermanică *habnō, desemnând inițial un loc protejat pentru acostarea navelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "port",
+    "genus": "neuter",
+    "definition": "Un loc protejat pe coastă sau pe un râu, unde navele pot acosta, încărca și descărca mărfuri.",
+    "pronunciation": "/port/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „port“ stammt vom lateinischen 'portus' ab, das 'Hafen' oder 'Anlegeplatz' bedeutet und im Rumänischen direkt übernommen wurde.",
+        "targetText": "Cuvântul românesc „port” provine din latină, din termenul 'portus', care înseamnă 'port' sau 'loc de acostare', preluat direct în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anlegen",
+      "targetText": "a acosta"
+    },
+    {
+      "sourceText": "Hafenstadt",
+      "targetText": "oraș portuar"
+    },
+    {
+      "sourceText": "Küste",
+      "targetText": "coastă"
+    },
+    {
+      "sourceText": "Schiff",
+      "targetText": "navă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Offenes Meer",
+      "targetText": "mare deschisă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Hafen ist voll mit großen Frachtschiffen.",
+      "targetText": "Portul este plin cu vase mari de marfă."
+    },
+    {
+      "sourceText": "Das Schiff legte sicher im Hafen an.",
+      "targetText": "Nava a acostat în siguranță în port."
+    },
+    {
+      "sourceText": "Viele Waren werden im Hafen umgeschlagen.",
+      "targetText": "Multe mărfuri sunt manipulate în port."
+    },
+    {
+      "sourceText": "Der Hafen ist ein wichtiger Verkehrsknotenpunkt.",
+      "targetText": "Portul este un nod important de transport."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Hafen' und das rumänische 'port' stammen beide aus alten europäischen Wurzeln, die mit dem Schutz von Schiffen zu tun haben."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'port' klingt wie das englische 'port', was dir hilft, die Bedeutung als Hafen zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Port' ist im Rumänischen ein einfaches Wort, das du auch in anderen romanischen Sprachen findest, z.B. französisch 'port'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Schiffe an einem sicheren 'Port' anlegen – das Wort ist kurz und prägnant, genau wie der Ort selbst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

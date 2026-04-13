@@ -1,0 +1,97 @@
+{
+  "id": "ms-de-ro-vernuenftig",
+  "parent": "ms-ro-rational-424b9f5b@0474bb770d790a54ff74383cae820999",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vernünftig",
+    "definition": "sinnvoll oder logisch handelnd; mit einer gesunden Abwägung",
+    "pronunciation": "/fɛʁˈnʊnftɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„vernünftig“ stammt vom mittelhochdeutschen „vernünftig“, was so viel wie „überlegt“ bedeutet und mit „Verstand“ verbunden ist.",
+        "targetText": "Adjectivul german „vernünftig“ provine din germana mijlocie „vernünftig“, însemnând „gânditor“ și este legat de „Verstand“ (înțelegere)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird häufig in einem praktischen Kontext verwendet, um rationale Entscheidungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rațional",
+    "genus": "masculine",
+    "definition": "acționând într-un mod logic sau judicios; cu un raționament sănătos",
+    "pronunciation": "/ra.tsi.oˈnal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„rațional“ leitet sich vom lateinischen „rationalis“ ab, was „vernünftig“ bedeutet und die Fähigkeit beschreibt, logisch zu denken.",
+        "targetText": "Adjectivul român „rațional“ provine din latină, din „rationalis“, însemnând „vernicos“ și exprimând capacitatea de a gândi logic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig in wissenschaftlichen und akademischen Diskursen verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Logik",
+      "targetText": "logică"
+    },
+    {
+      "sourceText": "Sinn",
+      "targetText": "sens"
+    },
+    {
+      "sourceText": "Überlegung",
+      "targetText": "reflecție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unvernünftig",
+      "targetText": "iresponsabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Eine vernünftige Entscheidung kann viel Zeit sparen.",
+      "targetText": "O decizie rațională poate economisi mult timp."
+    },
+    {
+      "sourceText": "Es ist wichtig, vernünftig zu bleiben in schwierigen Situationen.",
+      "targetText": "Este important să rămânem raționali în situații dificile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Verbinde „vernünftig“ mit „Verstand“ – im Rumänischen heißt es „rațional“, also denke an logisches Denken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du jemanden klug beraten willst, nutze „rațional“ – das hilft dir, die Bedeutung von „vernünftig“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "ms-de-ro-aufnehmen",
+  "parent": "ms-ro-a-lua-eb72e8e7@d21aca6337856ecd08f94d8cca3a120e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aufnehmen",
+    "definition": "etwas oder jemanden in etwas einfügen oder in eine Gruppe integrieren",
+    "pronunciation": "/ˈaʊ̯fˌneː.mən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „aufnehmen“ setzt sich aus dem Präfix „auf-“ und dem Verb „nehmen“ zusammen, was „etwas annehmen“ oder „einfangen“ bedeutet.",
+        "targetText": "Das deutsche Verb „aufnehmen“ kombiniert das Präfix „auf-“ mit „nehmen“ (nehmen, empfangen), was ursprünglich „etwas aufnehmen oder annehmen“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Verwendung in vielen Kontexten, wie dem Aufnehmen von Fotos, Musik, Gesprächen oder Informationen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua",
+    "definition": "a insera sau a integra ceva sau pe cineva într-un grup",
+    "pronunciation": "/a ˈl.u.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a lua“ stammt vom lateinischen „luctare“, was „einen Kampf führen“ bedeutet. Die Bedeutung hat sich im Rumänischen vom „nehmen“ (annehmen) abgeleitet.",
+        "targetText": "Verbul românesc „a lua“ provine din latină, de la „luctare“ (a lupta), dar sensul s-a schimbat către „a lua“ în sensul de „a primi“ sau „a accepta“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Verwendung für alle Formen des Nehmens oder Aufnehmens, sowohl physisch als auch metaphorisch."
+  },
+  "senses": [
+    {
+      "gloss": "ein Bild aufnehmen (fotografieren)",
+      "explanation": {
+        "sourceText": "Bezieht sich darauf, ein Foto zu machen.",
+        "targetText": "Se referă la realizarea unei fotografii."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme ein Foto auf.",
+          "targetText": "Eu iau o fotografie."
+        }
+      ]
+    },
+    {
+      "gloss": "etwas aufnehmen (z.B. Informationen)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Erfassen von Informationen oder Inhalten.",
+        "targetText": "Se referă la captarea informațiilor sau conținutului."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme die Informationen auf.",
+          "targetText": "Eu iau informațiile."
+        }
+      ]
+    },
+    {
+      "gloss": "jmdn. aufnehmen (willkommen heißen)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Akzeptanz einer Person in einer Gruppe oder Gemeinschaft.",
+        "targetText": "Se referă la acceptarea unei persoane într-un grup sau comunitate."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir nehmen dich herzlich auf.",
+          "targetText": "Te primim cu căldură."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufnahme",
+      "targetText": "înregistrare"
+    },
+    {
+      "sourceText": "Begrüßung",
+      "targetText": "salutare"
+    },
+    {
+      "sourceText": "Integration",
+      "targetText": "integrare"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entlassen",
+      "targetText": "a elibera"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme ein Bild auf.",
+      "targetText": "Eu iau o poză."
+    },
+    {
+      "sourceText": "Nimmst du das Angebot an?",
+      "targetText": "Ieți oferta?"
+    },
+    {
+      "sourceText": "Er nimmt mit seinen Freunden auf.",
+      "targetText": "El ia cu prietenii săi."
+    },
+    {
+      "sourceText": "Wir nehmen die Herausforderung an.",
+      "targetText": "Noi luăm provocarea."
+    },
+    {
+      "sourceText": "Nehmt ihr die Einladung an?",
+      "targetText": "Luați invitația?"
+    },
+    {
+      "sourceText": "Sie nehmen die Musik auf.",
+      "targetText": "Ei iau muzica."
+    },
+    {
+      "sourceText": "Ich habe die Nachricht aufgenommen.",
+      "targetText": "Am luat mesajul."
+    },
+    {
+      "sourceText": "Er nahm an der Diskussion teil.",
+      "targetText": "El lua parte la discuție."
+    },
+    {
+      "sourceText": "Ich werde das Foto aufnehmen.",
+      "targetText": "Voi lua fotografia."
+    },
+    {
+      "sourceText": "Ich würde die Gelegenheit aufnehmen.",
+      "targetText": "Aș lua oportunitatea."
+    },
+    {
+      "sourceText": "Nimm das bitte an!",
+      "targetText": "Ia asta, te rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Aufnehmen“ und „a lua“ sind häufige Verben, die oft für das Nehmen oder Aufnehmen von Dingen verwendet werden – denk an das Bild, etwas in die Hand zu nehmen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a lua“ viele Bedeutungen hat – vom Fotografieren bis zum Annehmen – ähnlich wie „aufnehmen“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „aufnehmen“ und „a lua“ in verschiedenen Zeiten, um die Flexibilität der Verben zu verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

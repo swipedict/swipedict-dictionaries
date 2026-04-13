@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-salzig",
+  "parent": "ms-ro-sarat-161e9111@f91a111551a4e0d3f8e2e1d63e488519",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "salzig",
+    "definition": "Mit Salz gewürzt oder einen salzigen Geschmack habend.",
+    "pronunciation": "/ˈzal.tsɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „salzig“ stammt vom mittelhochdeutschen 'salzic' ab, das auf das althochdeutsche 'salz' zurückgeht, welches wiederum aus dem lateinischen 'sal' für Salz entlehnt wurde.",
+        "targetText": "Adjectivul german „salzig” provine din mijlocul germanului 'salzic', care la rândul său derivă din germana veche înaltă 'salz', împrumutat din latină 'sal' însemnând sare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sărat",
+    "definition": "Care conține sare sau are gust de sare.",
+    "pronunciation": "/səˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „sărat“ stammt vom lateinischen Partizip 'salātus' ab, was 'mit Salz versehen' bedeutet, abgeleitet vom lateinischen Substantiv 'sal' für Salz.",
+        "targetText": "Adjectivul românesc „sărat” provine din participiul latin 'salātus', care înseamnă 'presărat cu sare', derivat din substantivul latin 'sal' pentru sare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Salz",
+      "targetText": "sare"
+    },
+    {
+      "sourceText": "salzen",
+      "targetText": "a săra"
+    },
+    {
+      "sourceText": "salzig schmecken",
+      "targetText": "a avea gust sărat"
+    },
+    {
+      "sourceText": "salzige Speise",
+      "targetText": "mâncare sărată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mild",
+      "targetText": "blând"
+    },
+    {
+      "sourceText": "süß",
+      "targetText": "dulce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Brot ist zu salzig für meinen Geschmack.",
+      "targetText": "Pâinea este prea sărată pentru gustul meu."
+    },
+    {
+      "sourceText": "Ich mag salzige Snacks wie Chips.",
+      "targetText": "Îmi plac gustările sărate, cum ar fi chipsurile."
+    },
+    {
+      "sourceText": "Salziges Wasser schmeckt anders als Süßwasser.",
+      "targetText": "Apa sărată are un gust diferit față de apa dulce."
+    },
+    {
+      "sourceText": "Bitte nicht zu salzig kochen.",
+      "targetText": "Te rog să nu gătești prea sărat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚să‘ am Anfang von „sărat“ erinnert an ‚Salz‘, und das ‚rat‘ klingt wie ‚Ratte‘ – stell dir eine Ratte vor, die Salz liebt, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „sărat“ klingt wie das deutsche Wort „satt“ mit einem ‚r‘ dazwischen – stell dir vor, du bist satt, aber das Essen ist salzig."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „sărat“ vom lateinischen 'salātus' kommt, ähnlich wie das deutsche „Salz“ vom lateinischen 'sal'. So hängen beide Wörter zusammen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an salzig denkst, stell dir vor, wie Salz auf der Zunge knirscht – das knirschende ‚s‘ hilft dir, dich an ‚sărat‘ zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

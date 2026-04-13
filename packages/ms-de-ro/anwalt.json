@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-anwalt",
+  "parent": "ms-ro-avocat-06a215dc@ee87640133383383a538a38e4be3fdd8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Anwalt",
+    "genus": "masculine",
+    "definition": "Eine Person, die rechtliche Beratung gibt und vor Gericht vertritt.",
+    "pronunciation": "/ˈanvalt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Anwalt“ stammt vom mittelhochdeutschen 'anvalt' ab, das auf das althochdeutsche 'anwald' zurückgeht, zusammengesetzt aus 'an-' (bei) und 'waltan' (herrschen, walten).",
+        "targetText": "Cuvântul german „Anwalt” provine din germana mijlocie 'anvalt', derivat din germana veche înaltă 'anwald', format din 'an-' (lângă) și 'waltan' (a conduce, a domni)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avocat",
+    "genus": "masculine",
+    "definition": "Persoană care oferă consultanță juridică și reprezintă clienți în instanță.",
+    "pronunciation": "/avoˈkat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „avocat“ stammt vom lateinischen 'advocatus' ab, was 'herbeigerufener Helfer' bedeutet, ursprünglich eine Person, die vor Gericht unterstützt.",
+        "targetText": "Cuvântul românesc „avocat” provine din latină, din 'advocatus', care înseamnă 'apropiat chemat', inițial o persoană care asista în instanță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gericht",
+      "targetText": "instanță"
+    },
+    {
+      "sourceText": "Mandant",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Rechtsanwalt",
+      "targetText": "avocat"
+    },
+    {
+      "sourceText": "Verteidiger",
+      "targetText": "apărător"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kläger",
+      "targetText": "reclamant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Anwalt berät seinen Mandanten vor dem Prozess.",
+      "targetText": "Avocatul își sfătuiește clientul înainte de proces."
+    },
+    {
+      "sourceText": "Ein guter Anwalt kennt die Gesetze genau.",
+      "targetText": "Un avocat bun cunoaște legile foarte bine."
+    },
+    {
+      "sourceText": "Der Anwalt vertritt die Interessen seines Klienten vor Gericht.",
+      "targetText": "Avocatul reprezintă interesele clientului său în instanță."
+    },
+    {
+      "sourceText": "Sie hat einen erfahrenen Anwalt engagiert.",
+      "targetText": "Ea a angajat un avocat cu experiență."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Anwalt' enthält 'Walt', das an 'walten' erinnert – jemand, der für dich 'walten' oder handeln kann, also ein Anwalt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'avocat' klingt ähnlich wie das französische 'avocat', das auch 'Anwalt' bedeutet – so kannst du es dir leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'avocat' mit 'a' beginnt wie 'Anwalt' und beide mit 't' enden – das hilft beim schnellen Wiedererkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Anwalt wird 'advocatus' genannt, weil er 'herbeigerufen' wird, um zu helfen – das hilft dir, die lateinische Herkunft zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-stammen-aus",
+  "parent": "ms-ro-a-proveni-din-afd007b2@67975abafea5bfa754924cadd081363f",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stammen aus",
+    "definition": "Die Herkunft oder den Ursprung von etwas oder jemandem angeben.",
+    "pronunciation": "/ˈʃtamən aʊ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „stammen“ stammt vom mittelhochdeutschen 'stam' ab, das 'Stamm' oder 'Wurzel' bedeutet, und verweist auf Herkunft oder Ursprung.",
+        "targetText": "Verbul german „stammen” provine din germana mijlocie 'stam', care înseamnă 'tulpină' sau 'rădăcină', indicând originea sau proveniența."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a proveni din",
+    "definition": "A indica originea sau proveniența cuiva sau a ceva.",
+    "pronunciation": "/a proˈveni din/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a proveni“ stammt vom lateinischen 'provenire' ab, was 'hervorgehen' oder 'entstehen' bedeutet.",
+        "targetText": "Verbul românesc „a proveni” provine din latinescul 'provenire', care înseamnă 'a ieși' sau 'a proveni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Präposition 'din' wird verwendet, um die Herkunft anzugeben."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abstammen",
+      "targetText": "a se trage"
+    },
+    {
+      "sourceText": "herkommen",
+      "targetText": "a veni"
+    },
+    {
+      "sourceText": "Herkunft",
+      "targetText": "origine"
+    },
+    {
+      "sourceText": "Ursprung",
+      "targetText": "proveniență"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er stammt aus Deutschland.",
+      "targetText": "El provine din Germania."
+    },
+    {
+      "sourceText": "Diese Tradition stammt aus dem Mittelalter.",
+      "targetText": "Această tradiție provine din Evul Mediu."
+    },
+    {
+      "sourceText": "Viele Menschen stammen aus verschiedenen Ländern.",
+      "targetText": "Mulți oameni provin din țări diferite."
+    },
+    {
+      "sourceText": "Das Wort stammt aus dem Lateinischen.",
+      "targetText": "Cuvântul provine din limba latină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a proveni' klingt wie 'proveni' im Deutschen – denk an 'provenire' (herkommen) aus dem Lateinischen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präposition 'din' im Rumänischen entspricht dem deutschen 'aus' – beide zeigen Herkunft an."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'stammen' mit 'Stamm' verwandt ist, also mit Wurzeln – genauso zeigt 'a proveni din' die Herkunft an."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand 'provenit' (gekommen) aus einem Stamm (stammen) – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

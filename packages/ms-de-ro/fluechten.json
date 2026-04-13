@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-fluechten",
+  "parent": "ms-ro-a-fugi-e10e74a0@6b63ae49a6f7ec543a8b44d486f87e04",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "flüchten",
+    "definition": "sich in Sicherheit bringen, um einer Bedrohung zu entkommen",
+    "pronunciation": "/ˈflyːçtn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „flüchten“ stammt vom mittelhochdeutschen „vlühten“, was „weglaufen“ oder „fliehen“ bedeutet.",
+        "targetText": "Verbul german „flüchten“ provine din mijlocul german „vlühten“, însemnând a fugi sau a scăpa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb, häufig in Gefahrensituationen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fugi",
+    "definition": "a se duce într-un loc sigur pentru a scăpa de o amenințare",
+    "pronunciation": "/a fuˈdʒi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a fugi“ stammt vom lateinischen „fugere“ ab, was „fliehen“ bedeutet.",
+        "targetText": "Verbul românesc „a fugi“ derivă din latină, de la „fugere“, însemnând a fugi sau a scăpa."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation (-i). Wird oft im Kontext von Flucht vor Gefahr verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Asyl",
+      "targetText": "azil"
+    },
+    {
+      "sourceText": "Flucht",
+      "targetText": "fugă"
+    },
+    {
+      "sourceText": "Gefahr",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bleiben",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich flüchte vor dem Sturm.",
+      "targetText": "Eu fug de furtună."
+    },
+    {
+      "sourceText": "Wir sind vor dem Feuer geflüchtet.",
+      "targetText": "Am fugit de foc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Flüchten“ und „a fugi“ haben denselben Kern – stell dir vor, du rennst schnell weg, um dich zu retten."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an dramatische Filmszenen, in denen jemand „fugi“ – so merkst du dir das Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "ms-de-ro-benutzen",
+  "parent": "ms-ro-a-folosi-71167d64@24c5a215a1f0fdb57ce378fe68a79eb6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "benutzen",
+    "definition": "etwas gebrauchen oder in Anspruch nehmen",
+    "pronunciation": "/bəˈnuːt͡sən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb leitet sich vom Substantiv „Nutzen“ ab und bedeutet, etwas für einen bestimmten Zweck zu verwenden oder anzuwenden.",
+        "targetText": "Verbul derivă din substantivul „Nutzen“ (utilitate) și înseamnă a folosi ceva pentru un scop anume."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in alltäglichem Gebrauch, zum Beispiel im Kontext von Werkzeugen, Software oder Ressourcen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a folosi",
+    "definition": "a utiliza sau a folosi ceva",
+    "pronunciation": "/a fo.loˈsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „utilizāre“ abgeleitet, was „verwenden“ bedeutet. Das rumänische „a folosi“ beschreibt den Akt des Gebrauchs oder der Anwendung.",
+        "targetText": "Derivat din latinescul „utilizāre“, care înseamnă „a folosi“. „A folosi“ exprimă acțiunea de a utiliza ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Im Alltag oft anzutreffen, beispielsweise: „Eu folosesc calculatorul“ (Ich benutze den Computer)."
+  },
+  "senses": [
+    {
+      "gloss": "Benutzen (Anwendung)",
+      "explanation": {
+        "sourceText": "Im Sinne von etwas in der Praxis anwenden.",
+        "targetText": "A aplica ceva în practică."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir benutzen dieselbe Taktik.",
+          "targetText": "Noi folosim aceeași tactică."
+        }
+      ]
+    },
+    {
+      "gloss": "Benutzen (Gebrauch machen)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: etwas verwenden.",
+        "targetText": "La fel ca în germană: a folosi ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich benutze mein Handy.",
+          "targetText": "Eu folosesc telefonul meu."
+        }
+      ]
+    },
+    {
+      "gloss": "Verwendung (Nutzung)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den praktischen Gebrauch.",
+        "targetText": "Se referă la utilizarea practică."
+      },
+      "examples": [
+        {
+          "sourceText": "Benutzt die Software regelmäßig?",
+          "targetText": "Folosești software-ul regulat?"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Benutzer",
+      "targetText": "utilizator"
+    },
+    {
+      "sourceText": "Hilfsmittel",
+      "targetText": "mijloc de ajutor"
+    },
+    {
+      "sourceText": "Nutzung",
+      "targetText": "utilizare"
+    },
+    {
+      "sourceText": "Werkzeug",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschwendet",
+      "targetText": "a irosi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich benutze mein Handy.",
+      "targetText": "Eu folosesc telefonul meu."
+    },
+    {
+      "sourceText": "Benutzt du die Software regelmäßig?",
+      "targetText": "Folosești software-ul regulat?"
+    },
+    {
+      "sourceText": "Er benutzt das Werkzeug.",
+      "targetText": "El folosește unealta."
+    },
+    {
+      "sourceText": "Wir benutzen dieselbe Taktik.",
+      "targetText": "Noi folosim aceeași tactică."
+    },
+    {
+      "sourceText": "Benutzt ihr das Auto für die Reise?",
+      "targetText": "Folosiți mașina pentru călătorie?"
+    },
+    {
+      "sourceText": "Sie benutzen die neuesten Technologien.",
+      "targetText": "Ei folosesc cele mai recente tehnologii."
+    },
+    {
+      "sourceText": "Ich habe das Heft benutzt.",
+      "targetText": "Am folosit caietul."
+    },
+    {
+      "sourceText": "Sie benutzten das Werkzeug täglich.",
+      "targetText": "Ei foloseau unealta zilnic."
+    },
+    {
+      "sourceText": "Ich werde diese Methode benutzen.",
+      "targetText": "Voi folosi această metodă."
+    },
+    {
+      "sourceText": "Benutze den Laptop!",
+      "targetText": "Folosește laptop-ul!"
+    },
+    {
+      "sourceText": "Das benutzte Gerät ist defekt.",
+      "targetText": "Dispozitivul folosit este defect."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: „Folosesc“ (ich benutze), „Folosești“ (du benutzt) – ähnlich wie im Deutschen mit den Personalendungen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das deutsche „benutzen“ mit dem rumänischen „a folosi“ – beide bedeuten „etwas verwenden“ und klingen ähnlich."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere, wie du ein Werkzeug benutzt („unealtă“) und sagst: „Eu folosesc unealta“ – so verknüpfst du Wort und Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

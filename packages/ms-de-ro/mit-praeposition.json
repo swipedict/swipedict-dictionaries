@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-mit-praeposition",
+  "parent": "ms-ro-cu-2f66af28@c671a1a2993d36218211ee3d14383e4a",
+  "part_of_speech": "preposition",
+  "tags": [
+    "level:a1",
+    "etymology:germanic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mit",
+    "definition": "Eine Präposition, die eine Begleitung, Verbindung oder Mittel angibt.",
+    "pronunciation": "/mɪt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die deutsche Präposition „mit“ stammt vom althochdeutschen 'mit' ab, das auf die urgermanische Wurzel '*mitan' zurückgeht und 'zusammen mit' bedeutet.",
+        "targetText": "Prepoziția germană „mit” provine din germana veche înaltă 'mit', derivată din rădăcina proto-germanică '*mitan', care înseamnă 'împreună cu'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cu",
+    "definition": "O prepoziție care exprimă însoțirea, conexiunea sau mijlocul prin care se face ceva.",
+    "pronunciation": "/ku/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cu“ stammt vom lateinischen 'cum' ab, das 'mit' oder 'zusammen mit' bedeutet.",
+        "targetText": "Cuvântul românesc „cu” provine din latină, din 'cum', care înseamnă 'cu' sau 'împreună cu'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bei",
+      "targetText": "la"
+    },
+    {
+      "sourceText": "für",
+      "targetText": "pentru"
+    },
+    {
+      "sourceText": "ohne",
+      "targetText": "fără"
+    },
+    {
+      "sourceText": "und",
+      "targetText": "și"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ohne",
+      "targetText": "fără"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe mit dir ins Kino.",
+      "targetText": "Merg cu tine la cinema."
+    },
+    {
+      "sourceText": "Sie spricht mit dem Lehrer.",
+      "targetText": "Ea vorbește cu profesorul."
+    },
+    {
+      "sourceText": "Wir fahren mit dem Auto.",
+      "targetText": "Mergem cu mașina."
+    },
+    {
+      "sourceText": "Er arbeitet mit viel Energie.",
+      "targetText": "El lucrează cu multă energie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Beachte, dass 'mit' im Deutschen oft mit Dativ verwendet wird, während 'cu' im Rumänischen eine einfache Präposition ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische 'cum' hilft dir, dich an das rumänische 'cu' zu erinnern, das dieselbe Bedeutung hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'cu' klingt wie das deutsche 'zu' mit einem 'c' am Anfang – beide sind kurze Präpositionen, die oft Begleitung ausdrücken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, 'mit' und 'cu' sind wie zwei Freunde, die immer zusammen unterwegs sind."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

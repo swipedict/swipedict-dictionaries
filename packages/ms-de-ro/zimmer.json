@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-zimmer",
+  "parent": "ms-ro-camera-98a0ee71@9871f1025552fde4a137ff89403e7441",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zimmer",
+    "genus": "neuter",
+    "definition": "ein Raum in einem Gebäude, der für verschiedene Zwecke genutzt werden kann",
+    "pronunciation": "/ˈt͡sɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Zimmer“ stammt vom mittelhochdeutschen „zimber“, das aus dem lateinischen „camera“ abgeleitet ist, was „Raum“ oder „Kammer“ bedeutet.",
+        "targetText": "Cuvântul german „Zimmer“ provine din mittelhochdeutsch „zimber“, derivat din latină „camera“, însemnând „cameră“ sau „spațiu“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Zimmer können verschiedene Funktionen haben, wie Schlafen oder Arbeiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cameră",
+    "genus": "feminine",
+    "definition": "o încăpere într-o clădire, die für verschiedene Zwecke genutzt werden kann",
+    "pronunciation": "/ˈkamerə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „cameră“ leitet sich ebenfalls vom lateinischen „camera“ ab und bedeutet „Raum“ oder „Kammer“. Es hat sich in seiner Verwendung über die Jahre nicht wesentlich verändert.",
+        "targetText": "Cuvântul românesc „cameră“ provine din latină „camera“, însemnând „cameră“ sau „spațiu“, cu o utilizare stabilă de-a lungul timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Cameră“ wird in verschiedenen Kontexten verwendet, sei es ein Schlafzimmer oder eine Küche."
+  },
+  "senses": [
+    {
+      "gloss": "Mitbewohner",
+      "explanation": {
+        "sourceText": "Verwendet als Begriff für einen Mitbewohner oder -schüler.",
+        "targetText": "Folosit pentru a desemna un coleg de cameră sau coleg de locuință."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Zimmergenosse ist freundlich.",
+          "targetText": "Cameradul meu de cameră este prietenos."
+        }
+      ]
+    },
+    {
+      "gloss": "Zimmer (Raum)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: ein geschlossener Raum innerhalb eines Gebäudes.",
+        "targetText": "Ca în germană: un spațiu închis într-o clădire."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Zimmer hat ein angenehmes Licht.",
+          "targetText": "Camera are o lumină plăcută."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Boden",
+      "targetText": "podea"
+    },
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Flur",
+      "targetText": "coridor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Mein Zimmer ist sehr chaotisch.",
+      "targetText": "Camera mea este foarte haotică."
+    },
+    {
+      "sourceText": "Hast du ein eigenes Zimmer?",
+      "targetText": "Ai o cameră proprie?"
+    },
+    {
+      "sourceText": "In meinem Zimmer gibt es viele Bücher.",
+      "targetText": "În camera mea sunt multe cărți."
+    },
+    {
+      "sourceText": "Wir teilen uns ein Zimmer.",
+      "targetText": "Împărțim o cameră."
+    },
+    {
+      "sourceText": "Ich habe das Zimmer geputzt.",
+      "targetText": "Am curățat camera."
+    },
+    {
+      "sourceText": "Das Zimmer hat ein großes Fenster.",
+      "targetText": "Camera are o fereastră mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „cameră“ klingt wie „Kamera“ – stelle dir vor, du filmst in deinem Zimmer, so merkst du dir das Wort leicht!"
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „cameră“ immer, wenn du über Räume sprichst, um die Verbindung zu festigen."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du in deiner „cameră“ eine Kamera aufstellst – das hilft beim Erinnern!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „cameră“ mit dem deutschen Wort „Kammer“ – beide bedeuten einen Raum."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

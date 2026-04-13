@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fahrrad",
+  "parent": "ms-ro-bicicleta-fdb9af53@3440c79ae124d77d0cc91862bf36e9a4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fahrrad",
+    "genus": "neuter",
+    "definition": "Ein zweirädriges Fahrzeug, das durch Treten angetrieben wird.",
+    "pronunciation": "/ˈfaːɐ̯ˌʁaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fahrrad“ ist eine Zusammensetzung aus 'fahren' (reisen, sich bewegen) und 'Rad' (rundes Fahrzeugteil), beide germanischen Ursprungs.",
+        "targetText": "Cuvântul german „Fahrrad” este o compunere din 'fahren' (a călători) și 'Rad' (roată), ambele de origine germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bicicletă",
+    "genus": "feminine",
+    "definition": "Un vehicul cu două roți, propulsat prin pedale.",
+    "pronunciation": "/bit͡ʃiˈkletə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bicicletă“ stammt vom französischen 'bicyclette' ab, das aus dem Lateinischen 'bi-' (zwei) und griechisch 'kyklos' (Rad) zusammengesetzt ist.",
+        "targetText": "Cuvântul românesc „bicicletă” provine din franceza 'bicyclette', compus din latină 'bi-' (doi) și greacă 'kyklos' (roată)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fahren",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "Fahrradhelm",
+      "targetText": "casca de bicicletă"
+    },
+    {
+      "sourceText": "Motorrad",
+      "targetText": "motocicletă"
+    },
+    {
+      "sourceText": "Rad",
+      "targetText": "roată"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich fahre jeden Tag mit dem Fahrrad zur Arbeit.",
+      "targetText": "Merg cu bicicleta la serviciu în fiecare zi."
+    },
+    {
+      "sourceText": "Das Fahrrad hat zwei Räder und Pedale.",
+      "targetText": "Bicicleta are două roți și pedale."
+    },
+    {
+      "sourceText": "Er repariert sein Fahrrad selbst.",
+      "targetText": "El își repară singur bicicleta."
+    },
+    {
+      "sourceText": "Fahrradfahren macht Spaß und ist gesund.",
+      "targetText": "Mersul cu bicicleta este distractiv și sănătos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Fahrrad“ setzt sich aus fahren + Rad zusammen, im Rumänischen ist es die französische Lehnform „bicicletă“."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „bicicletă“ klingt wie das französische 'bicyclette' – denk an zwei (bi-) Räder (cicletă)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'bi' bedeutet zwei, und 'cicletă' erinnert an 'cycle' – so merkst du dir, dass eine bicicletă zwei Räder hat."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du fährst mit deiner 'bicicletă' durch die Stadt – das Wort klingt fast wie 'bicycle' und hilft beim Erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

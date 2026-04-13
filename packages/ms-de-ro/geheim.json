@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-geheim",
+  "parent": "ms-ro-secret-5ca2e8e5@2fff55e13654d89f7470af0880e37714",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "geheim",
+    "definition": "Nicht öffentlich bekannt oder verborgen, sodass es nicht allgemein zugänglich ist.",
+    "pronunciation": "/ɡəˈhaɪ̯m/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „geheim“ stammt vom mittelhochdeutschen 'geheim', was 'verborgen' oder 'vertraulich' bedeutet, und geht zurück auf das althochdeutsche 'gihēima'.",
+        "targetText": "Cuvântul „geheim” provine din germana mijlocie înaltă 'geheim', care însemna 'ascuns' sau 'confidențial', derivat din germana veche înaltă 'gihēima'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "secret",
+    "definition": "Nu este cunoscut public sau este ascuns, astfel încât nu este accesibil tuturor.",
+    "pronunciation": "/seˈkret/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „secret“ stammt aus dem Lateinischen 'secretus', was 'getrennt' oder 'verborgen' bedeutet.",
+        "targetText": "Cuvântul românesc „secret” provine din latină 'secretus', care însemna 'separat' sau 'ascuns'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Diskret",
+      "targetText": "discret"
+    },
+    {
+      "sourceText": "Geheimnis",
+      "targetText": "secret"
+    },
+    {
+      "sourceText": "verborgen",
+      "targetText": "ascuns"
+    },
+    {
+      "sourceText": "vertraulich",
+      "targetText": "confidențial"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "öffentlich",
+      "targetText": "public"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist eine geheime Information.",
+      "targetText": "Aceasta este o informație secretă."
+    },
+    {
+      "sourceText": "Wir müssen das geheim halten.",
+      "targetText": "Trebuie să păstrăm asta secret."
+    },
+    {
+      "sourceText": "Geheime Dokumente wurden gefunden.",
+      "targetText": "Au fost găsite documente secrete."
+    },
+    {
+      "sourceText": "Er hat mir ein geheimes Zeichen gegeben.",
+      "targetText": "Mi-a dat un semn secret."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'secret' klingt wie das englische 'secret' – beide stammen vom lateinischen 'secretus'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'geheim' und 'secret' drücken beide etwas Verborgenes oder Vertrauliches aus."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'secret' im Rumänischen ein Adjektiv ist, genau wie 'geheim' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast ein 'secret' – etwas, das du 'geheim' hältst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

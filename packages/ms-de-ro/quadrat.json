@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-quadrat",
+  "parent": "ms-ro-patrat-65e6b284@e5c9ef3efd8c8d8b9a0521ff6034f04f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Quadrat",
+    "genus": "neuter",
+    "definition": "Eine geometrische Figur mit vier gleich langen Seiten und vier rechten Winkeln.",
+    "pronunciation": "/kvaˈdʁaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Quadrat“ stammt vom lateinischen 'quadratus' ab, dem Partizip von 'quadrare', was 'viereckig machen' bedeutet.",
+        "targetText": "Cuvântul german „Quadrat” provine din latinescul 'quadratus', participiul verbului 'quadrare', care înseamnă 'a face pătrat' sau 'a rotunji'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pătrat",
+    "genus": "neuter",
+    "definition": "O figură geometrică cu patru laturi egale și patru unghiuri drepte.",
+    "pronunciation": "/pəˈtrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pătrat“ stammt vom lateinischen 'quadratus' ab, das Partizip von 'quadrare', was 'viereckig machen' bedeutet.",
+        "targetText": "Cuvântul românesc „pătrat” provine din latinescul 'quadratus', participiul verbului 'quadrare', care înseamnă 'a face pătrat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dreieck",
+      "targetText": "triunghi"
+    },
+    {
+      "sourceText": "Geometrie",
+      "targetText": "geometrie"
+    },
+    {
+      "sourceText": "Kreis",
+      "targetText": "cerc"
+    },
+    {
+      "sourceText": "Rechteck",
+      "targetText": "dreptunghi"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Quadrat hat vier gleich lange Seiten.",
+      "targetText": "Pătratul are patru laturi egale."
+    },
+    {
+      "sourceText": "Die Fläche eines Quadrats berechnet man mit der Seitenlänge zum Quadrat.",
+      "targetText": "Suprafața unui pătrat se calculează prin pătratul lungimii laturii."
+    },
+    {
+      "sourceText": "Ein Quadrat ist eine spezielle Form eines Rechtecks.",
+      "targetText": "Un pătrat este o formă specială de dreptunghi."
+    },
+    {
+      "sourceText": "In der Geometrie lernt man viele Eigenschaften von Quadraten.",
+      "targetText": "La geometrie înveți multe proprietăți ale pătratelor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'ă' in 'pătrat' erinnert an den Klang von 'a' in 'Quadrat', so kannst du die Aussprache besser behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'pătrat' klingt ähnlich wie das deutsche 'Quadrat', beide stammen vom lateinischen 'quadratus' ab – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'pătrat' ist wie 'patrat' (englisch 'pat' + 'rat'), ein kleines Bild für die vier Ecken eines Quadrats."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du zeichnest ein 'pătrat' mit einem 'Pinsel' – das hilft dir, das Wort mit der Form zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

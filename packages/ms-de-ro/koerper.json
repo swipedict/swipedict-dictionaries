@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-koerper",
+  "parent": "ms-ro-corp-065061a4@aa45a769bd73693bcf2a9bf026f05cba",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Körper",
+    "genus": "masculine",
+    "definition": "Der physische Leib eines Menschen oder Tieres.",
+    "pronunciation": "/ˈkœʁpɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Körper“ stammt vom althochdeutschen 'korpar' ab, das auf das lateinische 'corpus' zurückgeht und 'Leib, Körper' bedeutet.",
+        "targetText": "Cuvântul german „Körper” provine din germana veche înaltă 'korpar', derivat din latinul 'corpus', care înseamnă 'trup, corp'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "corp",
+    "genus": "neuter",
+    "definition": "Trupul fizic al unei persoane sau al unui animal.",
+    "pronunciation": "/korp/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „corp“ stammt direkt vom lateinischen 'corpus' ab, das 'Körper' oder 'Leib' bedeutet.",
+        "targetText": "Cuvântul românesc „corp” provine direct din latinul 'corpus', care înseamnă 'trup' sau 'corp'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bein",
+      "targetText": "picior"
+    },
+    {
+      "sourceText": "Hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "Herz",
+      "targetText": "inimă"
+    },
+    {
+      "sourceText": "Kopf",
+      "targetText": "cap"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Körper braucht Bewegung und Ruhe.",
+      "targetText": "Corpul are nevoie de mișcare și odihnă."
+    },
+    {
+      "sourceText": "Er hat einen starken Körper.",
+      "targetText": "El are un corp puternic."
+    },
+    {
+      "sourceText": "Der menschliche Körper ist komplex.",
+      "targetText": "Corpul uman este complex."
+    },
+    {
+      "sourceText": "Der Körper besteht aus vielen Organen.",
+      "targetText": "Corpul este format din multe organe."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Corp“ stammt direkt vom lateinischen 'corpus' ab, genau wie das deutsche „Körper“ – das hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „corp“ klingt fast wie das deutsche Wort „Korb“ – stell dir vor, dein Körper ist ein Korb, der alles hält."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „corp“ ist kurz und prägnant, genau wie der Körper selbst – einfach zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „corp“ mit dem englischen Wort 'corpse' (Leiche), das ebenfalls vom lateinischen 'corpus' stammt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ms-de-ro-mittag",
+  "parent": "ms-ro-pranz-1f0ea500@d4e8bba41efb0fcee351def6b77d3639",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mittag",
+    "genus": "masculine",
+    "definition": "die Zeit des Tages, die zwischen Vormittag und Nachmittag liegt",
+    "pronunciation": "/ˈmɪˌtaːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Mittag“ stammt vom mittelhochdeutschen „mitag“ ab, was ‚Mitte des Tages‘ bedeutet, und geht auf althochdeutsche Wurzeln zurück.",
+        "targetText": "Cuvântul german „Mittag“ provine din germana mijlocie „mitag“, însemnând „mijlocul zilei“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Mittag wird oft mit dem Mittagessen verbunden, einer wichtigen Tradition in vielen Kulturen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prânz",
+    "genus": "masculine",
+    "definition": "timpul din zi care se află între dimineață și după-amiază",
+    "pronunciation": "/ˈprɨn(z)/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „prânz“ stammt vom lateinischen „prandium“ ab, das ‚Mittagsmahl‘ bedeutet und die Hauptmahlzeit zur Mittagszeit bezeichnet.",
+        "targetText": "Cuvântul românesc „prânz“ provine din latinescul „prandium“, care înseamnă „masa de prânz“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In Rumänien wird das Mittagsessen oft zu Hause gegessen und kann sehr üppig sein."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Abendessen",
+      "targetText": "cină"
+    },
+    {
+      "sourceText": "Essen",
+      "targetText": "mâncare"
+    },
+    {
+      "sourceText": "Frühstück",
+      "targetText": "mic dejun"
+    },
+    {
+      "sourceText": "Snack",
+      "targetText": "gustare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abend",
+      "targetText": "seară"
+    },
+    {
+      "sourceText": "morgen",
+      "targetText": "dimineață"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Wir treffen uns um zwölf Uhr zum Mittagessen.",
+      "targetText": "Ne întâlnim la ora douăsprezece pentru prânz."
+    },
+    {
+      "sourceText": "Mittag ist die Zeit für eine kurze Pause.",
+      "targetText": "Prânzul este timpul pentru o pauză scurtă."
+    },
+    {
+      "sourceText": "Ich mache am Mittag einen Spaziergang.",
+      "targetText": "Fac o plimbare la prânz."
+    },
+    {
+      "sourceText": "Das Mittagessen ist meine Lieblingsmahlzeit.",
+      "targetText": "Prânzul este masa mea preferată."
+    },
+    {
+      "sourceText": "Er isst jeden Mittag im Büro.",
+      "targetText": "El mănâncă în fiecare prânz la birou."
+    },
+    {
+      "sourceText": "Ich habe heute Mittag gekocht.",
+      "targetText": "Am gătit astăzi la prânz."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Mittag“ ist die Mitte des Tages, „prânz“ die leckere Pause – beide Wörter sind wichtige Tageshöhepunkte."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „prânz“ klingt ähnlich wie „Punsch“ – beides kann man sich als leckere Mittagsfreuden vorstellen!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „prânz“ als das Mittagessen, das deine Energie „pranzt“ (verstärkt) – so bleibt es im Kopf."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du malst auf einer Leinwand („pânză“) dein Mittagessen – so verbindest du „prânz“ mit einem guten Moment."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

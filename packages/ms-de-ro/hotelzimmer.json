@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-hotelzimmer",
+  "parent": "ms-ro-camera-de-hotel-ec165079@63a73afe62495017968d9a813354f6ab",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hotelzimmer",
+    "genus": "neuter",
+    "definition": "Ein Raum in einem Hotel, der Gästen zum Übernachten zur Verfügung steht.",
+    "pronunciation": "/hoˈtɛlˌtsɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Hotelzimmer“ setzt sich zusammen aus „Hotel“ (vom französischen 'hôtel', ursprünglich 'Stadthaus') und „Zimmer“ (althochdeutsch 'zimbar', Raum).",
+        "targetText": "Cuvântul german „Hotelzimmer“ este compus din „Hotel“ (împrumutat din franceza 'hôtel', inițial 'casă urbană') și „Zimmer“ (din germana veche înaltă 'zimbar', însemnând cameră)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cameră de hotel",
+    "genus": "feminine",
+    "definition": "O încăpere într-un hotel pusă la dispoziția oaspeților pentru cazare.",
+    "pronunciation": "/kaˈme.rə de hoˈtel/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „hotel“ wurde direkt aus dem französischen 'hôtel' entlehnt, das ursprünglich 'Stadthaus' bedeutete. „Cameră“ stammt vom lateinischen 'camera', was 'Raum' oder 'Kammer' bedeutet.",
+        "targetText": "Termenul românesc „hotel“ este împrumutat direct din franceza 'hôtel', care inițial însemna 'casă urbană'. „Cameră“ provine din latină, din 'camera', însemnând 'încăpere' sau 'cameră'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hotel",
+      "targetText": "hotel"
+    },
+    {
+      "sourceText": "Rezeption",
+      "targetText": "recepție"
+    },
+    {
+      "sourceText": "Übernachtung",
+      "targetText": "cazare"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe ein Hotelzimmer für zwei Nächte gebucht.",
+      "targetText": "Am rezervat o cameră de hotel pentru două nopți."
+    },
+    {
+      "sourceText": "Das Hotelzimmer hat einen schönen Blick auf das Meer.",
+      "targetText": "Camera de hotel are o vedere frumoasă spre mare."
+    },
+    {
+      "sourceText": "Im Hotelzimmer gibt es WLAN und einen Fernseher.",
+      "targetText": "În camera de hotel există Wi-Fi și un televizor."
+    },
+    {
+      "sourceText": "Das Hotelzimmer ist sauber und komfortabel.",
+      "targetText": "Camera de hotel este curată și confortabilă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'cameră' klingt ähnlich wie das deutsche 'Kammer', beide bedeuten 'Raum' oder 'Zimmer'."
+    },
+    {
+      "lang": "de",
+      "text": "Das zusammengesetzte deutsche Wort 'Hotelzimmer' wird im Rumänischen als 'cameră de hotel' übersetzt – beachte die Wortstellung mit 'de' als Verbindungswort."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das französische Wort 'hôtel', das auch im Rumänischen als 'hotel' verwendet wird – so erkennst du leicht den ersten Teil von 'cameră de hotel'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du buchst eine 'Camera' (Kamera) im Hotel – so merkst du dir 'cameră' als Zimmer."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

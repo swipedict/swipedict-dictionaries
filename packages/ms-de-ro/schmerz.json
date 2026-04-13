@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-schmerz",
+  "parent": "ms-ro-durere-bc6e6c2f@e27a0b75d4b317d1bf59948377422898",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schmerz",
+    "genus": "masculine",
+    "definition": "ein unangenehmes körperliches oder emotionales Gefühl",
+    "pronunciation": "/ʃmɛʁt͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schmerz“ stammt vom althochdeutschen „smerza“, was „schmerzen“ bedeutet, und ist verwandt mit dem indogermanischen „*smer-“, das \"fühlen\" oder \"empfinden\" bedeutet.",
+        "targetText": "Cuvântul german „Schmerz“ provine din althochdeutsch „smerza“, înrudit cu rădăcina indo-europeană „*smer-“, care înseamnă „a simți“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schmerzen sind ein wichtiger Indikator für gesundheitliche Probleme."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "durere",
+    "genus": "feminine",
+    "definition": "o senzație neplăcută fizică sau emoțională",
+    "pronunciation": "/duˈre.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „durere“ kommt vom lateinischen „dolor“, was ebenfalls „Schmerz“ bedeutet, und hat Verwandte in anderen romanischen Sprachen, wie „dolore“ im Italienischen.",
+        "targetText": "Cuvântul românesc „durere“ provine din latinul „dolor“, care înseamnă „durere“. Are corespondențe în alte limbi romanice, precum italianul „dolore“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es gibt viele Arten von Schmerzen, sowohl körperlich als auch emotional."
+  },
+  "senses": [
+    {
+      "gloss": "Schmerz (Emotional)",
+      "explanation": {
+        "sourceText": "Für emotionale Schmerzen.",
+        "targetText": "Pentru dureri emoționale."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Schmerz kann manchmal überwältigend sein.",
+          "targetText": "Durerea poate fi uneori copleșitoare."
+        }
+      ]
+    },
+    {
+      "gloss": "Schmerz (Körperlich)",
+      "explanation": {
+        "sourceText": "Für körperliche Schmerzen.",
+        "targetText": "Pentru dureri fizice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe einen stechenden Schmerz im Rücken.",
+          "targetText": "Am o durere ascuțită în spate."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kopfschmerz",
+      "targetText": "durere de cap"
+    },
+    {
+      "sourceText": "Schmerzlindern",
+      "targetText": "ameliorare a durerii"
+    },
+    {
+      "sourceText": "Schmerzmittel",
+      "targetText": "medicament pentru durere"
+    },
+    {
+      "sourceText": "Zahnschmerz",
+      "targetText": "durere de dinți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wohlbefinden",
+      "targetText": "bunăstare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe einen stechenden Schmerz im Rücken.",
+      "targetText": "Am o durere ascuțită în spate."
+    },
+    {
+      "sourceText": "Der Schmerz kann manchmal überwältigend sein.",
+      "targetText": "Durerea poate fi uneori copleșitoare."
+    },
+    {
+      "sourceText": "Nach dem Unfall hatte ich große Schmerzen.",
+      "targetText": "După accident, am avut dureri mari."
+    },
+    {
+      "sourceText": "Sie klagte über Kopfschmerzen.",
+      "targetText": "Se plângea de dureri de cap."
+    },
+    {
+      "sourceText": "Es gibt Medikamente, die Schmerzen lindern.",
+      "targetText": "Există medicamente care reduc durerea."
+    },
+    {
+      "sourceText": "Der Zahnarzt behandelt den Schmerz.",
+      "targetText": "Stomatologul tratează durerea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „dur“ als „schwer“ und „re“ als Verstärkung – zusammen symbolisieren sie das Gefühl von Schmerz."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „durerea“ wie das deutsche Wort „dauer“ klingt – so kannst du dir anhaltenden Schmerz vorstellen."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „durere“ mit „dauernd“, um die Idee von anhaltendem Schmerz zu veranschaulichen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „durere“ hörst, stell dir vor, du drückst eine „Dauerkatze“ – das hilft, das Wort humorvoll zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

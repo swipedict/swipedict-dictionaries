@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-arbeitnehmer",
+  "parent": "ms-ro-angajat-44156c0b@48c9e5755034ac22f02082211c2ee7e7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arbeitnehmer",
+    "genus": "masculine",
+    "definition": "Person, die Arbeit annimmt und dafür Lohn erhält.",
+    "pronunciation": "/ˈaʁbaɪ̯tˌnɛmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arbeitnehmer“ besteht aus 'Arbeit' und 'Nehmer', wobei 'Nehmer' vom mittelhochdeutschen 'nemen' stammt und 'nehmen' bedeutet.",
+        "targetText": "Cuvântul german „Arbeitnehmer” este format din 'Arbeit' și 'Nehmer', unde 'Nehmer' provine din germana mijlocie 'nemen', însemnând 'a lua'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "angajat",
+    "genus": "masculine",
+    "definition": "Persoană care acceptă un loc de muncă și primește salariu.",
+    "pronunciation": "/anɡaˈd͡ʒat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „angajat“ stammt vom französischen 'engagé' ab, Partizip von 'engager', was 'anstellen' bedeutet.",
+        "targetText": "Cuvântul românesc „angajat” provine din franceza 'engagé', participiul verbului 'engager', care înseamnă 'a angaja'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeitgeber",
+      "targetText": "angajator"
+    },
+    {
+      "sourceText": "Arbeitsvertrag",
+      "targetText": "contract de muncă"
+    },
+    {
+      "sourceText": "Beschäftigung",
+      "targetText": "ocupare"
+    },
+    {
+      "sourceText": "Gehalt",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Arbeitgeber",
+      "targetText": "angajator"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Arbeitnehmer arbeitet hart.",
+      "targetText": "Angajatul muncește din greu."
+    },
+    {
+      "sourceText": "Der Arbeitnehmer erhält sein Gehalt am Monatsende.",
+      "targetText": "Angajatul primește salariul la sfârșitul lunii."
+    },
+    {
+      "sourceText": "Viele Arbeitnehmer sind zufrieden mit ihrem Job.",
+      "targetText": "Mulți angajați sunt mulțumiți de locul lor de muncă."
+    },
+    {
+      "sourceText": "Der Arbeitnehmer unterschrieb den Vertrag.",
+      "targetText": "Angajatul a semnat contractul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'angajat' klingt wie 'engaged' (englisch für engagiert), jemand, der engagiert arbeitet – der Arbeitnehmer."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kommt aus dem Französischen, ähnlich wie 'angajator', aber bezeichnet die arbeitende Person."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'angajat' maskulin ist, wie 'der Arbeitnehmer' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'angajat' mit 'anstellen' – derjenige, der angestellt ist, ist der Arbeitnehmer."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

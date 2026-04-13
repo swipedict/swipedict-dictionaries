@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fussgaenger",
+  "parent": "ms-ro-pieton-39ad45d4@b7d6caa07eee3ecc4c5c0b4521d2e571",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fußgänger",
+    "genus": "masculine",
+    "definition": "Eine Person, die zu Fuß geht, besonders im Straßenverkehr.",
+    "pronunciation": "/ˈfuːsˌɡɛŋɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fußgänger“ setzt sich aus „Fuß“ (vom althochdeutschen ‚fuoz‘) und „Gänger“ (von ‚gehen‘, althochdeutsch ‚gān‘) zusammen und bezeichnet jemanden, der zu Fuß geht.",
+        "targetText": "Cuvântul german „Fußgänger“ este compus din „Fuß“ (picior, din germana veche înaltă 'fuoz') și „Gänger“ (cel care merge, de la verbul 'gehen', germana veche înaltă 'gān'), desemnând o persoană care merge pe jos."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pieton",
+    "genus": "masculine",
+    "definition": "O persoană care se deplasează pe jos, în special în trafic.",
+    "pronunciation": "/pjeˈton/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pieton“ stammt vom französischen ‚piéton‘ ab, das wiederum vom lateinischen ‚pedonem‘ (Akkusativ von ‚pes‘ = Fuß) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „pieton“ provine din franceza „piéton“, care la rândul său derivă din latină „pedonem“ (acusativul de la „pes“ = picior)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fußweg",
+      "targetText": "trotoar"
+    },
+    {
+      "sourceText": "gehen",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fußgänger wartet an der Ampel.",
+      "targetText": "Pietonul așteaptă la semafor."
+    },
+    {
+      "sourceText": "Fußgänger haben hier Vorrang.",
+      "targetText": "Pietonii au prioritate aici."
+    },
+    {
+      "sourceText": "Viele Fußgänger benutzen den Zebrastreifen.",
+      "targetText": "Mulți pietoni folosesc trecerea de pietoni."
+    },
+    {
+      "sourceText": "Der Fußgänger überquerte die Straße vorsichtig.",
+      "targetText": "Pietonul a traversat strada cu grijă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Fußgänger“ setzt sich aus „Fuß“ und „Gänger“ zusammen – im Rumänischen ist es ein einzelnes Wort „pieton“."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „pieton“ klingt ähnlich wie das französische „piéton“ – beide stammen vom lateinischen Wort für Fuß ab."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „pieton“ als jemanden, der mit den Füßen (lat. pes) unterwegs ist – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Fuß (pied) auf der Straße geht – so merkst du dir „pieton“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-flugsteig",
+  "parent": "ms-ro-poarta-de-imbarcare-bc9c1bbc@c32e9e3313301b2a7f5b7156d4a08597",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Flugsteig",
+    "genus": "masculine",
+    "definition": "Ein Bereich am Flughafen, von dem aus Passagiere in das Flugzeug einsteigen.",
+    "pronunciation": "/ˈfluːkʃtaɪ̯k/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Flugsteig“ setzt sich aus „Flug“ (vom althochdeutschen 'fluog', verwandt mit dem gotischen 'fluggs', was 'Fliegen' bedeutet) und „Steig“ (althochdeutsch 'stīg', ursprünglich 'Pfad' oder 'Steig') zusammen.",
+        "targetText": "Cuvântul german „Flugsteig” este compus din „Flug” (din germana veche înaltă 'fluog', înrudit cu goticul 'fluggs', care înseamnă 'a zbura') și „Steig” (din germana veche înaltă 'stīg', inițial 'potecă' sau 'drum îngust')."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "poartă de îmbarcare",
+    "genus": "feminine",
+    "definition": "Zona din aeroport de unde pasagerii urcă în avion.",
+    "pronunciation": "/ˈpo̯artə de ɨmbarˈkare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „poartă de îmbarcare“ besteht aus „poartă“ (Tor), das vom lateinischen 'porta' abstammt, und „îmbarcare“ (Einsteigen), abgeleitet vom lateinischen 'in-' und 'barca' (Boot), was ursprünglich das Einsteigen in ein Boot bezeichnete und auf den Luftverkehr übertragen wurde.",
+        "targetText": "Expresia românească „poartă de îmbarcare” este compusă din „poartă” (din latină 'porta') și „îmbarcare” (derivat din prefixul latin 'in-' și 'barca' – barcă), inițial referindu-se la urcarea într-o barcă, extinsă apoi la îmbarcarea în avion."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Feminines Substantiv, zusammengesetzt, gebräuchlich im Luftfahrtkontext."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Boarding",
+      "targetText": "îmbarcare"
+    },
+    {
+      "sourceText": "Flughafen",
+      "targetText": "aeroport"
+    },
+    {
+      "sourceText": "Flugzeug",
+      "targetText": "avion"
+    },
+    {
+      "sourceText": "Gate",
+      "targetText": "poartă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Flugsteig ist am Ende des Terminals.",
+      "targetText": "Poarta de îmbarcare este la capătul terminalului."
+    },
+    {
+      "sourceText": "Bitte begeben Sie sich zum Flugsteig 5.",
+      "targetText": "Vă rugăm să vă îndreptați spre poarta de îmbarcare 5."
+    },
+    {
+      "sourceText": "Am Flughafen gibt es viele Flugsteige.",
+      "targetText": "La aeroport există multe porți de îmbarcare."
+    },
+    {
+      "sourceText": "Der Flugsteig ist für Passagiere mit Business-Class reserviert.",
+      "targetText": "Poarta de îmbarcare este rezervată pasagerilor la clasa business."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'porta' für Tor ist in vielen Sprachen ähnlich – im Rumänischen heißt es 'poartă', das ist der erste Teil des Wortes."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'îmbarcare' klingt ähnlich wie 'embarcare' im Französischen, was 'Einsteigen' bedeutet – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst durch ein großes 'Tor' (poartă) zum Flugzeug – so merkst du dir 'poartă de îmbarcare'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'poartă de îmbarcare' mit deinem letzten Flug: Du bist durch die 'poartă' gegangen, um ins Flugzeug zu 'îmbarcare' (einsteigen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-entscheiden",
+  "parent": "ms-ro-a-decide-26b56097@87810cd8d964802fdd3f4e1df82f6123",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "entscheiden",
+    "definition": "eine Wahl treffen oder einen Beschluss fassen",
+    "pronunciation": "/ɛntˈʃaɪdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „entscheiden“ stammt vom mittelhochdeutschen „entscheiden“, zusammengesetzt aus „ent-“ (weg) und „scheiden“ (trennen), und bedeutet „eine Wahl treffen“.",
+        "targetText": "Verbul „entscheiden“ provine din germana medie „entscheiden“, format din „ent-“ (departe) și „scheiden“ (a separa), și înseamnă a lua o decizie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein unregelmäßiges Verb. In der Alltagssprache wichtig, um Entscheidungen in verschiedenen Kontexten zu treffen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a decide",
+    "definition": "a face o alegere sau a lua o hotărâre",
+    "pronunciation": "/a deˈt͡ʃe.de/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a decide“ stammt vom lateinischen „decidere“ ab, was „entscheiden“ oder „festlegen“ bedeutet und einen Prozess des Treffens einer Wahl beschreibt.",
+        "targetText": "Verbul românesc „a decide“ provine din latină, din „decidere“, care înseamnă „a decide“ sau „a stabili“ și exprimă procesul de a lua o hotărâre."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation. Häufig verwendet in persönlichen, beruflichen und gesellschaftlichen Entscheidungen."
+  },
+  "senses": [
+    {
+      "gloss": "Bestimmung",
+      "explanation": {
+        "sourceText": "Das Wort kann auch verwendet werden, um eine endgültige Entscheidung oder Regel zu beschreiben.",
+        "targetText": "Cuvântul poate desemna și o hotărâre definitivă sau o regulă."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bestimmung wurde getroffen.",
+          "targetText": "Hotărârea a fost luată."
+        }
+      ]
+    },
+    {
+      "gloss": "Urteil",
+      "explanation": {
+        "sourceText": "Manchmal bezieht sich 'entscheiden' auf das Abgeben eines Urteils.",
+        "targetText": "Uneori se referă la pronunțarea unui verdict."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Gericht entscheidet über den Fall.",
+          "targetText": "Instanța decide asupra cazului."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "hotărâre"
+    },
+    {
+      "sourceText": "Kriterium",
+      "targetText": "criteriu"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "părere"
+    },
+    {
+      "sourceText": "Wahl",
+      "targetText": "alegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unentschlossen",
+      "targetText": "a nu decide"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich entscheide mich für den blauen Stift.",
+      "targetText": "Eu decid cu stiloul albastru."
+    },
+    {
+      "sourceText": "Entscheidest du dich für das Angebot?",
+      "targetText": "Decizi pentru ofertă?"
+    },
+    {
+      "sourceText": "Er entscheidet sich für einen neuen Weg.",
+      "targetText": "El decide pentru o nouă cale."
+    },
+    {
+      "sourceText": "Wir entscheiden uns, das Projekt zu starten.",
+      "targetText": "Noi decidem să începem proiectul."
+    },
+    {
+      "sourceText": "Entscheidet ihr euch für das richtige Timing?",
+      "targetText": "Decideți-vă pentru timpul potrivit?"
+    },
+    {
+      "sourceText": "Sie entscheiden sich für die neue Strategie.",
+      "targetText": "Ei decid pentru noua strategie."
+    },
+    {
+      "sourceText": "Ich habe dich richtig entschieden.",
+      "targetText": "M-am decis corect."
+    },
+    {
+      "sourceText": "Sie haben eine kluge Entscheidung getroffen.",
+      "targetText": "Ei au luat o decizie înțeleaptă."
+    },
+    {
+      "sourceText": "Sie entschieden sich vor einem Jahr für den Neubau.",
+      "targetText": "S-au decis pentru construcția nouă acum un an."
+    },
+    {
+      "sourceText": "Ich hatte mich entschieden, bevor du gekommen bist.",
+      "targetText": "M-am decis înainte să vii."
+    },
+    {
+      "sourceText": "Ich werde mich bald entscheiden.",
+      "targetText": "Mă voi decide în curând."
+    },
+    {
+      "sourceText": "Er wird sich nächstes Jahr entscheiden.",
+      "targetText": "El o să se decidă anul următor."
+    },
+    {
+      "sourceText": "Ich würde mich sofort entscheiden, wenn ich mehr Informationen hätte.",
+      "targetText": "M-aș decide imediat, dacă aș avea mai multe informații."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du dich auch richtig entscheidest.",
+      "targetText": "Este important să te decizi corect."
+    },
+    {
+      "sourceText": "Entscheide dich für den besten Plan!",
+      "targetText": "Decide-te pentru cel mai bun plan!"
+    },
+    {
+      "sourceText": "Entscheidet euch schnell!",
+      "targetText": "Decideți repede!"
+    },
+    {
+      "sourceText": "Die getroffene Entscheidung war klar.",
+      "targetText": "Decizia luată a fost clară."
+    },
+    {
+      "sourceText": "Die Entscheidung ist nun getroffen.",
+      "targetText": "Decizia este acum luată."
+    },
+    {
+      "sourceText": "Indem ich mich entschieden habe, habe ich eine wichtige Wahl getroffen.",
+      "targetText": "Decizându-mă, am făcut o alegere importantă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „entscheiden“ und das rumänische „a decide“ sind eng verwandt – beide bedeuten, eine Wahl zu treffen."
+    },
+    {
+      "lang": "de",
+      "text": "Ein lustiger Merksatz: „Wenn du dich nicht entscheidest, bleibt alles unentschieden!“"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a decide“ als das Verb, mit dem du deine Meinung oder Wahl ausdrückst – fast wie eine kleine innere Abstimmung."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Formen „Eu decid“ (ich entscheide) und „Eu am decis“ (ich habe entschieden), um die Anwendung zu festigen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort mit Alltagssituationen, z.B. „Decid să beau o cafea“ (Ich entscheide, einen Kaffee zu trinken)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

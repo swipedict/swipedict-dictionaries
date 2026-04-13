@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-schummeln",
+  "parent": "ms-ro-a-trisa-9cd6bb78@d33d82ba1d0fd2067f0fe8b4524618b6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schummeln",
+    "definition": "Unehrlich handeln, um sich einen Vorteil zu verschaffen, besonders beim Spielen oder bei Prüfungen.",
+    "pronunciation": "/ˈʃʊməl(n)/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „schummeln“ stammt vermutlich vom mittelhochdeutschen Wort „schumel“ oder „schummel“, das eine unehrliche Handlung oder Täuschung bezeichnete, und ist verwandt mit dem niederdeutschen „schummeln“.",
+        "targetText": "Verbul german „schummeln“ provine probabil din cuvântul mijlociu german „schumel“ sau „schummel“, care desemna o acțiune necinstită sau o înșelătorie, fiind înrudit cu termenul neerlandez de jos „schummeln“."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trișa",
+    "definition": "A acționa necinstit pentru a obține un avantaj, mai ales în jocuri sau examene.",
+    "pronunciation": "/a triˈʃa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a trișa“ stammt aus dem französischen Verb 'tricher', das 'betrügen' oder 'mogeln' bedeutet, und wurde im 19. Jahrhundert ins Rumänische übernommen.",
+        "targetText": "Verbul românesc „a trișa” provine din verbul francez 'tricher', care înseamnă 'a înșela' sau 'a trișa', fiind împrumutat în secolul al XIX-lea."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Regulär konjugiert, z.B. eu trișez, tu trișezi."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Betrug",
+      "targetText": "înșelăciune"
+    },
+    {
+      "sourceText": "mogeln",
+      "targetText": "a trișa"
+    },
+    {
+      "sourceText": "Täuschung",
+      "targetText": "înșelătorie"
+    },
+    {
+      "sourceText": "unehrlich",
+      "targetText": "necinstit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ehrlich sein",
+      "targetText": "a fi cinstit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er hat beim Kartenspiel geschummelt.",
+      "targetText": "El a trișat la jocul de cărți."
+    },
+    {
+      "sourceText": "Man sollte nicht bei Prüfungen schummeln.",
+      "targetText": "Nu ar trebui să trișezi la examene."
+    },
+    {
+      "sourceText": "Sie schummelt oft, um zu gewinnen.",
+      "targetText": "Ea trișează des ca să câștige."
+    },
+    {
+      "sourceText": "Ich habe nicht geschummelt, ich habe ehrlich gespielt.",
+      "targetText": "Nu am trișat, am jucat cinstit."
+    },
+    {
+      "sourceText": "Schummle nicht, das ist unfair!",
+      "targetText": "Nu trișa, asta nu e corect!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'schummeln' und das rumänische 'a trișa' sind beide Verben für unehrliches Verhalten, aber 'trișa' kommt aus dem Französischen – das hilft dir, die Herkunft zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a trișa' klingt ähnlich wie das französische 'tricher'. Wenn du Französisch kennst, kannst du dir so die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Konjugation: eu trișez, tu trișezi – das 'ș' klingt wie 'sch' im Deutschen, was dir hilft, die Aussprache zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand 'trickst' beim Spiel – 'trișa' klingt ähnlich und bedeutet genau das: mogeln oder betrügen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

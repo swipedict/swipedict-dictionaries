@@ -1,0 +1,173 @@
+{
+  "id": "ms-de-ro-abschreiben",
+  "parent": "ms-ro-a-copia-d0ad9ea1@e1c6e38840e6f5af5ba9fa52514f7cb2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abschreiben",
+    "definition": "etwas von einem anderen Text oder einer anderen Quelle kopieren",
+    "pronunciation": "/ˈapʃraɪ̯bən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „abschreiben“ setzt sich aus dem Präfix „ab-“ und dem Verb „schreiben“ zusammen, wobei „schreiben“ althochdeutsche Wurzeln hat.",
+        "targetText": "Verbul german „abschreiben“ este format din prefixul „ab-“ și verbul „schreiben“, care are rădăcini în althochdeutsch."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb „abschreiben“ wird häufig in der Schule verwendet, wenn Schüler von einer Quelle abtippen oder kopieren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a copia",
+    "definition": "a reproduce sau a transfera ceva dintr-un alt text sau sursă",
+    "pronunciation": "/a koˈpi.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a copia“ stammt vom lateinischen „copia“ ab, das „Überfluss“ oder „Menge“ bedeutet, und wurde auf das Kopieren übertragen.",
+        "targetText": "Verbul românesc „a copia“ provine din latinescul „copia“, care înseamnă „abundență“ sau „cantitate“, și a fost adaptat pentru sensul de a copia sau reproduce."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird oft verwendet, um das Kopieren von Dokumenten oder Texten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Kopieren von Aufgaben",
+      "explanation": {
+        "sourceText": "Häufig in der Schule verwendet",
+        "targetText": "Folosit frecvent în școală."
+      },
+      "examples": [
+        {
+          "sourceText": "Schreibt ihr die Regeln ab?",
+          "targetText": "Copiați regulile?"
+        }
+      ]
+    },
+    {
+      "gloss": "Kopieren von Texten",
+      "explanation": {
+        "sourceText": "In einem schulischen Kontext",
+        "targetText": "În context școlar."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schreibe den Text ab.",
+          "targetText": "Eu copiez textul."
+        },
+        {
+          "sourceText": "Er schreibt die Notizen ab.",
+          "targetText": "El copiază notițele."
+        }
+      ]
+    },
+    {
+      "gloss": "Mit einem Dokument arbeiten",
+      "explanation": {
+        "sourceText": "Wenn etwas aus einem Dokument übertragen wird.",
+        "targetText": "Când ceva este transferat dintr-un document."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe das Dokument abgeschrieben.",
+          "targetText": "Am copiat documentul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Lehrer",
+      "targetText": "profesor"
+    },
+    {
+      "sourceText": "Notiz",
+      "targetText": "notiță"
+    },
+    {
+      "sourceText": "Schüler",
+      "targetText": "elev"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schreibe den Text ab.",
+      "targetText": "Eu copiez textul."
+    },
+    {
+      "sourceText": "Schreibst du die Hausaufgaben ab?",
+      "targetText": "Copiază tu temele?"
+    },
+    {
+      "sourceText": "Er schreibt die Notizen ab.",
+      "targetText": "El copiază notițele."
+    },
+    {
+      "sourceText": "Wir schreiben die Antworten ab.",
+      "targetText": "Noi copiem răspunsurile."
+    },
+    {
+      "sourceText": "Schreibt ihr die Regeln ab?",
+      "targetText": "Copiați regulile?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schreiben die Aufgaben ab.",
+      "targetText": "Ei copiază sarcinile."
+    },
+    {
+      "sourceText": "Ich habe das Dokument abgeschrieben.",
+      "targetText": "Am copiat documentul."
+    },
+    {
+      "sourceText": "Er schrieb die Seite ab.",
+      "targetText": "El copia pagina."
+    },
+    {
+      "sourceText": "Ich werde das Projekt abschreiben.",
+      "targetText": "Voi copia proiectul."
+    },
+    {
+      "sourceText": "Schreibe die Ergebnisse ab!",
+      "targetText": "Copiază rezultatele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Abschreiben“ klingt ähnlich wie „a copia“ und beide bedeuten „kopieren“ – das hilft dir, die Wörter zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation von „a copia“ mit Sätzen wie „Eu copiez“, „Am copiat“, „Voi copia“ – so wirst du sicherer."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

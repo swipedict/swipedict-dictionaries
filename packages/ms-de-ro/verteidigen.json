@@ -1,0 +1,190 @@
+{
+  "id": "ms-de-ro-verteidigen",
+  "parent": "ms-ro-a-apara-5d96979b@5b3e19d49ae16165b4e02e8fa623cdc1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verteidigen",
+    "definition": "sich oder etwas gegen Angriffe oder Kritik schützen",
+    "pronunciation": "/fɛʁˈtaɪ̯dɪɡən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „verteidigen“ stammt vom mittelhochdeutschen „vertidigen“, was „beschützen“ oder „verteidigen“ bedeutet.",
+        "targetText": "Das deutsche Verb „verteidigen“ ist zusammengesetzt aus „ver-“ und „teidigen“ (von „tîdigen“ = schützen), mit Wurzeln im Althochdeutschen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Häufig verwendet im militärischen oder sportspezifischen Kontext, wo es um den Schutz oder die Sicherung einer Position oder eines Standpunkts geht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a apăra",
+    "definition": "a proteja ceva sau pe cineva împotriva atacurilor sau criticilor",
+    "pronunciation": "/a a.pəˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a apăra“ stammt vom lateinischen „appārāre“, was ursprünglich „sichtbar machen“ oder „vorbereiten“ bedeutete und sich zur Bedeutung „schützen“ entwickelte.",
+        "targetText": "Verbul românesc „a apăra“ provine din latină, de la „appārāre“, care inițial însemna „a face vizibil“ sau „a pregăti“, evoluând spre sensul de „a proteja“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird verwendet, um nicht nur Angriffe abzuwehren, sondern auch um Ideen und Überzeugungen zu verteidigen."
+  },
+  "senses": [
+    {
+      "gloss": "Land verteidigen",
+      "explanation": {
+        "sourceText": "Schützen des Heimatlandes vor Angriffen.",
+        "targetText": "Protejarea țării natale împotriva atacurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie verteidigt ihr Land.",
+          "targetText": "Ea își apără țara."
+        }
+      ]
+    },
+    {
+      "gloss": "Meinung verteidigen",
+      "explanation": {
+        "sourceText": "Die Art, wie man seine eigene Meinung ausdrückt und schützt.",
+        "targetText": "Modul în care îți exprimi și protejezi propria opinie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verteidige meine Meinung.",
+          "targetText": "Eu îmi apăr opinia."
+        }
+      ]
+    },
+    {
+      "gloss": "Position verteidigen",
+      "explanation": {
+        "sourceText": "Das Halten einer Stellung in einem Argument oder einer Debatte.",
+        "targetText": "Menținerea unei poziții într-un argument sau dezbatere."
+      },
+      "examples": [
+        {
+          "sourceText": "Verteidigst du deine Position?",
+          "targetText": "Îți aperi poziția?"
+        }
+      ]
+    },
+    {
+      "gloss": "Werte verteidigen",
+      "explanation": {
+        "sourceText": "Einsatz für persönliche oder gesellschaftliche Werte und Überzeugungen.",
+        "targetText": "Susținerea valorilor și convingerilor personale sau sociale."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir verteidigen unsere Werte.",
+          "targetText": "Noi ne apărăm valorile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Argument",
+      "targetText": "argument"
+    },
+    {
+      "sourceText": "Kritik",
+      "targetText": "critică"
+    },
+    {
+      "sourceText": "Recht",
+      "targetText": "drept"
+    },
+    {
+      "sourceText": "Verteidigung",
+      "targetText": "apărare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "angreifen",
+      "targetText": "ataca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verteidige meine Meinung.",
+      "targetText": "Eu îmi apăr opinia."
+    },
+    {
+      "sourceText": "Verteidigst du deine Position?",
+      "targetText": "Îți aperi poziția?"
+    },
+    {
+      "sourceText": "Sie verteidigt ihr Land.",
+      "targetText": "Ea își apără țara."
+    },
+    {
+      "sourceText": "Wir verteidigen unsere Werte.",
+      "targetText": "Noi ne apărăm valorile."
+    },
+    {
+      "sourceText": "Verteidigt ihr die Wahrheit?",
+      "targetText": "Apărați adevărul?"
+    },
+    {
+      "sourceText": "Sie (Pl.) verteidigen ihre Überzeugungen.",
+      "targetText": "Ei își apără convingerile."
+    },
+    {
+      "sourceText": "Ich habe meine Entscheidung verteidigt.",
+      "targetText": "Eu mi-am apărat decizia."
+    },
+    {
+      "sourceText": "Er verteidigte seine Rechte.",
+      "targetText": "El își apăra drepturile."
+    },
+    {
+      "sourceText": "Ich werde die Gruppe verteidigen.",
+      "targetText": "Eu voi apăra grupul."
+    },
+    {
+      "sourceText": "Ich würde meine Freunde verteidigen.",
+      "targetText": "Aș apăra prietenii mei."
+    },
+    {
+      "sourceText": "Verteidige deine Rechte!",
+      "targetText": "Apără-ți drepturile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a apăra“ klingt wie „appear“ – stelle dir vor, du erscheinst, um jemanden zu schützen!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe mit Beispielen aus dem Alltag oder der Geschichte, um das Wort lebendig zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „verteidigen“ mit „a apăra“ durch die gemeinsame Idee des Schutzes und der Verteidigung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-ofen-holzofen",
+  "parent": "ms-ro-soba-d58704ec@d1b91ba183c81f1df1f0516c2bb9bf53",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ofen",
+    "genus": "masculine",
+    "definition": "Ein Gerät zum Erhitzen von Räumen oder zum Backen, das mit Holz oder anderen Brennstoffen betrieben wird.",
+    "pronunciation": "/ˈoːfən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Ofen“ stammt vom althochdeutschen 'ofan' ab, das auf das urgermanische *ufnaz zurückgeht und ursprünglich 'Herd' oder 'Feuerstelle' bedeutete.",
+        "targetText": "Cuvântul german „Ofen” provine din vechea limbă înaltă germană 'ofan', derivat din rădăcina urgermanică *ufnaz, care însemna inițial 'vatră' sau 'loc pentru foc'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sobă",
+    "genus": "feminine",
+    "definition": "Un aparat folosit pentru încălzirea încăperilor sau pentru gătit, care funcționează adesea cu lemne.",
+    "pronunciation": "/soˈbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sobă“ stammt vom lateinischen 'stuppa' ab, das ursprünglich 'Docht' oder 'Füllmaterial' bedeutete, und wurde über slawische Sprachen ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „sobă” provine din latină 'stuppa', care însemna inițial 'fitil' sau 'material de umplutură', fiind preluat în română prin intermediul limbilor slave."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Holz",
+      "targetText": "lemn"
+    },
+    {
+      "sourceText": "Kamin",
+      "targetText": "șemineu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Holzofen im Wohnzimmer spendet angenehme Wärme.",
+      "targetText": "Sobă cu lemne din sufragerie oferă o căldură plăcută."
+    },
+    {
+      "sourceText": "Wir heizen den Ofen mit trockenem Holz an.",
+      "targetText": "Aprindem soba cu lemne uscate."
+    },
+    {
+      "sourceText": "Im Winter ist der Ofen unverzichtbar zum Heizen.",
+      "targetText": "Iarna, soba este indispensabilă pentru încălzire."
+    },
+    {
+      "sourceText": "Der Ofen wird auch zum Backen von Brot verwendet.",
+      "targetText": "Soba este folosită și pentru coacerea pâinii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Ofen' und das rumänische 'sobă' sind nicht verwandt, aber beide sind zentrale Wärmequellen in Häusern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'sobă' klingt ähnlich wie 'sofa' – beides sind Dinge, die man im Wohnzimmer findet, aber die 'sobă' macht es warm."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische 'stuppa' (Docht), das durch slawische Sprachen zu 'sobă' wurde – so wie der Docht das Feuer am Brennen hält."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie die 'SOBă' (wie 'soße' ohne 's') Wärme in dein Zuhause bringt – eine warme Soße für dein Zimmer!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

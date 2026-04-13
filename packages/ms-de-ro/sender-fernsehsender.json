@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-sender-fernsehsender",
+  "parent": "ms-ro-post-de-emisie-b6f9f50b@2af6c13c78dbabdc1d5b6826e3a1bcfc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sender",
+    "genus": "masculine",
+    "definition": "Ein Gerät oder eine Einrichtung, die Signale, insbesondere Rundfunk- oder Fernsehsignale, aussendet.",
+    "pronunciation": "/ˈzɛndɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Sender“ stammt vom Verb „senden“ ab, das aus dem althochdeutschen 'sendan' stammt und auf die urgermanische Wurzel *sandijaną zurückgeht, was 'schicken' oder 'senden' bedeutet.",
+        "targetText": "Cuvântul german „Sender” provine de la verbul „senden”, care derivă din germana veche înaltă 'sendan' și are rădăcini în proto-germanicul *sandijaną, însemnând 'a trimite' sau 'a expedia'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "post de emisie",
+    "genus": "neuter",
+    "definition": "Un dispozitiv sau o stație care transmite semnale, în special semnale de radio sau televiziune.",
+    "pronunciation": "/post de eˈmi.si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „post de emisie“ setzt sich aus 'post' (vom lateinischen 'postis' für 'Pfosten, Posten') und 'emisie' (vom lateinischen 'emissio', 'das Aussenden') zusammen, was zusammen eine Sendeeinrichtung bezeichnet.",
+        "targetText": "Termenul românesc „post de emisie” este compus din „post” (din latină 'postis', însemnând 'stâlp, post') și „emisie” (din latină 'emissio', însemnând 'emitere'), desemnând o instalație de transmisie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Empfänger",
+      "targetText": "receptor"
+    },
+    {
+      "sourceText": "Fernsehen",
+      "targetText": "televiziune"
+    },
+    {
+      "sourceText": "Rundfunk",
+      "targetText": "radiodifuziune"
+    },
+    {
+      "sourceText": "Signal",
+      "targetText": "semnal"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fernsehsender strahlt das Programm live aus.",
+      "targetText": "Postul de emisie transmite programul în direct."
+    },
+    {
+      "sourceText": "Der Sender sendet auf mehreren Frequenzen.",
+      "targetText": "Postul de emisie emite pe mai multe frecvențe."
+    },
+    {
+      "sourceText": "Der Sender hat eine große Reichweite.",
+      "targetText": "Postul de emisie are o rază mare de acoperire."
+    },
+    {
+      "sourceText": "Der Sender wurde modernisiert, um digitale Signale zu übertragen.",
+      "targetText": "Postul de emisie a fost modernizat pentru a transmite semnale digitale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'emisie' klingt ähnlich wie das deutsche 'Emission' – beides bedeutet 'Aussendung', was dir hilft, die Bedeutung von 'post de emisie' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'Sender' im Deutschen vom Verb 'senden' kommt, und 'post de emisie' im Rumänischen das Senden (emisie) an einem Ort (post) beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Post' ist ein Ort, von dem Nachrichten ausgesendet werden – so wie ein 'post de emisie' Nachrichten und Signale sendet."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'post de emisie' mit einem 'Posten', der Signale aussendet – so kannst du dir die Bedeutung als 'Sender' gut merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

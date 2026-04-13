@@ -1,0 +1,181 @@
+{
+  "id": "ms-de-ro-verwandeln",
+  "parent": "ms-ro-a-transforma-ed93d23e@a1cfff5319d95efc45a0fd49e8f464ed",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verwandeln",
+    "definition": "etwas oder jemanden in einen anderen Zustand oder eine andere Form bringen",
+    "pronunciation": "/fɛʁˈvandələn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „verwandeln“ stammt vom mittelhochdeutschen „verwandeln“, zusammengesetzt aus „ver-“ und „wandeln“ (ändern, bewegen).",
+        "targetText": "Das deutsche „verwandeln“ leitet sich von „wandeln“ ab, das „ändern“ bedeutet, mit dem Präfix „ver-“ als Verstärkung."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb. Häufig verwendet sowohl im metaphorischen als auch im konkreten Sinn, z.B. beim Umbau oder einer Transformation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a transforma",
+    "definition": "a schimba ceva sau pe cineva într-o altă stare sau formă",
+    "pronunciation": "/a trans.foˈma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a transforma“ stammt vom lateinischen „transformare“, zusammengesetzt aus „trans-“ (über) und „forma“ (Form).",
+        "targetText": "Verbul românesc „a transforma“ provine din latină, de la „transformare“, compus din „trans-“ (peste) și „forma“ (formă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in wissenschaftlichen und alltäglichen Kontexten verwendet, um Transformationen oder Änderungen auszudrücken."
+  },
+  "senses": [
+    {
+      "gloss": "Verwandeln (allgemein)",
+      "explanation": {
+        "sourceText": "Steht für den Prozess des Wandels oder der Transformation.",
+        "targetText": "Reprezintă procesul de schimbare sau transformare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verwandle die Idee in ein Projekt.",
+          "targetText": "Eu transformez ideea într-un proiect."
+        }
+      ]
+    },
+    {
+      "gloss": "Verwandeln (metaphorisch)",
+      "explanation": {
+        "sourceText": "Verwendet für Veränderungen im metaphorischen Sinne.",
+        "targetText": "Folosit pentru schimbări în sens metaforic."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Künstler verwandelt die Leinwand.",
+          "targetText": "Artistul transformă pânza."
+        }
+      ]
+    },
+    {
+      "gloss": "Verwandeln (physisch)",
+      "explanation": {
+        "sourceText": "Bezieht sich auch auf physische Veränderungen.",
+        "targetText": "Se referă și la schimbări fizice."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir verwandeln das Zimmer.",
+          "targetText": "Noi transformăm camera."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entwicklung",
+      "targetText": "dezvoltare"
+    },
+    {
+      "sourceText": "Gestalt",
+      "targetText": "formă"
+    },
+    {
+      "sourceText": "Metamorphose",
+      "targetText": "metamorfoză"
+    },
+    {
+      "sourceText": "Veränderung",
+      "targetText": "schimbare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bewahren",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verwandle die Idee in ein Projekt.",
+      "targetText": "Eu transformez ideea într-un proiect."
+    },
+    {
+      "sourceText": "Verwandelst du das Design?",
+      "targetText": "Transformi designul?"
+    },
+    {
+      "sourceText": "Der Künstler verwandelt die Leinwand.",
+      "targetText": "Artistul transformă pânza."
+    },
+    {
+      "sourceText": "Wir verwandeln das Zimmer.",
+      "targetText": "Noi transformăm camera."
+    },
+    {
+      "sourceText": "Verwandelt ihr die Struktur?",
+      "targetText": "Transformați structura?"
+    },
+    {
+      "sourceText": "Sie verwandeln die Landschaft.",
+      "targetText": "Ei transformă peisajul."
+    },
+    {
+      "sourceText": "Ich habe das Bild verwandelt.",
+      "targetText": "Am transformat imaginea."
+    },
+    {
+      "sourceText": "Er verwandelte die Figur.",
+      "targetText": "El transforma figura."
+    },
+    {
+      "sourceText": "Wir hatten die Pläne schon verwandelt, als du kamst.",
+      "targetText": "Transformasem deja planurile când ai venit."
+    },
+    {
+      "sourceText": "Ich werde das Skript verwandeln.",
+      "targetText": "Voi transforma scriptul."
+    },
+    {
+      "sourceText": "Ich würde das Ergebnis verwandeln, wenn ich könnte.",
+      "targetText": "Aș transforma rezultatul dacă aș putea."
+    },
+    {
+      "sourceText": "Verwandle die Daten!",
+      "targetText": "Transformă datele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Transforma“ klingt wie das englische „transform“ – nutze diese Ähnlichkeit zum leichteren Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „a transforma“ oft mit großen Veränderungen oder Umgestaltungen verbunden ist."
+    },
+    {
+      "lang": "de",
+      "text": "Übe mit Sätzen wie „Eu transformez“ und kombiniere sie mit verschiedenen Objekten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

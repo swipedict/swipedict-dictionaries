@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-lied",
+  "parent": "ms-ro-cantec-2986a754@4d6edf9fa1852535c8e2e62f43007e10",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Lied",
+    "genus": "neuter",
+    "definition": "ein musikalisches Werk mit Gesang",
+    "pronunciation": "/liːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Lied“ stammt vom althochdeutschen „liod“, was „Gesang“ bedeutet.",
+        "targetText": "Substantivul german „Lied“ provine din althochdeutsch „liod“, însemnând „cântec“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Lied“ ist ein zentrales Element in Musik und Kultur."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cântec",
+    "genus": "neuter",
+    "definition": "o piesă muzicală cu voce",
+    "pronunciation": "/ˈkɨn.tec/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cântec“ stammt vom lateinischen „cantus“ (Gesang) und dem Verb „canta“ (singen).",
+        "targetText": "Cuvântul românesc „cântec“ provine din latină, din „cantus“ și verbul „a cânta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird für Gesänge in verschiedenen Musikstilen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Gesang",
+      "explanation": {
+        "sourceText": "Bezeichnet einen gesungenen musikalischen Beitrag.",
+        "targetText": "Se referă la o interpretare muzicală cântată."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Sänger hat ein wunderschönes Lied gesungen.",
+          "targetText": "Cântărețul a cântat un cântec minunat."
+        }
+      ]
+    },
+    {
+      "gloss": "Melodie",
+      "explanation": {
+        "sourceText": "Kann auch eine Melodie ohne Text bezeichnen.",
+        "targetText": "Poate desemna și o melodie fără versuri."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich liebe die Melodie dieses Liedes.",
+          "targetText": "Îmi place melodia acestui cântec."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Pod",
+      "targetText": "pod"
+    },
+    {
+      "sourceText": "Sofa",
+      "targetText": "canapea"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Dieses Lied hat eine wunderschöne Melodie.",
+      "targetText": "Acest cântec are o melodie frumoasă."
+    },
+    {
+      "sourceText": "Das Lied erzählt eine bewegende Geschichte.",
+      "targetText": "Cântecul spune o poveste emoționantă."
+    },
+    {
+      "sourceText": "Lieder verbinden Menschen über Kulturen hinweg.",
+      "targetText": "Cântecele leagă oamenii din diferite culturi."
+    },
+    {
+      "sourceText": "Als Kind sang ich viele Lieder.",
+      "targetText": "Când eram copil, cântam multe cântece."
+    },
+    {
+      "sourceText": "Manchmal höre ich alte Lieder, die mich an meine Kindheit erinnern.",
+      "targetText": "Uneori ascult cântece vechi care mă fac să-mi amintesc de copilărie."
+    },
+    {
+      "sourceText": "Lieder sind ein wichtiger Bestandteil unserer Kultur.",
+      "targetText": "Cântecele sunt o parte importantă a culturii noastre."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Cântec“ klingt ähnlich wie „Klang“ – verbinde Musik und Klang, um es leichter zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Höre rumänische „cântece“, um die Bedeutung lebendig zu erleben."
+    },
+    {
+      "lang": "de",
+      "text": "Sing deutsche und rumänische Lieder, um die Wörter zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor: „Cântecul meu preferat“ ist dein Lieblingslied – so bleibt das Wort im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

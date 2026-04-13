@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-auffallen",
+  "parent": "ms-ro-a-cadea-in-ochi-50466a70@2e7d0dec9503f9f79487986e9500705f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auffallen",
+    "definition": "die Aufmerksamkeit auf sich lenken oder ins Auge springen",
+    "pronunciation": "/ˈaʊ̯fˌfalən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „auffallen“ setzt sich aus „auf“ und „fallen“ zusammen; ursprünglich bedeutete es „auf den Boden fallen“ und wurde später übertragen für „auffällig sein“.",
+        "targetText": "Verbul „auffallen“ este compus din „auf“ și „fallen“; inițial însemna „a cădea jos“, iar apoi a căpătat sensul de „a fi vizibil, a atrage atenția“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in der Form „jemandem auffallen“ verwendet und drückt aus, dass etwas bemerkt oder wahrgenommen wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a cădea în ochi",
+    "definition": "a atrage atenția sau a ieși în evidență",
+    "pronunciation": "/a kɨˈdea ɨn ˈoʊ̯tʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a cădea în ochi“ stammt aus der wörtlichen Bedeutung „in den Augen fallen“ und beschreibt, dass etwas auffällig oder bemerkenswert ist.",
+        "targetText": "Expresia „a cădea în ochi“ provine din sensul literal „a cădea în ochi“ și descrie ceva ce atrage atenția sau este remarcabil."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Dieser Ausdruck wird oft verwendet, um zu beschreiben, dass jemand oder etwas positiv oder negativ ins Auge fällt."
+  },
+  "senses": [
+    {
+      "gloss": "auffallen (aufmerksam machen)",
+      "explanation": {
+        "sourceText": "'A cădea în ochi' wird verwendet, um auf Aufmerksamkeit hinzuweisen.",
+        "targetText": "„A cădea în ochi“ este folosit pentru a indica atragerea atenției."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Bild fällt sofort auf.",
+          "targetText": "Această imagine cade imediat în ochi."
+        }
+      ]
+    },
+    {
+      "gloss": "auffällig sein",
+      "explanation": {
+        "sourceText": "Bezieht sich auf etwas, das markant ist.",
+        "targetText": "Se referă la ceva care este remarcabil sau evident."
+      },
+      "examples": [
+        {
+          "sourceText": "Seine Kleidung ist auffällig.",
+          "targetText": "Îmbrăcămintea lui este căzătoare în ochi."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufmerksamkeit",
+      "targetText": "atenție"
+    },
+    {
+      "sourceText": "Bemerken",
+      "targetText": "a observa"
+    },
+    {
+      "sourceText": "Eindruck",
+      "targetText": "impresie"
+    },
+    {
+      "sourceText": "Hervorheben",
+      "targetText": "a evidenția"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "untergehen",
+      "targetText": "a dispărea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es fällt mir auf, dass du anders bist.",
+      "targetText": "Îmi cade în ochi că ești diferit."
+    },
+    {
+      "sourceText": "Das neue Design hat sofort aufgefallen.",
+      "targetText": "Noul design a căzut imediat în ochi."
+    },
+    {
+      "sourceText": "Es wird auffallen, wenn du so weitermachst.",
+      "targetText": "Va cădea în ochi dacă continui așa."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke an „auffallen“ wie an etwas, das dir wirklich ins Auge springt – sei es positiv oder negativ!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Bild von etwas Auffälligem mit „cărți căzând în ochi“, um dir die Bedeutung einzuprägen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

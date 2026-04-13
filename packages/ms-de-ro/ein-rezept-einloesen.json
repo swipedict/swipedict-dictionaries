@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-ein-rezept-einloesen",
+  "parent": "ms-ro-a-ridica-o-reteta-62811d3d@e0b57e686ecbdfa24167970e69e332e5",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ein Rezept einlösen",
+    "definition": "Ein ärztliches Rezept in einer Apotheke gegen Medikamente eintauschen.",
+    "pronunciation": "aɪ̯n ʁɛˈt͡sɛpt ˈaɪ̯nˌløːzn",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Rezept' stammt vom lateinischen 'recipere' ab, was 'empfangen' oder 'aufnehmen' bedeutet, und wurde im medizinischen Kontext für ärztliche Verschreibungen übernommen.",
+        "targetText": "Cuvântul german 'Rezept' provine din latină 'recipere', care înseamnă 'a primi' sau 'a lua', fiind preluat în context medical pentru prescripții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a ridica o rețetă",
+    "definition": "A schimba o rețetă medicală la farmacie pentru medicamente.",
+    "pronunciation": "/a riˈdika o reˈt͡setə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'rețetă' stammt vom lateinischen 'recepta' ab, dem Partizip Perfekt von 'recipere', und bedeutet eine ärztliche Verschreibung.",
+        "targetText": "Cuvântul românesc 'rețetă' provine din latină 'recepta', participiul perfect al verbului 'recipere', și înseamnă o prescripție medicală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Apotheke",
+      "targetText": "farmacie"
+    },
+    {
+      "sourceText": "Arzt",
+      "targetText": "doctor"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Verschreibung",
+      "targetText": "prescripție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ein Rezept ignorieren",
+      "targetText": "a ignora o rețetă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich löse das Rezept in der Apotheke ein.",
+      "targetText": "Ridic rețeta de la farmacie."
+    },
+    {
+      "sourceText": "Kannst du das Rezept für mich einlösen?",
+      "targetText": "Poți să ridici rețeta pentru mine?"
+    },
+    {
+      "sourceText": "Das Rezept ist nur eine Woche gültig, also musst du es bald einlösen.",
+      "targetText": "Rețeta este valabilă doar o săptămână, deci trebuie să o ridici curând."
+    },
+    {
+      "sourceText": "Manchmal kann man ein Rezept auch online einlösen.",
+      "targetText": "Uneori poți ridica o rețetă și online."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'recipere' bedeutet 'empfangen' – sowohl 'Rezept' als auch 'rețetă' teilen diese Herkunft."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'rețetă' klingt ähnlich wie das deutsche 'Rezept' – beide stammen vom lateinischen 'recipere' ab."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb 'a ridica' bedeutet 'heben' oder 'abholen' – stell dir vor, du holst deine Medikamente mit dem Rezept ab."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Phrase 'a ridica o rețetă' als 'ein Rezept abholen' – so kannst du sie im Apothekenkontext leicht verwenden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

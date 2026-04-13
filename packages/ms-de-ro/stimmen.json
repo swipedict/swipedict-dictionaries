@@ -1,0 +1,173 @@
+{
+  "id": "ms-de-ro-stimmen",
+  "parent": "ms-ro-a-vota-cf92cc39@07192685acb94a83a691ea78204c64e4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stimmen",
+    "definition": "die richtige Tonlage oder Übereinstimmung erzeugen",
+    "pronunciation": "/ˈʃtɪmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Herkunft: vom mittelhochdeutschen „stim(n)en“, was „stimmen, klingen“ bedeutet, abgeleitet von dem germanischen „*stima“.",
+        "targetText": "Provine din mijlocul germanului „stim(n)en“, care înseamnă „a acorda, a suna“, derivat din germanicul „*stima“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein vielseitiges Verb, das in vielen Kontexten verwendet wird, vom Musizieren bis zu politischen Abstimmungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vota",
+    "definition": "a produce o armonie sau a fi în acord",
+    "pronunciation": "/a voˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A vota“ stammt vom französischen „voter“, das aus dem lateinischen „votare“ abgeleitet ist, was „wählen“ bedeutet.",
+        "targetText": "Verbul „a vota“ provine din francezul „voter“, derivat din latinul „votare“, care înseamnă „a vota“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird sowohl im politischen Kontext als auch in der Musik verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Abstimmung (politisch)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Akt, eine Stimme in Wahlen abzugeben.",
+        "targetText": "Se referă la actul de a vota într-o alegere."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Stimmen werden gezählt.",
+          "targetText": "Voturile sunt numărate."
+        }
+      ]
+    },
+    {
+      "gloss": "Harmonie (Musik)",
+      "explanation": {
+        "sourceText": "Bedeutet, in musikalischer Harmonie zu sein.",
+        "targetText": "Înseamnă a fi în armonie muzicală."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Stimmen im Chor stimmen perfekt überein.",
+          "targetText": "Vocile din cor se armonizează perfect."
+        }
+      ]
+    },
+    {
+      "gloss": "Ton (Akustik)",
+      "explanation": {
+        "sourceText": "Das bedeutet auch, einen bestimmten Ton zu erzeugen.",
+        "targetText": "Înseamnă și a produce un anumit sunet."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Klavierlehrer stimmt das Klavier.",
+          "targetText": "Profesorul de pian acordă pianul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Akord",
+      "targetText": "acord"
+    },
+    {
+      "sourceText": "Melodie",
+      "targetText": "melodie"
+    },
+    {
+      "sourceText": "Ritm",
+      "targetText": "ritm"
+    },
+    {
+      "sourceText": "Ton",
+      "targetText": "ton"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "disonnieren",
+      "targetText": "dezacorda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stimme dieser Entscheidung zu.",
+      "targetText": "Sunt de acord cu această decizie."
+    },
+    {
+      "sourceText": "Stimmst du für diesen Kandidaten?",
+      "targetText": "Votezi pentru acest candidat?"
+    },
+    {
+      "sourceText": "Sie stimmt mit mir überein.",
+      "targetText": "Ea este de acord cu mine."
+    },
+    {
+      "sourceText": "Wir stimmen im Chorus ein.",
+      "targetText": "Noi votăm în cor."
+    },
+    {
+      "sourceText": "Stimmt ihr dem Antrag zu?",
+      "targetText": "Sunteți de acord cu propunerea?"
+    },
+    {
+      "sourceText": "Sie stimmen beim Konzert harmonisch.",
+      "targetText": "Ei cântă armonios la concert."
+    },
+    {
+      "sourceText": "Ich habe für das Gesetz gestimmt.",
+      "targetText": "Am votat pentru lege."
+    },
+    {
+      "sourceText": "Ich werde im nächsten Jahr für ihn stimmen.",
+      "targetText": "Voi vota pentru el anul viitor."
+    },
+    {
+      "sourceText": "Ich würde stimmen, wenn ich könnte.",
+      "targetText": "Aș vota dacă aș putea."
+    },
+    {
+      "sourceText": "Stimme jetzt!",
+      "targetText": "Votează acum!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Erinnere dich daran, dass „stimmen“ nicht nur politisch ist, sondern auch musikalisch – wie im Chor."
+    },
+    {
+      "lang": "de",
+      "text": "Merksatz: ‚Bei der Wahl sollst du dich abstimmen, aber beim Singen nicht!‘ So verknüpfst du „vota“ und „stimmen“."
+    },
+    {
+      "lang": "de",
+      "text": "Um „a vota“ zu merken, denke an die Aufregung bei Wahlen, wenn jeder seine Stimme abgeben möchte."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-gesund",
+  "parent": "ms-ro-sanatos-8a5e96c6@ff5528d47047556cfd22816284a499da",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gesund",
+    "definition": "Im körperlichen und geistigen Zustand frei von Krankheit oder Schaden.",
+    "pronunciation": "/ɡəˈzʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „gesund“ stammt vom althochdeutschen 'gisunt' ab, das auf das urgermanische *gisundaz zurückgeht und 'heil, unversehrt' bedeutet.",
+        "targetText": "Adjectivul german „gesund” provine din vechiul german înalt 'gisunt', derivat din proto-germanicul *gisundaz, însemnând 'sănătos, întreg'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sănătos",
+    "definition": "Care este în stare bună de sănătate, fără boală sau vătămare.",
+    "pronunciation": "/sə.nəˈto̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „sănătos“ stammt vom lateinischen 'sanatus', Partizip Perfekt von 'sanare' (heilen), ab.",
+        "targetText": "Adjectivul românesc „sănătos” provine din latină, de la 'sanatus', participiul perfect al verbului 'sanare', care înseamnă 'a vindeca'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fit",
+      "targetText": "în formă"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Krank",
+      "targetText": "bolnav"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "krank",
+      "targetText": "bolnav"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Kind ist gesund und munter.",
+      "targetText": "Copilul este sănătos și vioi."
+    },
+    {
+      "sourceText": "Eine gesunde Ernährung ist wichtig.",
+      "targetText": "O alimentație sănătoasă este importantă."
+    },
+    {
+      "sourceText": "Er fühlt sich nach der Krankheit wieder gesund.",
+      "targetText": "Se simte din nou sănătos după boală."
+    },
+    {
+      "sourceText": "Gesund bleiben ist das Ziel.",
+      "targetText": "Să rămâi sănătos este scopul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „s“ am Anfang von „sănătos“ kannst du mit „stark“ verbinden – ein gesunder Körper ist stark."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „sănătos“ erinnert an das deutsche Wort „sanft“ – beides vermittelt ein Gefühl von Wohlbefinden und Gesundheit."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „sănătos“ durch die Silbe „sănă“ wie in „sanare“ (heilen) aus dem Lateinischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Arzt „sană“ (heilt) und dadurch wird jemand „sănătos“ – gesund."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

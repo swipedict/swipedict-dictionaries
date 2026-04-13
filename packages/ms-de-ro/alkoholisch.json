@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-alkoholisch",
+  "parent": "ms-ro-cu-alcool-fbf9c7ff@85b55e6f26f20b2084a588f824b746d7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "alkoholisch",
+    "definition": "Mit Alkohol enthaltend; beschreibt Getränke oder Produkte, die Alkohol enthalten.",
+    "pronunciation": "/ˌalkoːhoˈlɪʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „alkoholisch“ leitet sich vom arabischen 'al-kuḥl' für Alkohol ab, kombiniert mit dem deutschen Adjektivsuffix '-isch', das Zugehörigkeit oder Eigenschaft ausdrückt.",
+        "targetText": "Cuvântul „alkoholisch” derivă din arabicul 'al-kuḥl' pentru alcool, combinat cu sufixul adjectival german '-isch', care exprimă apartenență sau caracteristică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cu alcool",
+    "definition": "Care conține alcool; folosit pentru băuturi sau produse alcoolice.",
+    "pronunciation": "/ku alˈkoːhol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „cu alcool“ ist eine Zusammensetzung aus der Präposition 'cu' (mit) und dem Wort 'alcool', das vom lateinisch-arabischen Ursprung stammt.",
+        "targetText": "Expresia românească „cu alcool” este o compunere din prepoziția 'cu' (cu) și cuvântul 'alcool', care provine din latină prin arabă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alkoholfrei",
+      "targetText": "fără alcool"
+    },
+    {
+      "sourceText": "alkoholhaltig",
+      "targetText": "care conține alcool"
+    },
+    {
+      "sourceText": "Getränk",
+      "targetText": "băutură"
+    },
+    {
+      "sourceText": "Spirituose",
+      "targetText": "băutură spirtoasă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "alkoholfrei",
+      "targetText": "fără alcool"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Dieses Getränk ist alkoholisch und hat einen starken Geschmack.",
+      "targetText": "Această băutură este cu alcool și are un gust puternic."
+    },
+    {
+      "sourceText": "Alkoholische Getränke sollten in Maßen konsumiert werden.",
+      "targetText": "Băuturile cu alcool trebuie consumate cu moderație."
+    },
+    {
+      "sourceText": "Wein und Bier sind alkoholische Getränke.",
+      "targetText": "Vinul și berea sunt băuturi cu alcool."
+    },
+    {
+      "sourceText": "Er bevorzugt alkoholische Getränke bei Feiern.",
+      "targetText": "El preferă băuturile cu alcool la petreceri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das arabische 'al-kuḥl' ist die Wurzel für 'Alkohol' in vielen Sprachen, auch im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'alkoholisch' kannst du dir merken, indem du 'isch' als typisch deutsches Adjektiv-Ende erkennst – also 'mit Alkohol'."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen bedeutet 'cu' 'mit' – kombiniere es mit 'alcool' für 'alkoholisch'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du trinkst etwas 'mit Alkohol' – so merkst du dir 'cu alcool' als rumänische Übersetzung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

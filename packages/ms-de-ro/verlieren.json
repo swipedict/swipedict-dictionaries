@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-verlieren",
+  "parent": "ms-ro-a-pierde-4e1ade56@f2f26d33be270a6288944e786a72fc78",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verlieren",
+    "definition": "etwas nicht mehr haben; nicht mehr besitzen",
+    "pronunciation": "/fɛʁˈliːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verlieren“ setzt sich aus der Vorsilbe „ver-“ und dem mittelhochdeutschen „liüren“ zusammen und bedeutet ursprünglich „etwas verlieren oder nicht mehr besitzen“.",
+        "targetText": "Verbul german „verlieren“ este format din prefixul „ver-“ și germana mijlocie „liüren“, însemnând a pierde sau a nu mai deține ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in emotionalen und physischen Kontexten verwendet, wenn es darum geht, etwas zu verlieren, sei es eine Möglichkeit, einen Kampf oder einen Gegenstand."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pierde",
+    "definition": "a nu mai avea ceva; a nu mai deține ceva",
+    "pronunciation": "/a ˈpje̯r.de/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a pierde“ stammt vom lateinischen „perdere“ ab, was „verlieren“ oder „verschwenden“ bedeutet und häufig für Verluste verwendet wird.",
+        "targetText": "Verbul român „a pierde“ provine din latină, din „perdere“, însemnând a pierde sau a risipi, folosit frecvent pentru a exprima pierderi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Weit verbreitet in emotionalen und alltäglichen Kontexten, insbesondere in Bezug auf verlorene Gegenstände oder Chancen."
+  },
+  "senses": [
+    {
+      "gloss": "Chance verlieren",
+      "explanation": {
+        "sourceText": "Bedeutet, eine Möglichkeit oder Gelegenheit zu verlieren.",
+        "targetText": "Înseamnă a pierde o oportunitate sau șansă."
+      },
+      "examples": [
+        {
+          "sourceText": "Du hast die Chance verloren.",
+          "targetText": "Ai pierdut ocazia."
+        }
+      ]
+    },
+    {
+      "gloss": "Verlieren in einem Spiel",
+      "explanation": {
+        "sourceText": "Oft verwendet beim Verlust eines Spiels oder Wettbewerbs.",
+        "targetText": "Folosit frecvent pentru a exprima pierderea unui joc sau concurs."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie verlieren das Rennen.",
+          "targetText": "Ei pierd cursa."
+        }
+      ]
+    },
+    {
+      "gloss": "Verlust",
+      "explanation": {
+        "sourceText": "'A pierde' wird oft im Kontext von emotionalen und materiellen Verlusten verwendet.",
+        "targetText": "'A pierde' este folosit frecvent în contexte de pierderi materiale și emoționale."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe meinen Job verloren.",
+          "targetText": "Am pierdut serviciul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Erfolg",
+      "targetText": "succes"
+    },
+    {
+      "sourceText": "Risikofaktor",
+      "targetText": "factor de risc"
+    },
+    {
+      "sourceText": "Schaden",
+      "targetText": "daună"
+    },
+    {
+      "sourceText": "Verlust",
+      "targetText": "pierdere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gewinnen",
+      "targetText": "a câștiga"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verliere das Spiel.",
+      "targetText": "Pierd jocul."
+    },
+    {
+      "sourceText": "Verlierst du deine Schlüssel?",
+      "targetText": "Pierzi cheile?"
+    },
+    {
+      "sourceText": "Er verliert oft seine Sachen.",
+      "targetText": "El pierde deseori lucrurile lui."
+    },
+    {
+      "sourceText": "Wir verlieren den Fokus.",
+      "targetText": "Pierd concentrarea."
+    },
+    {
+      "sourceText": "Verliert ihr den Überblick?",
+      "targetText": "Pierd controlul?"
+    },
+    {
+      "sourceText": "Sie verlieren das Rennen.",
+      "targetText": "Ei pierd cursa."
+    },
+    {
+      "sourceText": "Ich habe meinen Job verloren.",
+      "targetText": "Am pierdut serviciul meu."
+    },
+    {
+      "sourceText": "Sie haben die Chance verloren.",
+      "targetText": "Ei au pierdut ocazia."
+    },
+    {
+      "sourceText": "Er verlor immer seine Schlüssel.",
+      "targetText": "El pierdea mereu cheile."
+    },
+    {
+      "sourceText": "Ich hatte meinen Pass verloren, als ich reiste.",
+      "targetText": "Pierdusem pașaportul meu când am călătorit."
+    },
+    {
+      "sourceText": "Ich werde bald etwas verlieren.",
+      "targetText": "Voi pierde ceva în curând."
+    },
+    {
+      "sourceText": "Sie wird ihre Geduld verlieren.",
+      "targetText": "Ea o să piardă răbdarea."
+    },
+    {
+      "sourceText": "Ich würde nichts verlieren, wenn ich das wusste.",
+      "targetText": "Nu aș pierde nimic dacă aș ști asta."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du nichts verlierst.",
+      "targetText": "Este necesar să nu pierzi nimic."
+    },
+    {
+      "sourceText": "Verliere nicht den Mut!",
+      "targetText": "Nu pierde curajul!"
+    },
+    {
+      "sourceText": "Verlieren Sie nicht die Hoffnung!",
+      "targetText": "Nu pierdeți speranța!"
+    },
+    {
+      "sourceText": "Das verlorene Spiel war hart.",
+      "targetText": "Jocul pierdut a fost greu."
+    },
+    {
+      "sourceText": "Der Pass ist verloren.",
+      "targetText": "Pașaportul este pierdut."
+    },
+    {
+      "sourceText": "Indem er eine Entscheidung traf, verlor er viele Möglichkeiten.",
+      "targetText": "Pierzând o hotărâre, a pierdut multe posibilități."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Verlieren“ und „a pierde“ sind Kognaten – beide drücken Verlust aus und sind leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „pierderea“ (der Verlust) hilft dir, den Zusammenhang zu verstehen und zu üben."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung „-i“ bei „a pierde“ – z.B. „pierzi“ (du verlierst), „pierdem“ (wir verlieren)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du verlierst etwas Wichtiges – so merkst du dir die Bedeutung von „a pierde“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

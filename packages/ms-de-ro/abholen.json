@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-abholen",
+  "parent": "ms-ro-a-lua-eb72e8e7@d21aca6337856ecd08f94d8cca3a120e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abholen",
+    "definition": "jemanden oder etwas an einem bestimmten Ort abnehmen oder mitnehmen",
+    "pronunciation": "/ˈapˌhoːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abholen“ setzt sich aus dem Präfix „ab-“ (weg) und dem Verb „holen“ (etwas bekommen) zusammen und beschreibt das Abnehmen oder Mitnehmen von Personen oder Dingen an einem Ort.",
+        "targetText": "Verbul german „abholen“ este format din prefixul „ab-“ (departe) și verbul „holen“ (a lua), descriind acțiunea de a lua sau ridica ceva sau pe cineva de la un loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, um den Transport von Personen oder Dingen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua",
+    "definition": "a prelua pe cineva sau ceva de la un loc anume",
+    "pronunciation": "/a luˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a lua“ stammt vom lateinischen „lucere“ oder „ducere“ ab, was „führen“ oder „nehmen“ bedeutet, und wird allgemein für das Abholen oder Nehmen von Personen oder Gegenständen verwendet.",
+        "targetText": "Verbul românesc „a lua“ provine din latinescul „ducere“, care înseamnă „a conduce“ sau „a lua“, fiind folosit pentru a exprima acțiunea de a prelua pe cineva sau ceva de la un loc."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig in Verbindung mit dem Abholen von Personen, z.B. „Ich hole dich ab“ – „Te iau”."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Fahren",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "Holen",
+      "targetText": "a aduce"
+    },
+    {
+      "sourceText": "Treffen",
+      "targetText": "a întâlni"
+    },
+    {
+      "sourceText": "Warten",
+      "targetText": "a aștepta"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bringen",
+      "targetText": "a aduce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich hole dich ab.",
+      "targetText": "Te iau."
+    },
+    {
+      "sourceText": "Holst du das Paket ab?",
+      "targetText": "Ieși să iei pachetul?"
+    },
+    {
+      "sourceText": "Er holt dich um 6 Uhr ab.",
+      "targetText": "El te ia la ora 6."
+    },
+    {
+      "sourceText": "Wir holen jetzt die Kinder ab.",
+      "targetText": "Noi luăm copiii acum."
+    },
+    {
+      "sourceText": "Holt ihr das Essen ab?",
+      "targetText": "Luați mâncarea?"
+    },
+    {
+      "sourceText": "Sie holen die Gäste ab.",
+      "targetText": "Ei iau oaspeții."
+    },
+    {
+      "sourceText": "Ich habe das Paket abgeholt.",
+      "targetText": "Am luat pachetul."
+    },
+    {
+      "sourceText": "Er holte mich ab nach der Schule.",
+      "targetText": "El m-a luat după școală."
+    },
+    {
+      "sourceText": "Ich werde dich von der Schule abholen.",
+      "targetText": "Te voi lua de la școală."
+    },
+    {
+      "sourceText": "Hol mich ab!",
+      "targetText": "Ia-mă!"
+    },
+    {
+      "sourceText": "Abholend, wartete ich auf dich.",
+      "targetText": "Luând, te-am așteptat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Abholen“ und „a lua“ sind eng verbunden: Beide bedeuten „nehmen“ oder „mitnehmen“. Denk an „Ich nehme dich mit“ = „Te iau“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz „Ich hole dich ab“ – „Te iau“ – so verknüpfst du die Bedeutung direkt mit der Alltagssituation."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „nimmst“ (lua) jemanden mit dem Auto ab – das hilft dir, „a lua“ als „abholen“ zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

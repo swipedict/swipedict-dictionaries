@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-insolvenz",
+  "parent": "ms-ro-insolventa-72d216f0@5de3235fe8d64b3ca13a8b3678a86d07",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Insolvenz",
+    "genus": "feminine",
+    "definition": "Zustand, in dem eine Person oder ein Unternehmen zahlungsunfähig ist und seine Schulden nicht mehr begleichen kann.",
+    "pronunciation": "/ɪnzoˈlvents/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Insolvenz“ stammt vom lateinischen 'insolventia' ab, was 'Unfähigkeit zu zahlen' bedeutet, zusammengesetzt aus 'in-' (nicht) und 'solvere' (lösen, zahlen).",
+        "targetText": "Cuvântul german „Insolvenz” provine din latină, de la 'insolventia', care înseamnă 'incapacitate de plată', format din prefixul 'in-' (nu) și verbul 'solvere' (a plăti, a rezolva)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "insolvență",
+    "genus": "feminine",
+    "definition": "Starea în care o persoană sau o companie nu mai poate plăti datoriile sale.",
+    "pronunciation": "/insolˈvent͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „insolvență“ stammt direkt vom lateinischen 'insolventia' ab, das 'Unfähigkeit zu zahlen' bedeutet, gebildet aus 'in-' (nicht) und 'solvere' (lösen, zahlen).",
+        "targetText": "Substantivul românesc „insolvență” provine direct din latină, de la 'insolventia', care înseamnă 'incapacitate de plată', format din prefixul 'in-' (nu) și verbul 'solvere' (a plăti, a rezolva)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gläubiger",
+      "targetText": "creditor"
+    },
+    {
+      "sourceText": "Konkurs",
+      "targetText": "faliment"
+    },
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    },
+    {
+      "sourceText": "Zahlungsunfähigkeit",
+      "targetText": "incapacitate de plată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Zahlungsfähigkeit",
+      "targetText": "capacitate de plată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Firma meldete Insolvenz an, weil sie ihre Rechnungen nicht mehr bezahlen konnte.",
+      "targetText": "Compania a declarat insolvență deoarece nu mai putea plăti facturile."
+    },
+    {
+      "sourceText": "Insolvenz bedeutet, dass die Schulden höher sind als das Vermögen.",
+      "targetText": "Insolvența înseamnă că datoriile sunt mai mari decât activele."
+    },
+    {
+      "sourceText": "Viele Unternehmen geraten in Insolvenz während einer Wirtschaftskrise.",
+      "targetText": "Multe companii intră în insolvență în timpul unei crize economice."
+    },
+    {
+      "sourceText": "Das Insolvenzverfahren regelt die Abwicklung der Schulden.",
+      "targetText": "Procedura de insolvență reglementează lichidarea datoriilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „insolvență“ klingt fast gleich wie das deutsche „Insolvenz“ – das hilft dir, es dir leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ță', eine typische Endung für abstrakte Substantive im Rumänischen, ähnlich wie '-ung' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische 'solvere' (lösen, zahlen) – mit dem negierenden 'in-' davor bedeutet es 'nicht zahlen können', also 'insolvență'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine Firma hat so viele Schulden, dass sie nicht mehr 'lösen' (zahlen) kann – das ist die 'insolvență'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

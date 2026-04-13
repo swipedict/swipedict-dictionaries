@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-enterben",
+  "parent": "ms-ro-a-dezmosteni-a6b440ea@2aef21d9ce17e72ae3d49f9a38fa7901",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "enterben",
+    "definition": "Jemandem das Recht entziehen, als Erbe berücksichtigt zu werden.",
+    "pronunciation": "/ɛntɐˈbeːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „enterben“ setzt sich aus dem Präfix 'ent-' und dem Substantiv 'Erbe' zusammen und stammt vom althochdeutschen 'erban' ab, das 'erben' bedeutet.",
+        "targetText": "Verbul german „enterben“ este format din prefixul 'ent-' și substantivul 'Erbe', provenind din vechiul german înalt 'erban', care înseamnă 'a moșteni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a dezmoșteni",
+    "definition": "A lua cuiva dreptul de a fi luat în considerare ca moștenitor.",
+    "pronunciation": "/a dezmoʃˈteni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a dezmoșteni“ stammt vom lateinischen 'destituere' (wegnehmen) und 'moștenitor' (Erbe) ab, zusammengesetzt mit dem Präfix 'dez-' für Verneinung.",
+        "targetText": "Verbul românesc „a dezmoșteni” provine din latină, combinând prefixul 'dez-' (negare) cu 'moștenitor' (moștenitor), derivat din 'mos' (Vorfahre) și 'tenere' (ține)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 4. Konjugation, reflexiv."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erbe",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Nachlass",
+      "targetText": "moștenire"
+    },
+    {
+      "sourceText": "Testament",
+      "targetText": "testament"
+    },
+    {
+      "sourceText": "vererben",
+      "targetText": "a moșteni"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "erben",
+      "targetText": "a moșteni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er hat seinen Sohn enterbt.",
+      "targetText": "El și-a dezmoștenit fiul."
+    },
+    {
+      "sourceText": "Man kann nicht einfach jemanden enterben.",
+      "targetText": "Nu poți pur și simplu să dezmoștenești pe cineva."
+    },
+    {
+      "sourceText": "Die Eltern haben ihn enterbt.",
+      "targetText": "Părinții l-au dezmoștenit."
+    },
+    {
+      "sourceText": "Enterben bedeutet, das Erbe zu entziehen.",
+      "targetText": "A dezmoșteni înseamnă a lua dreptul la moștenire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚a dezmoșteni‘ enthält das Präfix ‚dez-‘, das oft eine Verneinung oder Umkehrung ausdrückt – hier das Entziehen des Erbrechts."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort setzt sich aus ‚moștenire‘ (Erbe) und ‚dez-‘ (wegnehmen) zusammen – so kannst du die Bedeutung leicht ableiten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir ‚moșteni‘ als ‚erben‘ und ‚dezmoșteni‘ als ‚enterben‘ – das ‚dez-‘ kehrt die Bedeutung um."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand wird ‚de‘ (weg) ‚moștenit‘ (geerbt) – also wird er enterbt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

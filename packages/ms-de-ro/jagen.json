@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-jagen",
+  "parent": "ms-ro-a-vana-9652be31@e9288474bf1ec6730498f6061a032eb1",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jagen",
+    "definition": "ein Tier verfolgen, um es zu fangen oder zu töten",
+    "pronunciation": "/ˈjaɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich vom mittelhochdeutschen „jagen“, was „fangen, verfolgen“ bedeutet, ab und hat Wurzeln im althochdeutschen „jagan“.",
+        "targetText": "Das Verb „jagen“ stammt vom mittelhochdeutschen „jagen“ ab, verwandt mit althochdeutsch „jagan“, und bedeutet „verfolgen“ oder „fangen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird in der Regel verwendet, um den Akt des Verfolgens von Tieren oder von Zielen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vâna",
+    "definition": "a urmări un animal pentru a-l prinde sau a-l omorî",
+    "pronunciation": "/a vɨˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb stammt aus dem altslawischen „vǫna“, das denselben Bedeutungsinhalt trägt. In Rumänisch bezieht es sich vor allem auf das Jagen von Tieren, hat aber auch übertragene Anwendungen.",
+        "targetText": "Verbul provine din slavona veche „vǫna“, cu sens similar, și în română desemnează în principal vânătoarea, dar și urmărirea unor scopuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). In der rumänischen Kultur sind traditionelle Jagdmethoden tief verwurzelt."
+  },
+  "senses": [
+    {
+      "gloss": "auf Ziele abziehen",
+      "explanation": {
+        "sourceText": "Das Streben nach Zielen im übertragenen Sinne.",
+        "targetText": "Urmărirea unor scopuri sau țeluri, în sens figurat."
+      },
+      "examples": [
+        {
+          "sourceText": "Er jagt nach Erfolg.",
+          "targetText": "El vânează succesul."
+        }
+      ]
+    },
+    {
+      "gloss": "Wild bejagen",
+      "explanation": {
+        "sourceText": "Wie 'wild' in der deutschen Sprache.",
+        "targetText": "Ca în germană, se referă la urmărirea animalelor sălbatice."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Wild zu bejagen ist eine Herausforderung.",
+          "targetText": "A vâna sălbăticia este o provocare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Hunting",
+      "targetText": "vânătoare"
+    },
+    {
+      "sourceText": "Jagdsaison",
+      "targetText": "sezon de vânătoare"
+    },
+    {
+      "sourceText": "Jäger",
+      "targetText": "vânător"
+    },
+    {
+      "sourceText": "Wildtier",
+      "targetText": "animal sălbatic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schonen",
+      "targetText": "a proteja"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich jage im Wald.",
+      "targetText": "Eu vânez în pădure."
+    },
+    {
+      "sourceText": "Jagst du gerne?",
+      "targetText": "Îți place să vânezi?"
+    },
+    {
+      "sourceText": "Er jagt Rehe.",
+      "targetText": "El vânează căpriori."
+    },
+    {
+      "sourceText": "Wir jagen gemeinsam.",
+      "targetText": "Noi vânăm împreună."
+    },
+    {
+      "sourceText": "Jagt ihr auf Wild?",
+      "targetText": "Vânați sălbăticiuni?"
+    },
+    {
+      "sourceText": "Sie jagen den Drachen.",
+      "targetText": "Ei vânează dragonul."
+    },
+    {
+      "sourceText": "Ich habe einen Hasen gejagt.",
+      "targetText": "Am vânat un iepure."
+    },
+    {
+      "sourceText": "Früher jagte ich oft.",
+      "targetText": "Îmi plăcea să vânez des."
+    },
+    {
+      "sourceText": "Ich werde auf den Hirsch jagen.",
+      "targetText": "Voi vâna cerbul."
+    },
+    {
+      "sourceText": "Ich würde jagen, wenn ich Zeit hätte.",
+      "targetText": "Aș vâna dacă aș avea timp."
+    },
+    {
+      "sourceText": "Jage den Kleinen!",
+      "targetText": "Vânează-l pe cel mic!"
+    },
+    {
+      "sourceText": "Indem ich zur Jagd gehe, genieße ich die Natur.",
+      "targetText": "Vânând, mă bucur de natură."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Jagen“ und „a vâna“ haben beide die Bedeutung von Verfolgen oder Fangen – verbinde die Wörter durch die gemeinsame Jagdidee."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Präsensendungen im Rumänischen: „-ez“, „-ezi“, „-ează“ – das hilft bei der Konjugation von „a vâna“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist auf der Jagd nach verschiedenen Dingen – so wird das Verb lebendig und einprägsam."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

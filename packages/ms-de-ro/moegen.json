@@ -1,0 +1,119 @@
+{
+  "id": "ms-de-ro-moegen",
+  "parent": "ms-ro-a-i-placea-83f363f6@d6426bd1b1af8cc78c9133c7865fc050",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:internal",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mögen",
+    "definition": "eine Vorliebe oder Zuneigung für jemandem oder etwas empfinden",
+    "pronunciation": "/ˈmøːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „mögen“ stammt vom althochdeutschen „magan“ ab, was ‚fähig sein‘ oder ‚mögen‘ bedeutet, und entwickelte sich zu einem Ausdruck für Vorliebe.",
+        "targetText": "Verbul „a plăcea“ provine din germana veche „magan“, care însemna „a putea“ sau „a dori“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist unregelmäßig und wird häufig in verschiedenen Zeiten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a-i plăcea",
+    "definition": "a avea o preferință sau o afecțiune pentru cineva sau ceva",
+    "pronunciation": "/a i plɨˈt͡ʃe.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a-i plăcea“ stammt vom lateinischen „placere“ ab, was ‚gefallen‘ bedeutet, und drückt Vorlieben aus.",
+        "targetText": "Expresia românească „a-i plăcea“ provine din latinescul „placere“, care înseamnă „a plăcea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um persönliche Vorlieben auszudrücken."
+  },
+  "senses": [
+    {
+      "gloss": "Gern haben",
+      "explanation": {
+        "sourceText": "'Gern haben' wird oft synonym verwendet, wenn es um Vorlieben geht.",
+        "targetText": "'A plăcea' este folosit adesea pentru a exprima preferințe."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe Hunde gern.",
+          "targetText": "Îmi plac câinii."
+        }
+      ]
+    },
+    {
+      "gloss": "Mag sein",
+      "explanation": {
+        "sourceText": "'Mögen' kann auch im Kontext des Zweifels verwendet werden.",
+        "targetText": "'A plăcea' poate exprima și o posibilitate sau o preferință incertă."
+      },
+      "examples": [
+        {
+          "sourceText": "Das könnte ich mögen.",
+          "targetText": "Asta aș putea să-mi placă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Abneigung",
+      "targetText": "repulsie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Gefühl",
+      "targetText": "sentiment"
+    },
+    {
+      "sourceText": "Vorliebe",
+      "targetText": "preferință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nicht mögen",
+      "targetText": "a nu plăcea"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Mögen“ und „a-i plăcea“ sind nicht eins zu eins übersetzbar – merke dir, dass „a-i plăcea“ die Struktur „gefallen“ nutzt, also anders aufgebaut ist."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an die ersten Dinge, die du mochtest, und bilde dir eine Liste mit „Îmi place...“ auf Rumänisch."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „Îmi place“ (Ich mag) und verbinde sie mit verschiedenen Dingen, um die Verwendung zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

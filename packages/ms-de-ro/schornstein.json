@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-schornstein",
+  "parent": "ms-ro-cos-de-fum-b95db767@8133d7cac3c41650016eb3f64a3430b4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schornstein",
+    "genus": "masculine",
+    "definition": "Ein bauliches Element, das Rauch und Abgase von Feuerstellen nach außen ableitet.",
+    "pronunciation": "/ˈʃɔrnʃtaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schornstein“ setzt sich aus den mittelhochdeutschen Wörtern 'schorn' (schürend, vom Verb 'scheren') und 'stein' zusammen und bezeichnet ursprünglich einen steinernen Rauchabzug.",
+        "targetText": "Cuvântul german „Schornstein” provine din cuvintele din germana mijlocie 'schorn' (a tăia, a curăța) și 'stein' (piatră), desemnând inițial o construcție de piatră pentru evacuarea fumului."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "coș de fum",
+    "genus": "neuter",
+    "definition": "O construcție prin care fumul și gazele arse sunt evacuate dintr-un spațiu interior în exterior.",
+    "pronunciation": "/koʃ de fum/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „coș de fum“ ist eine Zusammensetzung aus dem lateinischen Wort 'caucium' (über das Italienische 'canna' für Rohr, hier als 'coș' für Korb oder Behälter) und dem lateinischen 'fumus' für Rauch.",
+        "targetText": "Expresia românească „coș de fum” este o compunere din cuvântul latin 'caucium' (prin italiană 'canna' pentru țeavă, aici ca 'coș' pentru coș sau recipient) și 'fumus' latin pentru fum."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Substantiv compus, maskulin, singular."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abgas",
+      "targetText": "gaz de eșapament"
+    },
+    {
+      "sourceText": "Feuerstelle",
+      "targetText": "șemineu"
+    },
+    {
+      "sourceText": "Kamin",
+      "targetText": "șemineu"
+    },
+    {
+      "sourceText": "Rauch",
+      "targetText": "fum"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Schornstein des Hauses ist sehr hoch.",
+      "targetText": "Coșul de fum al casei este foarte înalt."
+    },
+    {
+      "sourceText": "Der Schornstein muss regelmäßig gereinigt werden.",
+      "targetText": "Coșul de fum trebuie curățat regulat."
+    },
+    {
+      "sourceText": "Rauch steigt aus dem Schornstein auf.",
+      "targetText": "Fumul se ridică din coșul de fum."
+    },
+    {
+      "sourceText": "Der Schornstein ist aus roten Ziegeln gebaut.",
+      "targetText": "Coșul de fum este construit din cărămizi roșii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'coș' klingt ähnlich wie das deutsche 'Korb', und ein Schornstein ist wie ein Korb, der den Rauch auffängt und nach draußen führt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'fum' im Rumänischen bedeutet 'Rauch' und klingt ähnlich wie das englische 'fume' – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'coș de fum' als 'Korb des Rauchs' – so kannst du dir vorstellen, wie der Rauch durch den Schornstein 'getragen' wird."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'Schornstein' ist wie ein 'Stein' (stein) mit einem 'Schorn' (scheren) – also ein Stein, der den Rauch 'abschneidet' und nach oben leitet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

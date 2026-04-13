@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-atmen",
+  "parent": "ms-ro-a-respira-c25e3c62@4f022ce13c176079f0798f7105b6d2b2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "atmen",
+    "definition": "Luft ein- und aus dem Körper bewegen",
+    "pronunciation": "/ˈaːtmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „atmen“ stammt vom althochdeutschen „ateman“, das mit dem Atem und dem Ein- und Ausströmen von Luft verbunden ist.",
+        "targetText": "Verbul „atmen“ provine din germana veche „ateman“, legat de procesul de respirație și mișcarea aerului în și din corp."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird sowohl in medizinischem Kontext als auch im alltäglichen Gebrauch verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a respira",
+    "definition": "a mișca aerul în și din corp",
+    "pronunciation": "/a res.piˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a respira“ stammt vom lateinischen „respirare“, zusammengesetzt aus „re-“ (wieder) und „spirare“ (atmen), und bezeichnet den lebenswichtigen Vorgang des Atmens.",
+        "targetText": "Verbul românesc „a respira“ derivă din latină, din „respirare“, compus din „re-“ (din nou) și „spirare“ (a respira), desemnând procesul vital de respirație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). „Respirare“ spielt eine wichtige Rolle sowohl in der Medizin als auch in der Philosophie, wo es das Leben selbst symbolisiert."
+  },
+  "senses": [
+    {
+      "gloss": "Atemnot",
+      "explanation": {
+        "sourceText": "'Atmen' beschreibt einen Zustand, halt ein Bild von Schwierigkeiten bei der Luftaufnahme.",
+        "targetText": "„Atmen“ descrie și starea de dificultate în respirație."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe Atemnot.",
+          "targetText": "Am dificultăți de respirație."
+        }
+      ]
+    },
+    {
+      "gloss": "Atmen (Luftbewegung)",
+      "explanation": {
+        "sourceText": "Das Wort wird auch im medizinischen Kontext genutzt.",
+        "targetText": "Cuvântul este folosit și în context medical."
+      },
+      "examples": [
+        {
+          "sourceText": "Atme tief durch.",
+          "targetText": "Respiră adânc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Körper",
+      "targetText": "corp"
+    },
+    {
+      "sourceText": "Lunge",
+      "targetText": "plămân"
+    },
+    {
+      "sourceText": "Sauerstoff",
+      "targetText": "oxigen"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ertrinken",
+      "targetText": "a se îneca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich atme tief ein.",
+      "targetText": "Eu respir adânc."
+    },
+    {
+      "sourceText": "Atmest du ruhig?",
+      "targetText": "Respiri liniștit?"
+    },
+    {
+      "sourceText": "Der Patient atmet schwer.",
+      "targetText": "Pacientul respiră greu."
+    },
+    {
+      "sourceText": "Wir atmen frische Luft.",
+      "targetText": "Noi respirăm aer proaspăt."
+    },
+    {
+      "sourceText": "Atmet ihr ruhig ein?",
+      "targetText": "Respirați voi liniștit?"
+    },
+    {
+      "sourceText": "Sie (Pl.) atmen in der Meditation.",
+      "targetText": "Ei respiră în meditație."
+    },
+    {
+      "sourceText": "Ich habe tiefer geatmet.",
+      "targetText": "Am respirat mai profund."
+    },
+    {
+      "sourceText": "Sie haben ruhig geatmet.",
+      "targetText": "Au respirat liniștit."
+    },
+    {
+      "sourceText": "Er atmete schnell in der Aufregung.",
+      "targetText": "El respira repede de emoție."
+    },
+    {
+      "sourceText": "Ich hatte nicht richtig geatmet, als du ankamst.",
+      "targetText": "Nu respirasem corect când ai sosit."
+    },
+    {
+      "sourceText": "Ich werde morgen tief atmen.",
+      "targetText": "Voi respira adânc mâine."
+    },
+    {
+      "sourceText": "Sie wird vermehrt atmen.",
+      "targetText": "Ea o să respire mai mult."
+    },
+    {
+      "sourceText": "Ich würde atmen, wenn ich könnte.",
+      "targetText": "Aș respira dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du tief atmest.",
+      "targetText": "Este important să respiri adânc."
+    },
+    {
+      "sourceText": "Atme ruhig!",
+      "targetText": "Respiră liniștit!"
+    },
+    {
+      "sourceText": "Atmet tief ein!",
+      "targetText": "Respirați adânc!"
+    },
+    {
+      "sourceText": "Das müde Kind atmet langsam.",
+      "targetText": "Copilul obosit respiră încet."
+    },
+    {
+      "sourceText": "Die Atmosphäre ist ruhig und atembar.",
+      "targetText": "Atmosfera este liniștită și respirabilă."
+    },
+    {
+      "sourceText": "Während er langsam atmete, entspannte er sich.",
+      "targetText": "Respirând încet, s-a relaxat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Atmen“ und „a respira“ sind Kognaten, was es erleichtert, sich die Bedeutung zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort „respira“: es beginnt mit „res-“, das Gefühl von Erneuerung und Frische vermittelt – so wie frische Luft!"
+    },
+    {
+      "lang": "de",
+      "text": "Der Unterschied zwischen „atmen“ und „respira“ liegt in ihrer Verwendung im alltäglichen versus medizinischen Kontext, also achte darauf!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe, Sätze mit Atemtechniken oder Entspannungsübungen zu bilden, um das Wort im Kontext zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere das Atmen: tief einatmen und laut „respira“ aussprechen, während du dir einen klaren, frischen Berggastraum vorstellst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

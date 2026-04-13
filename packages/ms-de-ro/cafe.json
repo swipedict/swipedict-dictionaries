@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-cafe",
+  "parent": "ms-ro-cafea-f54f1358@ab0966b8e26795f9f5f7f39188cb8f4f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Café",
+    "genus": "neuter",
+    "definition": "ein Ort, an dem man Kaffee und kleine Speisen bevorzugt serviert bekommt",
+    "pronunciation": "/kaˈfeː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Café“ stammt aus dem französischen „café“, das vom arabischen „قهوة“ (qahwa) abgeleitet ist, was „Kaffee“ bedeutet. Der Begriff ist seit dem 18. Jahrhundert verbreitet.",
+        "targetText": "Das Wort wurde über Französisch aus dem Arabischen entlehnt."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cafés sind beliebte Orte zum Entspannen und Geselligkeit."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cafea",
+    "genus": "feminine",
+    "definition": "un loc unde se servește cafea și mese ușoare",
+    "pronunciation": "/kaˈfe̯a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cafea“ stammt ebenfalls aus dem Arabischen „قهوة“ (qahwa) und bezeichnet das beliebte Getränk, das aus gerösteten Kaffeebohnen zubereitet wird.",
+        "targetText": "Termenul provine din arabă prin intermediul francezei și desemnează băutura populară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Cafea ist für Rumänen ein beliebtes Getränk, oft morgens und während des Aufenthalts in Cafés."
+  },
+  "senses": [
+    {
+      "gloss": "Café im Freien",
+      "explanation": {
+        "sourceText": "Ein Café kann auch im Freien sein.",
+        "targetText": "Un loc unde se servește cafea în aer liber."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich sitze lieber im Café im Freien.",
+          "targetText": "Prefer să stau la cafea afară."
+        }
+      ]
+    },
+    {
+      "gloss": "Kaffeehaus",
+      "explanation": {
+        "sourceText": "Ein Café kann auch als Kaffeehaus betrachtet werden.",
+        "targetText": "Un loc unde se servește cafea și unde oamenii socializează."
+      },
+      "examples": [
+        {
+          "sourceText": "Das alte Kaffeehaus in der Stadt ist sehr bekannt.",
+          "targetText": "Vechea cafenea din oraș este foarte cunoscută."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Getränk",
+      "targetText": "băutură"
+    },
+    {
+      "sourceText": "Kaffee",
+      "targetText": "cafea"
+    },
+    {
+      "sourceText": "Snack",
+      "targetText": "gustare"
+    },
+    {
+      "sourceText": "Torte",
+      "targetText": "tort"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Restaurant",
+      "targetText": "bar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe gerne in ein Café.",
+      "targetText": "Îmi place să merg la o cafea."
+    },
+    {
+      "sourceText": "Wie viel kostet der Kaffee im Café?",
+      "targetText": "Cât costă cafeaua la cafenea?"
+    },
+    {
+      "sourceText": "Das Café hat eine tolle Atmosphäre.",
+      "targetText": "Cafeneaua are o atmosferă minunată."
+    },
+    {
+      "sourceText": "Ich bestelle einen Kaffee im Café.",
+      "targetText": "Comand o cafea la cafenea."
+    },
+    {
+      "sourceText": "Das Café öffnet um sieben Uhr.",
+      "targetText": "Cafeneaua se deschide la șapte."
+    },
+    {
+      "sourceText": "Wir treffen uns im Café um 15 Uhr.",
+      "targetText": "Ne întâlnim la cafenea la ora 15."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „cafea“ nicht nur Kaffee bedeutet, sondern auch die gemütliche Atmosphäre eines Cafés – das hilft beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-ea“ in „cafea“ ist typisch für rumänische feminine Substantive – das hilft beim Erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe den Satz „Vino la cafea!“, um dir das Wort „cafea“ als Einladung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du den Duft von Kaffee riechst, verbinde ihn mit „cafea“ und du bist sofort in einem rumänischen Café."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

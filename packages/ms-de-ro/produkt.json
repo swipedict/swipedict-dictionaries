@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-produkt",
+  "parent": "ms-ro-produs-8e2d3651@7a6d1bf84ccc9b0670b003f835dcc2e7",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Produkt",
+    "genus": "neuter",
+    "definition": "Ware oder Dienstleistung, die hergestellt oder angeboten wird",
+    "pronunciation": "/proˈdʊkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Produkt“ stammt vom lateinischen „productum“, Partizip Perfekt von „producere“ (hervorbringen).",
+        "targetText": "Cuvântul german „Produkt“ provine din latinescul „productum“, participiul perfect al verbului „producere“ care înseamnă „a produce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Produkte beziehen sich auf Waren oder Dienstleistungen, die zum Verkauf oder zur Nutzung angeboten werden."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "produs",
+    "genus": "neuter",
+    "definition": "bun sau serviciu creat și oferit spre vânzare sau utilizare",
+    "pronunciation": "/proˈdus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „produs“ stammt vom lateinischen „productum“ und bezeichnet alles, was erzeugt wird, sei es Ware oder Dienstleistung.",
+        "targetText": "Cuvântul românesc „produs“ provine din latinescul „productum“ și desemnează orice bun sau serviciu creat."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In der rumänischen Wirtschaft sind Produkte oft in Supermärkten und Geschäften zu finden."
+  },
+  "senses": [
+    {
+      "gloss": "Produkt (Dienstleistung)",
+      "explanation": {
+        "sourceText": "Bezieht sich auch auf Dienstleistungen und nicht nur auf physische Güter.",
+        "targetText": "Se referă și la servicii, nu doar la bunuri fizice."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir haben ein neues Produkt eingeführt.",
+          "targetText": "Am lansat un produs nou."
+        }
+      ]
+    },
+    {
+      "gloss": "Produkt (Waren)",
+      "explanation": {
+        "sourceText": "Verwendet für materielle Produkte, die verkauft werden.",
+        "targetText": "Se referă la bunuri materiale destinate vânzării."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Produkt ist sehr beliebt.",
+          "targetText": "Produsul este foarte popular."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kunde",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Lieferant",
+      "targetText": "furnizor"
+    },
+    {
+      "sourceText": "Verkauf",
+      "targetText": "vânzare"
+    },
+    {
+      "sourceText": "Ware",
+      "targetText": "marfă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ankommen",
+      "targetText": "a sosi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Produkt ist sehr beliebt.",
+      "targetText": "Produsul este foarte popular."
+    },
+    {
+      "sourceText": "Wir haben ein neues Produkt eingeführt.",
+      "targetText": "Am lansat un produs nou."
+    },
+    {
+      "sourceText": "Die Qualität des Produkts ist ausgezeichnet.",
+      "targetText": "Calitatea produsului este excelentă."
+    },
+    {
+      "sourceText": "Das Produkt wird in vielen Ländern verkauft.",
+      "targetText": "Produsul este vândut în multe țări."
+    },
+    {
+      "sourceText": "Produkte sollten regelmäßig getestet werden.",
+      "targetText": "Produsele ar trebui testate regulat."
+    },
+    {
+      "sourceText": "Ich interessiere mich für umweltfreundliche Produkte.",
+      "targetText": "Sunt interesat de produse ecologice."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an einen Supermarkt voller Produkte – so kannst du das Wort „produs“ leicht visualisieren."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Produkt in einer Fabrik hergestellt wird – das hilft dir, „produs“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „produs“ mit dem deutschen Wort „produzieren“ – beide stammen vom lateinischen „producere“ und hängen mit Herstellung zusammen."
+    },
+    {
+      "lang": "de",
+      "text": "Verknüpfe „produs“ mit „Produktion“, um die Bedeutung zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

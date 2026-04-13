@@ -1,0 +1,163 @@
+{
+  "id": "ms-de-ro-urlaub",
+  "parent": "ms-ro-vacanta-fe020761@ac7b8a202fe6a351544489831e3b4df8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Urlaub",
+    "genus": "masculine",
+    "definition": "eine Zeit, in der man von der Arbeit oder Schule frei hat, um zu reisen oder sich zu erholen",
+    "pronunciation": "/ˈʊrlaubs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Urlaub“ stammt vom mittelhochdeutschen „urloup“, was „Unterbrechung“ oder „Freizeit“ bedeutet.",
+        "targetText": "Cuvântul „Urlaub“ provine din germana mijlocie „urloup“, semnificând o întrerupere sau timp liber."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Urlaub steht in der Regel für eine Zeit der Entspannung und Erholung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vacanță",
+    "genus": "feminine",
+    "definition": "o perioadă în care ești liber de la muncă sau școală pentru a călători sau a te odihni",
+    "pronunciation": "/vaˈkan.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Vacanță“ stammt vom lateinischen „vacantia“, was „Freizeit“ oder „freie Zeit“ bedeutet und allgemein eine Zeit der Befreiung von Verpflichtungen beschreibt.",
+        "targetText": "Cuvântul „vacanță“ derivă din latina „vacantia“, însemnând timp liber sau perioadă fără obligații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Vacanță“ wird oft mit Reisen und Erholung assoziiert."
+  },
+  "senses": [
+    {
+      "gloss": "Ferien (Schulferien)",
+      "explanation": {
+        "sourceText": "'Ferien' wird im deutschen Kontext auch für schulfreie Zeit verwendet.",
+        "targetText": "„Vacanța“ se folosește și pentru perioadele de vacanță școlară."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Sommerferien beginnen bald.",
+          "targetText": "Vacanța de vară începe în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "Urlaub (Erholung)",
+      "explanation": {
+        "sourceText": "Verknüpft mit dem Entspannen.",
+        "targetText": "Este legat de relaxare."
+      },
+      "examples": [
+        {
+          "sourceText": "Im Urlaub erhole ich mich.",
+          "targetText": "În vacanță mă odihnesc."
+        }
+      ]
+    },
+    {
+      "gloss": "Urlaub (Reisezeit)",
+      "explanation": {
+        "sourceText": "Bezieht sich auf eine Reise, die man während der Freizeit unternimmt.",
+        "targetText": "Se referă la o călătorie făcută în timpul liber."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich mache im Urlaub eine Reise.",
+          "targetText": "Fac o călătorie în vacanță."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Entspannung",
+      "targetText": "relaxare"
+    },
+    {
+      "sourceText": "Ferien",
+      "targetText": "sărbători"
+    },
+    {
+      "sourceText": "Freizeit",
+      "targetText": "timp liber"
+    },
+    {
+      "sourceText": "Reise",
+      "targetText": "călătorie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe nächsten Monat Urlaub.",
+      "targetText": "Am luna viitoare vacanță."
+    },
+    {
+      "sourceText": "Wir gehen im Sommer in den Urlaub.",
+      "targetText": "Mergem în vacanță vara."
+    },
+    {
+      "sourceText": "Hast du schon deinen Urlaub geplant?",
+      "targetText": "Ai planificat vacanța ta?"
+    },
+    {
+      "sourceText": "Im Urlaub entspannen wir uns.",
+      "targetText": "Ne relaxăm în vacanță."
+    },
+    {
+      "sourceText": "Ich gehe jedes Jahr im Winter in den Urlaub.",
+      "targetText": "Merg în vacanță în fiecare an iarna."
+    },
+    {
+      "sourceText": "Wo fahren wir in den Urlaub?",
+      "targetText": "Unde mergem în vacanță?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Vacanță“ klingt entspannt – stelle dir einen sonnigen Strand vor, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „vacanță“ erinnert an „vacant“ – etwas frei, also freie Zeit."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „Urlaub“ mit Reisezielen, um dir „vacanță“ besser einzuprägen."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „vacanță“ hörst, stell dir vor, wie du in den Flieger steigst und entspannst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

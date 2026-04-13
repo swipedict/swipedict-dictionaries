@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-gefaehrlich",
+  "parent": "ms-ro-periculos-327adead@dac7b7f775d14869ef7d4b78031dc712",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "gefährlich",
+    "definition": "Etwas, das eine Gefahr darstellt oder riskant ist.",
+    "pronunciation": "/ɡəˈfɛːɐ̯lɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „gefährlich“ leitet sich vom Substantiv 'Gefahr' ab, das aus dem mittelhochdeutschen 'gevāre' stammt und auf das althochdeutsche 'gifār' zurückgeht.",
+        "targetText": "Adjectivul german „gefährlich” derivă din substantivul 'Gefahr', care provine din germana mijlocie 'gevāre' și din germana veche înaltă 'gifār'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "periculos",
+    "definition": "Care prezintă un risc sau o amenințare.",
+    "pronunciation": "/pe.riˈku.los/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „periculos“ stammt vom lateinischen 'periculosus' ab, was 'gefährlich' bedeutet.",
+        "targetText": "Cuvântul românesc „periculos” provine din latină, de la 'periculosus', care înseamnă 'periculos' sau 'periculos'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "siguranță"
+    },
+    {
+      "sourceText": "Vorsicht",
+      "targetText": "prudență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ungefährlich",
+      "targetText": "inofensiv"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist ein gefährlicher Weg.",
+      "targetText": "Aceasta este o cale periculoasă."
+    },
+    {
+      "sourceText": "Sei vorsichtig, das ist gefährlich!",
+      "targetText": "Fii atent, este periculos!"
+    },
+    {
+      "sourceText": "Gefährliche Tiere leben hier.",
+      "targetText": "Animale periculoase trăiesc aici."
+    },
+    {
+      "sourceText": "Das Auto fährt sehr gefährlich.",
+      "targetText": "Mașina conduce foarte periculos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'periculos' klingt wie 'Peri-Klos' – stell dir vor, ein gefährlicher Peri (Fee) schließt (klose) Türen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort stammt direkt aus dem Lateinischen, ähnlich wie das deutsche 'peril' (Gefahr), was dir beim Merken hilft."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-os' ist typisch für rumänische Adjektive und hilft dir, 'periculos' als Eigenschaftswort zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'periculos' oft für Situationen oder Dinge verwendet wird, die ein Risiko darstellen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

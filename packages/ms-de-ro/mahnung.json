@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-mahnung",
+  "parent": "ms-ro-avertisment-5be3ba61@abf36302e2d0280f9a004e8f7ba3caeb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mahnung",
+    "genus": "feminine",
+    "definition": "Eine formelle Aufforderung, eine Verpflichtung zu erfüllen, oft im Zusammenhang mit unbezahlten Rechnungen oder Pflichten.",
+    "pronunciation": "/ˈmaːnʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Mahnung“ stammt vom Verb „mahnen“ ab, das aus dem althochdeutschen 'manen' kommt und 'erinnern' oder 'warnen' bedeutet. Es ist verwandt mit dem lateinischen 'monere', was 'ermahnen' heißt.",
+        "targetText": "Substantivul german „Mahnung” derivă din verbul „mahnen”, care provine din germana veche înaltă 'manen' și înseamnă 'a aminti' sau 'a avertiza'. Este înrudit cu latinescul 'monere', care înseamnă 'a avertiza'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avertisment",
+    "genus": "neuter",
+    "definition": "O notificare formală care solicită îndeplinirea unei obligații, adesea legată de plăți restante sau alte datorii.",
+    "pronunciation": "/a.versˈtis.mɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „avertisment“ stammt vom französischen 'avertissement' ab, das wiederum vom Verb 'avertir' kommt, welches aus dem lateinischen 'advertere' (hinwenden, aufmerksam machen) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „avertisment” provine din francezul 'avertissement', derivat din verbul 'avertir', care la rândul său vine din latinescul 'advertere' (a întoarce spre, a atrage atenția)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erinnerung",
+      "targetText": "amintire"
+    },
+    {
+      "sourceText": "Forderung",
+      "targetText": "cerere"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    },
+    {
+      "sourceText": "Warnung",
+      "targetText": "avertizare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Freistellung",
+      "targetText": "scutire"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Mahnung wurde per Post verschickt.",
+      "targetText": "Avertismentul a fost trimis prin poștă."
+    },
+    {
+      "sourceText": "Nach der ersten Mahnung folgt oft eine zweite.",
+      "targetText": "După primul avertisment urmează adesea un al doilea."
+    },
+    {
+      "sourceText": "Die Mahnung erinnert an die ausstehende Zahlung.",
+      "targetText": "Avertismentul amintește de plata restantă."
+    },
+    {
+      "sourceText": "Er erhielt eine Mahnung wegen verspäteter Rückgabe.",
+      "targetText": "A primit un avertisment din cauza întoarcerii întârziate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische Wort „avertissement“ ist der Ursprung von „avertisment“ – wenn du Französisch kennst, hilft dir das beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚advertere‘ bedeutet ‚hinwenden‘ oder ‚aufmerksam machen‘ – genau das macht eine Mahnung: Sie wendet deine Aufmerksamkeit auf eine Verpflichtung."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „avertisment“ klingt ähnlich wie das deutsche „Achtung“ und erinnert an eine Warnung oder Erinnerung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bekommst eine E-Mail mit dem Betreff „AVERTISMENT“ – das ist wie eine Mahnung, die dich aufmerksam macht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wohnblock",
+  "parent": "ms-ro-bloc-de-locuinte-a4836a71@aebeb65b7eead83877549b1bf0e26f6c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wohnblock",
+    "genus": "masculine",
+    "definition": "Ein großes, meist mehrstöckiges Gebäude, das viele Wohnungen enthält und in dem viele Menschen wohnen.",
+    "pronunciation": "/ˈvoːnˌblɔk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wohnblock“ setzt sich aus den Wörtern 'wohnen' und 'Block' zusammen. 'Block' stammt vom mittelhochdeutschen 'bloc' ab, entlehnt aus dem Französischen 'bloc', was 'Klumpen' oder 'Block' bedeutet.",
+        "targetText": "Cuvântul german „Wohnblock” este compus din „wohnen” (a locui) și „Block” (bloc), care provine din francezul vechi 'bloc', însemnând 'bucată' sau 'bloc'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bloc de locuințe",
+    "genus": "neuter",
+    "definition": "O clădire mare, de obicei cu mai multe etaje, care conține multe apartamente și în care locuiesc mulți oameni.",
+    "pronunciation": "/blok de loˈkwin.t͡se/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bloc” stammt aus dem Französischen 'bloc', das seinerseits aus dem Mittelhochdeutschen 'bloc' entlehnt wurde und 'Block' oder 'Klumpen' bedeutet. 'Locuințe' kommt vom lateinischen 'locare' (platzieren, wohnen).",
+        "targetText": "Cuvântul românesc „bloc” provine din francezul 'bloc', împrumutat din germana veche 'bloc', însemnând 'bloc' sau 'bucată'. „Locuințe” derivă din latină, de la 'locare', care înseamnă a plasa sau a locui."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Mehrfamilienhaus",
+      "targetText": "casă multifamilială"
+    },
+    {
+      "sourceText": "Mietwohnung",
+      "targetText": "apartament de închiriat"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Einfamilienhaus",
+      "targetText": "casă unifamilială"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Wohnblock steht in der Nähe des Parks.",
+      "targetText": "Blocul de locuințe se află în apropierea parcului."
+    },
+    {
+      "sourceText": "Viele Familien leben in diesem Wohnblock.",
+      "targetText": "Multe familii locuiesc în acest bloc de locuințe."
+    },
+    {
+      "sourceText": "Der Wohnblock hat zehn Stockwerke.",
+      "targetText": "Blocul de locuințe are zece etaje."
+    },
+    {
+      "sourceText": "Im Wohnblock gibt es einen Aufzug.",
+      "targetText": "În blocul de locuințe există un lift."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'locuințe' erinnert an 'loc' (Ort). Ein 'bloc de locuințe' ist also ein 'Ort zum Wohnen' – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'bloc' im Rumänischen klingt fast wie das deutsche 'Block'. Stell dir einen großen 'Block' vor, in dem viele Wohnungen sind – so merkst du dir 'bloc de locuințe'."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das französische Wort 'bloc', das auch im Deutschen vorkommt. So kannst du dir merken, dass 'bloc' im Rumänischen für ein großes Gebäude steht."
+    },
+    {
+      "lang": "de",
+      "text": "Wohnblock = Wohn + Block. Im Rumänischen ist es ähnlich: 'bloc' (Block) + 'locuințe' (Wohnungen). Die Struktur hilft dir, das Wort zu verstehen und zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-ausschliessen",
+  "parent": "ms-ro-a-exclude-ab89db18@767a98af734fd400356d0a9f73ccf3c0",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausschließen",
+    "definition": "etwas oder jemanden von etwas fernhalten oder nicht teilnehmen lassen",
+    "pronunciation": "/ˈaʊsˌʃliːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausschließen“ setzt sich aus „aus“ und „schließen“ zusammen. „Schließen“ stammt vom mittelhochdeutschen „sližen“ und bedeutet „verschließen“ oder „abschließen“.",
+        "targetText": "Verbul german „ausschließen“ provine din „aus“ + „schließen“ (a închide), indicând excluderea cuiva sau ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Verwendet, wenn jemand von etwas ausgeschlossen wird, z.B. von einer Gruppe."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a exclude",
+    "definition": "a ține pe cineva sau ceva departe de ceva sau a nu permite participarea",
+    "pronunciation": "/a eksˈklude/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a exclude“ stammt vom lateinischen „excludere“, was „ausschließen“ oder „ausgrenzen“ bedeutet. Es beschreibt das Fernhalten oder Nichtzulassen von Personen oder Dingen.",
+        "targetText": "Verbul român „a exclude“ derivă din lat. „excludere“, însemnând a ține pe cineva departe sau a nu permite participarea."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Oft im gesellschaftlichen Kontext verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "a exclude (Mitglied von einer Gruppe)",
+      "explanation": {
+        "sourceText": "Dies bezieht sich auf die Exklusion von Personen aus sozialen Gruppen.",
+        "targetText": "Se referă la excluderea persoanelor din grupuri sociale."
+      },
+      "examples": [
+        {
+          "sourceText": "Er schließt die Mitglieder aus.",
+          "targetText": "El exclude membrii."
+        }
+      ]
+    },
+    {
+      "gloss": "a exclude (Teil einer Möglichkeit)",
+      "explanation": {
+        "sourceText": "In diesem Kontext bedeutet es, bestimmte Optionen nicht in Betracht zu ziehen.",
+        "targetText": "În acest context, înseamnă a nu lua în considerare anumite opțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir schließen alle Möglichkeiten aus.",
+          "targetText": "Noi excludem toate posibilitățile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gruppe",
+      "targetText": "grup"
+    },
+    {
+      "sourceText": "Person",
+      "targetText": "persoană"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "Zugang",
+      "targetText": "acces"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einschließen",
+      "targetText": "a include"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schließe dich aus.",
+      "targetText": "Te exclud."
+    },
+    {
+      "sourceText": "Schließt du sie aus?",
+      "targetText": "O excluzi?"
+    },
+    {
+      "sourceText": "Er schließt die Mitglieder aus.",
+      "targetText": "El exclude membrii."
+    },
+    {
+      "sourceText": "Wir schließen alle Möglichkeiten aus.",
+      "targetText": "Noi excludem toate posibilitățile."
+    },
+    {
+      "sourceText": "Schließt ihr die Chancen aus?",
+      "targetText": "Excludeti oportunitățile?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schließen den Zugang aus.",
+      "targetText": "Ei exclud accesul."
+    },
+    {
+      "sourceText": "Ich habe ihn ausgeschlossen.",
+      "targetText": "L-am exclus."
+    },
+    {
+      "sourceText": "Sie schlossen mich oft aus.",
+      "targetText": "Ei mă excluzau adesea."
+    },
+    {
+      "sourceText": "Ich werde dich ausschließen.",
+      "targetText": "Te voi exclude."
+    },
+    {
+      "sourceText": "Ich würde das Angebot ausschließen.",
+      "targetText": "Aș exclude oferta."
+    },
+    {
+      "sourceText": "Schließe das aus!",
+      "targetText": "Exclu acest lucru!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A exclude“ klingt wie „aus-schließen“ – stelle dir vor, wie du jemanden aus einer Gruppe ausschließt, indem du die Tür schließt."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a exclude“ nicht nur Türen schließt, sondern auch Leute oder Möglichkeiten ausschließt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung -e bei „excludem“ (wir schließen aus) – sie klingt ähnlich wie das deutsche „aus“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

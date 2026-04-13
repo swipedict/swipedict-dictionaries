@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kontoauszug",
+  "parent": "ms-ro-extras-de-cont-96426a3c@6e27bea7f3f1c87b01aba7518628f6b3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kontoauszug",
+    "genus": "masculine",
+    "definition": "Ein offizielles Dokument, das die Transaktionen und den Kontostand eines Bankkontos über einen bestimmten Zeitraum auflistet.",
+    "pronunciation": "/ˈkɔntoˌaʊ̯sˌtsuːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Kontoauszug“ setzt sich aus dem italienischen 'conto' (Rechnung) und dem deutschen 'Auszug' (Auszug, Auszug aus einem Dokument) zusammen. 'Konto' wurde im Deutschen aus dem Italienischen entlehnt, das wiederum vom lateinischen 'computus' (Berechnung) abstammt.",
+        "targetText": "Cuvântul german „Kontoauszug” este compus din italianul 'conto' (cont, calcul) și germanul 'Auszug' (extras). 'Konto' a fost împrumutat în germană din italiană, care provine din latinul 'computus' (calcul)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "extras de cont",
+    "genus": "neuter",
+    "definition": "Un document oficial care listează tranzacțiile și soldul unui cont bancar pentru o anumită perioadă.",
+    "pronunciation": "/eksˈtras de kont/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'extras' stammt vom lateinischen Partizip 'extractus' ab, was 'herausgezogen' oder 'ausgezogen' bedeutet. 'Cont' kommt vom lateinischen 'computus', das 'Berechnung' bedeutet.",
+        "targetText": "Cuvântul românesc 'extras' provine din participiul latin 'extractus', care înseamnă 'extras' sau 'scos afară'. 'Cont' provine din latinul 'computus', care înseamnă 'calcul'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bankkonto",
+      "targetText": "cont bancar"
+    },
+    {
+      "sourceText": "Konto",
+      "targetText": "cont"
+    },
+    {
+      "sourceText": "Saldo",
+      "targetText": "sold"
+    },
+    {
+      "sourceText": "Überweisung",
+      "targetText": "transfer bancar"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe meinen Kontoauszug online heruntergeladen.",
+      "targetText": "Am descărcat extrasul de cont online."
+    },
+    {
+      "sourceText": "Der Kontoauszug zeigt alle Buchungen des letzten Monats.",
+      "targetText": "Extrasul de cont arată toate tranzacțiile din ultima lună."
+    },
+    {
+      "sourceText": "Bitte überprüfen Sie Ihren Kontoauszug sorgfältig.",
+      "targetText": "Vă rugăm să verificați cu atenție extrasul de cont."
+    },
+    {
+      "sourceText": "Der Kontoauszug wird monatlich von der Bank verschickt.",
+      "targetText": "Extrasul de cont este trimis lunar de bancă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'extras' klingt wie 'extract' im Englischen, was 'herausziehen' bedeutet – genau wie ein Auszug aus einem Konto."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an die monatliche Bankübersicht: Du bekommst einen 'Kontoauszug' – auf Rumänisch 'extras de cont' – ein 'herausgezogener' Überblick über dein Konto."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du ziehst (ausziehen) einen Auszug (ein Stück) aus deinem Konto heraus – so merkst du dir 'Auszug' im Wort 'Kontoauszug'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'cont' mit dem deutschen Wort 'Konto' – beide stammen vom lateinischen 'computus' und bedeuten 'Rechnung' oder 'Berechnung'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

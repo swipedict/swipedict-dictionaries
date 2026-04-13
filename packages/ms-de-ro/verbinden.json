@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-verbinden",
+  "parent": "ms-ro-a-conecta-06165eb0@b91845337ad0885e5515a4abf5081836",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verbinden",
+    "definition": "Etwas zusammenfügen oder in Beziehung setzen.",
+    "pronunciation": "/fɛɐ̯ˈbɪndn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „verbinden“ stammt vom mittelhochdeutschen 'verbinden' ab, zusammengesetzt aus 'ver-' und 'binden', das auf die germanische Wurzel *bindan zurückgeht.",
+        "targetText": "Verbul german „verbinden” provine din germana mijlocie 'verbinden', format din prefixul 'ver-' și verbul 'binden', care derivă din rădăcina germanică *bindan."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a conecta",
+    "definition": "A uni două sau mai multe lucruri sau a stabili o legătură între ele.",
+    "pronunciation": "/a konˈnekta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a conecta“ stammt vom lateinischen 'connectere' ab, das 'zusammenbinden' oder 'verbinden' bedeutet.",
+        "targetText": "Verbul românesc „a conecta” provine din latinescul 'connectere', care înseamnă 'a lega împreună' sau 'a conecta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 1. Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anschließen",
+      "targetText": "a atașa"
+    },
+    {
+      "sourceText": "Netzwerk",
+      "targetText": "rețea"
+    },
+    {
+      "sourceText": "Verbindung",
+      "targetText": "conexiune"
+    },
+    {
+      "sourceText": "verbunden",
+      "targetText": "conectat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trennen",
+      "targetText": "a separa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verbinde die Kabel miteinander.",
+      "targetText": "Conectez cablurile între ele."
+    },
+    {
+      "sourceText": "Ich habe die Geräte verbunden.",
+      "targetText": "Am conectat aparatele."
+    },
+    {
+      "sourceText": "Er verband die Drähte sorgfältig.",
+      "targetText": "El conecta firele cu grijă."
+    },
+    {
+      "sourceText": "Wir werden die Systeme verbinden.",
+      "targetText": "Vom conecta sistemele."
+    },
+    {
+      "sourceText": "Verbinde die Teile richtig!",
+      "targetText": "Conectează piesele corect!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'connectere' ist die Wurzel, also ist 'a conecta' ein direkter Verwandter vieler europäischer Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a conecta' klingt wie das englische 'connect', was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung '-a' als typisches Zeichen für rumänische Verben der 1. Konjugation."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'connectest' zwei Dinge, genau wie im Deutschen 'verbinden'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

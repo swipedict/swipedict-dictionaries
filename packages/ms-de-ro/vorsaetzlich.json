@@ -1,0 +1,121 @@
+{
+  "id": "ms-de-ro-vorsaetzlich",
+  "parent": "ms-ro-intentionat-964c2ff4@6d6b564db8c4299cef9197c4f7c3e22a",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vorsätzlich",
+    "definition": "mit Absicht oder Ziel; nicht zufällig",
+    "pronunciation": "/ˈfoːɐˌzɛt͡sɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „vorsätzlich“ setzt sich aus „vor“ und „setzen“ zusammen und bedeutet „vorher festgelegt“. Es stammt vom mittelhochdeutschen „vorsetze“.",
+        "targetText": "Cuvântul „vorsätzlich“ provine din combinația dintre „vor“ și „setzen“, însemnând „stabilit înainte“, derivat din germana mijlocie „vorsetze“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es ist häufig in rechtlichen und strafrechtlichen Kontexten zu finden, um den Unterschied zwischen Absicht und Fahrlässigkeit zu verdeutlichen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "intenționat",
+    "genus": "adjective",
+    "definition": "cu scop sau obiectiv; nu întâmplător",
+    "pronunciation": "/in.ten.t͡si.oˈnat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „intentionatus“ abgeleitet, was „absichtlich“ oder „mit Absicht“ bedeutet. Das Wort wird häufig in juristischen Kontexten verwendet.",
+        "targetText": "Derivat din latină „intentionatus“, care înseamnă „intenționat“ sau „cu scop“. Folosit frecvent în contexte juridice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein Schlüsselbegriff zur Unterscheidung von absichtlichem und fahrlässigem Handeln."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Absicht",
+      "targetText": "intenție"
+    },
+    {
+      "sourceText": "Handlung",
+      "targetText": "acțiune"
+    },
+    {
+      "sourceText": "Plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unabsichtlich",
+      "targetText": "neintenționat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er handelte vorsätzlich und wusste, was er tat.",
+      "targetText": "A acționat intenționat și știa ce face."
+    },
+    {
+      "sourceText": "Vorsätzliche Handlungen sind meist strafbar.",
+      "targetText": "Acțiunile intenționate sunt de obicei pedepsite de lege."
+    },
+    {
+      "sourceText": "Die vorsätzliche Täuschung wurde entdeckt.",
+      "targetText": "Înșelăciunea intenționată a fost descoperită."
+    },
+    {
+      "sourceText": "Er hat vorsätzlich gegen die Regeln verstoßen.",
+      "targetText": "A încălcat intenționat regulile."
+    },
+    {
+      "sourceText": "Das vorsätzliche Verhalten wird untersucht.",
+      "targetText": "Comportamentul intenționat este investigat."
+    },
+    {
+      "sourceText": "Jede vorsätzliche Handlung hat ihre Konsequenzen.",
+      "targetText": "Fiecare acțiune intenționată are consecințele ei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort klingt ähnlich wie „intensiv“ – denk an eine intensive, bewusste Handlung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „vorsätzlich“ als das Gegenteil von „unabsichtlich“ – auf Rumänisch „intenționat“ vs. „neintenționat“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand plant eine „vorsätzliche“ Aktion – das hilft, die Bedeutung von „intenționat“ zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „intenționat“ mit dem deutschen Wort „Intention“ – beide zeigen, dass etwas bewusst und geplant ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

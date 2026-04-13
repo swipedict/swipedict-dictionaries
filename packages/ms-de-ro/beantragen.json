@@ -1,0 +1,194 @@
+{
+  "id": "ms-de-ro-beantragen",
+  "parent": "ms-ro-a-solicita-f418b087@04a12f7491e1c6f28e8b9fc6767c8a14",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "beantragen",
+    "definition": "einen Antrag stellen, um etwas zu erhalten",
+    "pronunciation": "/beˈanˌtʁaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich aus „be-“, einer Präfix und „antragen“, was „eintragen, in Auftrag geben“ bedeutet. Letzteres stammt vom mittelhochdeutschen „antragan“.",
+        "targetText": "Das deutsche Verb „beantragen“ besteht aus der Vorsilbe „be-“ und „antragen“, das vom mittelhochdeutschen „antragan“ stammt und „einreichen“ bedeutet."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, um Anträge auf Dokumente, Genehmigungen oder Leistungen zu stellen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a solicita",
+    "definition": "a face o cerere pentru a obține ceva",
+    "pronunciation": "/a so.liˈci.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „a solicita“ stammt vom lateinischen „sollicitare“, was „dringend bitten“ oder „anfordern“ bedeutet. Abgeleitet von „sollicitus“, was „besorgt“ oder „unruhig“ bedeutet.",
+        "targetText": "Cuvântul românesc „a solicita“ provine din latinul „sollicitare“, care înseamnă „a cere cu insistență“ sau „a solicita“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft in administrativen Verfahren oder zur Beantragung von Dienstleistungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Anforderung",
+      "explanation": {
+        "sourceText": "Das Wort bezieht sich auch auf das Anfordern von Dienstleistungen.",
+        "targetText": "Se referă și la solicitarea unor servicii."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe die Anforderung eingereicht.",
+          "targetText": "Am depus solicitarea."
+        }
+      ]
+    },
+    {
+      "gloss": "Antrag stellen",
+      "explanation": {
+        "sourceText": "Verwendung im gleichen Kontext wie im Deutschen.",
+        "targetText": "Folosit în același context ca în germană."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss einen Antrag stellen.",
+          "targetText": "Trebuie să fac o cerere."
+        }
+      ]
+    },
+    {
+      "gloss": "Formular ausfüllen",
+      "explanation": {
+        "sourceText": "Das Ausfüllen eines Antragsformulars.",
+        "targetText": "Completarea unui formular de cerere."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fülle das Formular aus, um zu beantragen.",
+          "targetText": "Completez formularul pentru a solicita."
+        }
+      ]
+    },
+    {
+      "gloss": "um Unterstützung bitten",
+      "explanation": {
+        "sourceText": "Zur Beantragung von Unterstützung oder Hilfe.",
+        "targetText": "Pentru a cere sprijin sau ajutor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich beantrage Unterstützung.",
+          "targetText": "Solicit sprijin."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Antrag",
+      "targetText": "cerere"
+    },
+    {
+      "sourceText": "Büro",
+      "targetText": "birou"
+    },
+    {
+      "sourceText": "Dokument",
+      "targetText": "document"
+    },
+    {
+      "sourceText": "Genehmigung",
+      "targetText": "aprobat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ablehnen",
+      "targetText": "a refuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich beantrage eine Verlängerung.",
+      "targetText": "Eu solicit o prelungire."
+    },
+    {
+      "sourceText": "Beantragst du die Unterstützung?",
+      "targetText": "Soliciți sprijinul?"
+    },
+    {
+      "sourceText": "Er beantragt die Genehmigung.",
+      "targetText": "El solicită aprobarea."
+    },
+    {
+      "sourceText": "Wir beantragen das Visum.",
+      "targetText": "Noi solicităm viza."
+    },
+    {
+      "sourceText": "Beantragt ihr die Erlaubnis?",
+      "targetText": "Solicitați permisiunea?"
+    },
+    {
+      "sourceText": "Sie beantragen die finanziellen Mittel.",
+      "targetText": "Ei solicită fondurile financiare."
+    },
+    {
+      "sourceText": "Ich habe die Rückerstattung beantragt.",
+      "targetText": "Am solicitat restituirea."
+    },
+    {
+      "sourceText": "Sie beantragte die Mitgliedschaft.",
+      "targetText": "Ea solicita membrarea."
+    },
+    {
+      "sourceText": "Ich werde einen neuen Antrag beantragen.",
+      "targetText": "Voi solicita o nouă cerere."
+    },
+    {
+      "sourceText": "Ich würde die Informationen beantragen, falls nötig.",
+      "targetText": "Aș solicita informațiile, dacă este necesar."
+    },
+    {
+      "sourceText": "Beantrage die Rechnung!",
+      "targetText": "Solicită factura!"
+    },
+    {
+      "sourceText": "Der beantragte Urlaub wurde genehmigt.",
+      "targetText": "Vacanța solicitată a fost aprobată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Denk an „solicitare“ als Substantiv für Antrag – so merkst du dir das Verb „a solicita“ leichter."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du stellst einen Antrag und sagst „solicit“ – das hilft dir, die Verbindung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „beantragen“ mit „a solicita“ – beide bedeuten, etwas offiziell zu fordern oder zu bitten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

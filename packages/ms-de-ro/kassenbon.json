@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kassenbon",
+  "parent": "ms-ro-bon-fiscal-fee88dbe@27b36f71c20bb6a105a94ee565a47bcc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kassenbon",
+    "genus": "masculine",
+    "definition": "Ein Beleg oder Quittung, die beim Bezahlen an der Kasse ausgestellt wird und den Kauf dokumentiert.",
+    "pronunciation": "/ˈkasn̩bɔn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Kassenbon“ setzt sich aus „Kasse“ (vom mittelhochdeutschen 'kasse', entlehnt aus dem italienischen 'cassa' für 'Kasten, Geldkiste') und „Bon“ (aus dem französischen 'bon' für 'Gutschein, Beleg') zusammen.",
+        "targetText": "Cuvântul german „Kassenbon“ este compus din „Kasse“ (din germana mijlocie 'kasse', împrumutat din italiană 'cassa' însemnând 'cutie, casetă de bani') și „Bon“ (din franceza 'bon' însemnând 'bon, chitanță')."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bon fiscal",
+    "genus": "neuter",
+    "definition": "Un document emis la casă care confirmă plata și conține detalii despre cumpărare.",
+    "pronunciation": "/bon fisˈkal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „bon fiscal“ stammt aus dem Französischen, wobei „bon“ für 'Beleg' und „fiscal“ für 'steuerlich' steht, was die offizielle Natur des Dokuments betont.",
+        "targetText": "Expresia românească „bon fiscal“ provine din franceză, unde „bon“ înseamnă 'chitanță' și „fiscal“ înseamnă 'fiscal', subliniind caracterul oficial al documentului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beleg",
+      "targetText": "document justificativ"
+    },
+    {
+      "sourceText": "Kasse",
+      "targetText": "casă (de marcat)"
+    },
+    {
+      "sourceText": "Quittung",
+      "targetText": "chitanță"
+    },
+    {
+      "sourceText": "Rechnung",
+      "targetText": "factură"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Bitte bewahren Sie den Kassenbon auf, falls Sie die Ware zurückgeben möchten.",
+      "targetText": "Vă rugăm să păstrați bonul fiscal în caz că doriți să returnați produsul."
+    },
+    {
+      "sourceText": "Der Kassenbon zeigt den Gesamtpreis und die Mehrwertsteuer an.",
+      "targetText": "Bonul fiscal arată prețul total și taxa pe valoarea adăugată."
+    },
+    {
+      "sourceText": "Ohne Kassenbon ist eine Rückgabe oft nicht möglich.",
+      "targetText": "Fără bon fiscal, returnarea este adesea imposibilă."
+    },
+    {
+      "sourceText": "Der Kassierer druckte den Kassenbon nach dem Bezahlen aus.",
+      "targetText": "Casierul a tipărit bonul fiscal după plata cumpărăturilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Fiscal“ erinnert an das deutsche Wort 'Fiscal' (Steuerbeamter) – so merkst du dir, dass der Bon etwas mit Steuern und offiziellen Zahlungen zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „bon“ im Rumänischen ist direkt aus dem Französischen entlehnt und bedeutet 'Beleg' – denk an den französischen Café-Bon, den du bekommst."
+    },
+    {
+      "lang": "de",
+      "text": "Die Kombination „bon fiscal“ ist wie ein kleines offizielles Dokument, das du immer aufbewahren solltest – 'fiscal' macht es offiziell und verbindlich."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst zur Kasse und bekommst einen 'BON' – das klingt fast wie das deutsche Wort 'Bon', also leicht zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

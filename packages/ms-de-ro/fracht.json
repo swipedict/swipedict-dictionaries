@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fracht",
+  "parent": "ms-ro-marfa-d9c1f522@55932fdf6df106b1f89c2698a968c85a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fracht",
+    "genus": "feminine",
+    "definition": "Die transportierte Ware, meist Güter, die per Schiff, Flugzeug, Zug oder LKW befördert werden.",
+    "pronunciation": "/fraxt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fracht“ stammt vom mittelhochdeutschen 'vracht' ab, das auf das althochdeutsche 'fraht' zurückgeht, verwandt mit dem Verb 'fahren' und ursprünglich 'das Transportierte' bedeutete.",
+        "targetText": "Cuvântul german „Fracht” provine din germana mijlocie 'vracht', care la rândul său derivă din germana veche înaltă 'fraht', legat de verbul 'fahren' și însemnând inițial 'ceea ce este transportat'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "marfă",
+    "genus": "feminine",
+    "definition": "Bunuri transportate, în special prin mijloace precum navă, avion, tren sau camion.",
+    "pronunciation": "/ˈmar.fə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „marfă“ stammt vom spätlateinischen 'mercābia' ab, das 'Ware' oder 'Handelsgut' bedeutet und auf das lateinische 'mercātor' (Kaufmann) zurückgeht.",
+        "targetText": "Cuvântul românesc „marfă” provine din latină târzie 'mercābia', care înseamnă 'marfă' sau 'bun comercial', derivat din 'mercātor' (negustor)."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Güter",
+      "targetText": "bunuri"
+    },
+    {
+      "sourceText": "Lieferung",
+      "targetText": "livrare"
+    },
+    {
+      "sourceText": "Sendung",
+      "targetText": "expediere"
+    },
+    {
+      "sourceText": "Transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Fracht wurde pünktlich geliefert.",
+      "targetText": "Marfa a fost livrată la timp."
+    },
+    {
+      "sourceText": "Die Frachtkosten sind im Preis enthalten.",
+      "targetText": "Costurile de transport sunt incluse în preț."
+    },
+    {
+      "sourceText": "Die Fracht wurde per Schiff verschickt.",
+      "targetText": "Marfa a fost trimisă pe navă."
+    },
+    {
+      "sourceText": "Wir erwarten die Fracht morgen früh.",
+      "targetText": "Așteptăm marfa mâine dimineață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „marfă“ klingt ähnlich wie das deutsche Wort „Markt“, wo Waren gehandelt werden – so kannst du dir merken, dass es um transportierte Güter geht."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „marfă“ stammt vom lateinischen 'mercābia' ab, das mit Handel und Waren zu tun hat – ähnlich wie das deutsche Wort „Markt“."
+    },
+    {
+      "lang": "de",
+      "text": "Fracht = transportierte Ware; Marfă = transportate bunuri. Beide Wörter beziehen sich auf Dinge, die bewegt werden, also verbinde sie mit dem Bild eines LKWs voller Waren."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist auf einem Markt (Markt = marfă), wo viele Waren (Fracht) verkauft und transportiert werden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

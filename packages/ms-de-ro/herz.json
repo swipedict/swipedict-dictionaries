@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-herz",
+  "parent": "ms-ro-inima-87a5d6ee@3e70479ab5a2cdd0326f8f529c1b8cb3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Herz",
+    "genus": "neuter",
+    "definition": "Das zentrale Organ des Kreislaufsystems, das Blut durch den Körper pumpt und oft als Symbol für Gefühle und Liebe verwendet wird.",
+    "pronunciation": "/hɛrts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Herz“ stammt vom althochdeutschen 'herza' ab, das auf die urgermanische Wurzel *hertan zurückgeht, verwandt mit dem englischen 'heart' und dem lateinischen 'cor'.",
+        "targetText": "Cuvântul german „Herz” provine din vechiul german înalt 'herza', care derivă din rădăcina urgermanică *hertan, înrudit cu englezescul 'heart' și latinul 'cor'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "inimă",
+    "genus": "feminine",
+    "definition": "Organul central al sistemului circulator, care pompează sângele prin corp, folosit și ca simbol al sentimentelor și iubirii.",
+    "pronunciation": "/iˈnimə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „inimă“ stammt vom lateinischen 'anima' ab, das 'Seele' oder 'Lebenskraft' bedeutet. Im Laufe der Zeit entwickelte sich die Bedeutung zu 'Herz' als lebenswichtiges Organ und Symbol.",
+        "targetText": "Cuvântul românesc „inimă” provine din latină, din 'anima', care înseamnă 'suflet' sau 'forță vitală'. În timp, sensul a evoluat spre 'inimă' ca organ vital și simbol."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Blut",
+      "targetText": "sânge"
+    },
+    {
+      "sourceText": "Gefühl",
+      "targetText": "sentiment"
+    },
+    {
+      "sourceText": "Kreislauf",
+      "targetText": "circulație"
+    },
+    {
+      "sourceText": "Liebe",
+      "targetText": "dragoste"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Herz pumpt das Blut durch den Körper.",
+      "targetText": "Inima pompează sângele prin corp."
+    },
+    {
+      "sourceText": "Er hat ein großes Herz und hilft immer anderen.",
+      "targetText": "El are o inimă mare și ajută mereu pe alții."
+    },
+    {
+      "sourceText": "Mein Herz schlägt schnell vor Aufregung.",
+      "targetText": "Inima îmi bate repede de emoție."
+    },
+    {
+      "sourceText": "Sie schenkte ihm ihr Herz.",
+      "targetText": "Ea i-a dăruit inima ei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Herz' und das englische 'heart' sind verwandt, aber das rumänische 'inimă' kommt vom lateinischen 'anima' – so kannst du die Besonderheit der rumänischen Sprache besser verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „inimă“ klingt wie „in ihm“, stell dir vor, das Herz ist 'in ihm' drin – so merkst du dir das Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische Wort 'anima' (Seele), aus dem 'inimă' stammt – das Herz ist nicht nur ein Organ, sondern auch der Sitz der Lebenskraft."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, dein Herz ist eine kleine 'Insel' (ähnlich wie 'inimă'), die das Leben in deinem Körper bewahrt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

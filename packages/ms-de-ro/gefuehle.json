@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-gefuehle",
+  "parent": "ms-ro-sentiment-4372fd2b@8c133003ddef2ae475c36d16edc8031f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gefühle",
+    "genus": "neuter",
+    "definition": "Innere Empfindungen oder emotionale Zustände, die Menschen erleben.",
+    "pronunciation": "/ɡəˈfyːlə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Gefühl“ stammt vom mittelhochdeutschen 'gevüele', abgeleitet von 'fühlen', das auf das althochdeutsche 'fuolen' zurückgeht.",
+        "targetText": "Cuvântul „Gefühl” provine din germana mijlocie înaltă 'gevüele', derivat din verbul 'fühlen', care la rândul său vine din germana veche înaltă 'fuolen'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sentiment",
+    "genus": "neuter",
+    "definition": "O stare emoțională sau o senzație interioară pe care o experimentează o persoană.",
+    "pronunciation": "/senˈtimɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sentiment“ stammt aus dem Französischen 'sentiment', das vom lateinischen 'sentire' (fühlen) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „sentiment” provine din franceza 'sentiment', derivat din latină 'sentire', care înseamnă 'a simți'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Emotion",
+      "targetText": "emoție"
+    },
+    {
+      "sourceText": "Empfindung",
+      "targetText": "senzație"
+    },
+    {
+      "sourceText": "Gefühl haben",
+      "targetText": "a avea sentiment"
+    },
+    {
+      "sourceText": "Stimmung",
+      "targetText": "dispoziție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gefühllosigkeit",
+      "targetText": "insensibilitate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie zeigte ihre Gefühle offen.",
+      "targetText": "Ea și-a arătat sentimentele deschis."
+    },
+    {
+      "sourceText": "Gefühle können sehr unterschiedlich sein.",
+      "targetText": "Sentimentele pot fi foarte diferite."
+    },
+    {
+      "sourceText": "Manchmal versteht man die eigenen Gefühle nicht.",
+      "targetText": "Uneori nu înțelegi propriile sentimente."
+    },
+    {
+      "sourceText": "Gefühle beeinflussen unser Verhalten.",
+      "targetText": "Sentimentele ne influențează comportamentul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Gefühl' und das rumänische 'sentiment' drücken beide innere Empfindungen aus."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'sentiment' klingt wie das französische 'sentiment' – beide stammen vom lateinischen 'sentire' (fühlen)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'sentiment' endet auf '-ment', ein häufiges Suffix für abstrakte Substantive im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'sinnst' tief nach und spürst deine 'sentimente' – so merkst du dir das Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

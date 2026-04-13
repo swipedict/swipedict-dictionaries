@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-arzt",
+  "parent": "ms-ro-doctor-1fc0f36a@a85c15acae46b9b823f83c88abf10cb2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arzt",
+    "genus": "masculine",
+    "definition": "Eine Person, die medizinisch ausgebildet ist und Krankheiten behandelt.",
+    "pronunciation": "/aʁtst/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Arzt“ stammt vom althochdeutschen 'arzzt' ab, das auf das lateinische 'ars' (Kunst, Fertigkeit) zurückgeht und sich auf die Heilkunde bezieht.",
+        "targetText": "Cuvântul german „Arzt” provine din germana veche înaltă 'arzzt', derivat din latinul 'ars' (artă, îndemânare), referindu-se la medicina."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "doctor",
+    "genus": "masculine",
+    "definition": "O persoană calificată medical, care tratează boli.",
+    "pronunciation": "/dokˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „doctor“ stammt vom lateinischen 'doctor' ab, was 'Lehrer' oder 'Gelehrter' bedeutet und später für medizinische Ärzte verwendet wurde.",
+        "targetText": "Cuvântul românesc „doctor” provine din latinul 'doctor', care înseamnă 'profesor' sau 'învățat', folosit ulterior pentru medici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Behandlung",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "Krankenhaus",
+      "targetText": "spital"
+    },
+    {
+      "sourceText": "Medizin",
+      "targetText": "medicină"
+    },
+    {
+      "sourceText": "Patient",
+      "targetText": "pacient"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Arzt untersucht den Patienten.",
+      "targetText": "Doctorul examinează pacientul."
+    },
+    {
+      "sourceText": "Ich habe morgen einen Termin beim Arzt.",
+      "targetText": "Am o programare la doctor mâine."
+    },
+    {
+      "sourceText": "Der Arzt verschreibt Medikamente.",
+      "targetText": "Doctorul prescrie medicamente."
+    },
+    {
+      "sourceText": "Ein guter Arzt hört gut zu.",
+      "targetText": "Un doctor bun ascultă bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'doctor' ist fast identisch mit dem deutschen 'Doktor' – beide stammen aus dem Lateinischen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'doctor' ursprünglich 'Lehrer' bedeutete, heute aber für medizinische Ärzte verwendet wird."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Arzt ist ein 'Doktor', der Wissen und Heilung bringt – so bleibt das Wort leicht im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'doctor' mit dem deutschen Wort 'Doktor' und dem englischen 'doctor' – alle sind ähnlich und bedeuten Arzt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "ms-de-ro-auftragen",
+  "parent": "ms-ro-a-aplica-ce37ab5e@8fd921d51c0d3054682e14ec35b7854f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "auftragen",
+    "definition": "jemandem eine Aufgabe oder einen Auftrag geben",
+    "pronunciation": "/ˈaʊ̯fˌtʁaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „auftragen“ setzt sich aus dem Präfix „auf-“, was eine Bewegung hin zu oder eine Veränderung bedeutet, und dem Verb „tragen“, das von „trāgan“ abstammt, welches im Althochdeutschen „tragen, bringen, führen“ bedeutete. Das Verb beschreibt das Aufbringen einer Schicht oder einer Substanz auf eine Fläche.",
+        "targetText": "Das deutsche Verb „auftragen“ kombiniert „auf-“ mit „tragen“ (vom althochdeutschen „trāgan“), ursprünglich „etwas auf eine Fläche bringen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet in vielen Kontexten, wie z.B. im Handwerk, in der Kosmetik oder in der Malerei."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a aplica",
+    "definition": "a da cuiva o sarcină sau un mandat",
+    "pronunciation": "/a aˈpli.ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a aplica“ kommt vom lateinischen „applicare“, was „anzuwenden, anbringen“ bedeutet. Es beschreibt die Handlung des Anbringens oder Aufbringens von etwas.",
+        "targetText": "Verbul românesc „a aplica“ provine din latină, de la „applicare“, care înseamnă „a aplica“ sau „a atașa“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in technischen, kosmetischen und medizinischen Zusammenhängen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Aufgabe",
+      "explanation": {
+        "sourceText": "Das bedeutet eine zu erfüllende Aufgabe.",
+        "targetText": "Înseamnă o sarcină care trebuie îndeplinită."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe eine Aufgabe aufgetragen.",
+          "targetText": "Am dat o sarcină."
+        }
+      ]
+    },
+    {
+      "gloss": "auftragender",
+      "explanation": {
+        "sourceText": "Eine Person, die den Auftrag gibt.",
+        "targetText": "O persoană care dă sarcina."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Auftraggeber hat mich beauftragt.",
+          "targetText": "Împuternicitul m-a însărcinat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Auftrag",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "Befehl",
+      "targetText": "ordin"
+    },
+    {
+      "sourceText": "Verantwortung",
+      "targetText": "responsabilitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abziehen",
+      "targetText": "a retrage"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trage die Farbe auf.",
+      "targetText": "Eu aplic culoarea."
+    },
+    {
+      "sourceText": "Trägst du das Öl auf?",
+      "targetText": "Aplici uleiul?"
+    },
+    {
+      "sourceText": "Er trägt die Creme auf.",
+      "targetText": "El aplică crema."
+    },
+    {
+      "sourceText": "Wir tragen den Lack auf.",
+      "targetText": "Noi aplicăm vopseaua."
+    },
+    {
+      "sourceText": "Tragt ihr die Folie auf?",
+      "targetText": "Aplicati folia?"
+    },
+    {
+      "sourceText": "Sie tragen das Material auf.",
+      "targetText": "Ei aplică materialul."
+    },
+    {
+      "sourceText": "Ich habe die Farbe aufgetragen.",
+      "targetText": "Am aplicat culoarea."
+    },
+    {
+      "sourceText": "Sie haben das Öl aufgetragen.",
+      "targetText": "Au aplicat uleiul."
+    },
+    {
+      "sourceText": "Er trug die Schicht auf.",
+      "targetText": "El aplica stratul."
+    },
+    {
+      "sourceText": "Ich hatte die Farbe bereits aufgetragen.",
+      "targetText": "Aplicasem deja culoarea."
+    },
+    {
+      "sourceText": "Ich werde die Creme auftragen.",
+      "targetText": "Voi aplica crema."
+    },
+    {
+      "sourceText": "Er wird die Folie auftragen.",
+      "targetText": "El o să aplice folia."
+    },
+    {
+      "sourceText": "Ich würde die Farbe auftragen, wenn ich Zeit hätte.",
+      "targetText": "Aș aplica culoarea dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist nötig, dass du die Schicht aufträgst.",
+      "targetText": "Este necesar să aplici stratul."
+    },
+    {
+      "sourceText": "Trage auf!",
+      "targetText": "Aplică!"
+    },
+    {
+      "sourceText": "Tragt auf!",
+      "targetText": "Aplicati!"
+    },
+    {
+      "sourceText": "Das aufgetragene Material ist schon trocknen.",
+      "targetText": "Materialul aplicat este deja uscat."
+    },
+    {
+      "sourceText": "Auftragend, konnte er nicht aufhören.",
+      "targetText": "Aplicând, nu a putut să se oprească."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „aplica“ wird auch für Bewerbungen verwendet – denk daran, dass du „etwas aufträgst“ oder „anwendest“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „auftragen“ kann sowohl eine Schicht auftragen als auch eine Aufgabe übertragen – das rumänische „a aplica“ passt perfekt dazu."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du Farbe aufträgst – so kannst du die Bedeutung von „auftragen“ und „a aplica“ gut verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

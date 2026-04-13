@@ -1,0 +1,205 @@
+{
+  "id": "ms-de-ro-reden",
+  "parent": "ms-ro-a-vorbi-960603c4@c50ab6ba8274715f668b5a18aa9ae8f5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "reden",
+    "definition": "Gespräche führen oder Worte sprechen",
+    "pronunciation": "/ˈʁeːdən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „reden“ stammt vom mittelhochdeutschen „reden“, was „sich mitteilen“ bedeutet.",
+        "targetText": "Verbul german „reden“ provine din germana mijlocie „reden“, care înseamnă „a se exprima“."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Regelmäßiges Verb. Weit verbreitet als alltäglicher Ausdruck für Kommunikation."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vorbi",
+    "definition": "a desfășura o conversație sau a rosti cuvinte",
+    "pronunciation": "/a vorˈbi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a vorbi“ stammt vom lateinischen „verbum“ (Wort) ab und entwickelte sich im Laufe der Zeit zu einem Verb für das Sprechen oder Reden.",
+        "targetText": "Verbul românesc „a vorbi“ derivă din latinescul „verbum“ (cuvânt) și a evoluat pentru a desemna acțiunea de a vorbi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Sehr gebräuchlich in Alltagssituationen, um Ausdrücke und Gedanken auszudrücken."
+  },
+  "senses": [
+    {
+      "gloss": "Diskussion",
+      "explanation": {
+        "sourceText": "Eine tiefere Unterredung über Themen.",
+        "targetText": "O discuție aprofundată despre anumite subiecte."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir diskutieren die Probleme.",
+          "targetText": "Discutăm problemele."
+        }
+      ]
+    },
+    {
+      "gloss": "Gespräch",
+      "explanation": {
+        "sourceText": "Verwendet, um eine formelle oder informelle Unterhaltung zu beschreiben.",
+        "targetText": "Folosit pentru a descrie o conversație formală sau informală."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir hatten ein gutes Gespräch.",
+          "targetText": "Am avut o conversație bună."
+        }
+      ]
+    },
+    {
+      "gloss": "Rede",
+      "explanation": {
+        "sourceText": "Ein strukturierter verbaler Ausdruck, oft in einem offiziellen Rahmen.",
+        "targetText": "Un discurs structurat, adesea în context oficial."
+      },
+      "examples": [
+        {
+          "sourceText": "Er hielt eine wichtige Rede.",
+          "targetText": "El a ținut un discurs important."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dialog",
+      "targetText": "dialog"
+    },
+    {
+      "sourceText": "Gespräch",
+      "targetText": "conversație"
+    },
+    {
+      "sourceText": "Meinung",
+      "targetText": "părere"
+    },
+    {
+      "sourceText": "Rede",
+      "targetText": "discurs"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rede mit meinen Freunden.",
+      "targetText": "Vorbesc cu prietenii mei."
+    },
+    {
+      "sourceText": "Redest du viel?",
+      "targetText": "Vorbești mult?"
+    },
+    {
+      "sourceText": "Er redet nicht gerne über seine Gefühle.",
+      "targetText": "El nu îi place să vorbească despre sentimentele sale."
+    },
+    {
+      "sourceText": "Wir reden oft über die Zukunft.",
+      "targetText": "Noi vorbim adesea despre viitor."
+    },
+    {
+      "sourceText": "Redet ihr über das Meeting?",
+      "targetText": "Vorbiți despre întâlnire?"
+    },
+    {
+      "sourceText": "Sie reden über den neuesten Film.",
+      "targetText": "Ei vorbesc despre cel mai nou film."
+    },
+    {
+      "sourceText": "Ich habe gestern mit ihr geredet.",
+      "targetText": "Am vorbit cu ea ieri."
+    },
+    {
+      "sourceText": "Sie haben viel über das Wetter geredet.",
+      "targetText": "Au vorbit mult despre vreme."
+    },
+    {
+      "sourceText": "Er redete oft mit seinen Nachbarn.",
+      "targetText": "El vorbea adesea cu vecinii săi."
+    },
+    {
+      "sourceText": "Ich hatte mit ihm nicht geredet, bevor er ging.",
+      "targetText": "Nu vorbisem cu el înainte să plece."
+    },
+    {
+      "sourceText": "Ich werde später mit dir reden.",
+      "targetText": "Voi vorbi mai târziu cu tine."
+    },
+    {
+      "sourceText": "Er wird dir morgen reden.",
+      "targetText": "El o să îți vorbească mâine."
+    },
+    {
+      "sourceText": "Ich würde mehr reden, wenn ich Zeit hätte.",
+      "targetText": "Aș vorbi mai mult dacă aș avea timp."
+    },
+    {
+      "sourceText": "Es ist nötig, dass du heute redest.",
+      "targetText": "Este necesar să vorbești azi."
+    },
+    {
+      "sourceText": "Rede klar und deutlich!",
+      "targetText": "Vorbește clar și tare!"
+    },
+    {
+      "sourceText": "Das geredete Wort wurde gehört.",
+      "targetText": "Cuvântul vorbit a fost auzit."
+    },
+    {
+      "sourceText": "Rede, bevor es zu spät ist.",
+      "targetText": "Vorbește înainte să fie prea târziu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Reden“ klingt ähnlich wie „reden“ im Deutschen – denk an das Wort „reden“, um „a vorbi“ zu erinnern, das vom lateinischen „verbum“ (Wort) kommt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Substantiv „vorbire“ (Gespräch) unterscheidet sich nur durch ein „-ire“ von „vorbi“ – so kannst du dir leicht den Zusammenhang merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endungen von „a vorbi“ im Präsens sind charakteristisch: -esc, -ești, -e, -im, -iți, -esc – merke dir die Muster, um die Konjugation zu meistern."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du mit Freunden sprichst („vorbi“) und dabei viele Wörter („verbum“) benutzt – so verankerst du das Wort im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

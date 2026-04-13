@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-erwaehnen",
+  "parent": "ms-ro-a-mentiona-2c9eb879@cba4ecab4251aca2174676a1b75ab62d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erwähnen",
+    "definition": "Kurz und beiläufig etwas ansprechen oder erwähnen.",
+    "pronunciation": "/ɛɐ̯ˈvɛːnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „erwähnen“ stammt vom mittelhochdeutschen 'erwennen', das mit dem althochdeutschen 'wennen' verwandt ist und 'erwägen' oder 'in Betracht ziehen' bedeutet.",
+        "targetText": "Verbul german „erwähnen“ provine din germana mijlocie 'erwennen', înrudit cu germana veche înaltă 'wennen', care însemna 'a lua în considerare' sau 'a cântări'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a menționa",
+    "definition": "A spune scurt și pe scurt ceva, a face o referire.",
+    "pronunciation": "/a men.t͡siˈo.na/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a menționa“ stammt vom französischen 'mentionner' ab, das wiederum vom lateinischen 'mentio' (Erwähnung) kommt.",
+        "targetText": "Verbul românesc „a menționa” provine din franceză, din verbul 'mentionner', care la rândul său derivă din latinescul 'mentio' însemnând 'mențiune' sau 'amintire'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anmerken",
+      "targetText": "a observa"
+    },
+    {
+      "sourceText": "die Erwähnung",
+      "targetText": "mențiunea"
+    },
+    {
+      "sourceText": "erörtern",
+      "targetText": "a discuta"
+    },
+    {
+      "sourceText": "hinweisen",
+      "targetText": "a indica"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschweigen",
+      "targetText": "a tăcea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erwähne das Thema kurz.",
+      "targetText": "Menționez pe scurt subiectul."
+    },
+    {
+      "sourceText": "Er hat den Fehler nicht erwähnt.",
+      "targetText": "El nu a menționat greșeala."
+    },
+    {
+      "sourceText": "Sie erwähnte oft ihre Pläne.",
+      "targetText": "Ea menționa des planurile sale."
+    },
+    {
+      "sourceText": "Ich werde das später erwähnen.",
+      "targetText": "Voi menționa asta mai târziu."
+    },
+    {
+      "sourceText": "Erwähne das bitte nicht!",
+      "targetText": "Te rog, nu menționa asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'erwähnen' ist etwas formeller, genau wie das rumänische 'a menționa'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a menționa' klingt ähnlich wie das französische 'mentionner' – beide bedeuten 'erwähnen'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'menționa' enthält 'menț', ähnlich wie 'mention' auf Englisch und Französisch."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'menționierst' etwas kurz, also machst du eine kleine 'Mentions'-Notiz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-entzuendung",
+  "parent": "ms-ro-inflamatie-b84f649a@5ef7e6cfa97f0d4a730a8bcf8b9bdd85",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Entzündung",
+    "genus": "feminine",
+    "definition": "Eine Reaktion des Körpers auf Verletzungen oder Infektionen, die durch Rötung, Schwellung, Schmerz und Wärme gekennzeichnet ist.",
+    "pronunciation": "/ɛntˈtsʏndʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Entzündung“ leitet sich vom Verb „entzünden“ ab, das auf das mittelhochdeutsche 'entzünden' zurückgeht, zusammengesetzt aus dem Präfix 'ent-' und dem Verb 'zünden' (feuern, anzünden).",
+        "targetText": "Cuvântul german „Entzündung” provine de la verbul „entzünden”, care derivă din germana mijlocie 'entzünden', format din prefixul 'ent-' și verbul 'zünden' (a aprinde foc)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "inflamație",
+    "genus": "feminine",
+    "definition": "O reacție a corpului la leziuni sau infecții, caracterizată prin roșeață, umflare, durere și căldură.",
+    "pronunciation": "/inflamaˈt͡sie/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „inflamație“ stammt vom lateinischen 'inflammatio', abgeleitet von 'inflammare' (anzünden, entflammen), was bildlich für die entzündliche Reaktion des Körpers steht.",
+        "targetText": "Cuvântul românesc „inflamație” provine din latină, de la 'inflammatio', derivat din 'inflammare' (a aprinde, a inflama), reflectând reacția inflamatorie a corpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "entzünden",
+      "targetText": "a inflama"
+    },
+    {
+      "sourceText": "Infektion",
+      "targetText": "infecție"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "Schwellung",
+      "targetText": "umflare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Entzündung der Haut verursacht Rötung und Schmerzen.",
+      "targetText": "Inflamația pielii provoacă roșeață și durere."
+    },
+    {
+      "sourceText": "Eine Entzündung kann durch Bakterien oder Viren ausgelöst werden.",
+      "targetText": "O inflamație poate fi cauzată de bacterii sau viruși."
+    },
+    {
+      "sourceText": "Die Entzündung ist ein natürlicher Teil des Heilungsprozesses.",
+      "targetText": "Inflamația este o parte naturală a procesului de vindecare."
+    },
+    {
+      "sourceText": "Bei einer Entzündung sollte man ärztlichen Rat einholen.",
+      "targetText": "În caz de inflamație, trebuie consultat un medic."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix „in-“ im Rumänischen entspricht oft dem deutschen „ent-“ in „Entzündung“, beide zeigen eine Bewegung oder Zustand an."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „inflamație“ klingt ähnlich wie das deutsche Wort „Inflammation“, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „inflamație“ endet auf '-ație', eine typische Endung für abstrakte Substantive aus dem Lateinischen, die du oft in medizinischen Begriffen findest."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie eine Flamme (lateinisch 'flammare') im Körper brennt – das hilft dir, „inflamație“ mit Entzündung zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

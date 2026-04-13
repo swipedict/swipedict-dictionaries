@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-schwein",
+  "parent": "ms-ro-porc-c042d80b@4eb28f353771ef322d6615b9452f80ee",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schwein",
+    "genus": "neuter",
+    "definition": "Ein domestiziertes, meist rosa oder braunes Haustier, das für Fleisch und andere Produkte gehalten wird.",
+    "pronunciation": "/ʃvaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Schwein“ stammt vom althochdeutschen 'swin' ab, das auf die germanische Wurzel *swīną zurückgeht und 'Hausschwein' bedeutet.",
+        "targetText": "Substantivul german „Schwein” provine din germana veche înaltă 'swin', derivat din rădăcina germanică *swīną, însemnând 'porc domestic'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "porc",
+    "genus": "masculine",
+    "definition": "Un animal domestic crescut pentru carne și alte produse.",
+    "pronunciation": "/pork/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „porc“ stammt vom lateinischen Wort 'porcus' ab, das 'Schwein' bedeutet.",
+        "targetText": "Substantivul românesc „porc” provine din cuvântul latin 'porcus', care însemna 'porc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Maskulinum, Plural: porci."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bauer",
+      "targetText": "țăran"
+    },
+    {
+      "sourceText": "Ferkel",
+      "targetText": "purcel"
+    },
+    {
+      "sourceText": "Hausschwein",
+      "targetText": "porc domestic"
+    },
+    {
+      "sourceText": "Schweinefleisch",
+      "targetText": "carne de porc"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Schwein lebt auf dem Bauernhof.",
+      "targetText": "Porcul trăiește la fermă."
+    },
+    {
+      "sourceText": "Ich esse gern Schweinefleisch.",
+      "targetText": "Îmi place să mănânc carne de porc."
+    },
+    {
+      "sourceText": "Das Ferkel ist sehr klein und süß.",
+      "targetText": "Purcelul este foarte mic și drăguț."
+    },
+    {
+      "sourceText": "Der Bauer füttert die Schweine.",
+      "targetText": "Țăranul hrănește porcii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Schwein' und das rumänische 'porc' stammen beide aus indogermanischen Wurzeln, aber klingen sehr unterschiedlich."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'porc' klingt ähnlich wie das französische 'porc', das auch Schwein bedeutet – so kannst du es leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'porc' maskulin ist und im Plural 'porci' heißt – ähnlich wie 'porc' und 'porci'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Schwein trägt einen 'Porc'-tugieschen Hut – das hilft dir, das Wort 'porc' zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

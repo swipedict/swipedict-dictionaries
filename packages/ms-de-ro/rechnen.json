@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-rechnen",
+  "parent": "ms-ro-a-calcula-f90774e7@1884b9fe8893d51b82254b3629632cf2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "rechnen",
+    "definition": "mathematische Operationen durchführen oder mit Zahlen arbeiten",
+    "pronunciation": "/ˈʁɛçn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „rechnen“, was „rechnen, zählen“ bedeutet; es ist verwandtschaftlich verbunden mit dem althochdeutschen „rechnen“.",
+        "targetText": "Verbul german „rechnen“ provine din mijlocul germanului „rechnen“, legat de althochdeutsch „rechnen“, care înseamnă a calcula sau a număra."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet in vielen mathematischen Kontexten, sowohl im alltäglichen als auch im wissenschaftlichen Bereich."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a calcula",
+    "definition": "a efectua operații matematice sau a lucra cu numere",
+    "pronunciation": "/a kal.kuˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Calcula“ stammt vom lateinischen „calculare“, was „zählen“ oder „rechnen“ bedeutet, und hat sich im rumänischen Wortschatz verankert, um das Rechnen in verschiedenen Kontexten zu beschreiben.",
+        "targetText": "Verbul românesc „a calcula“ provine din latină „calculare“, care înseamnă a număra sau a calcula."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Weit verbreitet in mathematischen, wirtschaftlichen und wissenschaftlichen Zusammenhängen."
+  },
+  "senses": [
+    {
+      "gloss": "Abrechnung",
+      "explanation": {
+        "sourceText": "Betrifft die Abrechnung von Kosten und Aufträgen.",
+        "targetText": "Se referă la calcularea costurilor și comenzilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Abrechnung erfolgt am Monatsende.",
+          "targetText": "Calcularea se face la sfârșitul lunii."
+        }
+      ]
+    },
+    {
+      "gloss": "Rechnung / Rechnungserstellung",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Erstellung von Rechnungen.",
+        "targetText": "Se referă la întocmirea facturilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe die Rechnung erstellt.",
+          "targetText": "Am creat factura."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Addition",
+      "targetText": "adunare"
+    },
+    {
+      "sourceText": "Multiplikation",
+      "targetText": "înmulțire"
+    },
+    {
+      "sourceText": "Subtraktion",
+      "targetText": "scădere"
+    },
+    {
+      "sourceText": "Zahl",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schätzen",
+      "targetText": "a estima"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich rechne die Kosten.",
+      "targetText": "Eu calculez costurile."
+    },
+    {
+      "sourceText": "Rechnest du den Gewinn?",
+      "targetText": "Calculezi profitul?"
+    },
+    {
+      "sourceText": "Er rechnet die Gesamtsumme.",
+      "targetText": "El calculează suma totală."
+    },
+    {
+      "sourceText": "Wir rechnen jetzt nach.",
+      "targetText": "Noi calculăm acum."
+    },
+    {
+      "sourceText": "Rechnet ihr alles zusammen?",
+      "targetText": "Calculați totul împreună?"
+    },
+    {
+      "sourceText": "Sie rechnen die Zahlen aus.",
+      "targetText": "Ei calculează numerele."
+    },
+    {
+      "sourceText": "Ich habe die Aufgabe gerechnet.",
+      "targetText": "Am calculat sarcina."
+    },
+    {
+      "sourceText": "Sie haben das Ergebnis gerechnet.",
+      "targetText": "Ei au calculat rezultatul."
+    },
+    {
+      "sourceText": "Er rechnete täglich.",
+      "targetText": "El calcula zilnic."
+    },
+    {
+      "sourceText": "Ich hatte die Aufgabe schon gerechnet.",
+      "targetText": "Calculasem deja sarcina."
+    },
+    {
+      "sourceText": "Ich werde die Rechnung überprüfen.",
+      "targetText": "Voi verifica factura."
+    },
+    {
+      "sourceText": "Sie werden die Kosten berechnen.",
+      "targetText": "Ei o să calculeze costurile."
+    },
+    {
+      "sourceText": "Ich würde rechnen, wenn ich die Daten hätte.",
+      "targetText": "Aș calcula dacă aș avea datele."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du rechnest.",
+      "targetText": "Este important să calculezi."
+    },
+    {
+      "sourceText": "Rechne die Lösung!",
+      "targetText": "Calculează soluția!"
+    },
+    {
+      "sourceText": "Rechnet die Aufgaben!",
+      "targetText": "Calculați sarcinile!"
+    },
+    {
+      "sourceText": "Die gerechnete Summe ist deutlich.",
+      "targetText": "Suma calculată este clară."
+    },
+    {
+      "sourceText": "Die Antwort ist berechnet worden.",
+      "targetText": "Răspunsul a fost calculat."
+    },
+    {
+      "sourceText": "Rechnend, fand er den Fehler.",
+      "targetText": "Calculând, a găsit greșeala."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „-cula“ in „calcula“ erinnert an „calculate“ im Englischen – beide bedeuten rechnen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort hat eine klare Verbindung zur Mathematik – nutze diese Assoziation für dein Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Denke beim Rechnen an alltägliche Situationen wie Einkaufen – so merkst du dir „a calcula“ besser."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „a calcula“, um den Gebrauch im mathematischen Kontext zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

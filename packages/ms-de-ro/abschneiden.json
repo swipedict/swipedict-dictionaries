@@ -1,0 +1,143 @@
+{
+  "id": "ms-de-ro-abschneiden",
+  "parent": "ms-ro-a-taia-db3a5aea@744e2c59886aae76956d75865eeb8bee",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abschneiden",
+    "definition": "etwas von etwas trennen oder abtrennen",
+    "pronunciation": "/ˈapʃnaɪ̯dən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abschneiden“ setzt sich aus dem Präfix „ab-“ und dem Verb „schneiden“ zusammen, wobei „schneiden“ althochdeutsche Wurzeln hat.",
+        "targetText": "Verbul german „abschneiden“ este format din prefixul „ab-“ și verbul „schneiden“, care are rădăcini în althochdeutsch."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb hat eine vielfältige Anwendungsbreite in technischen, kulinarischen und alltäglichen Kontexten (zum Beispiel Haare schneiden, Obst abschneiden)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a tăia",
+    "definition": "a separa ceva de altceva prin tăiere",
+    "pronunciation": "/a təˈja/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a tăia“ stammt vom lateinischen „talea“ (Schnitt, Zweig) ab und bedeutet „schneiden“ oder „trennen“.",
+        "targetText": "Verbul românesc „a tăia“ provine din latinescul „talea“, care înseamnă „tăietură“ sau „ramură“, și exprimă acțiunea de a tăia sau separa ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in verschiedenen Kontexten, insbesondere beim Schneiden von Materialien oder Lebensmitteln."
+  },
+  "senses": [
+    {
+      "gloss": "Zuschneiden",
+      "explanation": {
+        "sourceText": "Verwendet für das präzise Schneiden von Materialien.",
+        "targetText": "Folosit pentru tăierea precisă a materialelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich schneide den Stoff zu.",
+          "targetText": "Eu tai materialul la dimensiune."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Klinge",
+      "targetText": "lamă"
+    },
+    {
+      "sourceText": "Schere",
+      "targetText": "foarfecă"
+    },
+    {
+      "sourceText": "Stück",
+      "targetText": "bucată"
+    },
+    {
+      "sourceText": "Wurf",
+      "targetText": "aruncare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "anfügen",
+      "targetText": "a adăuga"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schneide das Papier ab.",
+      "targetText": "Eu tai hârtia."
+    },
+    {
+      "sourceText": "Schneidest du die Blumen ab?",
+      "targetText": "Tai florile?"
+    },
+    {
+      "sourceText": "Er schneidet die Äpfel ab.",
+      "targetText": "El taie merele."
+    },
+    {
+      "sourceText": "Wir schneiden die Stoffe ab.",
+      "targetText": "Noi tăiem materialele."
+    },
+    {
+      "sourceText": "Schneidet ihr die Nägel ab?",
+      "targetText": "Tăiați unghiile?"
+    },
+    {
+      "sourceText": "Sie (Pl.) schneiden die Fäden ab.",
+      "targetText": "Ei taie firele."
+    },
+    {
+      "sourceText": "Ich habe das Bild abgetrennt.",
+      "targetText": "Am tăiat poza."
+    },
+    {
+      "sourceText": "Er schnitt die Haare ab.",
+      "targetText": "El tăia părul."
+    },
+    {
+      "sourceText": "Ich werde die Ecken abschneiden.",
+      "targetText": "Voi tăia colțurile."
+    },
+    {
+      "sourceText": "Schneide das Brot ab!",
+      "targetText": "Taie pâinea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Abschneiden“ und „a tăia“ sind eng verwandt: Beide bedeuten „schneiden“. Denk an „Ich schneide etwas ab“ = „Eu tai ceva“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a tăia“ oft ein Objekt braucht, z.B. „Eu tai ceva“ – so lernst du die Satzstruktur."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

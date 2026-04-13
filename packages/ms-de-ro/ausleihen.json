@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-ausleihen",
+  "parent": "ms-ro-a-imprumuta-7dba6fd0@359892da40a84e00d0cedd54e5704442",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausleihen",
+    "definition": "etwas für eine bestimmte Zeit nehmen, um es später zurückzugeben",
+    "pronunciation": "/ˈaʊsˌlaɪ̯ən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ausleihen“ setzt sich aus „aus“ und „leihen“ zusammen. „Leihen“ stammt vom mittelhochdeutschen „leihen“ und bedeutet „etwas vorübergehend geben oder nehmen“.",
+        "targetText": "Verbul german „ausleihen“ provine din „aus“ + „leihen“ (a împrumuta), indicând a lua ceva temporar."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet im Kontext von Büchern, Werkzeugen oder anderen Gegenständen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împrumuta",
+    "definition": "a lua ceva pentru o anumită perioadă, pentru a-l returna mai târziu",
+    "pronunciation": "/a ɨmpruˈmu.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a împrumuta“ stammt vom lateinischen „imprumutare“, was „ausleihen“ oder „verleihen“ bedeutet. Es wird verwendet, um das vorübergehende Nehmen oder Geben von Gegenständen zu beschreiben.",
+        "targetText": "Verbul român „a împrumuta“ derivă din lat. „imprumutare“, însemnând a lua sau a da ceva temporar."
+      },
+      "source": "AI, Wiktionary, Etymological Dictionaries"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation. Verwendet, wenn man etwas von jemandem leiht oder jemand anderem etwas gibt."
+  },
+  "senses": [
+    {
+      "gloss": "ausleihen (Erfahrung)",
+      "explanation": {
+        "sourceText": "Kann auch im Sinne von einer Erfahrung entleihen verwendet werden.",
+        "targetText": "Poate fi folosit și pentru a „împrumuta“ o experiență."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich leihe mir eine Erfahrung aus.",
+          "targetText": "Îmi împrumut o experiență."
+        }
+      ]
+    },
+    {
+      "gloss": "ausleihen (Objekt)",
+      "explanation": {
+        "sourceText": "Für 'ausleihen' in der Bedeutung von 'jemandem etwas geben, das er zurückgeben muss'.",
+        "targetText": "Pentru a da cuiva ceva temporar, care trebuie returnat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich leihe gerne meinen Freunden Sachen aus.",
+          "targetText": "Îmi place să împrumut lucruri prietenilor mei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Film",
+      "targetText": "film"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Spielzeug",
+      "targetText": "jucărie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verleihen",
+      "targetText": "a da"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich leihe mir ein Buch aus.",
+      "targetText": "Eu împrumut o carte."
+    },
+    {
+      "sourceText": "Leihst du dir einen Film aus?",
+      "targetText": "Împrumuți un film?"
+    },
+    {
+      "sourceText": "Sie leiht sich ein Werkzeug aus.",
+      "targetText": "Ea împrumută unelte."
+    },
+    {
+      "sourceText": "Wir leihen uns die benötigten Materialien aus.",
+      "targetText": "Noi împrumutăm materialele necesare."
+    },
+    {
+      "sourceText": "Lehnt ihr die Bücher aus der Bibliothek aus?",
+      "targetText": "Împrumutați cărțile din bibliotecă?"
+    },
+    {
+      "sourceText": "Sie leihen sich die neuesten Filme aus.",
+      "targetText": "Ei împrumută cele mai recente filme."
+    },
+    {
+      "sourceText": "Ich habe mir den neuen Roman ausgeliehen.",
+      "targetText": "Am împrumutat romanul nou."
+    },
+    {
+      "sourceText": "Ich werde mir das Werkzeug ausleihen.",
+      "targetText": "Voi împrumuta uneltele."
+    },
+    {
+      "sourceText": "Leih dir ein Auto aus!",
+      "targetText": "Împrumută-ți o mașină!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A împrumuta“ klingt ähnlich wie „imprumut“ (Leihgabe) – stelle dir vor, wie du etwas vorübergehend bekommst und später zurückgibst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „împrumuta“ endet auf -a, typisch für rumänische Verben der 1. Konjugation, genau wie viele deutsche Verben mit „-en“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ausleihen“ mit „împrumuta“ durch die gemeinsame Idee des temporären Gebens und Nehmens."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

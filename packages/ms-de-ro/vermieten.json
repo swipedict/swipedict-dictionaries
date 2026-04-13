@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-vermieten",
+  "parent": "ms-ro-a-inchiria-aa7e419f@0bd7329b6b1e97b6d5e2ba701c4f1024",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vermieten",
+    "definition": "jemandem etwas zur Benutzung überlassen, meist gegen Geld",
+    "pronunciation": "/fɛʁˈmiːtn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „vermieten“ setzt sich aus „ver-“ und „mieten“ zusammen, wobei „mieten“ vom mittelhochdeutschen „mieten“ stammt, was „nutzen“ oder „leihen“ bedeutet.",
+        "targetText": "Verbul german „vermieten“ este format din „ver-“ și „mieten“, unde „mieten“ provine din germana mijlocie și înseamnă „a folosi“ sau „a închiria“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Vor allem in der Wirtschaft verwendet, wenn es darum geht, Räumlichkeiten oder Eigentum für einen bestimmten Zeitraum anzubieten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a închiria",
+    "definition": "a lăsa cuiva ceva spre folosință, de obicei contra unui preț",
+    "pronunciation": "/ɨŋkiˈri.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a închiria“ stammt vom lateinischen Wort „carus“ (teuer) ab und bezieht sich auf das Überlassen gegen Bezahlung.",
+        "targetText": "Verbul român „a închiria“ provine din latină, legat de „carus“ (scump), referindu-se la închirierea contra cost."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird im rechtlichen und alltäglichen Kontext für Mietverträge verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Mietvertrag",
+      "explanation": {
+        "sourceText": "Der rechtliche Rahmen, der die Bedingungen der Vermietung regelt.",
+        "targetText": "Cadrul legal care reglementează condițiile închirierii."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Mietvertrag muss unterschrieben werden.",
+          "targetText": "Contractul de închiriere trebuie semnat."
+        }
+      ]
+    },
+    {
+      "gloss": "Vermietung",
+      "explanation": {
+        "sourceText": "Bezeichnet die Transaktion des Überlassens von Räumen oder Eigentum gegen Entgelt.",
+        "targetText": "Se referă la tranzacția de a da spre folosință spații sau bunuri contra cost."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Vermietung erfolgt durch einen Vertrag.",
+          "targetText": "Închirierea se face printr-un contract."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besitzer",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "Immobilie",
+      "targetText": "imobil"
+    },
+    {
+      "sourceText": "Mieter",
+      "targetText": "chiriaș"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mieten",
+      "targetText": "a închiria"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich vermiete meine Wohnung.",
+      "targetText": "Închiriez apartamentul meu."
+    },
+    {
+      "sourceText": "Ich habe die Garage vermietet.",
+      "targetText": "Am închiriat garajul."
+    },
+    {
+      "sourceText": "Ich werde die Räume vermieten.",
+      "targetText": "Voi închiria camerele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Vermieten“ und „a închiria“ sind Kognaten – verbinde das mit dem Bild, wie du etwas gegen Geld zur Nutzung gibst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du überlässt jemandem eine Wohnung – so merkst du dir „a închiria“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

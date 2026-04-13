@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-gaestezimmer",
+  "parent": "ms-ro-camera-de-oaspeti-6c8c6008@ad727cf00c07fd1e02be8c1de64345d2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gästezimmer",
+    "genus": "neuter",
+    "definition": "Ein Zimmer in einem Haus, das speziell für Gäste vorgesehen ist, um dort zu übernachten oder sich aufzuhalten.",
+    "pronunciation": "/ˈɡɛstəˌtsɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gästezimmer“ setzt sich zusammen aus „Gäste“ (Mehrzahl von Gast) und „Zimmer“, was auf das althochdeutsche 'zimbar' zurückgeht und 'Raum' bedeutet.",
+        "targetText": "Cuvântul german „Gästezimmer“ este compus din „Gäste” (pluralul lui „Gast”, oaspete) și „Zimmer”, care provine din germana veche înaltă 'zimbar', însemnând 'cameră' sau 'spațiu'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cameră de oaspeți",
+    "genus": "feminine",
+    "definition": "O cameră dintr-o locuință destinată special pentru oaspeți, unde aceștia pot dormi sau petrece timpul.",
+    "pronunciation": "/kaˈme.rə de ˈoas.pet͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „oaspeți“ stammt vom lateinischen 'hospes, hospitis' ab, was 'Gast' oder 'Fremder' bedeutet. „Cameră“ kommt vom lateinischen 'camera', was 'Raum' oder 'Zimmer' bedeutet.",
+        "targetText": "Cuvântul românesc „oaspeți” provine din latină, de la 'hospes, hospitis', însemnând 'oaspeți' sau 'străini'. „Cameră” derivă din latinul 'camera', care înseamnă 'spațiu' sau 'cameră'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gast",
+      "targetText": "oaspeț"
+    },
+    {
+      "sourceText": "Übernachtung",
+      "targetText": "pensie"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "locuință"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Gästezimmer ist im ersten Stock neben dem Badezimmer.",
+      "targetText": "Camera de oaspeți este la etajul întâi, lângă baie."
+    },
+    {
+      "sourceText": "Wir richten das Gästezimmer für unsere Freunde ein.",
+      "targetText": "Amenajăm camera de oaspeți pentru prietenii noștri."
+    },
+    {
+      "sourceText": "Im Gästezimmer gibt es ein bequemes Bett und einen Kleiderschrank.",
+      "targetText": "În camera de oaspeți există un pat confortabil și un dulap."
+    },
+    {
+      "sourceText": "Das Gästezimmer wird oft für Familienmitglieder genutzt, die zu Besuch kommen.",
+      "targetText": "Camera de oaspeți este adesea folosită pentru membrii familiei care vin în vizită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'oaspeți' klingt ähnlich wie das englische 'hospitality' (Gastfreundschaft), was dir hilft, die Bedeutung als Gäste zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'cameră' erinnert an das lateinische 'camera', das auch im Deutschen als 'Kammer' bekannt ist – ein Raum, in dem man Gäste empfängt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Wortverbindung: 'cameră de oaspeți' – 'cameră' (Zimmer) + 'de oaspeți' (von Gästen), also das Zimmer für Gäste."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen besonderen Raum für deine 'Gäste' – das 'Gästezimmer' ist wie ein VIP-Bereich für Freunde, die zu Besuch kommen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

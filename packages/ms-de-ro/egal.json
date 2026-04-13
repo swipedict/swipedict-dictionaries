@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-egal",
+  "parent": "ms-ro-indiferent-bc153c27@309825198414457e53b1e9a59531fa94",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "egal",
+    "definition": "Drückt aus, dass etwas unwichtig oder ohne Bedeutung ist; es ist gleichgültig.",
+    "pronunciation": "/eˈɡaːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „egal“ stammt aus dem Französischen „égal“, das ‚gleich‘ oder ‚gleichwertig‘ bedeutet und auf das lateinische ‚aequalis‘ zurückgeht.",
+        "targetText": "Cuvântul german „egal“ provine din franceza „égal“, care înseamnă „egal“ sau „de aceeași valoare“ și derivă din latină „aequalis“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "indiferent",
+    "definition": "Exprimă faptul că ceva nu are importanță sau nu contează; este lipsit de relevanță.",
+    "pronunciation": "/indiˈferent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „indiferent“ stammt aus dem Französischen „indifférent“, das wiederum vom lateinischen ‚indifferens‘ kommt und ‚nicht unterscheidend‘ bedeutet.",
+        "targetText": "Cuvântul românesc „indiferent“ provine din franceza „indifférent“, care la rândul său vine din latină „indifferens“, însemnând „neutru“ sau „care nu face diferența“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bedeutungslos",
+      "targetText": "fără importanță"
+    },
+    {
+      "sourceText": "gleich",
+      "targetText": "egal"
+    },
+    {
+      "sourceText": "gleichgültig",
+      "targetText": "indiferent"
+    },
+    {
+      "sourceText": "unwichtig",
+      "targetText": "neimportant"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bedeutsam",
+      "targetText": "semnificativ"
+    },
+    {
+      "sourceText": "wichtig",
+      "targetText": "important"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Egal, was du sagst, ich bleibe dabei.",
+      "targetText": "Indiferent ce spui, eu rămân la părerea mea."
+    },
+    {
+      "sourceText": "Es ist mir egal, ob wir heute oder morgen gehen.",
+      "targetText": "Îmi este indiferent dacă mergem azi sau mâine."
+    },
+    {
+      "sourceText": "Das Ergebnis ist egal, Hauptsache wir haben Spaß.",
+      "targetText": "Rezultatul este neimportant, important este să ne distrăm."
+    },
+    {
+      "sourceText": "Egal wie schwer es ist, wir schaffen das.",
+      "targetText": "Indiferent cât de greu este, vom reuși."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „egal“ klingt fast wie das französische „égal“, das du vielleicht aus dem Matheunterricht kennst (z.B. 2 + 2 = 4, alles ist gleich). So kannst du dir merken, dass „egal“ bedeutet, dass etwas gleichgültig oder unwichtig ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „indiferent“ enthält das Präfix „in-“ (nicht) und „diferent“ (anders). Also bedeutet es wörtlich „nicht anders“, also egal oder gleichgültig."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „indiferent“ erinnert an das englische „indifferent“, das ebenfalls Gleichgültigkeit ausdrückt. So kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist bei einer Wahl und sagst: „Mir ist das egal“ – auf Rumänisch sagst du „îmi este indiferent“, als würdest du sagen, dass du keine Unterschiede machst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

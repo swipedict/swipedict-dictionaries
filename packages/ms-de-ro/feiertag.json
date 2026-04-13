@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-feiertag",
+  "parent": "ms-ro-zi-libera-33ba7979@100bc6adaca63c522456c6bfa16f74b3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Feiertag",
+    "genus": "masculine",
+    "definition": "Ein Tag, an dem gesetzlich oder gesellschaftlich frei ist, oft zur Feier eines besonderen Ereignisses.",
+    "pronunciation": "/ˈfaɪ̯ɐˌtaːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort 'Feiertag' setzt sich aus 'feiern' (vom mittelhochdeutschen 'vîeren', feiern) und 'Tag' zusammen. 'Feiern' geht auf das lateinische 'feria' zurück, was 'Festtag' bedeutet.",
+        "targetText": "Cuvântul 'Feiertag' este compus din 'feiern' (din germana mijlocie 'vîeren', a sărbători) și 'Tag'. 'Feiern' provine din latină, 'feria', care înseamnă 'zi de sărbătoare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zi liberă",
+    "genus": "feminine",
+    "definition": "O zi în care nu se lucrează, dedicată sărbătoririi unui eveniment special.",
+    "pronunciation": "/zi liˈbe.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck 'zi liberă' besteht aus 'zi' (Tag) und 'liberă' (frei), wobei 'liberă' vom lateinischen 'liber' stammt.",
+        "targetText": "Expresia românească 'zi liberă' este formată din 'zi' (zi) și 'liberă' (liberă), iar 'liberă' provine din latină, 'liber'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Feier",
+      "targetText": "sărbătoare"
+    },
+    {
+      "sourceText": "Fest",
+      "targetText": "festival"
+    },
+    {
+      "sourceText": "Urlaub",
+      "targetText": "concediu"
+    },
+    {
+      "sourceText": "Wochenende",
+      "targetText": "weekend"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Am Feiertag sind die Geschäfte geschlossen.",
+      "targetText": "În ziua liberă magazinele sunt închise."
+    },
+    {
+      "sourceText": "Wir haben am Feiertag frei.",
+      "targetText": "Avem liber în ziua liberă."
+    },
+    {
+      "sourceText": "Der Feiertag erinnert an ein wichtiges Ereignis.",
+      "targetText": "Ziua liberă amintește de un eveniment important."
+    },
+    {
+      "sourceText": "Viele Menschen feiern den Feiertag mit der Familie.",
+      "targetText": "Mulți oameni sărbătoresc ziua liberă cu familia."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'zi liberă' bedeutet wörtlich 'freie Tag' – ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Feier' in 'Feiertag' hilft dir, an eine Feier oder ein Fest zu denken, also an einen besonderen Tag."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'liberă' vom lateinischen 'liber' kommt, was 'frei' bedeutet, genau wie im Deutschen 'liber' in Fremdwörtern."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast an einem 'Feiertag' frei und kannst 'liberă' genießen – frei sein an einem Tag."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

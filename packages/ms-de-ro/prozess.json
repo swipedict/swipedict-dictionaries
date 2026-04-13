@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-prozess",
+  "parent": "ms-ro-proces-c1a03285@19d9b53ffbc9dcdf9b2f37eed3a4bf48",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Prozess",
+    "genus": "masculine",
+    "definition": "Ein geordneter Ablauf von Handlungen oder Ereignissen, oft im rechtlichen oder organisatorischen Kontext.",
+    "pronunciation": "/ˈpʁoːtsɛs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Prozess“ stammt vom mittellateinischen 'processus' ab, das 'Vorgang' oder 'Fortschreiten' bedeutet, und geht auf das lateinische Verb 'procedere' zurück, was 'vorwärts gehen' heißt.",
+        "targetText": "Cuvântul german „Prozess” provine din latină medievală 'processus', care înseamnă 'proces' sau 'derulare', derivat din verbul latin 'procedere', ce înseamnă 'a merge înainte'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "proces",
+    "genus": "neuter",
+    "definition": "O succesiune ordonată de acțiuni sau evenimente, adesea în context juridic sau organizațional.",
+    "pronunciation": "/proˈtʃes/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „proces“ stammt direkt vom lateinischen 'processus' ab, das 'Fortschreiten' oder 'Vorgang' bedeutet, und wurde über das Lateinische ins Rumänische übernommen.",
+        "targetText": "Substantivul românesc „proces” provine direct din latină 'processus', care înseamnă 'derulare' sau 'succesiune', preluat în limba română prin intermediul latinului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ablauf",
+      "targetText": "derulare"
+    },
+    {
+      "sourceText": "Angeklagter",
+      "targetText": "acuzat"
+    },
+    {
+      "sourceText": "Gericht",
+      "targetText": "tribunal"
+    },
+    {
+      "sourceText": "Verfahren",
+      "targetText": "procedură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stillstand",
+      "targetText": "staționare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Prozess vor Gericht dauerte mehrere Wochen.",
+      "targetText": "Procesul în instanță a durat mai multe săptămâni."
+    },
+    {
+      "sourceText": "Der Herstellungsprozess ist sehr komplex.",
+      "targetText": "Procesul de fabricație este foarte complex."
+    },
+    {
+      "sourceText": "Im Prozess wurden viele Beweise vorgelegt.",
+      "targetText": "În proces au fost prezentate multe dovezi."
+    },
+    {
+      "sourceText": "Der Prozess der Entscheidungsfindung kann langwierig sein.",
+      "targetText": "Procesul de luare a deciziilor poate fi îndelungat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „proces“ klingt fast genauso wie das deutsche „Prozess“ – stell dir vor, wie ein Prozess wie ein 'Pro-zess' (professioneller Ablauf) abläuft."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das englische Wort 'process' als Brücke: Deutsch „Prozess“, Englisch 'process', Rumänisch „proces“ – alle stammen vom gleichen lateinischen Ursprung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Gerichtssaal ist ein Ort, wo viele Prozesse (proces) ablaufen – so merkst du dir die juristische Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „proces“ mit dem lateinischen Ursprung 'procedere' (vorwärts gehen). Ein Prozess ist also etwas, das voranschreitet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

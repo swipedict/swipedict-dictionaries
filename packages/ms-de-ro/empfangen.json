@@ -1,0 +1,145 @@
+{
+  "id": "ms-de-ro-empfangen",
+  "parent": "ms-ro-a-primi-2cde2978@52effe885595a7773a3a3beee9a08edd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "empfangen",
+    "definition": "jemanden oder etwas mit Freude begrüßen oder aufnehmen",
+    "pronunciation": "/ɛmˈfaŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort leitet sich von „empfangen“ im Sinne von „etwas erhalten“ ab, dessen mittelalterliche Wurzeln im althochdeutschen „fangan“ (erfassen) liegen.",
+        "targetText": "Cuvântul provine din „empfangen“ cu sensul de „a primi ceva“, având rădăcini în germana veche „fangan“ care înseamnă „a prinde, a lua“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Es wird oftmals im Kontext von Gästen und Nachrichten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a primi",
+    "definition": "a saluta sau a lua pe cineva sau ceva cu bucurie",
+    "pronunciation": "/a priˈmi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a primi“ stammt vom lateinischen „premere“ ab, ursprünglich „drücken“, entwickelte sich aber zur Bedeutung „erhalten, annehmen“. Es wird häufig für das Empfangen von Nachrichten oder Gästen verwendet.",
+        "targetText": "Verbul românesc „a primi“ derivă din latinescul „premere“ (a apăsa), evoluând spre sensul de „a primi, a accepta“. Este folosit frecvent pentru a exprima primirea de mesaje sau oaspeți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Wird für das Empfangen von Nachrichten, Anrufen und anderen Mitteilungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Einladung erhalten",
+      "explanation": {
+        "sourceText": "Gibt an, dass man eine Einladung oder ein Angebot erhalten hat.",
+        "targetText": "Indică faptul că ai primit o invitație sau o ofertă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe die Einladung empfangen.",
+          "targetText": "Am primit invitația."
+        }
+      ]
+    },
+    {
+      "gloss": "Gast empfangen",
+      "explanation": {
+        "sourceText": "'A primi' wird auch verwendet, um den Empfang von Gästen zu beschreiben.",
+        "targetText": "'A primi' este folosit și pentru a descrie primirea oaspeților."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich empfange Besuch heute Abend.",
+          "targetText": "Mă bucur să primesc vizita în seara asta."
+        }
+      ]
+    },
+    {
+      "gloss": "Nachricht empfangen",
+      "explanation": {
+        "sourceText": "'A primi' bezieht sich auf das Empfangen von Nachrichten oder Mitteilungen.",
+        "targetText": "'A primi' se referă la primirea mesajelor sau comunicărilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich empfange die Nachricht.",
+          "targetText": "Eu primesc mesajul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Begrüßung",
+      "targetText": "salutare"
+    },
+    {
+      "sourceText": "Besuch",
+      "targetText": "vizită"
+    },
+    {
+      "sourceText": "Einladung",
+      "targetText": "invitație"
+    },
+    {
+      "sourceText": "Gast",
+      "targetText": "musafir"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "senden",
+      "targetText": "a trimite"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich empfange die Nachricht.",
+      "targetText": "Eu primesc mesajul."
+    },
+    {
+      "sourceText": "Ich habe den Brief empfangen.",
+      "targetText": "Am primit scrisoarea."
+    },
+    {
+      "sourceText": "Ich werde das Paket empfangen.",
+      "targetText": "Voi primi pachetul."
+    },
+    {
+      "sourceText": "Ich würde es freuen, wenn ich die Einladung empfangen könnte.",
+      "targetText": "M-ar bucura să primesc invitația."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „empfangen“ klingt wie „einfangen“ – stell dir vor, du fängst etwas auf. Das rumänische „a primi“ ist ähnlich, als ob du die Hände öffnest, um etwas zu erhalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a primi“ durch die Verbindung zu „primär“ – etwas Wichtiges oder Erstes zu bekommen, wie eine Nachricht oder einen Gast."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

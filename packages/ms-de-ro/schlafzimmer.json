@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-schlafzimmer",
+  "parent": "ms-ro-dormitor-228d4d6f@e7a456ca85acfb1680b633b267c54287",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schlafzimmer",
+    "genus": "neuter",
+    "definition": "Ein Raum in einem Haus oder einer Wohnung, der hauptsächlich zum Schlafen genutzt wird.",
+    "pronunciation": "/ˈʃlaːfˌt͡sɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schlafzimmer“ setzt sich aus den Wörtern 'Schlaf' und 'Zimmer' zusammen und bezeichnet wörtlich einen Raum zum Schlafen.",
+        "targetText": "Cuvântul german „Schlafzimmer” este compus din „Schlaf” (somn) și „Zimmer” (cameră), desemnând literal o cameră pentru dormit."
+      },
+      "source": "Deutsche Wortgeschichte, Zusammensetzung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dormitor",
+    "genus": "neuter",
+    "definition": "O cameră dintr-o casă sau apartament destinată în principal pentru dormit.",
+    "pronunciation": "/dor.miˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dormitor“ stammt vom lateinischen Verb 'dormire' ab, das 'schlafen' bedeutet, mit dem Suffix '-tor', das einen Ort bezeichnet.",
+        "targetText": "Cuvântul românesc „dormitor” provine din verbul latin 'dormire', care înseamnă 'a dormi', cu sufixul '-tor' care indică un loc."
+      },
+      "source": "Dicționar etimologic român"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Schlaf",
+      "targetText": "somn"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Schlafzimmer ist im ersten Stock.",
+      "targetText": "Dormitorul este la etajul întâi."
+    },
+    {
+      "sourceText": "Ich habe mein Schlafzimmer neu gestrichen.",
+      "targetText": "Am vopsit dormitorul meu nou."
+    },
+    {
+      "sourceText": "Im Schlafzimmer steht ein großes Bett.",
+      "targetText": "În dormitor este un pat mare."
+    },
+    {
+      "sourceText": "Das Schlafzimmer ist ruhig und dunkel.",
+      "targetText": "Dormitorul este liniștit și întunecat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „dormitor“ erinnert an das lateinische 'dormire' – wie 'Dormitorium' in Klöstern, ein Schlafsaal."
+    },
+    {
+      "lang": "de",
+      "text": "Das Suffix '-tor' in 'dormitor' zeigt einen Ort an, ähnlich wie im Deutschen 'Generator' – hier ist es der Ort zum Schlafen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'dormierst' (schläfst) in deinem Zimmer – so merkst du dir 'dormitor' als Schlafzimmer."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'dormitor' mit dem deutschen Wort 'Dormitorium' (historisch Schlafsaal), um die Bedeutung als Schlafraum zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

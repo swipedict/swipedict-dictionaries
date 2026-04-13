@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-stellen",
+  "parent": "ms-ro-a-pune-4c088b81@b7e35bd5415e2ca85e3ff2e8ce800f2d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stellen",
+    "definition": "etwas an einen Ort bringen oder in eine bestimmte Position bringen",
+    "pronunciation": "/ˈʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ursprung liegt im mittelhochdeutschen „stellen“, verwandt mit dem englischen „to place“. Es beschreibt das Positionieren von Objekten.",
+        "targetText": "Cuvântul provine din mijlocul germanului „stellen“, înrudit cu englezescul „to place“, și descrie poziționarea obiectelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, das oft in verschiedenen Konstruktionsarten verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a pune",
+    "definition": "a aduce ceva într-un anumit loc sau într-o anumită poziție",
+    "pronunciation": "/a ˈpu.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A pune“ stammt aus dem lateinischen „ponere“, was „setzen, stellen“ bedeutet und drückt das Platzieren aus.",
+        "targetText": "Verbul „a pune“ derivă din latinul „ponere“, care înseamnă „a pune“ sau „a așeza“ și exprimă ideea de a plasa ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, wenn es um das Platzieren von Gegenständen oder das Treffen von Regeln geht."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Bett",
+      "targetText": "pat"
+    },
+    {
+      "sourceText": "Schrank",
+      "targetText": "dulap"
+    },
+    {
+      "sourceText": "Stuhl",
+      "targetText": "scaun"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle das Buch auf den Tisch.",
+      "targetText": "Eu pun cartea pe masă."
+    },
+    {
+      "sourceText": "Stellst du die Lampen auf?",
+      "targetText": "Pui lămpile?"
+    },
+    {
+      "sourceText": "Er stellt die Tasse auf die Theke.",
+      "targetText": "El pune ceasca pe tejghea."
+    },
+    {
+      "sourceText": "Wir stellen die Pläne auf.",
+      "targetText": "Noi punem planurile."
+    },
+    {
+      "sourceText": "Stellt ihr die Kästen wohin?",
+      "targetText": "Puneți cutiile undeva?"
+    },
+    {
+      "sourceText": "Sie stellen die Produkte ins Regal.",
+      "targetText": "Ei pun produsele pe raft."
+    },
+    {
+      "sourceText": "Ich habe die Sachen gestellt.",
+      "targetText": "Am pus lucrurile."
+    },
+    {
+      "sourceText": "Er stellte die Frage.",
+      "targetText": "El punea întrebarea."
+    },
+    {
+      "sourceText": "Ich werde das Gemüse stellen.",
+      "targetText": "Voi pune legumele."
+    },
+    {
+      "sourceText": "Stell das Bild!",
+      "targetText": "Pune imaginea!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stellen“ und „a pune“ sind eng verwandt: Beide bedeuten ‚etwas an einen Platz bringen‘. Denke an „pui“ als die häufige Präsensform."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz „Pune-te la punct!“ (Setze dich auf den Punkt!) als lustige Eselsbrücke für „a pune“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

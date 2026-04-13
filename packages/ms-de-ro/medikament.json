@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-medikament",
+  "parent": "ms-ro-medicament-9a9c723a@5edd1c2967553357f69acb194b79697c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Medikament",
+    "genus": "neuter",
+    "definition": "Ein Stoff oder eine Zubereitung, die zur Vorbeugung, Behandlung oder Heilung von Krankheiten verwendet wird.",
+    "pronunciation": "/mediˈkaːmant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Medikament“ stammt vom lateinischen 'medicamentum' ab, was 'Heilmittel' bedeutet, abgeleitet von 'medicare' (heilen, behandeln).",
+        "targetText": "Cuvântul german „Medikament” provine din latină, de la 'medicamentum', care înseamnă 'remediu', derivat din 'medicare' (a trata, a vindeca)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "medicament",
+    "genus": "neuter",
+    "definition": "Substanță sau preparat folosit pentru prevenirea, tratarea sau vindecarea bolilor.",
+    "pronunciation": "/mediˈkament/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „medicament“ stammt direkt vom lateinischen 'medicamentum' ab, das 'Heilmittel' bedeutet und von 'medicare' (behandeln, heilen) abgeleitet ist.",
+        "targetText": "Cuvântul românesc „medicament” provine direct din latină, de la 'medicamentum', care înseamnă 'remediu', derivat din 'medicare' (a trata, a vindeca)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arzneimittel",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Behandlung",
+      "targetText": "tratament"
+    },
+    {
+      "sourceText": "Heilmittel",
+      "targetText": "remediu"
+    },
+    {
+      "sourceText": "Tablette",
+      "targetText": "comprimat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Gift",
+      "targetText": "otrava"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Medikament muss dreimal täglich eingenommen werden.",
+      "targetText": "Medicamentul trebuie administrat de trei ori pe zi."
+    },
+    {
+      "sourceText": "Der Arzt verschrieb ein neues Medikament gegen die Schmerzen.",
+      "targetText": "Doctorul a prescris un medicament nou pentru dureri."
+    },
+    {
+      "sourceText": "Viele Medikamente haben Nebenwirkungen.",
+      "targetText": "Multe medicamente au efecte secundare."
+    },
+    {
+      "sourceText": "Bitte bewahren Sie das Medikament außerhalb der Reichweite von Kindern auf.",
+      "targetText": "Vă rugăm să păstrați medicamentul departe de copii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „medicament“ klingt fast gleich im Deutschen und Rumänischen – das hilft dir, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ment', wie viele andere Substantive aus dem Lateinischen, z.B. 'Instrument' oder 'Argument'. So erkennst du die Herkunft."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Arzt mit einem 'Medikament' heilt – das lateinische 'medicare' bedeutet genau das: behandeln und heilen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Medikament' mit dem englischen 'medicine' – beide stammen vom lateinischen 'medicare' ab und haben mit Heilung zu tun."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

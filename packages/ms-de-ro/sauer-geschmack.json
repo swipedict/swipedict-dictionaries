@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-sauer-geschmack",
+  "parent": "ms-ro-acru-d529a4c4@04fa49a27eaf648e910dc77ea1a843c7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sauer",
+    "definition": "Beschreibt einen Geschmack, der durch Säure gekennzeichnet ist, z. B. wie bei Zitronen oder Essig.",
+    "pronunciation": "/ˈzaʊ̯ɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „sauer“ stammt vom althochdeutschen 'sūr' ab, das auf die urgermanische Wurzel *sūraz zurückgeht und mit dem englischen 'sour' verwandt ist.",
+        "targetText": "Adjectivul german „sauer” provine din germana veche înaltă 'sūr', derivat din rădăcina urgermanică *sūraz, înrudit cu englezescul 'sour'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acru",
+    "definition": "Descrie un gust caracterizat prin prezența acidității, de exemplu ca la lămâi sau oțet.",
+    "pronunciation": "/ˈakru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „acru“ stammt vom lateinischen Wort 'acer' ab, das 'scharf' oder 'bitter' bedeutet und sich auf einen scharfen oder sauren Geschmack bezieht.",
+        "targetText": "Adjectivul românesc „acru” provine din latinescul 'acer', care înseamnă 'ascuțit' sau 'amar' și se referă la un gust ascuțit sau acru."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bitter",
+      "targetText": "amar"
+    },
+    {
+      "sourceText": "Geschmack",
+      "targetText": "gust"
+    },
+    {
+      "sourceText": "salzig",
+      "targetText": "sărat"
+    },
+    {
+      "sourceText": "süß",
+      "targetText": "dulce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "süß",
+      "targetText": "dulce"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Zitrone schmeckt sauer.",
+      "targetText": "Lămâia are gust acru."
+    },
+    {
+      "sourceText": "Essig ist sehr sauer.",
+      "targetText": "Oțetul este foarte acru."
+    },
+    {
+      "sourceText": "Manche Früchte sind sauer und erfrischend.",
+      "targetText": "Unele fructe sunt acre și răcoritoare."
+    },
+    {
+      "sourceText": "Der Joghurt schmeckt leicht sauer.",
+      "targetText": "Iaurtul are un gust ușor acru."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'acru' klingt ähnlich wie das deutsche Wort 'Acker'. Stell dir vor, ein saurer Geschmack wächst auf dem 'Acker' der Zunge."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'acru' endet auf '-u', typisch für rumänische Adjektive im Maskulinum Singular – so erkennst du die grammatische Form leicht."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'acru' mit dem lateinischen 'acer', das auch 'scharf' bedeutet – so merkst du dir, dass 'acru' einen scharfen, sauren Geschmack beschreibt."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an eine saure Zitrone denkst, stell dir vor, du sagst 'A-cru' mit Betonung auf das 'A', um den sauren Geschmack zu betonen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

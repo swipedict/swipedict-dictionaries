@@ -1,0 +1,119 @@
+{
+  "id": "ms-de-ro-messen",
+  "parent": "ms-ro-a-masura-4918cff7@dc66d087bda05555cec7d899e3a10795",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "messen",
+    "definition": "eine Größe, Menge oder Länge bestimmen",
+    "pronunciation": "/ˈmɛsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „messen“ stammt vom mittelhochdeutschen „mesen“ und althochdeutschen „mezzen“, was „eine Größe bestimmen“ bedeutet.",
+        "targetText": "Verbul german „messen“ provine din germana mijlocie „mesen“ și germana veche „mezzen“, însemnând „a determina o mărime“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb ist unregelmäßig und wird häufig in wissenschaftlichen und alltäglichen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a măsura",
+    "definition": "a determina o dimensiune, o cantitate sau o lungime",
+    "pronunciation": "/a məsuˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a măsura“ stammt vom lateinischen „metiri“, was „messen“ bedeutet, und ist verwandt mit „metru“ (Meter).",
+        "targetText": "Verbul românesc „a măsura“ provine din latină „metiri“, însemnând „a măsura“, legat de cuvântul „metru“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a), verwendet in vielen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "ausmessen",
+      "explanation": {
+        "sourceText": "Bedeutet, eine genaue Messung vorzunehmen.",
+        "targetText": "Înseamnă a determina cu precizie o dimensiune."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen den Raum ausmessen.",
+          "targetText": "Trebuie să măsurăm camera."
+        }
+      ]
+    },
+    {
+      "gloss": "Maß nehmen",
+      "explanation": {
+        "sourceText": "Bezieht sich auch auf das Nomen 'Maß', einen Maßstab.",
+        "targetText": "Se referă și la substantivul „măsură“, un standard de măsurare."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme das Maß für den neuen Tisch.",
+          "targetText": "Ia-mi măsura pentru noua masă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Breite",
+      "targetText": "lățime"
+    },
+    {
+      "sourceText": "Größe",
+      "targetText": "dimensiune"
+    },
+    {
+      "sourceText": "Höhe",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "Länge",
+      "targetText": "lungime"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verpassen",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Messen“ und „a măsura“ sind Kognaten – beide bedeuten das Bestimmen von Größen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „metru“ (Meter) vom gleichen lateinischen Stamm kommt wie „a măsura“."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „Eu măsor“ (Ich messe) und verschiedenen Maßeinheiten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

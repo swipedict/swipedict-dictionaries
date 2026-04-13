@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-schmuck",
+  "parent": "ms-ro-bijuterie-f12931fc@173b565367dddd5fafe29f15e687f1c8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schmuck",
+    "genus": "masculine",
+    "definition": "Gegenstände, die zur Verschönerung getragen oder verwendet werden, wie Ringe, Ketten oder Ohrringe.",
+    "pronunciation": "/ˈʃmʊk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schmuck“ stammt vom althochdeutschen 'smuc' ab, das 'Schmuck, Verzierung' bedeutete, und ist verwandt mit dem Verb 'schmücken', das auf eine germanische Wurzel zurückgeht, die mit 'schmieren' und 'verzieren' verbunden ist.",
+        "targetText": "Cuvântul german „Schmuck” provine din germana veche înaltă 'smuc', care însemna 'podoabă, ornament', și este înrudit cu verbul 'schmücken' (a împodobi), având rădăcini germanice legate de 'a unge' și 'a decora'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bijuterie",
+    "genus": "feminine",
+    "definition": "Obiecte purtate sau folosite pentru înfrumusețare, cum ar fi inele, coliere sau cercei.",
+    "pronunciation": "/bi.d͡ʒuˈte.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bijuterie“ stammt vom französischen 'bijouterie' ab, das auf das altfranzösische 'bijou' zurückgeht, welches 'Schmuckstück' bedeutet. 'Bijou' selbst hat keltische Wurzeln und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „bijuterie” provine din franceza 'bijouterie', derivat din 'bijou' care înseamnă 'podobă'. 'Bijou' are rădăcini celtice și a fost preluat în română prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv feminin, plural 'bijuterii'."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Armband",
+      "targetText": "brățară"
+    },
+    {
+      "sourceText": "Kette",
+      "targetText": "colier"
+    },
+    {
+      "sourceText": "Ohrring",
+      "targetText": "cercei"
+    },
+    {
+      "sourceText": "Ring",
+      "targetText": "inel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schmucklos",
+      "targetText": "fără podoabe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie trägt jeden Tag schönen Schmuck.",
+      "targetText": "Ea poartă bijuterii frumoase în fiecare zi."
+    },
+    {
+      "sourceText": "Der Schmuck aus Gold ist sehr wertvoll.",
+      "targetText": "Bijuteriile din aur sunt foarte valoroase."
+    },
+    {
+      "sourceText": "Ich habe meiner Mutter eine Kette als Schmuck geschenkt.",
+      "targetText": "I-am dăruit mamei mele un colier ca bijuterie."
+    },
+    {
+      "sourceText": "Schmuck kann aus verschiedenen Materialien hergestellt werden.",
+      "targetText": "Bijuteriile pot fi făcute din materiale diferite."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'bijuterie' klingt ähnlich wie das französische 'bijou', das 'Schmuckstück' bedeutet. Stell dir vor, du trägst ein 'Bijou' als 'Bijuterie'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'bijuterie' feminin ist und im Plural 'bijuterii' heißt – das doppelte 'i' am Ende hilft dir, den Plural zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst in eine französische Boutique und findest dort viele 'bijoux' – so kannst du dir leicht merken, dass 'bijuterie' Schmuck bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort 'Schmuck' mit 'schmücken' – beide stammen aus dem Deutschen, aber im Rumänischen ist das Wort französisch beeinflusst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

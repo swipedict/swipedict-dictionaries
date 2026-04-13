@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-einrichten",
+  "parent": "ms-ro-a-amenaja-ab55b333@843e456501f26ebd5540c5a78d28164a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einrichten",
+    "definition": "eine Wohnung oder einen Raum in eine bestimmte Ordnung bringen oder gestalten",
+    "pronunciation": "/ˈaɪ̯nˌʁɪçtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich zusammen aus „ein“ und „richten“, wobei „richten“ bedeutet, etwas so zu formen, dass es eine bestimmte Ordnung oder Funktion hat.",
+        "targetText": "Das deutsche Verb „einrichten“ besteht aus „ein-“ (hinein) und „richten“ (ordnen, ausrichten). Es bedeutet, einen Raum oder eine Wohnung zu gestalten."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig verwendet in Kontexten wie Möbel aufstellen oder Systeme konfigurieren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a amenaja",
+    "definition": "a organiza sau a configura un apartament sau o cameră într-un anumit mod",
+    "pronunciation": "/a a.me.naˈʒa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von dem slawischen Wort \"amenajare\", was \"gestalten\" oder \"einrichten\" bedeutet. Das Wort hat sich im Rumänischen etablieren können, um die Schaffung eines angenehmen und funktionalen Raumes zu beschreiben.",
+        "targetText": "Verbul românesc „a amenaja“ provine din slavă, unde înseamnă „a aranja“ sau „a amenaja“. A fost adoptat pentru a descrie organizarea și decorarea spațiilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Zweifelsohne wichtig beim Einrichten eines neuen Zimmers oder Büros. Das Verb kann auch im übertragenen Sinne verwendet werden, um nicht nur Räume, sondern auch Prozesse zu organisieren."
+  },
+  "senses": [
+    {
+      "gloss": "einrichten (Möbel aufstellen)",
+      "explanation": {
+        "sourceText": "Bezeugt die Nutzung für die Einrichtung von Möbeln in einem Raum.",
+        "targetText": "Se referă la aranjarea mobilierului într-o cameră."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich richte das Wohnzimmer ein.",
+          "targetText": "Eu amenajez sufrageria."
+        }
+      ]
+    },
+    {
+      "gloss": "einrichten (System konfigurieren)",
+      "explanation": {
+        "sourceText": "Verwendet in der Technik für Systeme und Software.",
+        "targetText": "Folosit în tehnologie pentru configurarea sistemelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich richte das neue System ein.",
+          "targetText": "Eu amenajez noul sistem."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Dekoration",
+      "targetText": "decorează"
+    },
+    {
+      "sourceText": "Möbel",
+      "targetText": "mobilă"
+    },
+    {
+      "sourceText": "Ordnung",
+      "targetText": "ordine"
+    },
+    {
+      "sourceText": "Raum",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "descompune"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich richte mein Zimmer ein.",
+      "targetText": "Eu amenajez camera mea."
+    },
+    {
+      "sourceText": "Ich habe das Büro eingerichtet.",
+      "targetText": "Am amenajat biroul."
+    },
+    {
+      "sourceText": "Ich werde das Zimmer morgen einrichten.",
+      "targetText": "Voi amenaja camera mâine."
+    },
+    {
+      "sourceText": "Richte das Zimmer schön ein!",
+      "targetText": "Amenajează frumos camera!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die Präsensformen enden auf -ez, -ezi, -ează – das hilft dir bei der Konjugation."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen schön eingerichteten Raum vor, um die positive Bedeutung von „a amenaja“ zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „amenaja“ mit dem deutschen „anlegen“ oder „arrangieren“ – so merkst du dir das Einrichten eines Raumes."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-fertigstellen",
+  "parent": "ms-ro-a-finaliza-18cb6de0@4453a9904e1bdfd6cfb545d3df5e159c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fertigstellen",
+    "definition": "etwas zu Ende bringen oder vollenden",
+    "pronunciation": "/ˈfɛʁtɪçˌʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus „fertig“ (vollendet) und „stellen“ (platzieren) zusammen. „Fertig“ stammt vom mittelhochdeutschen „verdic“, was „vorbereitet“ bedeutet.",
+        "targetText": "Verbul german „fertigstellen“ este compus din „fertig“ (finalizat) și „stellen“ (a pune). „Fertig“ provine din germana veche „verdic“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt das vollenden oder abschließen einer Arbeit oder Aufgabe."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a finaliza",
+    "definition": "a aduce ceva la o concluzie sau a termina",
+    "pronunciation": "/a fi.na.liˈza/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a finaliza“ kommt vom lateinischen „finalizare“, abgeleitet von „finalis“ (endgültig) und „finis“ (Ende).",
+        "targetText": "Verbul românesc „a finaliza“ provine din latină, de la „finalizare“, derivat din „finalis“ (final) și „finis“ (sfârșit)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in alltäglichen Situationen verwendet, vor allem bei Projekten oder Aufgaben, die abgeschlossen werden müssen."
+  },
+  "senses": [
+    {
+      "gloss": "Fertigstellung",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Abschließen eines Prozesses.",
+        "targetText": "Se referă la finalizarea unui proces."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir haben die Fertigstellung des Projekts erreicht.",
+          "targetText": "Am atins finalizarea proiectului."
+        }
+      ]
+    },
+    {
+      "gloss": "Vollständigkeit",
+      "explanation": {
+        "sourceText": "Wird auch verwendet, um etwas vollständig zu machen.",
+        "targetText": "Este folosit și pentru a face ceva complet."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Vollständigkeit der Arbeit ist wichtig.",
+          "targetText": "Completitudinea lucrării este importantă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Abschluss",
+      "targetText": "finalizare"
+    },
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "obiectiv"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "beginnen",
+      "targetText": "a începe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle das Projekt fertig.",
+      "targetText": "Eu finalizez proiectul."
+    },
+    {
+      "sourceText": "Machst du es fertig?",
+      "targetText": "Îl finalizezi?"
+    },
+    {
+      "sourceText": "Er stellt die Arbeit fertig.",
+      "targetText": "El finalizează lucrarea."
+    },
+    {
+      "sourceText": "Wir stellen alles fertig.",
+      "targetText": "Noi finalizăm totul."
+    },
+    {
+      "sourceText": "Stellt ihr es dann fertig?",
+      "targetText": "Îl finalizați atunci?"
+    },
+    {
+      "sourceText": "Sie stellen den Bericht fertig.",
+      "targetText": "Ei finalizează raportul."
+    },
+    {
+      "sourceText": "Ich habe die Präsentation fertiggestellt.",
+      "targetText": "Am finalizat prezentarea."
+    },
+    {
+      "sourceText": "Ich werde das Werk morgen fertigstellen.",
+      "targetText": "Voi finaliza lucrarea mâine."
+    },
+    {
+      "sourceText": "Stell es fertig!",
+      "targetText": "Finalizează-l!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Fertigstellen“ bedeutet, etwas abzuschließen – denk an das Wort „final“ im Rumänischen „a finaliza“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du setzt den letzten Punkt unter ein Projekt – so merkst du dir „a finaliza“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

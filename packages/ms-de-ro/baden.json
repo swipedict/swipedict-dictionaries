@@ -1,0 +1,166 @@
+{
+  "id": "ms-de-ro-baden",
+  "parent": "ms-ro-a-se-bai-9e98fbcd@497a489f72cacf184121865d0536ba4b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "baden",
+    "definition": "in Wasser eintauchen oder sich mit Wasser waschen",
+    "pronunciation": "/ˈbaːdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „baden“ stammt vom althochdeutschen „badōn“ ab, das „baden“ oder „in Wasser eintauchen“ bedeutet, verwandt mit mittelhochdeutsch „bade“ und niederländisch „baden“.",
+        "targetText": "Verbul german „baden“ provine din germana veche „badōn“, însemnând „a se scufunda în apă“ sau „a se spăla“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Beschreibt Körperpflege und Schwimmen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se băi",
+    "definition": "a se scufunda în apă sau a se spăla cu apă",
+    "pronunciation": "/a se bɨj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se băi“ stammt vom lateinischen „balneare“ ab, was „baden“ bedeutet, und beschreibt das Eintauchen in Wasser zur Körperpflege oder Erholung.",
+        "targetText": "Verbul românesc „a se băi“ derivă din latină, din „balneare“, care înseamnă „a face baie“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Reflexives Verb, verwendet für Körperpflege und Erholung im Wasser."
+  },
+  "senses": [
+    {
+      "gloss": "Bade-Spiel",
+      "explanation": {
+        "sourceText": "Kann auch im Zusammenhang mit Spielen im Wasser verwendet werden.",
+        "targetText": "Poate fi folosit și pentru jocuri în apă."
+      },
+      "examples": [
+        {
+          "sourceText": "Bade dich!",
+          "targetText": "Băi-te!"
+        }
+      ]
+    },
+    {
+      "gloss": "baden (für Körperpflege)",
+      "explanation": {
+        "sourceText": "Beschreibt die Körperpflege durch Wasser.",
+        "targetText": "Descrie îngrijirea corpului cu apă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bade jeden Sonntag.",
+          "targetText": "Eu mă băi în fiecare duminică."
+        }
+      ]
+    },
+    {
+      "gloss": "sich im Wasser entspannen",
+      "explanation": {
+        "sourceText": "Baden kann auch Erholung im Wasser bedeuten.",
+        "targetText": "Baia poate însemna și relaxare în apă."
+      },
+      "examples": [
+        {
+          "sourceText": "Er badet gerne im Meer.",
+          "targetText": "El se băi în mare."
+        }
+      ]
+    },
+    {
+      "gloss": "sich waschen",
+      "explanation": {
+        "sourceText": "Das Verb wird auch in hygienischem Kontext verwendet.",
+        "targetText": "Verbul este folosit și în context igienic."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe gestern gebadet.",
+          "targetText": "M-am băit ieri."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bad",
+      "targetText": "baie"
+    },
+    {
+      "sourceText": "Schwimmen",
+      "targetText": "înot"
+    },
+    {
+      "sourceText": "Seife",
+      "targetText": "săpun"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bade jeden Sonntag.",
+      "targetText": "Eu mă băi în fiecare duminică."
+    },
+    {
+      "sourceText": "Er badet gerne im Meer.",
+      "targetText": "El se băi în mare."
+    },
+    {
+      "sourceText": "Ich habe gestern gebadet.",
+      "targetText": "M-am băit ieri."
+    },
+    {
+      "sourceText": "Ich werde heute Abend baden.",
+      "targetText": "Mă voi băi în seara aceasta."
+    },
+    {
+      "sourceText": "Bade dich!",
+      "targetText": "Băi-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das reflexive „a se băi“ zeigt, dass du dich selbst badest – stelle dir vor, wie du dich im Wasser entspannst."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a se băi“ vom lateinischen „balneare“ kommt – das hilft beim Verstehen der Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „băi“ mit „Bad“ im Deutschen, um dir die Bedeutung leichter zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

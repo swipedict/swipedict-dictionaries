@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-essen",
+  "parent": "ms-ro-mancare-4ad4f6a7@fafda048e393ebea0f5f6ef3f50981b9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Essen",
+    "genus": "neuter",
+    "definition": "Nahrung oder Mahlzeit, die gegessen wird.",
+    "pronunciation": "/ˈɛsn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Essen“ stammt vom althochdeutschen 'ezzan' ab, das 'essen' bedeutet und auf die urgermanische Wurzel *etan zurückgeht.",
+        "targetText": "Substantivul german „Essen” provine din germana veche înaltă 'ezzan', care însemna 'a mânca', derivat din rădăcina proto-germanică *etan."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mâncare",
+    "genus": "feminine",
+    "definition": "Alimente sau masă care se consumă pentru a se hrăni.",
+    "pronunciation": "/mɨnˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „mâncare“ stammt vom lateinischen 'manducare' ab, was 'kauen' oder 'essen' bedeutet, und ist eine volkssprachliche Weiterentwicklung.",
+        "targetText": "Substantivul românesc „mâncare” provine din latină, din verbul 'manducare', care însemna 'a mesteca' sau 'a mânca', fiind o evoluție populară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "essen (Verb)",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "Lebensmittel",
+      "targetText": "alimente"
+    },
+    {
+      "sourceText": "Mahlzeit",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "Speise",
+      "targetText": "fel de mâncare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fasten",
+      "targetText": "post"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Essen schmeckt sehr gut.",
+      "targetText": "Mâncarea este foarte gustoasă."
+    },
+    {
+      "sourceText": "Wir haben das Essen um 19 Uhr.",
+      "targetText": "Avem masa la ora 19."
+    },
+    {
+      "sourceText": "Das Essen ist fertig.",
+      "targetText": "Mâncarea este gata."
+    },
+    {
+      "sourceText": "Ich mag italienisches Essen.",
+      "targetText": "Îmi place mâncarea italiană."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Essen' und das rumänische 'mâncare' haben beide eine sehr alte Herkunft, die bis ins Indogermanische zurückreicht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'mâncare' klingt ähnlich wie 'mancare' im Italienischen, was 'Essen' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'mâncare' kommt von lateinisch 'manducare' – stell dir vor, du 'mandu' (kauen) etwas Leckeres."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'mâncare' mit dem deutschen Verb 'mampfen' – beide haben mit Essen zu tun und klingen ähnlich."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

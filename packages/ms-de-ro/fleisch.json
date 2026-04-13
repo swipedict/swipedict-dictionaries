@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-fleisch",
+  "parent": "ms-ro-carne-0af90526@a930684adc3dfbeb46808582bbf3485a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fleisch",
+    "genus": "neuter",
+    "definition": "Das essbare Muskelgewebe von Tieren, das als Nahrungsmittel dient.",
+    "pronunciation": "/flaɪ̯ʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Fleisch“ stammt vom althochdeutschen 'fleisc' ab, das auf die proto-germanische Wurzel *flaiskaz zurückgeht.",
+        "targetText": "Cuvântul german „Fleisch” provine din germana veche înaltă 'fleisc', derivat din rădăcina proto-germanică *flaiskaz."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "carne",
+    "genus": "feminine",
+    "definition": "Țesutul muscular comestibil al animalelor, folosit ca aliment.",
+    "pronunciation": "/ˈkar.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „carne“ stammt vom lateinischen 'caro, carnis' ab, was 'Fleisch' bedeutet.",
+        "targetText": "Cuvântul românesc „carne” provine din latină, din 'caro, carnis', care înseamnă 'carne'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fleischerei",
+      "targetText": "măcelărie"
+    },
+    {
+      "sourceText": "Fleischesser",
+      "targetText": "carnivor"
+    },
+    {
+      "sourceText": "Fleischgericht",
+      "targetText": "fel de mâncare cu carne"
+    },
+    {
+      "sourceText": "Fleischstück",
+      "targetText": "bucată de carne"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich esse gern Fleisch zum Mittagessen.",
+      "targetText": "Îmi place să mănânc carne la prânz."
+    },
+    {
+      "sourceText": "Fleisch ist eine wichtige Proteinquelle.",
+      "targetText": "Carnea este o sursă importantă de proteine."
+    },
+    {
+      "sourceText": "Die Fleischerei verkauft frisches Fleisch.",
+      "targetText": "Măcelăria vinde carne proaspătă."
+    },
+    {
+      "sourceText": "Manche Menschen essen kein Fleisch.",
+      "targetText": "Unii oameni nu mănâncă carne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'carne' klingt ähnlich wie das lateinische 'caro', das auch die Wurzel für viele romanische Wörter für Fleisch ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'carne' endet auf '-e', typisch für viele rumänische Substantive der Femininumklasse."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'carne' durch das englische Wort 'carnivore' (Fleischfresser), das dieselbe Wurzel hat."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du 'carne' isst und dabei an das lateinische Wort für Fleisch denkst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

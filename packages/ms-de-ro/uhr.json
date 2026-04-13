@@ -1,0 +1,110 @@
+{
+  "id": "ms-de-ro-uhr",
+  "parent": "ms-ro-ceas-f321f45a@720765f487b904559971362bfb51b16e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Uhr",
+    "genus": "feminine",
+    "definition": "Ein Gerät zur Messung und Anzeige der Zeit, meist mit Zifferblatt und Zeigern oder digital.",
+    "pronunciation": "/uːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Uhr“ stammt vom mittelhochdeutschen 'ure' ab, das wiederum aus dem spätlateinischen 'hora' (Stunde) entlehnt wurde, welches vom klassischen Latein 'hora' stammt.",
+        "targetText": "Cuvântul german „Uhr” provine din mijlocul germanului vechi 'ure', împrumutat din latină târzie 'hora' (oră), care la rândul său provine din latina clasică 'hora'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ceas",
+    "genus": "neuter",
+    "definition": "Dispozitiv pentru măsurarea și afișarea timpului, de obicei cu cadran și ace sau digital.",
+    "pronunciation": "/tʃe̯as/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ceas“ stammt vom lateinischen 'clāssis' ab, das ursprünglich 'Klasse' oder 'Schiffsklasse' bedeutete, wurde aber im Mittelalter zur Bezeichnung von Zeitmessgeräten übernommen.",
+        "targetText": "Cuvântul românesc „ceas” provine din latină, din termenul 'clāssis', care inițial însemna 'clasă' sau 'clasă de nave', dar în Evul Mediu a fost preluat pentru a desemna instrumente de măsurare a timpului."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Substantiv masculin, plural: ceasuri."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Minute",
+      "targetText": "minut"
+    },
+    {
+      "sourceText": "Sekunde",
+      "targetText": "secundă"
+    },
+    {
+      "sourceText": "Wecker",
+      "targetText": "ceas deșteptător"
+    },
+    {
+      "sourceText": "Zeit",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Uhr zeigt 3 Uhr nachmittags.",
+      "targetText": "Ceasul arată ora trei după-amiaza."
+    },
+    {
+      "sourceText": "Ich habe eine neue Uhr gekauft.",
+      "targetText": "Am cumpărat un ceas nou."
+    },
+    {
+      "sourceText": "Der Wecker klingelt um 7 Uhr.",
+      "targetText": "Ceasul deșteptător sună la ora șapte."
+    },
+    {
+      "sourceText": "Die Uhr an der Wand ist sehr alt.",
+      "targetText": "Ceasul de pe perete este foarte vechi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „ceas“ klingt wie das englische Wort „chess“ – stell dir vor, du spielst Schach und schaust dabei auf die Uhr, um die Zeit zu messen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „ceas“ stammt aus dem Lateinischen, ähnlich wie viele andere rumänische Wörter, die mit „c“ beginnen, z.B. „casă“ (Haus)."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „ceas“ ein kurzes Wort ist, genau wie „Uhr“, beide sind kompakt und einfach, was die Zeit schnell anzeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen „ceas“ am Handgelenk, der dir hilft, deine Termine zu „checken“ – das englische Wort „check“ klingt ähnlich und hilft dir, dich an „ceas“ zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

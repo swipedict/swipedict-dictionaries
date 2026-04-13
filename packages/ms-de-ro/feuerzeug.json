@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-feuerzeug",
+  "parent": "ms-ro-bricheta-1fa6d1cd@87b3b027be131e8140b114dc281ceb95",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:english",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Feuerzeug",
+    "genus": "neuter",
+    "definition": "Ein kleines tragbares Gerät, mit dem man Feuer erzeugen kann, um z. B. eine Zigarette anzuzünden.",
+    "pronunciation": "/ˈfɔʏ̯ɐˌtsoʏ̯k/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Feuerzeug“ setzt sich aus den Wörtern 'Feuer' und 'Zeug' zusammen, wobei 'Zeug' hier ein altes Wort für 'Gerät' oder 'Werkzeug' ist. Es bezeichnet also ein Gerät zum Feuer machen.",
+        "targetText": "Cuvântul german „Feuerzeug” este compus din „Feuer” (foc) și „Zeug” (un termen vechi pentru 'dispozitiv' sau 'unealtă'), desemnând astfel un dispozitiv pentru a face foc."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "brichetă",
+    "genus": "feminine",
+    "definition": "Un dispozitiv mic și portabil folosit pentru a aprinde focul, de exemplu pentru țigări.",
+    "pronunciation": "/briˈke.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „brichetă“ stammt vom französischen 'briquet' ab, das ursprünglich 'Feuerstein' oder 'Feuerzeug' bedeutete und im 19. Jahrhundert ins Rumänische übernommen wurde.",
+        "targetText": "Cuvântul românesc „brichetă” provine din francezul 'briquet', care inițial însemna 'piatră de foc' sau 'dispozitiv de aprins focul' și a fost preluat în limba română în secolul al XIX-lea."
+      },
+      "source": "Dicționare etimologice franceze și române"
+    },
+    "additional": "Substantiv feminin, plural: brichete."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anzünden",
+      "targetText": "a aprinde"
+    },
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Streichholz",
+      "targetText": "chibrit"
+    },
+    {
+      "sourceText": "Zigarette",
+      "targetText": "țigară"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe mein Feuerzeug verloren.",
+      "targetText": "Mi-am pierdut bricheta."
+    },
+    {
+      "sourceText": "Kannst du mir bitte dein Feuerzeug geben?",
+      "targetText": "Îmi poți da, te rog, bricheta ta?"
+    },
+    {
+      "sourceText": "Das Feuerzeug funktioniert nicht mehr.",
+      "targetText": "Bricheta nu mai funcționează."
+    },
+    {
+      "sourceText": "Er zündete die Kerze mit dem Feuerzeug an.",
+      "targetText": "El a aprins lumânarea cu bricheta."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Feuerzeug“ enthält das Wort „Zeug“, das altmodisch für Gerät steht. So kannst du dir merken, dass eine Brichetă ein kleines Gerät zum Feuer machen ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „brichetă“ klingt ähnlich wie das französische „briquet“, was dir helfen kann, die Herkunft und Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-etă“ ist typisch für viele rumänische Substantive, besonders für kleine Gegenstände, was dir hilft, das Wort „brichetă“ als kleines Gerät zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine kleine „Brücke“ (ähnlich wie „brichetă“) zum Feuer – so kannst du dir merken, dass die Brichetă das Feuerzeug ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

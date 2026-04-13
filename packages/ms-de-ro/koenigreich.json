@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-koenigreich",
+  "parent": "ms-ro-regat-2fde71e5@6ff23a3472cda493638c4a4469e0f263",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Königreich",
+    "genus": "neuter",
+    "definition": "Ein Staat, der von einem König oder einer Königin regiert wird; ein Königreich.",
+    "pronunciation": "/ˈkøːnɪçʁaɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Königreich“ setzt sich aus „König“ und „Reich“ zusammen. „König“ stammt vom althochdeutschen 'kuning' ab, das auf die germanische Wurzel *kuningaz zurückgeht, während „Reich“ vom althochdeutschen 'rīhhi' stammt, was 'Herrschaft' oder 'Reich' bedeutet.",
+        "targetText": "Cuvântul german „Königreich“ este compus din „König“ (rege) și „Reich“ (regat, imperiu). „König“ provine din germana veche înaltă 'kuning', derivat din rădăcina germanică *kuningaz, iar „Reich“ din 'rīhhi', însemnând 'domnie' sau 'regat'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "regat",
+    "genus": "neuter",
+    "definition": "Un stat condus de un rege sau o regină; un regat.",
+    "pronunciation": "/reˈɡat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „regat“ stammt vom lateinischen Wort 'regatus' ab, das Partizip Perfekt von 'regare' ist, was 'herrschen' oder 'regieren' bedeutet. Es ist direkt mit dem lateinischen Wort für König 'rex' verwandt.",
+        "targetText": "Cuvântul românesc „regat” provine din latinescul 'regatus', participiul perfect al verbului 'regare', care înseamnă 'a domni' sau 'a conduce'. Este legat direct de cuvântul latin pentru rege, 'rex'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Herrschaft",
+      "targetText": "domnie"
+    },
+    {
+      "sourceText": "König",
+      "targetText": "rege"
+    },
+    {
+      "sourceText": "Königin",
+      "targetText": "regină"
+    },
+    {
+      "sourceText": "Monarchie",
+      "targetText": "monarhie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Republik",
+      "targetText": "republică"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Vereinigte Königreich Großbritannien und Nordirland ist ein Inselstaat.",
+      "targetText": "Regatul Unit al Marii Britanii și Irlandei de Nord este un stat insular."
+    },
+    {
+      "sourceText": "Im Mittelalter war das Königreich ein wichtiger Machtfaktor in Europa.",
+      "targetText": "În Evul Mediu, regatul era un factor important de putere în Europa."
+    },
+    {
+      "sourceText": "Das Königreich wurde von einem weisen König regiert.",
+      "targetText": "Regatul era condus de un rege înțelept."
+    },
+    {
+      "sourceText": "Viele Königreiche existierten vor der Gründung moderner Staaten.",
+      "targetText": "Multe regate au existat înaintea formării statelor moderne."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische Wort 'rex' für König steckt in 'regat' – denk an einen König, der regiert, um das Wort zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „regat“ klingt ähnlich wie das deutsche Wort „Regent“, der Herrscher – so kannst du dir merken, dass es mit Herrschaft zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein König trägt eine 'Regal'-Krone – 'regat' erinnert an 'Regal' und 'Regieren', beides mit Herrschaft verbunden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'regat' mit dem deutschen Wort 'Regent' – beide stammen vom lateinischen 'regere' (führen, herrschen) ab."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

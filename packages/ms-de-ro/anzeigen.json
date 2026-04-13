@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-anzeigen",
+  "parent": "ms-ro-a-arata-a1c5f896@ef14ce0ddef9e8a83797eb5e978bcdff",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anzeigen",
+    "definition": "etwas sichtbar machen oder öffentlich machen",
+    "pronunciation": "/anˈzaɪ̯ɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von ‚zeigen‘ mit dem Präfix ‚an-‘, was ‚hinweisen‘ oder ‚zeigen‘ bedeutet.",
+        "targetText": "Derivat din verbul „zeigen“ cu prefixul „an-“, care înseamnă „a indica“ sau „a arăta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet im technischen Kontext, z.B. um Informationen darzustellen oder visuell anzuzeigen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a arăta",
+    "definition": "a face ceva vizibil sau public",
+    "pronunciation": "/a a.rəˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb stammt vom lateinischen ‚monstrare‘ ab, was ‚zeigen‘ bedeutet, mit Verbindungen zum griechischen ‚ἀποκαλύπτειν‘ (enthüllen).",
+        "targetText": "Verbul românesc provine din latină, din „monstrare“, care înseamnă „a arăta“, cu legături la grecescul „ἀποκαλύπτειν“ (a dezvălui)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet in Technik, Kunst und Kommunikation."
+  },
+  "senses": [
+    {
+      "gloss": "veranschaulichen",
+      "explanation": {
+        "sourceText": "Bedeutet auch, etwas verständlich oder sichtbar zu machen.",
+        "targetText": "Înseamnă a face ceva vizibil sau ușor de înțeles."
+      },
+      "examples": [
+        {
+          "sourceText": "Er zeigt die Werbung an.",
+          "targetText": "El arată reclama."
+        }
+      ]
+    },
+    {
+      "gloss": "zeigen",
+      "explanation": {
+        "sourceText": "Das Verb wird verwendet, um etwas zu zeigen oder zu präsentieren.",
+        "targetText": "Verbul este folosit pentru a arăta sau prezenta ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich zeige die Ergebnisse an.",
+          "targetText": "Eu arăt rezultatele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Information",
+      "targetText": "informație"
+    },
+    {
+      "sourceText": "Mitteilung",
+      "targetText": "anunț"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "Werbung",
+      "targetText": "publicitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verbergen",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zeige die Ergebnisse an.",
+      "targetText": "Eu arăt rezultatele."
+    },
+    {
+      "sourceText": "Zeigst du die Informationen an?",
+      "targetText": "Arăți informațiile?"
+    },
+    {
+      "sourceText": "Er zeigt die Werbung an.",
+      "targetText": "El arată reclama."
+    },
+    {
+      "sourceText": "Wir zeigen die neue Werbung an.",
+      "targetText": "Noi arătăm noua reclamă."
+    },
+    {
+      "sourceText": "Zeigt ihr die Ergebnisse?",
+      "targetText": "Arătați rezultatele?"
+    },
+    {
+      "sourceText": "Sie zeigen die Tendenzen an.",
+      "targetText": "Ei arată tendințele."
+    },
+    {
+      "sourceText": "Ich habe die Daten angezeigt.",
+      "targetText": "Am arătat datele."
+    },
+    {
+      "sourceText": "Er zeigte die Resultate an.",
+      "targetText": "El arăta rezultatele."
+    },
+    {
+      "sourceText": "Ich werde die nächste Folie anzeigen.",
+      "targetText": "Voi arăta următoarea diapozitiv."
+    },
+    {
+      "sourceText": "Ich würde die Grafik gerne anzeigen.",
+      "targetText": "Aș dori să arăt graficul."
+    },
+    {
+      "sourceText": "Zeige mir die Informationen!",
+      "targetText": "Arată-mi informațiile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Anzeigen“ und „a arăta“ sind kognitive Verwandte – beide bedeuten, etwas sichtbar zu machen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚a arăta‘ klingt ähnlich wie das französische ‚arrêter‘ (stoppen) – denk daran: Schau, bevor du aufhörst zu ‚arăta‘!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass ‚a arăta‘ oft in technischen oder künstlerischen Kontexten verwendet wird, z.B. ‚Eu arăt‘ (ich zeige)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

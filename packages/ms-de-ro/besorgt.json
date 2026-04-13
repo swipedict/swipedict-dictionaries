@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-besorgt",
+  "parent": "ms-ro-ingrijorat-1c1ee2f4@3a88e1b57627d434de52f8582bc74be9",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besorgt",
+    "definition": "Ein Gefühl der Sorge oder des Kümmerns um etwas oder jemanden ausdrückend.",
+    "pronunciation": "/bəˈzɔʁkt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „besorgt“ stammt vom Verb 'sorgen' mit der Vorsilbe 'be-' ab, was eine intensive oder gezielte Handlung anzeigt.",
+        "targetText": "Adjectivul german „besorgt” provine de la verbul 'sorgen' cu prefixul 'be-', indicând o acțiune intensă sau direcționată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "îngrijorat",
+    "definition": "Care exprimă o stare de grijă sau neliniște față de ceva sau cineva.",
+    "pronunciation": "/ɨn.ɡri.ʒoˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „îngrijorat“ stammt vom Verb 'a îngriji' ab, das vom lateinischen 'in-' und 'gregium' (Herde) abgeleitet ist, ursprünglich im Sinne von 'sich kümmern'.",
+        "targetText": "Cuvântul românesc „îngrijorat” derivă din verbul 'a îngriji', format din prefixul latin 'in-' și 'gregium' (turmă), cu sensul inițial de 'a avea grijă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Angst",
+      "targetText": "frică"
+    },
+    {
+      "sourceText": "Besorgnis",
+      "targetText": "neliniște"
+    },
+    {
+      "sourceText": "Kümmern",
+      "targetText": "a se îngriji"
+    },
+    {
+      "sourceText": "Sorge",
+      "targetText": "grijă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sorglos",
+      "targetText": "liniștit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie ist besorgt um die Gesundheit ihres Kindes.",
+      "targetText": "Ea este îngrijorată pentru sănătatea copilului ei."
+    },
+    {
+      "sourceText": "Er sieht besorgt aus, weil er die Prüfung nicht bestanden hat.",
+      "targetText": "El pare îngrijorat pentru că nu a trecut examenul."
+    },
+    {
+      "sourceText": "Besorgt fragte sie nach dem Befinden des Patienten.",
+      "targetText": "Îngrijorată, a întrebat despre starea pacientului."
+    },
+    {
+      "sourceText": "Die Eltern sind besorgt über die Zukunft ihrer Kinder.",
+      "targetText": "Părinții sunt îngrijorați în legătură cu viitorul copiilor lor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix 'în-' im Rumänischen verstärkt oft die Bedeutung, ähnlich wie das deutsche 'be-' in 'besorgt'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'îngrijorat' enthält 'grijă', was 'Sorge' bedeutet – so kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'îngrijorat' ein Adjektiv ist, das Gefühle ausdrückt, ähnlich wie 'besorgt' im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand 'grijă' (Sorge) trägt – das hilft, 'îngrijorat' mit Besorgnis zu verbinden."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

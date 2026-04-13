@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-lecken",
+  "parent": "ms-ro-a-linge-f8c03141@fcdeaf49212be658f2fc3f2677b3c7b3",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "lecken",
+    "definition": "mit der Zunge etwas berühren oder abtasten",
+    "pronunciation": "/ˈlɛkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „lecken“ stammt vom mittelhochdeutschen „lecken“, was „lecken, schlecken“ bedeutete, und bezieht sich auf das Berühren mit der Zunge.",
+        "targetText": "Cuvântul „lecken“ provine din germana mijlocie „lecken“, care însemna „a linge“, referindu-se la atingerea cu limba."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb, das oft im Zusammenhang mit Essen oder bei Tieren verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a linge",
+    "definition": "a atinge sau a simți ceva cu limba",
+    "pronunciation": "/a ˈlinʤe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a linge“ stammt vom lateinischen „lingere“, was „lecken“ bedeutet, und wird vor allem für das Lecken von Lebensmitteln verwendet.",
+        "targetText": "Verbul românesc „a linge“ provine din latină, de la „lingere“, care înseamnă „a linge“, folosit mai ales în contextul alimentelor."
+      },
+      "source": "Etymological Dictionaries, AI"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird oft in umgangssprachlichen und alltäglichen Kontexten verwendet, vor allem bei Tieren oder Kindern."
+  },
+  "senses": [
+    {
+      "gloss": "auf etwas lecken",
+      "explanation": {
+        "sourceText": "Das bedeutet, etwas mit der Zunge abzulecken.",
+        "targetText": "Înseamnă a linge ceva cu limba."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich lecke den Lutscher.",
+          "targetText": "Eu ling bomboana."
+        }
+      ]
+    },
+    {
+      "gloss": "lecken als Tierverhalten",
+      "explanation": {
+        "sourceText": "Bezieht sich oft auf Tiere, die mit der Zunge ihre Körperpflege durchführen.",
+        "targetText": "Se referă adesea la animale care se ling pentru igienă."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Katze leckt ihr Fell.",
+          "targetText": "Pisica se linge pe blană."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    },
+    {
+      "sourceText": "süß",
+      "targetText": "dulce"
+    },
+    {
+      "sourceText": "trinken",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "Zunge",
+      "targetText": "limbă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "saugen",
+      "targetText": "a suge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lecke das Eis.",
+      "targetText": "Eu ling limonada."
+    },
+    {
+      "sourceText": "Leckst du deinen Löffel?",
+      "targetText": "Lingeați lingura ta?"
+    },
+    {
+      "sourceText": "Er leckt den Tellern sauber.",
+      "targetText": "El linge farfuria curată."
+    },
+    {
+      "sourceText": "Wir lecken die Reste von den Fingern.",
+      "targetText": "Noi lingem resturile de pe degete."
+    },
+    {
+      "sourceText": "Leckt ihr das Salz?",
+      "targetText": "Lingeti sarea?"
+    },
+    {
+      "sourceText": "Sie lecken sich nach dem Essen die Lippen.",
+      "targetText": "Ei se linge pe buze după masă."
+    },
+    {
+      "sourceText": "Ich habe Schokolade geleckt.",
+      "targetText": "Am lins ciocolata."
+    },
+    {
+      "sourceText": "Er leckte den ganzen Tag.",
+      "targetText": "El linga toată ziua."
+    },
+    {
+      "sourceText": "Ich werde das Wurstbrot lecken!",
+      "targetText": "Voi linge sandvișul!"
+    },
+    {
+      "sourceText": "Ich würde das Eis lecken, wenn es nicht so kalt wäre.",
+      "targetText": "Aș linge înghețata dacă nu ar fi atât de rece."
+    },
+    {
+      "sourceText": "Lecke das Bonbon!",
+      "targetText": "Linge bomboana!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Bilde Sätze mit „Eu ling“, das klingt flüssig und ist typisch für das Lecken von Süßigkeiten oder Tieren."
+    },
+    {
+      "lang": "de",
+      "text": "Das Verb „a linge“ klingt ähnlich wie „lingere“ aus dem Lateinischen – das hilft dir, die Bedeutung „lecken“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Viele romanische Sprachen haben ähnliche Wörter (z.B. spanisch „lamer“), was das Erinnern erleichtert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

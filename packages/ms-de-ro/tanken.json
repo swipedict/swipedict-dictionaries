@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-tanken",
+  "parent": "ms-ro-a-alimenta-7e07e266@16d0cbe21298ab24c3f8c322a7655f24",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:germanic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "tanken",
+    "definition": "Kraftstoff in den Tank eines Fahrzeugs füllen.",
+    "pronunciation": "/ˈtaŋkn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „tanken“ entstand im 20. Jahrhundert und leitet sich vom Substantiv „Tank“ ab, das aus dem Englischen entlehnt wurde, ursprünglich vom altenglischen 'tanc' für Behälter.",
+        "targetText": "Verbul german „tanken“ a apărut în secolul XX și derivă din substantivul „Tank”, împrumutat din engleză, provenind inițial din vechiul englezesc 'tanc' care însemna recipient."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a alimenta",
+    "definition": "A umple rezervorul unui vehicul cu combustibil.",
+    "pronunciation": "/a aliˈmenta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a alimenta“ stammt vom lateinischen Verb 'alimentare' ab, was 'ernähren' oder 'versorgen' bedeutet und im modernen Rumänisch auch für das Betanken von Fahrzeugen verwendet wird.",
+        "targetText": "Verbul românesc „a alimenta” provine din verbul latin 'alimentare', care înseamnă 'a hrăni' sau 'a aproviziona' și este folosit în română modernă și pentru alimentarea cu combustibil a vehiculelor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der ersten Konjugation."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "fahren",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "Kraftstoff",
+      "targetText": "combustibil"
+    },
+    {
+      "sourceText": "Tank",
+      "targetText": "rezervor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entleeren",
+      "targetText": "a goli"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich tanke das Auto an der Tankstelle.",
+      "targetText": "Alimentez mașina la benzinărie."
+    },
+    {
+      "sourceText": "Er tankt immer vor einer langen Fahrt.",
+      "targetText": "El alimentează întotdeauna înainte de o călătorie lungă."
+    },
+    {
+      "sourceText": "Wir müssen noch tanken, bevor wir losfahren.",
+      "targetText": "Trebuie să alimentăm înainte să plecăm."
+    },
+    {
+      "sourceText": "Sie tankt Diesel, kein Benzin.",
+      "targetText": "Ea alimentează cu motorină, nu cu benzină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „tanken“ erinnert an das englische Wort „tank“ für Behälter. Stell dir vor, du füllst den 'Tank' deines Autos mit 'Tanken'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a alimenta“ kommt vom lateinischen 'alimentare', das auch 'ernähren' bedeutet. Denk daran: Du 'ernährst' dein Auto mit Kraftstoff."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, dein Auto ist wie ein Lebewesen, das Nahrung braucht – deshalb benutzt du „a alimenta“, um es mit Kraftstoff zu versorgen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a alimenta“ mit dem deutschen Wort 'alimentieren' (versorgen), um die Bedeutung 'betanken' zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

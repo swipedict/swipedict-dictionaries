@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-abschmecken",
+  "parent": "ms-ro-a-gusta-si-a-potrivi-gustul-598f77de@6d9f7497e9fe5607e6a117b0fbab121d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abschmecken",
+    "definition": "Ein Gericht probieren und nachwürzen, um den Geschmack zu optimieren.",
+    "pronunciation": "/ˈapʃmɛkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „abschmecken“ setzt sich aus dem Präfix 'ab-' und dem Verb 'schmecken' zusammen, wobei 'schmecken' auf das althochdeutsche 'smackon' zurückgeht, das 'kosten' oder 'schmecken' bedeutet.",
+        "targetText": "Verbul german „abschmecken“ este compus din prefixul 'ab-' și verbul 'schmecken', care provine din germana veche înaltă 'smackon', însemnând 'a gusta' sau 'a simți gustul'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a gusta și a potrivi gustul",
+    "definition": "A încerca un preparat și a ajusta condimentele pentru a obține gustul dorit.",
+    "pronunciation": "/a ˈɡusta ʃi a potˈrivi ˈɡustul/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a gusta“ stammt vom lateinischen 'gustare' ab, was 'kosten' oder 'probieren' bedeutet. Die Wendung „a potrivi gustul“ verwendet das Verb 'a potrivi', das vom lateinischen 'propriare' abstammt und 'anpassen' bedeutet.",
+        "targetText": "Verbul românesc „a gusta” provine din latină, din 'gustare', care înseamnă 'a gusta' sau 'a încerca'. Expresia „a potrivi gustul” folosește verbul 'a potrivi', derivat din latină prin 'propriare', însemnând 'a ajusta' sau 'a adapta'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Kombination aus zwei Verben, um den deutschen Begriff präzise zu übersetzen."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abschmecken (nachwürzen)",
+      "targetText": "a ajusta gustul"
+    },
+    {
+      "sourceText": "probieren",
+      "targetText": "a încerca"
+    },
+    {
+      "sourceText": "schmecken",
+      "targetText": "a gusta"
+    },
+    {
+      "sourceText": "würzen",
+      "targetText": "a condimenta"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "versalzen",
+      "targetText": "a săra prea mult"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich schmecke die Suppe ab und füge Salz hinzu.",
+      "targetText": "Gust supa și adaug sare."
+    },
+    {
+      "sourceText": "Bitte abschmecken und gegebenenfalls nachwürzen.",
+      "targetText": "Te rog să guști și să potrivești gustul dacă este nevoie."
+    },
+    {
+      "sourceText": "Beim Kochen ist es wichtig, das Essen abzuschmecken.",
+      "targetText": "La gătit este important să guști mâncarea."
+    },
+    {
+      "sourceText": "Sie schmeckte die Soße ab, bevor sie sie servierte.",
+      "targetText": "Ea a gustat sosul înainte să-l servească."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a gusta' klingt wie 'gust', das englische Wort für Geschmack, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an das Wort 'Potrivire' (Anpassung) im Rumänischen, um dich an das 'Anpassen' des Geschmacks zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Die Kombination 'a gusta și a potrivi gustul' zeigt, dass man zuerst probiert und dann anpasst – genau wie beim deutschen 'abschmecken'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'schmeckst ab', indem du zuerst probierst und dann 'abschmeckst' – also den Geschmack 'abschließt'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

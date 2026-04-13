@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-geteilt-durch",
+  "parent": "ms-ro-impartit-la-edd85093@23e597a1730ce2905bec6601b209974a",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "geteilt durch",
+    "definition": "Mathematischer Ausdruck für die Division, der angibt, dass eine Zahl durch eine andere geteilt wird.",
+    "pronunciation": "/ɡəˈtaɪ̯lt dʊʁç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Phrase „geteilt durch“ setzt sich aus dem Partizip von „teilen“ und der Präposition „durch“ zusammen, die im Deutschen seit dem Mittelhochdeutschen verwendet wird.",
+        "targetText": "Expresia „geteilt durch“ este formată din participiul verbului „teilen“ și prepoziția „durch“, folosite în limba germană încă din perioada mijlocie."
+      },
+      "source": "Deutsche Grammatik- und Etymologiebücher"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "împărțit la",
+    "definition": "Expresie matematică care indică operația de împărțire a unui număr la altul.",
+    "pronunciation": "/ɨmpɨrˈt͡sit la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Expresia românească „împărțit la“ derivă din verbul „a împărți“, care provine din latinescul 'partiri', însemnând 'a împărți, a diviza'.",
+        "targetText": "Expresia românească „împărțit la“ provine din verbul „a împărți“, derivat din latinescul 'partiri', care înseamnă 'a împărți, a diviza'."
+      },
+      "source": "Dicționare etimologice românești"
+    },
+    "additional": "Wird in mathematischen Kontexten verwendet, um Division auszudrücken."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bruch",
+      "targetText": "fracție"
+    },
+    {
+      "sourceText": "Division",
+      "targetText": "împărțire"
+    },
+    {
+      "sourceText": "Ergebnis",
+      "targetText": "rezultat"
+    },
+    {
+      "sourceText": "Mal (Multiplikation)",
+      "targetText": "înmulțit cu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "multipliziert mit",
+      "targetText": "înmulțit cu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "6 geteilt durch 2 ist 3.",
+      "targetText": "6 împărțit la 2 este 3."
+    },
+    {
+      "sourceText": "Das Ergebnis von 10 geteilt durch 5 ist 2.",
+      "targetText": "Rezultatul lui 10 împărțit la 5 este 2."
+    },
+    {
+      "sourceText": "Wenn du 20 geteilt durch 4 rechnest, bekommst du 5.",
+      "targetText": "Dacă faci 20 împărțit la 4, obții 5."
+    },
+    {
+      "sourceText": "Geteilt durch wird oft mit dem Symbol ‚÷‘ dargestellt.",
+      "targetText": "Împărțit la este adesea reprezentat prin simbolul ‚÷‘."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb ‚a împărți‘ klingt ähnlich wie ‚imparte‘, was ‚teilen‘ bedeutet – so kannst du die Bedeutung leicht verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚la‘ in ‚împărțit la‘ entspricht der deutschen Präposition ‚durch‘, die den Divisor angibt – so merkst du dir die Struktur der Phrase."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „împărțit la“ als ‚imparte la‘ – stelle dir vor, wie du einen Kuchen in Teile ‚imparte‘st und sie ‚la‘ Freunde verteilst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine ‚Partie‘ Kuchen, die du ‚împărțit la‘ mehrere Personen gibst – ‚parti‘ erinnert an ‚partiri‘, die lateinische Wurzel."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

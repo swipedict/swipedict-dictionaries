@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-teilen",
+  "parent": "ms-ro-a-imparti-92d8c3a8@4f56d1912d75d628880976e7ad4745a2",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "teilen",
+    "definition": "etwas in zwei oder mehr Teile zerlegen und diese an andere weitergeben",
+    "pronunciation": "/ˈtaɪ̯lən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „teilen“ stammt vom althochdeutschen „teilan“, was „teilen, zerteilen“ bedeutet, und ist verwandt mit dem deutschen Substantiv „Teil“.",
+        "targetText": "Verbul german „teilen“ provine din althochdeutsch „teilan“, însemnând „a împărți, a diviza“, fiind legat de substantivul german „Teil“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft mit der Bedeutung des Teilens von Informationen oder physischen Objekten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a împărți",
+    "definition": "a descompune ceva în două sau mai multe părți și a le oferi altora",
+    "pronunciation": "/a ɨmpərˈtsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a împărți“ stammt vom lateinischen „partire“ ab, was „teilen“ bedeutet, und hat sich im Rumänischen als regelmäßiges Verb etabliert.",
+        "targetText": "Verbul românesc „a împărți“ derivă din latină „partire“, însemnând „a împărți“, păstrând sensul originar."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-i). Es wird verwendet, um sowohl materielle als auch immaterielle Dinge zu teilen."
+  },
+  "senses": [
+    {
+      "gloss": "teilen (im Sinne von Informationen teilen)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: Informationen oder Gedanken weitergeben.",
+        "targetText": "Ca în germană: a transmite informații sau gânduri altora."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich teile die Neuigkeiten.",
+          "targetText": "Împărtășesc știrile."
+        }
+      ]
+    },
+    {
+      "gloss": "teilen (im Sinne von Kosten teilen)",
+      "explanation": {
+        "sourceText": "Das Teilen von Kosten unter mehreren Personen.",
+        "targetText": "Împărțirea costurilor între mai multe persoane."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir teilen die Mietkosten.",
+          "targetText": "Împărțim costul chiriei."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "behaupten",
+      "targetText": "a susține"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich teile meine Ideen gerne.",
+      "targetText": "Îmi place să împărtășesc ideile mele."
+    },
+    {
+      "sourceText": "Teilst du oft Informationen?",
+      "targetText": "Împărtășești adesea informații?"
+    },
+    {
+      "sourceText": "Er teilt seine Zeit gut ein.",
+      "targetText": "El își împărățește bine timpul."
+    },
+    {
+      "sourceText": "Wir teilen die Kosten.",
+      "targetText": "Împărțim costurile."
+    },
+    {
+      "sourceText": "Teilt ihr das Dessert?",
+      "targetText": "Împărțiți desertul?"
+    },
+    {
+      "sourceText": "Sie teilen die Nachrichten.",
+      "targetText": "Ei împărtășesc știrile."
+    },
+    {
+      "sourceText": "Ich habe die Freude mit anderen geteilt.",
+      "targetText": "Am împărțit bucuria cu alții."
+    },
+    {
+      "sourceText": "Sie haben die Kosten fair geteilt.",
+      "targetText": "Ei au împărțit costurile corect."
+    },
+    {
+      "sourceText": "Er teilte alles mit seinen Freunden.",
+      "targetText": "El împărtășea totul cu prietenii lui."
+    },
+    {
+      "sourceText": "Ich hatte das Video geteilt, bevor du es sahst.",
+      "targetText": "Împărțisem video-ul înainte să-l vezi."
+    },
+    {
+      "sourceText": "Ich werde die Neuigkeiten teilen.",
+      "targetText": "Voi împărtăși noutățile."
+    },
+    {
+      "sourceText": "Sie werden die Informationen teilen.",
+      "targetText": "Ei o să împărtășească informațiile."
+    },
+    {
+      "sourceText": "Ich würde die Grafik teilen, wenn ich könnte.",
+      "targetText": "Aș împărți grafica dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist nötig, dass du teilst.",
+      "targetText": "Este important să împarți."
+    },
+    {
+      "sourceText": "Teile die guten Nachrichten!",
+      "targetText": "Împărtășește veștile bune!"
+    },
+    {
+      "sourceText": "Teilt die Infos!",
+      "targetText": "Împărtășiți informațiile!"
+    },
+    {
+      "sourceText": "Die geteilte Freude ist doppelte Freude.",
+      "targetText": "Bucuria împărțită este o bucurie dublă."
+    },
+    {
+      "sourceText": "Die Informationen sind geteilt.",
+      "targetText": "Informațiile sunt împărtășite."
+    },
+    {
+      "sourceText": "Teilen bedeutet, glücklich zu sein.",
+      "targetText": "Împărțind, ești fericit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix „îm-“ in „împărți“ zeigt an, dass etwas verteilt oder unterteilt wird – ähnlich wie „in“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „împărți“ klingt wie „im Part“ – stell dir vor, du teilst etwas in einem Teil (Part) mit anderen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Bild, wie du einen Kuchen in Stücke schneidest und mit Freunden teilst – so merkst du dir „a împărți“."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze Sätze wie „Eu împart prietenilor“ (Ich teile mit Freunden), um die Verwendung zu verinnerlichen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „teilen“ mit „împărți“ durch das gemeinsame lateinische „partire“ – beide bedeuten, etwas in Teile zu zerlegen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

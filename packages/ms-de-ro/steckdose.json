@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-steckdose",
+  "parent": "ms-ro-priza-f5194fac@251ede49719edd53e4c5c67f2ac8f610",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Steckdose",
+    "genus": "feminine",
+    "definition": "Eine Vorrichtung an der Wand, in die elektrische Stecker eingesteckt werden, um Geräte mit Strom zu versorgen.",
+    "pronunciation": "/ˈʃtɛkˌdoːzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Steckdose“ setzt sich zusammen aus 'stecken' (einstecken) und 'Dose' (Behälter), wobei 'Dose' vom mittelhochdeutschen 'dose' stammt, das wiederum aus dem lateinischen 'doxa' (Gefäß) entlehnt ist.",
+        "targetText": "Cuvântul german „Steckdose” este compus din 'stecken' (a introduce) și 'Dose' (recipient), iar 'Dose' provine din germana mijlocie 'dose', împrumutat din latină 'doxa' însemnând recipient."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "priză",
+    "genus": "feminine",
+    "definition": "Dispozitiv montat pe perete în care se introduce un cablu electric pentru a alimenta aparate cu energie electrică.",
+    "pronunciation": "/priˈzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „priză“ stammt vom lateinischen 'prehendere' ab, was 'ergreifen' oder 'fassen' bedeutet, über die Entwicklung im Lateinischen und Slawischen zu einem Begriff für eine elektrische Steckvorrichtung.",
+        "targetText": "Cuvântul românesc „priză” provine din latină 'prehendere', care înseamnă 'a apuca' sau 'a prinde', evoluând prin influențe latine și slave către sensul de dispozitiv electric."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Elektrizität",
+      "targetText": "electricitate"
+    },
+    {
+      "sourceText": "Kabel",
+      "targetText": "cablu"
+    },
+    {
+      "sourceText": "Schalter",
+      "targetText": "întrerupător"
+    },
+    {
+      "sourceText": "Stecker",
+      "targetText": "ștecăr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Lampe ist in die Steckdose eingesteckt.",
+      "targetText": "Lampa este introdusă în priză."
+    },
+    {
+      "sourceText": "Bitte zieh den Stecker aus der Steckdose, bevor du das Gerät reparierst.",
+      "targetText": "Te rog scoate ștecărul din priză înainte să repari aparatul."
+    },
+    {
+      "sourceText": "In jedem Raum gibt es mehrere Steckdosen.",
+      "targetText": "În fiecare cameră există mai multe prize."
+    },
+    {
+      "sourceText": "Die Steckdose ist defekt und muss ausgetauscht werden.",
+      "targetText": "Priza este defectă și trebuie înlocuită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Steckdose' beschreibt genau, was man macht: Man steckt etwas in eine Dose. Im Rumänischen ist 'priză' ein kurzer, prägnanter Begriff, der von 'prinde' (greifen) kommt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'priză' klingt ähnlich wie 'prise' im Französischen, was 'Steckdose' bedeutet – so kannst du dir die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'priză' nicht nur für Steckdose, sondern auch für 'Aufnahme' oder 'Anschluss' im weiteren Sinne steht – es geht immer ums 'Anfassen' oder 'Anschließen'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'priest' (greifst) etwas fest – 'priză' kommt von 'a prinde' (greifen), genau wie man den Stecker in die Steckdose greift."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

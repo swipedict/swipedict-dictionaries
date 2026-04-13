@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-stabil",
+  "parent": "ms-ro-stabil-08d4ea76@f92ebe7a7ddef53ea2cca4536f30c4a7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stabil",
+    "definition": "fest oder sicher in seiner Struktur, nicht leicht beweglich oder veränderbar",
+    "pronunciation": "/ʃtaˈbiːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „stabil“ ist vom lateinischen „stabilis“ abgeleitet, was „fest“ oder „beständig“ bedeutet.",
+        "targetText": "Cuvântul german „stabil“ provine din latinescul „stabilis“, care înseamnă „solid“ sau „constant“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stabil",
+    "genus": "adjective",
+    "definition": "fermit sau sigur în structura sa, nu ușor mișcabil sau modificabil",
+    "pronunciation": "/staˈbil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „stabil“ stammt ebenfalls aus dem Lateinischen „stabilis“ und bedeutet „fest“ oder „unveränderlich“.",
+        "targetText": "Cuvântul românesc „stabil“ provine tot din latinescul „stabilis“ și înseamnă „solid“ sau „nemodificabil“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet wird es oft in technischen und alltäglichen Kontexten."
+  },
+  "senses": [
+    {
+      "gloss": "stabil (fest)",
+      "explanation": {
+        "sourceText": "Im Deutschen bezeichnet 'stabil' etwas, das nicht leicht bewegt werden kann.",
+        "targetText": "În germană, „stabil“ descrie ceva greu de mutat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ein stabiler Tisch.",
+          "targetText": "O masă stabilă."
+        }
+      ]
+    },
+    {
+      "gloss": "stabil (zuverlässig)",
+      "explanation": {
+        "sourceText": "'Stabil' wird oft für Zuverlässigkeit gebraucht.",
+        "targetText": "„Stabil“ este folosit și pentru a descrie fiabilitatea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ein stabiler Plan.",
+          "targetText": "Un plan stabil."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "dauerhaft",
+      "targetText": "durabil"
+    },
+    {
+      "sourceText": "fest",
+      "targetText": "ferm"
+    },
+    {
+      "sourceText": "robust",
+      "targetText": "rezistent"
+    },
+    {
+      "sourceText": "sicher",
+      "targetText": "sigur"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "instabil",
+      "targetText": "instabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Tisch ist sehr stabil.",
+      "targetText": "Masa este foarte stabilă."
+    },
+    {
+      "sourceText": "Wir benötigen eine stabile Lösung.",
+      "targetText": "Avem nevoie de o soluție stabilă."
+    },
+    {
+      "sourceText": "Das Team hat eine stabile Zusammenarbeit.",
+      "targetText": "Echipa are o colaborare stabilă."
+    },
+    {
+      "sourceText": "Seine Gesundheit ist stabil.",
+      "targetText": "Sănătatea lui este stabilă."
+    },
+    {
+      "sourceText": "Die Wirtschaft bleibt stabil.",
+      "targetText": "Economia rămâne stabilă."
+    },
+    {
+      "sourceText": "Der Aufbau ist stabil und zuverlässig.",
+      "targetText": "Construcția este stabilă și de încredere."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stabil“ klingt in beiden Sprachen gleich und bedeutet fast dasselbe – das macht das Merken einfach."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an „stabil laufen“ – ohne zu fallen, weil alles fest und sicher ist."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird oft ein -ă für das Femininum angehängt: stabil → stabilă."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen stabilen Felsen vor, der jedem Sturm standhält – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

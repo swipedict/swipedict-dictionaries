@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-rad-fahrrad-auto",
+  "parent": "ms-ro-roata-bd3aefb8@0548f22c9f678e8d0aaf77312a7574c0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Rad",
+    "genus": "neuter",
+    "definition": "Ein rundes, meist drehbares Bauteil, das bei Fahrzeugen wie Fahrrädern oder Autos zur Fortbewegung dient.",
+    "pronunciation": "/ʁaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Rad“ stammt vom althochdeutschen 'rad' ab, das auf das urgermanische '*rathaz' zurückgeht und mit dem altenglischen 'rād' verwandt ist, was 'Rad' oder 'Reifen' bedeutet.",
+        "targetText": "Cuvântul german „Rad” provine din germana veche înaltă 'rad', derivat din proto-germanicul '*rathaz', înrudit cu englezescul vechi 'rād', care înseamnă 'roată' sau 'cerc'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "roată",
+    "genus": "feminine",
+    "definition": "O piesă rotundă, de obicei mobilă, folosită la vehicule precum biciclete sau mașini pentru deplasare.",
+    "pronunciation": "/roˈa.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „roată“ stammt vom lateinischen 'rota' ab, das 'Rad' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „roată” provine din latină, din termenul 'rota', care înseamnă 'roată' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Fahrrad",
+      "targetText": "bicicletă"
+    },
+    {
+      "sourceText": "Lenkrad",
+      "targetText": "volan"
+    },
+    {
+      "sourceText": "Reifen",
+      "targetText": "anvelopă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Fahrrad hat zwei Räder.",
+      "targetText": "Bicicleta are două roți."
+    },
+    {
+      "sourceText": "Das Auto braucht vier Räder, um zu fahren.",
+      "targetText": "Mașina are nevoie de patru roți pentru a merge."
+    },
+    {
+      "sourceText": "Das Rad dreht sich schnell.",
+      "targetText": "Roata se învârte repede."
+    },
+    {
+      "sourceText": "Das Ersatzrad ist im Kofferraum.",
+      "targetText": "Roata de rezervă este în portbagaj."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'roată' klingt ähnlich wie 'Rad' mit einem zusätzlichen 'o' und 'ă' am Ende – stell dir vor, das Rad bekommt einen kleinen 'Ohrwurm' (o + ă)."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'roată' endet auf 'ă', einen typischen rumänischen Laut – das hilft dir, es als rumänisches Wort zu erkennen und vom deutschen 'Rad' zu unterscheiden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'roată' vom lateinischen 'rota' kommt – viele romanische Sprachen haben ähnliche Wörter, z.B. italienisch 'ruota' oder französisch 'roue'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie das Rad sich dreht und dabei ein 'R-O-A-T-Ä' Geräusch macht – so kannst du dir die Reihenfolge der Buchstaben merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

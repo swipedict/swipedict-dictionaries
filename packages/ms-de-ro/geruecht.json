@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-geruecht",
+  "parent": "ms-ro-zvon-3dd5b031@28b127aa9cf2cf99b29fc3cf7baf89f1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gerücht",
+    "genus": "neuter",
+    "definition": "Eine unbestätigte Nachricht oder Information, die sich verbreitet.",
+    "pronunciation": "/ɡəˈrʏçt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Gerücht“ stammt vom mittelhochdeutschen 'gerüechte' ab, das auf das Verb 'rüchen' (melden, berichten) zurückgeht.",
+        "targetText": "Cuvântul german „Gerücht” provine din germana mijlocie 'gerüechte', derivat din verbul 'rüchen' care înseamnă 'a raporta' sau 'a relata'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "zvon",
+    "genus": "neuter",
+    "definition": "O informație neconfirmată care se răspândește unter oameni.",
+    "pronunciation": "/zvon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „zvon“ stammt aus dem Slawischen, verwandt mit dem altslawischen 'zvъnŭ', was 'Klang' oder 'Glocke' bedeutet und metaphorisch für eine verbreitete Nachricht steht.",
+        "targetText": "Cuvântul românesc „zvon” provine din slavă, legat de vechiul slav 'zvъnŭ', care înseamnă 'sunet' sau 'clopot', folosit metaforic pentru o veste răspândită."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Falschmeldung",
+      "targetText": "știre falsă"
+    },
+    {
+      "sourceText": "Gerücht verbreiten",
+      "targetText": "a răspândi zvonuri"
+    },
+    {
+      "sourceText": "Klatsch",
+      "targetText": "bârfa"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "informație"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fakt",
+      "targetText": "fapt"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Gerücht verbreitete sich schnell in der Stadt.",
+      "targetText": "Zvonul s-a răspândit rapid în oraș."
+    },
+    {
+      "sourceText": "Ich habe nur ein Gerücht gehört, keine bestätigte Nachricht.",
+      "targetText": "Am auzit doar un zvon, nu o informație confirmată."
+    },
+    {
+      "sourceText": "Gerüchte können oft schaden.",
+      "targetText": "Zvonurile pot face adesea rău."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „zvon“ klingt wie das deutsche Wort „Ton“ mit einem 'z' davor – so kannst du dir den Klang einer Nachricht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kommt aus dem Slawischen, was dir hilft, es von anderen romanischen Wörtern zu unterscheiden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „zvon“ eine unbestätigte Nachricht ist – ähnlich wie ein Klang, der sich ausbreitet, aber nicht immer klar ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Glockenton (zvon) eine Nachricht verbreitet – so merkst du dir die Bedeutung von „zvon“ als Gerücht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

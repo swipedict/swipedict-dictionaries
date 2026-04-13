@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-grillen",
+  "parent": "ms-ro-a-face-gratar-657f2e6f@3f09dbb77bac8b9b843125e68b31e319",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:internal",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "grillen",
+    "definition": "Nahrungsmittel durch direkte Hitzeeinwirkung auf einem Rost über offener Glut oder einer anderen Hitzequelle garen",
+    "pronunciation": "/ˈɡʁɪlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt aus französisch 'griller' (rösten), zu altfranzösisch 'grille' (Rost), von lateinisch 'craticula' (kleiner Rost, Bratrost).",
+        "targetText": "Verbul german „grillen“ provine din franceza „griller“ (a prăji), care la rândul său vine din franceza veche „grille“ (grătar), derivat din latină „craticula“ (grătar mic)."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Beliebte Methode des Kochens im Freien, besonders im Sommer (Barbecue, BBQ)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a face grătar",
+    "definition": "a găti alimente prin expunere directă la căldură pe un grătar deasupra focului deschis, jarului sau altei surse de căldură",
+    "pronunciation": "/a ˈfa.t͡ʃe ɡrəˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Aus dem rumänischen Substantiv „grătar“ (Grill), das vom neugriechischen „skhara“ abstammt, kombiniert mit dem Verb „a face“ (machen).",
+        "targetText": "Expresia românească „a face grătar“ provine din substantivul „grătar“, împrumutat din greaca nouă „skhara“, combinat cu verbul „a face“."
+      },
+      "source": "DEX, Wiktionary (for grătar)"
+    },
+    "additional": "Metodă populară de gătit în aer liber, mai ales vara. Se poate folosi și 'a pregăti la grătar' sau 'a coace pe grătar'."
+  },
+  "senses": [
+    {
+      "gloss": "Fleisch grillen",
+      "explanation": {
+        "sourceText": "Das Garen von Fleisch auf einem Grill.",
+        "targetText": "Gătirea cărnii pe grătar."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir grillen heute Abend Steaks.",
+          "targetText": "Diseară facem fripturi la grătar."
+        }
+      ]
+    },
+    {
+      "gloss": "Gemüse grillen",
+      "explanation": {
+        "sourceText": "Das Garen von Gemüse auf einem Grill.",
+        "targetText": "Gătirea legumelor pe grătar."
+      },
+      "examples": [
+        {
+          "sourceText": "Man kann auch Gemüse sehr gut grillen.",
+          "targetText": "Se pot pregăti și legume foarte bune la grătar."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Barbecue",
+      "targetText": "barbecue"
+    },
+    {
+      "sourceText": "Fleisch",
+      "targetText": "carne"
+    },
+    {
+      "sourceText": "Gemüse",
+      "targetText": "legume"
+    },
+    {
+      "sourceText": "Grill",
+      "targetText": "grătar"
+    },
+    {
+      "sourceText": "Holzkohle",
+      "targetText": "cărbune (de lemn)"
+    },
+    {
+      "sourceText": "Sommer",
+      "targetText": "vară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "backen (im Ofen)",
+      "targetText": "a coace (la cuptor)"
+    },
+    {
+      "sourceText": "braten (in der Pfanne)",
+      "targetText": "a prăji"
+    },
+    {
+      "sourceText": "kochen (in Wasser)",
+      "targetText": "a fierbe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich grille die Würstchen.",
+      "targetText": "Fac cârnații la grătar."
+    },
+    {
+      "sourceText": "Grillst du das Gemüse?",
+      "targetText": "Pregătești legumele la grătar?"
+    },
+    {
+      "sourceText": "Er grillt die Steaks perfekt.",
+      "targetText": "El face fripturile la grătar perfect."
+    },
+    {
+      "sourceText": "Wir grillen im Garten.",
+      "targetText": "Facem grătar în grădină."
+    },
+    {
+      "sourceText": "Was grillt ihr heute?",
+      "targetText": "Ce faceți la grătar astăzi?"
+    },
+    {
+      "sourceText": "Sie lieben es, am Wochenende zu grillen.",
+      "targetText": "Ei iubesc să facă grătar în weekend."
+    },
+    {
+      "sourceText": "Ich habe gestern Hähnchen gegrillt.",
+      "targetText": "Am făcut pui la grătar ieri."
+    },
+    {
+      "sourceText": "Wir werden morgen Fische grillen.",
+      "targetText": "Vom pregăti pește la grătar mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Grill“ und das rumänische „grătar“ klingen sehr ähnlich. Denk daran: „grillen“ heißt „a face grătar“ – also „am Grătar machen“."
+    },
+    {
+      "lang": "de",
+      "text": "Unterscheide die Kochmethoden: „grillen“ (a face grătar), „braten“ (a prăji), „kochen“ (a fierbe) – so bleibst du beim Lernen klar."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

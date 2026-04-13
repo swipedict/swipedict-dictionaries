@@ -1,0 +1,137 @@
+{
+  "id": "ms-de-ro-motor",
+  "parent": "ms-ro-motor-cb530440@9122bc3c1a62797ea5d9dd7eb092f90f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Motor",
+    "genus": "masculine",
+    "definition": "eine Maschine, die mechanische Energie erzeugt",
+    "pronunciation": "/ˈmoːtɐʁ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Motor“ stammt vom lateinischen „motor“ ab, was ‚Beweger‘ oder ‚Treiber‘ bedeutet.",
+        "targetText": "Cuvântul „motor“ provine din latinescul „motor“, care înseamnă „cel care mișcă“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Motoren sind entscheidend für die Funktionsweise der meisten Maschinen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "motor",
+    "genus": "neuter",
+    "definition": "o mașină care generează energie mecanică",
+    "pronunciation": "/moˈtor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „motor“ hat denselben lateinischen Ursprung wie das deutsche Wort und bezeichnet einen Mechanismus, der Energie erzeugt.",
+        "targetText": "Cuvântul românesc „motor“ are aceeași origine latină ca și cuvântul german și desemnează un mecanism care generează energie."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "In der Technologie sind verschiedene Arten von Motoren, wie Elektromotoren und Verbrennungsmotoren, weit verbreitet."
+  },
+  "senses": [
+    {
+      "gloss": "Motor / Maschine",
+      "explanation": {
+        "sourceText": "Allgemein das Wort für einen mechanischen Antrieb.",
+        "targetText": "Termen general pentru un mecanism care produce mișcare."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Motor läuft effektiv.",
+          "targetText": "Motorul funcționează eficient."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Energie",
+      "targetText": "energie"
+    },
+    {
+      "sourceText": "Fahren",
+      "targetText": "a conduce"
+    },
+    {
+      "sourceText": "Kraft",
+      "targetText": "putere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Bremsen",
+      "targetText": "a opri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Motor meines Autos ist leistungsstark.",
+      "targetText": "Motorul mașinii mele este puternic."
+    },
+    {
+      "sourceText": "Der Ingenieur repariert den Motor.",
+      "targetText": "Inginerul repară motorul."
+    },
+    {
+      "sourceText": "Der Motor läuft leise.",
+      "targetText": "Motorul funcționează liniștit."
+    },
+    {
+      "sourceText": "Ich brauche einen neuen Motor für mein Moped.",
+      "targetText": "Am nevoie de un motor nou pentru mopedul meu."
+    },
+    {
+      "sourceText": "Der Motor ist das Herzstück der Maschine.",
+      "targetText": "Motorul este inima mașinii."
+    },
+    {
+      "sourceText": "Die Entwicklung neuer Motoren ist wichtig für die Industrie.",
+      "targetText": "Dezvoltarea de noi motoare este importantă pentru industrie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Motor“ klingt wie „Munition“ – beide geben dir Kraft, weiterzumachen!"
+    },
+    {
+      "lang": "de",
+      "text": "Im Wort „motor“ steckt „tor“ – denk an ein großes Tor, das viele Möglichkeiten öffnet!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Motor“ bedeutet ‚Beweger‘ – es treibt alles an, was sich bewegt!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen starken Motor vor, der alles antreibt – so bleibt dir das Wort „motor“ gut im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

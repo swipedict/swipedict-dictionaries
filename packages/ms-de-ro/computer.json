@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-computer",
+  "parent": "ms-ro-calculator-247990c2@545aa35dd67de88c3620900ef281ec82",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Computer",
+    "genus": "masculine",
+    "definition": "ein elektronisches Gerät zur Verarbeitung von Daten",
+    "pronunciation": "/kəmˈpjuːtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Computer“ kommt aus dem Englischen „to compute“, was „rechnen“ bedeutet. Im modernen Sprachgebrauch bezeichnet es ein elektronisches Gerät, das Informationen verarbeitet.",
+        "targetText": "Das Wort stammt vom englischen Verb „to compute“ ab und bezeichnet ein Rechen- oder Verarbeitungsgerät."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Computer sind ein wesentlicher Bestandteil des modernen Lebens und werden in verschiedenen Bereichen eingesetzt."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "calculator",
+    "genus": "masculine",
+    "definition": "un dispozitiv electronic pentru prelucrarea datelor",
+    "pronunciation": "/kal.kuˈla.tor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „calculator“ stammt vom lateinischen „calculare“, das „rechnen“ bedeutet. Es bezieht sich auf ein Gerät zur Datenverarbeitung und ist untrennbar mit der Technologie verbunden.",
+        "targetText": "Termenul provine din latină și desemnează un dispozitiv pentru calcul și prelucrare date."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Calculator“ wird auch für verschiedene Arten von Berechnungen in der Mathematik verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Calculator (Gerät)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: dient anstelle eines Computers.",
+        "targetText": "Dispozitiv folosit pentru calcul și procesare de date."
+      },
+      "examples": [
+        {
+          "sourceText": "Nimm diesen Rechner für deine Matheaufgaben.",
+          "targetText": "Folosește acest calculator pentru problemele tale de matematică."
+        }
+      ]
+    },
+    {
+      "gloss": "Rechenmaschine",
+      "explanation": {
+        "sourceText": "Ein mechanisches Gerät zum Rechnen.",
+        "targetText": "Un dispozitiv mecanic pentru efectuarea calculelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die alte Rechenmaschine wird selten verwendet.",
+          "targetText": "Vechea maşină de calcul este folosită rar."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Maus",
+      "targetText": "mouse"
+    },
+    {
+      "sourceText": "Monitor",
+      "targetText": "monitor"
+    },
+    {
+      "sourceText": "Software",
+      "targetText": "software"
+    },
+    {
+      "sourceText": "Tastatur",
+      "targetText": "tastatură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Papier",
+      "targetText": "document"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Mein Computer ist sehr schnell.",
+      "targetText": "Calculatorul meu este foarte rapid."
+    },
+    {
+      "sourceText": "Ich benutze den Computer für meine Arbeiten.",
+      "targetText": "Folosesc calculatorul pentru munca mea."
+    },
+    {
+      "sourceText": "Der Computer hat ein neues Programm installiert.",
+      "targetText": "Calculatorul a instalat un program nou."
+    },
+    {
+      "sourceText": "Hast du einen Computer in der Schule?",
+      "targetText": "Ai un calculator la școală?"
+    },
+    {
+      "sourceText": "Der Computer benötigt ein Update.",
+      "targetText": "Calculatorul are nevoie de o actualizare."
+    },
+    {
+      "sourceText": "Ich kaufe einen neuen Computer.",
+      "targetText": "Cumpăr un calculator nou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Calculator“ wird sowohl für Computer als auch für mathematische Berechnungen verwendet – eine doppelte Bedeutung!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „calculator“ wie „calculate“ klingt – das ist eine einfache Verbindung!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, dass dein „calculator“ viele Berechnungen für dich durchführt!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort „computer“ mit „calculator“, indem du an Matheaufgaben denkst!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

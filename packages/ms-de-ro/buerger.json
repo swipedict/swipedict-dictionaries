@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-buerger",
+  "parent": "ms-ro-cetatean-2a33e198@e91652b81646488ffa29cf33a3760435",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bürger",
+    "genus": "masculine",
+    "definition": "Ein Einwohner einer Stadt mit bestimmten Rechten und Pflichten.",
+    "pronunciation": "/ˈbʏʁɡɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bürger“ stammt vom mittelhochdeutschen 'burcære' ab, das auf das althochdeutsche 'burgari' zurückgeht, abgeleitet von 'Burg' (Stadt, Festung).",
+        "targetText": "Cuvântul german „Bürger” provine din germana mijlocie 'burcære', derivat din germana veche înaltă 'burgari', legat de 'Burg' (cetate, oraș fortificat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cetățean",
+    "genus": "masculine",
+    "definition": "Un locuitor al unui oraș sau stat, cu drepturi și obligații.",
+    "pronunciation": "/t͡ʃetaˈt͡se̯an/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cetățean“ stammt vom lateinischen 'civitas' (Stadt, Bürgerschaft) über das Adjektiv 'civitas' und das Substantiv 'civitas' ab.",
+        "targetText": "Cuvântul românesc „cetățean” provine din latinescul 'civitas' (oraș, cetățenie) prin adaptarea adjectivală și substantivală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bürgerschaft",
+      "targetText": "cetățenie"
+    },
+    {
+      "sourceText": "Pflichten",
+      "targetText": "obligații"
+    },
+    {
+      "sourceText": "Rechte",
+      "targetText": "drepturi"
+    },
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ausländer",
+      "targetText": "străin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Bürger hat das Recht zu wählen.",
+      "targetText": "Cetățeanul are dreptul să voteze."
+    },
+    {
+      "sourceText": "Alle Bürger müssen die Gesetze respektieren.",
+      "targetText": "Toți cetățenii trebuie să respecte legile."
+    },
+    {
+      "sourceText": "Die Bürger der Stadt trafen sich zur Versammlung.",
+      "targetText": "Cetățenii orașului s-au întâlnit la adunare."
+    },
+    {
+      "sourceText": "Ein Bürger zahlt Steuern und hat Pflichten.",
+      "targetText": "Un cetățean plătește taxe și are obligații."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „cetățean“ erinnert an das deutsche Wort „Zehnt(e)“ (alte Steuer), denn Bürger zahlen Steuern."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „cetățean“ endet auf -ean, typisch für rumänische Substantive, die Personen bezeichnen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: „cetățean“ kommt von lateinisch 'civitas' – Stadt und Bürgerschaft, ähnlich wie „Bürger“ von 'Burg'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Bürger steht vor der 'Zitadelle' (cetate), so merkst du „cetățean“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

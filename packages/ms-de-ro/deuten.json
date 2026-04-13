@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-deuten",
+  "parent": "ms-ro-a-interpreta-478d209e@084286fcef7535c2980b25eb2adfbfaf",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "deuten",
+    "definition": "eine Bedeutung oder einen Sinn aus etwas ableiten oder erklären",
+    "pronunciation": "/ˈdɔɪ̯tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb hat seinen Ursprung in mittelhochdeutsch „diuten“, was „deuten, erklären“ bedeutet und ist etymologisch eng verwandt mit dem althochdeutschen „diutan“.",
+        "targetText": "Verbul provine din mijlocigermanicul „diuten“, care înseamnă „a interpreta“ sau „a explica“, fiind legat de althochdeutsch „diutan“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verwendet für das Interpretieren von Zeichen, Träumen oder Informationen. Gehört oft in den Kontext von Kunst und Literatur."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a interpreta",
+    "definition": "a deduce sau a explica un sens sau o semnificație din ceva",
+    "pronunciation": "/a in.ter.preˈra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A interpreta“ stammt vom lateinischen „interpretari“ und bedeutet „erklären, auslegen“ und leitet sich zusammengesetzt ab: „inter“ (zwischen) und „pretari“ (bewerten). Dies zeigt an, dass es darum geht, zwischen verschiedenen Bedeutungen oder Kontexten zu wählen.",
+        "targetText": "Verbul „a interpreta“ derivă din latinul „interpretari“, format din „inter“ (între) și „pretari“ (a evalua), indicând procesul de a explica sau deduce sensuri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in Kontexten wie Kunst-, Literatur- oder Musikinterpretation."
+  },
+  "senses": [
+    {
+      "gloss": "Bedeutungsanalyse",
+      "explanation": {
+        "sourceText": "Das Wort wird oft in der Analyse von Literatur verwendet.",
+        "targetText": "Cuvântul este folosit frecvent în analiza literară."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen die Bedeutung des Textes interpretieren.",
+          "targetText": "Trebuie să interpretăm semnificația textului."
+        }
+      ]
+    },
+    {
+      "gloss": "Wahrnehmung",
+      "explanation": {
+        "sourceText": "'Interpretare' kann auch die Wahrnehmung einer Situation oder eines Bildes beschreiben.",
+        "targetText": "„Interpretare“ poate descrie și percepția unei situații sau imagini."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich interpretiere die Welt um mich.",
+          "targetText": "Eu interpretez lumea din jurul meu."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bedeutung",
+      "targetText": "semnificație"
+    },
+    {
+      "sourceText": "Hinweis",
+      "targetText": "indiciu"
+    },
+    {
+      "sourceText": "Interpretation",
+      "targetText": "interpretare"
+    },
+    {
+      "sourceText": "Zeichen",
+      "targetText": "semn"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verstecken",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich deute die Symbole in der Kunst.",
+      "targetText": "Eu interpretez simbolurile din artă."
+    },
+    {
+      "sourceText": "Ich habe die Träume gedeutet.",
+      "targetText": "Am interpretat visele."
+    },
+    {
+      "sourceText": "Ich werde das Gemälde nächstes Jahr deuten.",
+      "targetText": "Voi interpreta tabloul anul viitor."
+    },
+    {
+      "sourceText": "Ich würde die Zeichen anders deuten, wenn ich mehr wüsste.",
+      "targetText": "Aș interpreta semnele altfel dacă aș ști mai mult."
+    },
+    {
+      "sourceText": "Deute die Botschaft!",
+      "targetText": "Interpretează mesajul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A interpreta“ ist ein Schlüsselwort für jeden, der sich für Kunst und Kultur interessiert. Verbinde es mit Kunstwerken oder Musikstücken!"
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „deuten“ oft eine subjektive Wahrnehmung beschreibt – übe, persönliche Interpretationen zu geben."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

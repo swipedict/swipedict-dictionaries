@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-schlagzeile",
+  "parent": "ms-ro-titlu-principal-28ec9e4e@60f3b84c6c0328eb01adf633c9aa37e5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schlagzeile",
+    "genus": "feminine",
+    "definition": "Die auffällige Überschrift eines Zeitungsartikels, die das Wichtigste kurz und prägnant zusammenfasst.",
+    "pronunciation": "/ˈʃlaːkˌtsaɪ̯lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schlagzeile“ setzt sich aus ‚Schlag‘ im Sinne von ‚prägnanter, auffälliger Ausdruck‘ und ‚Zeile‘ als Zeile in einem Text zusammen. Es entstand im 19. Jahrhundert im Kontext des Journalismus.",
+        "targetText": "Cuvântul german „Schlagzeile“ este compus din „Schlag“ în sensul de expresie concisă și „Zeile“ care înseamnă rând într-un text. A apărut în secolul al XIX-lea în contextul jurnalismului."
+      },
+      "source": "Etymologische Wörterbücher, Fachliteratur Journalismus"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "titlu principal",
+    "genus": "neuter",
+    "definition": "Titlul proeminent al unui articol de ziar, care rezumă pe scurt și clar informația cea mai importantă.",
+    "pronunciation": "/ˈtitlu prin.t͡ʃiˈpal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚titlu‘ stammt vom lateinischen ‚titulus‘ ab, was ursprünglich ‚Inschrift‘ oder ‚Überschrift‘ bedeutete. ‚Principal‘ kommt aus dem Lateinischen ‚principalis‘ und bedeutet ‚hauptsächlich‘ oder ‚wichtig‘.",
+        "targetText": "Cuvântul românesc „titlu” provine din latinul „titulus”, care inițial însemna „inscripție” sau „titlu”. „Principal” vine din latinul „principalis” și înseamnă „principal” sau „important”."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    },
+    "additional": "Zusammensetzung aus ‚titlu‘ (Titel) und ‚principal‘ (hauptsächlich)."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Artikel",
+      "targetText": "articol"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știre"
+    },
+    {
+      "sourceText": "Überschrift",
+      "targetText": "titlu"
+    },
+    {
+      "sourceText": "Zeitung",
+      "targetText": "ziar"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Schlagzeile auf der Titelseite war sehr dramatisch.",
+      "targetText": "Titlul principal de pe prima pagină a fost foarte dramatic."
+    },
+    {
+      "sourceText": "Eine gute Schlagzeile zieht die Aufmerksamkeit der Leser an.",
+      "targetText": "Un titlu principal bun atrage atenția cititorilor."
+    },
+    {
+      "sourceText": "Die Schlagzeile fasst die wichtigsten Informationen kurz zusammen.",
+      "targetText": "Titlul principal rezumă pe scurt cele mai importante informații."
+    },
+    {
+      "sourceText": "Viele Zeitungen verwenden Schlagzeilen, um ihre Artikel hervorzuheben.",
+      "targetText": "Multe ziare folosesc titluri principale pentru a evidenția articolele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚titlu principal‘ kannst du dir merken, indem du ‚titlu‘ mit ‚Titel‘ vergleichst und ‚principal‘ als ‚der wichtigste‘ verstehst."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: ‚Schlag‘ in ‚Schlagzeile‘ bedeutet hier nicht nur ‚Schlag‘ wie schlagen, sondern eher ‚prägnanter Ausdruck‘ – ähnlich wie ein Schlagwort."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine ‚Schlagzeile‘ schlägt wie ein Hammer ins Auge des Lesers – sie ist kurz, prägnant und macht sofort aufmerksam."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an eine Zeitung denkst, ist die ‚Schlagzeile‘ wie der ‚Haupttitel‘, also ‚titlu principal‘ – das Wichtigste zuerst!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

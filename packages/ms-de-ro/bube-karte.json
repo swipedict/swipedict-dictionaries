@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-bube-karte",
+  "parent": "ms-ro-valet-3d056a97@f99d27aacef3e1feb16ef0574564b0e2",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bube",
+    "genus": "masculine",
+    "definition": "Eine Spielkarte mit dem Wert zwischen 10 und Dame, oft mit einem jungen Mann als Motiv.",
+    "pronunciation": "/ˈbuːbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Bube“ stammt vom mittelhochdeutschen 'buobe' ab, das 'Junge' oder 'Knabe' bedeutet und auf die germanische Wurzel *buwô zurückgeht.",
+        "targetText": "Cuvântul german „Bube” provine din germana mijlocie înaltă 'buobe', care însemna 'băiat' sau 'tânăr', derivat din rădăcina germanică *buwô."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "valet",
+    "genus": "masculine",
+    "definition": "O carte de joc cu valoarea între 10 și damă, reprezentând un tânăr bărbat.",
+    "pronunciation": "/vaˈlet/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „valet“ stammt aus dem Französischen 'valet', das 'Diener' oder 'Junge' bedeutet und im Kartenspiel übernommen wurde.",
+        "targetText": "Cuvântul românesc „valet” provine din franceză, de la 'valet', care înseamnă 'servitor' sau 'băiat', preluat în terminologia jocurilor de cărți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ass (Karte)",
+      "targetText": "as"
+    },
+    {
+      "sourceText": "Dame (Karte)",
+      "targetText": "damă"
+    },
+    {
+      "sourceText": "Karte",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "König (Karte)",
+      "targetText": "rege"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Bube ist eine wichtige Karte im Spiel.",
+      "targetText": "Valetul este o carte importantă în joc."
+    },
+    {
+      "sourceText": "Ich habe einen Buben gezogen.",
+      "targetText": "Am tras un valet."
+    },
+    {
+      "sourceText": "Der Bube folgt auf die Zehn.",
+      "targetText": "Valetul urmează după zece."
+    },
+    {
+      "sourceText": "Im Kartenspiel ist der Bube oft der zweitniedrigste Wert.",
+      "targetText": "În jocul de cărți, valetul este adesea a doua cea mai mică valoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'valet' klingt wie das französische Wort für Diener – denk an einen jungen Diener als Motiv auf der Karte."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'valet' wird auch im Deutschen als Fremdwort für Diener verwendet – so kannst du es leicht mit der Karte verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'Bube' und 'valet' sind beide junge männliche Figuren in Kartenspielen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der 'valet' bringt dir die Karten – so merkst du dir den Begriff."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

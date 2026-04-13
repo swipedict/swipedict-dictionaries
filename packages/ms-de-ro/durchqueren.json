@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-durchqueren",
+  "parent": "ms-ro-a-traversa-dca3d297@0e76a7e14512251ca33dfcdafda9306a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "durchqueren",
+    "definition": "einen Ort oder Raum von einer Seite zur anderen passieren",
+    "pronunciation": "/dʊʁxˈkveːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich aus dem Wort „durch“ und „queren“ zusammen, wobei „queren“ vom mittelhochdeutschen „queren“ („quer durchgehen“) abgeleitet ist.",
+        "targetText": "Das Verb kombiniert „durch“ (hindurch) mit „queren“ (quer gehen), das aus dem Mittelhochdeutschen stammt."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Wird oft verwendet, um die Bewegung durch einen Raum oder ein Gebiet zu beschreiben, z.B. eine Straße, einen Wald oder einen Fluss."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a traversa",
+    "definition": "a trece dintr-o parte în alta a unui loc sau a unui spațiu",
+    "pronunciation": "/a tra.veˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „transversare“ abgeleitet, bedeutet es ‚quer hindurchgehen‘ und beschreibt das Überqueren von Orten oder Hindernissen.",
+        "targetText": "Provine din latinescul „transversare“, care înseamnă a traversa sau a trece printr-un spațiu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um das Überqueren von Straßen, Flüssen oder anderen Barrieren zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Gehen",
+      "targetText": "mers"
+    },
+    {
+      "sourceText": "Platz",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    },
+    {
+      "sourceText": "Weg",
+      "targetText": "cărare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verweilen",
+      "targetText": "rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich durchquere den Park.",
+      "targetText": "Eu traversez parcul."
+    },
+    {
+      "sourceText": "Er durchquert die Straße.",
+      "targetText": "El traversează strada."
+    },
+    {
+      "sourceText": "Wir haben den Fluss durchquert.",
+      "targetText": "Am traversat râul."
+    },
+    {
+      "sourceText": "Ich werde den Weg morgen durchqueren.",
+      "targetText": "Voi traversa drumul mâine."
+    },
+    {
+      "sourceText": "Durchquere den Tunnel!",
+      "targetText": "Traversează tunelul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Durchqueren“ und „a traversa“ klingen ähnlich und bedeuten beide, von einer Seite zur anderen zu gehen – stell dir vor, du überquerst eine Straße."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Präsensendungen von „a traversa“: ich –ez, du –ezi, er/sie –ează, um Sätze zu bilden."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu traversez *ceva*“ (Ich durchquere *etwas*), um das Wort im Kontext zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

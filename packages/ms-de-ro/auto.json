@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-auto",
+  "parent": "ms-ro-masina-a99a1cf3@95f8b6d80d694f700b0b81f5519a76f4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:greek",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Auto",
+    "genus": "neuter",
+    "definition": "Kurzform für Automobil, ein Fahrzeug mit Motor, das Personen oder Güter transportiert.",
+    "pronunciation": "/ˈaʊ̯to/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort ‚Auto‘ ist eine Kurzform von ‚Automobil‘, das aus dem griechischen ‚auto-‘ (selbst) und dem lateinischen ‚mobilis‘ (beweglich) zusammengesetzt ist.",
+        "targetText": "Cuvântul „Auto“ este o formă prescurtată a „Automobil“, compus din grecescul „auto-“ (de sine) și latinul „mobilis“ (mobil)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mașină",
+    "genus": "feminine",
+    "definition": "Un vehicul cu motor folosit pentru transportul persoanelor sau al bunurilor.",
+    "pronunciation": "/maˈʃinə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚mașină‘ stammt vom italienischen ‚macchina‘ ab, das wiederum vom griechischen ‚mēkhanḗ‘ (Maschine, Werkzeug) stammt.",
+        "targetText": "Cuvântul românesc „mașină“ provine din italianul „macchina“, care la rândul său vine din grecescul „mēkhanḗ“ (mașină, unealtă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Auto fahren",
+      "targetText": "a conduce o mașină"
+    },
+    {
+      "sourceText": "Fahrzeug",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "Motor",
+      "targetText": "motor"
+    },
+    {
+      "sourceText": "Straße",
+      "targetText": "stradă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Fahrrad",
+      "targetText": "bicicletă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Auto steht vor dem Haus.",
+      "targetText": "Mașina este în fața casei."
+    },
+    {
+      "sourceText": "Ich kaufe mir ein neues Auto.",
+      "targetText": "Îmi cumpăr o mașină nouă."
+    },
+    {
+      "sourceText": "Das Auto fährt sehr schnell.",
+      "targetText": "Mașina merge foarte repede."
+    },
+    {
+      "sourceText": "Er repariert sein Auto in der Garage.",
+      "targetText": "El își repară mașina în garaj."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚Auto‘ kommt vom griechischen ‚auto-‘ (selbst) und lateinischen ‚mobilis‘ (beweglich) – denk an ein ‚selbstbewegendes‘ Fahrzeug."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚mașină‘ klingt ähnlich wie das italienische ‚macchina‘, was dir hilft, die Herkunft zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚mașină‘ wird im Rumänischen für viele Arten von Fahrzeugen verwendet, nicht nur für Autos."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du fährst mit deiner ‚mașină‘ (Maschine) durch die Stadt – so merkst du dir das Wort leicht."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-chef",
+  "parent": "ms-ro-sef-50ed1a62@3c2078e953758c7bf16b654488b02b11",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Chef",
+    "genus": "masculine",
+    "definition": "Eine Person, die eine Gruppe, Abteilung oder Organisation leitet.",
+    "pronunciation": "/ʃɛf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Chef“ kommt aus dem Französischen 'chef', was 'Kopf' oder 'Anführer' bedeutet, und geht auf das lateinische 'caput' zurück.",
+        "targetText": "Cuvântul „Chef“ provine din franceza 'chef', care înseamnă 'cap' sau 'conducător', derivat din latină 'caput'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șef",
+    "genus": "masculine",
+    "definition": "Persoana care conduce un grup, o secție sau o organizație.",
+    "pronunciation": "/ʃef/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'șef' stammt direkt aus dem französischen 'chef', das vom lateinischen 'caput' abstammt.",
+        "targetText": "Cuvântul românesc 'șef' provine direct din franceza 'chef', derivat din latină 'caput'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Chefetage",
+      "targetText": "conducere superioară"
+    },
+    {
+      "sourceText": "Kollege",
+      "targetText": "coleg"
+    },
+    {
+      "sourceText": "Leitung",
+      "targetText": "conducere"
+    },
+    {
+      "sourceText": "Mitarbeiter",
+      "targetText": "angajat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mitarbeiter",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Chef gibt die Anweisungen.",
+      "targetText": "Șeful dă instrucțiunile."
+    },
+    {
+      "sourceText": "Mein Chef ist sehr freundlich.",
+      "targetText": "Șeful meu este foarte prietenos."
+    },
+    {
+      "sourceText": "Die Chefin leitet das Team gut.",
+      "targetText": "Șefa conduce bine echipa."
+    },
+    {
+      "sourceText": "Der Chef hat das letzte Wort.",
+      "targetText": "Șeful are ultimul cuvânt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'caput' bedeutet Kopf, und daraus entstand das französische 'chef' und rumänische 'șef'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Chef' klingt wie 'Chef' im Französischen, was 'Kopf' bedeutet – der Chef ist der 'Kopf' der Gruppe."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen heißt es 'șef' mit einem scharfen 'sch'-Laut, ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Chef trägt einen Hut wie ein 'Chefkoch' in der Küche – so merkst du dir das Wort leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

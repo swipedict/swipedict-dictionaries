@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-oeffnungszeiten",
+  "parent": "ms-ro-program-de-functionare-623bb660@69d7705e448c2d1f39521d70b9a9265c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Öffnungszeiten",
+    "genus": "feminine",
+    "definition": "Die Zeiträume, in denen ein Geschäft, eine Institution oder eine Einrichtung geöffnet ist.",
+    "pronunciation": "ˈœfnʊŋsˌtsaɪ̯tn̩",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Öffnungszeiten“ setzt sich aus „öffnen“ (von althochdeutsch 'öffnen', verwandt mit dem germanischen Wortstamm für 'offen machen') und „Zeit“ zusammen, wobei „Zeit“ vom althochdeutschen 'zīt' stammt, das auf die indogermanische Wurzel *ǵʰeh₁- (zeigen, erscheinen) zurückgeht.",
+        "targetText": "Cuvântul german „Öffnungszeiten” este compus din „öffnen” (a deschide), derivat din germana veche înaltă 'öffnen', legat de rădăcina germanică pentru 'a face deschis', și „Zeit” (timp), care provine din germana veche înaltă 'zīt', derivată din rădăcina indo-europeană *ǵʰeh₁- (a arăta, a apărea)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "program de funcționare",
+    "genus": "neuter",
+    "definition": "Intervalele de timp în care o afacere, o instituție sau o unitate este deschisă publicului.",
+    "pronunciation": "/proˈɡram de funktsjoˈnare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „program de funcționare“ setzt sich aus dem lateinischen Wort „programma“ (aus dem Griechischen entlehnt, bedeutet 'Plan, Zeitplan') und „funcționare“ ab, das vom lateinischen 'functionare' stammt und 'funktionieren, arbeiten' bedeutet.",
+        "targetText": "Expresia românească „program de funcționare” este formată din cuvântul latin „programma” (împrumutat din greacă, însemnând 'plan, orar') și „funcționare”, derivat din latină 'functionare', care înseamnă 'a funcționa, a lucra'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Geschäft",
+      "targetText": "magazin"
+    },
+    {
+      "sourceText": "geschlossen",
+      "targetText": "închis"
+    },
+    {
+      "sourceText": "öffnen",
+      "targetText": "a deschide"
+    },
+    {
+      "sourceText": "Zeit",
+      "targetText": "timp"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schließzeiten",
+      "targetText": "program de închidere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Öffnungszeiten des Museums sind von 9 bis 17 Uhr.",
+      "targetText": "Programul de funcționare al muzeului este de la 9 la 17."
+    },
+    {
+      "sourceText": "Bitte beachten Sie die Öffnungszeiten an Feiertagen.",
+      "targetText": "Vă rugăm să țineți cont de programul de funcționare în zilele de sărbătoare."
+    },
+    {
+      "sourceText": "Die Öffnungszeiten können sich im Winter ändern.",
+      "targetText": "Programul de funcționare poate să se schimbe iarna."
+    },
+    {
+      "sourceText": "Unsere Öffnungszeiten sind Montag bis Freitag von 8 bis 18 Uhr.",
+      "targetText": "Programul nostru de funcționare este de luni până vineri, de la 8 la 18."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „program“ stammt aus dem Lateinischen und Griechischen, genau wie viele deutsche Wörter, die mit Zeit und Planung zu tun haben – das macht es leichter zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „funcționare“ klingt ähnlich wie das deutsche „funktionieren“ – es hilft dir, dich an die Bedeutung ‚Betrieb‘ oder ‚Öffnung‘ zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort „Programm“ als einen Plan, der dir sagt, wann etwas geöffnet ist – so merkst du dir „program de funcționare“."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen „öffentlichen Programm“-Plan, der dir die Öffnungszeiten zeigt – so verbindest du „program“ mit „Öffnungszeiten“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

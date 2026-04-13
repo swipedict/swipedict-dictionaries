@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-weitergehen",
+  "parent": "ms-ro-a-continua-2ef2b434@c7c59571ae94ebd1a738969ac5e1c760",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "weitergehen",
+    "definition": "vorwärts gehen, fortfahren",
+    "pronunciation": "/ˈvaɪ̯tɐˌɡeːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „weitergehen“ ist eine Zusammensetzung aus „weiter“ und „gehen“ und bedeutet „fortfahren“ oder „voranschreiten“.",
+        "targetText": "Verbul german „weitergehen“ este compus din „weiter“ și „gehen“, cu sensul de a continua sau a merge înainte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Dieses Verb beschreibt oft die Fortsetzung einer Handlung oder Bewegung, z.B. „Wir müssen weitergehen“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a continua",
+    "definition": "a merge înainte, a continua",
+    "pronunciation": "/a kon.tiˈnua/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a continua“ stammt vom lateinischen „continuare“, was „fortfahren“ oder „anhalten“ bedeutet und beschreibt eine ununterbrochene Handlung.",
+        "targetText": "Verbul românesc „a continua“ provine din latină „continuare“, cu sensul de a continua o acțiune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Beispiel: „Wir müssen die Arbeit fortsetzen“ („Trebuie să continuăm munca“)."
+  },
+  "senses": [
+    {
+      "gloss": "weitergehen (fortfahren)",
+      "explanation": {
+        "sourceText": "Verwendet, um den kontinuierlichen Fluss einer Handlung auszudrücken.",
+        "targetText": "Folosit pentru a exprima continuarea unei acțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen weitergehen.",
+          "targetText": "Trebuie să continuăm."
+        }
+      ]
+    },
+    {
+      "gloss": "weiterziehen (umherziehen)",
+      "explanation": {
+        "sourceText": "Wird auch verwendet, um Bewegung zu beschreiben.",
+        "targetText": "De asemenea, folosit pentru a descrie deplasarea."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir ziehen weiter.",
+          "targetText": "Ne mutăm mai departe."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "gehen",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "laufen",
+      "targetText": "a alerga"
+    },
+    {
+      "sourceText": "reisen",
+      "targetText": "a călători"
+    },
+    {
+      "sourceText": "schreiten",
+      "targetText": "a păși"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehenbleiben",
+      "targetText": "a se opri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe weiter nach Hause.",
+      "targetText": "Eu continui spre casă."
+    },
+    {
+      "sourceText": "Gehst du weiter?",
+      "targetText": "Continui?"
+    },
+    {
+      "sourceText": "Er geht weiter zum Ziel.",
+      "targetText": "El continuă spre destinație."
+    },
+    {
+      "sourceText": "Wir gehen weiter auf dem Weg.",
+      "targetText": "Noi continuăm pe drum."
+    },
+    {
+      "sourceText": "Geht ihr weiter?",
+      "targetText": "Continuați?"
+    },
+    {
+      "sourceText": "Sie gehen weiter in die Stadt.",
+      "targetText": "Ei continuă în oraș."
+    },
+    {
+      "sourceText": "Ich habe weitergegangen.",
+      "targetText": "Am continuat."
+    },
+    {
+      "sourceText": "Er ging weiter ohne zu stoppen.",
+      "targetText": "El continua fără să se oprească."
+    },
+    {
+      "sourceText": "Ich werde weitergehen.",
+      "targetText": "Voi continua."
+    },
+    {
+      "sourceText": "Geh weiter!",
+      "targetText": "Continuă!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „continua“ klingt wie das deutsche „kontinuierlich“ – beide bedeuten, dass etwas weitergeht!"
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du gehst einen langen Weg und sagst dabei „continua“ – so merkst du dir das Wort gut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

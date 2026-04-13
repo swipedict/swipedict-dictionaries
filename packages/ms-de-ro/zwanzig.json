@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-zwanzig",
+  "parent": "ms-ro-douazeci-6012032d@e64645f5b841bb3b75b5d3bd24e6cac0",
+  "part_of_speech": "numeral",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zwanzig",
+    "definition": "Die Zahl 20, die nach neunzehn kommt und vor einundzwanzig steht.",
+    "pronunciation": "/ˈtsvan.tsɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „zwanzig“ stammt vom althochdeutschen 'zwanzig' ab, das auf die germanische Wurzel *twai- (zwei) und *hunþa- (Hundert) zurückgeht, ursprünglich eine Zusammensetzung, die auf das Zählen in Zwanzigerschritten verweist.",
+        "targetText": "Cuvântul german „zwanzig” provine din germana veche înaltă 'zwanzig', derivat din rădăcinile germanice *twai- (doi) și *hunþa- (sută), indicând inițial numărarea în pași de douăzeci."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "douăzeci",
+    "definition": "Numărul 20, care urmează după nouăsprezece și înainte de douăzeci și unu.",
+    "pronunciation": "/doˈwə.t͡seʧ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „douăzeci“ setzt sich aus 'două' (zwei) und einer veralteten Form 'zeci' (Zehner) zusammen, wobei 'zeci' vom lateinischen 'decem' (zehn) abstammt.",
+        "targetText": "Cuvântul românesc „douăzeci” este compus din 'două' (doi) și o formă veche 'zeci' (zeci), unde 'zeci' provine din latină 'decem' (zece)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dreißig",
+      "targetText": "treizeci"
+    },
+    {
+      "sourceText": "einundzwanzig",
+      "targetText": "douăzeci și unu"
+    },
+    {
+      "sourceText": "zehn",
+      "targetText": "zece"
+    },
+    {
+      "sourceText": "zwölf",
+      "targetText": "douăsprezece"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Zwanzig ist eine runde Zahl.",
+      "targetText": "Douăzeci este un număr rotund."
+    },
+    {
+      "sourceText": "Ich habe zwanzig Euro in meiner Tasche.",
+      "targetText": "Am douăzeci de euro în buzunar."
+    },
+    {
+      "sourceText": "Der Film dauert zwanzig Minuten.",
+      "targetText": "Filmul durează douăzeci de minute."
+    },
+    {
+      "sourceText": "Zwanzig Schüler sind in der Klasse.",
+      "targetText": "Douăzeci de elevi sunt în clasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „douăzeci“ kannst du dir merken, indem du an „două“ (zwei) und „zeci“ (Zehner) denkst – also zwei Zehner = zwanzig."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „zeci“ stammt vom lateinischen 'decem' für zehn ab – so erkennst du die Verbindung zu den Zehnerzahlen."
+    },
+    {
+      "lang": "de",
+      "text": "Die Aussprache von „douăzeci“ endet auf '-zeci', was ähnlich klingt wie das deutsche Wort 'Zehn' mit einem 'z' am Anfang."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast zwei Zehnerbündel Geldscheine – das sind genau „douăzeci“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "ms-de-ro-suchen",
+  "parent": "ms-ro-a-cauta-58fa78ed@2b626a6b5d0f41ea4fe97b1df50b773c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:germanic",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "suchen",
+    "definition": "etwas oder jemanden finden wollen, indem man darauf hinarbeitet oder danach Ausschau hält",
+    "pronunciation": "/ˈzuːxən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „suchen“ stammt vom althochdeutschen „suohhan“, was „suchen, forschen“ bedeutet.",
+        "targetText": "Verbul „suchen“ provine din germana veche „suohhan“, care înseamnă „a căuta, a cerceta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Weit verbreitet im täglichen Gebrauch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a căuta",
+    "definition": "a dori să găsești ceva sau pe cineva, lucrând pentru a-l găsi sau căutându-l",
+    "pronunciation": "/a kəuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a căuta“ stammt vom lateinischen „captare“ ab, was „ergreifen, festhalten“ bedeutet und sich auf die Suche nach etwas bezieht.",
+        "targetText": "Verbul românesc „a căuta“ derivă din latinescul „captare“, care înseamnă „a prinde, a ține“, extins la sensul de a căuta."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig im alltäglichen Sprachgebrauch und umfasst sowohl physische als auch abstrakte Suche."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Finden",
+      "targetText": "a găsi"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Weg",
+      "targetText": "drum"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "țel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "finden",
+      "targetText": "a găsi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich suche meine Schlüssel.",
+      "targetText": "Eu caut cheile mele."
+    },
+    {
+      "sourceText": "Suchst du nach dem Buch?",
+      "targetText": "Cauți cartea?"
+    },
+    {
+      "sourceText": "Er sucht nach seiner Jacke.",
+      "targetText": "El caută geaca lui."
+    },
+    {
+      "sourceText": "Wir suchen nach Antworten.",
+      "targetText": "Noi căutăm răspunsuri."
+    },
+    {
+      "sourceText": "Sucht ihr den Ausgang?",
+      "targetText": "Căutați ieșirea?"
+    },
+    {
+      "sourceText": "Sie suchen die richtige Lösung.",
+      "targetText": "Ei caută soluția corectă."
+    },
+    {
+      "sourceText": "Ich habe meine Unterlagen gesucht.",
+      "targetText": "Am căutat documentele mele."
+    },
+    {
+      "sourceText": "Sie haben den Fehler gefunden.",
+      "targetText": "Ei au găsit greșeala."
+    },
+    {
+      "sourceText": "Er suchte in dem alten Buch.",
+      "targetText": "El căuta în cartea veche."
+    },
+    {
+      "sourceText": "Ich hatte das Buch schon gesucht, bevor ich die Antwort fand.",
+      "targetText": "Căutasem deja cartea, înainte de a găsi răspunsul."
+    },
+    {
+      "sourceText": "Ich werde nach meinem Handy suchen.",
+      "targetText": "Voi căuta telefonul meu."
+    },
+    {
+      "sourceText": "Sie werden nach der Lösung suchen.",
+      "targetText": "Ea o să caute soluția."
+    },
+    {
+      "sourceText": "Ich würde nach meinem Auto suchen, wenn ich das Geld hätte.",
+      "targetText": "Aș căuta mașina mea, dacă aș avea bani."
+    },
+    {
+      "sourceText": "Es ist nötig, dass du suchst.",
+      "targetText": "Este necesar să cauți."
+    },
+    {
+      "sourceText": "Such deine Unterlagen!",
+      "targetText": "Caută-ți documentele!"
+    },
+    {
+      "sourceText": "Sucht die Bücher!",
+      "targetText": "Căutați cărțile!"
+    },
+    {
+      "sourceText": "Die gesuchte Information ist hilfreich.",
+      "targetText": "Informația căutată este utilă."
+    },
+    {
+      "sourceText": "Die Anzeige ist schon gesucht.",
+      "targetText": "Anunțul este deja căutat."
+    },
+    {
+      "sourceText": "Suchend fand ich viele Antworten.",
+      "targetText": "Căutând, am găsit multe răspunsuri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Suchen“ und „a căuta“ sind Kognaten, die leicht zu verbinden sind!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an die verschiedenen Anwendungsbereiche des Verbs und suche aktiv nach Möglichkeiten, „căuta“ im Gespräch zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Der Imperativ „Caută!“ kann wie ein kurzer Aufruf zur Handlung verwendet werden – benutze ihn, wenn du jemanden anstoßen möchtest!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du in einer Bibliothek nach einem Buch suchst – das hilft, das Wort zu veranschaulichen!"
+    },
+    {
+      "lang": "de",
+      "text": "Versuche, alltägliche Sätze mit „caut“ zu bilden: „Eu caut…“, um die Struktur zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

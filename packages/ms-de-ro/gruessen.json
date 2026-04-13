@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-gruessen",
+  "parent": "ms-ro-a-saluta-cd16687e@f4f0b0c985fa90c6f16dc914fdb9eb50",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "grüßen",
+    "definition": "eine Person freundlich ansprechen oder begrüßen",
+    "pronunciation": "/ˈɡʁyːsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „grüßen“ stammt vom mittelhochdeutschen „grūzen“ ab, das „Hallo sagen“ bedeutet und hat verwandte Formen in anderen germanischen Sprachen.",
+        "targetText": "Verbul german „grüßen“ provine din mijlocul german „grūzen“, care înseamnă „a saluta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es ist ein regelmäßiges Verb, das oft in formellen und informellen Begrüßungen verwendet wird."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a saluta",
+    "definition": "a vorbi prietenos cu o persoană sau a o întâmpina",
+    "pronunciation": "/a sa.luˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a saluta“ leitet sich vom lateinischen „salutare“ ab, was „grüßen“ oder „begrüßen“ bedeutet, verwandt mit „salus“ für Gesundheit oder Wohlbefinden.",
+        "targetText": "Verbul românesc „a saluta“ provine din latină „salutare“, care înseamnă „a saluta“, legat de „salus“ – sănătate, bine."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, das sowohl in formellen als auch in informellen Kontexten genutzt wird."
+  },
+  "senses": [
+    {
+      "gloss": "Begrüßung",
+      "explanation": {
+        "sourceText": "Kann sich auch auf die Form einer Begrüßungsformel beziehen.",
+        "targetText": "Se poate referi și la o formulă de salut."
+      },
+      "examples": [
+        {
+          "sourceText": "Ein freundliches Grüßen ist wichtig.",
+          "targetText": "O salutare prietenoasă este importantă."
+        }
+      ]
+    },
+    {
+      "gloss": "Grüßen",
+      "explanation": {
+        "sourceText": "Das Verb wird auch im Kontext von Grußformeln verwendet.",
+        "targetText": "Verbul este folosit și în formule de salut."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich grüße dich herzlich.",
+          "targetText": "Te salut cu căldură."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Auf Wiedersehen",
+      "targetText": "La revedere"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Hallo",
+      "targetText": "Bună"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "mesaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verabschieden",
+      "targetText": "a se despărți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich grüße meine Nachbarn.",
+      "targetText": "Eu salut vecinii mei."
+    },
+    {
+      "sourceText": "Grüßt du deine Freunde?",
+      "targetText": "Saluti prietenii tăi?"
+    },
+    {
+      "sourceText": "Er grüßt die Gäste.",
+      "targetText": "El salută oaspeții."
+    },
+    {
+      "sourceText": "Wir grüßen alle Besucher.",
+      "targetText": "Noi salutăm toți vizitatorii."
+    },
+    {
+      "sourceText": "Grüßt ihr die Lehrer?",
+      "targetText": "Salutați profesorii?"
+    },
+    {
+      "sourceText": "Sie grüßen die Passanten.",
+      "targetText": "Ei salută trecătorii."
+    },
+    {
+      "sourceText": "Ich habe ihn freundlich gegrüßt.",
+      "targetText": "L-am salutat prietenos."
+    },
+    {
+      "sourceText": "Ich werde meine Eltern grüßen.",
+      "targetText": "Voi saluta părinții mei."
+    },
+    {
+      "sourceText": "Grüße deinen Bruder!",
+      "targetText": "Salută-ți fratele!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Grüßen“ und „a saluta“ bedeuten mehr als nur „Hallo“! Stell dir vor, wie freundlich es ist, Grüße zu tauschen – wie ein kleiner, mentaler Handschlag zwischen Menschen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Formen wie „Eu salut“, „Eu am salutat“, „Eu voi saluta“ für verschiedene soziale Situationen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

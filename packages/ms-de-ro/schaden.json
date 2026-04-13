@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-schaden",
+  "parent": "ms-ro-dauna-19470bde@5c1983da054af46ae980c57a7fc9eab8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schaden",
+    "genus": "masculine",
+    "definition": "Ein Nachteil oder eine Beeinträchtigung, die jemandem oder etwas entsteht.",
+    "pronunciation": "/ˈʃaːdən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Schaden“ stammt vom althochdeutschen 'scado' ab, das 'Verletzung' oder 'Nachteil' bedeutete, und ist verwandt mit dem englischen 'scathe'.",
+        "targetText": "Substantivul german „Schaden” provine din germana veche înaltă 'scado', care însemna 'vătămare' sau 'dezavantaj', fiind înrudit cu englezescul 'scathe'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "daună",
+    "genus": "feminine",
+    "definition": "Un prejudiciu sau o pagubă care afectează o persoană sau un obiect.",
+    "pronunciation": "/ˈda.unə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „daună“ stammt vom lateinischen 'damnum' ab, das 'Schaden' oder 'Verlust' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „daună” provine din latină, din termenul 'damnum', care înseamnă 'pagubă' sau 'pierdere' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Beschädigung",
+      "targetText": "deteriorare"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "risc"
+    },
+    {
+      "sourceText": "Schadenersatz",
+      "targetText": "despăgubire"
+    },
+    {
+      "sourceText": "Verlust",
+      "targetText": "pierdere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Nutzen",
+      "targetText": "beneficiu"
+    },
+    {
+      "sourceText": "Vorteil",
+      "targetText": "avantaj"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Schaden am Auto ist erheblich.",
+      "targetText": "Dauna la mașină este considerabilă."
+    },
+    {
+      "sourceText": "Die Versicherung deckt den Schaden ab.",
+      "targetText": "Asigurarea acoperă dauna."
+    },
+    {
+      "sourceText": "Er hat durch den Unfall großen Schaden erlitten.",
+      "targetText": "A suferit o daună mare în urma accidentului."
+    },
+    {
+      "sourceText": "Man sollte den Schaden so schnell wie möglich reparieren.",
+      "targetText": "Trebuie reparată dauna cât mai repede posibil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „daună“ klingt ähnlich wie das englische Wort „down“, was an einen Schaden oder Verlust erinnern kann – etwas, das dich 'down' macht."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „daună“ endet auf '-ă', typisch für viele rumänische Substantive, die weiblich sind – so kannst du dir die Form leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast eine 'daună' auf deinem Konto – ein Verlust, der dich traurig macht, ähnlich wie der deutsche 'Schaden'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „daună“ mit dem lateinischen Ursprung 'damnum', das auch im Englischen als 'damage' erkennbar ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wind",
+  "parent": "ms-ro-vant-6960d79e@2e8ceaa4d0655c1ab28eb21ee89abd63",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wind",
+    "genus": "masculine",
+    "definition": "Bewegung der Luft in der Atmosphäre, die spürbar ist und oft durch Wetterphänomene verursacht wird.",
+    "pronunciation": "/vɪnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wind“ stammt vom althochdeutschen 'wint' ab, das auf die urgermanische Wurzel *windaz zurückgeht, die mit dem englischen 'wind' verwandt ist und 'bewegte Luft' bedeutet.",
+        "targetText": "Cuvântul german „Wind” provine din germana veche înaltă 'wint', derivat din rădăcina proto-germanică *windaz, înrudit cu englezescul 'wind', semnificând 'aer în mișcare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânt",
+    "genus": "neuter",
+    "definition": "Mișcarea aerului în atmosferă, perceptibilă și adesea asociată cu fenomene meteorologice.",
+    "pronunciation": "/vɨnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „vânt“ stammt vom lateinischen 'ventus' ab, das ebenfalls 'Wind' bedeutet und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „vânt” provine din latinul 'ventus', care înseamnă tot 'vânt' și are forme similare în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Brise",
+      "targetText": "adieri"
+    },
+    {
+      "sourceText": "Luft",
+      "targetText": "aer"
+    },
+    {
+      "sourceText": "Sturm",
+      "targetText": "furtună"
+    },
+    {
+      "sourceText": "Wetter",
+      "targetText": "vreme"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Windstille",
+      "targetText": "liniște"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Wind weht heute sehr stark.",
+      "targetText": "Vântul bate foarte tare astăzi."
+    },
+    {
+      "sourceText": "Der Wind hat die Blätter von den Bäumen geweht.",
+      "targetText": "Vântul a suflat frunzele de pe copaci."
+    },
+    {
+      "sourceText": "Man spürt den kalten Wind im Gesicht.",
+      "targetText": "Se simte vântul rece pe față."
+    },
+    {
+      "sourceText": "Der Wind dreht sich und bringt Regen.",
+      "targetText": "Vântul se schimbă și aduce ploaie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „vânt“ klingt ähnlich wie das deutsche Wort „Wind“, aber mit einem weichen 'â' in der Mitte – stell dir vor, der Wind 'vânt'-elt sanft durch die Bäume."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vânt' endet mit einem 't', genau wie das deutsche 'Wind' mit 'd' – beide sind harte Konsonanten, die den Luftstrom symbolisieren."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische Wort 'ventus', das in vielen romanischen Sprachen ähnlich klingt, z.B. italienisch 'vento' oder spanisch 'viento'. So merkst du dir 'vânt' als Wind."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der Wind 'vent' (englisch für Lüftchen) bringt – das hilft dir, die Verbindung zwischen 'vânt' und Luftbewegung zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

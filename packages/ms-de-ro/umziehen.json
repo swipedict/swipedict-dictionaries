@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-umziehen",
+  "parent": "ms-ro-a-se-muta-fa8ff01d@8a84ebed497bd9e212bae2147e0e7184",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "umziehen",
+    "definition": "den Wohnort wechseln oder einen Ort verlassen",
+    "pronunciation": "/ʊmˈtsiːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „umziehen“ stammt aus dem Mittelhochdeutschen „umziehen“, zusammengesetzt aus der Präposition „um“ und dem Verb „ziehen“.",
+        "targetText": "Expresia românească „a se muta“ este formată din pronumele reflexiv „se“ și verbul „muta“, care provine din latinescul „mutare“, însemnând „a schimba“ sau „a muta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird häufig verwendet, um den Prozess des Wechsels des Wohnorts zu beschreiben. Auch metaphorisch für Veränderungen im Leben verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se muta",
+    "definition": "a schimba locuința sau a părăsi un loc",
+    "pronunciation": "/a se muˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck „a se muta“ setzt sich aus dem Reflexivpronomen „se“ und dem Infinitiv „muta“ zusammen. „Muta“ hat lateinische Wurzeln, abgeleitet von „mūtāre“, was „verändern“ oder „wechseln“ bedeutet.",
+        "targetText": "Expresia „a se muta“ este formată din pronumele reflexiv „se“ și verbul „muta“, derivat din latinescul „mutare“, care înseamnă „a schimba“ sau „a muta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Der Ausdruck wird häufig verwendet, um den Umzug in eine neue Wohnung oder ein neues Haus zu beschreiben. Es ist ein reflexives Verb, das oft in einem sozialen Kontext genutzt wird."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    },
+    {
+      "sourceText": "Umzug",
+      "targetText": "mutare"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bleiben",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ziehe nächste Woche um.",
+      "targetText": "Eu mă mut săptămâna viitoare."
+    },
+    {
+      "sourceText": "Ich bin letzte Woche umgezogen.",
+      "targetText": "M-am mutat săptămâna trecută."
+    },
+    {
+      "sourceText": "Ich werde nächsten Monat umziehen.",
+      "targetText": "Mă voi muta luna viitoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Umziehen“ und „a se muta“ haben beide mit Veränderung zu tun. Merke dir, dass „a se muta“ reflexiv ist – du „bewegst dich selbst“!"
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „mutare“ bedeutet auch „Umzug“ – so kannst du den Prozess und das Verb gut verknüpfen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

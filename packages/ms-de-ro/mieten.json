@@ -1,0 +1,123 @@
+{
+  "id": "ms-de-ro-mieten",
+  "parent": "ms-ro-a-inchiria-aa7e419f@0bd7329b6b1e97b6d5e2ba701c4f1024",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mieten",
+    "definition": "etwas gegen Bezahlung für einen bestimmten Zeitraum benutzen",
+    "pronunciation": "/ˈmiːtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „mieten“ stammt vom mittelhochdeutschen „mieten“, ursprünglich „verleihen“ oder „anvertrauen“.",
+        "targetText": "Verbul german „mieten“ provine din germana mijlocie „mieten“, inițial însemnând „a închiria“ sau „a încredința“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb, oft im Kontext von Wohnungen, Fahrzeugen oder Geräten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a închiria",
+    "definition": "a folosi ceva contra unei plăți pe o perioada determinată",
+    "pronunciation": "/a ɨnkiˈria/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a închiria“ stammt vom slawischen „inkuriti“ oder „iznajmiti“, was „mieten“ oder „verleihen“ bedeutet.",
+        "targetText": "Verbul românesc „a închiria“ provine din slavona „inkuriti“ sau „iznajmiti“, însemnând „a închiria“ sau „a da în folosință contra plată“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i), verwendet für Wohnungen, Autos oder Geräte."
+  },
+  "senses": [
+    {
+      "gloss": "Leihen",
+      "explanation": {
+        "sourceText": "Verwendung für die Nutzung von Gegenständen.",
+        "targetText": "Folosit pentru utilizarea temporară a obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Kann ich dir mein Werkzeug mieten?",
+          "targetText": "Pot să-ți închiriez uneltele?"
+        }
+      ]
+    },
+    {
+      "gloss": "Mieten (Finanzkontext)",
+      "explanation": {
+        "sourceText": "Verwendung für Mietverträge bezüglich Wohnungen oder Fahrzeuge.",
+        "targetText": "Folosit pentru contracte de închiriere a locuințelor sau vehiculelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich miete eine neue Wohnung.",
+          "targetText": "Închiriez un apartament nou."
+        },
+        {
+          "sourceText": "Ich muss mein Auto mieten.",
+          "targetText": "Trebuie să-mi închiriez mașina."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Miete",
+      "targetText": "chiria"
+    },
+    {
+      "sourceText": "Mieter",
+      "targetText": "chirias"
+    },
+    {
+      "sourceText": "Vertrag",
+      "targetText": "contract"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verkaufen",
+      "targetText": "a vinde"
+    }
+  ],
+  "examples": [],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Mieten“ und „a închiria“ sind ähnlich – denk daran, dass „închiria“ für Wohnungen, Autos oder Geräte gilt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Ein guter Mietpreis ist wie ein Schnäppchen auf dem Markt!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „Eu închiriez“ + Objekt, um die Anwendung zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

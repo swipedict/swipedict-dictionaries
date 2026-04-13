@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-ausfuehren",
+  "parent": "ms-ro-a-executa-3105e8a6@23b6415e276d31aab0ef6150c7d0416d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ausführen",
+    "definition": "eine Aufgabe oder Anweisung durchführen",
+    "pronunciation": "/ˈaʊsˌfyːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort besteht aus „führen“ und dem Präfix „aus-“, was das Umsetzen oder Vollenden einer Handlung beschreibt.",
+        "targetText": "Cuvântul este format din verbul „führen“ și prefixul „aus-“, indicând realizarea completă a unei sarcini."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bezieht sich auf das Durchführen von Plänen oder Anweisungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a executa",
+    "definition": "a îndeplini o sarcină sau o instrucțiune",
+    "pronunciation": "/a eksɛkuˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a executa“ kommt vom lateinischen „exsequi“, was „ausführen“ oder „verfolgen“ bedeutet. Es bezieht sich auf das Umsetzen von Anweisungen oder Plänen.",
+        "targetText": "Verbul românesc „a executa“ derivă din latinescul „exsequi“, care înseamnă „a urma“ sau „a realiza“. Este folosit pentru a descrie îndeplinirea sarcinilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in rechtlichen, technischen und praktischen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Ausführung",
+      "explanation": {
+        "sourceText": "Bedeutet die Umsetzung eines Plans oder einer Aufgabe.",
+        "targetText": "Înseamnă realizarea unui plan sau a unei sarcini."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Ausführung des Plans war fehlerhaft.",
+          "targetText": "Executarea planului a fost defectuoasă."
+        }
+      ]
+    },
+    {
+      "gloss": "Verwirklichen",
+      "explanation": {
+        "sourceText": "Eng verbunden mit dem Begriff „ausführen“.",
+        "targetText": "Este strâns legat de conceptul de „a realiza“."
+      },
+      "examples": [
+        {
+          "sourceText": "Er möchte seine Ideen verwirklichen.",
+          "targetText": "El vrea să-și pună ideile în aplicare."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anweisung",
+      "targetText": "instrucțiune"
+    },
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Befehl",
+      "targetText": "comandă"
+    },
+    {
+      "sourceText": "Durchführung",
+      "targetText": "executare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verweigern",
+      "targetText": "a refuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich führe die Anweisung aus.",
+      "targetText": "Eu execut instrucțiunile."
+    },
+    {
+      "sourceText": "Er hat die Aufgabe erfolgreich ausgeführt.",
+      "targetText": "El a executat cu succes sarcina."
+    },
+    {
+      "sourceText": "Wir werden das Projekt durchführen.",
+      "targetText": "Noi vom executa proiectul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A executa“ klingt wie „execute“ im Englischen – denk an das Ausführen eines Programms am Computer."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du führst einen Plan Schritt für Schritt aus – so merkst du dir „a executa“ gut."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

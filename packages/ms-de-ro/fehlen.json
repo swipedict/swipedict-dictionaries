@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-fehlen",
+  "parent": "ms-ro-a-lipsi-c9602445@e2ca99a713eb9d7c1a851036fd51391b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fehlen",
+    "definition": "nicht vorhanden sein oder jemandem mangeln",
+    "pronunciation": "/ˈfeːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „fehlen“ stammt vom mittelhochdeutschen „velen“, was „fehlen, ausbleiben“ bedeutet, verwandt mit althochdeutsch „folōn“.",
+        "targetText": "Verbul „fehlen“ provine din germana mijlocie „velen“, care înseamnă „a lipsi, a nu fi prezent“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, um Mangel oder Abwesenheit zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lipsi",
+    "definition": "a nu fi prezent sau a-i lipsi cuiva ceva",
+    "pronunciation": "/a lipˈsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a lipsi“ kommt vom lateinischen „lapsus“, was „Sturz, Fall“ oder „Abwesenheit“ bedeutet. Es beschreibt das Fehlen von etwas oder jemandem.",
+        "targetText": "Verbul românesc „a lipsi“ derivă din latină, din „lapsus“, care înseamnă „cădere“ sau „absență“, folosit pentru a exprima lipsa cuiva sau a ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig in festen Ausdrücken wie „lipsa de“ (Mangel an) verwendet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Abwesenheit",
+      "targetText": "absentă"
+    },
+    {
+      "sourceText": "Ersatz",
+      "targetText": "înlocuitor"
+    },
+    {
+      "sourceText": "Fehler",
+      "targetText": "greșeală"
+    },
+    {
+      "sourceText": "Mangel",
+      "targetText": "lipsă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vorhanden sein",
+      "targetText": "a fi prezent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fehle bei der Besprechung.",
+      "targetText": "Eu lipsesc de la întâlnire."
+    },
+    {
+      "sourceText": "Fehlst du im Büro?",
+      "targetText": "Lipsești la birou?"
+    },
+    {
+      "sourceText": "Er fehlt in der Liste.",
+      "targetText": "El lipsește din listă."
+    },
+    {
+      "sourceText": "Wir fehlen bei der Feier.",
+      "targetText": "Noi lipsim de la petrecere."
+    },
+    {
+      "sourceText": "Fehlt ihr in der Gruppe?",
+      "targetText": "Lipseți în grup?"
+    },
+    {
+      "sourceText": "Sie fehlen in diesem Kapitel.",
+      "targetText": "Ei lipsesc în acest capitol."
+    },
+    {
+      "sourceText": "Ich habe die Schlüssel nicht gezählt, sie fehlten.",
+      "targetText": "Am uitat cheile, ele au lipsit."
+    },
+    {
+      "sourceText": "Er fehlte oft zu den Treffen.",
+      "targetText": "El lipsea adesea de la întâlniri."
+    },
+    {
+      "sourceText": "Ich werde bei der Sitzung fehlen.",
+      "targetText": "Voi lipsi la ședință."
+    },
+    {
+      "sourceText": "Ich würde fehlen, wenn ich nicht eingeladen werde.",
+      "targetText": "Aș lipsi dacă nu aș fi invitat."
+    },
+    {
+      "sourceText": "Fehl nicht zu meiner Feier!",
+      "targetText": "Nu lipsiți la petrecerea mea!"
+    },
+    {
+      "sourceText": "Die fehlenden Informationen sind entscheidend.",
+      "targetText": "Informațiile lipsă sunt esențiale."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „fehlen“ und das rumänische „a lipsi“ drücken beide das Fehlen oder Nichtvorhandensein aus – merke dir die Verbindung!"
+    },
+    {
+      "lang": "de",
+      "text": "Lerne feste Wendungen wie „lipsa de“ (Mangel an), um den Gebrauch von „a lipsi“ besser zu verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

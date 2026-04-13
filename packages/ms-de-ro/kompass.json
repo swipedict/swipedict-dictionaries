@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-kompass",
+  "parent": "ms-ro-busola-af8c9633@a638986a238c8591cf0f501706276a14",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kompass",
+    "genus": "masculine",
+    "definition": "Ein Gerät zur Bestimmung der Himmelsrichtungen mithilfe einer magnetischen Nadel.",
+    "pronunciation": "/ˈkɔmpas/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kompass“ stammt aus dem Italienischen 'compasso', das 'Zirkel' oder 'Maßstab' bedeutet, und wurde über das Lateinische 'compassare' (abmessen) entlehnt.",
+        "targetText": "Cuvântul german „Kompass” provine din italianul 'compasso', care înseamnă 'compas' sau 'instrument de măsură', împrumutat prin latinescul 'compassare' ce înseamnă 'a măsura'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "busolă",
+    "genus": "feminine",
+    "definition": "Un instrument folosit pentru a determina punctele cardinale cu ajutorul unui ac magnetic.",
+    "pronunciation": "/buˈsolə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „busolă“ stammt vom italienischen 'bussola' ab, das ursprünglich 'kleine Kiste' oder 'Schachtel' bedeutete und später für das Navigationsinstrument verwendet wurde.",
+        "targetText": "Cuvântul românesc „busolă” provine din italianul 'bussola', care inițial însemna 'cutiuță mică' sau 'casetă' și ulterior a fost folosit pentru instrumentul de navigație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Karte",
+      "targetText": "hartă"
+    },
+    {
+      "sourceText": "Nadel",
+      "targetText": "ac"
+    },
+    {
+      "sourceText": "Navigation",
+      "targetText": "navigație"
+    },
+    {
+      "sourceText": "Richtung",
+      "targetText": "direcție"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Kompass zeigt immer nach Norden.",
+      "targetText": "Busola arată întotdeauna spre nord."
+    },
+    {
+      "sourceText": "Wir brauchen einen Kompass, um uns im Wald nicht zu verlaufen.",
+      "targetText": "Avem nevoie de o busolă ca să nu ne rătăcim în pădure."
+    },
+    {
+      "sourceText": "Der Kompass ist ein wichtiges Werkzeug für Wanderer und Seefahrer.",
+      "targetText": "Busola este un instrument important pentru drumeți și navigatori."
+    },
+    {
+      "sourceText": "Die magnetische Nadel des Kompasses richtet sich am Magnetfeld der Erde aus.",
+      "targetText": "Acul magnetic al busolei se aliniază cu câmpul magnetic al Pământului."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'busolă' klingt wie 'Bus' + 'sola'. Stell dir vor, ein Bus fährt allein (sola) durch die Landschaft und braucht eine Busolă, um die Richtung zu finden."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-olă' ist typisch für viele rumänische Substantive. Verbinde 'busolă' mit 'Nadel' (ac), die im Kompass steckt."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich daran, dass 'busolă' vom italienischen 'bussola' kommt, das eine kleine Kiste bedeutet – so wie eine kleine Kiste, die deine Richtung zeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du benutzt eine Busolă, um deinen Weg zu finden, genau wie ein Kompass, der dir hilft, nicht verloren zu gehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-rentner",
+  "parent": "ms-ro-pensionar-af5d6fc6@c0e328e8948eb53dc64f2919b69d36c6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Rentner",
+    "genus": "masculine",
+    "definition": "Eine Person, die aufgrund des Erreichens des Rentenalters oder aus gesundheitlichen Gründen eine Rente bezieht und nicht mehr arbeitet.",
+    "pronunciation": "/ˈʁɛntnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Rentner“ stammt vom Substantiv „Rente“ ab, das aus dem mittellateinischen 'renta' kommt und ursprünglich 'Einkommen' oder 'Zins' bedeutete.",
+        "targetText": "Cuvântul german „Rentner” provine de la substantivul „Rente”, care derivă din latinescul medieval 'renta', însemnând inițial 'venit' sau 'dobândă'."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pensionar",
+    "genus": "masculine",
+    "definition": "O persoană care primește o pensie după ce a ieșit la pensie, adică nu mai lucrează din cauza vârstei sau a unor motive de sănătate.",
+    "pronunciation": "/pen.si.oˈnar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „pensionar“ stammt vom französischen 'pensionnaire' ab, das wiederum vom lateinischen 'pensio' kommt und 'Zahlung' oder 'Rente' bedeutet.",
+        "targetText": "Cuvântul românesc „pensionar” provine din francezul 'pensionnaire', care la rândul său derivă din latinescul 'pensio', însemnând 'plată' sau 'pensie'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Alter",
+      "targetText": "vârstă"
+    },
+    {
+      "sourceText": "Pension",
+      "targetText": "pensie"
+    },
+    {
+      "sourceText": "Rente",
+      "targetText": "pensie"
+    },
+    {
+      "sourceText": "Senior",
+      "targetText": "senior"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Arbeitnehmer",
+      "targetText": "angajat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Rentner genießt seinen Ruhestand am Meer.",
+      "targetText": "Pensionarul se bucură de pensie la mare."
+    },
+    {
+      "sourceText": "Viele Rentner reisen im Sommer gerne.",
+      "targetText": "Mulți pensionari călătoresc cu plăcere vara."
+    },
+    {
+      "sourceText": "Mein Großvater ist Rentner und liest viel.",
+      "targetText": "Bunicul meu este pensionar și citește mult."
+    },
+    {
+      "sourceText": "Die Rentner bekommen ihre Rente monatlich überwiesen.",
+      "targetText": "Pensionarii primesc pensia lunar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Rentner' kommt von 'Rente', ähnlich wie 'pensionar' von 'pensie' – beide Wörter beziehen sich auf das Einkommen nach dem Arbeitsleben."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'pensionar' klingt ähnlich wie das französische 'pensionnaire', was dir helfen kann, die Bedeutung mit 'jemand, der eine Pension bekommt' zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Rentner' endet auf '-er' wie viele deutsche Personenbezeichnungen, im Rumänischen endet es auf '-ar', was oft eine Berufs- oder Statusbezeichnung anzeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'pensionar' bekommt jeden Monat eine 'Pension' – das hilft dir, das Wort mit Rente und Ruhestand zu assoziieren."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

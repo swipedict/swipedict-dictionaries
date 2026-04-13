@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-schuldig",
+  "parent": "ms-ro-vinovat-039ab1a5@f5fba2f77bf292872bb93ba4e5737879",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schuldig",
+    "definition": "Verantwortlich für ein Vergehen oder eine Schuld; moralisch oder rechtlich verantwortlich.",
+    "pronunciation": "/ˈʃʊldɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „schuldig“ stammt vom mittelhochdeutschen 'schuldic' ab, das auf das Substantiv 'Schuld' zurückgeht, welches wiederum vom althochdeutschen 'sculd' abstammt und 'Verpflichtung' oder 'Schuld' bedeutet.",
+        "targetText": "Adjectivul german „schuldig” provine din germana mijlocie 'schuldic', derivat din substantivul 'Schuld', care la rândul său provine din germana veche înaltă 'sculd' și însemna 'obligație' sau 'vină'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vinovat",
+    "definition": "Responsabil pentru o greșeală sau o culpă; moral sau legal responsabil.",
+    "pronunciation": "/viˈno.vat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „vinovat“ stammt vom lateinischen Partizip Perfekt 'vīnōtus' ab, das von 'vīnum' (Wein) abgeleitet ist, ursprünglich im Sinne von 'beschwipst' oder 'verantwortlich gemacht', später übertragen auf 'schuldhaft' oder 'verantwortlich'.",
+        "targetText": "Adjectivul românesc „vinovat” derivă din participiul perfect latin 'vīnōtus', provenit de la 'vīnum' (vin), inițial cu sensul de 'îmbătat' sau 'pus sub responsabilitate', ulterior cu sensul de 'vinovat' sau 'responsabil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Reue",
+      "targetText": "părere de rău"
+    },
+    {
+      "sourceText": "Schuld",
+      "targetText": "vină"
+    },
+    {
+      "sourceText": "Unrecht",
+      "targetText": "nedreptate"
+    },
+    {
+      "sourceText": "Verantwortung",
+      "targetText": "responsabilitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unschuldig",
+      "targetText": "nevinovat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist schuldig an dem Unfall.",
+      "targetText": "El este vinovat de accident."
+    },
+    {
+      "sourceText": "Sie fühlt sich schuldig wegen ihres Fehlers.",
+      "targetText": "Ea se simte vinovată din cauza greșelii sale."
+    },
+    {
+      "sourceText": "Das Gericht hat ihn schuldig gesprochen.",
+      "targetText": "Instanța l-a declarat vinovat."
+    },
+    {
+      "sourceText": "Ich bin nicht schuldig an diesem Problem.",
+      "targetText": "Nu sunt vinovat de această problemă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'schuldig' und das rumänische 'vinovat' drücken beide Verantwortung aus, aber 'vinovat' hat eine überraschende Verbindung zum Wein, was es besonders macht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'vinovat' klingt wie 'vino' (Wein auf Spanisch/Italienisch), und Wein kann dich 'verantwortlich' machen, wenn du zu viel trinkst – so merkst du dir 'vinovat' = schuldig."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand sagt 'Ich bin vinovat' und hebt eine Flasche Wein – die Verbindung zu 'vīnum' hilft dir, die Herkunft und Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du 'vinovat' hörst, denk an jemanden, der 'verantwortlich' ist, weil er 'zu viel Wein getrunken' hat – so bleibt das Wort lebendig und einprägsam."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

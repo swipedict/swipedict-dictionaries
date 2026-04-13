@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-rezeptfrei",
+  "parent": "ms-ro-fara-prescriptie-9b6416e5@837151646669d6df963622b88b049da7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "rezeptfrei",
+    "definition": "Ein Medikament, das ohne ärztliches Rezept gekauft werden kann.",
+    "pronunciation": "/ˈʁɛt͡sɛptˌfʁaɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „rezeptfrei“ setzt sich aus „Rezept“ und „frei“ zusammen, wobei „Rezept“ vom lateinischen 'receptum' stammt, was 'Empfang' oder 'Anweisung' bedeutet.",
+        "targetText": "Cuvântul german „rezeptfrei“ este compus din „Rezept” și „frei”, unde „Rezept” provine din latină, din 'receptum', însemnând 'instrucțiune' sau 'rețetă'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fără prescripție",
+    "definition": "Un medicament care poate fi cumpărat fără o rețetă medicală.",
+    "pronunciation": "/ˈfərə preskripˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „fără prescripție“ besteht aus 'fără' (ohne) und 'prescripție', das vom lateinischen 'praescriptio' stammt, was 'Vorschrift' oder 'Anordnung' bedeutet.",
+        "targetText": "Expresia românească „fără prescripție” este formată din 'fără' (fără) și 'prescripție', care provine din latină, din 'praescriptio', însemnând 'prescripție' sau 'ordonanță'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Diese Phrase wird häufig im medizinischen Kontext verwendet, um Medikamente zu beschreiben, die ohne Rezept erhältlich sind."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Apotheke",
+      "targetText": "farmacie"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Rezept",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "verschreibungspflichtig",
+      "targetText": "cu prescripție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verschreibungspflichtig",
+      "targetText": "cu prescripție"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Dieses Medikament ist rezeptfrei erhältlich.",
+      "targetText": "Acest medicament este disponibil fără prescripție."
+    },
+    {
+      "sourceText": "Viele Schmerzmittel sind rezeptfrei in der Apotheke zu kaufen.",
+      "targetText": "Multe analgezice pot fi cumpărate fără prescripție la farmacie."
+    },
+    {
+      "sourceText": "Rezeptfreie Medikamente können ohne Arztbesuch gekauft werden.",
+      "targetText": "Medicamentele fără prescripție pot fi cumpărate fără vizita la medic."
+    },
+    {
+      "sourceText": "Bitte beachten Sie, dass nicht alle Medikamente rezeptfrei sind.",
+      "targetText": "Vă rugăm să rețineți că nu toate medicamentele sunt fără prescripție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'prescripție' kommt vom Lateinischen 'praescriptio', ähnlich wie das deutsche 'Vorschrift' – so kannst du die Bedeutung leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'fără prescripție' als 'ohne Vorschrift', denn 'fără' bedeutet 'ohne' und 'prescripție' klingt ähnlich wie das deutsche 'Preskription'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst in die 'farmacie' und bekommst ein Medikament 'fără prescripție' – also ohne Rezept, ganz frei."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'rezeptfrei' mit 'fără prescripție' durch die Gemeinsamkeit der lateinischen Wurzeln und die Bedeutung 'ohne Rezept'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-wunde",
+  "parent": "ms-ro-ranire-0ca68985@16fcafc796f03c29b70d874289ecb40a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wunde",
+    "genus": "feminine",
+    "definition": "Eine Verletzung der Haut oder des Gewebes, die meist blutet oder schmerzt.",
+    "pronunciation": "/ˈvʊndə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wunde“ stammt vom althochdeutschen 'wunta' ab, das auf die urgermanische Wurzel *wundō zurückgeht und eine Verletzung oder Öffnung in der Haut bezeichnet.",
+        "targetText": "Cuvântul german „Wunde” provine din vechiul german înalt 'wunta', care la rândul său derivă din rădăcina urgermanică *wundō, însemnând o leziune sau o deschidere a pielii."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "rănire",
+    "genus": "feminine",
+    "definition": "O leziune a pielii sau a țesutului, care poate sângera sau provoca durere.",
+    "pronunciation": "/rəˈnire/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „rănire“ stammt vom lateinischen Verb 'rănīre' ab, das 'verletzen' bedeutet und auf das lateinische Substantiv 'rāna' (Wunde) zurückgeht.",
+        "targetText": "Substantivul românesc „rănire” derivă din verbul latin 'rănīre', care înseamnă 'a răni', provenind de la substantivul latin 'rāna' (rană)."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Blutung",
+      "targetText": "sângerare"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Schmerz",
+      "targetText": "durere"
+    },
+    {
+      "sourceText": "Verletzung",
+      "targetText": "leziune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Wunde muss sauber gehalten werden, um Infektionen zu vermeiden.",
+      "targetText": "Rănirea trebuie menținută curată pentru a evita infecțiile."
+    },
+    {
+      "sourceText": "Er hat sich eine tiefe Wunde am Arm zugezogen.",
+      "targetText": "Și-a făcut o rană adâncă la braț."
+    },
+    {
+      "sourceText": "Die Wunde blutet stark und muss genäht werden.",
+      "targetText": "Rana sângerează puternic și trebuie cusută."
+    },
+    {
+      "sourceText": "Nach der Operation heilt die Wunde langsam.",
+      "targetText": "După operație, rana se vindecă încet."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „rănire“ erinnert an das deutsche Wort „Ränke“, aber hier geht es um eine Verletzung – stell dir vor, jemand hat eine 'Ränke' gegen seine Haut."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „rănire“ beginnt mit 'ră-', ähnlich wie 'rău' (schlecht), was dir hilft, dich an die negative Bedeutung einer Wunde zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-ire' ist typisch für rumänische Substantive, die von Verben abgeleitet sind – hier von 'a răni' (verletzen)."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „rănire“ mit dem englischen Wort „run“ – wenn du läufst und fällst, kannst du dich verletzen (rănire)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

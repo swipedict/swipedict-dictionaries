@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-stimmt",
+  "parent": "ms-ro-corect-b252d056@67a665193c4689d304881a5b4d0f85e4",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stimmt.",
+    "definition": "Bestätigung oder Zustimmung zu einer Aussage oder Tatsache.",
+    "pronunciation": "/ʃtɪmt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „stimmt“ ist die 3. Person Singular Präsens des Verbs „stimmen“, das vom althochdeutschen 'stimman' stammt, was ursprünglich 'einen Ton erzeugen' bedeutete und sich auf Übereinstimmung bezieht.",
+        "targetText": "Cuvântul german „stimmt“ este forma la persoana a 3-a singular prezent a verbului „stimmen“, derivat din vechiul german înalt 'stimman', care inițial însemna 'a produce un sunet' și a evoluat spre sensul de acord sau conformitate."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "corect",
+    "definition": "Confirmare sau acord cu o afirmație sau un fapt; exprimă că ceva este adevărat sau potrivit.",
+    "pronunciation": "/koˈrekt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „corect“ stammt vom lateinischen 'correctus', dem Partizip Perfekt von 'corrigere', was 'korrigieren' oder 'richtig machen' bedeutet.",
+        "targetText": "Cuvântul românesc „corect” provine din latină, din 'correctus', participiul perfect al verbului 'corrigere', care înseamnă 'a corecta' sau 'a face ceva corect'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bestätigen",
+      "targetText": "a confirma"
+    },
+    {
+      "sourceText": "richtig",
+      "targetText": "corect"
+    },
+    {
+      "sourceText": "wahr",
+      "targetText": "adevărat"
+    },
+    {
+      "sourceText": "zustimmen",
+      "targetText": "a fi de acord"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "falsch",
+      "targetText": "greșit"
+    },
+    {
+      "sourceText": "unwahr",
+      "targetText": "fals"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Stimmt, das habe ich auch gehört.",
+      "targetText": "Corect, și eu am auzit asta."
+    },
+    {
+      "sourceText": "Das stimmt nicht, das ist falsch.",
+      "targetText": "Asta nu este corect, este greșit."
+    },
+    {
+      "sourceText": "Stimmt, wir treffen uns morgen.",
+      "targetText": "Corect, ne întâlnim mâine."
+    },
+    {
+      "sourceText": "Stimmt, das Wetter ist heute schön.",
+      "targetText": "Corect, vremea este frumoasă astăzi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚correctus‘ bedeutet ‚richtig gemacht‘ – denk an einen Lehrer, der deine Arbeit ‚korrigiert‘ und sagt ‚corect‘."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „corect“ klingt ähnlich wie das deutsche „korrekt“. So kannst du dir die Bedeutung leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen sagt man ‚Stimmt‘, wenn etwas übereinstimmt. Im Rumänischen hilft dir das Wort ‚corect‘, das auch ‚richtig‘ bedeutet, diese Übereinstimmung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst „Stimmt!“ und dein Freund antwortet „Corect!“, als ob ihr beide den gleichen Ton trefft – wie beim Abstimmen (stimmen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

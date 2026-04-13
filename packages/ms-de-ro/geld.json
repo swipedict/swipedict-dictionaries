@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-geld",
+  "parent": "ms-ro-bani-366ede56@1f1b021bdd99e7a1484b6ea83e22924e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Geld",
+    "genus": "neuter",
+    "definition": "Ein allgemein anerkanntes Tauschmittel in Form von Münzen oder Scheinen, das zum Bezahlen von Waren und Dienstleistungen verwendet wird.",
+    "pronunciation": "/ɡɛlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Geld“ stammt vom althochdeutschen 'gelt' ab, das 'Bezahlung' oder 'Lohn' bedeutete, und geht auf die germanische Wurzel *geldą zurück, die mit dem englischen 'geld' verwandt ist.",
+        "targetText": "Cuvântul german „Geld” provine din germana veche înaltă 'gelt', care însemna 'plată' sau 'salariu', având rădăcini germanice în *geldą, înrudit cu englezescul 'geld'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bani",
+    "genus": "masculine",
+    "definition": "Mijloc de plată general acceptat sub formă de monede sau bancnote, folosit pentru cumpărarea de bunuri și servicii.",
+    "pronunciation": "/ˈbani/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bani“ stammt vom slawischen 'banъ' ab, das ursprünglich einen Herrscher- oder Münzmeistertitel bezeichnete und später auf Geld übertragen wurde.",
+        "targetText": "Cuvântul românesc „bani” provine din slavona veche 'banъ', care inițial desemna un titlu de conducător sau responsabil cu moneda, fiind ulterior asociat cu banii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bezahlung",
+      "targetText": "plată"
+    },
+    {
+      "sourceText": "Münze",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "Scheine",
+      "targetText": "bancnote"
+    },
+    {
+      "sourceText": "Währung",
+      "targetText": "monedă națională"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Schulden",
+      "targetText": "datorii"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe kein Geld dabei.",
+      "targetText": "Nu am bani la mine."
+    },
+    {
+      "sourceText": "Das Geld liegt auf dem Tisch.",
+      "targetText": "Banii sunt pe masă."
+    },
+    {
+      "sourceText": "Er spart Geld für den Urlaub.",
+      "targetText": "El economisește bani pentru vacanță."
+    },
+    {
+      "sourceText": "Geld macht nicht glücklich.",
+      "targetText": "Banii nu aduc fericirea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Geld“ und das englische ‚geld‘ sind verwandt – so kannst du dir merken, dass auch „bani“ eine lange Geschichte hat, aber aus einer anderen Sprachfamilie stammt."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „bani“ klingt wie das deutsche Wort „Bahn“ mit einem ‚i‘ am Ende – stell dir vor, Geld fährt auf der Bahn, um dir zu helfen, es zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich daran, dass „bani“ aus dem slawischen ‚ban‘ kommt, ein Titel für Herrscher – Geld herrscht oft über unser Leben!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast viele ‚Bahn-i‘ (bani) und kannst damit überall hinfahren – so merkst du dir das Wort spielerisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

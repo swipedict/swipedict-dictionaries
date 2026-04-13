@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-kofferraum",
+  "parent": "ms-ro-portbagaj-085450f7@a145fe148e6cac73c943104452723f28",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kofferraum",
+    "genus": "masculine",
+    "definition": "Der abschließbare Stauraum eines Autos, in dem Gepäck transportiert wird.",
+    "pronunciation": "/ˈkɔfɐˌʁaʊ̯m/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kofferraum“ setzt sich aus „Koffer“ (Reisetasche) und „Raum“ zusammen. „Koffer“ stammt vom mittelhochdeutschen 'koffer', entlehnt aus dem italienischen 'cofano', das wiederum auf das lateinische 'cophinus' (Korb) zurückgeht.",
+        "targetText": "Cuvântul german „Kofferraum“ este compus din „Koffer” (valiză) și „Raum” (spațiu). „Koffer” provine din germana medie înaltă 'koffer', împrumutat din italianul 'cofano', care la rândul său derivă din latină 'cophinus' (coș)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "portbagaj",
+    "genus": "neuter",
+    "definition": "Compartimentul închis al unei mașini destinat transportului bagajelor.",
+    "pronunciation": "/portbaˈɡaʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „portbagaj“ stammt vom französischen 'port' (tragen, Transport) und 'bagage' (Gepäck) ab, die beide aus dem Lateinischen entlehnt sind.",
+        "targetText": "Cuvântul românesc „portbagaj” provine din franceza 'port' (a purta, transport) și 'bagage' (bagaj), ambele împrumutate din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Auto",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Gepäck",
+      "targetText": "bagaj"
+    },
+    {
+      "sourceText": "Koffer",
+      "targetText": "valiză"
+    },
+    {
+      "sourceText": "Laderaum",
+      "targetText": "spațiu de încărcare"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Kofferraum ist groß genug für unseren Urlaubskoffer.",
+      "targetText": "Portbagajul este suficient de mare pentru valiza noastră de vacanță."
+    },
+    {
+      "sourceText": "Bitte öffne den Kofferraum, ich muss das Gepäck einladen.",
+      "targetText": "Te rog, deschide portbagajul, trebuie să încarc bagajul."
+    },
+    {
+      "sourceText": "Im Kofferraum liegen die Einkaufstüten.",
+      "targetText": "În portbagaj se află pungile cu cumpărături."
+    },
+    {
+      "sourceText": "Der Kofferraum ist verschlossen.",
+      "targetText": "Portbagajul este încuiat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Portbagaj“ klingt wie eine Kombination aus französischem 'port' und 'bagage', was dir hilft, die Bedeutung als Gepäckraum im Auto zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Kofferraum“ ist zusammengesetzt aus „Koffer“ und „Raum“. Im Rumänischen ist es ähnlich zusammengesetzt: „port“ (tragen) + „bagaj“ (Gepäck)."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „portbagaj“ kannst du dir merken, indem du an „port“ als „tragen“ und „bagaj“ als „Bagage“ denkst – also der Ort, wo das Gepäck getragen wird."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „portierst“ (trägst) dein „Bagaj“ (Gepäck) direkt in den Kofferraum – so merkst du dir die Zusammensetzung des Wortes."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

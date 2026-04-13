@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-anfangen",
+  "parent": "ms-ro-a-incepe-c9fa4809@a557013c8cc889010887cfccfb661b32",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anfangen",
+    "definition": "mit etwas beginnen",
+    "pronunciation": "/ˈanˌfaŋən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich aus dem Präfix „an“ und dem Verb „fangen“ zusammen, was „beginnen“ oder „mit etwas beginnen“ bedeutet. Es ist ein festes Verb, das über die Jahrhunderte hinweg verwendet wurde.",
+        "targetText": "Provine din prefixul „an-“ și verbul „fangen” care înseamnă „a prinde” sau „a începe ceva”."
+      },
+      "source": "AI"
+    },
+    "additional": "Ein unregelmäßiges Verb mit starken Konjugationen. Oft in informellen Kontexten verwendet, um den Beginn einer Handlung auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a începe",
+    "definition": "a începe ceva",
+    "pronunciation": "/ɨnˈtʃe.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „incipere“, was „beginnen“ bedeutet. Die rumänische Form hat sich im Laufe der Zeit angepasst und ist zur gängigen Form für das Beginnen von Aktivitäten geworden.",
+        "targetText": "Provine din latinescul „incipere”, care înseamnă „a începe”."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in verschiedenen Kontexten, um den Anfang von etwas zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Eröffnung",
+      "explanation": {
+        "sourceText": "'Eröffnung' beschreibt auch den Beginn eines Events oder einer Veranstaltung.",
+        "targetText": "'Deschiderea' descrie începutul unui eveniment."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Eröffnung findet am Samstag statt.",
+          "targetText": "Deschiderea are loc sâmbătă."
+        }
+      ]
+    },
+    {
+      "gloss": "Start (Anfang)",
+      "explanation": {
+        "sourceText": "'A început' bezieht sich auf den Start oder Anfang von etwas.",
+        "targetText": "'A început' se referă la începutul a ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir starten morgen.",
+          "targetText": "Noi începem mâine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufgabe",
+      "targetText": "sarcină"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    },
+    {
+      "sourceText": "Prozess",
+      "targetText": "proces"
+    },
+    {
+      "sourceText": "Start",
+      "targetText": "început"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aufhören",
+      "targetText": "a termina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fange mit dem Projekt an.",
+      "targetText": "Eu încep proiectul."
+    },
+    {
+      "sourceText": "Fängst du heute an?",
+      "targetText": "Începi astăzi?"
+    },
+    {
+      "sourceText": "Sie fängt morgen an.",
+      "targetText": "Ea începe mâine."
+    },
+    {
+      "sourceText": "Wir fangen jetzt an.",
+      "targetText": "Noi începem acum."
+    },
+    {
+      "sourceText": "Fangt ihr bald an?",
+      "targetText": "Începeți în curând?"
+    },
+    {
+      "sourceText": "Sie fangen die Runde an.",
+      "targetText": "Ei încep runda."
+    },
+    {
+      "sourceText": "Ich habe das Buch begonnen.",
+      "targetText": "Am început cartea."
+    },
+    {
+      "sourceText": "Er fing damals an zu arbeiten.",
+      "targetText": "El începea atunci să lucreze."
+    },
+    {
+      "sourceText": "Ich werde bald anfangen.",
+      "targetText": "Voi începe în curând."
+    },
+    {
+      "sourceText": "Ich würde anfangen, wenn ich Zeit hätte.",
+      "targetText": "Aș începe dacă aș avea timp."
+    },
+    {
+      "sourceText": "Fang an!",
+      "targetText": "Începe!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "'A începe' wird oft in Alltagssituationen benutzt – denk daran, wann du etwas Neues startest."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du machst den ersten Schritt in ein Abenteuer – so merkst du dir 'a începe' als Beginn."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

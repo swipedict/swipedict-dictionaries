@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-wechselkurs",
+  "parent": "ms-ro-curs-valutar-b4ae37b3@c21d02f7755d19bfecb37c8458028134",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wechselkurs",
+    "genus": "masculine",
+    "definition": "Der Preis, zu dem eine Währung gegen eine andere getauscht wird.",
+    "pronunciation": "/ˈvɛksəlˌkʊrs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Wechselkurs“ setzt sich aus „wechseln“ (von althochdeutsch 'wechsal', was 'Tausch' bedeutet) und „Kurs“ (vom französischen 'cours', ursprünglich aus dem Lateinischen) zusammen.",
+        "targetText": "Cuvântul german „Wechselkurs” este compus din „wechseln” (din germana veche înaltă 'wechsal', care înseamnă 'schimb') și „Kurs” (împrumutat din franceza 'cours', cu origini latine)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curs valutar",
+    "genus": "neuter",
+    "definition": "Prețul la care o monedă este schimbată cu alta.",
+    "pronunciation": "/kurs valaˈtar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „curs” stammt vom lateinischen 'cursus' ab, was 'Lauf' oder 'Kurs' bedeutet, und „valutar” leitet sich vom französischen 'valutaire' ab, das auf das italienische 'valuta' zurückgeht, ursprünglich vom lateinischen 'valere' (wert sein).",
+        "targetText": "Cuvântul românesc „curs” provine din latină, 'cursus', însemnând 'alergare' sau 'curs', iar „valutar” derivă din franceza 'valutaire', care la rândul său vine din italiană 'valuta', provenind din latinescul 'valere' (a avea valoare)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Börse",
+      "targetText": "bursă"
+    },
+    {
+      "sourceText": "Devisen",
+      "targetText": "devize"
+    },
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Währung",
+      "targetText": "monedă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Wechselkurs zwischen Euro und Dollar ändert sich täglich.",
+      "targetText": "Cursul valutar între euro și dolar se schimbă zilnic."
+    },
+    {
+      "sourceText": "Ein günstiger Wechselkurs kann beim Geldwechsel viel sparen.",
+      "targetText": "Un curs valutar avantajos poate economisi mult la schimbul de bani."
+    },
+    {
+      "sourceText": "Die Zentralbank beeinflusst den Wechselkurs durch ihre Geldpolitik.",
+      "targetText": "Banca centrală influențează cursul valutar prin politica sa monetară."
+    },
+    {
+      "sourceText": "Beim Reisen sollte man den aktuellen Wechselkurs beachten.",
+      "targetText": "Când călătorești, trebuie să ții cont de cursul valutar actual."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Adjektiv 'valutar' erinnert an 'Valuta', ein bekanntes Wort für Fremdwährung – so kannst du dir 'curs valutar' als 'Währungskurs' leicht merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'curs' klingt wie 'Kurs' im Deutschen, beide stammen vom lateinischen 'cursus' – das hilft dir, die Bedeutung als 'Kurs/Wechselkurs' zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an den Wert ('valutar' von 'valere' = wert sein) und den Lauf ('curs' = Lauf), zusammen ergibt das den 'Wechselkurs', also den Wert einer Währung im Lauf der Zeit."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du wechselst Geld an einem 'Kurs' (wie ein Kurs im Unterricht), aber hier lernst du, wie viel eine Währung wert ist – so merkst du dir 'curs valutar'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

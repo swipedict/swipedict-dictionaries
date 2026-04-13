@@ -1,0 +1,204 @@
+{
+  "id": "ms-de-ro-studieren",
+  "parent": "ms-ro-a-studia-aa8fcdc2@7ace901a61b511934fb741f0360edf53",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "studieren",
+    "definition": "einen akademischen Kurs oder ein Fach an einer Hochschule oder Universität belegen",
+    "pronunciation": "/ʃtuˈdiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Entlehnt vom lateinischen „studere“, was „eifrig sein, streben“ bedeutet.",
+        "targetText": "Verbul „studieren“ provine din latinescul „studere“, care înseamnă „a fi harnic, a urmări cu sârguință“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft im Kontext von Hochschulbildung und akademischen Studien verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a studia",
+    "definition": "a urma un curs academic sau o disciplină la o universitate sau la o facultate",
+    "pronunciation": "/a studia/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Begriff stammt vom lateinischen „studiare“, was „eifrig lernen“ bedeutet. Das Wort hat sich im Rumänischen mit der gleichen Bedeutung etabliert und wird häufig in akademischen Kontexten verwendet.",
+        "targetText": "Cuvântul românesc „a studia“ derivă din latinescul „studiare“, care înseamnă „a învăța cu sârguință“ și este folosit frecvent în contexte academice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Im Rumänischen wird es oft in akademischen Zusammenhängen verwendet, ähnlich wie im Deutschen."
+  },
+  "senses": [
+    {
+      "gloss": "Studierender",
+      "explanation": {
+        "sourceText": "Ein 'Studierender' ist jemand, der lernt oder studiert.",
+        "targetText": "„Studierender“ este o persoană care învață sau studiază."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Studierende hat viele Fragen.",
+          "targetText": "Studentul are multe întrebări."
+        }
+      ]
+    },
+    {
+      "gloss": "Studium",
+      "explanation": {
+        "sourceText": "Das Wort 'Studium' wird verwendet, um den akademischen Prozess zu beschreiben.",
+        "targetText": "Cuvântul „studium“ descrie procesul academic de învățare."
+      },
+      "examples": [
+        {
+          "sourceText": "Mein Studium beginnt im Oktober.",
+          "targetText": "Studiul meu începe în octombrie."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kurs",
+      "targetText": "curs"
+    },
+    {
+      "sourceText": "Lernen",
+      "targetText": "învățare"
+    },
+    {
+      "sourceText": "Student",
+      "targetText": "student"
+    },
+    {
+      "sourceText": "Universität",
+      "targetText": "universitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abbrechen",
+      "targetText": "a renunța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich studiere an der Universität.",
+      "targetText": "Eu studiez la universitate."
+    },
+    {
+      "sourceText": "Studierst du Medizin?",
+      "targetText": "Studiezi medicina?"
+    },
+    {
+      "sourceText": "Er studiert in Berlin.",
+      "targetText": "El studiază la Berlin."
+    },
+    {
+      "sourceText": "Wir studieren gemeinsam.",
+      "targetText": "Noi studiem împreună."
+    },
+    {
+      "sourceText": "Studiert ihr viel?",
+      "targetText": "Studiați mult?"
+    },
+    {
+      "sourceText": "Sie studieren einige Fächer.",
+      "targetText": "Ei studiază câteva discipline."
+    },
+    {
+      "sourceText": "Ich habe ein Jahr in Amerika studiert.",
+      "targetText": "Am studiat un an în America."
+    },
+    {
+      "sourceText": "Sie haben die Geschichte studiert.",
+      "targetText": "Ei au studiat istoria."
+    },
+    {
+      "sourceText": "Er studierte damals im Ausland.",
+      "targetText": "El studia în străinătate atunci."
+    },
+    {
+      "sourceText": "Ich hatte schon lange studiert, bevor ich arbeitete.",
+      "targetText": "Studiasem de mult, înainte să lucrez."
+    },
+    {
+      "sourceText": "Ich werde im nächsten Semester studieren.",
+      "targetText": "Voi studia în semestrul următor."
+    },
+    {
+      "sourceText": "Sie wird die neue Sprache studieren.",
+      "targetText": "Ea o să studieze noua limbă."
+    },
+    {
+      "sourceText": "Ich würde gerne im Ausland studieren.",
+      "targetText": "Aș dori să studiez în străinătate."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du studierst.",
+      "targetText": "Este important să studiezi."
+    },
+    {
+      "sourceText": "Studier fleißig!",
+      "targetText": "Studiază cu sârguință!"
+    },
+    {
+      "sourceText": "Studiert mehr!",
+      "targetText": "Studiați mai mult!"
+    },
+    {
+      "sourceText": "Das studierte Material ist interessant.",
+      "targetText": "Materialul studiat este interesant."
+    },
+    {
+      "sourceText": "Die Prüfung ist jetzt studiert.",
+      "targetText": "Examenul este acum studiat."
+    },
+    {
+      "sourceText": "Studierend lernte ich viele interessante Dinge.",
+      "targetText": "Studiind, am învățat multe lucruri interesante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Studieren“ und „a studia“ sind Kognaten – schwer zu verwechseln!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Satzformen „Eu studiez“ (ich studiere) und „Eu am studiat“ (ich habe studiert) für den Gebrauch."
+    },
+    {
+      "lang": "de",
+      "text": "Nutze die Zukunftsform „Voi studia“ (ich werde studieren) als Vorlage für andere Verben."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen Studierenden mit einem Stapel Bücher vor – das hilft, die Bedeutung zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Versuche, auf Rumänisch über deine Studienfächer zu sprechen, um das Wort zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-erstellen",
+  "parent": "ms-ro-a-crea-ef7278a7@715c6805c696da340e0749a10305bc20",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erstellen",
+    "definition": "etwas schaffen oder zusammenstellen, oft in schriftlicher Form",
+    "pronunciation": "/ɛɐ̯ˈʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „erstellen“ setzt sich aus dem Präfix „er-“ und dem Verb „stellen“ zusammen, was ursprünglich „etwas an einen bestimmten Ort setzen“ oder „schaffen“ bedeutete.",
+        "targetText": "Verbul „erstellen“ provine din prefixul „er-“ și verbul „stellen“, inițial cu sensul de „a pune ceva într-un loc anume“ sau „a crea“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet im Kontext von Dokumenten, Bauwerken und Produkten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a crea",
+    "definition": "a face sau a compune ceva, adesea în formă scrisă",
+    "pronunciation": "/a kreˈa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a crea“ stammt vom lateinischen „creare“, was „erschaffen“ oder „schaffen“ bedeutet. Es wird verwendet, um die Entstehung von Kunst, Ideen und Objekten zu beschreiben.",
+        "targetText": "Verbul românesc „a crea“ derivă din latină, de la „creare“, cu sensul de „a crea“ sau „a produce“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird genutzt, um das Erschaffen oder Entwickeln von etwas zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Entwickeln",
+      "explanation": {
+        "sourceText": "'Erstellen' umfasst ebenso den Prozess des Entwickelns.",
+        "targetText": "„Erstellen“ include și procesul de dezvoltare."
+      },
+      "examples": [
+        {
+          "sourceText": "Er entwickelt Software.",
+          "targetText": "El dezvoltă software."
+        }
+      ]
+    },
+    {
+      "gloss": "Produzieren",
+      "explanation": {
+        "sourceText": "In einem industriellen Kontext wird 'erstellen' synonym mit 'produzieren' verwendet.",
+        "targetText": "În context industrial, „erstellen“ este sinonim cu „a produce“."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Fabrik erstellt neue Produkte.",
+          "targetText": "Fabrica creează produse noi."
+        }
+      ]
+    },
+    {
+      "gloss": "Schaffen",
+      "explanation": {
+        "sourceText": "In einem breiteren Sinne wird 'erstellen' auch als 'schaffen' verwendet.",
+        "targetText": "În sens larg, „erstellen“ înseamnă și „a crea“."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir schaffen neue Möglichkeiten.",
+          "targetText": "Creăm noi oportunități."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Bericht",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "Dokument",
+      "targetText": "document"
+    },
+    {
+      "sourceText": "Plan",
+      "targetText": "plan"
+    },
+    {
+      "sourceText": "Projekt",
+      "targetText": "proiect"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erstelle eine neue Website.",
+      "targetText": "Eu creez un nou site web."
+    },
+    {
+      "sourceText": "Erstellst du die Präsentation?",
+      "targetText": "Crezi prezentarea?"
+    },
+    {
+      "sourceText": "Der Entwickler erstellt die Anwendung.",
+      "targetText": "Dezvoltatorul creează aplicația."
+    },
+    {
+      "sourceText": "Wir erstellen ein neues Produkt.",
+      "targetText": "Noi creăm un nou produs."
+    },
+    {
+      "sourceText": "Erstellt ihr die Berichte?",
+      "targetText": "Voi creați rapoartele?"
+    },
+    {
+      "sourceText": "Sie erstellen die neuen Designs.",
+      "targetText": "Ei creează noile design-uri."
+    },
+    {
+      "sourceText": "Ich habe das Konzept erstellt.",
+      "targetText": "Am creat conceptul."
+    },
+    {
+      "sourceText": "Sie haben die Struktur erstellt.",
+      "targetText": "Au creat structura."
+    },
+    {
+      "sourceText": "Er stellte die Pläne jedes Jahr auf.",
+      "targetText": "El crea planurile în fiecare an."
+    },
+    {
+      "sourceText": "Ich hatte die Datei bereits erstellt, als du ankamst.",
+      "targetText": "Creasem deja fișierul când ai venit."
+    },
+    {
+      "sourceText": "Ich werde das neue Design erstellen.",
+      "targetText": "Voi crea noul design."
+    },
+    {
+      "sourceText": "Sie wird die neue App erstellen.",
+      "targetText": "Ea o să creeze aplicația nouă."
+    },
+    {
+      "sourceText": "Ich würde das Dokument erstellen, wenn ich könnte.",
+      "targetText": "Aș crea documentul dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist notwendig, dass du die Pläne erstellst.",
+      "targetText": "Este necesar să creezi planurile."
+    },
+    {
+      "sourceText": "Erstelle das neue Layout!",
+      "targetText": "Creează noul design!"
+    },
+    {
+      "sourceText": "Erstellt die neuen Regeln!",
+      "targetText": "Creați noile reguli!"
+    },
+    {
+      "sourceText": "Das erstellte Dokument ist wichtig.",
+      "targetText": "Documentul creat este important."
+    },
+    {
+      "sourceText": "Die Datei ist jetzt erstellt.",
+      "targetText": "Fișierul este acum creat."
+    },
+    {
+      "sourceText": "Durch das Erstellen des Berichts erhielten sie wichtige Informationen.",
+      "targetText": "Creând raportul, au obținut informații importante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A crea“ klingt ähnlich wie „kreieren“. Verbinde diese Ähnlichkeit mit dem deutschen Wort „erstellen“, um dir das rumänische Verb leichter zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Beachte die typischen Präsensendungen: „-ez“ (ich), „-ezi“ (du), „-ează“ (er/sie/es) – das hilft dir, die Konjugation von „a crea“ zu lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Das „crea“ erinnert an „Kreativität“ – so kannst du dir merken, dass „a crea“ für „erstellen“ steht."
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „erstellen“ eine kreative Handlung ist – frage dich: „Was kann ich schaffen?“ und verbinde es mit „a crea“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-bauernhof",
+  "parent": "ms-ro-ferma-613b8adb@f8637aec2dd3d17385d33bfe0dc801cf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bauernhof",
+    "genus": "masculine",
+    "definition": "ein landwirtschaftlicher Betrieb, auf dem Tiere gehalten und Pflanzen angebaut werden",
+    "pronunciation": "/ˈbaʊ̯ɐnˌhɔf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bauernhof“ setzt sich aus „Bauer“ (vom althochdeutschen „bura“ für Landwirt) und „Hof“ (vom althochdeutschen „hufu“ für Hof oder Wohnung) zusammen.",
+        "targetText": "Cuvântul german „Bauernhof“ este compus din „Bauer“ (provenit din germana veche „bura“, agricultor) și „Hof“ (din germana veche „hufu“, curte sau gospodărie)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bauernhöfe sind entscheidend für die Landwirtschaft und die Versorgung mit Lebensmitteln."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ferma",
+    "genus": "feminine",
+    "definition": "o exploatare agricolă unde se cresc animale și se cultivă plante",
+    "pronunciation": "/ˈfer.ma/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ferma“ stammt vom lateinischen „firma“ ab, was „fest“ oder „stabil“ bedeutet, und bezeichnet einen landwirtschaftlichen Betrieb.",
+        "targetText": "Cuvântul românesc „ferma“ provine din latinul „firma“, care înseamnă „solid“ sau „stabil“, desemnând o exploatare agricolă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ferme sind der Schlüssel zur Nahrungsmittelproduktion in Rumänien."
+  },
+  "senses": [
+    {
+      "gloss": "Agrarbereich",
+      "explanation": {
+        "sourceText": "Kann auch den Agrarbereich allgemein bedeuten.",
+        "targetText": "Poate desemna și domeniul agricol în general."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Entwicklung im Agrarbereich ist wichtig.",
+          "targetText": "Dezvoltarea în domeniul agricol este importantă."
+        }
+      ]
+    },
+    {
+      "gloss": "Landwirtschaftlicher Betrieb",
+      "explanation": {
+        "sourceText": "Wird auch für landwirtschaftliche Betriebe verwendet.",
+        "targetText": "Se referă la exploatații agricole."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Menschen arbeiten auf dem Bauernhof.",
+          "targetText": "Oamenii lucrează pe fermă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Acker",
+      "targetText": "câmp"
+    },
+    {
+      "sourceText": "Landwirt",
+      "targetText": "fermier"
+    },
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plantă"
+    },
+    {
+      "sourceText": "Tier",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich arbeite auf einem Bauernhof.",
+      "targetText": "Lucrez pe o fermă."
+    },
+    {
+      "sourceText": "Der Bauernhof hat viele Tiere.",
+      "targetText": "Ferma are multe animale."
+    },
+    {
+      "sourceText": "Wir vermieten eine Wohnung auf dem Bauernhof.",
+      "targetText": "Îi închiriem un apartament pe fermă."
+    },
+    {
+      "sourceText": "Der Bauernhof liegt in der Nähe des Waldes.",
+      "targetText": "Ferma se află aproape de pădure."
+    },
+    {
+      "sourceText": "Die Ernte auf dem Bauernhof war gut.",
+      "targetText": "Recolta de pe fermă a fost bună."
+    },
+    {
+      "sourceText": "Leute kaufen frische Produkte vom Bauernhof.",
+      "targetText": "Oamenii cumpără produse proaspete de la fermă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „ferma“ klingt wie „Firma“ – stell dir eine stabile Firma vor, die Landwirtschaft betreibt!"
+    },
+    {
+      "lang": "de",
+      "text": "Nutze „ferma“ im Alltag, wenn du über Landwirtschaft oder frische Produkte sprichst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir „ferma“ als eine kleine Welt vor, die dir alles über das Leben auf dem Land zeigt."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an Bauernhof denkst, stell dir eine große Farm mit Tieren und Pflanzen vor – das hilft dir, „ferma“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

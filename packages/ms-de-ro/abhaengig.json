@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-abhaengig",
+  "parent": "ms-ro-dependent-bb9077a4@3262108b019d6ef2fcacde0354e33eab",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "abhängig",
+    "definition": "In einem Zustand, in dem man auf etwas oder jemanden angewiesen ist.",
+    "pronunciation": "/apˈhɛŋɪɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „abhängig“ setzt sich aus dem Präfix 'ab-' und dem Verb 'hängen' zusammen, das vom althochdeutschen 'hangan' stammt und 'hängen' bedeutet.",
+        "targetText": "Adjectivul german „abhängig” este format din prefixul 'ab-' și verbul 'hängen', care provine din germana veche înaltă 'hangan', însemnând 'a atârna'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dependent",
+    "definition": "Aflați într-o stare în care depinzi de ceva sau cineva.",
+    "pronunciation": "/depenˈdent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dependent“ stammt vom lateinischen 'dependens', Partizip von 'dependere', was 'herabhängen' oder 'abhängig sein' bedeutet.",
+        "targetText": "Cuvântul românesc „dependent” provine din latină, de la 'dependens', participiul verbului 'dependere', care înseamnă 'a atârna' sau 'a depinde'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "abhängen",
+      "targetText": "a depinde"
+    },
+    {
+      "sourceText": "abhängig sein von",
+      "targetText": "a fi dependent de"
+    },
+    {
+      "sourceText": "Abhängigkeit",
+      "targetText": "dependență"
+    },
+    {
+      "sourceText": "Unabhängig",
+      "targetText": "independent"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unabhängig",
+      "targetText": "independent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist finanziell abhängig von seinen Eltern.",
+      "targetText": "El este financiar dependent de părinții săi."
+    },
+    {
+      "sourceText": "Viele Menschen sind von ihrem Smartphone abhängig.",
+      "targetText": "Mulți oameni sunt dependenți de telefonul lor mobil."
+    },
+    {
+      "sourceText": "Sie ist nicht mehr abhängig von Medikamenten.",
+      "targetText": "Ea nu mai este dependentă de medicamente."
+    },
+    {
+      "sourceText": "Das Ergebnis ist abhängig von der Qualität der Arbeit.",
+      "targetText": "Rezultatul este dependent de calitatea muncii."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'dependent' klingt fast gleich wie das deutsche 'abhängig' und kommt vom lateinischen 'dependere' – so kannst du die Bedeutung leicht verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'dependent' erinnert an 'depend' im Englischen, was 'abhängen von' bedeutet – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'dependent' enthält 'dent' wie 'Zahn' auf Französisch, aber hier hilft es, an etwas 'hängen' zu denken, um die Abhängigkeit zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand hängt an einer 'Leine' (dependere = herabhängen) – so merkst du dir 'dependent' als 'abhängig'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

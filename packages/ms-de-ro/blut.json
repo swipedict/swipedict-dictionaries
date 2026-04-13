@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-blut",
+  "parent": "ms-ro-sange-510b6a2c@fd7949d265ba5f4b2fb46013b38beec3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Blut",
+    "genus": "neuter",
+    "definition": "Die rote Flüssigkeit, die durch die Adern des Körpers fließt und lebenswichtig ist.",
+    "pronunciation": "/bluːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Blut“ stammt vom althochdeutschen 'bluod' ab, das auf die urgermanische Wurzel *blōþą zurückgeht und mit dem englischen 'blood' verwandt ist.",
+        "targetText": "Cuvântul german „Blut” provine din germana veche înaltă 'bluod', care la rândul său derivă din rădăcina proto-germanică *blōþą, fiind înrudit cu englezescul 'blood'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sânge",
+    "genus": "neuter",
+    "definition": "Lichid roșu care circulă prin vasele corpului și este esențial pentru viață.",
+    "pronunciation": "/ˈsɨn.d͡ʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sânge“ stammt vom lateinischen 'sanguis' ab, das 'Blut' bedeutet und eine indogermanische Wurzel *sengʷ- hat.",
+        "targetText": "Cuvântul românesc „sânge” provine din latinul 'sanguis', care înseamnă 'sânge' și are o rădăcină indo-europeană *sengʷ-."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Blutarmut",
+      "targetText": "anemie"
+    },
+    {
+      "sourceText": "Blutdruck",
+      "targetText": "tensiune arterială"
+    },
+    {
+      "sourceText": "Blutgruppe",
+      "targetText": "grup sanguin"
+    },
+    {
+      "sourceText": "Blutverlust",
+      "targetText": "pierdere de sânge"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Blut fließt durch die Adern.",
+      "targetText": "Sângele curge prin vase."
+    },
+    {
+      "sourceText": "Er hat eine seltene Blutgruppe.",
+      "targetText": "Are un grup sanguin rar."
+    },
+    {
+      "sourceText": "Blut ist lebenswichtig.",
+      "targetText": "Sângele este esențial pentru viață."
+    },
+    {
+      "sourceText": "Bei der Verletzung verlor sie viel Blut.",
+      "targetText": "La accident a pierdut mult sânge."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Blut ist rot, und 'sânge' endet auf -ge, so wie 'rote' Wörter oft auf -ge enden (z.B. 'berge' = Berge)."
+    },
+    {
+      "lang": "de",
+      "text": "Das 'â' in 'sânge' wird wie ein kurzer, geschlossener Laut gesprochen – das macht das Wort besonders und einprägsam."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'sânge' klingt wie 'Singe' (englisch für 'versengen'), stell dir vor, Blut ist heiß und kann 'versengen'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'sânge' vom lateinischen 'sanguis' kommt, ähnlich wie das französische 'sang'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

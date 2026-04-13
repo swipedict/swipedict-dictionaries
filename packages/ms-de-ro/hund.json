@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-hund",
+  "parent": "ms-ro-caine-e5665062@038224bee97815bbe4f9c71ac02bbf21",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hund",
+    "genus": "masculine",
+    "definition": "Ein domestiziertes, meist vierbeiniges Säugetier, das als Haustier gehalten wird und oft als Begleiter des Menschen dient.",
+    "pronunciation": "/hʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Hund“ stammt vom althochdeutschen 'hunt' ab, das auf die urgermanische Wurzel *hundaz zurückgeht und ursprünglich allgemein für einen Haushund stand.",
+        "targetText": "Cuvântul german „Hund” provine din vechiul german înalt 'hunt', care la rândul său derivă din rădăcina urgermanică *hundaz și desemna inițial câinele domestic."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "câine",
+    "genus": "masculine",
+    "definition": "Un mamifer domestic, de obicei patruped, ținut ca animal de companie și adesea folosit ca însoțitor al omului.",
+    "pronunciation": "/kɨˈjne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „câine“ stammt vom lateinischen 'canis' ab, das im Lateinischen allgemein für Hund steht und in vielen romanischen Sprachen ähnliche Formen hat.",
+        "targetText": "Cuvântul românesc „câine” provine din latinescul 'canis', care desemna în latină câinele și a dat naștere unor forme similare în multe limbi romanice."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Haustier",
+      "targetText": "animal de companie"
+    },
+    {
+      "sourceText": "Katze",
+      "targetText": "pisică"
+    },
+    {
+      "sourceText": "Tier",
+      "targetText": "animal"
+    },
+    {
+      "sourceText": "Welpe",
+      "targetText": "căţel"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Hund bellt laut.",
+      "targetText": "Câinele latră tare."
+    },
+    {
+      "sourceText": "Ich habe einen braunen Hund.",
+      "targetText": "Am un câine maro."
+    },
+    {
+      "sourceText": "Der Hund läuft im Garten.",
+      "targetText": "Câinele aleargă în grădină."
+    },
+    {
+      "sourceText": "Mein Hund ist sehr freundlich.",
+      "targetText": "Câinele meu este foarte prietenos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das 'â' in 'câine' wird wie ein kurzer, geschlossener Vokal gesprochen – ähnlich wie das deutsche 'ü' in 'Münze', aber etwas offener."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „câine“ klingt wie „Käin(e)“ – stell dir vor, ein Hund trägt einen kleinen Käfig (englisch 'cage'), um es dir zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische Wort 'canis', das in vielen romanischen Sprachen ähnlich ist, z.B. italienisch 'cane' oder französisch 'chien'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, der Hund sagt 'Käin-e', als ob er dich ruft – so kannst du dir das Wort leichter merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

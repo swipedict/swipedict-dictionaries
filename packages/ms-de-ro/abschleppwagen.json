@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-abschleppwagen",
+  "parent": "ms-ro-autovehicul-de-tractare-979bc413@5007a80437043f8b126bf9109c2766dd",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Abschleppwagen",
+    "genus": "masculine",
+    "definition": "Ein spezielles Fahrzeug, das zum Abschleppen anderer Fahrzeuge verwendet wird.",
+    "pronunciation": "/ˈapʃleːpˌvaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Abschleppwagen“ kombiniert 'Abschlepp' (wegziehen) mit 'Wagen' (Fahrzeug) und entstand im 20. Jahrhundert mit der Entwicklung von Abschleppfahrzeugen.",
+        "targetText": "Cuvântul german „Abschleppwagen” combină 'Abschlepp' (a trage departe) cu 'Wagen' (vehicul), apărut în secolul XX odată cu dezvoltarea vehiculelor de tractare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "autovehicul de tractare",
+    "genus": "neuter",
+    "definition": "Un vehicul special folosit pentru a tracta alte vehicule.",
+    "pronunciation": "/auto.veˈhi.kul de trakˈta.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „autovehicul de tractare“ setzt sich aus 'auto' (vom griechischen 'autos' = selbst) und 'vehicul' (vom lateinischen 'vehiculum') sowie 'tractare' (ziehen) zusammen.",
+        "targetText": "Expresia românească „autovehicul de tractare” este formată din 'auto' (din greaca 'autos' = însuși), 'vehicul' (din latina 'vehiculum') și 'tractare' (a trage)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abschleppdienst",
+      "targetText": "serviciu de tractare"
+    },
+    {
+      "sourceText": "Fahrzeug",
+      "targetText": "vehicul"
+    },
+    {
+      "sourceText": "LKW",
+      "targetText": "camion"
+    },
+    {
+      "sourceText": "Transport",
+      "targetText": "transport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Abschleppwagen kam, um das liegengebliebene Auto zu holen.",
+      "targetText": "Autovehiculul de tractare a venit să ridice mașina oprită."
+    },
+    {
+      "sourceText": "Ein Abschleppwagen ist oft ein großer Lastwagen mit spezieller Ausrüstung.",
+      "targetText": "Un autovehicul de tractare este adesea un camion mare cu echipament special."
+    },
+    {
+      "sourceText": "Der Abschleppwagen wurde zum Unfallort geschickt.",
+      "targetText": "Autovehiculul de tractare a fost trimis la locul accidentului."
+    },
+    {
+      "sourceText": "Man sieht oft Abschleppwagen auf der Autobahn.",
+      "targetText": "Adesea se văd autovehicule de tractare pe autostradă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort 'tractare' erinnert an das deutsche 'schleppen' und hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Abschleppwagen“ kannst du dir merken, indem du an einen Wagen denkst, der abschleppt – also ein Fahrzeug, das andere zieht."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen hilft dir das Wort 'autovehicul' (Auto + Vehicul) als Schlüssel, denn es bedeutet Fahrzeug."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein großer Lastwagen zieht ein kaputtes Auto – das ist der 'autovehicul de tractare'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

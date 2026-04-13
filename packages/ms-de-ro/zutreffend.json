@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-zutreffend",
+  "parent": "ms-ro-corect-b252d056@67a665193c4689d304881a5b4d0f85e4",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zutreffend",
+    "definition": "richtig oder angemessen in Bezug auf eine bestimmte Situation oder Anfrage",
+    "pronunciation": "/ˈtsuːtrɛfɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Zutreffend“ setzt sich aus dem Präfix „zu-“ und dem Verb „treffen“ zusammen und beschreibt etwas, das korrekt ist.",
+        "targetText": "Cuvântul „zutreffend“ este format din prefixul „zu-“ și verbul „treffen“, indicând ceva corect."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in sachlichen oder wissenschaftlichen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "corect",
+    "genus": "masculine",
+    "definition": "corect sau adecvat în raport cu o anumită situație sau solicitare",
+    "pronunciation": "/koˈrekt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „corect“ stammt vom lateinischen „correctus“, was „richtig“ bedeutet.",
+        "targetText": "Cuvântul „corect“ provine din latină „correctus“, care înseamnă „corect“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in formalen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Angemessenheit",
+      "explanation": {
+        "sourceText": "Bedeutet angemessen zur Situation zu sein.",
+        "targetText": "Înseamnă a fi adecvat situației."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Verhalten war zutreffend.",
+          "targetText": "Comportamentul a fost corect."
+        }
+      ]
+    },
+    {
+      "gloss": "Korrektheit",
+      "explanation": {
+        "sourceText": "Betont die Genauigkeit in einer Situation.",
+        "targetText": "Evidențiază precizia într-o situație."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Studie hat zuzutreffende Ergebnisse.",
+          "targetText": "Studiul are rezultate corecte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "angemessen",
+      "targetText": "adecvat"
+    },
+    {
+      "sourceText": "glaubwürdig",
+      "targetText": "credibil"
+    },
+    {
+      "sourceText": "korrekt",
+      "targetText": "corect"
+    },
+    {
+      "sourceText": "passend",
+      "targetText": "potrivit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "falsch",
+      "targetText": "nepotrivit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Angaben in dem Bericht sind zutreffend.",
+      "targetText": "Informațiile din raport sunt corecte."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass die Fakten zutreffend sind.",
+      "targetText": "Este important ca faptele să fie corecte."
+    },
+    {
+      "sourceText": "Wenn die Vermutung zutreffend ist, müssen wir handeln.",
+      "targetText": "Dacă presupunerea este corectă, trebuie să acționăm."
+    },
+    {
+      "sourceText": "Zutreffende Aussagen sind entscheidend in der Argumentation.",
+      "targetText": "Afirmațiile corecte sunt esențiale în argumentare."
+    },
+    {
+      "sourceText": "Alle zutreffenden Punkte wurden in der Diskussion behandelt.",
+      "targetText": "Toate punctele corecte au fost discutate."
+    },
+    {
+      "sourceText": "Die Ergebnisse müssen zutreffend und nachvollziehbar sein.",
+      "targetText": "Rezultatele trebuie să fie corecte și verificabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Zutreffend“ erinnert an „Treff“ – wo man etwas trifft oder richtig macht. Verknüpfe es mit „corect“."
+    },
+    {
+      "lang": "de",
+      "text": "„Zutreffend“ klingt wie „tippen, dass es wahr ist“ – im Rumänischen „corect“ – denk daran, es steht für Richtigkeit."
+    },
+    {
+      "lang": "de",
+      "text": "Merksatz: „Wenn ich unsicher bin, frage den ZUTREFFENDEN!“"
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du sicher bist, dass deine Fakten „zutreffend“ sind, fühlst du dich „corect“ – egal in welcher Sprache."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

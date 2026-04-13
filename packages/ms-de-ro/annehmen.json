@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-annehmen",
+  "parent": "ms-ro-a-accepta-00bb567a@87eedf8afd0624df5b5c521bdab432ed",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "annehmen",
+    "definition": "etwas akzeptieren oder in Empfang nehmen",
+    "pronunciation": "/ˈanˌneːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort setzt sich aus ‚an‘ und ‚nehmen‘ zusammen. ‚Nehmen‘ stammt vom althochdeutschen ‚nemen‘ und bedeutet ‚ergreifen‘.",
+        "targetText": "Cuvântul este format din „an“ și „nehmen“. „Nehmen“ provine din germana veche „nemen“ și înseamnă „a lua“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird in verschiedenen Kontexten verwendet, z.B. das Annehmen eines Angebots oder das Akzeptieren von Bedingungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a accepta",
+    "definition": "a primi sau a accepta ceva",
+    "pronunciation": "/a ak.cepˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb stammt vom lateinischen ‚acceptare‘ ab, zusammengesetzt aus ‚ad‘ (zu) und ‚capere‘ (ergreifen), und bedeutet ‚annehmen‘ oder ‚akzeptieren‘.",
+        "targetText": "Verbul provine din latină, din „acceptare“, format din „ad“ (către) și „capere“ (a prinde), și înseamnă „a accepta“ sau „a primi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um Angebote oder Geschenke anzunehmen."
+  },
+  "senses": [
+    {
+      "gloss": "Akzeptieren",
+      "explanation": {
+        "sourceText": "Verwendet, um Zustimmung auszudrücken.",
+        "targetText": "Folosit pentru a exprima acordul."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich akzeptiere die Bedingungen.",
+          "targetText": "Accept condițiile."
+        }
+      ]
+    },
+    {
+      "gloss": "Angebot annehmen",
+      "explanation": {
+        "sourceText": "Verwendet für das Annehmen eines Angebots.",
+        "targetText": "Folosit pentru a accepta o ofertă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme das Angebot an.",
+          "targetText": "Accept oferta."
+        }
+      ]
+    },
+    {
+      "gloss": "Geschenk annehmen",
+      "explanation": {
+        "sourceText": "Verwendet im Kontext von Geschenken.",
+        "targetText": "Folosit în contextul cadourilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Nehme das Geschenk an!",
+          "targetText": "Acceptă cadoul!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Einladung",
+      "targetText": "invitație"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Überraschung",
+      "targetText": "surpriză"
+    },
+    {
+      "sourceText": "Zustimmung",
+      "targetText": "aprobare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abnehmen",
+      "targetText": "a renunța la"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme das Angebot an.",
+      "targetText": "Accept oferta."
+    },
+    {
+      "sourceText": "Ich habe das Angebot angenommen.",
+      "targetText": "Am acceptat oferta."
+    },
+    {
+      "sourceText": "Ich werde es annehmen.",
+      "targetText": "Voi accepta."
+    },
+    {
+      "sourceText": "Nehme das Geschenk an!",
+      "targetText": "Acceptă cadoul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Annehmen“ und „a accepta“ sind Kognaten mit ähnlicher Bedeutung – beide beginnen mit ‚a‘ und enden auf ‚-a‘."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: ‚accepta‘ wird oft mit einem direkten Objekt verwendet, z.B. ‚Accept oferta‘ (Ich nehme das Angebot an)."
+    },
+    {
+      "lang": "de",
+      "text": "Übe verschiedene Zeiten, um ‚a accepta‘ sicher anzuwenden, z.B. ‚Am acceptat‘ (ich habe angenommen)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

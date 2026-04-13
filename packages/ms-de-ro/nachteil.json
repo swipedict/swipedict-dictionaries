@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-nachteil",
+  "parent": "ms-ro-dezavantaj-1d8ae0a3@28ea7b2034429d6c31ba9860bfd603ed",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nachteil",
+    "genus": "masculine",
+    "definition": "Ein ungünstiger Umstand oder eine negative Folge, die aus einer Situation entsteht.",
+    "pronunciation": "/ˈnaːxtˌtaɪ̯l/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Nachteil“ setzt sich aus 'nach' und 'Teil' zusammen, wobei 'Teil' vom althochdeutschen 'teil' stammt, das auf das lateinische 'talea' zurückgeht, was 'Stück' bedeutet.",
+        "targetText": "Cuvântul german „Nachteil” este compus din 'nach' și 'Teil', unde 'Teil' provine din vechiul german înalt 'teil', derivat din latinul 'talea', care înseamnă 'bucată'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dezavantaj",
+    "genus": "neuter",
+    "definition": "O situație nefavorabilă sau un efect negativ care rezultă dintr-o circumstanță.",
+    "pronunciation": "/dezavantˈadʒ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „dezavantaj“ stammt vom französischen 'désavantage' ab, das sich aus 'dés-' (nicht) und 'avantage' (Vorteil) zusammensetzt.",
+        "targetText": "Cuvântul românesc „dezavantaj” provine din francezul 'désavantage', compus din 'dés-' (negare) și 'avantage' (avantaj)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Nachteilige Wirkung",
+      "targetText": "efect negativ"
+    },
+    {
+      "sourceText": "Problem",
+      "targetText": "problemă"
+    },
+    {
+      "sourceText": "Schwäche",
+      "targetText": "slăbiciune"
+    },
+    {
+      "sourceText": "Vorteil",
+      "targetText": "avantaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Vorteil",
+      "targetText": "avantaj"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ein Nachteil dieses Plans ist die hohe Kosten.",
+      "targetText": "Un dezavantaj al acestui plan este costul ridicat."
+    },
+    {
+      "sourceText": "Der Nachteil von zu viel Arbeit ist Stress.",
+      "targetText": "Dezavantajul muncii prea multe este stresul."
+    },
+    {
+      "sourceText": "Jeder Vorteil hat auch einen Nachteil.",
+      "targetText": "Fiecare avantaj are și un dezavantaj."
+    },
+    {
+      "sourceText": "Der Nachteil ist offensichtlich.",
+      "targetText": "Dezavantajul este evident."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „dezavantaj“ klingt wie das französische „désavantage“, was dir hilft, die Bedeutung als 'Nachteil' zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir das Präfix „dez-“ als Negation, ähnlich wie im Deutschen „de-“ oder „dis-“, um den negativen Sinn von „dezavantaj“ zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen Vorteil („avantaj“), aber plötzlich kommt ein „de-„ davor und macht daraus einen Nachteil – so merkst du dir „dezavantaj“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „avantaj“ mit dem deutschen Wort „Vorteil“ – „dezavantaj“ ist also das Gegenteil, der Nachteil."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

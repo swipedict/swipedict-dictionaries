@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-erforderlich",
+  "parent": "ms-ro-necesar-58ece07c@44af453ab102c6a069e4a86d7961cceb",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erforderlich",
+    "definition": "Notwendig oder zwingend erforderlich, um ein Ziel zu erreichen oder eine Aufgabe zu erfüllen.",
+    "pronunciation": "/ɛɐ̯ˈfɔʁdɐlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „erforderlich“ stammt vom Verb 'fordern' ab, das aus dem mittelhochdeutschen 'vorderen' kommt, verwandt mit dem althochdeutschen 'fordarōn', was 'fordern' oder 'verlangen' bedeutet.",
+        "targetText": "Adjectivul german „erforderlich” derivă din verbul 'fordern', provenit din germana mijlocie 'vorderen', înrudit cu germana veche înaltă 'fordarōn', însemnând 'a cere' sau 'a solicita'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "necesar",
+    "definition": "Ceva ce este obligatoriu sau indispensabil pentru a atinge un scop sau a îndeplini o sarcină.",
+    "pronunciation": "/neʦeˈsar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „necesar“ stammt vom lateinischen 'necessarius' ab, was 'unvermeidlich' oder 'notwendig' bedeutet.",
+        "targetText": "Adjectivul românesc „necesar” provine din latină, din 'necessarius', care înseamnă 'inevitabil' sau 'necesar'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Notwendig",
+      "targetText": "necesar"
+    },
+    {
+      "sourceText": "obligatorisch",
+      "targetText": "obligatoriu"
+    },
+    {
+      "sourceText": "Pflicht",
+      "targetText": "datorie"
+    },
+    {
+      "sourceText": "unverzichtbar",
+      "targetText": "indispensabil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freiwillig",
+      "targetText": "voluntar"
+    },
+    {
+      "sourceText": "überflüssig",
+      "targetText": "inutil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Für die Bewerbung ist ein Lebenslauf erforderlich.",
+      "targetText": "Pentru aplicare este necesar un CV."
+    },
+    {
+      "sourceText": "Es ist erforderlich, pünktlich zu sein.",
+      "targetText": "Este necesar să fii punctual."
+    },
+    {
+      "sourceText": "Die erforderlichen Dokumente müssen eingereicht werden.",
+      "targetText": "Documentele necesare trebuie depuse."
+    },
+    {
+      "sourceText": "Ein Pass ist für die Reise erforderlich.",
+      "targetText": "Un pașaport este necesar pentru călătorie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „necesar“ klingt ähnlich wie das deutsche Wort „notwendig“, was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ar', eine häufige Endung für Adjektive im Rumänischen, die dir hilft, es als Eigenschaftswort zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische 'necessarius', um die Bedeutung von 'necesar' als etwas Unverzichtbares zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, etwas ist so wichtig, dass es 'notwendig' ist – das hilft dir, 'necesar' zu behalten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

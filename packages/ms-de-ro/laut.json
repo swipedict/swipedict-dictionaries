@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-laut",
+  "parent": "ms-ro-tare-acddc763@ca391e8e023b5586eb38c5e9a156eb26",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "laut",
+    "definition": "Beschreibt einen hohen Geräuschpegel oder eine starke Klangintensität.",
+    "pronunciation": "/laʊ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „laut“ stammt vom althochdeutschen 'lūt' ab, das mit dem germanischen Wort für 'Klang' verwandt ist.",
+        "targetText": "Adjectivul german „laut” provine din vechiul german înalt 'lūt', legat de cuvântul germanic pentru 'sunet'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tare",
+    "definition": "Care descrie un nivel ridicat de zgomot sau intensitate a sunetului.",
+    "pronunciation": "/ˈtare/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „tare“ stammt vom lateinischen Wort 'tardus' ab, das 'langsam' bedeutete, sich aber im Rumänischen zu 'stark' oder 'laut' entwickelte.",
+        "targetText": "Adjectivul românesc „tare” provine din cuvântul latin 'tardus', care inițial însemna 'lent', dar în română a evoluat spre sensul de 'puternic' sau 'tare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Geräusch",
+      "targetText": "zgomot"
+    },
+    {
+      "sourceText": "Klang",
+      "targetText": "sunet"
+    },
+    {
+      "sourceText": "leise",
+      "targetText": "încet"
+    },
+    {
+      "sourceText": "stark",
+      "targetText": "puternic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "leise",
+      "targetText": "încet"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Musik ist sehr laut.",
+      "targetText": "Muzica este foarte tare."
+    },
+    {
+      "sourceText": "Sprich nicht so laut!",
+      "targetText": "Nu vorbi atât de tare!"
+    },
+    {
+      "sourceText": "Ein lauter Knall.",
+      "targetText": "Un zgomot tare."
+    },
+    {
+      "sourceText": "Das Baby schläft trotz des lauten Lärms.",
+      "targetText": "Bebelușul doarme în ciuda zgomotului tare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'tardus' hat sich im Rumänischen semantisch verändert – das macht 'tare' zu einem interessanten Wort zum Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'tare' klingt wie 'stark' mit einem 't' am Ende – beide bedeuten etwas mit großer Intensität."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'laut' und 'tare' beide für etwas mit hoher Lautstärke stehen – 'tare' klingt kräftig und laut."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du rufst 'TARE!' laut und kräftig, um dir die Bedeutung zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

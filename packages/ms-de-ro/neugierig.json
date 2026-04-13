@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-neugierig",
+  "parent": "ms-ro-curios-a3c97cbe@0bfd04602875c9117a83195931bca792",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "neugierig",
+    "definition": "ein starkes Interesse an etwas haben",
+    "pronunciation": "/nɔʏˈɡiːʁɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „neugierig“ setzt sich aus „neu“ und „gierig“ zusammen und bedeutet starkes Verlangen, Neues zu erfahren.",
+        "targetText": "Cuvântul „neugierig“ este compus din „neu“ și „gierig“ și înseamnă dorința puternică de a afla lucruri noi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Neugier fördert Lernen und neue Erfahrungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curios",
+    "genus": "masculine",
+    "definition": "a avea un interes puternic pentru ceva",
+    "pronunciation": "/kuˈri.os/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „curios“ stammt vom lateinischen „curiosus“, was „neugierig“ oder „sorgfältig“ bedeutet.",
+        "targetText": "Cuvântul românesc „curios“ provine din latină „curiosus“, care înseamnă „curios“ sau „atent“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "„Curios“ kann je nach Kontext sowohl positives als auch negatives Interesse ausdrücken."
+  },
+  "senses": [
+    {
+      "gloss": "neugierig (Fragesteller)",
+      "explanation": {
+        "sourceText": "Wenn jemand viele Fragen stellt.",
+        "targetText": "Când cineva pune multe întrebări."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie ist immer neugierig, wenn ich von meiner Reise erzähle.",
+          "targetText": "Ea este întotdeauna curioasă când vorbesc despre călătoria mea."
+        }
+      ]
+    },
+    {
+      "gloss": "neugierig (Interesse zeigend)",
+      "explanation": {
+        "sourceText": "Beschreibt ein starkes Vorhandensein von Interesse.",
+        "targetText": "Descrie o manifestare puternică a interesului."
+      },
+      "examples": [
+        {
+          "sourceText": "Er zeigt sich sehr neugierig.",
+          "targetText": "El se arată foarte curios."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "entdecken",
+      "targetText": "a descoperi"
+    },
+    {
+      "sourceText": "fragen",
+      "targetText": "a întreba"
+    },
+    {
+      "sourceText": "Interesse",
+      "targetText": "interes"
+    },
+    {
+      "sourceText": "wissbegierig",
+      "targetText": "dornic de cunoaștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "desinteressiert",
+      "targetText": "indiferent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Kinder sind von Natur aus neugierig.",
+      "targetText": "Copiii sunt din fire curioși."
+    },
+    {
+      "sourceText": "Er ist sehr neugierig und will alles wissen.",
+      "targetText": "Este foarte curios și vrea să știe totul."
+    },
+    {
+      "sourceText": "Sie stellte neugierige Fragen über die Welt.",
+      "targetText": "Ea a pus întrebări curioase despre lume."
+    },
+    {
+      "sourceText": "Die Schüler waren neugierig auf das Experiment.",
+      "targetText": "Elevii erau curioși cu privire la experiment."
+    },
+    {
+      "sourceText": "Seine neugierigen Herrn sind bekannt.",
+      "targetText": "Pe domnii săi curioși îi știe toată lumea."
+    },
+    {
+      "sourceText": "Eine neugierige Katze erkundete das Haus.",
+      "targetText": "O pisică curioasă a explorat casa."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Wort „curios“ klingt ähnlich wie das deutsche „kurios“ – beide wecken Interesse und Neugier."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „curios“ mit dem englischen Wort „Curiosity“ – Neugier ist wie ein spannendes Abenteuer!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen neugierigen Entdecker vor, der alles erforscht – so merkst du dir „curios“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „curios“ mit einem Hund, der neugierig neue Gerüche erschnüffelt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

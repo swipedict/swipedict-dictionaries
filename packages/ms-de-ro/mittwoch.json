@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-mittwoch",
+  "parent": "ms-ro-miercuri-b9077ead@be0348d57eddb3d2745aaac055443fe5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Mittwoch",
+    "genus": "masculine",
+    "definition": "Der dritte Tag der Woche, zwischen Dienstag und Donnerstag.",
+    "pronunciation": "/ˈmɪtˌvɔx/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'Mittwoch' bedeutet wörtlich 'Mitte der Woche' und stammt vom althochdeutschen 'mitta woche' ab.",
+        "targetText": "Cuvântul german „Mittwoch” înseamnă literal „mijlocul săptămânii” și provine din germana veche înaltă 'mitta woche'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "miercuri",
+    "genus": "feminine",
+    "definition": "A treia zi a săptămânii, între marți și joi.",
+    "pronunciation": "/ˈmjer.ku.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'miercuri' stammt vom lateinischen 'Mercurii dies' ab, was 'Tag des Merkur' bedeutet, benannt nach dem römischen Gott Merkur.",
+        "targetText": "Cuvântul românesc „miercuri” provine din latinul 'Mercurii dies', care înseamnă „ziua lui Mercur”, zeul roman al comerțului și mesager."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dienstag",
+      "targetText": "marți"
+    },
+    {
+      "sourceText": "Donnerstag",
+      "targetText": "joi"
+    },
+    {
+      "sourceText": "Freitag",
+      "targetText": "vineri"
+    },
+    {
+      "sourceText": "Montag",
+      "targetText": "luni"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Mittwoch ist der dritte Tag der Woche.",
+      "targetText": "Miercuri este a treia zi a săptămânii."
+    },
+    {
+      "sourceText": "Am Mittwoch habe ich einen Termin.",
+      "targetText": "Am miercuri am o programare."
+    },
+    {
+      "sourceText": "Mittwoch ist oft ein Arbeitstag.",
+      "targetText": "Miercuri este adesea o zi de muncă."
+    },
+    {
+      "sourceText": "Wir treffen uns am Mittwoch zum Mittagessen.",
+      "targetText": "Ne întâlnim miercuri la prânz."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'miercuri' erinnert an 'Mercur', den römischen Gott, nach dem der Tag benannt ist – so kannst du dir den Wochentag gut merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die lateinische Herkunft von 'miercuri' zeigt die Verbindung zu anderen romanischen Sprachen, z.B. italienisch 'mercoledì'."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen heißt es 'Mittwoch' (Mitte der Woche), im Rumänischen 'miercuri' – beide Wörter beziehen sich auf die Position in der Woche."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, Merkur bringt dir am Mittwoch Nachrichten – 'miercuri' klingt wie 'Mercur', das hilft beim Merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

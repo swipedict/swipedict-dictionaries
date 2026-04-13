@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-einwickeln",
+  "parent": "ms-ro-a-invalui-76ca8cf5@d751573a3c3afa05d92239348f89036c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einwickeln",
+    "definition": "etwas in ein Material hüllen oder verpacken",
+    "pronunciation": "/ainˈvɪkɛln/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich zusammen aus dem Präfix „ein-“ und dem Verb „wickeln“, das vom mittelhochdeutschen „wickeln“ stammt, was „drehen, wenden“ bedeutet.",
+        "targetText": "Verbul este format din prefixul „ein-“ și verbul „wickeln“, care provine din germana mijlocie „wickeln“ însemnând „a înfășura, a răsuci“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in der Verpackungs- und Geschenkeforschung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a învălui",
+    "definition": "a acoperi sau a împacheta ceva",
+    "pronunciation": "/a ɨn.vəˈlwi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a învălui“ stammt vom lateinischen „involvere“ ab, was „einwickeln, umhüllen“ bedeutet. Es ist verwandt mit dem lateinischen „volvere“ (drehen, rollen).",
+        "targetText": "Verbul românesc „a învălui“ derivă din latinescul „involvere“, care înseamnă „a înfășura, a înveli“, fiind legat de „volvere“ (a răsuci, a învârti)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird häufig verwendet, um die Handlung des Umhüllens von Objekten zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Papier",
+      "targetText": "hârtie"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "protecție"
+    },
+    {
+      "sourceText": "Verpackung",
+      "targetText": "ambalaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "auswickeln",
+      "targetText": "desfășura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wickele das Geschenk ein.",
+      "targetText": "Eu învălui cadoul."
+    },
+    {
+      "sourceText": "Ich habe die Blumen in Zeitungspapier eingewickelt.",
+      "targetText": "Am învăluit florile în hârtie de ziar."
+    },
+    {
+      "sourceText": "Ich werde die Produkte in Folie einwickeln.",
+      "targetText": "Voi învălui produsele în folie."
+    },
+    {
+      "sourceText": "Ich würde das Buch sicher einwickeln.",
+      "targetText": "Aș învălui cu siguranță cartea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Präfix „în-“ in „a învălui“ entspricht dem deutschen „ein-“ und hilft dir, die Bedeutung als ‚hineinwickeln‘ oder ‚umhüllen‘ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische „a învălui“ klingt ähnlich wie „einwickeln“ und hat das lateinische „involvere“ als Ursprung – stell dir vor, du wickelst (wickeln) etwas ein und „in“ ist das gleiche wie im Deutschen!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

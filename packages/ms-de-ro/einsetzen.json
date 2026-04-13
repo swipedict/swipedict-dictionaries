@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-einsetzen",
+  "parent": "ms-ro-a-folosi-71167d64@24c5a215a1f0fdb57ce378fe68a79eb6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einsetzen",
+    "definition": "etwas an einem bestimmten Ort oder in einem bestimmten Zustand platzieren",
+    "pronunciation": "/aɪnˈzɛtsən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einsetzen“ besteht aus dem Präfix „ein-“ und dem Verb „setzen“. Es bedeutet, etwas an eine bestimmte Stelle zu bringen oder etwas zu verwenden.",
+        "targetText": "Verbul german „einsetzen“ este format din prefixul „ein-“ și verbul „setzen“ și înseamnă a plasa ceva într-un loc anume sau a folosi ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort beschreibt oft den Prozess, etwas aktiv zu verwenden, sei es ein Werkzeug oder Ressourcen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a folosi",
+    "definition": "a așeza ceva într-un anumit loc sau într-o anumită stare",
+    "pronunciation": "/a foˈlosi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a folosi“ stammt vom lateinischen „fulcire“ ab, was „stützen, verwenden“ bedeutet. Es beschreibt die aktive Anwendung von Mitteln oder Werkzeugen.",
+        "targetText": "Verbul românesc „a folosi“ provine din latinescul „fulcire“, care înseamnă „a sprijini, a folosi“. Exprimă utilizarea activă a unor mijloace sau unelte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in praktischen Situationen verwendet, um die Anwendung von Techniken oder Ressourcen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Anwendung von Techniken",
+      "explanation": {
+        "sourceText": "Bezieht sich auf das Implementieren von Methoden oder Verfahren.",
+        "targetText": "Se referă la aplicarea metodelor sau procedurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir setzen die neue Methode ein.",
+          "targetText": "Folosim noua metodă."
+        }
+      ]
+    },
+    {
+      "gloss": "Benutzung eines Werkzeugs",
+      "explanation": {
+        "sourceText": "Wird oft in handwerklichen oder technischen Kontexten verwendet.",
+        "targetText": "Este folosit frecvent în contexte meșteșugărești sau tehnice."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich setze das Werkzeug ein.",
+          "targetText": "Eu folosesc unealta."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Benutzung",
+      "targetText": "utilizare"
+    },
+    {
+      "sourceText": "Einsatz",
+      "targetText": "aplicație"
+    },
+    {
+      "sourceText": "Position",
+      "targetText": "poziție"
+    },
+    {
+      "sourceText": "Werkzeug",
+      "targetText": "unealtă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entfernen",
+      "targetText": "a îndepărta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich setze die neue Methode ein.",
+      "targetText": "Eu folosesc noua metodă."
+    },
+    {
+      "sourceText": "Er setzt das Gerät sofort ein.",
+      "targetText": "El folosește imediat dispozitivul."
+    },
+    {
+      "sourceText": "Wir haben die technischen Ressourcen eingesetzt.",
+      "targetText": "Am folosit resursele tehnice."
+    },
+    {
+      "sourceText": "Ich werde das Material morgen einsetzen.",
+      "targetText": "Voi folosi materialul mâine."
+    },
+    {
+      "sourceText": "Setze dieses Werkzeug ein!",
+      "targetText": "Folosește acest instrument!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „folosi“ klingt wie „folgen“ – denk daran, dass du einer Methode folgst, wenn du sie einsetzt."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du setzt ein Werkzeug in eine Maschine ein – so merkst du dir „a folosi“ als aktives Verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „einsetzen“ mit „ein“ (hinein) und „setzen“ (platzieren). Im Rumänischen heißt es „a folosi“, was ‚benutzen‘ bedeutet – denk an das aktive Einsetzen von Werkzeugen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

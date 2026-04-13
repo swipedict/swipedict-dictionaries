@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-prozent",
+  "parent": "ms-ro-procent-e715e129@15ab607a4828c83701703678589e5297",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Prozent",
+    "genus": "neuter",
+    "definition": "Ein Hundertstel eines Ganzen, ausgedrückt als Anteil oder Verhältnis.",
+    "pronunciation": "/pʁoˈʦɛnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Prozent“ stammt vom lateinischen Ausdruck 'per centum' ab, was 'von hundert' bedeutet. Es wurde im Deutschen über das Italienische und Französische entlehnt.",
+        "targetText": "Cuvântul german „Prozent” provine din expresia latină 'per centum', care înseamnă 'din o sută'. A fost preluat în germană prin italiană și franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "procent",
+    "genus": "neuter",
+    "definition": "O sutime parte dintr-un întreg, exprimată ca o cotă sau raport.",
+    "pronunciation": "/proˈʧent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „procent“ stammt direkt vom lateinischen 'per centum' ab, was 'von hundert' bedeutet. Es wurde über das Französische und Italienische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „procent” provine direct din latină, din expresia 'per centum', care înseamnă 'din o sută'. A fost preluat prin franceză și italiană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Anteil",
+      "targetText": "cotă"
+    },
+    {
+      "sourceText": "Bruch",
+      "targetText": "fracție"
+    },
+    {
+      "sourceText": "Hundert",
+      "targetText": "sută"
+    },
+    {
+      "sourceText": "Verhältnis",
+      "targetText": "raport"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "10 Prozent der Bevölkerung sprechen diese Sprache.",
+      "targetText": "10 procente din populație vorbesc această limbă."
+    },
+    {
+      "sourceText": "Der Preis wurde um 5 Prozent erhöht.",
+      "targetText": "Prețul a fost mărit cu 5 procente."
+    },
+    {
+      "sourceText": "Sie erhielt einen Rabatt von 20 Prozent.",
+      "targetText": "Ea a primit o reducere de 20 de procente."
+    },
+    {
+      "sourceText": "Die Steuer beträgt 15 Prozent.",
+      "targetText": "Impozitul este de 15 procente."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'procent' klingt fast genauso wie das deutsche 'Prozent' – das hilft dir, es dir leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort beginnt mit 'pro-', wie in 'pro' (für) und endet mit '-cent', was an 'cent' (Hundert) erinnert – zusammen 'procent' = 'für hundert'."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das lateinische 'per centum' – das ist die Wurzel von 'procent' und 'Prozent', beide bedeuten 'von hundert'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du teilst einen Kuchen in 100 Stücke – jedes Stück ist ein 'procent' vom Ganzen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

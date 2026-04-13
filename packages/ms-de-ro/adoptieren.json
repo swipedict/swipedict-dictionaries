@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-adoptieren",
+  "parent": "ms-ro-a-adopta-5f96299b@546508a4e8a92e2b7a3c682607fcc81d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "adoptieren",
+    "definition": "ein Kind rechtlich als eigenes annehmen",
+    "pronunciation": "/adopˈtiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort ‚adoptieren‘ kommt vom Lateinischen ‚adoptare‘, was ‚annehmen‘ bedeutet. Es wird in juristischen und familiären Kontexten verwendet.",
+        "targetText": "Cuvântul german „adoptieren“ provine din latină, de la „adoptare“, care înseamnă „a adopta“ sau „a primi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig in rechtlichen und familiären Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a adopta",
+    "definition": "a accepta un copil ca fiind al tău din punct de vedere legal",
+    "pronunciation": "/a a.dopˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische ‚a adopta‘ stammt vom lateinischen ‚adoptare‘ ab und bezeichnet den rechtlichen Akt der Annahme eines Kindes oder Tieres.",
+        "targetText": "Verbul românesc „a adopta“ provine din latină, de la „adoptare“, și desemnează actul legal de a primi un copil sau un animal ca parte a familiei."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird sowohl für Kinder als auch für Haustiere verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "adoptieren (rechtlich annehmen)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für die rechtliche Annahme eines Kindes.",
+        "targetText": "Ca în germană: pentru acceptarea legală a unui copil."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich adoptiere ein Kind.",
+          "targetText": "Eu adoptez un copil."
+        },
+        {
+          "sourceText": "Adoptiert ihr das Kind?",
+          "targetText": "Adoptați copilul?"
+        }
+      ]
+    },
+    {
+      "gloss": "tiere adoptieren",
+      "explanation": {
+        "sourceText": "Auch verwendet für die Adoption von Haustieren.",
+        "targetText": "Folosit și pentru adoptarea animalelor de companie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich adoptiere einen Hund.",
+          "targetText": "Eu adopt un câine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Eltern",
+      "targetText": "părinți"
+    },
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abgeben",
+      "targetText": "renunța"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich adoptiere ein Haustier.",
+      "targetText": "Eu adopt un animal de companie."
+    },
+    {
+      "sourceText": "Adoptiert du das Kind?",
+      "targetText": "Adopți copilul?"
+    },
+    {
+      "sourceText": "Sie adoptiert ein Mädchen.",
+      "targetText": "Ea adoptă o fetiță."
+    },
+    {
+      "sourceText": "Wir adoptieren ein Kind.",
+      "targetText": "Noi adoptăm un copil."
+    },
+    {
+      "sourceText": "Adoptiert ihr das Tier?",
+      "targetText": "Adoptați animalul?"
+    },
+    {
+      "sourceText": "Sie (Pl.) adoptiert einen Jungen.",
+      "targetText": "Ei adoptă un băiat."
+    },
+    {
+      "sourceText": "Ich habe ein Kind adoptiert.",
+      "targetText": "Am adoptat un copil."
+    },
+    {
+      "sourceText": "Er adoptierte einen Hund.",
+      "targetText": "El adopta un câine."
+    },
+    {
+      "sourceText": "Ich werde das Tier adoptierten.",
+      "targetText": "Voi adopta animalul."
+    },
+    {
+      "sourceText": "Ich würde es adoptieren, wenn ich könnte.",
+      "targetText": "Aș adopta dacă aș putea."
+    },
+    {
+      "sourceText": "Adoptiere das Tier!",
+      "targetText": "Adoptă animalul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a adopta“ klingt fast wie das deutsche „adoptieren“ – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „a adopta“ klingt wie „Adoptier-Programm“ – so kannst du dir vorstellen, wie man ein Kind oder Tier aufnimmt."
+    },
+    {
+      "lang": "de",
+      "text": "Sage dir: „Ich adoptiere einen Hund!“ – so bleibt das Wort lebendig und einprägsam."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

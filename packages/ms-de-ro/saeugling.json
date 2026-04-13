@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-saeugling",
+  "parent": "ms-ro-sugari-cbc51d56@1eb83adf8f660b03506f27847392f8cc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Säugling",
+    "genus": "masculine",
+    "definition": "Ein sehr kleines Baby, das noch gestillt wird oder hauptsächlich Milch trinkt.",
+    "pronunciation": "/ˈzɔʏ̯ɡlɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Säugling“ stammt vom Verb „säugen“ ab, das aus dem althochdeutschen 'sūgan' kommt und 'saugen' bedeutet, mit dem Suffix '-ling' zur Bezeichnung einer Person.",
+        "targetText": "Cuvântul german „Säugling” provine de la verbul „säugen”, care derivă din vechiul german înalt 'sūgan', însemnând 'a suge', iar sufixul '-ling' indică o persoană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sugari",
+    "genus": "masculine",
+    "definition": "Un copil foarte mic care este încă alăptat sau care consumă în principal lapte.",
+    "pronunciation": "/suˈɡarʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „sugari“ stammt vom lateinischen Verb 'sugere' ab, was 'saugen' bedeutet, und bezeichnet kleine Kinder, die noch Milch saugen.",
+        "targetText": "Cuvântul românesc „sugari” provine din verbul latin 'sugere', care înseamnă 'a suge', desemnând copiii mici care încă se hrănesc cu lapte."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Baby",
+      "targetText": "bebeluș"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "Milch",
+      "targetText": "lapte"
+    },
+    {
+      "sourceText": "Stillen",
+      "targetText": "a alăpta"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Erwachsener",
+      "targetText": "adult"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Säugling schläft den ganzen Tag.",
+      "targetText": "Sugarii dorm toată ziua."
+    },
+    {
+      "sourceText": "Ein Säugling braucht viel Fürsorge und Aufmerksamkeit.",
+      "targetText": "Un sugar are nevoie de multă grijă și atenție."
+    },
+    {
+      "sourceText": "Die Mutter stillt ihren Säugling regelmäßig.",
+      "targetText": "Mama își alăptează sugarul regulat."
+    },
+    {
+      "sourceText": "Säuglinge trinken meistens Muttermilch oder spezielle Säuglingsnahrung.",
+      "targetText": "Sugarii beau de obicei lapte matern sau hrană specială pentru sugari."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Säugling“ endet auf '-ling', was oft eine Person bezeichnet. Im Rumänischen ist die Mehrzahl „sugari“, die Einzahl ist „sugar“."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische Verb 'sugere' bedeutet 'saugen'. Viele romanische Sprachen haben ähnliche Wörter für Babys, die noch Milch trinken, z.B. rumänisch „sugar“."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „sugari“ erinnert an das deutsche Verb „saugen“ – beide stammen vom lateinischen 'sugere' ab. So kannst du dir merken, dass es um Babys geht, die noch saugen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein kleiner 'SUGAR' (englisch für Zucker) ist süß und saugt Milch – so merkst du dir „sugari“ als kleine Babys."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

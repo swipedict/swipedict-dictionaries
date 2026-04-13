@@ -1,0 +1,115 @@
+{
+  "id": "ms-de-ro-erkennen",
+  "parent": "ms-ro-a-recunoaste-85b80f4f@b9c9f394013731dcc631a6bd9c262246",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erkennen",
+    "definition": "Etwas oder jemanden wahrnehmen und identifizieren, meist durch Erfahrung oder Wissen.",
+    "pronunciation": "/ɛɐ̯ˈkɛnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „erkennen“ stammt vom mittelhochdeutschen 'erkennen', zusammengesetzt aus dem Präfix 'er-' und dem Verb 'kennen', das auf das althochdeutsche 'kennen' zurückgeht und 'wissen' oder 'kennen' bedeutet.",
+        "targetText": "Verbul german „erkennen“ provine din germana mijlocie 'erkennen', compus din prefixul 'er-' și verbul 'kennen', care derivă din germana veche înaltă 'kennen', însemnând 'a ști' sau 'a cunoaște'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a recunoaște",
+    "definition": "A percepe și identifica ceva sau pe cineva, de obicei prin experiență sau cunoștințe.",
+    "pronunciation": "/a reku.noˈaʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a recunoaște“ stammt vom lateinischen 'recognoscere' ab, das 'wiedererkennen' oder 'anerkennen' bedeutet und sich aus 're-' (wieder) und 'cognoscere' (erkennen) zusammensetzt.",
+        "targetText": "Verbul românesc „a recunoaște” provine din latină, din verbul 'recognoscere', care înseamnă 'a recunoaște' sau 'a accepta', compus din prefixul 're-' (din nou) și 'cognoscere' (a cunoaște)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "erkennen lassen",
+      "targetText": "a arăta"
+    },
+    {
+      "sourceText": "identifizieren",
+      "targetText": "a identifica"
+    },
+    {
+      "sourceText": "kennen",
+      "targetText": "a cunoaște"
+    },
+    {
+      "sourceText": "wahrnehmen",
+      "targetText": "a percepe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "übersehen",
+      "targetText": "a trece cu vederea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erkenne ihn sofort an seiner Stimme.",
+      "targetText": "Îl recunosc imediat după voce."
+    },
+    {
+      "sourceText": "Gestern habe ich das Problem erkannt.",
+      "targetText": "Ieri am recunoscut problema."
+    },
+    {
+      "sourceText": "Früher erkannte man ihn leicht an seinem Hut.",
+      "targetText": "Pe vremuri îl recunoșteai ușor după pălărie."
+    },
+    {
+      "sourceText": "Ich werde dich sofort erkennen.",
+      "targetText": "Te voi recunoaște imediat."
+    },
+    {
+      "sourceText": "Erkenne deine Fehler!",
+      "targetText": "Recunoaște-ți greșelile!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'erkennen' und das rumänische 'recunoaște' stammen beide vom lateinischen 'cognoscere' ab – eine gemeinsame Wurzel für 'kennen' und 'erkennen'."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische Präfix 're-' bedeutet 'wieder', was dir hilft, die Bedeutung von 'recunoaște' als 'wiedererkennen' zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'recunoaște' enthält 'cunoaște', was 'kennen' bedeutet – so kannst du dir merken, dass es um Erkennen geht."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du erkennst jemanden wieder und sagst: 'Re-cunoaște' – also 'noch einmal kennen'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

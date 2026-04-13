@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-durchstehen",
+  "parent": "ms-ro-a-indura-7d50755b@581c2489e175a0334606323c4a2bc326",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "durchstehen",
+    "definition": "eine schwierige Situation überstehen oder bewältigen",
+    "pronunciation": "/dʊʁxˈʃteːən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Setzt sich aus „durch“ und „stehen“ zusammen. „Stehen“ stammt vom althochdeutschen „stān“ und bedeutet ‚verweilen, aushalten‘.",
+        "targetText": "Das Verb kombiniert „durch“ (hindurch) mit „stehen“ (stehen, aushalten) und beschreibt das Überstehen von Schwierigkeiten."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Verwendet, um das Überstehen von Schwierigkeiten bzw. Herausforderungen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a îndura",
+    "definition": "a face față unei situații dificile",
+    "pronunciation": "/a ɨnˈdu.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „indurare“ abgeleitet, bedeutet es ‚hart machen‘ oder ‚standhaft machen‘ und beschreibt das Ertragen von Widrigkeiten.",
+        "targetText": "Provine din latinescul „indurare“, care înseamnă a întări sau a suporta dificultăți."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Häufig verwendet, um den Prozess des Aushaltens von schwierigen Situationen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "a rezista",
+      "explanation": {
+        "sourceText": "'îndura' kann auch im Sinne von 'widerstehen' verwendet werden.",
+        "targetText": "„A îndura“ poate însemna și a rezista."
+      },
+      "examples": [
+        {
+          "sourceText": "Er steht der Versuchung durch.",
+          "targetText": "El rezistă tentației."
+        }
+      ]
+    },
+    {
+      "gloss": "a suporta",
+      "explanation": {
+        "sourceText": "In manchen Kontexten bedeutet 'a îndura' auch 'ertragen'.",
+        "targetText": "În anumite contexte, „a îndura“ înseamnă a suporta sau a răbda."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss es durchstehen.",
+          "targetText": "Trebuie să-l suport."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Herausforderung",
+      "targetText": "provocare"
+    },
+    {
+      "sourceText": "Schwierigkeit",
+      "targetText": "dificultate"
+    },
+    {
+      "sourceText": "Überwindung",
+      "targetText": "depășire"
+    },
+    {
+      "sourceText": "Widerstandsfähigkeit",
+      "targetText": "reziliență"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aufgeben",
+      "targetText": "cedează"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stehe die Herausforderung durch.",
+      "targetText": "Eu îndur provocarea."
+    },
+    {
+      "sourceText": "Er steht die Prüfung durch.",
+      "targetText": "El îndură examenul."
+    },
+    {
+      "sourceText": "Wir haben die Schwierigkeiten durchgestanden.",
+      "targetText": "Am îndurat dificultățile."
+    },
+    {
+      "sourceText": "Ich werde die Situation durchstehen.",
+      "targetText": "Voi îndura situația."
+    },
+    {
+      "sourceText": "Steh es durch!",
+      "targetText": "Îndură-l!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Durchstehen“ und „a îndura“ bedeuten, Schwierigkeiten zu ertragen – stell dir vor, du bist stark und hältst alles aus."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „a îndura“ klingt wie „endure“ im Englischen – beide bedeuten durchhalten."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Îndur *ceva*“ (Ich stehe *etwas* durch), um das Wort zu verinnerlichen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-heizen",
+  "parent": "ms-ro-a-incalzi-595288c8@cef0cdf397060d8fab2146da08f15d43",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "heizen",
+    "definition": "Einem Raum oder Gebäude Wärme zuführen, um die Temperatur zu erhöhen.",
+    "pronunciation": "/ˈhaɪ̯t͡sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „heizen“ stammt vom mittelhochdeutschen 'heizen' ab, das auf das althochdeutsche 'heizan' zurückgeht, verwandt mit dem altnordischen 'heita' (heißen) und ursprünglich mit der Bedeutung 'erhitzen, warm machen'.",
+        "targetText": "Verbul german „heizen“ provine din germana mijlocie 'heizen', derivat din germana veche înaltă 'heizan', înrudit cu termenul nordic vechi 'heita' (a numi), având inițial sensul de 'a încălzi, a face cald'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a încălzi",
+    "definition": "A furniza căldură unei camere sau unei clădiri pentru a crește temperatura.",
+    "pronunciation": "/a ɨn.kɨlˈtsi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a încălzi“ stammt vom lateinischen Verb 'calefacere' ab, das sich aus 'calidus' (warm) und 'facere' (machen) zusammensetzt und die Bedeutung 'warm machen' trägt.",
+        "targetText": "Verbul românesc „a încălzi” provine din verbul latin 'calefacere', compus din 'calidus' (cald) și 'facere' (a face), având sensul de 'a face cald'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Verb der 3. Konjugation, reflexiv: a se încălzi (sich erwärmen)."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Heizung",
+      "targetText": "încălzire"
+    },
+    {
+      "sourceText": "Kälte",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "Temperatur",
+      "targetText": "temperatură"
+    },
+    {
+      "sourceText": "warm",
+      "targetText": "cald"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kühlen",
+      "targetText": "a răci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich heize das Wohnzimmer jeden Abend.",
+      "targetText": "Încălzesc sufrageria în fiecare seară."
+    },
+    {
+      "sourceText": "Im Winter müssen wir die Heizung aufdrehen.",
+      "targetText": "Iarna trebuie să dăm drumul la încălzire."
+    },
+    {
+      "sourceText": "Die Heizung funktioniert nicht richtig.",
+      "targetText": "Încălzirea nu funcționează corect."
+    },
+    {
+      "sourceText": "Wir heizen mit Gas.",
+      "targetText": "Încălzim cu gaz."
+    },
+    {
+      "sourceText": "Kannst du bitte die Heizung ausschalten?",
+      "targetText": "Poți să oprești încălzirea, te rog?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'încălzi' beginnt mit 'în-', was oft eine Bewegung nach innen oder eine Steigerung ausdrückt – hier das 'Warmmachen' von innen heraus."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort enthält 'cal', ähnlich wie 'cald' (warm), was dir hilft, die Bedeutung mit Wärme zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'in-kalzt' (kalt + in) etwas, um es warm zu machen – so merkst du dir 'încălzi' als 'warm machen'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'a încălzi' mit dem lateinischen Ursprung 'calefacere' – 'calidus' (warm) + 'facere' (machen) – so merkst du dir die Bedeutung leichter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

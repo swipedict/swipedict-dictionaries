@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-verheiratet-adjektiv",
+  "parent": "ms-ro-casatorit-8d496e9b@8f20a9f44b9864f0201054771eec2b58",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verheiratet",
+    "definition": "Den Zustand beschreibend, in dem jemand durch Ehe verbunden ist.",
+    "pronunciation": "/fɛɐ̯ˈhaɪ̯ʁaːtət/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „verheiratet“ leitet sich vom Verb „heiraten“ ab, das aus dem mittelhochdeutschen 'heiraten' stammt und auf das althochdeutsche 'heirātan' zurückgeht, welches mit dem germanischen Wort für 'Heer' (Gefolge) verwandt ist und ursprünglich 'in eine Gemeinschaft bringen' bedeutete.",
+        "targetText": "Adjectivul „verheiratet” provine din verbul german „heiraten”, care derivă din germana mijlocie 'heiraten' și germana veche înaltă 'heirātan', legat de cuvântul germanic pentru 'oaste' (însoțitori), inițial însemnând 'a aduce într-o comunitate'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "căsătorit",
+    "definition": "Descrie starea unei persoane care este unită prin căsătorie.",
+    "pronunciation": "/kə.sə.toˈrit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „căsătorit“ stammt vom Substantiv „căsătorie“ ab, das wiederum vom lateinischen 'casatorius' kommt, abgeleitet von 'casare', was 'heiraten' bedeutet.",
+        "targetText": "Adjectivul românesc „căsătorit” derivă din substantivul „căsătorie”, care provine din latină, din 'casatorius', derivat din 'casare', însemnând 'a se căsători'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ehe",
+      "targetText": "căsătorie"
+    },
+    {
+      "sourceText": "Ehefrau",
+      "targetText": "soție"
+    },
+    {
+      "sourceText": "Ehemann",
+      "targetText": "soț"
+    },
+    {
+      "sourceText": "verlobt",
+      "targetText": "logodit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ledig",
+      "targetText": "necăsătorit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie sind seit zehn Jahren verheiratet.",
+      "targetText": "Ei sunt căsătoriți de zece ani."
+    },
+    {
+      "sourceText": "Er ist verheiratet und hat zwei Kinder.",
+      "targetText": "El este căsătorit și are doi copii."
+    },
+    {
+      "sourceText": "Verheiratete Paare haben oft gemeinsame finanzielle Verpflichtungen.",
+      "targetText": "Cuplurile căsătorite au adesea obligații financiare comune."
+    },
+    {
+      "sourceText": "Meine Schwester ist verheiratet und lebt in Bukarest.",
+      "targetText": "Sora mea este căsătorită și locuiește în București."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche „verheiratet“ hat die Vorsilbe „ver-“, die oft eine Veränderung oder Zustand beschreibt. Im Rumänischen endet das Wort auf '-it', was oft Adjektive aus Verben bildet."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „căsătorit“ klingt wie „Kasse“ + „tor“ + „it“. Stell dir vor, du gehst durch ein Tor zur Kasse, um zu heiraten – so merkst du dir „căsătorit“."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „căsătorit“ stammt vom lateinischen 'casare' ab, ähnlich wie das italienische 'casare'. Wenn du italienisch kennst, hilft dir das beim Erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „căsătorie“ bedeutet Ehe, und „căsătorit“ beschreibt jemanden, der verheiratet ist – ähnlich wie im Deutschen „Ehe“ und „verheiratet“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-stehlen",
+  "parent": "ms-ro-a-fura-d8601a86@a8806a4c2c87d04b242176a051916c18",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "stehlen",
+    "definition": "etwas heimlich nehmen, um es sich selbst anzueignen",
+    "pronunciation": "/ˈsteːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche „stehlen“ kommt vom mittelhochdeutschen „stelen“ und ist verwandt mit dem englischen „to steal“. Es hat germanische Wurzeln.",
+        "targetText": "Cuvântul german „stehlen“ provine din mijlocul germanului „stelen“ și este înrudit cu englezescul „to steal“. Are rădăcini germanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Stehlen ist ein unregelmäßiges Verb und wird in der Regel mit einem direkten Objekt verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fura",
+    "definition": "a lua ceva pe ascuns pentru a-l face al vostru",
+    "pronunciation": "/a ˈfu.ra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Begriff stammt aus dem lateinischen „furari“, was „stehlen“ bedeutet, und hat sich im Rumänischen als „a fura“ etabliert.",
+        "targetText": "Termenul provine din latinul „furari“, care înseamnă „a fura“, și s-a stabilit în limba română ca „a fura“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Achtung: In Rumänien ist das Stehlen rechtlich äußerst problematisch und wird als schweres Vergehen betrachtet."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Dieb",
+      "targetText": "hoț"
+    },
+    {
+      "sourceText": "Diebstahl",
+      "targetText": "furt"
+    },
+    {
+      "sourceText": "Eigentum",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "Gestohlen",
+      "targetText": "furat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "geben",
+      "targetText": "a oferi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stehle immer ein Stück Schokolade.",
+      "targetText": "Eu fur mereu o bucată de ciocolată."
+    },
+    {
+      "sourceText": "Stiehlst du die Zeit?",
+      "targetText": "Furi timpul?"
+    },
+    {
+      "sourceText": "Er stiehlt dem Nachbarn das Auto.",
+      "targetText": "El fură mașina vecinului."
+    },
+    {
+      "sourceText": "Wir stehlen nichts.",
+      "targetText": "Noi nu furăm nimic."
+    },
+    {
+      "sourceText": "Stehlt ihr etwas?",
+      "targetText": "Furați ceva?"
+    },
+    {
+      "sourceText": "Sie stehlen oft im Supermarkt.",
+      "targetText": "Ei fură adesea din supermarket."
+    },
+    {
+      "sourceText": "Ich habe das Geld gestohlen.",
+      "targetText": "Am furat banii."
+    },
+    {
+      "sourceText": "Er stahl die Pralinen.",
+      "targetText": "El fura pralinele."
+    },
+    {
+      "sourceText": "Ich werde es stehlen.",
+      "targetText": "Voi fura asta."
+    },
+    {
+      "sourceText": "Stehl das Auto!",
+      "targetText": "Fură mașina!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stehlen“ und „a fura“ sind Kognaten in Bedeutung und Anwendung. Übe, indem du dir verschiedene Objekte vorstellst, die du „furi“ könntest!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: Ein „furat“ (gestohlen) ist kein guter Freund – so bleibt dir das Wort „a fura“ besser im Gedächtnis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

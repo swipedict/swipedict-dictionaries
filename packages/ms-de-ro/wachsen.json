@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-wachsen",
+  "parent": "ms-ro-a-creste-d2283e60@68152fab72fc07ecf32fdfd63ca7d603",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wachsen",
+    "definition": "größer oder umfangreicher werden; sich entwickeln",
+    "pronunciation": "/ˈvaksən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „wachsen“ abgeleitet, verwandt mit dem englischen „to wax“ und bedeutet „zunehmen“ oder „wachsen“.",
+        "targetText": "Derivat din germana mijlocie „wachsen“, înrudit cu englezescul „to wax“, însemnând „a crește“ sau „a se mări“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Wird verwendet, um Wachstum oder Entwicklung von Pflanzen, Personen oder Dingen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a crește",
+    "definition": "a deveni mai mare sau mai extins; a se dezvolta",
+    "pronunciation": "/a ˈkreʃte/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „crescere“ abgeleitet, was „wachsen“ oder „sich entwickeln“ bedeutet. Im Rumänischen wird es in vielen Kontexten verwendet.",
+        "targetText": "Derivat din latină „crescere“, care înseamnă „a crește“ sau „a se dezvolta“. Folosit în diverse contexte în limba română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet für Wachstum von Kindern, Pflanzen oder Unternehmen."
+  },
+  "senses": [
+    {
+      "gloss": "sich entwickeln",
+      "explanation": {
+        "sourceText": "Bezieht sich auf persönliche oder allgemeine Entwicklung.",
+        "targetText": "Se referă la dezvoltarea personală sau generală."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte mich weiterentwickeln.",
+          "targetText": "Vreau să mă dezvolt."
+        }
+      ]
+    },
+    {
+      "gloss": "Wachstum (Entwicklung)",
+      "explanation": {
+        "sourceText": "Verwendung für Wachstum in verschiedenen Kontexten.",
+        "targetText": "Folosit pentru a descrie creșterea în diverse contexte."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Wirtschaft wächst.",
+          "targetText": "Economia crește."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Baum",
+      "targetText": "copac"
+    },
+    {
+      "sourceText": "Erde",
+      "targetText": "pământ"
+    },
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plantă"
+    },
+    {
+      "sourceText": "Wachstum",
+      "targetText": "creștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schrumpfen",
+      "targetText": "a se micșora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wachse schnell.",
+      "targetText": "Eu cresc repede."
+    },
+    {
+      "sourceText": "Wächst du auch so schnell?",
+      "targetText": "Crești și tu atât de repede?"
+    },
+    {
+      "sourceText": "Das Kind wächst schnell.",
+      "targetText": "Copilul crește repede."
+    },
+    {
+      "sourceText": "Wir wachsen alle zusammen.",
+      "targetText": "Noi creștem împreună."
+    },
+    {
+      "sourceText": "Wächst ihr ebenfalls?",
+      "targetText": "Creșteți și voi?"
+    },
+    {
+      "sourceText": "Sie wachsen ständig.",
+      "targetText": "Ei cresc constant."
+    },
+    {
+      "sourceText": "Ich bin gewachsen.",
+      "targetText": "Am crescut."
+    },
+    {
+      "sourceText": "Sie sind schnell gewachsen.",
+      "targetText": "Ei au crescut repede."
+    },
+    {
+      "sourceText": "Er wuchs jeden Tag.",
+      "targetText": "El creștea în fiecare zi."
+    },
+    {
+      "sourceText": "Ich war gewachsen, bevor ich umgezogen bin.",
+      "targetText": "Eram crescut înainte să mă mut."
+    },
+    {
+      "sourceText": "Ich werde groß wachsen.",
+      "targetText": "Voi crește mare."
+    },
+    {
+      "sourceText": "Er wird bald wieder wachsen.",
+      "targetText": "El o să crească din nou în curând."
+    },
+    {
+      "sourceText": "Ich würde wachsen, wenn ich mehr Zeit hätte.",
+      "targetText": "Aș crește dacă aș avea mai mult timp."
+    },
+    {
+      "sourceText": "Es ist wünschenswert, dass du wächst.",
+      "targetText": "Este de dorit să crești."
+    },
+    {
+      "sourceText": "Wachse stark!",
+      "targetText": "Crește puternic!"
+    },
+    {
+      "sourceText": "Wachst zusammen!",
+      "targetText": "Creșteți împreună!"
+    },
+    {
+      "sourceText": "Die gewachsene Pflanze ist jetzt schön.",
+      "targetText": "Planta crescută este acum frumoasă."
+    },
+    {
+      "sourceText": "Das Kind ist schnell gewachsen.",
+      "targetText": "Copilul a crescut repede."
+    },
+    {
+      "sourceText": "Wachsend lernt man viel über das Leben.",
+      "targetText": "Crescând înveți multe despre viață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „-ște“ am Ende von „crește“ klingt wie „steigt“ – so kannst du dir Wachstum leichter merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „a crește“ mit dem Bild eines wachsenden Baumes – je mehr du übst, desto mehr wächst dein Rumänisch."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie etwas langsam wächst – so bleibt dir „a crește“ gut im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Unterscheide „a crește“ (biologisches Wachstum) von „a expanda“ (erweitern), um verschiedene Bedeutungen zu verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

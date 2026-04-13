@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-polizeibericht",
+  "parent": "ms-ro-raport-de-politie-e81fea81@2fe8347fcb315ef6a823ee14a04f061d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Polizeibericht",
+    "genus": "masculine",
+    "definition": "Ein offizieller Bericht, der von der Polizei über einen Vorfall oder eine Straftat erstellt wird.",
+    "pronunciation": "/poˈliːt͡sɪbəʁɪçt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Polizeibericht“ setzt sich aus „Polizei“ und „Bericht“ zusammen. „Polizei“ stammt vom französischen 'police' ab, das wiederum vom griechischen 'polis' (Stadt) über das lateinische 'politia' (Staatsverwaltung) entlehnt wurde.",
+        "targetText": "Cuvântul german „Polizeibericht“ este compus din „Polizei” și „Bericht”. „Polizei” provine din francezul 'police', care la rândul său derivă din grecescul 'polis' (oraș) prin latinescul 'politia' (administrație de stat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "raport de poliție",
+    "genus": "neuter",
+    "definition": "Un document oficial întocmit de poliție care descrie un incident sau o infracțiune.",
+    "pronunciation": "/raˈport de po.liˈt͡si.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „poliție“ stammt vom lateinischen 'politia' ab, das 'Staatsverwaltung' bedeutet, und wurde über das Französische ins Rumänische übernommen. „Raport“ kommt ebenfalls aus dem Lateinischen 'rapportare', was 'zurücktragen' oder 'berichten' bedeutet.",
+        "targetText": "Cuvântul românesc „poliție” provine din latină, din 'politia', care înseamnă 'administrație de stat', preluat prin franceză. „Raport” provine tot din latină, din 'rapportare', care înseamnă 'a aduce înapoi' sau 'a relata'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bericht",
+      "targetText": "raport"
+    },
+    {
+      "sourceText": "Polizei",
+      "targetText": "poliție"
+    },
+    {
+      "sourceText": "Tatort",
+      "targetText": "locul faptei"
+    },
+    {
+      "sourceText": "Zeuge",
+      "targetText": "martor"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Polizeibericht beschreibt den Unfallhergang genau.",
+      "targetText": "Raportul de poliție descrie exact cum s-a petrecut accidentul."
+    },
+    {
+      "sourceText": "Im Polizeibericht wurden alle Zeugenaussagen festgehalten.",
+      "targetText": "În raportul de poliție au fost consemnate toate declarațiile martorilor."
+    },
+    {
+      "sourceText": "Der Polizeibericht wird oft als Beweismittel verwendet.",
+      "targetText": "Raportul de poliție este adesea folosit ca probă."
+    },
+    {
+      "sourceText": "Nach dem Vorfall wurde ein Polizeibericht erstellt.",
+      "targetText": "După incident a fost întocmit un raport de poliție."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Poliție“ erinnert an das Wort „Politik“, da beide vom lateinischen 'politia' abstammen, was mit Staatsverwaltung zu tun hat."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „raport“ klingt ähnlich wie das deutsche „Report“, was dir hilft, die Bedeutung als Bericht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das zusammengesetzte deutsche Wort „Polizeibericht“ entspricht im Rumänischen der Wortgruppe „raport de poliție“ – merke dir die Reihenfolge: Bericht (raport) zuerst, dann Polizei (poliție)."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die Polizei schreibt einen „Raport“ – das klingt fast wie ein englisches 'report', also ein offizielles Dokument."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

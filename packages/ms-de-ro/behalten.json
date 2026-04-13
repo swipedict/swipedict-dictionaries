@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-behalten",
+  "parent": "ms-ro-a-pastra-f792b485@056663644e235206e15912f3ea776770",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "behalten",
+    "definition": "etwas, das jemandem gehört, für sich selbst behalten oder nicht zurückgeben",
+    "pronunciation": "/bəˈhaltn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „behalten“ setzt sich zusammen aus dem Präfix „be-“ und dem Verb „halten“ (festhalten).",
+        "targetText": "Verbul „behalten“ este format din prefixul „be-“ și verbul „halten“ (a ține)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um das Halten oder Aufbewahren von Gegenständen oder Informationen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a păstra",
+    "definition": "a reține ceva care aparține cuiva sau a nu-l returna",
+    "pronunciation": "/a pəsˈtra/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a păstra“ stammt vom lateinischen „pastor“ (Hirte) und dem Verb „pastare“ (bewahren, hüten).",
+        "targetText": "Românescul „a păstra“ derivă din latină, de la „pastor“ (păstor) și verbul „pastare“ (a păzi, a păstra)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Wird verwendet, um materielle und immaterielle Dinge zu bewahren."
+  },
+  "senses": [
+    {
+      "gloss": "aufbewahren",
+      "explanation": {
+        "sourceText": "Verwendung im Zusammenhang mit materiellen Dingen.",
+        "targetText": "Folosit pentru a păstra obiecte materiale."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde die Fotos behalten.",
+          "targetText": "Voi păstra fotografiile."
+        }
+      ]
+    },
+    {
+      "gloss": "Informationen behalten",
+      "explanation": {
+        "sourceText": "Verwendung für Gedächtnis und Wissensspeicherung.",
+        "targetText": "Folosit pentru a reține informații în memorie."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich behalte die Daten im Kopf.",
+          "targetText": "Îmi țin datele în minte."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Besitz",
+      "targetText": "proprietate"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Sparen",
+      "targetText": "economisire"
+    },
+    {
+      "sourceText": "Wert",
+      "targetText": "valoare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abgeben",
+      "targetText": "a preda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich behalte die Informationen für dich.",
+      "targetText": "Eu păstrez informațiile pentru tine."
+    },
+    {
+      "sourceText": "Ich habe das Geheimnis behalten.",
+      "targetText": "Am păstrat secretul."
+    },
+    {
+      "sourceText": "Ich werde das Buch behalten.",
+      "targetText": "Voi păstra cartea."
+    },
+    {
+      "sourceText": "Ich würde die Daten behalten, wenn sie nützlich sind.",
+      "targetText": "Aș păstra datele dacă sunt utile."
+    },
+    {
+      "sourceText": "Behalte das geheim!",
+      "targetText": "Păstrează-l secret!"
+    },
+    {
+      "sourceText": "Die behaltenen Gegenstände sind wichtig.",
+      "targetText": "Obiectele păstrate sunt importante."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A păstra“ wird oft für praktische Dinge verwendet, z.B. Erinnerungen oder Gegenstände – verbinde es mit etwas, das du gerne behältst."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „păstra“ klingt weich und bewahrend – stell dir vor, du hältst etwas Wertvolles sicher in deinen Händen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-besuchen",
+  "parent": "ms-ro-a-vizita-cde5e05b@2db3262c065549844d765fdd748a21d5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besuchen",
+    "definition": "jemanden oder einen Ort aufsuchen oder dort hingehen",
+    "pronunciation": "/bəˈzuːxən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Leitet sich ab vom mittelhochdeutschen „besuchen“, was so viel wie „herbeikommen“ oder „besuchen“ bedeutet, in Verbindung mit „be-“ (um) und „suchen“ (suchen).",
+        "targetText": "Das deutsche Verb „besuchen“ stammt von „be-“ (intensiv) und „suchen“ (suchen), ursprünglich im Sinne von „herbeikommen“ oder „aufsuchen“."
+      },
+      "source": "Etymological Dictionaries"
+    },
+    "additional": "Das Verb wird für die Handlung verwendet, jemanden zu besuchen oder an einem bestimmten Ort zu sein."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a vizita",
+    "definition": "a merge să vadă pe cineva sau un loc",
+    "pronunciation": "/a viˈzi.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „visitare“, was „besuchen“ oder „hinsehen“ bedeutet. Es hat sich über die französische Sprache in die rumänische Sprache integriert.",
+        "targetText": "Verbul „a vizita“ provine din latină, din „visitare“, care înseamnă a vizita sau a merge să vezi pe cineva sau un loc."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "„A vizita“ wird häufig verwendet, um den Besuch bei Personen oder Orten zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Besuchszeit",
+      "explanation": {
+        "sourceText": "Der Zeitraum, in dem jemand besucht wird.",
+        "targetText": "Perioada în care are loc o vizită."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Besuchszeit ist von 3 bis 5 Uhr.",
+          "targetText": "Programul de vizite este de la 3 la 5."
+        }
+      ]
+    },
+    {
+      "gloss": "Besucht werden",
+      "explanation": {
+        "sourceText": "Das bedeutet, dass eine Person zu einem anderen kommt, um sie zu sehen.",
+        "targetText": "Înseamnă că o persoană este vizitată de altcineva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde von Freunden besucht.",
+          "targetText": "Sunt vizitat de prieteni."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Familie",
+      "targetText": "familie"
+    },
+    {
+      "sourceText": "Freund",
+      "targetText": "prieten"
+    },
+    {
+      "sourceText": "Schule",
+      "targetText": "școală"
+    },
+    {
+      "sourceText": "Stadt",
+      "targetText": "oraș"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlassen",
+      "targetText": "a pleca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich besuche meine Freunde.",
+      "targetText": "Eu vizitez prietenii mei."
+    },
+    {
+      "sourceText": "Besuchst du die Ausstellung?",
+      "targetText": "Vizitezi expoziția?"
+    },
+    {
+      "sourceText": "Ich habe meine Großeltern besucht.",
+      "targetText": "Am vizitat bunicii mei."
+    },
+    {
+      "sourceText": "Ich werde dich morgen besuchen.",
+      "targetText": "Te voi vizita mâine."
+    },
+    {
+      "sourceText": "Besuchen Sie die Stadt!",
+      "targetText": "Vizitați orașul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A vizita“ wird für soziale und formelle Besuche verwendet – so kannst du das Wort vielseitig einsetzen."
+    },
+    {
+      "lang": "de",
+      "text": "„Vizita“ klingt wie das französische „visiter“ – denk an deinen Besuch, um die Bedeutung zu verankern!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

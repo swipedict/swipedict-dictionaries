@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kuehlschrank",
+  "parent": "ms-ro-frigider-a3c9161f@ba152a9ac9dcdf62d7f96cb23f035127",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kühlschrank",
+    "genus": "masculine",
+    "definition": "Ein elektrisches Gerät, das Lebensmittel und Getränke durch Kühlen frisch hält.",
+    "pronunciation": "/ˈkyːlʃʁaŋk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kühlschrank“ setzt sich aus den Wörtern 'kühl' und 'Schrank' zusammen und entstand im 20. Jahrhundert mit der Verbreitung elektrischer Kühlgeräte.",
+        "targetText": "Cuvântul german „Kühlschrank“ este compus din 'kühl' (răcoros) și 'Schrank' (dulap) și a apărut în secolul XX odată cu răspândirea aparatelor electrice de răcire."
+      },
+      "source": "Etymologische Quellen zur deutschen Sprache"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "frigider",
+    "genus": "neuter",
+    "definition": "Un aparat electric folosit pentru a păstra alimentele și băuturile proaspete prin răcire.",
+    "pronunciation": "/friˈʒi.der/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „frigider“ stammt vom lateinischen Wort 'frigidus' ab, das 'kalt' bedeutet, und wurde über das Französische 'frigidaire' ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „frigider” provine din latinescul 'frigidus', care înseamnă 'rece', și a fost preluat prin francezul 'frigidaire'."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gefrierfach",
+      "targetText": "compartiment de congelare"
+    },
+    {
+      "sourceText": "Gefrierschrank",
+      "targetText": "congelator"
+    },
+    {
+      "sourceText": "Kühlung",
+      "targetText": "răcire"
+    },
+    {
+      "sourceText": "Lebensmittel",
+      "targetText": "alimente"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Kühlschrank ist voll mit frischem Obst und Gemüse.",
+      "targetText": "Frigiderul este plin cu fructe și legume proaspete."
+    },
+    {
+      "sourceText": "Bitte stelle die Milch in den Kühlschrank.",
+      "targetText": "Te rog să pui laptele în frigider."
+    },
+    {
+      "sourceText": "Der Kühlschrank kühlt die Getränke schnell.",
+      "targetText": "Frigiderul răcește rapid băuturile."
+    },
+    {
+      "sourceText": "Im Sommer läuft der Kühlschrank öfter, um alles kühl zu halten.",
+      "targetText": "În timpul verii, frigiderul funcționează mai des pentru a păstra totul rece."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'frigider' erinnert an das deutsche Wort 'frigid', das im Englischen 'kalt' bedeutet – beide stammen vom lateinischen 'frigidus'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'frigider' klingt ähnlich wie 'Frigidarium', ein kalter Raum in römischen Bädern – so kannst du dir die Kälte merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie der 'Frigider' deine Lebensmittel 'friert' (kühlt) – das hilft, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'frigider' mit dem französischen 'frigidaire', einem bekannten Markennamen für Kühlschränke, um die Herkunft zu verankern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

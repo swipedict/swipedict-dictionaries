@@ -1,0 +1,177 @@
+{
+  "id": "ms-de-ro-loeschen",
+  "parent": "ms-ro-a-sterge-d2bc8034@ffcef38d5950e968614e75f9fb7955fc",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "löschen",
+    "definition": "etwas entfernen, tilgen oder auslöschen, insbesondere in Bezug auf Daten oder Feuer",
+    "pronunciation": "/ˈlœʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Löschen“ stammt vom mittelhochdeutschen „loschen“, das „verlöschen“ oder „auslöschen“ bedeutet, mit Ursprung im althochdeutschen „lōschen“.",
+        "targetText": "„Löschen“ provine din germana mijlocie „loschen“, care înseamnă „a stinge“ sau „a șterge“, derivat din germana veche „lōschen“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Besonders häufig in technischen und bildlichen Metaphern verwendet, wie das Löschen von Dateien oder das Auslöschen von Erinnerungen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a șterge",
+    "definition": "a elimina, a șterge sau a stinge, în special în legătură cu datele sau focul",
+    "pronunciation": "/a ˈʃterʒe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A șterge“ provine din latină, din verbul „sternere“ care înseamnă „a întinde“ sau „a îndepărta“, evoluând în sensul de a elimina sau a șterge.",
+        "targetText": "„A șterge“ provine din latină, din verbul „sternere“ care înseamnă „a întinde“ sau „a îndepărta“, evoluând în sensul de a elimina sau a șterge."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Gerne in bildlichen Bedeutungen und in der Informatik verwendet, wie das Löschen von Dateien oder Konzepten."
+  },
+  "senses": [
+    {
+      "gloss": "auslöschen",
+      "explanation": {
+        "sourceText": "Auch im Sinne von Erinnerungen auslöschen.",
+        "targetText": "De asemenea, în sensul de a șterge amintiri."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe die Erinnerungen gelöscht.",
+          "targetText": "Am șters amintirile."
+        }
+      ]
+    },
+    {
+      "gloss": "Löschen (Daten)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für Datenlöschen.",
+        "targetText": "Ca în germană: pentru ștergerea datelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich lösche die Datei.",
+          "targetText": "Eu șterg fișierul."
+        }
+      ]
+    },
+    {
+      "gloss": "stillschweigend entfernen",
+      "explanation": {
+        "sourceText": "Betrifft das Entfernen ohne Sichtbarkeit.",
+        "targetText": "Se referă la eliminarea fără a fi observată."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Informationen löschte ich stillschweigend.",
+          "targetText": "Am șters informațiile fără a le menționa."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Daten",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    },
+    {
+      "sourceText": "Löschen",
+      "targetText": "ștergere"
+    },
+    {
+      "sourceText": "Notiz",
+      "targetText": "notă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einschalten",
+      "targetText": "a activa"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lösche die Datei.",
+      "targetText": "Eu șterg fișierul."
+    },
+    {
+      "sourceText": "Löschst du die Nachricht?",
+      "targetText": "Ștergi mesajul?"
+    },
+    {
+      "sourceText": "Die Lehrerin löscht die Tafel.",
+      "targetText": "Învățătoarea șterge tabla."
+    },
+    {
+      "sourceText": "Wir löschen die alten Daten.",
+      "targetText": "Noi ștergem datele vechi."
+    },
+    {
+      "sourceText": "Löscht ihr die Bilder?",
+      "targetText": "Ștergeți voi pozele?"
+    },
+    {
+      "sourceText": "Sie löschen die Informationen.",
+      "targetText": "Ei șterg informațiile."
+    },
+    {
+      "sourceText": "Ich habe die Daten gelöscht.",
+      "targetText": "Am șters datele."
+    },
+    {
+      "sourceText": "Er löschte die Dateien regelmäßig.",
+      "targetText": "El ștergea fișierele regulat."
+    },
+    {
+      "sourceText": "Ich werde die alten Dateien löschen.",
+      "targetText": "Voi șterge fișierele vechi."
+    },
+    {
+      "sourceText": "Ich würde die Bilder löschen, wenn ich könnte.",
+      "targetText": "Aș șterge pozele, dacă aș putea."
+    },
+    {
+      "sourceText": "Lösche die letzten Einträge!",
+      "targetText": "Șterge ultimele înregistrări!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Löschen“ und „a șterge“ klingen unterschiedlich, aber beide werden oft für das Entfernen von Daten verwendet – denk an das Löschen von Dateien auf dem Computer."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „a șterge“ regelmäßig konjugiert wird, anders als „löschen“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du mit einem Radiergummi (Radiergummi = „radieră“ auf Rumänisch) etwas wegwischst – das hilft beim Erinnern an „a șterge“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-weil",
+  "parent": "ms-ro-pentru-ca-f5fccdf4@8aebb9cf0173f03f3e8fe02c3943a330",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:germanic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "weil",
+    "definition": "Eine Konjunktion, die einen Grund oder eine Ursache angibt und einen Nebensatz einleitet.",
+    "pronunciation": "/vaɪl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „weil“ stammt vom althochdeutschen 'wīl' ab, das auf das urgermanische *wilja zurückgeht und ursprünglich 'Zeit' oder 'Weile' bedeutete, später aber als Konjunktion für 'weil' verwendet wurde.",
+        "targetText": "Cuvântul german „weil” provine din vechiul german înalt 'wīl', derivat din proto-germanicul *wilja, care inițial însemna 'timp' sau 'perioadă', dar a evoluat pentru a introduce propoziții cauzale."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pentru că",
+    "definition": "O conjuncție care introduce o propoziție subordonată cauzală, um motiv sau o cauză exprimând.",
+    "pronunciation": "/ˈpentru kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Konjunktion „pentru că“ besteht aus der Präposition 'pentru' (ursprünglich vom lateinischen 'per' + 'pro') und dem Relativpronomen 'că', das vom lateinischen 'quod' abstammt.",
+        "targetText": "Conjuncția românească „pentru că” este compusă din prepoziția 'pentru' (provenind din latinul 'per' + 'pro') și pronumele relativ 'că', derivat din latinul 'quod'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "denn",
+      "targetText": "căci"
+    },
+    {
+      "sourceText": "deshalb",
+      "targetText": "de aceea"
+    },
+    {
+      "sourceText": "obwohl",
+      "targetText": "deși"
+    },
+    {
+      "sourceText": "weil ... nicht",
+      "targetText": "pentru că nu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trotzdem",
+      "targetText": "totuși"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bleibe zu Hause, weil ich krank bin.",
+      "targetText": "Rămân acasă pentru că sunt bolnav."
+    },
+    {
+      "sourceText": "Sie geht nicht zur Arbeit, weil sie Urlaub hat.",
+      "targetText": "Ea nu merge la muncă pentru că are concediu."
+    },
+    {
+      "sourceText": "Wir können nicht kommen, weil das Auto kaputt ist.",
+      "targetText": "Nu putem veni pentru că mașina este stricată."
+    },
+    {
+      "sourceText": "Er lernt viel, weil er die Prüfung bestehen will.",
+      "targetText": "El învață mult pentru că vrea să treacă examenul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'pentru că' kannst du dir merken, indem du 'pentru' als 'für' und 'că' als 'dass' denkst – also 'für dass', was zusammen 'weil' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an 'weil' als das Wort, das dir immer die Ursache verrät – wie ein Detektiv, der fragt: 'Warum?' und die Antwort mit 'weil' gibt."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'weil' leitet Nebensätze ein, genau wie 'pentru că' im Rumänischen – beide verbinden Haupt- und Nebensatz mit einem Grund."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst auf Rumänisch 'Ich bleibe für das, dass ich krank bin' – das klingt komisch, aber genau so funktioniert 'pentru că'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

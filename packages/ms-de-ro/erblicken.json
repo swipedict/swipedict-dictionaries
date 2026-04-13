@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-erblicken",
+  "parent": "ms-ro-a-zari-9c086e71@a77769c2577adeaeaa621ef4f89bb22e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:internal",
+    "topic:concepts-abstract",
+    "register:poetic",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erblicken",
+    "definition": "mit dem Blick erfassen, sehen",
+    "pronunciation": "/ɛʁˈblɪkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „erblicken“ stammt vom mittelhochdeutschen „birlihen“ und setzt sich aus „er-“ (Verstärkung) und „blicken“ zusammen; es bedeutet, etwas plötzlich oder bewusst zu sehen.",
+        "targetText": "Cuvântul „erblicken“ provine din germana medie „birlihen“, format din prefixul „er-“ (intensiv) și verbul „blicken“; înseamnă a vedea brusc sau conștient."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Wort wird meist in Bezug auf ein plötzliches oder unerwartetes Sehen verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a zări",
+    "definition": "a zări sau a vedea ceva",
+    "pronunciation": "/a zəˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a zări“ stammt wahrscheinlich vom Substantiv „zar“ (Blick, Anblick) ab und betont das plötzliche oder flüchtige Sehen.",
+        "targetText": "Verbul românesc „a zări“ derivă probabil din substantivul „zar“ (privire, vedere) și exprimă ideea de a vedea brusc sau fugitiv."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Vormals häufig in literarischen Bewegungen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "erblicken",
+      "explanation": {
+        "sourceText": "Das plötzliche Sehen von etwas oder jemandem.",
+        "targetText": "A vedea brusc sau pentru prima dată ceva sau pe cineva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich erblicke das Licht am Ende des Tunnels.",
+          "targetText": "Zăresc lumina de la capătul tunelului."
+        }
+      ]
+    },
+    {
+      "gloss": "sehen",
+      "explanation": {
+        "sourceText": "Bedeutung auf Rumänisch: das Wahrnehmen durch die Augen.",
+        "targetText": "Perceperea vizuală prin ochi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich sehe die Sterne.",
+          "targetText": "Eu văd stelele."
+        }
+      ]
+    },
+    {
+      "gloss": "zusehen",
+      "explanation": {
+        "sourceText": "Bedeutet, etwas vorbereitet zu beobachten.",
+        "targetText": "A urmări ceva cu atenție."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich sehe dem Spiel zu.",
+          "targetText": "Eu mă uit la joc."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "blicken",
+      "targetText": "a privi"
+    },
+    {
+      "sourceText": "entdecken",
+      "targetText": "a descoperi"
+    },
+    {
+      "sourceText": "sehen",
+      "targetText": "a vedea"
+    },
+    {
+      "sourceText": "wahrnehmen",
+      "targetText": "a percepe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vermissen",
+      "targetText": "a pierde din vedere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erblicke die Sonne hinter den Wolken.",
+      "targetText": "Eu văd soarele după nori."
+    },
+    {
+      "sourceText": "Erblickst du das Tier im Wald?",
+      "targetText": "Zărești animalul în pădure?"
+    },
+    {
+      "sourceText": "Die Kinder erblicken den Regenbogen.",
+      "targetText": "Copiii zăresc curcubeul."
+    },
+    {
+      "sourceText": "Wir erblicken die Berge in der Ferne.",
+      "targetText": "Noi zărim munții în depărtare."
+    },
+    {
+      "sourceText": "Erblickt ihr den alten Schlossgarten?",
+      "targetText": "Zăriți grădina veche a castelului?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erblicken die alten Ruinen.",
+      "targetText": "Ei zăresc ruinele vechi."
+    },
+    {
+      "sourceText": "Ich habe den Vogel erblickt.",
+      "targetText": "Am zărit pasărea."
+    },
+    {
+      "sourceText": "Sie haben die Stadt erblickt.",
+      "targetText": "Au zărit orașul."
+    },
+    {
+      "sourceText": "Erblickte sie oft das Meer?",
+      "targetText": "Zărea ea adesea marea?"
+    },
+    {
+      "sourceText": "Ich hatte ihn erblickt, bevor er verschwand.",
+      "targetText": "Zăriserat pe el înainte să dispară."
+    },
+    {
+      "sourceText": "Ich werde die Sterne erblicken.",
+      "targetText": "Voi zări stelele."
+    },
+    {
+      "sourceText": "Sie wird die Nacht erblicken.",
+      "targetText": "Ea o să zărească noaptea."
+    },
+    {
+      "sourceText": "Ich würde die Erscheinung erblicken, wenn ich könnte.",
+      "targetText": "Aș zări apariția, dacă aș putea."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du das Bild erblickst.",
+      "targetText": "Este important să zărești imaginea."
+    },
+    {
+      "sourceText": "Erblicke das Wunder der Natur!",
+      "targetText": "Zărește minunea naturii!"
+    },
+    {
+      "sourceText": "Erblicken Sie die Schönheit der Stadt!",
+      "targetText": "Zăriți frumusețea orașului!"
+    },
+    {
+      "sourceText": "Der erblickte Vogel flog davon.",
+      "targetText": "Pasărea zărită a zburat."
+    },
+    {
+      "sourceText": "Die Entdeckung ist nun erblickt.",
+      "targetText": "Descoperirea este acum zărită."
+    },
+    {
+      "sourceText": "Während ich den Horizont erblickte, erinnerte ich mich an die Reise.",
+      "targetText": "Zărind orizontul, mi-am adus aminte de călătorie."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Zări“ klingt ähnlich wie „scharf“ (im Sinne von scharf sehen) – merke dir das für die Bedeutung des plötzlichen Sehens."
+    },
+    {
+      "lang": "de",
+      "text": "Denk daran, dass „a zări“ oft poetisch ist – verbinde es mit schönen Naturbildern oder Literatur."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du entdeckst plötzlich etwas in der Ferne – so kannst du „erblicken“ mit „a zări“ verknüpfen!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation: „zăresc“ (ich sehe plötzlich), „zăriți“ (ihr seht plötzlich) – das hilft dir beim Gebrauch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

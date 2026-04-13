@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kinderzimmer",
+  "parent": "ms-ro-camera-copiilor-91e18bd9@0f5be62a828af8de7b4d9b015c6201c4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kinderzimmer",
+    "genus": "neuter",
+    "definition": "Ein Raum in einem Haus oder einer Wohnung, der speziell für Kinder zum Schlafen, Spielen und Lernen eingerichtet ist.",
+    "pronunciation": "/ˈkɪndɐˌtsɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kinderzimmer“ ist eine Zusammensetzung aus 'Kinder' (Plural von Kind) und 'Zimmer', was 'Raum' bedeutet. 'Kind' stammt vom althochdeutschen 'kind', verwandt mit dem gotischen 'kind' und dem englischen 'child'.",
+        "targetText": "Cuvântul german „Kinderzimmer” este o compunere din „Kinder” (pluralul de la „Kind” – copil) și „Zimmer” (cameră). „Kind” provine din germana veche înaltă „kind”, înrudit cu goticul „kind” și englezescul „child”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "camera copiilor",
+    "genus": "feminine",
+    "definition": "O cameră într-o casă sau apartament destinată special pentru copii, unde aceștia dorm, se joacă și învață.",
+    "pronunciation": "/kaˈme.ra ko.piˈi.lor/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „camera copiilor“ besteht aus 'camera' (von lateinisch 'camera', 'Kammer, Raum') und 'copiilor', dem Genitiv Plural von 'copil' (Kind), das vom lateinischen 'capillus' abstammt, ursprünglich 'Haarkopf' und später 'Kind'.",
+        "targetText": "Expresia românească „camera copiilor” este formată din „camera” (din latină 'camera', însemnând 'cameră, încăpere') și „copiilor”, genitiv plural de la „copil”, care provine din latină 'capillus', inițial 'păr de pe cap', ulterior 'copil'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "Schlafzimmer",
+      "targetText": "dormitor"
+    },
+    {
+      "sourceText": "Spielzeug",
+      "targetText": "jucărie"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Kinderzimmer ist bunt und voller Spielsachen.",
+      "targetText": "Camera copiilor este colorată și plină de jucării."
+    },
+    {
+      "sourceText": "Im Kinderzimmer gibt es ein kleines Bett und einen Schreibtisch.",
+      "targetText": "În camera copiilor este un pat mic și un birou."
+    },
+    {
+      "sourceText": "Wir haben das Kinderzimmer neu gestrichen.",
+      "targetText": "Am vopsit din nou camera copiilor."
+    },
+    {
+      "sourceText": "Das Kinderzimmer sollte sicher und gemütlich sein.",
+      "targetText": "Camera copiilor ar trebui să fie sigură și confortabilă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'camera' klingt ähnlich wie das deutsche 'Kammer' und bedeutet Raum oder Zimmer – so kannst du es leicht mit 'Zimmer' verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'copiilor' ist der Genitiv Plural von 'copil' (Kind). Denk an 'copii' als Mehrzahl von 'copil' – das hilft dir, die Form zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Kinderzimmer' ist zusammengesetzt aus 'Kinder' + 'Zimmer'. Im Rumänischen ist es eine Phrase: 'camera copiilor' – 'die Kamera der Kinder'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Kinder in ihrem eigenen 'Zimmer' spielen – 'Kinderzimmer' ist also das Zimmer der Kinder, genau wie 'camera copiilor' auf Rumänisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

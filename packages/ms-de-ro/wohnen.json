@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-wohnen",
+  "parent": "ms-ro-a-locui-a431c136@b2c874dfd9601358e046585efd61fb75",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wohnen",
+    "definition": "an einem bestimmten Ort leben",
+    "pronunciation": "/ˈvoːnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „wohnen“ stammt vom mittelhochdeutschen „wohnēn“ ab, verwandt mit althochdeutschen „wonnen“, was „leben“ oder „sich aufhalten“ bedeutet.",
+        "targetText": "Verbul german „wohnen“ provine din germana mijlocie „wohnēn“, înrudit cu vechea germană „wonnen“, care înseamnă „a trăi“ sau „a locui“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um den Standort zu beschreiben oder den Wohnsitz zu dokumentieren."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a locui",
+    "definition": "a trăi într-un anumit loc",
+    "pronunciation": "/a lo.kuˈi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a locui“ stammt vom lateinischen „locare“ ab, was „platzieren“ oder „an einem Ort sein“ bedeutet, und entwickelte sich im Romanischen zur Bedeutung „wohnen“.",
+        "targetText": "Verbul românesc „a locui“ provine din latină, de la „locare“, care înseamnă „a plasa“ sau „a fi într-un loc“, evoluând spre sensul de „a locui“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft verwendet für Wohnorte."
+  },
+  "senses": [
+    {
+      "gloss": "Haus",
+      "explanation": {
+        "sourceText": "'A locui' ist für das Wohnen in einem Haus.",
+        "targetText": "'A locui' se referă la a locui într-o casă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich wohne in einem schönen Haus.",
+          "targetText": "Eu locuiesc într-o casă frumoasă."
+        }
+      ]
+    },
+    {
+      "gloss": "Wohnsitz",
+      "explanation": {
+        "sourceText": "'Wohnsitz' beinhaltet den spezifischen Ort, an dem man lebt.",
+        "targetText": "'Reședința' înseamnă locul specific unde cineva locuiește."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir haben unseren Wohnsitz in Berlin.",
+          "targetText": "Am avut reședința noastră în Berlin."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Gemeinschaft",
+      "targetText": "comunitate"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Nachbar",
+      "targetText": "vecin"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "apartament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlassen",
+      "targetText": "a părăsi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wohne in Berlin.",
+      "targetText": "Eu locuiesc în Berlin."
+    },
+    {
+      "sourceText": "Wo wohnst du?",
+      "targetText": "Unde locuiești?"
+    },
+    {
+      "sourceText": "Sie wohnt in einem schönen Haus.",
+      "targetText": "Ea locuiește într-o casă frumoasă."
+    },
+    {
+      "sourceText": "Wir wohnen hier.",
+      "targetText": "Noi locuim aici."
+    },
+    {
+      "sourceText": "Wo wohnt ihr?",
+      "targetText": "Unde locuiți?"
+    },
+    {
+      "sourceText": "Sie wohnen in einer großen Stadt.",
+      "targetText": "Ei locuiesc într-un oraș mare."
+    },
+    {
+      "sourceText": "Ich habe dort gewohnt.",
+      "targetText": "Am locuit acolo."
+    },
+    {
+      "sourceText": "Ich werde dort wohnen.",
+      "targetText": "Voi locui acolo."
+    },
+    {
+      "sourceText": "Wohn hier!",
+      "targetText": "Locuiește aici!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a locui“ klingt ähnlich wie „lokal“ – stelle dir vor, du wohnst an einem bestimmten lokalen Ort, um das Wort zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „wohnen“ mit „a locui“ durch den Gedanken an deinen Wohnort – so bleibt der Zusammenhang lebendig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-rezeptpflichtig",
+  "parent": "ms-ro-care-necesita-prescriptie-medicala-f2dc35c7@81419c51391853cf882744439dbafecc",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:c1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "rezeptpflichtig",
+    "definition": "Ein Medikament oder Produkt, das nur mit einem ärztlichen Rezept erhältlich ist.",
+    "pronunciation": "/ʁɛˈt͡sɛptˌpflɪçtɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Adjektiv „rezeptpflichtig“ setzt sich aus „Rezept“ (vom lateinischen 'receptum' für 'Empfang' oder 'Anweisung') und „pflichtig“ zusammen, was eine Verpflichtung oder Notwendigkeit ausdrückt.",
+        "targetText": "Adjectivul „rezeptpflichtig” este compus din „Rezept” (din latină 'receptum', însemnând 'primire' sau 'instrucțiune') și „pflichtig”, care exprimă o obligație sau necesitate."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "care necesită prescripție medicală",
+    "definition": "Un medicament sau produs care poate fi obținut doar cu o rețetă medicală.",
+    "pronunciation": "/ˈka.re ne.tse.siˈt͡sə pres.kripˈt͡si.e me.diˈka.lə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Entsprechung ist eine zusammengesetzte Phrase, wobei 'prescripție' vom lateinischen 'praescriptio' stammt, was 'Vorschrift' oder 'Anordnung' bedeutet.",
+        "targetText": "Echivalentul românesc este o expresie compusă, unde 'prescripție' provine din latină 'praescriptio', însemnând 'prescripție' sau 'ordonanță'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Diese Phrase wird im medizinischen Kontext verwendet, um Medikamente zu kennzeichnen, die nur auf ärztliche Verordnung erhältlich sind."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Apotheke",
+      "targetText": "farmacie"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    },
+    {
+      "sourceText": "Rezept",
+      "targetText": "rețetă"
+    },
+    {
+      "sourceText": "verschreibungspflichtig",
+      "targetText": "care necesită prescripție medicală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "rezeptfrei",
+      "targetText": "fără prescripție medicală"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Dieses Medikament ist rezeptpflichtig und darf nur mit einem ärztlichen Rezept gekauft werden.",
+      "targetText": "Acest medicament este care necesită prescripție medicală și poate fi cumpărat doar cu o rețetă de la medic."
+    },
+    {
+      "sourceText": "Viele Schmerzmittel sind rezeptpflichtig, um Missbrauch zu verhindern.",
+      "targetText": "Multe analgezice sunt care necesită prescripție medicală pentru a preveni abuzul."
+    },
+    {
+      "sourceText": "Rezeptpflichtige Medikamente sind in der Apotheke hinter dem Tresen erhältlich.",
+      "targetText": "Medicamentele care necesită prescripție medicală se găsesc în farmacie, în spatele tejghelei."
+    },
+    {
+      "sourceText": "Der Arzt stellte ein Rezept für ein rezeptpflichtiges Antibiotikum aus.",
+      "targetText": "Doctorul a emis o rețetă pentru un antibiotic care necesită prescripție medicală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'pflichtig' erinnert an 'Pflicht' – etwas, das verpflichtend ist. 'Rezeptpflichtig' bedeutet also 'mit Rezept-Pflicht'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'prescripție' klingt ähnlich wie das deutsche 'Präskript' (Vorschrift), was dir hilft, die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische Wort 'praescriptio' für 'Vorschrift', das im rumänischen 'prescripție' steckt – so merkst du dir die Bedeutung von 'rezeptpflichtig'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Medikament hat eine 'Pflicht', ein Rezept zu haben – so verbindest du 'rezeptpflichtig' mit 'care necesită prescripție medicală'."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

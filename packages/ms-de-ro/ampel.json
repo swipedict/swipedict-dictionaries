@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-ampel",
+  "parent": "ms-ro-semafor-ead97851@799ffb7b7714f5617213560a00c72c9b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ampel",
+    "genus": "feminine",
+    "definition": "Ein Verkehrszeichen mit roten, gelben und grünen Lichtern zur Regelung des Straßenverkehrs.",
+    "pronunciation": "/ˈampəl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Ampel“ stammt vom mittelhochdeutschen 'ampel', entlehnt aus dem lateinischen 'ampulla' (Fläschchen, kleine Ampulle), ursprünglich wegen der Form der ersten Lichtsignale.",
+        "targetText": "Cuvântul german „Ampel” provine din germana mijlocie 'ampel', împrumutat din latină 'ampulla' (flacon, ampolă mică), datorită formei primelor semafoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "semafor",
+    "genus": "neuter",
+    "definition": "Un dispozitiv cu lumini roșii, galbene și verzi pentru reglarea traficului rutier.",
+    "pronunciation": "/seˈma.for/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „semafor“ stammt vom griechischen 'sema' (Zeichen) und 'phoros' (tragend) ab und wurde über das Französische ins Rumänische übernommen.",
+        "targetText": "Cuvântul românesc „semafor” provine din grecescul 'sema' (semn) și 'phoros' (purtător), preluat prin franceză."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ampellicht",
+      "targetText": "lumina semaforului"
+    },
+    {
+      "sourceText": "Fußgängerampel",
+      "targetText": "semafor pentru pietoni"
+    },
+    {
+      "sourceText": "Straßenverkehr",
+      "targetText": "trafic rutier"
+    },
+    {
+      "sourceText": "Verkehr",
+      "targetText": "trafic"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Ampel ist rot, du musst warten.",
+      "targetText": "Semaforul este roșu, trebuie să aștepți."
+    },
+    {
+      "sourceText": "Bei grün darfst du fahren.",
+      "targetText": "La verde poți să mergi."
+    },
+    {
+      "sourceText": "Die Ampel an der Kreuzung funktioniert nicht.",
+      "targetText": "Semaforul de la intersecție nu funcționează."
+    },
+    {
+      "sourceText": "Bitte halte an der Ampel an.",
+      "targetText": "Te rog să oprești la semafor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'semafor' kommt von griechisch 'sema' (Zeichen) und 'phoros' (tragend) – also ein 'Zeichenträger'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Ampel' erinnert an 'Ampulle', weil die ersten Lichtsignale wie kleine Fläschchen aussahen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Farben Rot, Gelb, Grün – die wichtigsten Signale an der 'Ampel' bzw. 'semafor'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Ampel' mit dem Bild einer Straßenkreuzung, an der du auf das grüne Licht wartest."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

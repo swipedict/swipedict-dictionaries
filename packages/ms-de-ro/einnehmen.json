@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-einnehmen",
+  "parent": "ms-ro-a-lua-eb72e8e7@d21aca6337856ecd08f94d8cca3a120e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einnehmen",
+    "definition": "etwas (z.B. Medikamente) zu sich nehmen oder konsumieren",
+    "pronunciation": "/ˈaɪnˌneːmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb setzt sich aus dem Präfix „ein-“, was „hinein“ bedeutet, und „nehmen“, was „nehmen“ oder „aufnehmen“ bedeutet. Somit beschreibt es, etwas in Besitz zu nehmen.",
+        "targetText": "Das deutsche Verb „einnehmen“ kombiniert „ein-“ (hinein) und „nehmen“ (nehmen). Es beschreibt das Aufnehmen oder Konsumieren von etwas."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Oft in medizinischen, finanziellen oder strategischen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lua",
+    "definition": "a consuma sau a administra ceva (de exemplu, medicamente)",
+    "pronunciation": "/a ˈlu.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a lua“ geht auf das lateinische „lucere“, was „nehmen“ oder „aufrichten“ bedeutet. Im Rumänischen hat „a lua“ eine breite Anwendung in verschiedenen Kontexten, von physischen bis abstrakten „Einnahmen“.",
+        "targetText": "Verbul românesc „a lua“ provine din latină, posibil din „lucere“ (a lua, a ridica). Are o utilizare largă, de la consum fizic la acceptarea unor responsabilități."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein sehr vielseitiges Verb, das in vielen Alltagssituationen verwendet wird."
+  },
+  "senses": [
+    {
+      "gloss": "Medikament einnehmen",
+      "explanation": {
+        "sourceText": "Bezieht sich auf den Konsum von Arzneimitteln.",
+        "targetText": "Se referă la consumul de medicamente."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich nehme das Medikament ein.",
+          "targetText": "Eu iau medicamentul."
+        }
+      ]
+    },
+    {
+      "gloss": "Teilnahme",
+      "explanation": {
+        "sourceText": "Bedeutet auch, sich an etwas beteiligt zu fühlen.",
+        "targetText": "Înseamnă și a participa la ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir nehmen am Projekt teil.",
+          "targetText": "Noi luăm parte la proiect."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Arzt",
+      "targetText": "medic"
+    },
+    {
+      "sourceText": "Gesundheit",
+      "targetText": "sănătate"
+    },
+    {
+      "sourceText": "Heilung",
+      "targetText": "vindecare"
+    },
+    {
+      "sourceText": "Medikament",
+      "targetText": "medicament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abgeben",
+      "targetText": "a preda"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich nehme das Medikament ein.",
+      "targetText": "Eu iau medicamentul."
+    },
+    {
+      "sourceText": "Nimmst du die Tabletten ein?",
+      "targetText": "Ieie pastilele?"
+    },
+    {
+      "sourceText": "Sie nimmt die Verantwortung ein.",
+      "targetText": "Ea își asumă responsabilitatea."
+    },
+    {
+      "sourceText": "Wir nehmen am Projekt teil.",
+      "targetText": "Noi luăm parte la proiect."
+    },
+    {
+      "sourceText": "Nehmt ihr die Herausforderung an?",
+      "targetText": "Luați provocarea?"
+    },
+    {
+      "sourceText": "Sie nehmen den Preis in Empfang.",
+      "targetText": "Ei iau premiul."
+    },
+    {
+      "sourceText": "Ich habe das Angebot angenommen.",
+      "targetText": "Am acceptat oferta."
+    },
+    {
+      "sourceText": "Ich werde die Herausforderung annehmen.",
+      "targetText": "Voi lua provocarea."
+    },
+    {
+      "sourceText": "Nimm das Angebot an!",
+      "targetText": "Ia oferta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einnehmen“ und „a lua“ sind vielseitig. Merke dir, dass „a lua“ nicht nur Medikamente meint, sondern auch Verantwortung oder Preise „nimmt“."
+    },
+    {
+      "lang": "de",
+      "text": "Die Form „luăm“ (wir nehmen) ist praktisch, um das Verb im Alltag zu verwenden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du etwas „nimmst“ – das hilft dir, „a lua“ in verschiedenen Kontexten zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

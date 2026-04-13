@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-akzeptieren",
+  "parent": "ms-ro-a-accepta-00bb567a@87eedf8afd0624df5b5c521bdab432ed",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "akzeptieren",
+    "definition": "etwas annehmen oder zustimmen",
+    "pronunciation": "/akʦepˈtiːʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort 'akzeptieren' kommt vom Lateinischen 'acceptere' und hat seine Wurzeln im Wort 'capere', was 'nehmen' bedeutet. Es bezeichnet das Annehmen oder Zustimmen zu etwas.",
+        "targetText": "Provine din latinescul „acceptere”, derivat din „capere” care înseamnă „a lua”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft im Kontext von Zustimmung oder Einwilligung verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a accepta",
+    "definition": "a primi sau a consimți",
+    "pronunciation": "/a akʧepˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb stammt direkt vom lateinischen 'acceptere', zusammengesetzt aus 'ad-' und 'capere', was 'nehmen' bedeutet. Es wird ähnlich wie im Deutschen verwendet.",
+        "targetText": "Verbul românesc provine direct din latinescul „acceptere”, compus din „ad-” și „capere” (a lua)."
+      },
+      "source": "AI"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet in rechtlichen, sozialen und persönlichen Zusammenhängen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Annahme",
+      "targetText": "acceptare"
+    },
+    {
+      "sourceText": "Einverständnis",
+      "targetText": "consens"
+    },
+    {
+      "sourceText": "Genehmigung",
+      "targetText": "aprobat"
+    },
+    {
+      "sourceText": "Zustimmung",
+      "targetText": "aprobat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "abweisen",
+      "targetText": "refuza"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich akzeptiere die Bedingungen.",
+      "targetText": "Eu accept termenii."
+    },
+    {
+      "sourceText": "Akzeptierst du den Vorschlag?",
+      "targetText": "Accepti propunerea?"
+    },
+    {
+      "sourceText": "Er akzeptiert die Einladung.",
+      "targetText": "El acceptă invitația."
+    },
+    {
+      "sourceText": "Wir akzeptieren das Angebot.",
+      "targetText": "Noi acceptăm oferta."
+    },
+    {
+      "sourceText": "Akzeptiert ihr die Regeln?",
+      "targetText": "Acceptați regulile?"
+    },
+    {
+      "sourceText": "Sie akzeptieren die Einladung.",
+      "targetText": "Ei acceptă invitația."
+    },
+    {
+      "sourceText": "Ich habe die Bedingungen akzeptiert.",
+      "targetText": "Am acceptat termenii."
+    },
+    {
+      "sourceText": "Sie akzeptierte die Einladung immer.",
+      "targetText": "Ea accepta întotdeauna invitația."
+    },
+    {
+      "sourceText": "Ich werde die Einladungen akzeptieren.",
+      "targetText": "Voi accepta invitațiile."
+    },
+    {
+      "sourceText": "Ich würde das Angebot akzeptieren, wenn ich könnte.",
+      "targetText": "Aș accepta oferta dacă aș putea."
+    },
+    {
+      "sourceText": "Akzeptiere die Einladung!",
+      "targetText": "Acceptă invitația!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a accepta“ klingt fast wie das deutsche „akzeptieren“ – das hilft dir, die Bedeutung schnell zu verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Denk an Einladungen: Wenn du etwas annimmst, sagst du „acceptă“ – das ist wie ein Ja zur Einladung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir die Endung '-a' als typisch für rumänische Verben der 1. Konjugation, ähnlich wie bei „a adopta“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

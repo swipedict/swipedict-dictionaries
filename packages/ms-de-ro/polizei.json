@@ -1,0 +1,122 @@
+{
+  "id": "ms-de-ro-polizei",
+  "parent": "ms-ro-politie-0bde99b7@1307fbf35130f9c1f8a0c5dfb8afebf4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:greek",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Polizei",
+    "genus": "feminine",
+    "definition": "eine staatliche Institution, die für die Aufrechterhaltung der öffentlichen Ordnung und Sicherheit verantwortlich ist",
+    "pronunciation": "/poliˈt͡saɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Polizei“ stammt vom mittelhochdeutschen „policie“ bzw. französisch „police“, abgeleitet von lateinisch „politia“ für „Staatsordnung“.",
+        "targetText": "Cuvântul german „Polizei“ provine din mijlocul germanului „policie“ și franceza „police“, derivat din latina „politia“ care înseamnă „ordine de stat“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Die Polizei ist verantwortlich für die Aufrechterhaltung von Recht und Ordnung sowie die Verbrechensbekämpfung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "poliție",
+    "genus": "feminine",
+    "definition": "o instituție de stat responsabilă pentru menținerea ordinii publice și siguranței",
+    "pronunciation": "/poˈli.ʦj.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „poliție“ stammt vom lateinischen „politia“ und bedeutet die Institution zur Aufrechterhaltung der öffentlichen Ordnung.",
+        "targetText": "Cuvântul românesc „poliție“ provine din latina „politia“ și desemnează instituția care menține ordinea publică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In Rumänien gibt es verschiedene Abteilungen innerhalb der Polizei, z.B. die Kriminalpolizei."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Beamter",
+      "targetText": "funcționar public"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Ordnung",
+      "targetText": "ordine"
+    },
+    {
+      "sourceText": "Sicherheit",
+      "targetText": "securitate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kriminalität",
+      "targetText": "infracțiune"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Polizei hat den Verdächtigen gefasst.",
+      "targetText": "Poliția a prins suspectul."
+    },
+    {
+      "sourceText": "Die Anzeige muss bei der Polizei gemacht werden.",
+      "targetText": "Plângerea trebuie depusă la poliție."
+    },
+    {
+      "sourceText": "Die Polizei patrouilliert in der Stadt.",
+      "targetText": "Poliția patrulează în oraș."
+    },
+    {
+      "sourceText": "Die Polizisten tragen Uniformen.",
+      "targetText": "Polițiștii poartă uniforme."
+    },
+    {
+      "sourceText": "Jeder sollte die Polizei im Notfall rufen.",
+      "targetText": "Fiecare ar trebui să sune poliția în caz de urgență."
+    },
+    {
+      "sourceText": "Die Polizei führt Ermittlungen durch.",
+      "targetText": "Poliția efectuează investigații."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Polizei“ und „poliție“ sind fast gleich – beide stehen für die Institution, die für Sicherheit sorgt."
+    },
+    {
+      "lang": "de",
+      "text": "Der rumänische Slogan „Poliția este prietenul tău“ (Die Polizei ist dein Freund) hilft beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-ție“ erinnert an Wörter wie „Ordnung“ und „Schutz“ – das hilft bei der Assoziation."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, die Polizei ist immer in der „Poliția“ (Politik) der Gesellschaft aktiv."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

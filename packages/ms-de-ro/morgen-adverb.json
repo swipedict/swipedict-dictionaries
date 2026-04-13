@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-morgen-adverb",
+  "parent": "ms-ro-maine-5a56ee03@77d249eb682b91fa87ad98206b837fb9",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "morgen",
+    "definition": "Der Tag nach heute; am folgenden Tag.",
+    "pronunciation": "/ˈmɔʁɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „morgen“ stammt vom althochdeutschen 'morgan' ab, das auf die indogermanische Wurzel *merg- zurückgeht und 'Morgen' bzw. 'früher Tagesanbruch' bedeutet.",
+        "targetText": "Cuvântul german „morgen” provine din vechiul german înalt 'morgan', derivat din rădăcina indo-europeană *merg-, care înseamnă 'dimineață' sau 'începutul zilei'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mâine",
+    "definition": "Der Tag nach heute; am folgenden Tag.",
+    "pronunciation": "/ˈmɨjne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „mâine“ stammt vom lateinischen 'mane' ab, was 'früh am Morgen' bedeutet, und bezeichnet den nächsten Tag.",
+        "targetText": "Cuvântul românesc „mâine” provine din latinescul 'mane', care înseamnă 'dimineața devreme', desemnând ziua următoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "gestern",
+      "targetText": "ieri"
+    },
+    {
+      "sourceText": "heute",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "Tag",
+      "targetText": "zi"
+    },
+    {
+      "sourceText": "übermorgen",
+      "targetText": "poimâine"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gestern",
+      "targetText": "ieri"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich komme morgen zu Besuch.",
+      "targetText": "Vin mâine în vizită."
+    },
+    {
+      "sourceText": "Morgen wird das Wetter besser.",
+      "targetText": "Mâine vremea va fi mai bună."
+    },
+    {
+      "sourceText": "Wir treffen uns morgen früh.",
+      "targetText": "Ne întâlnim mâine dimineață."
+    },
+    {
+      "sourceText": "Morgen ist ein Feiertag.",
+      "targetText": "Mâine este o sărbătoare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „mâine“ klingt wie 'mein(e)', stell dir vor, der nächste Tag gehört dir – 'mein Tag' = 'mâine'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: „morgen“ ist der nächste Tag, genauso wie „mâine“ im Rumänischen den folgenden Tag bezeichnet."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sagst: 'Ich komme morgen (mâine)', also am nächsten Tag, der dir gehört."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „morgen“ mit dem lateinischen 'mane' (früh), um dich an das rumänische „mâine“ zu erinnern, das vom gleichen Ursprung kommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

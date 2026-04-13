@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-vertrag",
+  "parent": "ms-ro-contract-e98f2859@59d502f3b3c824a6e176487bcf69f08f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Vertrag",
+    "genus": "masculine",
+    "definition": "Eine rechtlich bindende Vereinbarung zwischen zwei oder mehreren Parteien.",
+    "pronunciation": "/fɛɐ̯ˈtʁaːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Vertrag“ stammt vom mittelhochdeutschen 'vertrac', zusammengesetzt aus 'ver-' und 'tragen' im Sinne von 'vereinbaren' oder 'abschließen'.",
+        "targetText": "Substantivul german „Vertrag” provine din germana mijlocie 'vertrac', compus din prefixul 'ver-' și verbul 'tragen' în sensul de 'a încheia' sau 'a conveni'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "contract",
+    "genus": "neuter",
+    "definition": "Un acord legal obligatoriu între două sau mai multe părți.",
+    "pronunciation": "/konˈtrakt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Substantiv „contract“ stammt vom lateinischen 'contractus' ab, Partizip Perfekt von 'contrahere', was 'zusammenziehen' oder 'vereinbaren' bedeutet.",
+        "targetText": "Substantivul românesc „contract” provine din latină, din 'contractus', participiul perfect al verbului 'contrahere', care înseamnă 'a trage împreună' sau 'a încheia un acord'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abkommen",
+      "targetText": "acord"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    },
+    {
+      "sourceText": "Klausel",
+      "targetText": "clauză"
+    },
+    {
+      "sourceText": "Vereinbarung",
+      "targetText": "înțelegere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kündigung",
+      "targetText": "reziliere"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Vertrag wurde gestern unterschrieben.",
+      "targetText": "Contractul a fost semnat ieri."
+    },
+    {
+      "sourceText": "Wir haben einen Vertrag abgeschlossen.",
+      "targetText": "Am încheiat un contract."
+    },
+    {
+      "sourceText": "Der Vertrag ist rechtsgültig.",
+      "targetText": "Contractul este valabil din punct de vedere legal."
+    },
+    {
+      "sourceText": "Im Vertrag stehen alle Bedingungen.",
+      "targetText": "În contract sunt toate condițiile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Vertrag' enthält 'tragen' – stell dir vor, man trägt eine Vereinbarung gemeinsam, genau wie ein 'contract'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'contract' klingt fast gleich wie das deutsche 'Vertrag' – beide stammen vom lateinischen 'contractus'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: 'contract' bedeutet eine verbindliche Vereinbarung – denk an 'con-' (zusammen) und 'tract' (ziehen), also etwas zusammenziehen, verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an einen Vertrag denkst, stell dir zwei Hände vor, die sich zum Abschluss eines 'contract' schütteln."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "ms-de-ro-dach",
+  "parent": "ms-ro-acoperis-4894b755@42402a0c26836d40f1bfadcc22a0939d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Dach",
+    "genus": "neuter",
+    "definition": "die oberste Abdeckung eines Gebäudes",
+    "pronunciation": "/daχ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Dach“ stammt vom althochdeutschen „dach“, verwandt mit mittelhochdeutsch „dach“ und niederländisch „dak“. Es bezeichnet die obere Abdeckung eines Gebäudes.",
+        "targetText": "Cuvântul german „Dach“ provine din althochdeutsch „dach“, fiind înrudit cu termenul mijlocigerman „dach“ și cu olandezul „dak“. Se referă la acoperișul unei clădiri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Dach schützt Menschen und Gegenstände vor Witterungseinflüssen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acoperiș",
+    "genus": "neuter",
+    "definition": "partea superioară a unei clădiri care o protejează",
+    "pronunciation": "/akoˈpeɾiʃ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „acoperiș“ stammt vom lateinischen Verb „cooperire“ (zusammen bedecken) ab und bezeichnet die schützende obere Schicht eines Gebäudes.",
+        "targetText": "Cuvântul românesc „acoperiș“ provine din latinescul „cooperire“, care înseamnă „a acoperi împreună“, desemnând stratul superior protector al unei clădiri."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein gut gebautes „acoperiș“ ist entscheidend für die Langlebigkeit eines Gebäudes in Rumänien."
+  },
+  "senses": [
+    {
+      "gloss": "Dach (Gebäude)",
+      "explanation": {
+        "sourceText": "Das Dach schützt das Gebäude vor äußeren Einflüssen.",
+        "targetText": "Acoperișul protejează clădirea de influențele exterioare."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Dach ist undicht.",
+          "targetText": "Acoperișul este defect."
+        }
+      ]
+    },
+    {
+      "gloss": "Dach (Schutz)",
+      "explanation": {
+        "sourceText": "Das Dach bietet Schutz für Menschen und Gegenstände.",
+        "targetText": "Acoperișul oferă protecție oamenilor și obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Dach schützt vor Regen.",
+          "targetText": "Acoperișul protejează de ploaie."
+        }
+      ]
+    },
+    {
+      "gloss": "Dach (Struktur)",
+      "explanation": {
+        "sourceText": "Das Dach ist eine wesentliche Struktur eines Hauses.",
+        "targetText": "Acoperișul este o structură esențială a unei case."
+      },
+      "examples": [
+        {
+          "sourceText": "Das letzte Dach wurde vor zehn Jahren gebaut.",
+          "targetText": "Ultimul acoperiș a fost construit acum zece ani."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Trepte",
+      "targetText": "scări"
+    },
+    {
+      "sourceText": "Wand",
+      "targetText": "perete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Boden",
+      "targetText": "pământ"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Dach ist undicht.",
+      "targetText": "Acoperișul este defect."
+    },
+    {
+      "sourceText": "Wir müssen das Dach reparieren.",
+      "targetText": "Trebuie să reparăm acoperișul."
+    },
+    {
+      "sourceText": "Das Dach schützt vor Regen.",
+      "targetText": "Acoperișul protejează de ploaie."
+    },
+    {
+      "sourceText": "Das letzte Dach wurde vor zehn Jahren gebaut.",
+      "targetText": "Ultimul acoperiș a fost construit acum zece ani."
+    },
+    {
+      "sourceText": "Das Dach hat einen Schornstein.",
+      "targetText": "Acoperișul are un coș."
+    },
+    {
+      "sourceText": "Die Farbe des Daches muss neu gestrichen werden.",
+      "targetText": "Culoarea acoperișului trebuie să fie vopsită din nou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Acoperiș“ klingt wie „abdecken“ – stell dir vor, wie das Dach alles über dem Haus abdeckt und schützt!"
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort enthält „cop“ – denk an einen Schutzmann, der das Haus beschützt, so wie das Dach."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: „Acoperiș“ kommt von „cooperire“ – also das gemeinsame Bedecken, genau wie ein Dach."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere ein Haus mit einem großen „Acoperiș“ – das Dach, das alles sicher hält!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

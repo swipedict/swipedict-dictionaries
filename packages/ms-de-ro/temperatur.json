@@ -1,0 +1,114 @@
+{
+  "id": "ms-de-ro-temperatur",
+  "parent": "ms-ro-temperatura-1a9fee01@e4e9108a02290a29de76f9e2f70fa5b9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Temperatur",
+    "genus": "feminine",
+    "definition": "Maß für den Wärmegrad eines Körpers oder einer Umgebung.",
+    "pronunciation": "/tɛmpəʁaˈtuːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Temperatur“ stammt aus dem Lateinischen 'temperatura', was 'Mischung' oder 'Maßhalten' bedeutet, ursprünglich von 'temperare' – 'mischen, mäßigen'.",
+        "targetText": "Cuvântul german „Temperatur” provine din latină, de la 'temperatura', care înseamnă 'amestec' sau 'măsurare', derivat din 'temperare' – 'a amesteca, a modera'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "temperatură",
+    "genus": "feminine",
+    "definition": "Măsura gradului de căldură a unui corp sau a mediului înconjurător.",
+    "pronunciation": "/tem.pe.raˈtu.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „temperatură“ stammt direkt vom lateinischen 'temperatura' ab, das 'Mischung' oder 'Maßhalten' bedeutet, abgeleitet von 'temperare'.",
+        "targetText": "Cuvântul românesc „temperatură” provine direct din latină, de la 'temperatura', care înseamnă 'amestec' sau 'măsurare', derivat din 'temperare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Kälte",
+      "targetText": "frig"
+    },
+    {
+      "sourceText": "Klima",
+      "targetText": "climă"
+    },
+    {
+      "sourceText": "Thermometer",
+      "targetText": "termometru"
+    },
+    {
+      "sourceText": "Wärme",
+      "targetText": "căldură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kälte",
+      "targetText": "frig"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Temperatur steigt im Sommer oft über 30 Grad.",
+      "targetText": "Temperatura crește adesea peste 30 de grade vara."
+    },
+    {
+      "sourceText": "Die Raumtemperatur sollte angenehm sein.",
+      "targetText": "Temperatura camerei ar trebui să fie plăcută."
+    },
+    {
+      "sourceText": "Die Temperatur des Wassers ist zu niedrig zum Schwimmen.",
+      "targetText": "Temperatura apei este prea scăzută pentru înot."
+    },
+    {
+      "sourceText": "Die Temperatur wird mit einem Thermometer gemessen.",
+      "targetText": "Temperatura se măsoară cu un termometru."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'temperatură' klingt fast gleich wie das deutsche Wort, was das Lernen erleichtert. Denk an 'Temperatur' und füge einfach das rumänische '-ură' hinzu."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort endet auf '-ură', eine typische rumänische Substantivendung, die dir hilft, es als Substantiv zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du mischst heiße und kalte Flüssigkeiten, um die perfekte 'temperatură' zu erhalten – so hilft dir die lateinische Wurzel beim Merken."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'temperatură' mit dem lateinischen Ursprung 'temperare' – 'mischen' oder 'mässigen'. Temperatur misst, wie 'gemischt' oder 'ausgeglichen' die Wärme ist."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

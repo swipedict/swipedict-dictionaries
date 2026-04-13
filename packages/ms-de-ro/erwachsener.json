@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-erwachsener",
+  "parent": "ms-ro-adult-1a2ef281@532f2002c2fb6373609f1e0d3ad0f675",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Erwachsener",
+    "genus": "masculine",
+    "definition": "Eine Person, die das Erwachsenenalter erreicht hat; volljährig und reif.",
+    "pronunciation": "/ɛɐ̯ˈvaksnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Erwachsener“ leitet sich vom Verb „wachsen“ ab, das aus dem althochdeutschen 'wahsan' stammt und 'größer werden' bedeutet. Die Vorsilbe 'er-' signalisiert die Vollendung des Wachstums.",
+        "targetText": "Cuvântul german „Erwachsener” provine de la verbul „wachsen” (a crește), derivat din germana veche înaltă 'wahsan', iar prefixul 'er-' indică finalizarea creșterii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "adult",
+    "genus": "masculine",
+    "definition": "O persoană care a atins vârsta maturității; major și matur.",
+    "pronunciation": "/aˈdult/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „adult“ stammt direkt vom lateinischen 'adultus' ab, Partizip Perfekt von 'adolescere', was 'heranwachsen' bedeutet.",
+        "targetText": "Cuvântul românesc „adult” provine direct din latină, de la 'adultus', participiul perfect al verbului 'adolescere', care înseamnă 'a crește, a se maturiza'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Jugendlicher",
+      "targetText": "adolescent"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "Mensch",
+      "targetText": "om"
+    },
+    {
+      "sourceText": "Volljährig",
+      "targetText": "major"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ein Erwachsener muss für seine Entscheidungen Verantwortung übernehmen.",
+      "targetText": "Un adult trebuie să-și asume responsabilitatea pentru deciziile sale."
+    },
+    {
+      "sourceText": "Er ist kein Kind mehr, sondern ein Erwachsener.",
+      "targetText": "El nu mai este un copil, ci un adult."
+    },
+    {
+      "sourceText": "Viele Rechte und Pflichten gelten erst ab dem Erwachsensein.",
+      "targetText": "Multe drepturi și obligații se aplică abia după ce devii adult."
+    },
+    {
+      "sourceText": "Als Erwachsener hat man oft mehr Freiheiten.",
+      "targetText": "Ca adult, ai adesea mai multe libertăți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort enthält 'wachsen' – im Rumänischen hilft dir das lateinische Erbe, 'adult' als Ergebnis des Wachstums zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'adult' klingt ähnlich wie das englische 'adult' – beide stammen aus dem Lateinischen und bedeuten erwachsene Person."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Erwachsener' beschreibt jemanden, der 'erwachsen' ist – im Rumänischen heißt das einfach 'adult', kurz und prägnant."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Kind wächst und wird 'adult' – das lateinische Wort erinnert an 'adolescere' (heranwachsen), was den Prozess des Erwachsenwerdens beschreibt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

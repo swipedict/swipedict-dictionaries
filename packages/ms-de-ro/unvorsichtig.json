@@ -1,0 +1,149 @@
+{
+  "id": "ms-de-ro-unvorsichtig",
+  "parent": "ms-ro-neglijent-f937a591@71dea62753de7a1967169cc7051b1b2f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unvorsichtig",
+    "definition": "nicht vorsichtig; etwas riskieren oder nicht aufpassen",
+    "pronunciation": "/ʊnˈvoʁ.zɪç.tɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Unvorsichtig“ setzt sich aus „un-“ und „vorsichtig“ zusammen. „Vorsichtig“ stammt aus dem Mittelhochdeutschen und bedeutet aufmerksam oder umsichtig.",
+        "targetText": "Adjectivul „unvorsichtig“ este format din prefixul negativ „un-“ și „vorsichtig“, care înseamnă atent sau precaut."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unvorsichtige Handlungen können ernsthafte Konsequenzen nach sich ziehen, insbesondere in risikobehafteten Situationen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "neglijent",
+    "genus": "masculine",
+    "definition": "a nu fi atent; a risca ceva",
+    "pronunciation": "/ne.ɡliˈʒent/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Neglijent“ stammt vom französischen „négligent“, aus dem Lateinischen „negligere“ (vernachlässigen), und beschreibt unaufmerksames Verhalten.",
+        "targetText": "Adjectivul „neglijent“ provine din franceza „négligent“, derivat din latină „negligere“, însemnând neglijent sau neatenționat."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Neglijența poate cauza accidente și neplăceri în viața de zi cu zi."
+  },
+  "senses": [
+    {
+      "gloss": "leichtfertig",
+      "explanation": {
+        "sourceText": "Bedeutet Handeln ohne genug Überlegung.",
+        "targetText": "Înseamnă a acționa fără suficientă reflecție."
+      },
+      "examples": [
+        {
+          "sourceText": "Seine unvorsichtige Art kann Probleme verursachen.",
+          "targetText": "Natura lui neglijentă poate provoca probleme."
+        }
+      ]
+    },
+    {
+      "gloss": "nicht aufpassen",
+      "explanation": {
+        "sourceText": "Bedeutet Dinge zu riskieren durch Unachtsamkeit.",
+        "targetText": "Înseamnă a risca lucruri prin neatenție."
+      },
+      "examples": [
+        {
+          "sourceText": "Unvorsichtige Menschen übersehen oft Gefahren.",
+          "targetText": "Oamenii neglijenți adesea ignoră pericolele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufmerksamkeit",
+      "targetText": "atenție"
+    },
+    {
+      "sourceText": "Gefahr",
+      "targetText": "pericol"
+    },
+    {
+      "sourceText": "Risiko",
+      "targetText": "riscuri"
+    },
+    {
+      "sourceText": "Sorgfalt",
+      "targetText": "atenție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vorsichtig",
+      "targetText": "prudent"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sein unvorsichtiges Verhalten führte zu einem Unfall.",
+      "targetText": "Comportamentul său neglijent a dus la un accident."
+    },
+    {
+      "sourceText": "Unvorsichtige Entscheidungen können teuer werden.",
+      "targetText": "Deciziile neglijente pot deveni costisitoare."
+    },
+    {
+      "sourceText": "Sie hat immer unvorsichtige Bemerkungen gemacht.",
+      "targetText": "Ea face întotdeauna comentarii neglijente."
+    },
+    {
+      "sourceText": "Unvorsichtige Fahrer haben oft Probleme mit der Polizei.",
+      "targetText": "Șoferii neglijenți au adesea probleme cu poliția."
+    },
+    {
+      "sourceText": "Es ist unvorsichtig, bei Glatteis zu fahren.",
+      "targetText": "Este neglijent să conduci pe gheață."
+    },
+    {
+      "sourceText": "Unvorsichtig zu handeln kann schwere Folgen haben.",
+      "targetText": "A acționa neglijent poate avea consecințe grave."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Unvorsichtig“ klingt ähnlich wie „negligent“ – beide bedeuten unachtsam, also pass auf!"
+    },
+    {
+      "lang": "de",
+      "text": "Denke an „neglijent“ als „ne=nein“ + „glijent“ ähnlich wie „lässig“ – also unachtsam und sorglos."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand stolpert, weil er unvorsichtig war – das hilft dir, „neglijent“ zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Visualisiere eine Szene, in der Unvorsichtigkeit zu einem lustigen Missverständnis führt – so bleibt das Wort im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

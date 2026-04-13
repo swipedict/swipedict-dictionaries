@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-restaurant",
+  "parent": "ms-ro-restaurant-eb95123f@f7d60da7520217cc83700aa89b364c42",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Restaurant",
+    "genus": "neuter",
+    "definition": "Ein Ort, an dem man Speisen und Getränke gegen Bezahlung erhält.",
+    "pronunciation": "/ʁɛstoˈʁɑ̃/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Restaurant“ kommt aus dem Französischen, von 'restaurer' (wiederherstellen), da es ursprünglich Orte waren, die kräftigende Speisen anboten.",
+        "targetText": "Cuvântul german „Restaurant” provine din franceză, de la 'restaurer' (a restabili), deoarece inițial erau locuri care ofereau mâncăruri revigorante."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "restaurant",
+    "genus": "neuter",
+    "definition": "Un loc unde se oferă mâncare și băuturi contra cost.",
+    "pronunciation": "/res.toˈran/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „restaurant“ wurde direkt aus dem Französischen übernommen, mit der gleichen Bedeutung.",
+        "targetText": "Cuvântul românesc „restaurant” este împrumutat direct din franceză, având aceeași semnificație."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gast",
+      "targetText": "client"
+    },
+    {
+      "sourceText": "Kellner",
+      "targetText": "chelner"
+    },
+    {
+      "sourceText": "Speisekarte",
+      "targetText": "meniul"
+    },
+    {
+      "sourceText": "Tisch",
+      "targetText": "masă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wir gehen heute Abend ins Restaurant essen.",
+      "targetText": "Mergem să mâncăm la restaurant în seara asta."
+    },
+    {
+      "sourceText": "Das Restaurant hat eine große Auswahl an Gerichten.",
+      "targetText": "Restaurantul are o gamă largă de feluri de mâncare."
+    },
+    {
+      "sourceText": "Der Kellner bringt die Speisekarte.",
+      "targetText": "Chelnerul aduce meniul."
+    },
+    {
+      "sourceText": "Im Restaurant ist es sehr gemütlich.",
+      "targetText": "La restaurant este foarte confortabil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das französische Verb 'restaurer' bedeutet 'wiederherstellen' – Restaurants bieten Nahrung, die dich stärkt und wiederherstellt."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „Restaurant“ ist ein französisches Lehnwort, das im Rumänischen genauso verwendet wird – das erleichtert das Lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Im Rumänischen wird „restaurant“ ähnlich ausgesprochen wie im Deutschen, was dir beim Erinnern hilft."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du in einem französischen Restaurant sitzt und eine Mahlzeit genießt – so merkst du dir das Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

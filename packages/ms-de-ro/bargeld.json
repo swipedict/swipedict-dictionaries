@@ -1,0 +1,154 @@
+{
+  "id": "ms-de-ro-bargeld",
+  "parent": "ms-ro-numerar-e5c836b1@24982522a576dccb9e8af0192c2f79da",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bargeld",
+    "genus": "neuter",
+    "definition": "physisches Geld in Form von Münzen und Banknoten",
+    "pronunciation": "/ˈbaʁˌɡɛlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bargeld“ setzt sich aus „bar“ (physisch) und „Geld“ (vom althochdeutschen „gelt“ für Wert) zusammen und bezeichnet physisches Zahlungsmittel.",
+        "targetText": "Cuvântul german „Bargeld“ este compus din „bar“ (fizic) și „Geld“ (bani), provenind din germana veche „gelt“ care înseamnă valoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Bargeld ist die physische Form von Geld, das in Münzen oder Scheinen existiert."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "numerar",
+    "genus": "neuter",
+    "definition": "bani fizici sub formă de monede și bancnote",
+    "pronunciation": "/nu.meˈrar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „numerar“ stammt vom lateinischen „numerarium“ ab, das „zum Zählen gehörig“ bedeutet, und bezeichnet physisches Geld.",
+        "targetText": "Cuvântul românesc „numerar“ provine din latinul „numerarium“, care înseamnă „legat de numărare“, desemnând banii fizici."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Numerar wird verwendet, um auf Bargeld oder Münzen zuzugreifen."
+  },
+  "senses": [
+    {
+      "gloss": "Bargeld (Geld in physischer Form)",
+      "explanation": {
+        "sourceText": "Bargeld in der Form von Münzen und Scheinen.",
+        "targetText": "Bani în formă fizică, sub formă de monede și bancnote."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe kein Bargeld bei mir.",
+          "targetText": "Nu am numerar la mine."
+        }
+      ]
+    },
+    {
+      "gloss": "Bargeld (physisches Geld)",
+      "explanation": {
+        "sourceText": "Dies bezieht sich auf das physische Geld, das zum Bezahlen verwendet wird.",
+        "targetText": "Se referă la banii fizici folosiți pentru plată."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich zahle mit Bargeld.",
+          "targetText": "Plătesc cu numerar."
+        },
+        {
+          "sourceText": "Bargeld wird in vielen Geschäften akzeptiert.",
+          "targetText": "Numerarul este acceptat în multe magazine."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Geld",
+      "targetText": "bani"
+    },
+    {
+      "sourceText": "Kasse",
+      "targetText": "casierie"
+    },
+    {
+      "sourceText": "Münze",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "Schein",
+      "targetText": "bancnotă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kartenzahlung",
+      "targetText": "plata cu cardul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich zahle mit Bargeld.",
+      "targetText": "Plătesc cu numerar."
+    },
+    {
+      "sourceText": "Bargeld wird in vielen Geschäften akzeptiert.",
+      "targetText": "Numerarul este acceptat în multe magazine."
+    },
+    {
+      "sourceText": "Ich habe kein Bargeld bei mir.",
+      "targetText": "Nu am numerar la mine."
+    },
+    {
+      "sourceText": "Das Bargeld wird sicher aufbewahrt.",
+      "targetText": "Numerarul este păstrat în siguranță."
+    },
+    {
+      "sourceText": "Das Bezahlen mit Bargeld ist einfach.",
+      "targetText": "Plata cu numerar este simplă."
+    },
+    {
+      "sourceText": "Er hat genug Bargeld für den Einkauf.",
+      "targetText": "Are suficient numerar pentru a cumpăra."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Numerar“ klingt wie „Nummer“ – denk daran, dass du beim Bargeld oft zählen musst!"
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir den Satz „Plătește cu numerar“ – er wird dir oft begegnen und hilft dir, das Wort zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „numerar“ mit dem Bild von Münzen, die in deiner Hand klimpern – so merkst du dir das Wort besser."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du in Rumänien bist, übe das Bezahlen mit „numerar“ – so wird das Wort lebendig und bleibt im Kopf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

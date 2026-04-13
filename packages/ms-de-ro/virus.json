@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-virus",
+  "parent": "ms-ro-virus-3aaf4bf0@a327d4474e20c1b095c1eac1758921b5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Virus",
+    "genus": "neuter",
+    "definition": "Ein infektiöser Erreger, der sich in lebenden Zellen vermehrt und Krankheiten verursachen kann.",
+    "pronunciation": "/ˈviːʁʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Virus“ stammt direkt vom lateinischen Substantiv 'virus' ab, das ursprünglich 'Gift' oder 'Schleim' bedeutete und später auf infektiöse Krankheitserreger übertragen wurde.",
+        "targetText": "Cuvântul german „Virus” provine direct din substantivul latin 'virus', care inițial însemna 'otrăvă' sau 'mucus' și ulterior a fost folosit pentru agenți patogeni infecțioși."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "virus",
+    "genus": "neuter",
+    "definition": "Un agent infecțios care se multiplică în celulele vii și poate provoca boli.",
+    "pronunciation": "/ˈvirus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „virus“ wurde direkt aus dem lateinischen 'virus' entlehnt, das 'Gift' oder 'Schleim' bedeutete und später auf Krankheitserreger übertragen wurde.",
+        "targetText": "Cuvântul românesc „virus” este împrumutat direct din latină, din 'virus', care însemna 'otrăvă' sau 'mucus' și a fost folosit ulterior pentru agenți patogeni."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bakterium",
+      "targetText": "bacterie"
+    },
+    {
+      "sourceText": "Immunität",
+      "targetText": "imunitate"
+    },
+    {
+      "sourceText": "Infektion",
+      "targetText": "infecție"
+    },
+    {
+      "sourceText": "Krankheit",
+      "targetText": "boală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Heilmittel",
+      "targetText": "remediu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Virus verbreitet sich schnell in der Bevölkerung.",
+      "targetText": "Virusul se răspândește rapid în populație."
+    },
+    {
+      "sourceText": "Ein Virus benötigt eine Wirtszelle, um sich zu vermehren.",
+      "targetText": "Un virus are nevoie de o celulă gazdă pentru a se multiplica."
+    },
+    {
+      "sourceText": "Die Grippe wird durch einen Virus verursacht.",
+      "targetText": "Gripa este cauzată de un virus."
+    },
+    {
+      "sourceText": "Moderne Impfstoffe helfen, Viren zu bekämpfen.",
+      "targetText": "Vaccinurile moderne ajută la combaterea virusurilor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'virus' wird genauso ausgesprochen wie im Deutschen, aber achte auf die Betonung auf der ersten Silbe: /ˈvirus/."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'Virus' klingt im Deutschen und Rumänischen fast gleich – das hilft dir, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein Virus ist wie ein unsichtbarer 'Gift'-Agent, der sich in deinem Körper versteckt – so merkst du dir die lateinische Herkunft von 'virus' als 'Gift'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Virus' mit 'virulent' (englisch) – beide stammen vom lateinischen 'virus' und haben mit Krankheitserregern zu tun."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

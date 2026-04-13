@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-eindeuten",
+  "parent": "ms-ro-a-indica-3800283f@d706b8a2c432cf670adfbdeec84c4584",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "eindeuten",
+    "definition": "etwas andeuten oder einen Hinweis darauf geben",
+    "pronunciation": "/ˈaɪnˌdɔʏtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „eindeuten“ setzt sich aus „ein“ und „deuten“ zusammen, wobei „deuten“ vom mittelhochdeutschen „diuten“ stammt und „deuten“ oder „erklären“ bedeutet.",
+        "targetText": "Verbul „eindeuten“ provine din combinarea lui „ein“ și „deuten“, unde „deuten“ înseamnă a indica sau a explica."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird oft verwendet, um das Interpretieren oder Erklären von Signalen oder Hinweisen zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a indica",
+    "definition": "a indica sau a oferi un indiciu despre ceva",
+    "pronunciation": "/a in.diˈka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a indica“ stammt vom lateinischen „indicare“ ab, was „zeigen“ oder „hinweisen“ bedeutet und wird für Hinweise oder Signale verwendet.",
+        "targetText": "Verbul românesc „a indica“ provine din latină, din „indicare“, care înseamnă a arăta sau a semnala."
+      },
+      "source": "AI, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft genutzt, um etwas zu zeigen, was nicht direkt gesagt wird, sondern durch Hinweise klar wird."
+  },
+  "senses": [
+    {
+      "gloss": "anzeichen",
+      "explanation": {
+        "sourceText": "Bedeutet, bestimmte Anzeichen zu zeigen, die auf eine Bedeutung hinweisen können.",
+        "targetText": "Înseamnă a arăta semne care pot indica un sens."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Dinge deuten darauf hin, dass es bald regnen wird.",
+          "targetText": "Lucrurile indică că va ploua în curând."
+        }
+      ]
+    },
+    {
+      "gloss": "deuten",
+      "explanation": {
+        "sourceText": "Beschreibt das Zeigen von Hinweisen oder Bedeutungen.",
+        "targetText": "Descrie arătarea unor indicii sau semnificații."
+      },
+      "examples": [
+        {
+          "sourceText": "Er deutet immer auf das Wesentliche hin.",
+          "targetText": "El indică întotdeauna esențialul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Anzeichen",
+      "targetText": "semn"
+    },
+    {
+      "sourceText": "Bedeutung",
+      "targetText": "însemnătate"
+    },
+    {
+      "sourceText": "Hinweis",
+      "targetText": "indiciu"
+    },
+    {
+      "sourceText": "Interpretation",
+      "targetText": "interpretare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verbergen",
+      "targetText": "a ascunde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich deute auf die Antwort.",
+      "targetText": "Eu indic răspunsul."
+    },
+    {
+      "sourceText": "Deutest du auf das Bild?",
+      "targetText": "Indici imaginea?"
+    },
+    {
+      "sourceText": "Er deutet auf die Lösung.",
+      "targetText": "El indică soluția."
+    },
+    {
+      "sourceText": "Wir deuten auf die Tabelle.",
+      "targetText": "Noi indicăm tabela."
+    },
+    {
+      "sourceText": "Deutet ihr auf die Antwort?",
+      "targetText": "Indicați răspunsul?"
+    },
+    {
+      "sourceText": "Sie deuten auf die Konsequenzen.",
+      "targetText": "Ei indică consecințele."
+    },
+    {
+      "sourceText": "Ich habe die Ergebnisse eindeutig gedeutet.",
+      "targetText": "Am indicat rezultatele clar."
+    },
+    {
+      "sourceText": "Sie haben die Hinweise gedeutet.",
+      "targetText": "Au indicat indiciile."
+    },
+    {
+      "sourceText": "Er deutete immer korrekt.",
+      "targetText": "El indica întotdeauna corect."
+    },
+    {
+      "sourceText": "Ich werde auf die Lösung eindeutig deuten.",
+      "targetText": "Voi indica soluția clar."
+    },
+    {
+      "sourceText": "Ich würde darauf hinweisen, wenn ich könnte.",
+      "targetText": "Aș indica dacă aș putea."
+    },
+    {
+      "sourceText": "Deute auf die Antwort!",
+      "targetText": "Indică răspunsul!"
+    },
+    {
+      "sourceText": "Die klare Deutung ist notwendig.",
+      "targetText": "De binele indicat este necesar."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A indica“ ist wie „deuten“ – beide zeigen auf etwas Wichtiges, das man erkennen soll."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, du zeigst mit dem Finger auf einen Hinweis – so merkst du dir „a indica“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

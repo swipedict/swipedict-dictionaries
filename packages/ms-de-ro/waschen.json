@@ -1,0 +1,145 @@
+{
+  "id": "ms-de-ro-waschen",
+  "parent": "ms-ro-a-spala-93f76ca6@e20fbdd0930056d4ed2c07fb5022fcfa",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "waschen",
+    "definition": "etwas sauber machen, indem man es mit Wasser und eventuell Seife reinigt",
+    "pronunciation": "/ˈvaʃən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „waschen“ abgeleitet, verwandt mit dem englischen „wash“.",
+        "targetText": "Derivat din germana mijlocie „waschen“, înrudit cu englezescul „wash“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Verwendung in Alltagssituationen von Körperpflege bis Reinigung."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a spăla",
+    "definition": "a face ceva curat, spălându-l cu apă și eventual săpun",
+    "pronunciation": "/a spəˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „pălavere“ abgeleitet, was „reinigen“ bedeutet. Es beschreibt den Vorgang des Saubermachens.",
+        "targetText": "Derivat din latină „pălavere“, care înseamnă „a curăța“. Descrie procesul de spălare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig für Hygiene und Reinigung verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Körperwäsche",
+      "explanation": {
+        "sourceText": "Waschen des Körpers.",
+        "targetText": "Spălarea corpului."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich wasche mein Gesicht.",
+          "targetText": "Eu îmi spal fața."
+        }
+      ]
+    },
+    {
+      "gloss": "Waschen (Allgemein)",
+      "explanation": {
+        "sourceText": "Allgemeines Waschen von Gegenständen.",
+        "targetText": "Spălarea generală a obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich wasche die Teller.",
+          "targetText": "Eu spăl farfuriile."
+        }
+      ]
+    },
+    {
+      "gloss": "Wäschewaschen",
+      "explanation": {
+        "sourceText": "Waschen von Kleidung.",
+        "targetText": "Spălarea hainelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich muss die Wäsche waschen.",
+          "targetText": "Trebuie să spăl rufele."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fleck",
+      "targetText": "pată"
+    },
+    {
+      "sourceText": "Sauberkeit",
+      "targetText": "curățenie"
+    },
+    {
+      "sourceText": "Seife",
+      "targetText": "săpun"
+    },
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "trocknen",
+      "targetText": "a usca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wasche meine Hände.",
+      "targetText": "Eu spăl mâinile mele."
+    },
+    {
+      "sourceText": "Wäschst du das Auto?",
+      "targetText": "Speli mașina?"
+    },
+    {
+      "sourceText": "Ich habe die Wäsche gewaschen.",
+      "targetText": "Am spălat rufele."
+    },
+    {
+      "sourceText": "Ich werde die Fenster waschen.",
+      "targetText": "Voi spăla ferestrele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe Sätze wie „Eu spăl vasele“ (Ich spüle das Geschirr), um das Wort im Alltag zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „waschen“ mit „a spăla“ durch das Bild vom Saubermachen mit Wasser und Seife."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

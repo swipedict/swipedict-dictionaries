@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-groesse",
+  "parent": "ms-ro-marime-29b3df72@46a342a8e191582a82a9bf860ac1668b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Größe",
+    "genus": "feminine",
+    "definition": "Das Maß oder die Ausdehnung eines Objekts oder einer Person; auch im übertragenen Sinn für Bedeutung oder Wichtigkeit.",
+    "pronunciation": "/ˈɡʁøːsə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Substantiv „Größe“ stammt vom mittelhochdeutschen 'grōze' ab, das auf das althochdeutsche 'grōzi' zurückgeht und mit dem Verb 'wachsen' verwandt ist.",
+        "targetText": "Substantivul german „Größe” provine din germana mijlocie 'grōze', derivat din germana înaltă veche 'grōzi', legat de verbul „a crește” (wachsen)."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mărime",
+    "genus": "feminine",
+    "definition": "Măsura sau dimensiunea unui obiect sau a unei persoane; folosit și în sens figurat pentru importanță sau amploare.",
+    "pronunciation": "/məˈri.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „mărime“ stammt vom lateinischen Substantiv 'magnitātem' (Akkusativ von 'magnitās'), was 'Größe' oder 'Ausdehnung' bedeutet, über die Entwicklung im Rumänischen mit der Bedeutung von Maß oder Dimension.",
+        "targetText": "Cuvântul românesc „mărime” provine din substantivul latin 'magnitātem' (acusativul lui 'magnitās'), care înseamnă 'mărime' sau 'extindere', evoluând în română cu sensul de măsură sau dimensiune."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Breite",
+      "targetText": "lățime"
+    },
+    {
+      "sourceText": "Höhe",
+      "targetText": "înălțime"
+    },
+    {
+      "sourceText": "Länge",
+      "targetText": "lungime"
+    },
+    {
+      "sourceText": "Maß",
+      "targetText": "măsură"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Kleinheit",
+      "targetText": "micime"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Größe des Hauses ist beeindruckend.",
+      "targetText": "Mărimea casei este impresionantă."
+    },
+    {
+      "sourceText": "Welche Größe hast du bei diesem Hemd?",
+      "targetText": "Ce mărime porți la această cămașă?"
+    },
+    {
+      "sourceText": "Die Größe des Problems wurde unterschätzt.",
+      "targetText": "Mărimea problemei a fost subestimată."
+    },
+    {
+      "sourceText": "Die Größe des Baumes beträgt etwa 20 Meter.",
+      "targetText": "Înălțimea copacului este de aproximativ 20 de metri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das ‚m‘ am Anfang von „mărime“ steht für ‚maß‘, also Größe oder Ausdehnung."
+    },
+    {
+      "lang": "de",
+      "text": "Das lateinische ‚magnitātem‘ bedeutet ‚Großheit‘ – denk an ‚magna‘ wie ‚groß‘, um „mărime“ zu verknüpfen."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „mărime“ erinnert an das deutsche Wort „maß“ – beide beziehen sich auf eine Größe oder ein Maß."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du misst etwas mit einem Maßband – das hilft dir, dich an „mărime“ als Größe zu erinnern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

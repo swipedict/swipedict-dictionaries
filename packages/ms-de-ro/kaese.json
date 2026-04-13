@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kaese",
+  "parent": "ms-ro-branza-050a1302@bac27277f940e7a0e76884ea2b3f0cea",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Käse",
+    "genus": "masculine",
+    "definition": "Ein aus Milch hergestelltes Nahrungsmittel, das durch Gerinnung und Reifung entsteht.",
+    "pronunciation": "/ˈkɛːzə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Käse“ stammt vom althochdeutschen 'chāsi', das wiederum auf das lateinische 'caseus' zurückgeht.",
+        "targetText": "Cuvântul german „Käse” provine din germana veche înaltă 'chāsi', care la rândul său derivă din latinul 'caseus'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "brânză",
+    "genus": "feminine",
+    "definition": "Un aliment obținut prin coagularea și maturarea laptelui.",
+    "pronunciation": "/ˈbrɨn.zə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „brânză“ stammt wahrscheinlich aus dem slawischen 'brynza', das einen bestimmten Frischkäse bezeichnet.",
+        "targetText": "Cuvântul românesc „brânză” provine probabil din slavul 'brynza', care desemna un anumit tip de brânză proaspătă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Butter",
+      "targetText": "unt"
+    },
+    {
+      "sourceText": "Joghurt",
+      "targetText": "iaurt"
+    },
+    {
+      "sourceText": "Käseplatte",
+      "targetText": "platou cu brânzeturi"
+    },
+    {
+      "sourceText": "Milch",
+      "targetText": "lapte"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich esse gern Käse zum Frühstück.",
+      "targetText": "Îmi place să mănânc brânză la micul dejun."
+    },
+    {
+      "sourceText": "Frischer Käse schmeckt mild und cremig.",
+      "targetText": "Brânza proaspătă are un gust blând și cremos."
+    },
+    {
+      "sourceText": "Käse wird aus Milch hergestellt.",
+      "targetText": "Brânza se face din lapte."
+    },
+    {
+      "sourceText": "In Rumänien gibt es viele verschiedene Sorten Brânză.",
+      "targetText": "În România există multe feluri diferite de brânză."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Brânză klingt wie 'Bran' – denk an einen Käse namens Bran, um das Wort zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'brânză' kommt aus dem Slawischen, ähnlich wie viele andere rumänische Lebensmittelbegriffe."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir 'brânză' mit dem Klang 'branz', der an das deutsche Wort 'Brannt' erinnert – stell dir vor, Käse wird 'gebrannt' im Geschmack."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du isst 'Brânză' auf einer 'Brücke' (bridge) – so merkst du dir den Klang und die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

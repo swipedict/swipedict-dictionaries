@@ -1,0 +1,157 @@
+{
+  "id": "ms-de-ro-verarbeiten",
+  "parent": "ms-ro-a-procesa-bcaf55bf@d2eab055e966f70d4fec51411d9079a7",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "verarbeiten",
+    "definition": "etwas mit einem bestimmten Ziel bearbeiten oder umformen",
+    "pronunciation": "/fɛʁˈaʁ.baɪ.tən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „verarbeiten“ kombiniert die Vorsilbe „ver-“ mit „arbeiten“ und bedeutet, etwas zu bearbeiten oder umzuwandeln.",
+        "targetText": "Verbul „verarbeiten“ combină prefixul „ver-“ cu „arbeiten“, însemnând a prelucra sau transforma ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": ""
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a procesa",
+    "definition": "a manipula sau a transforma ceva cu un scop anume",
+    "pronunciation": "/a proˈtʃe.za/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A procesa“ stammt vom lateinischen „processare“, was „voranschreiten“ oder „fortschreiten“ bedeutet und sich auf die Bearbeitung oder Umwandlung bezieht.",
+        "targetText": "Verbul „a procesa“ derivă din latina „processare“, însemnând a avansa sau a prelucra ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird in industriellen, kulinarischen und digitalen Kontexten häufig verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Daten verarbeiten",
+      "explanation": {
+        "sourceText": "Daten werden in verschiedene Formate umgewandelt.",
+        "targetText": "Datele sunt transformate în diferite formate."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich verarbeite die Daten.",
+          "targetText": "Eu procesez datele."
+        }
+      ]
+    },
+    {
+      "gloss": "Informationen verarbeiten",
+      "explanation": {
+        "sourceText": "Informationen werden strukturiert und genutzt.",
+        "targetText": "Informațiile sunt structurate și utilizate."
+      },
+      "examples": [
+        {
+          "sourceText": "Der Computer verarbeitet die Informationen.",
+          "targetText": "Calculatorul procesează informațiile."
+        }
+      ]
+    },
+    {
+      "gloss": "Material verarbeiten",
+      "explanation": {
+        "sourceText": "Das Umwandeln von Rohmaterial in Endprodukte.",
+        "targetText": "Transformarea materiilor prime în produse finite."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir verarbeiten das Material.",
+          "targetText": "Noi procesăm materialul."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Daten",
+      "targetText": "date"
+    },
+    {
+      "sourceText": "Maschine",
+      "targetText": "mașină"
+    },
+    {
+      "sourceText": "Material",
+      "targetText": "material"
+    },
+    {
+      "sourceText": "Prozess",
+      "targetText": "proces"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unverarbeitet",
+      "targetText": "neprocesat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verarbeite die Daten.",
+      "targetText": "Eu procesez datele."
+    },
+    {
+      "sourceText": "Verarbeitest du die Meldungen?",
+      "targetText": "Procesezi mesajele?"
+    },
+    {
+      "sourceText": "Der Computer verarbeitet die Informationen.",
+      "targetText": "Calculatorul procesează informațiile."
+    },
+    {
+      "sourceText": "Wir verarbeiten das Material.",
+      "targetText": "Noi procesăm materialul."
+    },
+    {
+      "sourceText": "Verarbeitet ihr die Ergebnisse?",
+      "targetText": "Procesezi rezultatele?"
+    },
+    {
+      "sourceText": "Sie verarbeiten die Anfrage.",
+      "targetText": "Ei procesează cererea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A procesa“ erinnert an „Prozess“ – denke an eine Abfolge von Schritten, um etwas zu bearbeiten."
+    },
+    {
+      "lang": "de",
+      "text": "Achte auf die Präsensendungen: -ez, -ești, -ează – sie sind regelmäßig und helfen beim Lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe mit Sätzen wie „Eu procesez“ (Ich verarbeite) und „Eu am procesat“ (Ich habe verarbeitet)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

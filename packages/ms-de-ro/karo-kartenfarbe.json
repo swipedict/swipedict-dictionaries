@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-karo-kartenfarbe",
+  "parent": "ms-ro-romb-d0162e88@08cbaf782f2fceeda74cb862b1775b2d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Karo",
+    "genus": "neuter",
+    "definition": "Eine der vier Farben im Kartenspiel, dargestellt durch rote Rauten.",
+    "pronunciation": "/ˈkaːʁo/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Karo“ stammt vom französischen 'carreau' ab, das 'Kachel' oder 'Raute' bedeutet und ursprünglich aus dem Lateinischen 'quadrum' (Quadrat) entlehnt wurde.",
+        "targetText": "Cuvântul german „Karo“ provine din francezul 'carreau', care înseamnă 'plăcuță' sau 'romb', împrumutat din latină 'quadrum' (pătrat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "romb",
+    "genus": "neuter",
+    "definition": "Una dintre cele patru culori ale cărților de joc, reprezentată printr-un romb roșu.",
+    "pronunciation": "/romb/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „romb“ stammt vom lateinischen 'rhombus' ab, das wiederum aus dem Griechischen 'rhombos' kommt und eine geometrische Form beschreibt.",
+        "targetText": "Cuvântul românesc „romb” provine din latinescul 'rhombus', care la rândul său vine din grecescul 'rhombos' și desemnează o formă geometrică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Herz (Kartenfarbe)",
+      "targetText": "inimă"
+    },
+    {
+      "sourceText": "Karte",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "Pik (Kartenfarbe)",
+      "targetText": "treflă"
+    },
+    {
+      "sourceText": "Spiel",
+      "targetText": "joc"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Karo-Ass ist eine wichtige Karte im Spiel.",
+      "targetText": "Asul de romb este o carte importantă în joc."
+    },
+    {
+      "sourceText": "Ich habe drei Karo-Karten auf der Hand.",
+      "targetText": "Am trei cărți de romb în mână."
+    },
+    {
+      "sourceText": "Karo ist eine der vier Farben im Kartenspiel.",
+      "targetText": "Rombul este una dintre cele patru culori ale cărților de joc."
+    },
+    {
+      "sourceText": "Die Karo-Dame ist sehr wertvoll.",
+      "targetText": "Dama de romb este foarte valoroasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'Karo' kommt vom französischen 'carreau', das an 'Kachel' erinnert – denk an die Form der Karo-Karten."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'romb' klingt ähnlich wie das deutsche 'Rhombus', eine geometrische Form, die du aus der Schule kennst."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein roter 'ROMB' ist wie ein kleines 'ROtes MOnster Bunt' im Kartenspiel – so merkst du dir 'romb'."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du an die vier Kartenfarben denkst, merk dir: Herz = inimă, Pik = treflă, Karo = romb, Kreuz = trefla (manchmal auch 'cruce')."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-schmied",
+  "parent": "ms-ro-fierar-622da921@e5455e23d21a548fb0c64af74eaf459a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schmied",
+    "genus": "masculine",
+    "definition": "Eine Person, die Metall durch Erhitzen und Schmieden bearbeitet, insbesondere Eisen.",
+    "pronunciation": "/ʃmiːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Schmied“ stammt vom althochdeutschen 'smiad' ab, das auf die urgermanische Wurzel *smid- zurückgeht, die mit dem Bearbeiten von Metall verbunden ist.",
+        "targetText": "Cuvântul german „Schmied” provine din vechiul german înalt 'smiad', derivat din rădăcina urgermanică *smid-, legată de prelucrarea metalelor."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fierar",
+    "genus": "masculine",
+    "definition": "Persoană care prelucrează metalul, în special fierul, prin încălzire și forjare.",
+    "pronunciation": "/fiˈerar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „fierar“ stammt vom lateinischen Wort 'ferrarius' ab, das sich von 'ferrum' (Eisen) ableitet und einen Schmied oder Eisenarbeiter bezeichnet.",
+        "targetText": "Cuvântul românesc „fierar” provine din latinescul 'ferrarius', derivat din 'ferrum' (fier), desemnând un meșter care lucrează fierul."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Amboss",
+      "targetText": "nicovală"
+    },
+    {
+      "sourceText": "Hammer",
+      "targetText": "ciocan"
+    },
+    {
+      "sourceText": "Metall",
+      "targetText": "metal"
+    },
+    {
+      "sourceText": "Schmieden",
+      "targetText": "a fierări"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Schmied arbeitet in der Schmiede.",
+      "targetText": "Fierarul lucrează în fierărie."
+    },
+    {
+      "sourceText": "Der Schmied schmiedet ein Hufeisen.",
+      "targetText": "Fierarul potrivește o potcoavă."
+    },
+    {
+      "sourceText": "Früher war der Schmied ein wichtiger Handwerker im Dorf.",
+      "targetText": "În trecut, fierarul era un meșter important în sat."
+    },
+    {
+      "sourceText": "Der Schmied benutzt Hammer und Amboss.",
+      "targetText": "Fierarul folosește ciocanul și nicovala."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort „Schmied“ und das rumänische „fierar“ haben beide mit Eisen zu tun: 'Schmied' bearbeitet Eisen, 'fierar' kommt von 'fier' (Eisen)."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „fierar“ erinnert an „fier“, das Eisen bedeutet. Stell dir vor, wie der Schmied mit Eisen arbeitet – so merkst du dir das Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „fierar“ vom lateinischen 'ferrarius' stammt, das mit 'ferrum' (Eisen) verwandt ist – so kannst du die Herkunft leicht verbinden."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Schmied mit Hammer und Amboss arbeitet – die rumänischen Wörter 'ciocan' (Hammer) und 'nicovală' (Amboss) helfen dir, das Handwerk zu visualisieren."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

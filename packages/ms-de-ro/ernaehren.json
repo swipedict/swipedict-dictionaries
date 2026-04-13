@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-ernaehren",
+  "parent": "ms-ro-a-hrani-1223e80e@788741b2294d84fed006cab0d248787e",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:food-drink",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ernähren",
+    "definition": "durch Nahrungsaufnahme für den Lebensunterhalt sorgen",
+    "pronunciation": "/ɛʁˈnɛː.ʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „ernähren“ stammt vom mittelhochdeutschen „ernæren“ ab, verwandt mit althochdeutschen „narōn“.",
+        "targetText": "Verbul german „ernähren“ provine din germana mijlocie „ernæren“, legat de „narōn“ din germana veche."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird sowohl im physischen als auch im übertragenen Sinne gebraucht."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a hrăni",
+    "definition": "a asigura hrana pentru a trai",
+    "pronunciation": "/a hɾəˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a hrăni“ stammt vom slawischen „xraniti“ ab, was „ernähren, füttern“ bedeutet.",
+        "targetText": "Verbul românesc „a hrăni“ provine din slavă, de la „xraniti“, care înseamnă „a hrăni, a da de mâncare“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-i). Häufig in alltäglichen Gesprächen verwendet, besonders für Pflege von Kindern oder Tieren."
+  },
+  "senses": [
+    {
+      "gloss": "Nahrungsaufnahme",
+      "explanation": {
+        "sourceText": "Bedeutet auch, eine Mahlzeit zu sich zu nehmen.",
+        "targetText": "Înseamnă și a lua o masă."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich werde jetzt zu Abend essen.",
+          "targetText": "Acum voi lua cina."
+        }
+      ]
+    },
+    {
+      "gloss": "Pflege von Lebewesen",
+      "explanation": {
+        "sourceText": "Das Kümmert sich speziell um Tiere oder Kinder.",
+        "targetText": "Se referă la îngrijirea animalelor sau copiilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Familie kümmert sich gut um ihre Haustiere.",
+          "targetText": "Familia are grijă bună de animalele lor de companie."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ernährung",
+      "targetText": "alimentatie"
+    },
+    {
+      "sourceText": "Essenszubereitung",
+      "targetText": "prepararea mesei"
+    },
+    {
+      "sourceText": "Koch",
+      "targetText": "bucătar"
+    },
+    {
+      "sourceText": "Nahrung",
+      "targetText": "hrană"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verhungern",
+      "targetText": "a muri de foame"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ernähre mich gesund.",
+      "targetText": "Eu mă hrănesc sănătos."
+    },
+    {
+      "sourceText": "Ich habe mein Kind gut ernährt.",
+      "targetText": "Am hrănit bine copilul meu."
+    },
+    {
+      "sourceText": "Ich werde die Tiere ernähren.",
+      "targetText": "Voi hrăni animalele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a hrăni“ klingt wie „Happiness“ und „Nahrung“ kombiniert – verbinde es mit Freude und Essen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe das Wort mit Begriffen rund ums Essen und Kochen, um die Bedeutung lebendig zu halten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

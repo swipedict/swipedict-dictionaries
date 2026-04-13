@@ -1,0 +1,160 @@
+{
+  "id": "ms-de-ro-sein",
+  "parent": "ms-ro-a-fi-9d5a1c47@0cdfa2d2d5948ad0b2b3affa8eada87f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sein",
+    "definition": "eine Existenz oder einen Zustand haben, existieren",
+    "pronunciation": "/zaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Ursprünglich im Althochdeutschen als „sīn“ bekannt, bedeutet es die Existenz von etwas oder jemandem.",
+        "targetText": "Provine din germana veche „sīn“, semnificând existența sau starea unui lucru sau a unei persoane."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, eines der grundlegendsten Verben der deutschen Sprache; bildet die Basis für viele Zeitformen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a fi",
+    "definition": "a exista sau a avea o stare",
+    "pronunciation": "/a fi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Ursprung von lateinisch „esse“, was „sein“ bedeutet und ist das fundamentalste Verb in der rumänischen Sprache, das Existenz oder Zustand ausdrückt.",
+        "targetText": "Provine din latină, din verbul „esse“, care înseamnă „a fi“, fiind verbul fundamental în limba română pentru a exprima existența sau starea."
+      },
+      "source": "Etymological Dictionaries, AI"
+    },
+    "additional": "Unregelmäßiges Verb, eine Grundbasis für die Konstruktion von anderen Zeitformen und Sätzen."
+  },
+  "senses": [
+    {
+      "gloss": "a fi (Existenz)",
+      "explanation": {
+        "sourceText": "Wie im Deutschen: für die Existenz oder den Zustand.",
+        "targetText": "Ca în germană: pentru a exprima existența sau starea."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich bin müde.",
+          "targetText": "Eu sunt obosit."
+        },
+        {
+          "sourceText": "Bist du bereit?",
+          "targetText": "Ești pregătit?"
+        }
+      ]
+    },
+    {
+      "gloss": "a fi (Zustand)",
+      "explanation": {
+        "sourceText": "Auch für den Zustand, um Eigenschaft auszudrücken.",
+        "targetText": "De asemenea, pentru a exprima o stare sau o caracteristică."
+      },
+      "examples": [
+        {
+          "sourceText": "Er/Sie ist glücklich.",
+          "targetText": "El/Ea este fericit(ă)."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Existenz",
+      "targetText": "existență"
+    },
+    {
+      "sourceText": "Identität",
+      "targetText": "identitate"
+    },
+    {
+      "sourceText": "Leben",
+      "targetText": "viață"
+    },
+    {
+      "sourceText": "Zustand",
+      "targetText": "stare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "werden",
+      "targetText": "a deveni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin müde.",
+      "targetText": "Eu sunt obosit."
+    },
+    {
+      "sourceText": "Bist du bereit?",
+      "targetText": "Ești pregătit?"
+    },
+    {
+      "sourceText": "Er/Sie ist glücklich.",
+      "targetText": "El/Ea este fericit(ă)."
+    },
+    {
+      "sourceText": "Wir sind hier.",
+      "targetText": "Noi suntem aici."
+    },
+    {
+      "sourceText": "Seid ihr bereit?",
+      "targetText": "Sunteți pregătiți?"
+    },
+    {
+      "sourceText": "Sie sind in der Schule.",
+      "targetText": "Ei sunt la școală."
+    },
+    {
+      "sourceText": "Ich bin gestern nach Hause gegangen.",
+      "targetText": "Am fost acasă ieri."
+    },
+    {
+      "sourceText": "Wir waren zu Hause.",
+      "targetText": "Noi eram acasă."
+    },
+    {
+      "sourceText": "Ich werde sein, wo du bist.",
+      "targetText": "Voi fi unde ești tu."
+    },
+    {
+      "sourceText": "Sei einfach du selbst!",
+      "targetText": "Fii tu însuți!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a fi“ klingt ähnlich wie das englische „to be“ – beide sind fundamentale Verben für Existenz und Zustand."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du „sein“ und „a fi“ zusammen siehst, erkenne, dass sie die Grundpfeiler der beiden Sprachen sind!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

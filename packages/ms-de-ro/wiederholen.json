@@ -1,0 +1,152 @@
+{
+  "id": "ms-de-ro-wiederholen",
+  "parent": "ms-ro-a-repeta-f523564c@60cb7dedfb1e4291f2421ac2313c0d51",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wiederholen",
+    "definition": "etwas noch einmal sagen oder tun",
+    "pronunciation": "/ˈviːdɐˌhoːlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „wiederholen“ setzt sich aus „wieder“ und „holen“ zusammen und bedeutet „etwas zurückholen“ oder „noch einmal tun“.",
+        "targetText": "Verbul german „wiederholen“ este compus din „wieder“ și „holen“, cu sensul de a repeta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Ein regelmäßiges Verb. Häufig verwendet im Lernkontext (wiederholen von Informationen)."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a repeta",
+    "definition": "a spune sau a face ceva din nou",
+    "pronunciation": "/a re.peˈta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a repeta“ stammt vom lateinischen „repetere“, was „wiederholen“ bedeutet und beschreibt das erneute Ausführen einer Handlung.",
+        "targetText": "Verbul românesc „a repeta“ provine din latină „repetere“, cu sensul de a repeta."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Kommt häufig in Schulen und beim Lernen vor."
+  },
+  "senses": [
+    {
+      "gloss": "wiederholen (im Bildungsbereich)",
+      "explanation": {
+        "sourceText": "Verwendet im Kontext von Lernen und Schulen.",
+        "targetText": "Folosit în contextul învățării și al școlii."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir müssen den Stoff wiederholen.",
+          "targetText": "Trebuie să repetăm materia."
+        }
+      ]
+    },
+    {
+      "gloss": "wiederholen (im Sinne von etwas erneut sagen)",
+      "explanation": {
+        "sourceText": "Es beschreibt die Handlung, etwas noch einmal zu sagen oder zu wiederholen.",
+        "targetText": "Descrie acțiunea de a spune sau face ceva din nou."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich wiederhole die Regel.",
+          "targetText": "Eu repet regula."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "hören",
+      "targetText": "a auzi"
+    },
+    {
+      "sourceText": "lernen",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "sagen",
+      "targetText": "a spune"
+    },
+    {
+      "sourceText": "üben",
+      "targetText": "a exersa"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wiederhole die Regel.",
+      "targetText": "Eu repet regula."
+    },
+    {
+      "sourceText": "Wiederholst du das Lied?",
+      "targetText": "Repeti tu melodia?"
+    },
+    {
+      "sourceText": "Sie wiederholt die Frage.",
+      "targetText": "Ea repetă întrebarea."
+    },
+    {
+      "sourceText": "Wir wiederholen die Aufgabe.",
+      "targetText": "Noi repetăm tema."
+    },
+    {
+      "sourceText": "Wiederholt ihr den Test?",
+      "targetText": "Repetiți voi testul?"
+    },
+    {
+      "sourceText": "Sie wiederholen die Lektion.",
+      "targetText": "Ei repetă lecția."
+    },
+    {
+      "sourceText": "Ich habe die Antwort wiederholt.",
+      "targetText": "Am repetat răspunsul."
+    },
+    {
+      "sourceText": "Ich werde es morgen wiederholen.",
+      "targetText": "Voi repeta mâine."
+    },
+    {
+      "sourceText": "Wiederhole das!",
+      "targetText": "Repetă asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „repeta“ klingt wie das deutsche „repeat“ – beide bedeuten „wiederholen“!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe, Sätze laut zu wiederholen („repeta“) – so verankerst du das Wort besser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

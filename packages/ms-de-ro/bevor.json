@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-bevor",
+  "parent": "ms-ro-inainte-ca-2213a6cf@607ce659c73447e60e3d1abf611d78b6",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bevor",
+    "definition": "Eine Konjunktion, die einen Zeitpunkt oder eine Handlung beschreibt, die vor einer anderen stattfindet.",
+    "pronunciation": "/bəˈfoːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „bevor“ stammt vom althochdeutschen 'bivor' ab, zusammengesetzt aus 'bi' (bei) und 'for' (vor), was 'vorher' bedeutet.",
+        "targetText": "Cuvântul german „bevor” provine din germana veche înaltă 'bivor', compus din 'bi' (lângă) și 'for' (înainte), însemnând 'înainte de'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "înainte ca",
+    "definition": "O conjuncție care indică faptul că o acțiune se întâmplă înaintea alteia.",
+    "pronunciation": "/ɨnˈainte ka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „înainte ca“ besteht aus dem Adverb 'înainte' (vorwärts, vorher) und der Konjunktion 'ca' (dass), beide vom Lateinischen abgeleitet.",
+        "targetText": "Expresia românească „înainte ca” este formată din adverbul 'înainte' (în față, înainte) și conjuncția 'ca' (că), ambele derivate din latină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "als",
+      "targetText": "când"
+    },
+    {
+      "sourceText": "bis",
+      "targetText": "până când"
+    },
+    {
+      "sourceText": "nachdem",
+      "targetText": "după ce"
+    },
+    {
+      "sourceText": "während",
+      "targetText": "în timp ce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nach",
+      "targetText": "după"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Bevor ich esse, wasche ich mir die Hände.",
+      "targetText": "Înainte ca să mănânc, îmi spăl mâinile."
+    },
+    {
+      "sourceText": "Bevor du gehst, musst du das Fenster schließen.",
+      "targetText": "Înainte ca să pleci, trebuie să închizi fereastra."
+    },
+    {
+      "sourceText": "Bevor es dunkel wird, sollten wir nach Hause gehen.",
+      "targetText": "Înainte ca să se întunece, ar trebui să mergem acasă."
+    },
+    {
+      "sourceText": "Bevor du antwortest, denk gut nach.",
+      "targetText": "Înainte ca să răspunzi, gândește-te bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Bevor du etwas tust, sag dir: 'Ich gehe IN ANTE (in Acht) – also 'înainte' – um vorbereitet zu sein."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'înainte' klingt wie 'in acht' – stell dir vor, du gibst jemandem Achtung, bevor etwas passiert."
+    },
+    {
+      "lang": "de",
+      "text": "Die Konjunktion 'ca' im Rumänischen entspricht oft dem deutschen 'dass' – zusammen mit 'înainte' ergibt das 'bevor'."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'bevor' zeigt eine Handlung vor einer anderen an – ähnlich wie 'înainte ca' im Rumänischen, das 'vor dass' bedeutet."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

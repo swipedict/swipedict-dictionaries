@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-tuer",
+  "parent": "ms-ro-usa-af728b0b@cfbdd60b0e2d5eb303de99cfefbb7201",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Tür",
+    "genus": "feminine",
+    "definition": "Ein bewegliches Element, das einen Durchgang in einer Wand oder einem Zaun verschließt oder öffnet.",
+    "pronunciation": "/tyːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Tür“ stammt vom althochdeutschen 'tūr' ab, das auf das lateinische 'turris' (Turm) zurückgeht, ursprünglich im Sinne von 'Tor' oder 'Eingang'.",
+        "targetText": "Cuvântul german „Tür” provine din vechiul german înalt 'tūr', care la rândul său derivă din latinul 'turris' (turn), inițial cu sensul de 'poartă' sau 'intrare'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ușă",
+    "genus": "feminine",
+    "definition": "Element mobil care închide sau deschide o deschidere într-un perete sau gard.",
+    "pronunciation": "/ˈuʃə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „ușă“ stammt vom lateinischen 'ostium' ab, was 'Eingang' oder 'Tür' bedeutet. Es entwickelte sich im Rumänischen zu 'ușă'.",
+        "targetText": "Cuvântul românesc „ușă” derivă din latinul 'ostium', care însemna 'intrare' sau 'ușă'. Evoluția fonetică a condus la forma actuală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fenster",
+      "targetText": "fereastră"
+    },
+    {
+      "sourceText": "Rahmen",
+      "targetText": "toc"
+    },
+    {
+      "sourceText": "Schloss",
+      "targetText": "broască (de ușă)"
+    },
+    {
+      "sourceText": "Tor",
+      "targetText": "poartă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "geschlossen",
+      "targetText": "închis"
+    },
+    {
+      "sourceText": "offen",
+      "targetText": "deschis"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Tür ist geschlossen.",
+      "targetText": "Ușa este închisă."
+    },
+    {
+      "sourceText": "Bitte mach die Tür auf.",
+      "targetText": "Te rog, deschide ușa."
+    },
+    {
+      "sourceText": "Die Haustür ist aus Holz.",
+      "targetText": "Ușa de la intrare este din lemn."
+    },
+    {
+      "sourceText": "Er klopfte an die Tür.",
+      "targetText": "A bătut la ușă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'ușă' kommt von lateinisch 'ostium'. Denk an 'Ost' als Richtung, wo man oft Türen findet, um sich daran zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-șă' ist typisch für rumänische Substantive. Verbinde 'ușă' mit anderen Wörtern wie 'pașă' (Schritt), um die Form zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Tür' und 'ușă' sind beide kurz und einfach – beide Wörter öffnen dir den Weg in neue Räume und Sprachen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du eine 'ușă' öffnest und dabei das 'u' wie ein offenes Tor aussprichst – 'ușă' klingt weich und einladend wie eine geöffnete Tür."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

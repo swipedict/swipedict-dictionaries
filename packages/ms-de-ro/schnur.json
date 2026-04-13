@@ -1,0 +1,150 @@
+{
+  "id": "ms-de-ro-schnur",
+  "parent": "ms-ro-snur-a25fbc80@e8234765cbd4d3d627268d13dbc03e6a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Schnur",
+    "genus": "feminine",
+    "definition": "ein langes, dünnes Stück Material, das oft zum Binden oder Aufhängen verwendet wird",
+    "pronunciation": "/ʃnuːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Schnur“ stammt vom mittelhochdeutschen „snure“ und ist verwandt mit dem althochdeutschen „snura“, ursprünglich von der indogermanischen Wurzel „*sneu-“ für „binden“ oder „drehen“.",
+        "targetText": "Cuvântul „Schnur“ provine din germana mijlocie „snure“ și este legat de germana veche „snura“, derivând din rădăcina indo-europeană „*sneu-“ care înseamnă „a lega“ sau „a răsuci“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Schnüre werden häufig zum Binden und Sichern verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "șnur",
+    "genus": "masculine",
+    "definition": "o bucată lungă și subțire de material, care este adesea folosită pentru a lega sau agăța",
+    "pronunciation": "/ʃnur/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Begriff „șnur“ stammt aus dem Türkischen „şnur“, das eine Schnur oder Bindung bezeichnet und über osmanische Einflüsse ins Rumänische gelangte.",
+        "targetText": "Termenul românesc „șnur“ provine din turca „şnur“, care desemnează o sfoară sau legătură, intrat în limba română prin influențe otomane."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Schnüre sind in vielen Haushaltssituationen nützlich."
+  },
+  "senses": [
+    {
+      "gloss": "Schnur (zum Aufhängen)",
+      "explanation": {
+        "sourceText": "Verwendet für Schnüre, die zum Aufhängen genutzt werden.",
+        "targetText": "Folosit pentru șnururi care servesc la agățat."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich hänge das Bild mit einer Schnur auf.",
+          "targetText": "Am atârnat poza cu un șnur."
+        }
+      ]
+    },
+    {
+      "gloss": "Schnurgewebe",
+      "explanation": {
+        "sourceText": "Bezieht sich auf Material, das aus Schnur gewebt ist.",
+        "targetText": "Se referă la material țesut din șnur."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Kleidungsstück hat Schnurgewebe.",
+          "targetText": "Îmbrăcămintea are țesătură din șnur."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Draht",
+      "targetText": "sârmă"
+    },
+    {
+      "sourceText": "Faden",
+      "targetText": "fir"
+    },
+    {
+      "sourceText": "Kabel",
+      "targetText": "cablu"
+    },
+    {
+      "sourceText": "Seil",
+      "targetText": "frânghie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Bogen",
+      "targetText": "a învârti"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich benötige eine Schnur, um das Paket zu binden.",
+      "targetText": "Am nevoie de un șnur pentru a lega pachetul."
+    },
+    {
+      "sourceText": "Die Schnur ist sehr lang und stark.",
+      "targetText": "Șnurul este foarte lung și puternic."
+    },
+    {
+      "sourceText": "Könnte ich bitte eine Schnur haben?",
+      "targetText": "Pot să am și eu un șnur, te rog?"
+    },
+    {
+      "sourceText": "Sie zog an der Schnur, um das Licht einzuschalten.",
+      "targetText": "Ea a tras de șnur pentru a aprinde lumina."
+    },
+    {
+      "sourceText": "Der Hund schnappte nach der Schnur.",
+      "targetText": "Câinele a sărit după șnur."
+    },
+    {
+      "sourceText": "Die Schnur ist gerissen.",
+      "targetText": "Șnurul s-a rupt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „șnur“ klingt fast wie das deutsche „Schnur“ – beide Wörter haben den gleichen Klanganfang „Schn-“ und bedeuten dasselbe, was das Merken erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das türkische „şnur“, das ähnlich klingt und die Bedeutung „Schnur“ hat – so kannst du die Herkunft und Bedeutung von „șnur“ besser behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stelle dir vor, wie du eine Schnur (Schnurr-) bindest und dabei ein schnurrender Kater (simba) neben dir liegt – so verknüpfst du „șnur“ mit „Schnur“."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „șnur“ mit dem deutschen Wort „Schnur“ und der Vorstellung, wie du etwas mit einer dünnen Schnur sicher bindest."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

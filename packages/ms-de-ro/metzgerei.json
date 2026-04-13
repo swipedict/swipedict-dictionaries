@@ -1,0 +1,109 @@
+{
+  "id": "ms-de-ro-metzgerei",
+  "parent": "ms-ro-macelarie-b728718a@6f4b05c52ec6d47c3f9fa89f8a8f594e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:germanic",
+    "topic:work-education",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Metzgerei",
+    "genus": "feminine",
+    "definition": "Ein Geschäft oder Betrieb, in dem Fleisch verarbeitet und verkauft wird; Fleischerei.",
+    "pronunciation": "/mɛt͡sɡəˈʁaɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Metzgerei“ stammt vom mittelhochdeutschen 'mezzer' oder 'metzger' ab, was 'Fleischer' bedeutet, und der Ableitung '-ei' für Orte oder Betriebe.",
+        "targetText": "Cuvântul german „Metzgerei” provine din germana mijlocie 'mezzer' sau 'metzger', care înseamnă 'măcelar', și sufixul '-ei' indicând locuri sau întreprinderi."
+      },
+      "source": "Etymologische Wörterbücher, Sprachforschung"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "măcelărie",
+    "genus": "feminine",
+    "definition": "Un magazin sau atelier unde se prelucrează și se vinde carne; măcelărie.",
+    "pronunciation": "/mə.t͡ʃeˈlə.ri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „măcelărie“ stammt vom slawischen 'mъčelь' ab, das 'Fleischer' oder 'Metzger' bedeutet, mit dem rumänischen Suffix '-ărie' für Orte oder Geschäfte.",
+        "targetText": "Cuvântul românesc „măcelărie” provine din slavona 'mъčelь', care înseamnă 'măcelar', la care s-a adăugat sufixul românesc '-ărie' pentru a desemna locuri sau magazine."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fleisch",
+      "targetText": "carne"
+    },
+    {
+      "sourceText": "Fleischerei",
+      "targetText": "măcelărie"
+    },
+    {
+      "sourceText": "Metzger",
+      "targetText": "măcelar"
+    },
+    {
+      "sourceText": "Wurst",
+      "targetText": "cârnat"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich gehe zur Metzgerei, um frisches Fleisch zu kaufen.",
+      "targetText": "Merg la măcelărie să cumpăr carne proaspătă."
+    },
+    {
+      "sourceText": "Die Metzgerei hat heute geöffnet.",
+      "targetText": "Măcelăria este deschisă astăzi."
+    },
+    {
+      "sourceText": "In der Metzgerei gibt es verschiedene Wurstsorten.",
+      "targetText": "La măcelărie există diferite tipuri de cârnați."
+    },
+    {
+      "sourceText": "Die Metzgerei befindet sich neben dem Supermarkt.",
+      "targetText": "Măcelăria se află lângă supermarket."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „măcelărie“ endet auf '-ărie', ein typisches Suffix für Geschäfte, ähnlich wie im Deutschen '-erei' bei 'Metzgerei'."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „măcelărie“ klingt ein bisschen wie 'Mäzelarie' – denk an einen Laden, in dem man Fleisch 'mäzelt' (bearbeitet)."
+    },
+    {
+      "lang": "de",
+      "text": "Die Herkunft aus dem Slawischen hilft dir, andere verwandte Wörter wie 'măcelar' (Metzger) zu erkennen und zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, ein 'măcelar' (Metzger) arbeitet in der 'măcelărie' – so merkst du dir den Zusammenhang zwischen Person und Ort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

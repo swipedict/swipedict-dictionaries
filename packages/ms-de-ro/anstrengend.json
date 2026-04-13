@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-anstrengend",
+  "parent": "ms-ro-obositor-7ea8085f@027c6c78ab06f47d50cdcf2d99b8aa8d",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "anstrengend",
+    "definition": "Mühsam, ermüdend, körperlich oder geistig fordernd.",
+    "pronunciation": "/ˈanʃtʁɛŋənt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „anstrengend“ stammt vom Verb 'anstrengen' ab, das aus dem mittelhochdeutschen 'anstrengen' kommt und 'sich anspannen' bedeutet.",
+        "targetText": "Adjectivul german „anstrengend” derivă din verbul 'anstrengen', care provine din germana mijlocie și înseamnă 'a se încorda'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "obositor",
+    "definition": "Care provoacă oboseală, epuizant, solicitant fizic sau mental.",
+    "pronunciation": "/oboˈsit̪or/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „obositor“ stammt vom Verb 'a obosi' ab, das aus dem lateinischen 'exhaustus' indirekt über slawische Einflüsse entlehnt wurde.",
+        "targetText": "Adjectivul românesc „obositor” derivă din verbul 'a obosi', care provine indirect din latină prin influențe slave, de la 'exhaustus' (epuizat)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anstrengen (Verb)",
+      "targetText": "a obosi"
+    },
+    {
+      "sourceText": "anstrengend (Adjektiv)",
+      "targetText": "obositor"
+    },
+    {
+      "sourceText": "ermüdend",
+      "targetText": "obositor"
+    },
+    {
+      "sourceText": "erschöpfend",
+      "targetText": "epuizant"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entspannend",
+      "targetText": "relaxant"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Arbeit war sehr anstrengend.",
+      "targetText": "Munca a fost foarte obositoare."
+    },
+    {
+      "sourceText": "Das Training ist anstrengend, aber gut für die Gesundheit.",
+      "targetText": "Antrenamentul este obositor, dar bun pentru sănătate."
+    },
+    {
+      "sourceText": "Nach dem langen Tag fühlte ich mich anstrengend müde.",
+      "targetText": "După ziua lungă, m-am simțit obosit."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort enthält 'streng' – denk an strenge Anstrengung, die 'obositor' macht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'obositor' kommt von 'a obosi' – denk an 'müde' und 'erschöpft', um die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Im Deutschen bedeutet 'anstrengend' etwas, das Kraft kostet – 'obositor' im Rumänischen klingt ähnlich und hat dieselbe Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du bist so müde, dass du 'obosești' (ermüdest) – daraus wird 'obositor', also anstrengend."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "ms-de-ro-luegen",
+  "parent": "ms-ro-a-minti-4f9c6220@3ac4d8813ecde43658244fe5ddc45f70",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "lügen",
+    "definition": "nicht die Wahrheit sagen",
+    "pronunciation": "/ˈlʏɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Lügen“ stammt vom althochdeutschen „luogen“, was „falsches Reden“ bedeutet, und ist verwandt mit dem mittelhochdeutschen „liüge“.",
+        "targetText": "„Lügen“ provine din germana veche „luogen“, care înseamnă „a spune neadevărul“, fiind legat de germana mijlocie „liüge“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Wird verwendet, um bewusste Unwahrheiten zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a minți",
+    "definition": "a nu spune adevărul",
+    "pronunciation": "/a minˈt͡si/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„A minți“ stammt vom lateinischen „mentiri“, was „lügen“ bedeutet, und hat sich im Rumänischen als Verb für das Nicht-Wahrheit-Sagen etabliert.",
+        "targetText": "„A minți“ provine din latină, din verbul „mentiri“, care înseamnă „a minți“, fiind folosit în limba română pentru a exprima neadevărul."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation (-i). Verwendet für direkte und indirekte Lügen, häufig auch in literarischen Texten."
+  },
+  "senses": [
+    {
+      "gloss": "Schwindel erregen",
+      "explanation": {
+        "sourceText": "Ein Synonym für 'lügen', oft im Kontext von kleinen, harmlosen Unwahrheiten.",
+        "targetText": "Sinonim pentru „a minți“, folosit adesea pentru neadevăruri mici sau inofensive."
+      },
+      "examples": [
+        {
+          "sourceText": "Du schwindelst immer.",
+          "targetText": "Tu îi dai minciuni mereu."
+        }
+      ]
+    },
+    {
+      "gloss": "tapfer sein",
+      "explanation": {
+        "sourceText": "'Wahrheit sagen' - das Gegenteil von lügen.",
+        "targetText": "„A spune adevărul“ – opusul lui „a minți“."
+      },
+      "examples": [
+        {
+          "sourceText": "Sei tapfer und sag die Wahrheit!",
+          "targetText": "Fii curajos și spune adevărul!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Ehrlichkeit",
+      "targetText": "onestitate"
+    },
+    {
+      "sourceText": "Lüge",
+      "targetText": "minciună"
+    },
+    {
+      "sourceText": "Täuschung",
+      "targetText": "înșelăciune"
+    },
+    {
+      "sourceText": "Wahrheit",
+      "targetText": "adevăr"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sagen",
+      "targetText": "a spune"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lüge nicht!",
+      "targetText": "Eu nu mint!"
+    },
+    {
+      "sourceText": "Lügst du mich an?",
+      "targetText": "Minti tu?"
+    },
+    {
+      "sourceText": "Er lügt immer.",
+      "targetText": "El minte mereu."
+    },
+    {
+      "sourceText": "Wir lügen manchmal.",
+      "targetText": "Noi mințim uneori."
+    },
+    {
+      "sourceText": "Lügt ihr oft?",
+      "targetText": "Mințiți voi des?"
+    },
+    {
+      "sourceText": "Sie lügen in der Prüfung.",
+      "targetText": "Ei mint în examen."
+    },
+    {
+      "sourceText": "Ich habe nicht gelogen.",
+      "targetText": "Nu am mințit."
+    },
+    {
+      "sourceText": "Er log jeden Tag.",
+      "targetText": "El mințea în fiecare zi."
+    },
+    {
+      "sourceText": "Ich werde nicht lügen.",
+      "targetText": "Nu voi minți."
+    },
+    {
+      "sourceText": "Ich würde lügen, wenn ich es müsste.",
+      "targetText": "Aș minți dacă ar trebui."
+    },
+    {
+      "sourceText": "Lüge nicht!",
+      "targetText": "Nu minți!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Lügen“ und „a minți“ sind in Bedeutung und Klang ähnlich – merke dir die Verbindung, um sie leichter zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Denke daran, dass „a minți“ oft in moralischen und ethischen Kontexten verwendet wird – das hilft beim Verständnis."
+    },
+    {
+      "lang": "de",
+      "text": "Übe Sätze mit „a minți“ und seinen Konjugationen, um die Verwendung im Alltag zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-flur",
+  "parent": "ms-ro-hol-1fe41991@7f35f370fc5c664fbb3ad4c1f86a78b0",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Flur",
+    "genus": "masculine",
+    "definition": "Ein langer, schmaler Raum in einem Haus, der als Verbindung zwischen anderen Räumen dient, oft ein Gang oder Korridor.",
+    "pronunciation": "/fluːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Flur“ stammt vom mittelhochdeutschen 'vluor' ab, das auf das althochdeutsche 'flur' zurückgeht und ursprünglich 'offenes Feld' bedeutete.",
+        "targetText": "Cuvântul german „Flur” provine din germana mijlocie înaltă 'vluor', derivat din germana veche înaltă 'flur', care inițial însemna 'câmp deschis'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "hol",
+    "genus": "neuter",
+    "definition": "Un spațiu lung și îngust într-o casă, care leagă alte camere, adesea un coridor sau o sală.",
+    "pronunciation": "/hol/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „hol“ stammt vom deutschen 'Hohl' ab, das 'hohl' oder 'Hohlraum' bedeutet, und wurde als Lehnwort übernommen.",
+        "targetText": "Cuvântul românesc „hol” provine din germană, din 'Hohl', care înseamnă 'gol' sau 'spațiu gol', fiind un împrumut."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Gang",
+      "targetText": "coridor"
+    },
+    {
+      "sourceText": "Haus",
+      "targetText": "casă"
+    },
+    {
+      "sourceText": "Tür",
+      "targetText": "ușă"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Flur ist sehr breit.",
+      "targetText": "Holul este foarte lat."
+    },
+    {
+      "sourceText": "Im Flur hängen viele Bilder.",
+      "targetText": "În hol sunt agățate multe poze."
+    },
+    {
+      "sourceText": "Der Flur verbindet die Zimmer.",
+      "targetText": "Holul leagă camerele."
+    },
+    {
+      "sourceText": "Bitte warte im Flur.",
+      "targetText": "Te rog să aștepți în hol."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'hol' klingt wie das deutsche Wort 'hohl' – denk an einen langen, leeren Raum im Haus."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'hol' wurde aus dem Deutschen übernommen, also hilft dir die Ähnlichkeit beim Lernen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'Flur' ist der Gang im Haus, 'hol' ist der rumänische Begriff dafür, beide sind wichtige Verbindungsräume."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du gehst durch den 'hol' (Flur) und siehst viele Türen zu anderen Zimmern."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

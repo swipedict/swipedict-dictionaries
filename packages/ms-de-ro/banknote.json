@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-banknote",
+  "parent": "ms-ro-bancnota-7c69bd2c@9210f5385f84a17161c3db036ba7f921",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Banknote",
+    "genus": "feminine",
+    "definition": "Ein Papiergeldschein, der als Zahlungsmittel dient und von einer Bank ausgegeben wird.",
+    "pronunciation": "/ˈbaŋknote/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Banknote“ setzt sich aus 'Bank' und 'Note' zusammen, wobei 'Note' vom lateinischen 'nota' stammt und 'Zeichen' oder 'Merkmal' bedeutet. Die Bedeutung entwickelte sich im 19. Jahrhundert mit der Einführung von Papiergeld.",
+        "targetText": "Cuvântul german „Banknote” este compus din „Bank” și „Note”, unde „Note” provine din latină 'nota', însemnând 'semn' sau 'marcă'. Sensul s-a dezvoltat în secolul al XIX-lea odată cu introducerea banilor de hârtie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bancnotă",
+    "genus": "feminine",
+    "definition": "O hârtie-monedă emisă de o bancă, folosită ca mijloc de plată.",
+    "pronunciation": "/bankˈnota/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „bancnotă“ stammt vom französischen 'banque' (Bank) und 'note' (Schriftstück), beide letztlich vom lateinischen 'banca' und 'nota' abgeleitet, und bezeichnet einen Geldschein.",
+        "targetText": "Cuvântul românesc „bancnotă” provine din franceza 'banque' (bancă) și 'note' (notă), ambele derivate din latină 'banca' și 'nota', desemnând o hârtie-monedă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bank",
+      "targetText": "bancă"
+    },
+    {
+      "sourceText": "Geldschein",
+      "targetText": "bancnotă"
+    },
+    {
+      "sourceText": "Münze",
+      "targetText": "monedă"
+    },
+    {
+      "sourceText": "Währung",
+      "targetText": "monedă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich habe eine 50-Euro-Banknote in meiner Brieftasche.",
+      "targetText": "Am o bancnotă de 50 de euro în portofel."
+    },
+    {
+      "sourceText": "Banknoten sind leichter zu transportieren als Münzen.",
+      "targetText": "Bancnotele sunt mai ușor de transportat decât monedele."
+    },
+    {
+      "sourceText": "Die Banknoten haben verschiedene Farben und Größen.",
+      "targetText": "Bancnotele au culori și dimensiuni diferite."
+    },
+    {
+      "sourceText": "Man sollte Banknoten auf Fälschungen überprüfen.",
+      "targetText": "Trebuie să verifici bancnotele pentru falsuri."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „bancnotă“ klingt fast wie das deutsche „Banknote“, was dir hilft, die Bedeutung leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort „bancnotă“ verbindet „bancă“ (Bank) und „notă“ (Notiz), also ein 'Bank-Schriftstück' – das hilft dir, die Herkunft zu verstehen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke: Die Endung „-notă“ erinnert an „Notiz“ oder „Note“, was dir hilft, das Wort mit einem schriftlichen Dokument zu assoziieren."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, eine Bank schreibt eine „Note“ (Notiz) auf ein Stück Papier – so entsteht die „bancnotă“ als Geldschein."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

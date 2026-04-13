@@ -1,0 +1,156 @@
+{
+  "id": "ms-de-ro-brechen",
+  "parent": "ms-ro-a-rupe-32407cd5@bb307c4895119e650c1ba888786caf5a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "brechen",
+    "definition": "etwas in zwei oder mehrere Teile zerlegen, indem man es gewaltsam auseinander zieht oder drückt",
+    "pronunciation": "/ˈbʁɛçn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom althochdeutschen „brechōn“, was „zerbrechen“ bedeutet.",
+        "targetText": "Provine din germana veche (althochdeutsch) „brechōn“, care înseamnă „a sparge“ sau „a rupe“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb, beschreibt den Vorgang des Brechens oder Zerstörens von etwas."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a rupe",
+    "definition": "a descompune ceva în două sau mai multe părți prin tragere sau apăsare",
+    "pronunciation": "/a ˈru.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Stammt vom lateinischen „rumpere“, was „brechen“ bedeutet, und ist in vielen romanischen Sprachen ähnlich.",
+        "targetText": "Provine din latinescul „rumpere“, care înseamnă „a rupe“ și este similar în multe limbi romanice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-e). Wird oft verwendet, um physische und metaphorische Brechungen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "brechen (physikalisch)",
+      "explanation": {
+        "sourceText": "Das bedeutet, etwas physisch zu zerbrechen.",
+        "targetText": "A sparge sau rupe ceva fizic."
+      },
+      "examples": [
+        {
+          "sourceText": "Das Holz bricht leicht.",
+          "targetText": "Lemnul se rupe ușor."
+        }
+      ]
+    },
+    {
+      "gloss": "brechen (Regeln)",
+      "explanation": {
+        "sourceText": "Das Brechen von Regeln oder Vereinbarungen.",
+        "targetText": "Încălcarea regulilor sau acordurilor."
+      },
+      "examples": [
+        {
+          "sourceText": "Er bricht die Gesetze.",
+          "targetText": "El încalcă legile."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kraft",
+      "targetText": "forță"
+    },
+    {
+      "sourceText": "Schaden",
+      "targetText": "daună"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "Zerbrechen",
+      "targetText": "a sparge"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "reparieren",
+      "targetText": "a repara"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich breche die Stange.",
+      "targetText": "Eu rup bara."
+    },
+    {
+      "sourceText": "Brichst du den Zweig?",
+      "targetText": "Rupi craca?"
+    },
+    {
+      "sourceText": "Der Wind bricht den Ast.",
+      "targetText": "Vântul rupe ramura."
+    },
+    {
+      "sourceText": "Wir brechen die Regeln.",
+      "targetText": "Noi rupem regulile."
+    },
+    {
+      "sourceText": "Bricht ihr die Verordnung?",
+      "targetText": "Rupeți regulamentul?"
+    },
+    {
+      "sourceText": "Sie brechen die Stille.",
+      "targetText": "Ei rup tăcerea."
+    },
+    {
+      "sourceText": "Ich habe das Brot gebrochen.",
+      "targetText": "Am rupt pâinea."
+    },
+    {
+      "sourceText": "Er brach das Holz.",
+      "targetText": "El rupea lemnul."
+    },
+    {
+      "sourceText": "Wir werden das Glas brechen.",
+      "targetText": "Noi vom rupe paharul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a rupe“ klingt wie „ruptură“ (Bruch) – stelle dir vor, wie etwas zerbricht, um das Verb zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung „-e“ in „a rupe“ hilft dir, die regelmäßige Konjugation zu erkennen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „brechen“ mit „rupe“ durch das Bild eines zerbrochenen Astes oder zerbrochenen Brotes."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

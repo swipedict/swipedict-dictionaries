@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-erneuern",
+  "parent": "ms-ro-a-reinnoi-aff60dc4@30a3937c6f6b7bf3ddb8196b9b8e5e3b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erneuern",
+    "definition": "etwas neu machen oder wiederherstellen",
+    "pronunciation": "/ɛʁˈnɔʏ.ɐn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „erneuern“ stammt vom mittelhochdeutschen „erneuern“ ab, zusammengesetzt aus „er-“ und „neu“.",
+        "targetText": "Verbul german „erneuern“ provine din germana mijlocie, format din prefixul „er-“ și „neu“ (nou)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Häufig in verschiedenen Kontexten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a reînnoi",
+    "definition": "a face ceva nou sau a restaura",
+    "pronunciation": "/a re̩ɨnˈnoj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a reînnoi“ stammt vom lateinischen „renovare“ ab, was „erneuern, wiederherstellen“ bedeutet.",
+        "targetText": "Verbul românesc „a reînnoi“ provine din latină, de la „renovare“, care înseamnă „a reînnoi, a restaura“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Häufig verwendet, um Dinge zu aktualisieren oder zu ersetzen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Erneuerung",
+      "targetText": "reînnoire"
+    },
+    {
+      "sourceText": "Modernisierung",
+      "targetText": "modernizare"
+    },
+    {
+      "sourceText": "Restaurierung",
+      "targetText": "restaurare"
+    },
+    {
+      "sourceText": "Verbesserung",
+      "targetText": "îmbunătățire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verfallen",
+      "targetText": "deteriora"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erneuere meine Mitgliedschaft.",
+      "targetText": "Eu reînnoiesc asocierea mea."
+    },
+    {
+      "sourceText": "Ich habe mein Abo erneuert.",
+      "targetText": "Am reînnoit abonamentul meu."
+    },
+    {
+      "sourceText": "Ich werde das System erneuern.",
+      "targetText": "Voi reînnoi sistemul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „reînnoi“ erinnert an das deutsche Wort „rein“ – stelle dir vor, du machst etwas wieder sauber und neu."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die verschiedenen Formen wie „reînnoiesc“ und „reînnoire“, um die Flexibilität des Verbs zu verstehen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

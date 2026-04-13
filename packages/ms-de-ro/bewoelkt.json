@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-bewoelkt",
+  "parent": "ms-ro-innorat-c5b1119a@84d9e7539a6075a3a3af51b84cadac72",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bewölkt",
+    "definition": "Mit Wolken bedeckt, meist bezogen auf den Himmel.",
+    "pronunciation": "/bəˈvœlk.t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „bewölkt“ leitet sich von 'Wolke' ab, das vom mittelhochdeutschen 'wolke' stammt, mit dem Präfix 'be-' zur Beschreibung eines Zustands.",
+        "targetText": "Adjectivul german „bewölkt” derivă din 'Wolke', care provine din germana mijlocie 'wolke', cu prefixul 'be-' pentru a descrie o stare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "înnorat",
+    "definition": "Cer acoperit cu nori, fără soare vizibil.",
+    "pronunciation": "/ɨnnoˈrat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „înnorat“ stammt vom lateinischen 'nubes' (Wolke) ab, über die Entwicklung zum rumänischen 'nor' für Wolke, mit dem Präfix 'în-' zur Bildung eines Adjektivs.",
+        "targetText": "Cuvântul românesc „înnorat” derivă din latinescul 'nubes' (nor), prin evoluția la 'nor' în română, cu prefixul 'în-' pentru a forma adjectivul."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Himmel",
+      "targetText": "cer"
+    },
+    {
+      "sourceText": "Regen",
+      "targetText": "ploaie"
+    },
+    {
+      "sourceText": "Sonne",
+      "targetText": "soare"
+    },
+    {
+      "sourceText": "Wolke",
+      "targetText": "nor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sonnig",
+      "targetText": "senin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Heute ist es bewölkt und es könnte regnen.",
+      "targetText": "Astăzi este înnorat și ar putea ploua."
+    },
+    {
+      "sourceText": "Der Himmel ist bewölkt, aber es ist noch warm.",
+      "targetText": "Cerul este înnorat, dar încă este cald."
+    },
+    {
+      "sourceText": "Morgen wird es bewölkt sein mit vereinzelten Schauern.",
+      "targetText": "Mâine va fi înnorat cu averse izolate."
+    },
+    {
+      "sourceText": "Bewölkte Tage sind oft kühler als sonnige.",
+      "targetText": "Zilele înnorate sunt adesea mai răcoroase decât cele senine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche 'bewölkt' und das rumänische 'înnorat' beschreiben beide einen Himmel, der von Wolken bedeckt ist – 'be-' und 'în-' zeigen den Zustand an."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'înnorat' beginnt mit 'în-', das oft eine Veränderung oder Zustand anzeigt – hier: der Himmel ist in einem Zustand von Wolken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'nor' bedeutet Wolke, und 'înnorat' beschreibt, dass der Himmel voller Wolken ist."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie Wolken den Himmel 'einhüllen' – das hilft dir, 'înnorat' zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

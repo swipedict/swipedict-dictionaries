@@ -1,0 +1,128 @@
+{
+  "id": "ms-de-ro-handeln",
+  "parent": "ms-ro-a-actiona-24985c5a@50348ddc2894f315c9b8230e386680b6",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "handeln",
+    "definition": "etwas tun oder unternehmen, um ein bestimmtes Ziel zu erreichen",
+    "pronunciation": "/ˈhant.l̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „handeln“ stammt vom mittelhochdeutschen „handeln“ ab, das auf das althochdeutsche „handan“ zurückgeht und „mit den Händen tätig sein“ bedeutet.",
+        "targetText": "Verbul german „handeln“ provine din mijlocul german „handeln“, derivat din vechiul german „handan“, care înseamnă „a acționa cu mâinile“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird oft in wirtschaftlichen oder rechtlichen Kontexten verwendet, um Transaktionen oder Geschäfte zu beschreiben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acționa",
+    "definition": "a face ceva sau a întreprinde o acțiune pentru a atinge un anumit scop",
+    "pronunciation": "/a ak.t͡sioˈna/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a acționa“ leitet sich vom lateinischen „actio“ ab, was „Handlung, Aktion“ bedeutet und die aktive Teilnahme an einem Prozess beschreibt.",
+        "targetText": "Verbul românesc „a acționa“ provine din latină „actio“, care înseamnă „acțiune“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird oft in Geschäfts-, Rechts- oder Verhandlungskontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Handlung",
+      "explanation": {
+        "sourceText": "Bezeichnet die Ausführung von Tätigkeiten.",
+        "targetText": "Se referă la efectuarea unei acțiuni."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Handlung war notwendig.",
+          "targetText": "Acțiunea a fost necesară."
+        }
+      ]
+    },
+    {
+      "gloss": "Transaktion",
+      "explanation": {
+        "sourceText": "Bezieht sich auf einen Handels- oder Geschäftsprozess.",
+        "targetText": "Se referă la un proces comercial sau tranzacție."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Transaktion wurde erfolgreich abgeschlossen.",
+          "targetText": "Transacția a fost finalizată cu succes."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aktion",
+      "targetText": "acțiune"
+    },
+    {
+      "sourceText": "Entscheidung",
+      "targetText": "decizie"
+    },
+    {
+      "sourceText": "Reaktion",
+      "targetText": "reacție"
+    },
+    {
+      "sourceText": "Verhalten",
+      "targetText": "comportament"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehenbleiben",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich handle immer fair.",
+      "targetText": "Acționez mereu corect."
+    },
+    {
+      "sourceText": "Ihr habt gut gehandelt!",
+      "targetText": "Ați acționat bine!"
+    },
+    {
+      "sourceText": "Ich werde in Zukunft anders handeln.",
+      "targetText": "Voi acționa diferit în viitor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Erinnere dich: „handeln“ bedeutet nicht nur „Geschäfte machen“, sondern auch „etwas unternehmen“. Sieh dich selbst als aktive Person, die „acționează“!"
+    },
+    {
+      "lang": "de",
+      "text": "Übe Dialoge mit „a acționa“, z.B. über Entscheidungen oder Handlungen – so verankerst du das Wort im Alltag."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ms-de-ro-herstellen",
+  "parent": "ms-ro-a-produce-70f1183e@c28bfda6816d40c0996f73d717b48f37",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "herstellen",
+    "definition": "etwas produzieren oder schaffen",
+    "pronunciation": "/ˈhɛʁʃtɛlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Zusammensetzung aus „her“ (hin) und „stellen“ (setzen, machen), was so viel wie „produzieren“ bedeutet.",
+        "targetText": "Das deutsche Verb „herstellen“ setzt sich aus „her“ (hin) und „stellen“ (setzen) zusammen und bedeutet „etwas produzieren“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft verwendet in der Industrie und Produktion."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a produce",
+    "definition": "a produce sau a crea ceva",
+    "pronunciation": "/a proˈdu.t͡ʃe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „producere“, was „voranführen“ oder „herstellen“ bedeutet. Setzt sich zusammen aus „pro“ (vor) und „ducere“ (führen).",
+        "targetText": "Verbul românesc „a produce“ provine din latină, de la „producere“, format din „pro“ (înainte) și „ducere“ (a conduce)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 3. Konjugation (-e). Wird häufig in wirtschaftlichen und industriellen Kontexten verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "kreieren",
+      "explanation": {
+        "sourceText": "Ein häufigerer Kontext bedeutet, etwas neu zu schaffen.",
+        "targetText": "Se referă și la crearea a ceva nou."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich kreiere neue Designs.",
+          "targetText": "Creez designuri noi."
+        }
+      ]
+    },
+    {
+      "gloss": "produzieren",
+      "explanation": {
+        "sourceText": "Das Wort 'a produce' wird auch in dem Kontext verwendet, etwas in großen Mengen herzustellen.",
+        "targetText": "„A produce“ se folosește și pentru a descrie fabricarea în cantități mari."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Fabrik produziert Autos.",
+          "targetText": "Fabrica produce mașini."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Fabrik",
+      "targetText": "fabrică"
+    },
+    {
+      "sourceText": "Handwerk",
+      "targetText": "meșteșug"
+    },
+    {
+      "sourceText": "Produkt",
+      "targetText": "produs"
+    },
+    {
+      "sourceText": "Produktion",
+      "targetText": "producție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zerstören",
+      "targetText": "a distruge"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stelle das Produkt her.",
+      "targetText": "Eu produc produsul."
+    },
+    {
+      "sourceText": "Ich habe das Auto hergestellt.",
+      "targetText": "Am produs mașina."
+    },
+    {
+      "sourceText": "Ich werde Möbel herstellen.",
+      "targetText": "Voi produce mobilier."
+    },
+    {
+      "sourceText": "Ich würde es herstellen, wenn ich die Materialien hätte.",
+      "targetText": "L-aș produce dacă aș avea materialele."
+    },
+    {
+      "sourceText": "Stelle das Produkt her!",
+      "targetText": "Produ-l!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „a produce“ klingt wie „Produkt“ – verbinde das Wort mit Herstellung und Produktion."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir „produs“ (Produkt) als verwandtes Substantiv zu „a produce“ – so bleibt die Bedeutung klar."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

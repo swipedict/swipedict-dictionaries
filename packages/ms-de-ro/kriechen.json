@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-kriechen",
+  "parent": "ms-ro-a-se-tari-049f7f4a@dc1cb6b09a23124b9b29bee6b832b3d5",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kriechen",
+    "definition": "sich auf dem Bauch oder auf allen Vieren fortbewegen",
+    "pronunciation": "/ˈkʁiːçn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom mittelhochdeutschen „kriechen“, verwandt mit dem altenglischen „crīcan“, bedeutet es sich langsam und niedrig bewegen.",
+        "targetText": "Vom mittelhochdeutschen „kriechen“, verwandt mit dem altenglischen „crīcan“, bedeutet es sich langsam und niedrig bewegen."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb beschreibt eine Fortbewegung auf Händen und Knien oder mit einer kriechenden Bewegung, oft bei kleinen Kindern oder Tieren beobachtet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se târî",
+    "definition": "a se mișca pe burtă sau în toate cele patru labe",
+    "pronunciation": "/a se təˈri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „tendere“ (dehnen) abgeleitet, beschreibt es die langsame Bewegung in horizontaler Position.",
+        "targetText": "Vom lateinischen „tendere“ (dehnen) abgeleitet, beschreibt es die langsame Bewegung in horizontaler Position."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "In der rumänischen Sprache wird es oft verwendet, um das Krabbeln kleiner Kinder zu beschreiben."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Boden",
+      "targetText": "pământ"
+    },
+    {
+      "sourceText": "Hände",
+      "targetText": "mâini"
+    },
+    {
+      "sourceText": "Krabbeln",
+      "targetText": "a se târî"
+    },
+    {
+      "sourceText": "Tier",
+      "targetText": "animal"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "laufen",
+      "targetText": "a alerga"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich krieche über den Boden.",
+      "targetText": "Mă târâiesc pe podea."
+    },
+    {
+      "sourceText": "Das Baby krabbelte langsam.",
+      "targetText": "Bebe se târa încet."
+    },
+    {
+      "sourceText": "Ich werde zu dir kriechen.",
+      "targetText": "Mă voi târî la tine."
+    },
+    {
+      "sourceText": "Krieche schneller!",
+      "targetText": "Târește-te mai repede!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „târ“ in „târî“ klingt ähnlich wie „Tarnen“ – stell dir vor, du kriechst leise und vorsichtig."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a se târî“ mit dem Bild eines Babys, das sich auf dem Bauch vorwärtsbewegt – so merkst du dir die Bedeutung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

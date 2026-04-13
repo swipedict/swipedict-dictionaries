@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-zweck",
+  "parent": "ms-ro-scop-a03fa343@6d1aee0484d9f180a276ffcf6b315c2f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Zweck",
+    "genus": "masculine",
+    "definition": "Der Zweck ist das Ziel oder der Grund für eine Handlung oder Sache.",
+    "pronunciation": "/tsvɛk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort ‚Zweck‘ stammt vom mittelhochdeutschen ‚zwec‘ ab, das eine Ableitung von ‚zwecken‘ (zielen, richten) ist und ursprünglich ‚Ziel‘ oder ‚Absicht‘ bedeutete.",
+        "targetText": "Cuvântul german „Zweck“ provine din germana mijlocie „zwec“, derivat din verbul „zwecken“ care însemna „a ținti“ sau „a direcționa“, inițial însemnând „scop“ sau „intenție“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scop",
+    "genus": "neuter",
+    "definition": "Țelul sau motivul pentru o acțiune sau un lucru.",
+    "pronunciation": "/skop/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort ‚scop‘ stammt vom lateinischen ‚scopus‘ ab, das ‚Ziel‘ oder ‚Absicht‘ bedeutet und aus dem Griechischen ‚skopos‘ (Beobachter, Ziel) entlehnt wurde.",
+        "targetText": "Cuvântul românesc „scop“ provine din latină, din „scopus“, care înseamnă „țel“ sau „intenție“, împrumutat din grecescul „skopos“ („observator“, „țintă“)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Absicht",
+      "targetText": "intenție"
+    },
+    {
+      "sourceText": "Ergebnis",
+      "targetText": "rezultat"
+    },
+    {
+      "sourceText": "Motivation",
+      "targetText": "motivație"
+    },
+    {
+      "sourceText": "Ziel",
+      "targetText": "țintă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Zwecklosigkeit",
+      "targetText": "lipsă de scop"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Zweck dieses Projekts ist die Verbesserung der Umwelt.",
+      "targetText": "Scopul acestui proiect este îmbunătățirea mediului."
+    },
+    {
+      "sourceText": "Jede Handlung hat einen Zweck.",
+      "targetText": "Fiecare acțiune are un scop."
+    },
+    {
+      "sourceText": "Der Zweck heiligt die Mittel.",
+      "targetText": "Scopul scuză mijloacele."
+    },
+    {
+      "sourceText": "Was ist der Zweck deiner Reise?",
+      "targetText": "Care este scopul călătoriei tale?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische ‚scop‘ klingt ähnlich wie das deutsche ‚Zweck‘, beide bedeuten Ziel oder Absicht."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort ‚Zweck‘ kommt von ‚zwecken‘ (zielen) – also immer an ein Ziel denken, genau wie ‚scop‘."
+    },
+    {
+      "lang": "de",
+      "text": "Erinnere dich an das griechische ‚skopos‘ (Beobachter, Ziel), das auch in ‚scop‘ steckt."
+    },
+    {
+      "lang": "de",
+      "text": "Wenn du ‚scop‘ hörst, denk an ‚Scope‘ im Englischen – ein Ziel oder Bereich, das hilft beim Merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ms-de-ro-lassen",
+  "parent": "ms-ro-a-lasa-febadf41@8a8b73d3dbedd718cd5f405c6524f35f",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "lassen",
+    "definition": "jemandem die Erlaubnis geben, etwas zu tun; etwas in einem bestimmten Zustand belassen",
+    "pronunciation": "/ˈlasən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „lassen“ stammt vom althochdeutschen „lāzan“, was „lassen, zulassen“ bedeutet, und ist verwandt mit mittelhochdeutschen und mittelniederdeutschen Formen.",
+        "targetText": "Verbul „lassen“ provine din germana veche „lāzan“, care înseamnă „a lăsa, a permite“, fiind înrudit cu forme din germana mijlocie și de jos."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig verwendet, um das Erlauben oder Loslassen zu beschreiben. Es hat auch eine Vielzahl von speziellen Bedeutungen in verschiedenen Kontexten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lăsa",
+    "definition": "a permite cuiva să facă ceva; a lăsa ceva într-o anumită stare",
+    "pronunciation": "/ləˈsa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a lăsa“ stammt vom lateinischen „lassare“, was „verlassen, loslassen“ bedeutet, und ist verwandt mit „slăbire“ (Entspannung).",
+        "targetText": "Verbul românesc „a lăsa“ provine din latină, de la „lassare“, care înseamnă „a părăsi, a lăsa“, fiind legat de „slăbire“ (relaxare)."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird oft verwendet, um das Lassen von etwas zu beschreiben, sei es Erlaubnis oder tatsächliches Loslassen von Gegenständen."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "aufgeben",
+      "targetText": "a renunța"
+    },
+    {
+      "sourceText": "Erlaubnis",
+      "targetText": "permisiune"
+    },
+    {
+      "sourceText": "lassen",
+      "targetText": "a permite"
+    },
+    {
+      "sourceText": "zwingen",
+      "targetText": "a obliga"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nehmen",
+      "targetText": "a lua"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich lasse das Fenster offen.",
+      "targetText": "Las fereastra deschisă."
+    },
+    {
+      "sourceText": "Ich habe die Tür offen gelassen.",
+      "targetText": "Am lăsat ușa deschisă."
+    },
+    {
+      "sourceText": "Ich werde das Buch hier lassen.",
+      "targetText": "Voi lăsa cartea aici."
+    },
+    {
+      "sourceText": "Ich würde das Auto stehen lassen, wenn es regnet.",
+      "targetText": "Aș lăsa mașina acolo dacă plouă."
+    },
+    {
+      "sourceText": "Indem ich die Tasche lasse, gehe ich nach Hause.",
+      "targetText": "Lăsând geanta, plec acasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„A lăsa“ klingt sehr ähnlich wie „lassen“ – das macht es dir leicht, die Bedeutung zu merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Nur zwei Buchstaben ändern sich (von „l“ zu „ă“) und schon hast du ein neues Wort in einer anderen Sprache!"
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du „lässt“ etwas los, um jemandem zu helfen – so merkst du dir „a lăsa“ spielerisch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

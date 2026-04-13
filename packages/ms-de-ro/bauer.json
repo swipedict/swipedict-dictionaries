@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-bauer",
+  "parent": "ms-ro-taran-423e54e7@41152b49cd1a2eb8b5b50f9f6341bbfa",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bauer",
+    "genus": "masculine",
+    "definition": "Person, die Landwirtschaft betreibt, insbesondere Ackerbau und Viehzucht.",
+    "pronunciation": "/ˈbaʊ̯ɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „Bauer“ stammt vom althochdeutschen 'gibūr' ab, das 'Hausgenosse' oder 'Bauer' bedeutete, und ist verwandt mit dem lateinischen 'colonus' (Siedler, Bauer).",
+        "targetText": "Cuvântul german „Bauer“ provine din germana veche înaltă 'gibūr', însemnând 'locuitor al casei' sau 'țăran', și este înrudit cu latinescul 'colonus' (coloni, țăran)."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "țăran",
+    "genus": "masculine",
+    "definition": "Persoană care se ocupă cu agricultura și creșterea animalelor.",
+    "pronunciation": "/t͡səˈran/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Cuvântul românesc „țăran“ provine din latinescul 'tārrānus', care însemna 'locuitor al ținutului, țăran'.",
+        "targetText": "Das rumänische Wort „țăran“ stammt vom lateinischen 'tārrānus' ab, was 'Bewohner des Landes, Bauer' bedeutete."
+      },
+      "source": "Dicționare etimologice românești"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bauernhof",
+      "targetText": "fermă"
+    },
+    {
+      "sourceText": "Ernte",
+      "targetText": "recoltă"
+    },
+    {
+      "sourceText": "Feld",
+      "targetText": "câmp"
+    },
+    {
+      "sourceText": "Landwirt",
+      "targetText": "agricultor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Städter",
+      "targetText": "orașean"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Bauer arbeitet auf dem Feld.",
+      "targetText": "Țăranul lucrează pe câmp."
+    },
+    {
+      "sourceText": "Viele Bauern leben vom Ackerbau.",
+      "targetText": "Mulți țărani trăiesc din agricultură."
+    },
+    {
+      "sourceText": "Der Bauer hat viele Tiere auf seinem Hof.",
+      "targetText": "Țăranul are multe animale la ferma sa."
+    },
+    {
+      "sourceText": "Früher waren die meisten Menschen Bauern.",
+      "targetText": "În trecut, majoritatea oamenilor erau țărani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Bauer' und das rumänische 'țăran' haben beide eine lange Geschichte, die bis in die Antike zurückreicht."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'țăran' klingt wie 'Zaran' – stell dir einen Bauern namens Zaran vor, der auf dem Feld arbeitet."
+    },
+    {
+      "lang": "de",
+      "text": "Der lateinische Ursprung 'tārrānus' erinnert an 'terra' (Erde), was Bauern mit dem Land verbindet."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'țăran' eine wichtige Rolle in der rumänischen Kultur und Geschichte spielt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

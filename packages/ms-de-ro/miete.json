@@ -1,0 +1,117 @@
+{
+  "id": "ms-de-ro-miete",
+  "parent": "ms-ro-chirie-0e5ca155@c6c325d78d8fe5793acee55d7820e311",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Miete",
+    "genus": "feminine",
+    "definition": "Der Betrag, den man regelmäßig für die Nutzung einer Wohnung oder eines Hauses bezahlt.",
+    "pronunciation": "/ˈmiːtə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Miete“ stammt vom althochdeutschen 'mīza' ab, das auf das mittellateinische 'mensa' (Tisch, Mahlzeit) zurückgeht und ursprünglich die Bezahlung für Unterkunft und Verpflegung bezeichnete.",
+        "targetText": "Cuvântul german „Miete” provine din germana veche înaltă 'mīza', care la rândul său derivă din latinescul medieval 'mensa' (masă, hrană) și desemna inițial plata pentru cazare și masă."
+      },
+      "source": "Etymologische Wörterbücher, Linguistische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "chirie",
+    "genus": "feminine",
+    "definition": "Suma de bani plătită periodic pentru folosirea unei locuințe sau a unui spațiu.",
+    "pronunciation": "/kiˈri.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „chirie“ stammt vom lateinischen 'caritas' ab, das ursprünglich 'Wert, Preis' bedeutete und im Mittelalter die Bedeutung 'Miete' annahm.",
+        "targetText": "Cuvântul românesc „chirie” provine din latinescul 'caritas', care inițial însemna 'valoare, preț' și a căpătat în Evul Mediu sensul de 'chirie'."
+      },
+      "source": "Dicționare etimologice, studii lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mieter",
+      "targetText": "chiriaș"
+    },
+    {
+      "sourceText": "Mietvertrag",
+      "targetText": "contract de închiriere"
+    },
+    {
+      "sourceText": "Vermieter",
+      "targetText": "proprietar"
+    },
+    {
+      "sourceText": "Wohnung",
+      "targetText": "locuință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Eigentum",
+      "targetText": "proprietate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Miete für die Wohnung ist jeden Monat fällig.",
+      "targetText": "Chiria pentru apartament se plătește în fiecare lună."
+    },
+    {
+      "sourceText": "Er zahlt die Miete pünktlich.",
+      "targetText": "El plătește chiria la timp."
+    },
+    {
+      "sourceText": "Die Miete wurde erhöht.",
+      "targetText": "Chiria a fost mărită."
+    },
+    {
+      "sourceText": "Im Mietvertrag stehen alle Bedingungen.",
+      "targetText": "În contractul de închiriere sunt toate condițiile."
+    },
+    {
+      "sourceText": "Viele Menschen suchen eine günstige Miete.",
+      "targetText": "Mulți oameni caută o chirie accesibilă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'chirie' klingt ähnlich wie 'Kurier' – stell dir vor, ein Kurier bringt jeden Monat die Mietzahlung."
+    },
+    {
+      "lang": "de",
+      "text": "Die Endung '-ie' im Rumänischen zeigt oft abstrakte Substantive an, wie bei 'chirie' – so erkennst du das Wort leicht als Nomen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'chirie' vom lateinischen 'caritas' stammt, das 'Wert' bedeutet – Miete ist der Wert, den du für eine Wohnung zahlst."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'Miete' mit 'chirie', indem du dir vorstellst, wie du jeden Monat 'chiri(e)' (ähnlich wie 'schickst') Geld an den Vermieter schickst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

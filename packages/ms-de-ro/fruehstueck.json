@@ -1,0 +1,113 @@
+{
+  "id": "ms-de-ro-fruehstueck",
+  "parent": "ms-ro-micul-dejun-ca991dfd@6fd5aed3fe10a68bb96426f8f3258c3e",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Frühstück",
+    "genus": "neuter",
+    "definition": "Die erste Mahlzeit des Tages, die morgens eingenommen wird.",
+    "pronunciation": "/ˈfʁyːʃtʏk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Frühstück“ setzt sich aus den Teilen 'früh' und 'Stück' zusammen und bezeichnet ursprünglich ein frühes Stück Essen am Morgen. Es entstand im Mittelhochdeutschen.",
+        "targetText": "Cuvântul german „Frühstück” provine din combinarea cuvintelor 'früh' (devreme) și 'Stück' (bucată), desemnând prima masă luată dimineața, cu origini în germana mijlocie."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "micul dejun",
+    "genus": "neuter",
+    "definition": "Prima masă a zilei, consumată dimineața.",
+    "pronunciation": "/ˈmikut deˈʒun/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Ausdruck „micul dejun“ bedeutet wörtlich 'das kleine Frühstück' und stammt aus dem Lateinischen, wobei 'mic' vom lateinischen 'micus' (klein) und 'dejun' vom lateinischen 'ieiunium' (Fasten) abgeleitet ist, was die erste Mahlzeit nach dem Fasten bezeichnet.",
+        "targetText": "Expresia românească „micul dejun” înseamnă literal 'micul dejun' și derivă din latină, unde 'mic' provine din 'micus' (mic) iar 'dejun' din 'ieiunium' (post), indicând prima masă după post."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Abendessen",
+      "targetText": "cina"
+    },
+    {
+      "sourceText": "Brot",
+      "targetText": "pâine"
+    },
+    {
+      "sourceText": "Mahlzeit",
+      "targetText": "masă"
+    },
+    {
+      "sourceText": "Mittagessen",
+      "targetText": "prânz"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Abendessen",
+      "targetText": "cina"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich frühstücke jeden Morgen um 7 Uhr.",
+      "targetText": "Eu iau micul dejun în fiecare dimineață la ora 7."
+    },
+    {
+      "sourceText": "Zum Frühstück esse ich Brot mit Marmelade.",
+      "targetText": "La micul dejun mănânc pâine cu gem."
+    },
+    {
+      "sourceText": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+      "targetText": "Micul dejun este cea mai importantă masă a zilei."
+    },
+    {
+      "sourceText": "Wir treffen uns zum Frühstück im Café.",
+      "targetText": "Ne întâlnim la micul dejun la cafenea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'micul dejun' klingt wie 'mik-ul de-jun' – stell dir vor, du isst ein 'kleines' (mic) Frühstück nach dem 'Fasten' (dejun)."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das Wort 'früh' für 'früh am Tag' und 'Stück' als 'ein Stück Essen' – so merkst du dir 'Frühstück' als die erste Mahlzeit."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du hast einen kleinen (mic) 'Dschungel' (dejun) voller leckerer Frühstücksspeisen – so merkst du dir 'micul dejun'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'dejun' mit dem lateinischen 'ieiunium' (Fasten), denn das Frühstück bricht das nächtliche Fasten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

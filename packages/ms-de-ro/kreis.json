@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-kreis",
+  "parent": "ms-ro-cerc-8f79a5ac@7c8a44846daed78820dc6f5c82670eba",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kreis",
+    "genus": "masculine",
+    "definition": "Eine geometrische Figur, die alle Punkte umfasst, die von einem Mittelpunkt den gleichen Abstand haben.",
+    "pronunciation": "/kʁaɪ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Kreis“ stammt vom althochdeutschen 'kreis' ab, das auf das lateinische 'circus' zurückgeht, welches 'Ring' oder 'Zirkus' bedeutet.",
+        "targetText": "Cuvântul german „Kreis” provine din germana veche înaltă 'kreis', care la rândul său derivă din latină 'circus', însemnând 'inel' sau 'circ'."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cerc",
+    "genus": "neuter",
+    "definition": "O figură geometrică care cuprinde toate punctele aflate la aceeași distanță de un punct central.",
+    "pronunciation": "/tʃerk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „cerc“ stammt vom lateinischen 'circus' ab, das ursprünglich 'Ring' oder 'Zirkus' bedeutete und im Lateinischen für einen Rundplatz stand.",
+        "targetText": "Cuvântul românesc „cerc” provine din latină 'circus', care inițial însemna 'inel' sau 'circ', referindu-se la un spațiu circular."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Durchmesser",
+      "targetText": "diametru"
+    },
+    {
+      "sourceText": "Kreisfläche",
+      "targetText": "aria cercului"
+    },
+    {
+      "sourceText": "Radius",
+      "targetText": "raza"
+    },
+    {
+      "sourceText": "Umfang",
+      "targetText": "circumferință"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Kreis hat einen Radius von fünf Zentimetern.",
+      "targetText": "Cercul are o rază de cinci centimetri."
+    },
+    {
+      "sourceText": "Wir zeichnen einen Kreis auf das Papier.",
+      "targetText": "Desenăm un cerc pe hârtie."
+    },
+    {
+      "sourceText": "Der Umfang des Kreises beträgt 31,4 Zentimeter.",
+      "targetText": "Circumferința cercului este de 31,4 centimetri."
+    },
+    {
+      "sourceText": "Ein Kreis ist eine perfekte runde Form.",
+      "targetText": "Un cerc este o formă perfect rotundă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche Wort 'Kreis' und das rumänische 'cerc' teilen beide die gleiche lateinische Wurzel 'circus', was dir die Verbindung erleichtert."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort 'cerc' klingt ähnlich wie das englische Wort 'circle', was dir hilft, die Bedeutung zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'cerc' endet auf -erc, ähnlich wie 'Kreis' mit 'K' beginnt – beide beschreiben eine runde Form."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir einen 'Zirkus' vor, der im Lateinischen 'circus' heißt – daraus entstand das Wort 'cerc' für einen Kreis."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

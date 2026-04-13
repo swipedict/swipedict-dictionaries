@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-klagen",
+  "parent": "ms-ro-a-se-plange-55a30334@5a80a05958d5e71babd42af3342c0ebb",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "AI",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "klagen",
+    "definition": "sich über etwas beschweren oder unzufrieden sein",
+    "pronunciation": "/ˈklaːɡn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort „klagen“ stammt aus dem mittelhochdeutschen „klagen“ und dem althochdeutschen „chlagen“ oder „klahan“, was „jammen“, „weinen“ oder „jammern“ bedeutet.",
+        "targetText": "Das deutsche Verb „klagen“ stammt vom mittelhochdeutschen „klagen“ ab, das mit althochdeutschen Wörtern für „weinen“ und „jammern“ verwandt ist."
+      },
+      "source": "Etymologisches Wörterbuch des Deutschen"
+    },
+    "additional": "Regelmäßiges Verb. Es beschreibt das ausdrückliche Äußern von Beschwerden oder Traurigkeit, oft auch über rechtliche Themen. In der Alltagssprache wird das Wort häufig gebraucht, um Unzufriedenheit auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se plânge",
+    "definition": "a se arăta nemulțumit sau a-și exprima o nemulțumire",
+    "pronunciation": "/a se ˈplɨŋʲe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „a se plânge“ stammt vom lateinischen „plangere“, was „klagen, weinen“ bedeutet, und ist verwandt mit dem französischen „plaint“. Diese Wörter zeigen eine emotionale Verbindung zur Traurigkeit und Klage.",
+        "targetText": "Verbul românesc „a se plânge“ provine din latină „plangere“ („a bate, a plânge“), înrudit cu francezul „plaint“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 2. Konjugation (-e). Wird genutzt, um sowohl tatsächliche Klagen als auch allgemeine Unzufriedenheit auszudrücken, und wird in häufigen alltäglichen Konversation verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Jammern",
+      "explanation": {
+        "sourceText": "Wird auch zum Weinen oder Jammern verwendet.",
+        "targetText": "Folosit și pentru a exprima plângeri sau jelanie."
+      },
+      "examples": [
+        {
+          "sourceText": "Er kann nur jammern.",
+          "targetText": "El poate doar să se plângă."
+        }
+      ]
+    },
+    {
+      "gloss": "Klage (Rechtsangelegenheit)",
+      "explanation": {
+        "sourceText": "Für rechtliche Beschwerden oder Klagen vor Gericht.",
+        "targetText": "Folosit pentru plângeri legale sau reclamații în instanță."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe Klage eingereicht.",
+          "targetText": "Am introdus o plângere."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Beschwerde",
+      "targetText": "plângere"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Lösung",
+      "targetText": "soluție"
+    },
+    {
+      "sourceText": "Unzufriedenheit",
+      "targetText": "nemulțumire"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "freuen",
+      "targetText": "a se bucura"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich klage über die Hitze.",
+      "targetText": "Eu mă plâng de căldură."
+    },
+    {
+      "sourceText": "Ich habe über meinen Schmerz geklagt.",
+      "targetText": "M-am plâns de durerea mea."
+    },
+    {
+      "sourceText": "Ich werde morgen über die Situation klagen.",
+      "targetText": "Mă voi plânge despre situație mâine."
+    },
+    {
+      "sourceText": "Klage nicht!",
+      "targetText": "Nu te plânge!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Übe „Mă plâng“ (Ich klage), um dich an die Verwendung bei Beschwerden zu erinnern."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „a se plânge“ mit „plângere“ (Beschwerde) – wenn du traurig bist, kannst du dich so ausdrücken!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

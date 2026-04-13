@@ -1,0 +1,116 @@
+{
+  "id": "ms-de-ro-sich-verabreden",
+  "parent": "ms-ro-a-se-intalni-23da20b4@cb227201b7f1461bfdf9d6bc0f893f4c",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sich verabreden",
+    "definition": "Mit jemandem eine Zeit und einen Ort für ein Treffen vereinbaren.",
+    "pronunciation": "/zɪç fɛɐ̯ˈʔapʁeːdn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „verabreden“ setzt sich aus dem Präfix 'ver-' und dem Verb 'abreden' zusammen, wobei 'abreden' vom mittelhochdeutschen 'abreden' stammt, was 'vereinbaren' bedeutet.",
+        "targetText": "Verbul german „verabreden“ este compus din prefixul 'ver-' și verbul 'abreden', care provine din germana mijlocie 'abreden', însemnând 'a conveni'."
+      },
+      "source": "Etymologische Wörterbücher Deutsch"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se întâlni",
+    "definition": "A stabili o întâlnire cu cineva la o anumită oră și loc.",
+    "pronunciation": "/a se ɨntɨlˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a se întâlni“ stammt vom lateinischen 'intāllāre' ab, zusammengesetzt aus 'in-' und 'tāllāre' (schneiden, teilen), was hier im übertragenen Sinne 'zusammentreffen' bedeutet.",
+        "targetText": "Verbul românesc „a se întâlni” provine din latină, de la 'intāllāre', compus din 'in-' și 'tāllāre' (a tăia, a împărți), folosit aici în sens figurat pentru 'a se întâlni'."
+      },
+      "source": "Dicționar etimologic român"
+    },
+    "additional": "Reflexives Verb, häufig verwendet für das Vereinbaren von Treffen."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Besprechung",
+      "targetText": "întâlnire"
+    },
+    {
+      "sourceText": "Termin",
+      "targetText": "programare"
+    },
+    {
+      "sourceText": "treffen",
+      "targetText": "a întâlni"
+    },
+    {
+      "sourceText": "vereinbaren",
+      "targetText": "a stabili"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "absagen",
+      "targetText": "a anula"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Wir verabreden uns morgen um 18 Uhr im Café.",
+      "targetText": "Ne întâlnim mâine la ora 18 la cafenea."
+    },
+    {
+      "sourceText": "Habt ihr euch schon verabredet?",
+      "targetText": "V-ați întâlnit deja?"
+    },
+    {
+      "sourceText": "Ich verabrede mich oft mit meinen Freunden am Wochenende.",
+      "targetText": "Mă întâlnesc des cu prietenii mei în weekend."
+    },
+    {
+      "sourceText": "Wir verabredeten uns für ein Treffen nächste Woche.",
+      "targetText": "Am stabilit o întâlnire pentru săptămâna viitoare."
+    },
+    {
+      "sourceText": "Verabredet euch bitte rechtzeitig!",
+      "targetText": "Vă rugăm să vă întâlniți la timp!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Reflexivpronomen 'se' zeigt an, dass es um ein gegenseitiges Treffen geht – ähnlich wie im Deutschen 'sich verabreden'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'a se întâlni' klingt wie 'in-tâlni' – stell dir vor, ihr 'tâlni' (teilt) eine Zeit, um euch zu treffen."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir: 'întâlni' bedeutet 'treffen', und mit 'a se întâlni' wird daraus 'sich treffen/verabreden'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'verabreden' mit 'vereinbaren' und 'a stabili' – beide bedeuten, etwas festzulegen, z.B. eine Zeit oder einen Ort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

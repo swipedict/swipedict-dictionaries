@@ -1,0 +1,107 @@
+{
+  "id": "ms-de-ro-haende-waschen",
+  "parent": "ms-ro-a-se-spala-pe-maini-9d1de3ea@a8f30aa1784bbf3c6565ad70a85a694d",
+  "part_of_speech": "phrase",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hände waschen",
+    "definition": "Die Hände mit Wasser und eventuell Seife reinigen, um Schmutz und Keime zu entfernen.",
+    "pronunciation": "/ˈhɛndə ˈvasʃn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die deutsche Phrase „Hände waschen“ besteht aus dem Substantiv „Hände“ (Plural von Hand) und dem Verb „waschen“, das vom althochdeutschen 'waschan' stammt und 'reinigen mit Wasser' bedeutet.",
+        "targetText": "Expresia germană „Hände waschen” este compusă din substantivul „Hände” (pluralul lui Hand) și verbul „waschen”, care provine din germana veche înaltă 'waschan', însemnând 'a curăța cu apă'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachhistorische Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se spăla pe mâini",
+    "definition": "A curăța mâinile cu apă și, eventual, săpun pentru a îndepărta murdăria și germenii.",
+    "pronunciation": "/a se spəˈla pe mɨˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Phrase „a se spăla pe mâini“ verwendet das reflexive Verb „a se spăla“ (vom lateinischen 'spalare' abgeleitet, was 'waschen' bedeutet) und die Präposition „pe“ mit dem Substantiv „mâini“ (Plural von 'mână', von lateinisch 'manus').",
+        "targetText": "Expresia românească „a se spăla pe mâini” folosește verbul reflexiv „a se spăla” (derivat din latină 'spalare', care înseamnă 'a spăla') și prepoziția „pe” împreună cu substantivul „mâini” (pluralul lui 'mână', provenit din latină 'manus')."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    },
+    "additional": "Reflexives Verb mit Präposition und Substantiv im Plural."
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hand",
+      "targetText": "mână"
+    },
+    {
+      "sourceText": "Sauberkeit",
+      "targetText": "curățenie"
+    },
+    {
+      "sourceText": "Seife",
+      "targetText": "săpun"
+    },
+    {
+      "sourceText": "waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wasche deine Hände vor dem Essen.",
+      "targetText": "Spală-te pe mâini înainte de masă."
+    },
+    {
+      "sourceText": "Nach dem Spielen draußen sollten Kinder ihre Hände waschen.",
+      "targetText": "După ce se joacă afară, copiii trebuie să se spele pe mâini."
+    },
+    {
+      "sourceText": "Es ist wichtig, regelmäßig die Hände zu waschen, um Krankheiten zu vermeiden.",
+      "targetText": "Este important să te speli regulat pe mâini pentru a evita bolile."
+    },
+    {
+      "sourceText": "Sie wäscht sich die Hände mit Seife.",
+      "targetText": "Ea se spală pe mâini cu săpun."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische reflexive Verb 'a se spăla' klingt ähnlich wie 'spülen' im Deutschen, beide bedeuten reinigen mit Wasser."
+    },
+    {
+      "lang": "de",
+      "text": "Die Präposition 'pe' vor dem Körperteil ist typisch im Rumänischen, denk an 'pe mâini' wie 'auf den Händen'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie du deine Hände 'spală' (waschen) und dabei das Wort 'mâini' (Hände) wie 'Main' auf Deutsch aussprichst – so merkst du dir 'a se spăla pe mâini'."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde das Wort 'mâini' mit dem lateinischen 'manus' und dem deutschen Wort 'Manuskript' – beide haben mit der Hand zu tun."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

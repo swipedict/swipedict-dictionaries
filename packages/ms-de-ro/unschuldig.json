@@ -1,0 +1,111 @@
+{
+  "id": "ms-de-ro-unschuldig",
+  "parent": "ms-ro-nevinovat-74558e9c@a7f6b492c4ebcd326c1cf4ab54e2d223",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unschuldig",
+    "definition": "Nicht schuldig an einem Vergehen oder Fehler; frei von Schuld.",
+    "pronunciation": "/ʊnˈʃʊlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Adjektiv „unschuldig“ setzt sich aus dem Negationsprefix 'un-' und dem Substantiv 'Schuld' zusammen, das vom althochdeutschen 'sculd' stammt und 'Verantwortlichkeit' oder 'Schuld' bedeutet.",
+        "targetText": "Adjectivul german „unschuldig“ este format din prefixul negativ 'un-' și substantivul 'Schuld', care provine din germana veche înaltă 'sculd' și înseamnă 'vinovăție' sau 'responsabilitate'."
+      },
+      "source": "Etymologische Wörterbücher, Sprachwissenschaftliche Analysen"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nevinovat",
+    "definition": "Care nu este vinovat de o faptă greșită sau infracțiune; lipsit de vină.",
+    "pronunciation": "/neviˈno̯vat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Adjektiv „nevinovat“ stammt vom lateinischen 'innocentem' (im Akkusativ 'innocentem', später 'nevinovat'), das sich aus 'in-' (nicht) und 'nocere' (schaden) zusammensetzt und 'unschädlich' bzw. 'unschuldig' bedeutet.",
+        "targetText": "Adjectivul românesc „nevinovat” provine din latinescul 'innocentem' (în acuzativ 'innocentem', ulterior 'nevinovat'), format din 'in-' (nu) și 'nocere' (a face rău), însemnând 'nevinovat' sau 'fără vină'."
+      },
+      "source": "Dicționare etimologice, Analize lingvistice"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Schuld",
+      "targetText": "vină"
+    },
+    {
+      "sourceText": "Schuldig",
+      "targetText": "vinovat"
+    },
+    {
+      "sourceText": "Unschuld",
+      "targetText": "nevinovăție"
+    },
+    {
+      "sourceText": "Verbrechen",
+      "targetText": "infracțiune"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schuldig",
+      "targetText": "vinovat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Angeklagte wurde für unschuldig befunden.",
+      "targetText": "Acuzatul a fost declarat nevinovat."
+    },
+    {
+      "sourceText": "Sie ist unschuldig an dem Unfall.",
+      "targetText": "Ea este nevinovată de accident."
+    },
+    {
+      "sourceText": "Man sollte niemanden unschuldig beschuldigen.",
+      "targetText": "Nu ar trebui să acuzi pe nimeni nevinovat."
+    },
+    {
+      "sourceText": "Das Kind sieht so unschuldig aus.",
+      "targetText": "Copilul pare atât de nevinovat."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das lateinische 'nocere' bedeutet 'schaden'. Das 'nevinovat' kommt von 'in-' + 'nocere', also 'nicht schaden' = 'unschuldig'."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'nevinovat' beginnt mit 'ne-', eine häufige Negationsform ähnlich dem deutschen 'un-'. So kannst du dir merken, dass 'nevinovat' 'unschuldig' bedeutet."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'vinovat' bedeutet 'schuldig' oder 'schuldig sein'. Wenn du das 'ne-' davor setzt, entsteht 'nevinovat' – also 'unschuldig'."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, jemand 'vinovat' (schuldig) trägt eine schwere Last, aber 'nevinovat' hat diese Last nicht – er ist frei von Schuld."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

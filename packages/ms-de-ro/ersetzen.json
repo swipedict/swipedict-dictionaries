@@ -1,0 +1,200 @@
+{
+  "id": "ms-de-ro-ersetzen",
+  "parent": "ms-ro-a-inlocui-26360c50@5a67c5849e82a5bdb6dca4013f1f6fec",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ersetzen",
+    "definition": "etwas durch etwas anderes austauschen oder übernehmen",
+    "pronunciation": "/ɛʁˈzɛʦən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „ersetzen“ entstand aus dem Präfix „er-“ und dem Verb „setzen“, ursprünglich im Sinne von „an einen anderen Ort setzen“ oder „anstelle von etwas setzen“.",
+        "targetText": "Verbul „ersetzen“ provine din prefixul „er-“ și verbul „setzen“, inițial cu sensul de „a pune în alt loc“ sau „a pune în locul cuiva/ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Es wird häufig im Zusammenhang mit dem Austausch von Gegenständen oder Daten verwendet."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a înlocui",
+    "definition": "a schimba ceva cu altceva sau a lua un loc",
+    "pronunciation": "/ɨnloˈkui/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a înlocui“ stammt vom lateinischen „locare“ („setzen, stellen“) mit dem Präfix „în-“ („hinein“), was zusammen die Bedeutung „hineinsetzen“ oder „ersetzen“ ergibt.",
+        "targetText": "Verbul românesc „a înlocui“ derivă din latină, de la „locare“ („a pune, a așeza“) și prefixul „în-“ („înăuntru“), având sensul de „a pune în locul cuiva/ceva“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-i). Wird häufig verwendet, um den Austausch oder Ersatz von Dingen zu beschreiben."
+  },
+  "senses": [
+    {
+      "gloss": "Ersetzen",
+      "explanation": {
+        "sourceText": "Die Handlung, etwas durch etwas anderes zu ersetzen.",
+        "targetText": "Acțiunea de a schimba ceva cu altceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich erwarte, dass du das alte Teil ersetzt.",
+          "targetText": "Aștept să înlocuiești piesa veche."
+        }
+      ]
+    },
+    {
+      "gloss": "Substituieren",
+      "explanation": {
+        "sourceText": "Etwas durch etwas anderes substituieren oder austauschen.",
+        "targetText": "A înlocui ceva cu altceva, a substitui."
+      },
+      "examples": [
+        {
+          "sourceText": "Wir können die Rechnung ersetzen.",
+          "targetText": "Putem înlocui factura."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Austausch",
+      "targetText": "schimb"
+    },
+    {
+      "sourceText": "Ersatz",
+      "targetText": "înlocuitor"
+    },
+    {
+      "sourceText": "Neu",
+      "targetText": "nou"
+    },
+    {
+      "sourceText": "Tausch",
+      "targetText": "schimb"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "behalten",
+      "targetText": "a păstra"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ersetze das alte Teil.",
+      "targetText": "Eu înlocuiesc piesa veche."
+    },
+    {
+      "sourceText": "Ersetzt du die Batterien?",
+      "targetText": "Îi înlocuiești bateriile?"
+    },
+    {
+      "sourceText": "Der Mechaniker ersetzt das defekte Bauteil.",
+      "targetText": "Mecanicul înlocuiește piesa defectă."
+    },
+    {
+      "sourceText": "Wir ersetzen die alten Maschinen.",
+      "targetText": "Noi înlocuim mașinile vechi."
+    },
+    {
+      "sourceText": "Ersetzt ihr die Software?",
+      "targetText": "Voi înlocuiți software-ul?"
+    },
+    {
+      "sourceText": "Sie ersetzen die beschädigten Produkte.",
+      "targetText": "Ei înlocuiesc produsele deteriorate."
+    },
+    {
+      "sourceText": "Ich habe den Drucker bereits ersetzt.",
+      "targetText": "Am înlocuit imprimanta deja."
+    },
+    {
+      "sourceText": "Sie haben das Software-Update installiert und ersetzt.",
+      "targetText": "Au instalat și înlocuit actualizarea software-ului."
+    },
+    {
+      "sourceText": "Er ersetzte die defekten Teile häufig.",
+      "targetText": "El înlocuia adesea piesele defecte."
+    },
+    {
+      "sourceText": "Ich hatte das Teil bereits ersetzt, als du ankamst.",
+      "targetText": "Înlocuisem deja piesa când ai venit."
+    },
+    {
+      "sourceText": "Ich werde die defekte Lampe morgen ersetzen.",
+      "targetText": "Voi înlocui lampa defectă mâine."
+    },
+    {
+      "sourceText": "Sie werden die Software bald ersetzen.",
+      "targetText": "Ea o să înlocuiască software-ul curând."
+    },
+    {
+      "sourceText": "Ich würde das Teil ersetzen, wenn ich hätte.",
+      "targetText": "Aș înlocui piesa, dacă aș avea."
+    },
+    {
+      "sourceText": "Es ist nötig, dass du das alte Teil ersetzt.",
+      "targetText": "Este necesar să înlocuiești piesa veche."
+    },
+    {
+      "sourceText": "Ersetze die Tabelle bitte!",
+      "targetText": "Înlocuiește tabela, te rog!"
+    },
+    {
+      "sourceText": "Ersetzt die alten Bücher!",
+      "targetText": "Înlocuiți cărțile vechi!"
+    },
+    {
+      "sourceText": "Das ersetzte Gerät ist jetzt funktionsfähig.",
+      "targetText": "Dispozitivul înlocuit funcționează acum."
+    },
+    {
+      "sourceText": "Die Software wurde ersetzt.",
+      "targetText": "Software-ul a fost înlocuit."
+    },
+    {
+      "sourceText": "Durch das Ersetzen des alten Teils verbesserten sie die Maschine.",
+      "targetText": "Înlocuind piesa veche, au îmbunătățit mașina."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „-ui“ am Ende von „a înlocui“ klingt wie das deutsche Wort „ui“ – stell dir vor, du sagst „ui“ überrascht, wenn du etwas ersetzt hast!"
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Verb „a înlocui“ enthält das Präfix „în-“ (wie „in“ auf Deutsch) und „locui“ erinnert an „loc“ (Ort). Stell dir vor, du setzt etwas „in einen Ort hinein“ – so merkst du dir „ersetzen“ als „a înlocui“."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an den deutschen Satz: „Ich ersetze meine alte Jacke mit einer neuen“ und das rumänische „Eu înlocuiesc vechea jachetă cu una nouă“ – die Struktur hilft beim Merken!"
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „ersetzen“ mit „in etwas setzen“: Das hilft dir, das rumänische „a înlocui“ zu erinnern, denn es bedeutet wörtlich „hineinsetzen“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "ms-de-ro-erfahren",
+  "parent": "ms-ro-a-afla-8f9600c9@e25a00bd8b6e6abd29722627ae6c2fca",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erfahren",
+    "definition": "etwas Neues oder Wichtiges lernen oder mitbekommen",
+    "pronunciation": "/ɛʁˈfaʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „erfahren“ stammt vom mittelhochdeutschen „erfarhen“ und bedeutet ursprünglich „erleben, gewahr werden“; es verbindet das Erhalten von Wissen mit persönlicher Erfahrung.",
+        "targetText": "Verbul „erfahren“ provine din germana medie „erfarhen“ și înseamnă inițial „a trăi, a deveni conștient“; combină ideea de a primi cunoștințe cu experiența personală."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Wird häufig verwendet, um etwas durch Erfahrung oder durch Information zu lernen."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a afla",
+    "definition": "a învăța sau a primi informații noi sau importante",
+    "pronunciation": "/a afˈla/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a afla“ stammt wahrscheinlich aus dem Slawischen und bedeutet „erfahren, erkennen“; es wird verwendet, um das Erlangen von Wissen oder Informationen zu beschreiben.",
+        "targetText": "Verbul românesc „a afla“ provine probabil din slavă și înseamnă „a afla, a recunoaște“; este folosit pentru a exprima dobândirea de cunoștințe sau informații."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Oft verwendet, um Neuigkeiten oder Informationen zu übermitteln."
+  },
+  "senses": [
+    {
+      "gloss": "Erfahren",
+      "explanation": {
+        "sourceText": "In der Bedeutung des Lernens durch Fachwissen.",
+        "targetText": "A învăța prin cunoștințe specializate."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich möchte mehr über die Kultur erfahren.",
+          "targetText": "Vreau să aflu mai multe despre cultură."
+        }
+      ]
+    },
+    {
+      "gloss": "Erfahren",
+      "explanation": {
+        "sourceText": "Verwendet auch in alltäglichen Kontexten.",
+        "targetText": "Folosit și în contexte cotidiene."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich erfahren die Neuigkeiten gerne.",
+          "targetText": "Îmi place să aflu știrile."
+        }
+      ]
+    },
+    {
+      "gloss": "Neuigkeiten erfahren",
+      "explanation": {
+        "sourceText": "Im Sinne von aktuellen Informationen erhalten.",
+        "targetText": "A primi informații actuale."
+      },
+      "examples": [
+        {
+          "sourceText": "Erfahren Sie die neuesten Neuigkeiten!",
+          "targetText": "Află ultimele știri!"
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Informieren",
+      "targetText": "a informa"
+    },
+    {
+      "sourceText": "Lehren",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "știire"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "cunoaștere"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erfahre die Neuigkeiten aus erster Hand.",
+      "targetText": "Eu aflu știrea din prima mână."
+    },
+    {
+      "sourceText": "Erfährst du die Details am Montag?",
+      "targetText": "Aflai detalii luni?"
+    },
+    {
+      "sourceText": "Sie erfährt viel über die Kultur.",
+      "targetText": "Ea află multe despre cultură."
+    },
+    {
+      "sourceText": "Wir erfahren interessante Dinge.",
+      "targetText": "Noi aflăm lucruri interesante."
+    },
+    {
+      "sourceText": "Erfahrt ihr die Geschichte des Ortes?",
+      "targetText": "Aflati povestea locului?"
+    },
+    {
+      "sourceText": "Sie (Pl.) erfahren das Ergebnis heute.",
+      "targetText": "Ei află rezultatul astăzi."
+    },
+    {
+      "sourceText": "Ich habe viel über das Projekt erfahren.",
+      "targetText": "Am aflat multe despre proiect."
+    },
+    {
+      "sourceText": "Sie haben die Nachricht schon erfahren.",
+      "targetText": "Au aflat vestea deja."
+    },
+    {
+      "sourceText": "Erfuhr er oft von den Ereignissen?",
+      "targetText": "Află el adesea despre evenimente?"
+    },
+    {
+      "sourceText": "Ich hatte die Wahrheit schon erfahren, als du ankamst.",
+      "targetText": "Aflasem deja adevărul când ai ajuns."
+    },
+    {
+      "sourceText": "Ich werde die Antwort erfahren.",
+      "targetText": "Voi afla răspunsul."
+    },
+    {
+      "sourceText": "Er wird die Neuigkeiten morgen erfahren.",
+      "targetText": "El o să afle veștile mâine."
+    },
+    {
+      "sourceText": "Ich würde das Ergebnis erfahren, wenn ich gefragt werde.",
+      "targetText": "Aș afla rezultatul, dacă aș fi întrebat."
+    },
+    {
+      "sourceText": "Es ist wichtig, dass du die Information erfährst.",
+      "targetText": "Este important să afli informația."
+    },
+    {
+      "sourceText": "Erfahre die Neuigkeiten schnell!",
+      "targetText": "Află rapid știrile!"
+    },
+    {
+      "sourceText": "Erfahren Sie die Details!",
+      "targetText": "Află detaliile!"
+    },
+    {
+      "sourceText": "Die erfahrene Lehrerin ist sehr kompetent.",
+      "targetText": "Profesora experimentată este foarte competentă."
+    },
+    {
+      "sourceText": "Die Ergebnisse sind nun erfahren.",
+      "targetText": "Rezultatele au fost aflate acum."
+    },
+    {
+      "sourceText": "Indem ich oft lese, erfahre ich viel über die Welt.",
+      "targetText": "Aflând des, învăț mult despre lume."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Afla“ wird oft in Gesprächen über Neuigkeiten benutzt – stelle dir vor, wie du Nachrichten bekommst."
+    },
+    {
+      "lang": "de",
+      "text": "Bilde Sätze mit „Ich habe erfahren, dass...“ – so verknüpfst du die Bedeutung mit Alltagssituationen."
+    },
+    {
+      "lang": "de",
+      "text": "Übe die Konjugation: „aflu“ (ich erfahre), „afli“ (du erfährst), „aflăm“ (wir erfahren) – so bleibt das Verb im Gedächtnis."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde „erfahren“ mit „a afla“ durch die Vorstellung, dass du plötzlich eine wichtige Neuigkeit erfährst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

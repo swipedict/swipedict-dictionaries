@@ -1,0 +1,124 @@
+{
+  "id": "ms-de-ro-bedecken",
+  "parent": "ms-ro-a-acoperi-e0e052f9@d41bc967740e3259fbf5becde8330726",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bedecken",
+    "definition": "etwas mit einer Schicht oder einem Material überziehen oder abdecken",
+    "pronunciation": "/bəˈdɛkən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Wort geht zurück auf das mittelhochdeutsche „bedecchen“, abgeleitet von „dech“, was so viel wie „zu decken“ bedeutet.",
+        "targetText": "Cuvântul provine din germana mijlocie „bedecchen“, derivat din „dech“ care înseamnă „a acoperi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Es wird zum Schutz oder zur Abdeckung verwendet, sowohl physisch als auch metaphorisch."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a acoperi",
+    "definition": "a pune o strat sau un material peste ceva",
+    "pronunciation": "/a a.koˈpe.ri/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a acoperi“ stammt vom lateinischen „coperire“ ab, was „bedecken“ oder „verdecken“ bedeutet.",
+        "targetText": "Verbul românesc „a acoperi“ provine din latină, din „coperire“, care înseamnă „a acoperi“ sau „a ascunde“."
+      },
+      "source": "Etymological Dictionaries, Wiktionary"
+    },
+    "additional": "„A acoperi“ wird oft im Kontext von Schutzmaßnahmen genutzt - sowohl körperlich (z.B. Bekleidung) als auch emotional (z.B. Gefühle)."
+  },
+  "senses": [
+    {
+      "gloss": "Bedeckung",
+      "explanation": {
+        "sourceText": "Wird verwendet, um etwas zu überziehen.",
+        "targetText": "Se folosește pentru a acoperi ceva."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Bedeckung schützt das Gemüse im Winter.",
+          "targetText": "Acoperirea protejează legumele iarna."
+        }
+      ]
+    },
+    {
+      "gloss": "Verhüllung",
+      "explanation": {
+        "sourceText": "Bedeckung bringt auch eine Bedeutungen von Verhüllung mit sich.",
+        "targetText": "Acoperirea poate însemna și învelire sau ascundere."
+      },
+      "examples": [
+        {
+          "sourceText": "Die Verhüllung des Gesichts ist Tradition.",
+          "targetText": "Acoperirea feței este tradiție."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Material",
+      "targetText": "material"
+    },
+    {
+      "sourceText": "Oberfläche",
+      "targetText": "suprafață"
+    },
+    {
+      "sourceText": "Schicht",
+      "targetText": "strat"
+    },
+    {
+      "sourceText": "Schutz",
+      "targetText": "proteție"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entblößen",
+      "targetText": "expune"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bedecke den Tisch mit einem Tuch.",
+      "targetText": "Eu acopăr masa cu o față de masă."
+    },
+    {
+      "sourceText": "Sie bedeckt den Garten mit einem Zaun.",
+      "targetText": "Ea acoperă grădina cu un gard."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a acoperi“ klingt ähnlich wie „Decke“ – stell dir vor, du legst eine Decke über etwas, um es zu bedecken."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an das lateinische „coperire“ als Ursprung – das hilft dir, die Bedeutung von „bedecken“ als „überdecken“ zu merken."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

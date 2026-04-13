@@ -1,0 +1,132 @@
+{
+  "id": "ms-de-ro-erhalten",
+  "parent": "ms-ro-a-primi-2cde2978@52effe885595a7773a3a3beee9a08edd",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erhalten",
+    "definition": "etwas bekommen oder in Empfang nehmen",
+    "pronunciation": "/ɛɐ̯ˈhaltn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet von „halten“ mit dem Präfix „er-“, bedeutet „erhalten“ das Empfangen oder Bewahren von etwas.",
+        "targetText": "Derivat din verbul „halten“ cu prefixul „er-“, „erhalten“ înseamnă a primi sau a păstra ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Gebrauch: etwas bekommen oder bewahren, z.B. „ein Geschenk erhalten“."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a primi",
+    "definition": "a obține sau a lua ceva",
+    "pronunciation": "/a priˈmi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom lateinischen „primo“ (erster, zuerst) abgeleitet, bedeutet „a primi“ im Rumänischen, etwas zu erhalten oder anzunehmen.",
+        "targetText": "Derivat din latină „primo“ (primul), „a primi“ înseamnă a obține sau a accepta ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 4. Konjugation. Verwendet für das Erhalten von Geschenken oder Informationen."
+  },
+  "senses": [
+    {
+      "gloss": "Geschenk erhalten",
+      "explanation": {
+        "sourceText": "Bedeutet etwas als Geschenk zu bekommen.",
+        "targetText": "A primi ceva ca dar."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich habe ein Buch erhalten.",
+          "targetText": "Am primit o carte."
+        }
+      ]
+    },
+    {
+      "gloss": "Informationen erhalten",
+      "explanation": {
+        "sourceText": "Bedeutet, Informationen zugeschickt zu bekommen.",
+        "targetText": "A primi informații."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich erhalte regelmäßig Informationen.",
+          "targetText": "Primeasc informații în mod regulat."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Brief",
+      "targetText": "scrisoare"
+    },
+    {
+      "sourceText": "Geschenk",
+      "targetText": "cadou"
+    },
+    {
+      "sourceText": "Hilfe",
+      "targetText": "ajutor"
+    },
+    {
+      "sourceText": "Nachricht",
+      "targetText": "mesaj"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "verlieren",
+      "targetText": "a pierde"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich erhalte das Paket.",
+      "targetText": "Eu primesc pachetul."
+    },
+    {
+      "sourceText": "Ich habe die Nachricht erhalten.",
+      "targetText": "Am primit mesajul."
+    },
+    {
+      "sourceText": "Ich werde das Geld erhalten.",
+      "targetText": "Voi primi banii."
+    },
+    {
+      "sourceText": "Erhalte das Geschenk!",
+      "targetText": "Primește cadoul!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a primi“ klingt wie „primo“ (erst), stelle dir vor, du bist der Erste, der etwas erhält – so merkst du dir die Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Notiere dir verschiedene Situationen, in denen man „erhalten“ benutzt, um den Gebrauch von „a primi“ zu festigen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

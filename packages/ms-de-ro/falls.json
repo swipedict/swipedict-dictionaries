@@ -1,0 +1,106 @@
+{
+  "id": "ms-de-ro-falls",
+  "parent": "ms-ro-daca-0bcc7781@9946f244e1dceed13e9268b932427740",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "falls",
+    "definition": "Eine Konjunktion, die eine Bedingung oder Möglichkeit ausdrückt, ähnlich wie 'wenn'.",
+    "pronunciation": "/fals/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort 'falls' stammt vom althochdeutschen 'fallis' ab, das mit dem Substantiv 'Fall' verwandt ist und eine Bedingung oder einen Umstand bezeichnet.",
+        "targetText": "Cuvântul german 'falls' provine din germana veche înaltă 'fallis', legat de substantivul 'Fall', indicând o condiție sau circumstanță."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dacă",
+    "definition": "O conjuncție care exprimă o condiție sau o posibilitate, echivalentă cu 'wenn' în germană.",
+    "pronunciation": "/ˈdaka/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort 'dacă' stammt wahrscheinlich vom lateinischen 'dare' (geben) ab, wurde aber im Laufe der Zeit zu einer Konjunktion für Bedingungen entwickelt.",
+        "targetText": "Cuvântul românesc 'dacă' provine probabil din latinescul 'dare' (a da), dar s-a dezvoltat în timp ca o conjuncție pentru condiții."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ob",
+      "targetText": "dacă"
+    },
+    {
+      "sourceText": "sofern",
+      "targetText": "atâta timp cât"
+    },
+    {
+      "sourceText": "vorausgesetzt",
+      "targetText": "cu condiția"
+    },
+    {
+      "sourceText": "wenn",
+      "targetText": "când"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Falls es regnet, bleiben wir zu Hause.",
+      "targetText": "Dacă plouă, rămânem acasă."
+    },
+    {
+      "sourceText": "Falls du Hilfe brauchst, sag mir Bescheid.",
+      "targetText": "Dacă ai nevoie de ajutor, spune-mi."
+    },
+    {
+      "sourceText": "Falls er kommt, fangen wir an.",
+      "targetText": "Dacă vine, începem."
+    },
+    {
+      "sourceText": "Falls du Zeit hast, können wir uns treffen.",
+      "targetText": "Dacă ai timp, ne putem întâlni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische 'dacă' klingt wie 'da că' – als ob du sagst 'ja, dass' etwas passiert, wenn die Bedingung erfüllt ist."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort 'falls' erinnert an 'Fall' – stell dir vor, es gibt einen 'Fall', in dem etwas passiert, also eine Bedingung."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass 'falls' oft in hypothetischen Situationen verwendet wird, ähnlich wie 'dacă' im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde 'falls' mit 'if' im Englischen, beide drücken Bedingungen aus."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

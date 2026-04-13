@@ -1,0 +1,139 @@
+{
+  "id": "ms-de-ro-jagbar",
+  "parent": "ms-ro-vanabil-57a83b7f@6ab332736e4cf7802e3a2b8eda84e0f6",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jagbar",
+    "definition": "so beschaffen, dass es gejagt werden darf oder kann; zum Jagen geeignet oder freigegeben",
+    "pronunciation": "/ˈjaːkbaːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Abgeleitet vom Verb 'jagen' und dem Suffix '-bar' (fähig zu, geeignet für).",
+        "targetText": "Der Begriff „jagbar“ stammt vom Verb „jagen“ und dem Suffix „-bar“, das Fähigkeit oder Möglichkeit ausdrückt."
+      },
+      "source": "Wiktionary"
+    },
+    "additional": "Bezieht sich auf Tierarten, die bejagt werden dürfen, oft unter Berücksichtigung von Jagdgesetzen und -zeiten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "vânabil",
+    "definition": "care poate fi vânat; apt pentru vânătoare sau permis la vânătoare",
+    "pronunciation": "/vɨ.naˈbil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Derivat din verbul 'a vâna' (jagen) cu sufixul '-abil' (fähig zu).",
+        "targetText": "Cuvântul „vânabil“ derivă din verbul „a vâna“ (a vâna) și sufixul „-abil“, care exprimă capacitatea sau posibilitatea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Adjectiv variabil (vânabil, vânabilă, vânabili, vânabile). Se referă la speciile de animale care pot fi vânate."
+  },
+  "senses": [
+    {
+      "gloss": "jagbares Wild",
+      "explanation": {
+        "sourceText": "Tiere, die gemäß den Jagdvorschriften gejagt werden dürfen.",
+        "targetText": "Animale care pot fi vânate conform reglementărilor de vânătoare."
+      },
+      "examples": [
+        {
+          "sourceText": "In dieser Saison sind nur bestimmte Tierarten jagbar.",
+          "targetText": "În acest sezon, doar anumite specii de animale sunt vânabile."
+        },
+        {
+          "sourceText": "Der Hirsch ist jetzt jagbar.",
+          "targetText": "Cerbul este acum vânabil."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Beute",
+      "targetText": "pradă"
+    },
+    {
+      "sourceText": "Jagd",
+      "targetText": "vânătoare"
+    },
+    {
+      "sourceText": "jagen",
+      "targetText": "a vâna"
+    },
+    {
+      "sourceText": "Jäger",
+      "targetText": "vânător"
+    },
+    {
+      "sourceText": "Wild",
+      "targetText": "vânat"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gefährdet",
+      "targetText": "periclitat"
+    },
+    {
+      "sourceText": "geschützt",
+      "targetText": "protejat"
+    },
+    {
+      "sourceText": "nicht jagbar",
+      "targetText": "nevânabil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das jagdbare Wild in diesem Gebiet ist vielfältig.",
+      "targetText": "Fauna vânabilă din această zonă este diversă."
+    },
+    {
+      "sourceText": "Welche Vögel sind hier jagbar?",
+      "targetText": "Ce păsări sunt vânabile aici?"
+    },
+    {
+      "sourceText": "Die Liste der jagdbaren Arten wird jährlich aktualisiert.",
+      "targetText": "Lista speciilor vânabile este actualizată anual."
+    },
+    {
+      "sourceText": "Ein Tier gilt als jagbar, wenn es eine bestimmte Größe erreicht hat.",
+      "targetText": "Un animal este considerat vânabil dacă a atins o anumită mărime."
+    },
+    {
+      "sourceText": "Nicht alle Tiere im Wald sind jagbar.",
+      "targetText": "Nu toate animalele din pădure sunt vânabile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das rumänische „vânabil“ kommt von „a vâna“ (jagen) + Suffix „-abil“ (fähig zu sein), ähnlich wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Denke an „Jagd“ + „-bar“ wie bei „essbar“ – „vânabil“ bedeutet, dass etwas gejagt werden kann."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

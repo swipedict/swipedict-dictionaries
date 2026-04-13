@@ -1,0 +1,140 @@
+{
+  "id": "ms-de-ro-einsortieren",
+  "parent": "ms-ro-a-sorta-4ca5b151@59c7cb31d8257b4b6f0615bf44e2eab4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einsortieren",
+    "definition": "etwas in die richtige Ordnung bringen oder an den vorgesehenen Platz legen",
+    "pronunciation": "/aɪnˈzoʁtiʁən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Verb „einsortieren“ setzt sich aus „ein-“ und „sortieren“ zusammen, wobei „sortieren“ vom lateinischen „sortire“ stammt und „auswählen, ordnen“ bedeutet.",
+        "targetText": "Verbul german „einsortieren“ este format din prefixul „ein-“ și verbul „sortieren“, care provine din latinescul „sortire“ și înseamnă „a selecta, a ordona“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Oft verwendet in organisatorischen Prozessen, wie dem Sortieren von Dokumenten oder Objekten."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sorta",
+    "definition": "a aduce ceva în ordine sau a pune în locul destinat",
+    "pronunciation": "/a soˈrta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Verb „a sorta“ stammt vom lateinischen „sortare“ ab, was „sortieren, auswählen“ bedeutet. Es beschreibt das Organisieren und Klassifizieren von Dingen.",
+        "targetText": "Verbul românesc „a sorta“ provine din latinescul „sortare“, care înseamnă „a sorta, a selecta“. Exprimă organizarea și clasificarea lucrurilor."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Das Verb wird häufig in Bezug auf das Sortieren von Daten oder Objekten in einer logischen Reihenfolge genutzt."
+  },
+  "senses": [
+    {
+      "gloss": "Ablage",
+      "explanation": {
+        "sourceText": "Bezieht sich auf die Anordnung von Dokumenten oder Gegenständen.",
+        "targetText": "Se referă la organizarea documentelor sau obiectelor."
+      },
+      "examples": [
+        {
+          "sourceText": "Sie hat die Ablage für die Dokumente verbessert.",
+          "targetText": "Ea a îmbunătățit arhivarea documentelor."
+        }
+      ]
+    },
+    {
+      "gloss": "Ordnen",
+      "explanation": {
+        "sourceText": "Sich auf das Sortieren und Arrange des Alltags zu beziehen.",
+        "targetText": "Se referă la sortarea și aranjarea lucrurilor în viața de zi cu zi."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich ordne die Bücher im Regal.",
+          "targetText": "Eu ordonez cărțile pe raft."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Aufbewahrung",
+      "targetText": "păstrare"
+    },
+    {
+      "sourceText": "Kategorie",
+      "targetText": "categorie"
+    },
+    {
+      "sourceText": "Ordnung",
+      "targetText": "ordonare"
+    },
+    {
+      "sourceText": "Sortierung",
+      "targetText": "sortare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "herausnehmen",
+      "targetText": "a scoate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich sortiere die Buchstaben ein.",
+      "targetText": "Eu sortez literele."
+    },
+    {
+      "sourceText": "Sie sortiert die Dokumente ein.",
+      "targetText": "Ea sortează documentele."
+    },
+    {
+      "sourceText": "Wir haben die Akten einsortiert.",
+      "targetText": "Am sortat dosarele."
+    },
+    {
+      "sourceText": "Ich werde die Dateien morgen einsortieren.",
+      "targetText": "Voi sorta fișierele mâine."
+    },
+    {
+      "sourceText": "Sortiere das richtig ein!",
+      "targetText": "Sortează corect!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Einsortieren“ bedeutet, Dinge zu ordnen. Im Rumänischen heißt es „a sorta“ – denk an das lateinische „sortare“ und die Idee des Auswählens und Ordnen."
+    },
+    {
+      "lang": "de",
+      "text": "Das „sorta“ klingt ähnlich wie „Sortierung“ im Deutschen – das hilft dir, die Bedeutung zu behalten."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du sortierst Karten in eine Reihenfolge – so merkst du dir „a sorta“ als das Einordnen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

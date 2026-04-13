@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-heissen",
+  "parent": "ms-ro-a-se-numi-7de17ed9@58a1acdcc20601ebf46df64c4ad02d7a",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "heißen",
+    "definition": "jemandem oder etwas einen Namen geben oder zuordnen",
+    "pronunciation": "/ˈhaɪ̯sən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „heißen“ stammt vom mittelhochdeutschen „heißen“ ab, was „nennen“ oder „bezeichnen“ bedeutet.",
+        "targetText": "Verbul german „heißen“ provine din mijlocul german „heißen“, care înseamnă „a numi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Unregelmäßiges Verb. Wird verwendet, um den Namen oder die Bezeichnung von jemandem oder etwas anzugeben."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a se numi",
+    "definition": "a da un nume cuiva sau ceva",
+    "pronunciation": "/a se nuˈmi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische reflexive Verb „a se numi“ kommt von „a numi“ (nennen), das vom lateinischen „nominare“ abstammt, was „benennen“ bedeutet.",
+        "targetText": "Verbul reflexiv românesc „a se numi“ provine din „a numi“, derivat din latină „nominare“, care înseamnă „a numi“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Oft in der Bedeutung von \"sich nennen\" verwendet, z.B. bei der Vorstellung."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "benennen",
+      "targetText": "a numi"
+    },
+    {
+      "sourceText": "Beruf",
+      "targetText": "meserie"
+    },
+    {
+      "sourceText": "Identität",
+      "targetText": "identitate"
+    },
+    {
+      "sourceText": "Name",
+      "targetText": "nume"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "a uita"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich heiße Maria.",
+      "targetText": "Mă numesc Maria."
+    },
+    {
+      "sourceText": "Ich habe gestern einen neuen Namen erhalten.",
+      "targetText": "M-am numit ieri un nume nou."
+    },
+    {
+      "sourceText": "Ich werde dich morgen vorstellen.",
+      "targetText": "Mă voi prezenta mâine."
+    },
+    {
+      "sourceText": "Ich würde so genannt werden, wenn ich einen anderen Namen hätte.",
+      "targetText": "M-aș numi așa dacă aș avea un alt nume."
+    },
+    {
+      "sourceText": "Nenne dich!",
+      "targetText": "Numește-te!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das „Numi“ in „a se numi“ klingt wie „Name“ – so kannst du dir leicht merken, dass es ums Nennen geht."
+    },
+    {
+      "lang": "de",
+      "text": "Die Konstruktion „Mă numesc“ entspricht „Ich nenne mich“ – denk daran, wenn du dich vorstellst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

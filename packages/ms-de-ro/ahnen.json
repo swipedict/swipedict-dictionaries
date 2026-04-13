@@ -1,0 +1,104 @@
+{
+  "id": "ms-de-ro-ahnen",
+  "parent": "ms-ro-a-baga-de-seama-053e86db@dd854ff69d39252fd4d536f9dad74152",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ahnen",
+    "definition": "eine Vorstellung oder Vermutung von etwas haben",
+    "pronunciation": "/ˈaːnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Vom althochdeutschen 'ānan' abgeleitet, was 'wissen' oder 'vorhersehen' bedeutet; verwandt mit dem Wort 'Ahnung'.",
+        "targetText": "Der Begriff stammt din germana veche, unde însemna a ști sau a prevedea ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb mit intellektuellem Kontext, verwendet, um Vorahnungen oder Intuitionen auszudrücken."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a băga de seamă",
+    "definition": "a avea o idee sau o bănuială despre ceva",
+    "pronunciation": "/a bɨˈɡa de ˈse̯amə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der Ausdruck kombiniert das rumänische Verb 'a băga' (hineinstecken) mit 'seamă' (Achtung, Beachtung), entlehnt aus dem slawischen 'sjemja'. Es bedeutet wörtlich 'beachten' oder 'bemerken'.",
+        "targetText": "Expresia combină verbul românesc „a băga” (a introduce) cu substantivul „seamă” (atenție), cu origini slave, semnificând a observa sau a avea o bănuială."
+      },
+      "source": "AI, Wiktionary"
+    },
+    "additional": "Verwendet, um Intuition oder das Gefühl eines zukünftigen Ereignisses auszudrücken. Oft in hypothetischen Sätzen benutzt."
+  },
+  "relatedWords": [
+    {
+      "sourceText": "Idee",
+      "targetText": "idee"
+    },
+    {
+      "sourceText": "Vermutung",
+      "targetText": "bănuit"
+    },
+    {
+      "sourceText": "Vorstellung",
+      "targetText": "reprezentare"
+    },
+    {
+      "sourceText": "Wissen",
+      "targetText": "a ști"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vergessen",
+      "targetText": "neglija"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich ahne, dass etwas Besonderes passiert.",
+      "targetText": "Bănuiesc că se întâmplă ceva special."
+    },
+    {
+      "sourceText": "Ich habe bereits geahnt, dass es so kommen würde.",
+      "targetText": "Am băgat de seamă că așa va fi."
+    },
+    {
+      "sourceText": "Ahne, was als nächstes kommt!",
+      "targetText": "Bănuiește ce va urma!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "'Ahnen' klingt wie 'an' + 'ahnen' – denk an das 'Anfühlen' von etwas, ähnlich wie 'a băga de seamă' bedeutet, etwas zu bemerken."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische 'seamă' klingt wie 'Säumer' – stell dir vor, du wartest aufmerksam, um etwas zu ahnen."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, du 'bäugst' (băga) deine Gedanken in deinen Kopf hinein, um eine Ahnung zu bekommen – so merkst du dir 'a băga de seamă'!"
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

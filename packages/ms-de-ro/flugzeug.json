@@ -1,0 +1,108 @@
+{
+  "id": "ms-de-ro-flugzeug",
+  "parent": "ms-ro-avion-234d9d38@89c9bd37d51d99ad589e701cf7b1f9e6",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Flugzeug",
+    "genus": "neuter",
+    "definition": "Ein Luftfahrzeug mit Flügeln, das fliegen kann.",
+    "pronunciation": "/ˈfluːkˌtsoɪ̯k/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das deutsche Wort „Flugzeug“ setzt sich aus ‚fliegen‘ und ‚Zeug‘ zusammen, wobei ‚Zeug‘ ursprünglich ‚Gerät‘ oder ‚Werkzeug‘ bedeutete.",
+        "targetText": "Cuvântul german „Flugzeug” este compus din „fliegen” și „Zeug”, unde „Zeug” însemna inițial „unelte” sau „dispozitiv”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "avion",
+    "genus": "neuter",
+    "definition": "Un vehicul aerian cu aripi, capabil să zboare.",
+    "pronunciation": "/aˈvjon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische Wort „avion“ stammt aus dem Französischen ‚avion‘, das auf das lateinische ‚avis‘ (Vogel) zurückgeht.",
+        "targetText": "Cuvântul românesc „avion” provine din franceza „avion”, care la rândul său derivă din latinescul „avis” (pasăre)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Fliegen",
+      "targetText": "a zbura"
+    },
+    {
+      "sourceText": "Flug",
+      "targetText": "zbor"
+    },
+    {
+      "sourceText": "Flugzeugträger",
+      "targetText": "portavion"
+    },
+    {
+      "sourceText": "Pilot",
+      "targetText": "pilot"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Flugzeug startet in fünf Minuten.",
+      "targetText": "Avionul decolează în cinci minute."
+    },
+    {
+      "sourceText": "Ich habe mein erstes Flugzeugmodell gebaut.",
+      "targetText": "Am construit primul meu model de avion."
+    },
+    {
+      "sourceText": "Das Flugzeug fliegt über die Berge.",
+      "targetText": "Avionul zboară peste munți."
+    },
+    {
+      "sourceText": "Im Flugzeug gibt es viele Sicherheitsregeln.",
+      "targetText": "În avion există multe reguli de siguranță."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das deutsche ‚Flugzeug‘ besteht aus ‚fliegen‘ und ‚Zeug‘ (Gerät), das rumänische ‚avion‘ stammt aus einer anderen Sprachfamilie, aber beide bedeuten dasselbe."
+    },
+    {
+      "lang": "de",
+      "text": "Das rumänische Wort „avion“ klingt ähnlich wie das französische Wort für Flugzeug, was dir hilft, es leicht zu merken."
+    },
+    {
+      "lang": "de",
+      "text": "Stell dir vor, wie ein Vogel (avis) durch die Luft fliegt – so merkst du dir ‚avion‘ als Flugzeug."
+    },
+    {
+      "lang": "de",
+      "text": "Verbinde ‚avion‘ mit dem lateinischen ‚avis‘ für Vogel – ein Flugzeug ist wie ein großer Vogel, der fliegt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "ms-de-ro-fechten",
+  "parent": "ms-ro-a-lupta-9235d297@5f8741b70f8db2c224ea2e5d23f9fbb4",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fechten",
+    "definition": "Kampfsportart, bei der mit einem Schwert gekämpft wird.",
+    "pronunciation": "/ˈfɛçtən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Verb „fechten“ stammt vom mittelhochdeutschen „vechten“ (kämpfen) und althochdeutschen „fihtōn“ (kämpfen).",
+        "targetText": "Verbul „fechten“ provine din germana mijlocie „vechten“ și germana veche „fihtōn“, ambele însemnând „a lupta“."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb. Bezieht sich auf das Kämpfen mit Waffen, besonders im historischen oder sportlichen Kontext."
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a lupta",
+    "definition": "un sport de luptă în care se folosește o sabie.",
+    "pronunciation": "/a luˈpta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a lupta“ stammt vom lateinischen „luctari“, was „kämpfen“ bedeutet, und wird für körperliche und metaphorische Kämpfe verwendet.",
+        "targetText": "Verbul românesc „a lupta“ derivă din latină, din „luctari“, care înseamnă „a lupta“, folosit pentru lupte fizice și metaforice."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "additional": "Regelmäßiges Verb der 1. Konjugation (-a). Es wird in vielen Kämpfen und Wettkämpfen verwendet."
+  },
+  "senses": [
+    {
+      "gloss": "Kämpfen",
+      "explanation": {
+        "sourceText": "Allgemein für körperliche Auseinandersetzungen oder Wettbewerbe.",
+        "targetText": "General pentru confruntări fizice sau competiții."
+      },
+      "examples": [
+        {
+          "sourceText": "Du kämpfst wie ein Profi.",
+          "targetText": "Lupti ca un profesionist."
+        }
+      ]
+    },
+    {
+      "gloss": "Kampfsport",
+      "explanation": {
+        "sourceText": "Bezeichnung für den Sport des Kämpfens mit Waffen.",
+        "targetText": "Denumirea sportului de luptă cu arme."
+      },
+      "examples": [
+        {
+          "sourceText": "Ich fechte im Turnier.",
+          "targetText": "Eu lupt la turneu."
+        },
+        {
+          "sourceText": "Wir fechten in der Arena.",
+          "targetText": "Noi luptăm în arenă."
+        }
+      ]
+    }
+  ],
+  "relatedWords": [
+    {
+      "sourceText": "Kampf",
+      "targetText": "luptă"
+    },
+    {
+      "sourceText": "Meister",
+      "targetText": "maestru"
+    },
+    {
+      "sourceText": "Schwert",
+      "targetText": "sabie"
+    },
+    {
+      "sourceText": "Sport",
+      "targetText": "sport"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "aufgeben",
+      "targetText": "cedează"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fechte im Turnier.",
+      "targetText": "Eu lupt la turneu."
+    },
+    {
+      "sourceText": "Fechtest du gegen mich?",
+      "targetText": "Lupti împotriva mea?"
+    },
+    {
+      "sourceText": "Er fechtet mit dem Schwert.",
+      "targetText": "El luptă cu sabia."
+    },
+    {
+      "sourceText": "Wir fechten in der Arena.",
+      "targetText": "Noi luptăm în arenă."
+    },
+    {
+      "sourceText": "Fechtet ihr gut?",
+      "targetText": "Luptați bine?"
+    },
+    {
+      "sourceText": "Sie fechten immer fair.",
+      "targetText": "Ei luptă întotdeauna corect."
+    },
+    {
+      "sourceText": "Ich habe im letzten Jahr gefechtet.",
+      "targetText": "Am luptat anul trecut."
+    },
+    {
+      "sourceText": "Er fechtete jeden Samstag.",
+      "targetText": "El lupta în fiecare sâmbătă."
+    },
+    {
+      "sourceText": "Ich werde im nächsten Wettbewerb fechten.",
+      "targetText": "Voi lupta la următoarea competiție."
+    },
+    {
+      "sourceText": "Ich würde fechten, wenn ich trainieren könnte.",
+      "targetText": "Aș lupta dacă aș putea să mă antrenez."
+    },
+    {
+      "sourceText": "Fechte gegen den Gegner!",
+      "targetText": "Luptă împotriva adversarului!"
+    },
+    {
+      "sourceText": "Der gefegte Kämpfer war siegreich.",
+      "targetText": "Luptătorul luptat a fost victorios."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Fechten“ und „a lupta“ sind mit Kampf und Wettbewerb verbunden. Denk an einen fairen Kampf, um die Bedeutung zu verankern."
+    },
+    {
+      "lang": "de",
+      "text": "Merke dir, dass „fechten“ sowohl für sportliches Kämpfen als auch für körperliche Auseinandersetzungen steht – „a lupta“ hat dieselbe Flexibilität im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}
