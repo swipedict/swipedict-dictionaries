@@ -1,12 +1,12 @@
 import { execSync } from 'child_process';
 
 const steps = [
-  '01_clear_dist.mjs',
-  '02_stage_files_to_dist.mjs',
-  '03_update_detail_json_media.mjs',
-  '04_generate_index.mjs --log-missing-target',
-  '05_validate_dist.mjs',
-  '06_compress_dist.mjs',
+  '01_clear_dist.js',
+  '02_stage_files_to_dist.js',
+  '03_update_detail_json_media.js',
+  '04_generate_index.js --log-missing-target',
+  '05_validate_dist.js',
+  '06_compress_dist.js',
 ];
 
 try {
