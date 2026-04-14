@@ -11,14 +11,29 @@ const DICTIONARIES_ROOT = path.resolve(__dirname, '..');
 const DIST_DIR = path.join(DICTIONARIES_ROOT, 'dist');
 const MEDIA_DIR = path.join(DIST_DIR, 'media');
 
+// Optional: point MEDIA_INDEX at a JSON file mapping dictId -> [filenames]
+// so we don't need the actual audio files on disk (used in CI).
+const MEDIA_INDEX_PATH = process.env.MEDIA_INDEX ? path.resolve(process.env.MEDIA_INDEX) : null;
+const mediaIndex = MEDIA_INDEX_PATH && fs.existsSync(MEDIA_INDEX_PATH)
+    ? JSON.parse(fs.readFileSync(MEDIA_INDEX_PATH, 'utf-8'))
+    : null;
+if (mediaIndex) console.log(`${LOG_PREFIX} Using media index: ${MEDIA_INDEX_PATH}`);
+
 const WRITE_CHANGES = true;
 
-function linkAudio(detailData, audioDir, urlPrefix, baseFilename, jsonPathType, lang) {
+function getAudioFiles(audioDir, dictId) {
+    if (mediaIndex && mediaIndex[dictId]) return mediaIndex[dictId];
+    if (!fs.existsSync(audioDir)) return [];
+    return fs.readdirSync(audioDir);
+}
+
+function linkAudio(detailData, audioDir, urlPrefix, baseFilename, jsonPathType, lang, dictId) {
     let linksAdded = 0;
-    if (!fs.existsSync(audioDir)) return 0;
+    const allFiles = getAudioFiles(audioDir, dictId);
+    if (allFiles.length === 0) return 0;
 
     try {
-        const matchingFiles = fs.readdirSync(audioDir)
+        const matchingFiles = allFiles
             .filter(f => f.startsWith(baseFilename) && f.endsWith('.opus'));
 
         if (matchingFiles.length > 0) {
@@ -80,9 +95,9 @@ async function processDictionary(dictDistPath) {
             const ownAudioDir = path.join(MEDIA_DIR, dictId, 'audio');
             const ownUrlPrefix = `/media/${dictId}/audio`;
             if (detailData.source) {
-                totalLinksForFile += linkAudio(detailData, ownAudioDir, ownUrlPrefix, jsonFileBaseName, 'source.headword', detailData.sourceLanguage);
+                totalLinksForFile += linkAudio(detailData, ownAudioDir, ownUrlPrefix, jsonFileBaseName, 'source.headword', detailData.sourceLanguage, dictId);
             } else if (detailData.data) {
-                totalLinksForFile += linkAudio(detailData, ownAudioDir, ownUrlPrefix, jsonFileBaseName, 'data.headword', detailData.lang);
+                totalLinksForFile += linkAudio(detailData, ownAudioDir, ownUrlPrefix, jsonFileBaseName, 'data.headword', detailData.lang, dictId);
             }
 
             if (detailData.parent) {
@@ -93,7 +108,7 @@ async function processDictionary(dictDistPath) {
                     const parentBaseFilename = parentIdParts.slice(2).join('-');
                     const parentAudioDir = path.join(MEDIA_DIR, parentPackageId, 'audio');
                     const parentUrlPrefix = `/media/${parentPackageId}/audio`;
-                    totalLinksForFile += linkAudio(detailData, parentAudioDir, parentUrlPrefix, parentBaseFilename, 'target.headword', detailData.targetLanguage);
+                    totalLinksForFile += linkAudio(detailData, parentAudioDir, parentUrlPrefix, parentBaseFilename, 'target.headword', detailData.targetLanguage, parentPackageId);
                 }
             }
             

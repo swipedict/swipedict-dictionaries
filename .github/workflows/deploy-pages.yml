@@ -20,6 +20,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Download media index (avoids full LFS checkout)
+        run: |
+          curl -sL -H "Authorization: token ${{ secrets.MEDIA_REPO_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://api.github.com/repos/swipedict/swipedict-dictionaries-media/contents/index.json" \
+            -o media-index.json
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -28,9 +35,11 @@ jobs:
         working-directory: infra
         run: npm ci
 
-      - name: Build dictionaries (JSON only, no media)
+      - name: Build dictionaries (using media index for audio manifests)
         working-directory: infra
         run: npm run build
+        env:
+          MEDIA_INDEX: ${{ github.workspace }}/media-index.json
 
       - uses: actions/upload-pages-artifact@v3
         with:
