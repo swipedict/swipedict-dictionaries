@@ -50,7 +50,7 @@
         "pronunciation": { "type": "string" },
         "etymology": { "$ref": "#/definitions/bilingualEtymology" },
         "additional": { "type": "string" },
-        "genus": { "type": "string" }
+        "genus": { "type": "string", "enum": ["masculine", "feminine", "neuter"] }
       },
       "required": ["lang", "headword", "definition"],
       "additionalProperties": false

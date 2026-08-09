@@ -11,6 +11,7 @@ const __dirname = path.dirname(__filename);
 const MONOREPO_ROOT = path.resolve(__dirname, '..');
 const DIST_DIR = path.resolve(MONOREPO_ROOT, 'dist');
 const SPEC_DIR = path.resolve(MONOREPO_ROOT, 'spec');
+const PACKAGES_DIR = path.resolve(MONOREPO_ROOT, 'packages');
 
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
@@ -139,9 +140,60 @@ async function processDictionary(dictionaryInfo, distDir) {
     }
 }
 
+// Root entries (packages/ms-ro) never reach dist, so dist validation alone would leave
+// them entirely unvalidated — this pass covers every package source file. Shape decides
+// the schema: 'data' marks a root entry, 'source'+'target' a pair entry.
+async function validatePackageSources() {
+    console.log(`\n${LOG_PREFIX} --- Validating package source files ---`);
+    let packageDirs;
+    try {
+        packageDirs = (await fs.readdir(PACKAGES_DIR, { withFileTypes: true }))
+            .filter(d => d.isDirectory()).map(d => d.name);
+    } catch (e) {
+        console.error(`${LOG_PREFIX} ❌ Could not read packages directory: ${PACKAGES_DIR}`);
+        globalStats.totalErrors++;
+        return;
+    }
+
+    for (const pkg of packageDirs) {
+        const pkgPath = path.join(PACKAGES_DIR, pkg);
+        const files = (await fs.readdir(pkgPath)).filter(f => f.endsWith('.json'));
+        let checked = 0;
+        for (const file of files) {
+            const filePath = path.join(pkgPath, file);
+            let data;
+            try {
+                data = JSON.parse(await fs.readFile(filePath, 'utf-8'));
+            } catch (e) {
+                console.error(`${LOG_PREFIX} ❌ INVALID JSON in: ${path.relative(MONOREPO_ROOT, filePath)}`);
+                globalStats.totalErrors++;
+                continue;
+            }
+
+            let validator;
+            if (data.data) validator = validateParentEntry;
+            else if (data.source && data.target) validator = validateEntry;
+            else {
+                console.error(`${LOG_PREFIX} ❌ UNRECOGNIZED entry shape (neither root nor pair): ${path.relative(MONOREPO_ROOT, filePath)}`);
+                globalStats.totalErrors++;
+                continue;
+            }
+
+            checked++;
+            globalStats.entriesChecked++;
+            if (!validator(data)) {
+                logSchemaErrors(validator.errors, filePath);
+            }
+        }
+        console.log(`${LOG_PREFIX}   -> ${pkg}: ${checked} source entries validated.`);
+    }
+}
+
 async function main() {
     console.log("--- Starting Final 'dist' Folder Validation ---");
     if (!(await loadAndCompileSchemas())) process.exit(1);
+
+    await validatePackageSources();
 
     const mediaDirPath = path.join(DIST_DIR, 'media');
     try {
