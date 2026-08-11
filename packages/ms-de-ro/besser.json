@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-besser",
+  "parent": "ms-ro-mai-bine-a8b0cb43@d12fdb18f72086bb8301a1c8070d895a",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "besser",
+    "definition": "Von höherer Qualität; Komparativ zu „gut“.",
+    "pronunciation": "/ˈbɛsɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Besser“ ist der unregelmäßige Komparativ zu „gut“, althochdeutsch „bezziro“.",
+        "targetText": "„Besser” este comparativul neregulat al lui „gut”, în germana veche înaltă „bezziro”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai bine",
+    "definition": "De o calitate superioară; comparativul lui „bine”.",
+    "pronunciation": "/maj ˈbi.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung verbindet „mai“ (< lateinisch „magis“) mit „bine“ (< lateinisch „bene“).",
+        "targetText": "Construcția leagă „mai” (din latinescul „magis”) cu „bine” (din latinescul „bene”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "gut",
+      "targetText": "bine"
+    },
+    {
+      "sourceText": "am besten",
+      "targetText": "cel mai bine"
+    },
+    {
+      "sourceText": "schlechter",
+      "targetText": "mai rău"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schlechter",
+      "targetText": "mai rău"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Heute geht es mir besser.",
+      "targetText": "Astăzi mă simt mai bine."
+    },
+    {
+      "sourceText": "Besser spät als nie.",
+      "targetText": "Mai bine mai târziu decât niciodată."
+    },
+    {
+      "sourceText": "Das ist besser so.",
+      "targetText": "Este mai bine așa."
+    },
+    {
+      "sourceText": "Er singt besser als ich.",
+      "targetText": "Cântă mai bine decât mine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Anders als im Deutschen gibt es keine unregelmäßige Steigerung – immer „mai bine“."
+    },
+    {
+      "lang": "de",
+      "text": "Adjektiv und Adverb unterscheiden sich: „mai bun“ (besser, Adjektiv), „mai bine“ (besser, Adverb)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

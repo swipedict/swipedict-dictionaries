@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-genug",
+  "parent": "ms-ro-destul-dad91ebe@940ffb07db43c46a98a02246232efebe",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "genug",
+    "definition": "So viel wie nötig; ausreichend.",
+    "pronunciation": "/ɡəˈnuːk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Genug“ geht auf althochdeutsch „ginuog“ zurück, zum Verb „genügen“.",
+        "targetText": "„Genug” provine din germana veche înaltă „ginuog”, de la verbul „genügen”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "destul",
+    "definition": "Atât cât este nevoie; suficient.",
+    "pronunciation": "/desˈtul/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „destul“ entstand aus „de“ und „satul“ (< lateinisch „satullus“, gesättigt) – wörtlich „bis zur Sättigung“.",
+        "targetText": "Românescul „destul” s-a format din „de” și „satul” (din latinescul „satullus”) – literal „până la săturare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ziemlich",
+      "targetText": "destul de"
+    },
+    {
+      "sourceText": "viel",
+      "targetText": "mult"
+    },
+    {
+      "sourceText": "ausreichend",
+      "targetText": "suficient"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zu wenig",
+      "targetText": "prea puțin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist genug.",
+      "targetText": "Este destul."
+    },
+    {
+      "sourceText": "Ich habe genug Geld.",
+      "targetText": "Am destui bani."
+    },
+    {
+      "sourceText": "Genug geredet!",
+      "targetText": "Destul cu vorba!"
+    },
+    {
+      "sourceText": "Hast du genug gegessen?",
+      "targetText": "Ai mâncat destul?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Destul!“ allein heißt „Es reicht!“ – ein sehr häufiger Ausruf."
+    },
+    {
+      "lang": "de",
+      "text": "Formen: destul, destulă, destui, destule."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

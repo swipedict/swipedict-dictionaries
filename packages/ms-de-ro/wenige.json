@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-wenige",
+  "parent": "ms-ro-putini-e0159246@ab7470ece2fcdee3400e01262cbde978",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wenige",
+    "definition": "Eine kleine Anzahl von Personen oder Dingen.",
+    "pronunciation": "/ˈveːnɪɡə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Wenig“ geht auf althochdeutsch „wēnag“ zurück, ursprünglich „beklagenswert, gering“.",
+        "targetText": "„Wenig” provine din germana veche înaltă „wēnag”, inițial „vrednic de plâns, mic”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "puțini",
+    "definition": "Un număr mic de persoane sau lucruri.",
+    "pronunciation": "/puˈt͡sinʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „puțin“ stammt vom lateinischen „putinnus“, einer Nebenform zu „putus“ („klein, Knabe“).",
+        "targetText": "Românescul „puțin” provine din latinescul „putinnus”, variantă a lui „putus” („mic, băiețel”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "viele",
+      "targetText": "mulți"
+    },
+    {
+      "sourceText": "ein bisschen",
+      "targetText": "puțin"
+    },
+    {
+      "sourceText": "kaum",
+      "targetText": "cu greu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "viele",
+      "targetText": "mulți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Wenige Leute kamen.",
+      "targetText": "Puțini oameni au venit."
+    },
+    {
+      "sourceText": "Ich habe wenig Zeit.",
+      "targetText": "Am puțin timp."
+    },
+    {
+      "sourceText": "Ein bisschen Salz.",
+      "targetText": "Puțină sare."
+    },
+    {
+      "sourceText": "Nur wenige verstehen das.",
+      "targetText": "Doar puțini înțeleg asta."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: puțin, puțină, puțini, puține."
+    },
+    {
+      "lang": "de",
+      "text": "„puțin“ allein heißt auch „ein bisschen“: „mai puțin sare“ = etwas weniger Salz."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

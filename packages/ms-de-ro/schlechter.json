@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schlechter",
+  "parent": "ms-ro-mai-rau-cc8204ea@47e135629d7b3339611cc481e9b3bdbb",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schlechter",
+    "definition": "Von geringerer Qualität; Komparativ zu „schlecht“.",
+    "pronunciation": "/ˈʃlɛçtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schlecht“ bedeutete althochdeutsch „slecht“ ursprünglich „glatt, einfach“; erst später wurde daraus „minderwertig“.",
+        "targetText": "„Schlecht” însemna în germana veche înaltă „slecht” „neted, simplu”; abia mai târziu a devenit „de proastă calitate”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai rău",
+    "definition": "De o calitate inferioară; comparativul lui „rău”.",
+    "pronunciation": "/maj rəw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung verbindet „mai“ (< lateinisch „magis“) mit „rău“ (< lateinisch „reus“, schuldig, schlimm).",
+        "targetText": "Construcția leagă „mai” (din latinescul „magis”) cu „rău” (din latinescul „reus”, vinovat, rău)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "schlecht",
+      "targetText": "rău"
+    },
+    {
+      "sourceText": "besser",
+      "targetText": "mai bine"
+    },
+    {
+      "sourceText": "am schlechtesten",
+      "targetText": "cel mai rău"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "besser",
+      "targetText": "mai bine"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es geht ihm schlechter.",
+      "targetText": "Îi este mai rău."
+    },
+    {
+      "sourceText": "Schlechter als gestern.",
+      "targetText": "Mai rău decât ieri."
+    },
+    {
+      "sourceText": "Das macht es nur schlechter.",
+      "targetText": "Asta face lucrurile mai rău."
+    },
+    {
+      "sourceText": "Immer schlechter.",
+      "targetText": "Tot mai rău."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„rău“ ist Adjektiv und Adverb zugleich: „un om rău“ und „îmi este rău“."
+    },
+    {
+      "lang": "de",
+      "text": "„Îmi este rău“ heißt „Mir ist schlecht“ – eine wichtige Wendung beim Arzt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

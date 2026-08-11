@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-mein",
+  "parent": "ms-ro-al-meu-b1e35a24@4d68e5360958c6245cb3f7def53b1cb6",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mein",
+    "definition": "Possessivbegleiter der ersten Person Singular: gehört mir.",
+    "pronunciation": "/maɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Mein“ geht auf althochdeutsch „mīn“ zurück, gebildet zum Personalpronomen „ich“.",
+        "targetText": "„Mein” provine din germana veche înaltă „mīn”, format de la pronumele „ich”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "al meu",
+    "definition": "Pronume posesiv de persoana întâi singular: care îmi aparține.",
+    "pronunciation": "/al mew/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „al meu“ verbindet den Possessivartikel „al“ (< lateinisch „illum“) mit „meu“ (< lateinisch „meus“).",
+        "targetText": "Românescul „al meu” combină articolul posesiv „al” (din latinescul „illum”) cu „meu” (din latinescul „meus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dein",
+      "targetText": "al tău"
+    },
+    {
+      "sourceText": "unser",
+      "targetText": "al nostru"
+    },
+    {
+      "sourceText": "ich",
+      "targetText": "eu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dein",
+      "targetText": "al tău"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist mein Buch.",
+      "targetText": "Aceasta este cartea mea."
+    },
+    {
+      "sourceText": "Mein Bruder wohnt hier.",
+      "targetText": "Fratele meu locuiește aici."
+    },
+    {
+      "sourceText": "Ist das deins oder meins?",
+      "targetText": "Este al tău sau al meu?"
+    },
+    {
+      "sourceText": "Meine Freunde kommen.",
+      "targetText": "Prietenii mei vin."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Der Possessivartikel richtet sich nach dem Besitz, nicht nach dem Besitzer: al meu, a mea, ai mei, ale mele."
+    },
+    {
+      "lang": "de",
+      "text": "Meist steht das Possessiv nach dem Substantiv: „cartea mea“, nicht „mea carte“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

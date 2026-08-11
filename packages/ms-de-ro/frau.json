@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-frau",
+  "parent": "ms-ro-femeie-e636b5c4@0ae0b04c4c479a229be31485e7d0742b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Frau",
+    "definition": "Erwachsener Mensch weiblichen Geschlechts.",
+    "pronunciation": "/fʁaʊ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Frau“ geht auf althochdeutsch „frouwa“ („Herrin“) zurück, die weibliche Form zu „fro“ („Herr“).",
+        "targetText": "„Frau” provine din germana veche înaltă „frouwa” („stăpână”), forma feminină a lui „fro” („stăpân”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "femeie",
+    "definition": "Persoană adultă de sex feminin.",
+    "pronunciation": "/feˈme.je/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „femeie“ stammt vom lateinischen „familia“, das im Vulgärlateinischen die Bedeutung „Hausgemeinschaft“ zu „Ehefrau, Frau“ verengte.",
+        "targetText": "Românescul „femeie” provine din latinescul „familia”, al cărui sens de „gospodărie” s-a îngustat în latina populară la „soție, femeie”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mann",
+      "targetText": "bărbat"
+    },
+    {
+      "sourceText": "Mädchen",
+      "targetText": "fată"
+    },
+    {
+      "sourceText": "Ehefrau",
+      "targetText": "soție"
+    },
+    {
+      "sourceText": "Mutter",
+      "targetText": "mamă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mann",
+      "targetText": "bărbat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Frau liest ein Buch.",
+      "targetText": "Femeia citește o carte."
+    },
+    {
+      "sourceText": "Sie ist eine starke Frau.",
+      "targetText": "Ea este o femeie puternică."
+    },
+    {
+      "sourceText": "Zwei Frauen warten draußen.",
+      "targetText": "Două femei așteaptă afară."
+    },
+    {
+      "sourceText": "Meine Frau heißt Ana.",
+      "targetText": "Soția mea se numește Ana."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Vorsicht: „femeie“ heißt „Frau“ im Sinne von weiblicher Mensch. Die Ehefrau ist „soție“ – nicht wie im Deutschen dasselbe Wort."
+    },
+    {
+      "lang": "de",
+      "text": "„femeie“ und „Familie“ haben dieselbe lateinische Wurzel „familia“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

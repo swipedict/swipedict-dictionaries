@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-sich",
+  "parent": "ms-ro-se-574d4def@84bc43dd530a6a193093222f73412bf3",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sich",
+    "definition": "Rückbezügliches Pronomen: verweist auf das Subjekt des Satzes zurück.",
+    "pronunciation": "/zɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sich“ geht auf althochdeutsch „sih“ zurück und ist urverwandt mit lateinisch „se“.",
+        "targetText": "„Sich” provine din germana veche înaltă „sih”, înrudit din vechime cu latinescul „se”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "se",
+    "definition": "Pronume reflexiv: trimite înapoi la subiectul propoziției.",
+    "pronunciation": "/se/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „se“ setzt das lateinische Reflexivpronomen „se“ unverändert fort – dasselbe Wort, mit dem auch deutsch „sich“ urverwandt ist.",
+        "targetText": "Românescul „se” continuă neschimbat pronumele reflexiv latin „se” – același cuvânt cu care este înrudit și germanul „sich”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mich",
+      "targetText": "mă"
+    },
+    {
+      "sourceText": "dich",
+      "targetText": "te"
+    },
+    {
+      "sourceText": "uns",
+      "targetText": "ne"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er wäscht sich.",
+      "targetText": "El se spală."
+    },
+    {
+      "sourceText": "Sie freut sich.",
+      "targetText": "Ea se bucură."
+    },
+    {
+      "sourceText": "Die Tür öffnet sich.",
+      "targetText": "Ușa se deschide."
+    },
+    {
+      "sourceText": "Wir treffen uns morgen.",
+      "targetText": "Ne întâlnim mâine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„se“ steht vor dem Verb: „se spală“, nie danach wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "In der 1. und 2. Person wechselt die Form: mă, te, se, ne, vă, se."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

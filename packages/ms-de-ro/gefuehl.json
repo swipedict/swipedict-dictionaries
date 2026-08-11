@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-gefuehl",
+  "parent": "ms-ro-sentiment-4372fd2b@ce657a153414d58825867777011310c5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:french",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gefühl",
+    "definition": "Innere Empfindung wie Freude, Angst oder Liebe.",
+    "pronunciation": "/ɡəˈfyːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Gefühl“ ist von „fühlen“ abgeleitet, althochdeutsch „fuolen“.",
+        "targetText": "„Gefühl” este derivat de la „fühlen”, în germana veche înaltă „fuolen”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sentiment",
+    "definition": "Trăire interioară precum bucuria, teama sau iubirea.",
+    "pronunciation": "/sen.tiˈment/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „sentiment“ ist aus dem Französischen „sentiment“ entlehnt; die lateinische Wurzel „sentire“ heißt „fühlen“.",
+        "targetText": "Românescul „sentiment” este împrumutat din franceză, din „sentiment”; rădăcina latină „sentire” înseamnă „a simți”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "fühlen",
+      "targetText": "a simți"
+    },
+    {
+      "sourceText": "Liebe",
+      "targetText": "dragoste"
+    },
+    {
+      "sourceText": "Freude",
+      "targetText": "bucurie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ein gutes Gefühl.",
+      "targetText": "Un sentiment bun."
+    },
+    {
+      "sourceText": "Ich habe das Gefühl, dass …",
+      "targetText": "Am sentimentul că …"
+    },
+    {
+      "sourceText": "Starke Gefühle.",
+      "targetText": "Sentimente puternice."
+    },
+    {
+      "sourceText": "Ohne Gefühl.",
+      "targetText": "Fără sentiment."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Verwandt mit „a simți“ (fühlen) – beide aus lateinisch sentire."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „sentimente“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

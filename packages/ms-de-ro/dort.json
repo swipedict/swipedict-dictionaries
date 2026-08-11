@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-dort",
+  "parent": "ms-ro-acolo-88e2b70c@cffb64558e360fad83c0159a83f98a95",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dort",
+    "definition": "An jenem Ort, entfernt vom Sprecher.",
+    "pronunciation": "/dɔʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dort“ geht auf althochdeutsch „dara“ zurück, zum Demonstrativstamm „da-“.",
+        "targetText": "„Dort” provine din germana veche înaltă „dara”, de la rădăcina demonstrativă „da-”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acolo",
+    "definition": "În acel loc, departe de vorbitor.",
+    "pronunciation": "/aˈko.lo/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „acolo“ geht auf lateinisch „eccum illoc“ zurück – „siehe, dort“.",
+        "targetText": "Românescul „acolo” provine din latinescul „eccum illoc” – „iată, acolo”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hier",
+      "targetText": "aici"
+    },
+    {
+      "sourceText": "jener",
+      "targetText": "acela"
+    },
+    {
+      "sourceText": "weit",
+      "targetText": "departe"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hier",
+      "targetText": "aici"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er wartet dort.",
+      "targetText": "El așteaptă acolo."
+    },
+    {
+      "sourceText": "Dort ist der Bahnhof.",
+      "targetText": "Acolo este gara."
+    },
+    {
+      "sourceText": "Geh dorthin!",
+      "targetText": "Du-te acolo!"
+    },
+    {
+      "sourceText": "Von dort kommt der Wind.",
+      "targetText": "De acolo vine vântul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Wieder das Element „eccum“ (siehe da), wie in aici, acesta, acela."
+    },
+    {
+      "lang": "de",
+      "text": "„acolo“ dient auch als „dorthin“ – keine eigene Richtungsform."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

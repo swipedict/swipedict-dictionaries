@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-jeder",
+  "parent": "ms-ro-fiecare-49facf3d@7ed6716ce3780ab57a6c4e8c0668b8f2",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jeder",
+    "definition": "Jedes einzelne Mitglied einer Gruppe, ohne Ausnahme.",
+    "pronunciation": "/ˈjeːdɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Jeder“ entstand aus althochdeutsch „io gi wedar“ – „immer einer von beiden“.",
+        "targetText": "„Jeder” provine din germana veche înaltă „io gi wedar” – „mereu unul dintre doi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fiecare",
+    "definition": "Fiecare membru al unui grup, fără excepție.",
+    "pronunciation": "/fi.eˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „fiecare“ ist aus „fie“ (Konjunktiv von „a fi“, sei es) und „care“ (< lateinisch „qualis“) zusammengesetzt.",
+        "targetText": "Românescul „fiecare” este compus din „fie” (conjunctivul lui „a fi”) și „care” (din latinescul „qualis”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alle",
+      "targetText": "toți"
+    },
+    {
+      "sourceText": "jemand",
+      "targetText": "cineva"
+    },
+    {
+      "sourceText": "man",
+      "targetText": "se"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "keiner",
+      "targetText": "niciunul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jeder Mensch ist anders.",
+      "targetText": "Fiecare om este diferit."
+    },
+    {
+      "sourceText": "Jeden Tag lerne ich.",
+      "targetText": "În fiecare zi învăț."
+    },
+    {
+      "sourceText": "Jeder von uns hilft.",
+      "targetText": "Fiecare dintre noi ajută."
+    },
+    {
+      "sourceText": "Sie bekommt jede Woche einen Brief.",
+      "targetText": "Primește o scrisoare în fiecare săptămână."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„în fiecare zi/săptămână“ ist die feste Wendung für „jeden Tag / jede Woche“."
+    },
+    {
+      "lang": "de",
+      "text": "„fiecare“ ändert die Form nicht – anders als „toți/toate“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

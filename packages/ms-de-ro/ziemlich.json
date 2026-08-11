@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-ziemlich",
+  "parent": "ms-ro-destul-de-e43decaf@b4edb1a7cc45295583476952ac068cbb",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ziemlich",
+    "definition": "In merklichem, aber nicht höchstem Maße.",
+    "pronunciation": "/ˈt͡siːmlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Ziemlich“ gehört zu „ziemen“ („sich gehören“) – ursprünglich „angemessen“.",
+        "targetText": "„Ziemlich” este înrudit cu „ziemen” („a se cuveni”) – inițial „potrivit”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "destul de",
+    "definition": "Într-o măsură apreciabilă, dar nu maximă.",
+    "pronunciation": "/desˈtul de/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Fügung enthält „destul“, das aus „de“ und „satul“ (< lateinisch „satullus“, gesättigt) entstand.",
+        "targetText": "Construcția conține „destul”, format din „de” și „satul” (din latinescul „satullus”, sătul)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sehr",
+      "targetText": "foarte"
+    },
+    {
+      "sourceText": "genug",
+      "targetText": "destul"
+    },
+    {
+      "sourceText": "fast",
+      "targetText": "aproape"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kaum",
+      "targetText": "cu greu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es ist ziemlich kalt.",
+      "targetText": "Este destul de frig."
+    },
+    {
+      "sourceText": "Sie spricht ziemlich gut.",
+      "targetText": "Vorbește destul de bine."
+    },
+    {
+      "sourceText": "Das ist ziemlich teuer.",
+      "targetText": "Este destul de scump."
+    },
+    {
+      "sourceText": "Ziemlich weit von hier.",
+      "targetText": "Destul de departe de aici."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„destul de“ steht vor Adjektiven, „destul“ allein heißt „genug“."
+    },
+    {
+      "lang": "de",
+      "text": "Wörtlich „sattsam“ – von „sătul“ (satt)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

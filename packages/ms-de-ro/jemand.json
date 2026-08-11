@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-jemand",
+  "parent": "ms-ro-cineva-4a1afcfd@03c199a9c17348bc7a98dee7c2e40b33",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jemand",
+    "definition": "Eine nicht näher bestimmte Person.",
+    "pronunciation": "/ˈjeːmant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Jemand“ entstand aus mittelhochdeutsch „ieman“, wörtlich „irgendein Mann, irgendwer“.",
+        "targetText": "„Jemand” provine din germana medie „ieman”, literal „vreun om, oricine”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cineva",
+    "definition": "O persoană nedeterminată.",
+    "pronunciation": "/t͡ʃi.neˈva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „cineva“ ist aus „cine“ (< lateinisch „quinam“, wer denn) und der Partikel „-va“ gebildet.",
+        "targetText": "Românescul „cineva” este format din „cine” (din latinescul „quinam”) și particula „-va”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "niemand",
+      "targetText": "nimeni"
+    },
+    {
+      "sourceText": "etwas",
+      "targetText": "ceva"
+    },
+    {
+      "sourceText": "man",
+      "targetText": "se"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "niemand",
+      "targetText": "nimeni"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jemand hat angerufen.",
+      "targetText": "A sunat cineva."
+    },
+    {
+      "sourceText": "Kennst du jemanden hier?",
+      "targetText": "Cunoști pe cineva aici?"
+    },
+    {
+      "sourceText": "Jemand muss helfen.",
+      "targetText": "Cineva trebuie să ajute."
+    },
+    {
+      "sourceText": "Da ist jemand an der Tür.",
+      "targetText": "Este cineva la ușă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Als Objekt braucht „cineva“ die Präposition „pe“: „văd pe cineva“."
+    },
+    {
+      "lang": "de",
+      "text": "Gleiche Bildung wie „ceva“ – Fragewort plus die Partikel „-va“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-ding",
+  "parent": "ms-ro-lucru-0750b72e@114bd6f4bc71f3504c36d9935a91d439",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ding",
+    "definition": "Ein Gegenstand oder eine Sache allgemein.",
+    "pronunciation": "/dɪŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Ding“ bedeutete althochdeutsch „thing“ ursprünglich „Volksversammlung, Gerichtssache“ – daraus wurde die allgemeine „Sache“.",
+        "targetText": "„Ding” însemna în germana veche înaltă „thing” „adunare, pricină judecată”; de aici a rezultat sensul general de „lucru”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lucru",
+    "definition": "Un obiect sau o chestiune în general.",
+    "pronunciation": "/ˈlu.kru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „lucru“ stammt vom lateinischen „lucrum“ („Gewinn, Ertrag“); im Rumänischen verschob sich die Bedeutung zu „Arbeit“ und dann zu „Ding“.",
+        "targetText": "Românescul „lucru” provine din latinescul „lucrum” („câștig, profit”); în română sensul s-a deplasat spre „muncă” și apoi spre „obiect”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Sache",
+      "targetText": "chestiune"
+    },
+    {
+      "sourceText": "Gegenstand",
+      "targetText": "obiect"
+    },
+    {
+      "sourceText": "arbeiten",
+      "targetText": "a lucra"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Was ist das für ein Ding?",
+      "targetText": "Ce lucru este acesta?"
+    },
+    {
+      "sourceText": "Viele Dinge.",
+      "targetText": "Multe lucruri."
+    },
+    {
+      "sourceText": "Das Wichtigste zuerst.",
+      "targetText": "Lucrul cel mai important mai întâi."
+    },
+    {
+      "sourceText": "Er hat viel zu tun.",
+      "targetText": "Are mult de lucru."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„lucru“ heißt auch „Arbeit“: „am mult de lucru“ = ich habe viel zu tun."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „lucruri“ – auch im Sinne von „Sachen, Gepäck“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

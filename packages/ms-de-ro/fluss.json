@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-fluss",
+  "parent": "ms-ro-rau-fb62cb69@d3f36cceb019d2385da020651b79f8a4",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Fluss",
+    "definition": "Größeres fließendes Gewässer.",
+    "pronunciation": "/flʊs/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Fluss“ ist von „fließen“ abgeleitet, althochdeutsch „fliozan“.",
+        "targetText": "„Fluss” este derivat de la „fließen”, în germana veche înaltă „fliozan”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "râu",
+    "definition": "Curs de apă mai mare care curge.",
+    "pronunciation": "/rɨw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „râu“ stammt vom lateinischen „rivus“ („Bach“) – dieselbe Wurzel wie in „Rivale“, ursprünglich „Bachnachbar“.",
+        "targetText": "Românescul „râu” provine din latinescul „rivus” („pârâu”) – aceeași rădăcină ca în „rival”, inițial „vecin de râu”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    },
+    {
+      "sourceText": "Meer",
+      "targetText": "mare"
+    },
+    {
+      "sourceText": "Ufer",
+      "targetText": "mal"
+    },
+    {
+      "sourceText": "Berg",
+      "targetText": "munte"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der Fluss ist breit.",
+      "targetText": "Râul este lat."
+    },
+    {
+      "sourceText": "Wir schwimmen im Fluss.",
+      "targetText": "Înotăm în râu."
+    },
+    {
+      "sourceText": "Am Ufer des Flusses.",
+      "targetText": "Pe malul râului."
+    },
+    {
+      "sourceText": "Die Donau ist ein großer Fluss.",
+      "targetText": "Dunărea este un râu mare."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „râuri“. Für kleine Bäche sagt man „pârâu“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke „rivus“ → „Rivale“: wer am selben Fluss wohnt, streitet ums Wasser."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

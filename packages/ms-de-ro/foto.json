@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-foto",
+  "parent": "ms-ro-fotografie-2e3fd0fe@dbd04181bb325fbf80e6823d7f88611c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Foto",
+    "definition": "Mit einer Kamera aufgenommenes Bild.",
+    "pronunciation": "/ˈfoːto/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Foto“ ist die Kurzform von „Fotografie“, gebildet aus griechisch „phōs“ (Licht) und „gráphein“ (schreiben).",
+        "targetText": "„Foto” este forma scurtă a lui „Fotografie”, din grecescul „phōs” (lumină) și „gráphein” (a scrie)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fotografie",
+    "definition": "Imagine realizată cu un aparat de fotografiat.",
+    "pronunciation": "/fo.to.ɡraˈfi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „fotografie“ ist aus dem Französischen „photographie“ entlehnt; die Bestandteile sind griechisch: „Lichtschrift“.",
+        "targetText": "Românescul „fotografie” este împrumutat din franceză, din „photographie”; elementele sunt grecești: „scriere cu lumină”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Kamera",
+      "targetText": "aparat foto"
+    },
+    {
+      "sourceText": "Bild",
+      "targetText": "imagine"
+    },
+    {
+      "sourceText": "machen",
+      "targetText": "a face"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ein schönes Foto.",
+      "targetText": "O fotografie frumoasă."
+    },
+    {
+      "sourceText": "Ich mache ein Foto.",
+      "targetText": "Fac o fotografie."
+    },
+    {
+      "sourceText": "Alte Fotos.",
+      "targetText": "Fotografii vechi."
+    },
+    {
+      "sourceText": "Darf ich fotografieren?",
+      "targetText": "Pot să fotografiez?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Umgangssprachlich sagt man „poză“: „fac o poză“ = ich mache ein Foto."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „fotografii“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

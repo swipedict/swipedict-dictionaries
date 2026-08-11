@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-kommen",
+  "parent": "ms-ro-a-veni-0a9e636d@42981d18ac19f4948ea90f477fac97f8",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:transport-movement",
+    "register:neutral",
+    "property:action"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kommen",
+    "definition": "Sich auf einen Ort zubewegen; irgendwo eintreffen.",
+    "pronunciation": "/ˈkɔmən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Kommen“ geht auf althochdeutsch „queman“ zurück und ist urverwandt mit lateinisch „venire“.",
+        "targetText": "„Kommen” provine din germana veche înaltă „queman”, înrudit din vechime cu latinescul „venire”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a veni",
+    "definition": "A se deplasa spre un loc; a ajunge undeva.",
+    "pronunciation": "/a veˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a veni“ stammt direkt vom lateinischen „venire“ – demselben Wort, mit dem auch das deutsche „kommen“ urverwandt ist.",
+        "targetText": "Românescul „a veni” provine direct din latinescul „venire” – același cuvânt cu care este înrudit și germanul „kommen”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "gehen",
+      "targetText": "a merge"
+    },
+    {
+      "sourceText": "ankommen",
+      "targetText": "a sosi"
+    },
+    {
+      "sourceText": "zurückkommen",
+      "targetText": "a se întoarce"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "gehen",
+      "targetText": "a pleca"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich komme gleich.",
+      "targetText": "Eu vin imediat."
+    },
+    {
+      "sourceText": "Wann kommst du?",
+      "targetText": "Când vii?"
+    },
+    {
+      "sourceText": "Er ist gestern gekommen.",
+      "targetText": "El a venit ieri."
+    },
+    {
+      "sourceText": "Kommen Sie herein!",
+      "targetText": "Intrați, vă rog!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a veni“ ist unregelmäßig: eu vin, tu vii, el vine, noi venim, voi veniți, ei vin."
+    },
+    {
+      "lang": "de",
+      "text": "Deutsch „kommen“ und rumänisch „a veni“ gehen auf dieselbe indogermanische Wurzel zurück."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

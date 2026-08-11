@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-sollen",
+  "parent": "ms-ro-a-trebui-84f2f698@e629104b1553f8469149be1e2b187693",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sollen",
+    "definition": "Eine Verpflichtung oder Erwartung ausdrücken.",
+    "pronunciation": "/ˈzɔlən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sollen“ geht auf althochdeutsch „scolan“ zurück, ursprünglich „schulden“ – wer soll, der schuldet etwas.",
+        "targetText": "„Sollen” provine din germana veche înaltă „scolan”, inițial „a datora” – cine trebuie, acela datorează ceva."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a trebui",
+    "definition": "A exprima o obligație sau o așteptare.",
+    "pronunciation": "/a treˈbuj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a trebui“ stammt aus altkirchenslawisch „trěbovati“ („bedürfen“) und wird meist unpersönlich gebraucht.",
+        "targetText": "Românescul „a trebui” provine din slavona veche „trěbovati” („a avea nevoie”) și se folosește mai ales impersonal."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "müssen",
+      "targetText": "a trebui"
+    },
+    {
+      "sourceText": "können",
+      "targetText": "a putea"
+    },
+    {
+      "sourceText": "dürfen",
+      "targetText": "a avea voie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich soll früh aufstehen.",
+      "targetText": "Trebuie să mă trezesc devreme."
+    },
+    {
+      "sourceText": "Was soll ich tun?",
+      "targetText": "Ce trebuie să fac?"
+    },
+    {
+      "sourceText": "Du sollst nicht lügen.",
+      "targetText": "Nu trebuie să minți."
+    },
+    {
+      "sourceText": "Es sollte regnen.",
+      "targetText": "Ar trebui să plouă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„trebuie“ bleibt fast immer unverändert: „trebuie să merg / să mergi / să meargă“."
+    },
+    {
+      "lang": "de",
+      "text": "„ar trebui“ ist der Konditional: „man sollte“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

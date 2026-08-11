@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-wir",
+  "parent": "ms-ro-noi-53d75959@94c890bdf6fa97e4901e5e305bedea8c",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "wir",
+    "definition": "Das Personalpronomen der ersten Person Plural.",
+    "pronunciation": "/viːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Wir“ geht auf althochdeutsch „wir“ zurück und ist urverwandt mit lateinisch „nos“ nicht, sondern mit gotisch „weis“.",
+        "targetText": "„Wir” provine din germana veche înaltă „wir”, înrudit cu goticul „weis”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "noi",
+    "definition": "Pronumele personal de persoana întâi plural.",
+    "pronunciation": "/noj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „noi“ stammt vom lateinischen „nos“; das auslautende -s wurde im Rumänischen zu -i, wie auch in „voi“ < „vos“.",
+        "targetText": "Românescul „noi” provine din latinescul „nos”; consoana finală -s a devenit -i, ca și în „voi” < „vos”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ich",
+      "targetText": "eu"
+    },
+    {
+      "sourceText": "ihr",
+      "targetText": "voi"
+    },
+    {
+      "sourceText": "unser",
+      "targetText": "al nostru"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ihr",
+      "targetText": "voi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Wir sind Freunde.",
+      "targetText": "Noi suntem prieteni."
+    },
+    {
+      "sourceText": "Wir gehen ins Kino.",
+      "targetText": "Noi mergem la cinema."
+    },
+    {
+      "sourceText": "Wir haben Zeit.",
+      "targetText": "Noi avem timp."
+    },
+    {
+      "sourceText": "Kommst du mit uns?",
+      "targetText": "Vii cu noi?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Wie bei „eu“ steht „noi“ meist nur zur Betonung – „suntem prieteni“ reicht schon."
+    },
+    {
+      "lang": "de",
+      "text": "Merke das Paar: „noi“ < nos, „voi“ < vos – dieselbe Endungsentwicklung -s → -i."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

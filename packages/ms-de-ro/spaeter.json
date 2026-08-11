@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-spaeter",
+  "parent": "ms-ro-mai-tarziu-69b8809b@a9f5fe7854a50a0afabe472905002687",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "später",
+    "definition": "Zu einem Zeitpunkt nach jetzt.",
+    "pronunciation": "/ˈʃpɛːtɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Später“ ist der Komparativ von „spät“, althochdeutsch „spāti“.",
+        "targetText": "„Später” este comparativul lui „spät”, în germana veche înaltă „spāti”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai târziu",
+    "definition": "La un moment de după cel prezent.",
+    "pronunciation": "/maj tɨrˈziw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Fügung verbindet „mai“ (< lateinisch „magis“) mit „târziu“ (< lateinisch „tardivus“).",
+        "targetText": "Construcția românească leagă „mai” (din latinescul „magis”) cu „târziu” (din „tardivus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "früher",
+      "targetText": "mai devreme"
+    },
+    {
+      "sourceText": "bald",
+      "targetText": "curând"
+    },
+    {
+      "sourceText": "dann",
+      "targetText": "apoi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "früher",
+      "targetText": "mai devreme"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Bis später!",
+      "targetText": "Pe mai târziu!"
+    },
+    {
+      "sourceText": "Ich rufe später an.",
+      "targetText": "Sun mai târziu."
+    },
+    {
+      "sourceText": "Früher oder später.",
+      "targetText": "Mai devreme sau mai târziu."
+    },
+    {
+      "sourceText": "Zwei Jahre später.",
+      "targetText": "Doi ani mai târziu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Der Komparativ wird immer mit „mai“ gebildet: mai târziu, mai bine, mai mult."
+    },
+    {
+      "lang": "de",
+      "text": "„târziu“ steckt auch in „a întârzia“ (sich verspäten)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

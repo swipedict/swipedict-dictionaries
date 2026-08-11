@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schwierig",
+  "parent": "ms-ro-dificil-9200094f@44dba594844eb8a873690bd5fe899c33",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schwierig",
+    "definition": "Nicht leicht zu tun oder zu verstehen.",
+    "pronunciation": "/ˈʃviːʁɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schwierig“ ist von „schwer“ abgeleitet, über mittelhochdeutsch „swiric“.",
+        "targetText": "„Schwierig” este derivat de la „schwer”, prin germana medie „swiric”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dificil",
+    "definition": "Care nu este ușor de făcut sau de înțeles.",
+    "pronunciation": "/di.fiˈt͡ʃil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „dificil“ ist aus dem Französischen „difficile“ entlehnt; die lateinische Wurzel ist „difficilis“ („nicht leicht zu machen“).",
+        "targetText": "Românescul „dificil” este împrumutat din franceză, din „difficile”; rădăcina latină este „difficilis” („greu de făcut”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "einfach",
+      "targetText": "simplu"
+    },
+    {
+      "sourceText": "schwer",
+      "targetText": "greu"
+    },
+    {
+      "sourceText": "Problem",
+      "targetText": "problemă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "einfach",
+      "targetText": "simplu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist eine schwierige Aufgabe.",
+      "targetText": "Este o sarcină dificilă."
+    },
+    {
+      "sourceText": "Eine schwierige Zeit.",
+      "targetText": "O perioadă dificilă."
+    },
+    {
+      "sourceText": "Er ist ein schwieriger Mensch.",
+      "targetText": "Este un om dificil."
+    },
+    {
+      "sourceText": "Die Prüfung war schwer.",
+      "targetText": "Examenul a fost greu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Im Alltag sagt man oft einfach „greu“ statt „dificil“."
+    },
+    {
+      "lang": "de",
+      "text": "Formen: dificil, dificilă, dificili, dificile."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

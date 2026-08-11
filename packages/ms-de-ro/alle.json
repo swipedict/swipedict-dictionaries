@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-alle",
+  "parent": "ms-ro-toti-5159c748@2a6dcdcdb59d387973f56ba0d8d553aa",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "alle",
+    "definition": "Die Gesamtheit einer Gruppe, jedes einzelne Mitglied.",
+    "pronunciation": "/ˈalə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Alle“ geht auf althochdeutsch „al“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Alle” provine din germana veche înaltă „al”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "toți",
+    "definition": "Totalitatea unui grup, fiecare membru al lui.",
+    "pronunciation": "/tot͡sʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „toți“ stammt vom lateinischen „totus“ („ganz“), das im Rumänischen die Rolle des klassischen „omnis“ übernahm.",
+        "targetText": "Românescul „toți” provine din latinescul „totus” („întreg”), care a preluat rolul clasicului „omnis”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "jeder",
+      "targetText": "fiecare"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "tot"
+    },
+    {
+      "sourceText": "viele",
+      "targetText": "mulți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "keiner",
+      "targetText": "niciunul"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Alle sind gekommen.",
+      "targetText": "Toți au venit."
+    },
+    {
+      "sourceText": "Alle Kinder spielen.",
+      "targetText": "Toți copiii se joacă."
+    },
+    {
+      "sourceText": "Wir alle wissen das.",
+      "targetText": "Toți știm asta."
+    },
+    {
+      "sourceText": "Alle Frauen im Raum.",
+      "targetText": "Toate femeile din cameră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die Form richtet sich nach dem Geschlecht: „toți“ (männlich), „toate“ (weiblich)."
+    },
+    {
+      "lang": "de",
+      "text": "„tot“ allein heißt „alles/ganz“: „tot orașul“ = die ganze Stadt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

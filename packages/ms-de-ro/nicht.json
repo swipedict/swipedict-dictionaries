@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-nicht",
+  "parent": "ms-ro-nu-b3adc4c1@015e6bd9a604e7f44fc43f828c127a6e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "nicht",
+    "definition": "Wort, mit dem eine Aussage verneint wird.",
+    "pronunciation": "/nɪçt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Nicht“ geht auf mittelhochdeutsch „niht“ zurück, eine Verschmelzung von „ni“ (nicht) und „wiht“ (Ding, Wesen) – ursprünglich also „kein Ding“.",
+        "targetText": "„Nicht” provine din germana medie „niht”, o contopire între „ni” (nu) și „wiht” (lucru, ființă) – deci inițial „niciun lucru”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nu",
+    "definition": "Cuvânt cu care se neagă o afirmație.",
+    "pronunciation": "/nu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „nu“ setzt das lateinische „non“ fort; das auslautende -n fiel weg, wie auch in „bun“ < „bonus“ die Endungen schwanden.",
+        "targetText": "Românescul „nu” continuă latinescul „non”; consoana finală s-a pierdut, ca în multe alte cuvinte moștenite."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nein",
+      "targetText": "nu"
+    },
+    {
+      "sourceText": "kein",
+      "targetText": "niciun"
+    },
+    {
+      "sourceText": "nie",
+      "targetText": "niciodată"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ja",
+      "targetText": "da"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verstehe nicht.",
+      "targetText": "Eu nu înțeleg."
+    },
+    {
+      "sourceText": "Das ist nicht richtig.",
+      "targetText": "Asta nu este corect."
+    },
+    {
+      "sourceText": "Er kommt heute nicht.",
+      "targetText": "El nu vine astăzi."
+    },
+    {
+      "sourceText": "Nicht so schnell!",
+      "targetText": "Nu așa repede!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Anders als im Deutschen steht „nu“ immer direkt vor dem Verb: „nu înțeleg“, nie am Satzende."
+    },
+    {
+      "lang": "de",
+      "text": "„nu“ ist zugleich „nein“ und „nicht“ – ein Wort für beides."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

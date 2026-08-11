@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-sehr",
+  "parent": "ms-ro-foarte-40e65f0c@7d2f8821ec6fbda85a8232942b4621c7",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sehr",
+    "definition": "In hohem Maße; verstärkt ein Adjektiv oder Adverb.",
+    "pronunciation": "/zeːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sehr“ geht auf althochdeutsch „sēro“ („schmerzlich“) zurück – aus „schmerzlich“ wurde die reine Verstärkung.",
+        "targetText": "„Sehr” provine din germana veche înaltă „sēro” („dureros”); din „dureros” a rămas doar întărirea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "foarte",
+    "definition": "În mare măsură; întărește un adjectiv sau un adverb.",
+    "pronunciation": "/ˈfoar.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „foarte“ stammt vom lateinischen „forte“ („stark, kräftig“) – aus „stark“ wurde der Steigerungspartikel.",
+        "targetText": "Românescul „foarte” provine din latinescul „forte” („puternic”); din „puternic” a rezultat particula de întărire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ziemlich",
+      "targetText": "destul de"
+    },
+    {
+      "sourceText": "zu",
+      "targetText": "prea"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "întreg"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "kaum",
+      "targetText": "cu greu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist sehr gut.",
+      "targetText": "Este foarte bine."
+    },
+    {
+      "sourceText": "Sie ist sehr müde.",
+      "targetText": "Ea este foarte obosită."
+    },
+    {
+      "sourceText": "Vielen Dank!",
+      "targetText": "Mulțumesc foarte mult!"
+    },
+    {
+      "sourceText": "Sehr schön!",
+      "targetText": "Foarte frumos!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„foarte“ steht immer vor dem Adjektiv: „foarte bun“, nie danach."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die Wurzel „forte“ – wie in der Musik: stark."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

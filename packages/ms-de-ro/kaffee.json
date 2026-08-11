@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-kaffee",
+  "parent": "ms-ro-cafea-f54f1358@e0f1309084d1f8994fe403c0f808c33b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Kaffee",
+    "definition": "Heißes Getränk aus gerösteten Kaffeebohnen.",
+    "pronunciation": "/ˈkafeː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Kaffee“ kam über französisch „café“ und italienisch „caffè“ aus türkisch „kahve“, letztlich aus arabisch „qahwa“.",
+        "targetText": "„Kaffee” a ajuns prin franceză („café”) și italiană („caffè”) din turcescul „kahve”, la origine arabul „qahwa”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cafea",
+    "definition": "Băutură fierbinte din boabe de cafea prăjite.",
+    "pronunciation": "/kaˈfea/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „cafea“ wurde direkt aus dem Türkischen „kahve“ übernommen – nicht über das Französische wie im Deutschen.",
+        "targetText": "Românescul „cafea” a fost preluat direct din turcescul „kahve” – nu prin franceză, ca în germană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Tee",
+      "targetText": "ceai"
+    },
+    {
+      "sourceText": "Milch",
+      "targetText": "lapte"
+    },
+    {
+      "sourceText": "Tasse",
+      "targetText": "ceașcă"
+    },
+    {
+      "sourceText": "Café",
+      "targetText": "cafenea"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich trinke gern Kaffee.",
+      "targetText": "Îmi place să beau cafea."
+    },
+    {
+      "sourceText": "Einen Kaffee, bitte.",
+      "targetText": "O cafea, vă rog."
+    },
+    {
+      "sourceText": "Kaffee mit Milch.",
+      "targetText": "Cafea cu lapte."
+    },
+    {
+      "sourceText": "Der Kaffee ist heiß.",
+      "targetText": "Cafeaua este fierbinte."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Deutsch und Rumänisch haben dasselbe türkische Wort – aber über verschiedene Wege."
+    },
+    {
+      "lang": "de",
+      "text": "„cafea“ ist feminin: „o cafea bună“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

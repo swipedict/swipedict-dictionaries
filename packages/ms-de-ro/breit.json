@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-breit",
+  "parent": "ms-ro-lat-c6d33be1@669c76effba2a78be05e7591c4c74a0e",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "breit",
+    "definition": "Von großer Ausdehnung von einer Seite zur anderen.",
+    "pronunciation": "/bʁaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Breit“ geht auf althochdeutsch „breit“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Breit” provine din germana veche înaltă „breit”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lat",
+    "definition": "Care are o mare întindere dintr-o parte în alta.",
+    "pronunciation": "/lat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „lat“ stammt vom lateinischen „latus“ („breit“) – nicht zu verwechseln mit „latus“ (Seite).",
+        "targetText": "Românescul „lat” provine din latinescul „latus” („lat”) – a nu se confunda cu „latus” („latură”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "schmal",
+      "targetText": "îngust"
+    },
+    {
+      "sourceText": "Breite",
+      "targetText": "lățime"
+    },
+    {
+      "sourceText": "groß",
+      "targetText": "mare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schmal",
+      "targetText": "îngust"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Straße ist breit.",
+      "targetText": "Strada este lată."
+    },
+    {
+      "sourceText": "Ein breiter Fluss.",
+      "targetText": "Un râu lat."
+    },
+    {
+      "sourceText": "Zwei Meter breit.",
+      "targetText": "Lat de doi metri."
+    },
+    {
+      "sourceText": "Breite Schultern.",
+      "targetText": "Umeri lați."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: lat, lată, lați, late."
+    },
+    {
+      "lang": "de",
+      "text": "Das Substantiv dazu ist „lățime“ (Breite)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

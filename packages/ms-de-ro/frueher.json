@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-frueher",
+  "parent": "ms-ro-mai-devreme-3e83937a@f00f28b08f02ddfb9415f54385944eb2",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "früher",
+    "definition": "Zu einem Zeitpunkt vor jetzt oder vor einem anderen.",
+    "pronunciation": "/ˈfʁyːɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Früher“ ist der Komparativ von „früh“, althochdeutsch „fruoi“.",
+        "targetText": "„Früher” este comparativul lui „früh”, în germana veche înaltă „fruoi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai devreme",
+    "definition": "La un moment dinaintea celui prezent sau al altuia.",
+    "pronunciation": "/maj deˈvre.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung verbindet „mai“ (< lateinisch „magis“) mit „devreme“, das aus „de“ und „vreme“ (slawisch „vremę“, Zeit) besteht.",
+        "targetText": "Construcția leagă „mai” (din latinescul „magis”) cu „devreme”, format din „de” și „vreme” (din slavul „vremę”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    },
+    {
+      "sourceText": "zuerst",
+      "targetText": "mai întâi"
+    },
+    {
+      "sourceText": "schon",
+      "targetText": "deja"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Komm bitte früher.",
+      "targetText": "Vino te rog mai devreme."
+    },
+    {
+      "sourceText": "Früher war alles anders.",
+      "targetText": "Înainte era totul altfel."
+    },
+    {
+      "sourceText": "Eine Stunde früher.",
+      "targetText": "Cu o oră mai devreme."
+    },
+    {
+      "sourceText": "Je früher, desto besser.",
+      "targetText": "Cu cât mai devreme, cu atât mai bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Für „früher“ im Sinne von „in der Vergangenheit“ sagt man „înainte“ oder „odinioară“."
+    },
+    {
+      "lang": "de",
+      "text": "„devreme“ enthält das slawische „vreme“ (Zeit) – dasselbe Wort wie „Wetter“ im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

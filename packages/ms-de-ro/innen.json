@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-innen",
+  "parent": "ms-ro-inauntru-50ddea04@7b925224b9d2a62fba113ea965f5461e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "innen",
+    "definition": "Im Inneren von etwas.",
+    "pronunciation": "/ˈɪnən/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Innen“ geht auf althochdeutsch „innana“ zurück, zur Präposition „in“.",
+        "targetText": "„Innen” provine din germana veche înaltă „innana”, de la prepoziția „in”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "înăuntru",
+    "definition": "În interiorul a ceva.",
+    "pronunciation": "/ɨ.nəˈun.tru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „înăuntru“ geht auf lateinisch „in ad intro“ zurück – eine dreifach verstärkte Form von „intro“ („hinein“).",
+        "targetText": "Românescul „înăuntru” provine din latinescul „in ad intro” – o formă întreit întărită a lui „intro” („înăuntru”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "außen",
+      "targetText": "afară"
+    },
+    {
+      "sourceText": "drinnen",
+      "targetText": "înăuntru"
+    },
+    {
+      "sourceText": "Zimmer",
+      "targetText": "cameră"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "außen",
+      "targetText": "afară"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Innen ist es warm.",
+      "targetText": "Înăuntru este cald."
+    },
+    {
+      "sourceText": "Komm herein!",
+      "targetText": "Vino înăuntru!"
+    },
+    {
+      "sourceText": "Innen und außen.",
+      "targetText": "Înăuntru și afară."
+    },
+    {
+      "sourceText": "Was ist da drinnen?",
+      "targetText": "Ce este acolo înăuntru?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Umgangssprachlich hört man auch „înuntru“ – die Standardform bleibt „înăuntru“."
+    },
+    {
+      "lang": "de",
+      "text": "Gleiche Wurzel wie „a intra“ (eintreten) – lateinisch intro."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

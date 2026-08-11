@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-niemand",
+  "parent": "ms-ro-nimeni-bb0175ad@ff4736b482c6f571a86caa59e9c2b056",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "niemand",
+    "definition": "Keine einzige Person.",
+    "pronunciation": "/ˈniːmant/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Niemand“ entstand aus mittelhochdeutsch „nieman“, aus „ni“ (nicht) und „man“ (Mensch).",
+        "targetText": "„Niemand” provine din germana medie „nieman”, din „ni” (nu) și „man” (om)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nimeni",
+    "definition": "Nicio persoană.",
+    "pronunciation": "/ˈni.menʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „nimeni“ geht auf lateinisch „nemo“ zurück, beeinflusst von „cine“.",
+        "targetText": "Românescul „nimeni” provine din latinescul „nemo”, cu influența lui „cine”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nichts",
+      "targetText": "nimic"
+    },
+    {
+      "sourceText": "jemand",
+      "targetText": "cineva"
+    },
+    {
+      "sourceText": "keiner",
+      "targetText": "niciunul"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "jemand",
+      "targetText": "cineva"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Niemand war da.",
+      "targetText": "Nu era nimeni acolo."
+    },
+    {
+      "sourceText": "Ich kenne niemanden.",
+      "targetText": "Nu cunosc pe nimeni."
+    },
+    {
+      "sourceText": "Niemand weiß es.",
+      "targetText": "Nimeni nu știe."
+    },
+    {
+      "sourceText": "Er spricht mit niemandem.",
+      "targetText": "Nu vorbește cu nimeni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Doppelte Verneinung ist Pflicht: „nimeni nu știe“ – das „nu“ darf nicht wegfallen."
+    },
+    {
+      "lang": "de",
+      "text": "Als Objekt: „pe nimeni“ – „nu văd pe nimeni“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

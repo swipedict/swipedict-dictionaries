@@ -4,7 +4,7 @@
   "part_of_speech": "noun",
   "tags": [
     "level:a1",
-    "etymology:latin",
+    "etymology:french",
     "topic:objects-clothing",
     "register:neutral",
     "property:concrete"
@@ -14,7 +14,7 @@
   "metadata": {
     "author": "mschwehl",
     "source": "swipedict-de-ro",
-    "contentVersion": 1,
+    "contentVersion": 4,
     "schemaVersion": "1.0"
   },
   "source": {
@@ -40,8 +40,8 @@
     "pronunciation": "/kal.kuˈla.tor/",
     "etymology": {
       "explanation": {
-        "sourceText": "Das rumänische Wort „calculator“ stammt vom lateinischen „calculare“, das „rechnen“ bedeutet. Es bezieht sich auf ein Gerät zur Datenverarbeitung und ist untrennbar mit der Technologie verbunden.",
-        "targetText": "Termenul provine din latină și desemnează un dispozitiv pentru calcul și prelucrare date."
+        "sourceText": "Das rumänische Wort „calculator“ stammt vom lateinischen „calculare“, das „rechnen“ bedeutet. Es bezieht sich auf ein Gerät zur Datenverarbeitung und ist untrennbar mit der Technologie verbunden. Ins Rumänische kam das Wort über das Französische, aus „calculateur“.",
+        "targetText": "Termenul provine din latină și desemnează un dispozitiv pentru calcul și prelucrare date. Cuvântul a intrat în română pe filieră franceză, din „calculateur”."
       },
       "source": "Etymological Dictionaries, Linguistic Analysis"
     },
@@ -70,7 +70,7 @@
       "examples": [
         {
           "sourceText": "Die alte Rechenmaschine wird selten verwendet.",
-          "targetText": "Vechea maşină de calcul este folosită rar."
+          "targetText": "Vechea mașină de calcul este folosită rar."
         }
       ]
     }

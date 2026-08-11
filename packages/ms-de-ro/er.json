@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-er",
+  "parent": "ms-ro-el-403f78de@66bd752c251096978f7d2aa0969f086a",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "er",
+    "definition": "Das Personalpronomen der dritten Person Singular männlich.",
+    "pronunciation": "/eːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Er“ geht auf althochdeutsch „er“ zurück, aus einem germanischen Demonstrativstamm.",
+        "targetText": "„Er” provine din germana veche înaltă „er”, dintr-o rădăcină demonstrativă germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "el",
+    "definition": "Pronumele personal de persoana a treia singular, masculin.",
+    "pronunciation": "/jel/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „el“ stammt vom lateinischen „ille“ („jener“); dasselbe Wort lieferte auch den bestimmten Artikel -l in „omul“.",
+        "targetText": "Românescul „el” provine din latinescul „ille” („acela”); din același cuvânt s-a dezvoltat și articolul hotărât -l din „omul”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sie",
+      "targetText": "ea"
+    },
+    {
+      "sourceText": "sein",
+      "targetText": "al lui"
+    },
+    {
+      "sourceText": "ihm",
+      "targetText": "lui"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sie",
+      "targetText": "ea"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist mein Bruder.",
+      "targetText": "El este fratele meu."
+    },
+    {
+      "sourceText": "Er kommt morgen.",
+      "targetText": "El vine mâine."
+    },
+    {
+      "sourceText": "Wo ist er?",
+      "targetText": "Unde este el?"
+    },
+    {
+      "sourceText": "Er hat recht.",
+      "targetText": "El are dreptate."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„el“ wird wie „jel“ ausgesprochen – das anlautende e- wird zum Diphthong, genau wie bei „eu“."
+    },
+    {
+      "lang": "de",
+      "text": "Aus lateinisch „ille“ wurden gleich zwei Dinge: das Pronomen „el“ und der angehängte Artikel in „omul“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

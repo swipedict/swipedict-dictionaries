@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-weniger",
+  "parent": "ms-ro-mai-putin-06866ace@230dc5546efc2d9e221a287576f76f11",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "weniger",
+    "definition": "Eine kleinere Menge oder ein geringerer Grad.",
+    "pronunciation": "/ˈveːnɪɡɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Weniger“ ist der Komparativ zu „wenig“, althochdeutsch „wēnag“.",
+        "targetText": "„Weniger” este comparativul lui „wenig”, în germana veche înaltă „wēnag”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai puțin",
+    "definition": "O cantitate mai mică sau un grad mai scăzut.",
+    "pronunciation": "/maj puˈt͡sin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung verbindet „mai“ (< lateinisch „magis“) mit „puțin“ (< lateinisch „putinnus“, klein).",
+        "targetText": "Construcția leagă „mai” (din latinescul „magis”) cu „puțin” (din „putinnus”, mic)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mehr",
+      "targetText": "mai mult"
+    },
+    {
+      "sourceText": "wenig",
+      "targetText": "puțin"
+    },
+    {
+      "sourceText": "am wenigsten",
+      "targetText": "cel mai puțin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mehr",
+      "targetText": "mai mult"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Weniger Zucker, bitte.",
+      "targetText": "Mai puțin zahăr, vă rog."
+    },
+    {
+      "sourceText": "Er arbeitet weniger.",
+      "targetText": "El muncește mai puțin."
+    },
+    {
+      "sourceText": "Weniger ist mehr.",
+      "targetText": "Mai puțin înseamnă mai mult."
+    },
+    {
+      "sourceText": "Nicht weniger als zehn.",
+      "targetText": "Nu mai puțin de zece."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Auch der Komparativ „kleiner/weniger“ braucht „mai“ – nie eine Endung."
+    },
+    {
+      "lang": "de",
+      "text": "„cel mai puțin“ ist der Superlativ: am wenigsten."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

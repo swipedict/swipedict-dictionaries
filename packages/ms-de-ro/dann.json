@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-dann",
+  "parent": "ms-ro-apoi-c2abc3e9@a85c5ff0455829a936b66597439337d1",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dann",
+    "definition": "Danach, im Anschluss daran.",
+    "pronunciation": "/dan/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dann“ geht auf althochdeutsch „danne“ zurück und war ursprünglich dasselbe Wort wie „denn“.",
+        "targetText": "„Dann” provine din germana veche înaltă „danne” și era inițial același cuvânt cu „denn”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "apoi",
+    "definition": "După aceea, în continuare.",
+    "pronunciation": "/aˈpoj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „apoi“ geht auf lateinisch „ad post“ zurück – „danach“.",
+        "targetText": "Românescul „apoi” provine din latinescul „ad post” – „după aceea”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "zuerst",
+      "targetText": "mai întâi"
+    },
+    {
+      "sourceText": "danach",
+      "targetText": "după aceea"
+    },
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zuerst",
+      "targetText": "mai întâi"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Zuerst essen wir, dann gehen wir.",
+      "targetText": "Mai întâi mâncăm, apoi plecăm."
+    },
+    {
+      "sourceText": "Und dann?",
+      "targetText": "Și apoi?"
+    },
+    {
+      "sourceText": "Dann sehen wir weiter.",
+      "targetText": "Apoi vedem."
+    },
+    {
+      "sourceText": "Erst arbeiten, dann ausruhen.",
+      "targetText": "Întâi munca, apoi odihna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Umgangssprachlich sagt man oft „pe urmă“ statt „apoi“."
+    },
+    {
+      "lang": "de",
+      "text": "Nicht verwechseln mit „atunci“, das „damals / in dem Fall“ heißt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

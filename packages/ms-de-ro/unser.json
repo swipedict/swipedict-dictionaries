@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-unser",
+  "parent": "ms-ro-al-nostru-ff00a3d5@c3617d1f24c2493f877c29cf5bee860f",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unser",
+    "definition": "Possessivbegleiter der ersten Person Plural: gehört uns.",
+    "pronunciation": "/ˈʊnzɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Unser“ geht auf althochdeutsch „unsēr“ zurück, gebildet zum Pronomen „wir“.",
+        "targetText": "„Unser” provine din germana veche înaltă „unsēr”, format de la pronumele „wir”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "al nostru",
+    "definition": "Pronume posesiv de persoana întâi plural: care ne aparține.",
+    "pronunciation": "/al ˈnos.tru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „al nostru“ geht auf lateinisch „noster“ zurück, mit dem vorangestellten Possessivartikel „al“.",
+        "targetText": "Românescul „al nostru” provine din latinescul „noster”, precedat de articolul posesiv „al”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "euer",
+      "targetText": "al vostru"
+    },
+    {
+      "sourceText": "mein",
+      "targetText": "al meu"
+    },
+    {
+      "sourceText": "wir",
+      "targetText": "noi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "euer",
+      "targetText": "al vostru"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist unser Haus.",
+      "targetText": "Aceasta este casa noastră."
+    },
+    {
+      "sourceText": "Unsere Kinder lernen Rumänisch.",
+      "targetText": "Copiii noștri învață română."
+    },
+    {
+      "sourceText": "Der Platz ist unser.",
+      "targetText": "Locul este al nostru."
+    },
+    {
+      "sourceText": "Unser Lehrer ist streng.",
+      "targetText": "Profesorul nostru este sever."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: al nostru, a noastră, ai noștri, ale noastre."
+    },
+    {
+      "lang": "de",
+      "text": "Merke „noster“ aus dem Lateinunterricht – das rumänische Wort ist fast unverändert."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

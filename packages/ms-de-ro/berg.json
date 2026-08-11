@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-berg",
+  "parent": "ms-ro-munte-a872bdd0@6c6d4b4b9f0e71d29e3fadfa0e4cbe5f",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Berg",
+    "definition": "Große natürliche Erhebung des Geländes.",
+    "pronunciation": "/bɛʁk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Berg“ geht auf althochdeutsch „berg“ zurück, aus einer germanischen Wurzel mit der Bedeutung „hoch“.",
+        "targetText": "„Berg” provine din germana veche înaltă „berg”, dintr-o rădăcină germanică însemnând „înalt”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "munte",
+    "definition": "Ridicătură naturală mare a terenului.",
+    "pronunciation": "/ˈmun.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „munte“ stammt vom lateinischen „mons, montis“ – dieselbe Wurzel steckt in „Montenegro“ und „montan“.",
+        "targetText": "Românescul „munte” provine din latinescul „mons, montis” – aceeași rădăcină se regăsește în „Muntenegru” și „montan”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Tal",
+      "targetText": "vale"
+    },
+    {
+      "sourceText": "Wald",
+      "targetText": "pădure"
+    },
+    {
+      "sourceText": "Fels",
+      "targetText": "stâncă"
+    },
+    {
+      "sourceText": "wandern",
+      "targetText": "a face drumeții"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Tal",
+      "targetText": "vale"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Berg ist hoch.",
+      "targetText": "Muntele este înalt."
+    },
+    {
+      "sourceText": "Wir fahren in die Berge.",
+      "targetText": "Mergem la munte."
+    },
+    {
+      "sourceText": "Auf dem Berg liegt Schnee.",
+      "targetText": "Pe munte este zăpadă."
+    },
+    {
+      "sourceText": "Die Karpaten sind schöne Berge.",
+      "targetText": "Carpații sunt munți frumoși."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„la munte“ heißt „in die Berge“ – Rumänisch benutzt den Singular, wo Deutsch den Plural nimmt."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „munți“. Merke „montan“ als Eselsbrücke zur lateinischen Wurzel."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

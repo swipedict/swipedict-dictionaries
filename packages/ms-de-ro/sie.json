@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-sie",
+  "parent": "ms-ro-ea-cb3ecf8e@be9fce0e9dbd7c42f8f44f2261322556",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sie",
+    "definition": "Das Personalpronomen der dritten Person Singular weiblich.",
+    "pronunciation": "/ziː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sie“ geht auf althochdeutsch „siu“ zurück, die weibliche Form des germanischen Demonstrativpronomens.",
+        "targetText": "„Sie” provine din germana veche înaltă „siu”, forma feminină a pronumelui demonstrativ germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ea",
+    "definition": "Pronumele personal de persoana a treia singular, feminin.",
+    "pronunciation": "/ja/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „ea“ stammt vom lateinischen „illa“ („jene“); der Anlaut ill- fiel weg, wie auch bei „el“ < „ille“.",
+        "targetText": "Românescul „ea” provine din latinescul „illa” („aceea”); silaba inițială ill- s-a pierdut, ca și la „el” < „ille”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "er",
+      "targetText": "el"
+    },
+    {
+      "sourceText": "ihr",
+      "targetText": "al ei"
+    },
+    {
+      "sourceText": "ihnen",
+      "targetText": "lor"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "er",
+      "targetText": "el"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie ist meine Schwester.",
+      "targetText": "Ea este sora mea."
+    },
+    {
+      "sourceText": "Sie arbeitet in Bukarest.",
+      "targetText": "Ea lucrează în București."
+    },
+    {
+      "sourceText": "Kennst du sie?",
+      "targetText": "O cunoști pe ea?"
+    },
+    {
+      "sourceText": "Sie hat ein Buch.",
+      "targetText": "Ea are o carte."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Vorsicht: deutsches „sie“ ist dreideutig (sie/Sie/sie Plural). Rumänisch trennt sauber: „ea“, „ei/ele“, „dumneavoastră“."
+    },
+    {
+      "lang": "de",
+      "text": "„ea“ spricht man /ja/ – ein Diphthong, kein langes e."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

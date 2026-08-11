@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-vorne",
+  "parent": "ms-ro-in-fata-3669fa45@aa6594c4db2ccf0cf22ba89ded79be7c",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "vorne",
+    "definition": "An der vorderen Seite, am Anfang von etwas.",
+    "pronunciation": "/ˈfɔʁnə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Vorne“ ist von der Präposition „vor“ abgeleitet, althochdeutsch „fora“.",
+        "targetText": "„Vorne” este derivat de la prepoziția „vor”, în germana veche înaltă „fora”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în față",
+    "definition": "În partea din față, la începutul a ceva.",
+    "pronunciation": "/ɨn ˈfa.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Fügung „în față“ enthält „față“, das auf vulgärlateinisch „facia“ („Gesicht, Vorderseite“) zurückgeht.",
+        "targetText": "Construcția „în față” conține „față”, din latinescul popular „facia” („chip, partea din față”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hinten",
+      "targetText": "în spate"
+    },
+    {
+      "sourceText": "Gesicht",
+      "targetText": "față"
+    },
+    {
+      "sourceText": "vor",
+      "targetText": "înainte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hinten",
+      "targetText": "în spate"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er sitzt vorne.",
+      "targetText": "El stă în față."
+    },
+    {
+      "sourceText": "Vorne im Bus.",
+      "targetText": "În față în autobuz."
+    },
+    {
+      "sourceText": "Geh nach vorne!",
+      "targetText": "Du-te în față!"
+    },
+    {
+      "sourceText": "Vor dem Haus.",
+      "targetText": "În fața casei."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Mit Genitiv wird daraus „în fața“: „în fața casei“ = vor dem Haus."
+    },
+    {
+      "lang": "de",
+      "text": "Dasselbe „față“ heißt auch „Gesicht“ – aus lateinisch facia."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

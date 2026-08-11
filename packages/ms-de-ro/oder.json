@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-oder",
+  "parent": "ms-ro-sau-5eceefad@4e0036d05085b3c9e5c1f3747e3c45d7",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "oder",
+    "definition": "Nebenordnende Konjunktion, die eine Alternative anschließt.",
+    "pronunciation": "/ˈoːdɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Oder“ geht auf althochdeutsch „odar“ zurück, eine Erweiterung der Partikel „edo“.",
+        "targetText": "„Oder” provine din germana veche înaltă „odar”, o extindere a particulei „edo”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sau",
+    "definition": "Conjuncție coordonatoare care introduce o alternativă.",
+    "pronunciation": "/saw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „sau“ stammt vom lateinischen „seu“ („oder“), einer Nebenform von „sive“.",
+        "targetText": "Românescul „sau” provine din latinescul „seu” („sau”), variantă a lui „sive”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "und",
+      "targetText": "și"
+    },
+    {
+      "sourceText": "entweder … oder",
+      "targetText": "fie … fie"
+    },
+    {
+      "sourceText": "sonst",
+      "targetText": "altfel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "und",
+      "targetText": "și"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Kaffee oder Tee?",
+      "targetText": "Cafea sau ceai?"
+    },
+    {
+      "sourceText": "Heute oder morgen.",
+      "targetText": "Astăzi sau mâine."
+    },
+    {
+      "sourceText": "Du oder ich.",
+      "targetText": "Tu sau eu."
+    },
+    {
+      "sourceText": "Willst du bleiben oder gehen?",
+      "targetText": "Vrei să rămâi sau să pleci?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„sau“ verbindet Alternativen; „ori … ori“ ist das betonte „entweder … oder“."
+    },
+    {
+      "lang": "de",
+      "text": "In verneinten Sätzen sagt man meist „nici … nici“ statt „sau“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

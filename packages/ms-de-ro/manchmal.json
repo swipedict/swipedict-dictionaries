@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-manchmal",
+  "parent": "ms-ro-uneori-c76802a6@9b98bdc686dd94c3257d47b038ab8a2e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "manchmal",
+    "definition": "Von Zeit zu Zeit, nicht regelmäßig.",
+    "pronunciation": "/ˈmançmaːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Manchmal“ ist aus „manch“ und „Mal“ zusammengesetzt – „manches Mal“.",
+        "targetText": "„Manchmal” este compus din „manch” și „Mal” – „unele dăți”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "uneori",
+    "definition": "Din când în când, nu în mod regulat.",
+    "pronunciation": "/u.neˈorʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „uneori“ ist aus „un“ (< lateinisch „unus“) und „ori“ (< lateinisch „horae“, Stunden) gebildet.",
+        "targetText": "Românescul „uneori” este format din „un” (din latinescul „unus”) și „ori” (din „horae”, ore)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oft",
+      "targetText": "des"
+    },
+    {
+      "sourceText": "selten",
+      "targetText": "rar"
+    },
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Manchmal regnet es hier.",
+      "targetText": "Uneori plouă aici."
+    },
+    {
+      "sourceText": "Ich bin manchmal müde.",
+      "targetText": "Uneori sunt obosit."
+    },
+    {
+      "sourceText": "Manchmal kommt er zu spät.",
+      "targetText": "Uneori întârzie."
+    },
+    {
+      "sourceText": "Das passiert manchmal.",
+      "targetText": "Se întâmplă uneori."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Alternative: „câteodată“ – gleiche Bedeutung, etwas umgangssprachlicher."
+    },
+    {
+      "lang": "de",
+      "text": "„ori“ in „uneori“ ist dasselbe Wort wie in „de două ori“ (zweimal)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-seite",
+  "parent": "ms-ro-pagina-d88746ab@36656a4b74156b75b4dff76f1917b651",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Seite",
+    "definition": "Eine Blattfläche in einem Buch oder Heft.",
+    "pronunciation": "/ˈzaɪ̯tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Seite“ geht auf althochdeutsch „sīta“ („Flanke“) zurück; die Buchseite ist eine spätere Übertragung.",
+        "targetText": "„Seite” provine din germana veche înaltă „sīta” („flanc”); sensul de pagină este un transfer mai târziu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pagină",
+    "definition": "O față de foaie dintr-o carte sau un caiet.",
+    "pronunciation": "/ˈpa.d͡ʒi.nə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „pagină“ ist aus dem Französischen „page“ entlehnt; die lateinische Wurzel „pagina“ bezeichnete die Spalte einer Buchrolle.",
+        "targetText": "Românescul „pagină” este împrumutat din franceză, din „page”; rădăcina latină „pagina” desemna coloana unui sul de papirus."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Buch",
+      "targetText": "carte"
+    },
+    {
+      "sourceText": "lesen",
+      "targetText": "a citi"
+    },
+    {
+      "sourceText": "Blatt",
+      "targetText": "foaie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Seite zehn, bitte.",
+      "targetText": "Pagina zece, vă rog."
+    },
+    {
+      "sourceText": "Die erste Seite.",
+      "targetText": "Prima pagină."
+    },
+    {
+      "sourceText": "Er blättert die Seite um.",
+      "targetText": "Întoarce pagina."
+    },
+    {
+      "sourceText": "Eine Webseite.",
+      "targetText": "O pagină web."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Achtung: die räumliche „Seite“ heißt „parte“ oder „latură“, nicht „pagină“."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „pagini“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

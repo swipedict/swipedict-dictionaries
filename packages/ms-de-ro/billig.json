@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-billig",
+  "parent": "ms-ro-ieftin-82213b5b@f6e5cecc1fb8b64dda31c5db13d2ff99",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:greek",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "billig",
+    "definition": "Was wenig Geld kostet.",
+    "pronunciation": "/ˈbɪlɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Billig“ bedeutete ursprünglich „angemessen, recht“ (daher „Recht und Billigkeit“); erst später wurde daraus „niedrig im Preis“.",
+        "targetText": "„Billig” însemna inițial „potrivit, drept”; abia mai târziu a căpătat sensul „cu preț mic”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ieftin",
+    "definition": "Care costă puțini bani.",
+    "pronunciation": "/ˈjef.tin/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „ieftin“ stammt aus dem Neugriechischen „eftinos“ („wohlfeil“).",
+        "targetText": "Românescul „ieftin” provine din neogrecescul „eftinos” („cu preț mic”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "teuer",
+      "targetText": "scump"
+    },
+    {
+      "sourceText": "Preis",
+      "targetText": "preț"
+    },
+    {
+      "sourceText": "Angebot",
+      "targetText": "ofertă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "teuer",
+      "targetText": "scump"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist sehr billig.",
+      "targetText": "Este foarte ieftin."
+    },
+    {
+      "sourceText": "Billige Kleidung.",
+      "targetText": "Haine ieftine."
+    },
+    {
+      "sourceText": "Billiger als gestern.",
+      "targetText": "Mai ieftin decât ieri."
+    },
+    {
+      "sourceText": "Ein günstiges Angebot.",
+      "targetText": "O ofertă ieftină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: ieftin, ieftină, ieftini, ieftine."
+    },
+    {
+      "lang": "de",
+      "text": "Das Wort kam über die griechischen Kaufleute ins Rumänische – wie viele Handelsbegriffe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-gluecklich",
+  "parent": "ms-ro-fericit-d72e3576@b555522bacfc18ff761717b0f9ca3192",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "glücklich",
+    "definition": "Voller Freude und Zufriedenheit.",
+    "pronunciation": "/ˈɡlʏklɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Glücklich“ ist von „Glück“ abgeleitet, mittelhochdeutsch „gelücke“ („günstiger Ausgang“).",
+        "targetText": "„Glücklich” este derivat de la „Glück”, în germana medie „gelücke” („deznodământ favorabil”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fericit",
+    "definition": "Plin de bucurie și mulțumire.",
+    "pronunciation": "/fe.riˈt͡ʃit/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „fericit“ ist das Partizip von „a ferici“, das auf lateinisch „felix, felicis“ („glücklich“) zurückgeht.",
+        "targetText": "Românescul „fericit” este participiul verbului „a ferici”, din latinescul „felix, felicis” („fericit”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Freude",
+      "targetText": "bucurie"
+    },
+    {
+      "sourceText": "zufrieden",
+      "targetText": "mulțumit"
+    },
+    {
+      "sourceText": "traurig",
+      "targetText": "trist"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "traurig",
+      "targetText": "trist"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin sehr glücklich.",
+      "targetText": "Sunt foarte fericit."
+    },
+    {
+      "sourceText": "Eine glückliche Familie.",
+      "targetText": "O familie fericită."
+    },
+    {
+      "sourceText": "Frohes neues Jahr!",
+      "targetText": "La mulți ani fericiți!"
+    },
+    {
+      "sourceText": "Sie sah glücklich aus.",
+      "targetText": "Părea fericită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Nicht verwechseln mit „noroc“ (Glück im Sinne von Zufall) – „fericit“ ist das Gefühl."
+    },
+    {
+      "lang": "de",
+      "text": "Formen: fericit, fericită, fericiți, fericite."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

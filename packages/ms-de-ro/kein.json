@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-kein",
+  "parent": "ms-ro-niciun-be5b31ae@06f03f9c5f895931cdea163c27456f9b",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kein",
+    "definition": "Verneinendes Begleitwort zu einem Substantiv: nicht ein, nicht irgendein.",
+    "pronunciation": "/kaɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Kein“ entstand aus mittelhochdeutsch „nechein“, einer Verschmelzung von „ni“ (nicht) und „ein“.",
+        "targetText": "„Kein” provine din germana medie „nechein”, o contopire între „ni” (nu) și „ein” (unu)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "niciun",
+    "definition": "Cuvânt de negație care însoțește un substantiv: nici măcar unul.",
+    "pronunciation": "/ni.t͡ʃiˈun/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „niciun“ ist aus „nici“ (< lateinisch „neque“) und „un“ (< „unus“) zusammengesetzt.",
+        "targetText": "Românescul „niciun” este compus din „nici” (din latinescul „neque”) și „un” (din „unus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nicht",
+      "targetText": "nu"
+    },
+    {
+      "sourceText": "nichts",
+      "targetText": "nimic"
+    },
+    {
+      "sourceText": "niemand",
+      "targetText": "nimeni"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "jeder",
+      "targetText": "fiecare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe kein Geld.",
+      "targetText": "Nu am niciun ban."
+    },
+    {
+      "sourceText": "Kein Problem.",
+      "targetText": "Nicio problemă."
+    },
+    {
+      "sourceText": "Er sagte kein Wort.",
+      "targetText": "Nu a spus niciun cuvânt."
+    },
+    {
+      "sourceText": "Wir haben keine Zeit.",
+      "targetText": "Nu avem timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Rumänisch verneint doppelt: „nu am niciun ban“ – das „nu“ am Verb bleibt immer stehen."
+    },
+    {
+      "lang": "de",
+      "text": "Weibliche Form: „nicio“ („nicio problemă“). Seit 2005 schreibt man beide zusammen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-dein",
+  "parent": "ms-ro-al-tau-5226db37@b53a190fb7c20e89fb33cb6124ad133b",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dein",
+    "definition": "Possessivbegleiter der zweiten Person Singular: gehört dir.",
+    "pronunciation": "/daɪ̯n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dein“ geht auf althochdeutsch „dīn“ zurück, gebildet zum Personalpronomen „du“.",
+        "targetText": "„Dein” provine din germana veche înaltă „dīn”, format de la pronumele „du”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "al tău",
+    "definition": "Pronume posesiv de persoana a doua singular: care îți aparține.",
+    "pronunciation": "/al təw/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „al tău“ verbindet den Possessivartikel „al“ mit „tău“, das auf lateinisch „tuus“ zurückgeht.",
+        "targetText": "Românescul „al tău” combină articolul posesiv „al” cu „tău”, din latinescul „tuus”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mein",
+      "targetText": "al meu"
+    },
+    {
+      "sourceText": "euer",
+      "targetText": "al vostru"
+    },
+    {
+      "sourceText": "du",
+      "targetText": "tu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "mein",
+      "targetText": "al meu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ist das dein Auto?",
+      "targetText": "Aceasta este mașina ta?"
+    },
+    {
+      "sourceText": "Dein Name gefällt mir.",
+      "targetText": "Îmi place numele tău."
+    },
+    {
+      "sourceText": "Das Buch ist deins.",
+      "targetText": "Cartea este a ta."
+    },
+    {
+      "sourceText": "Deine Eltern warten.",
+      "targetText": "Părinții tăi așteaptă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Vier Formen je nach Besitz: al tău, a ta, ai tăi, ale tale."
+    },
+    {
+      "lang": "de",
+      "text": "Höflich sagt man „dumneavoastră“: „mașina dumneavoastră“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

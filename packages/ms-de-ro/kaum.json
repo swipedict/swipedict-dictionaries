@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-kaum",
+  "parent": "ms-ro-cu-greu-c43074e5@3d9c559560f32afb1e3c13ad1dfd1508",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "kaum",
+    "definition": "Nur mit Mühe; fast gar nicht.",
+    "pronunciation": "/kaʊ̯m/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Kaum“ geht auf althochdeutsch „kūmo“ („mühsam, klagend“) zurück.",
+        "targetText": "„Kaum” provine din germana veche înaltă „kūmo” („cu greu, tânguitor”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cu greu",
+    "definition": "Numai cu efort; aproape deloc.",
+    "pronunciation": "/ku ɡrew/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung „cu greu“ enthält „greu“, das auf vulgärlateinisch „grevis“ (klassisch „gravis“, schwer) zurückgeht.",
+        "targetText": "Construcția „cu greu” conține „greu”, din latinescul popular „grevis” (clasic „gravis”, greu)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "schwer",
+      "targetText": "greu"
+    },
+    {
+      "sourceText": "fast nicht",
+      "targetText": "aproape deloc"
+    },
+    {
+      "sourceText": "wenig",
+      "targetText": "puțin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "leicht",
+      "targetText": "ușor"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich kann ihn kaum hören.",
+      "targetText": "Îl aud cu greu."
+    },
+    {
+      "sourceText": "Er kam kaum voran.",
+      "targetText": "Înainta cu greu."
+    },
+    {
+      "sourceText": "Kaum jemand war da.",
+      "targetText": "Aproape nimeni nu era acolo."
+    },
+    {
+      "sourceText": "Sie kann kaum laufen.",
+      "targetText": "Merge cu greu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Für „kaum jemand / kaum etwas“ nimmt man „aproape nimeni / aproape nimic“."
+    },
+    {
+      "lang": "de",
+      "text": "„cu greu“ ist wörtlich „mit Schwierigkeit“ – wie deutsch „mit Mühe“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

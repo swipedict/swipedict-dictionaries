@@ -7,7 +7,7 @@
     "type": "string",
     "enum": [
       "level:a1", "level:a2", "level:b1", "level:b2", "level:c1", "level:c2",
-      "etymology:latin", "etymology:slavic", "etymology:germanic", "etymology:french", "etymology:italian", "etymology:turkish", "etymology:greek", "etymology:hungarian", "etymology:dacian", "etymology:internal", "etymology:unknown",
+      "etymology:latin", "etymology:slavic", "etymology:germanic", "etymology:french", "etymology:italian", "etymology:turkish", "etymology:greek", "etymology:hungarian", "etymology:english", "etymology:dacian", "etymology:internal", "etymology:unknown",
       "topic:people-society", "topic:body-health", "topic:emotions-character", "topic:food-drink", "topic:home-living", "topic:objects-clothing", "topic:nature-environment", "topic:animals", "topic:work-education", "topic:leisure-culture", "topic:places-geography", "topic:transport-movement", "topic:concepts-abstract", "topic:time-numbers", "topic:actions-verbs",
       "register:neutral", "register:formal", "register:informal", "register:technical", "register:slang", "register:poetic",
       "property:concrete", "property:abstract", "property:action", "property:state", "property:quality"

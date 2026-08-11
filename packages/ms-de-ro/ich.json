@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-ich",
+  "parent": "ms-ro-eu-131119eb@e9c507a58fb3d4b6c1c7c3d0377d20e2",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ich",
+    "definition": "Das Personalpronomen der ersten Person Singular; bezeichnet die sprechende Person selbst.",
+    "pronunciation": "/ɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Pronomen „ich“ geht auf althochdeutsch „ih“ zurück und ist urverwandt mit lateinisch „ego“ und griechisch „egṓ“.",
+        "targetText": "Pronumele „ich” provine din germana veche înaltă „ih”, înrudit din vechime cu latinescul „ego” și grecescul „egṓ”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "eu",
+    "definition": "Pronumele personal de persoana întâi singular; desemnează persoana care vorbește.",
+    "pronunciation": "/jew/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „eu“ stammt direkt vom lateinischen „ego“ ab; das anlautende e- wurde im Rumänischen zu einem Diphthong [je] gesprochen, daher die Schreibung „eu“ bei der Aussprache /jew/.",
+        "targetText": "Românescul „eu” provine direct din latinescul „ego”; e- inițial a fost diftongat în [je], de unde pronunția /jew/ deși se scrie „eu”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "du",
+      "targetText": "tu"
+    },
+    {
+      "sourceText": "wir",
+      "targetText": "noi"
+    },
+    {
+      "sourceText": "mein",
+      "targetText": "al meu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "du",
+      "targetText": "tu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin müde.",
+      "targetText": "Eu sunt obosit."
+    },
+    {
+      "sourceText": "Ich wohne in Bukarest.",
+      "targetText": "Eu locuiesc în București."
+    },
+    {
+      "sourceText": "Ich verstehe dich nicht.",
+      "targetText": "Eu nu te înțeleg."
+    },
+    {
+      "sourceText": "Das habe ich gemacht.",
+      "targetText": "Eu am făcut asta."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Im Rumänischen steht „eu“ meist nur zur Betonung – „sunt obosit“ heißt schon „ich bin müde“."
+    },
+    {
+      "lang": "de",
+      "text": "Achtung bei der Aussprache: „eu“ klingt wie „jeu“, nicht wie deutsches „eu“ in „heute“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

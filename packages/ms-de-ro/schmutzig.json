@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schmutzig",
+  "parent": "ms-ro-murdar-fffb333b@d8063ff2fba3689cfa5196414c06f17c",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a1",
+    "etymology:turkish",
+    "topic:home-living",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schmutzig",
+    "definition": "Mit Schmutz bedeckt, nicht sauber.",
+    "pronunciation": "/ˈʃmʊt͡sɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schmutzig“ ist von „Schmutz“ abgeleitet, mittelhochdeutsch „smuz“.",
+        "targetText": "„Schmutzig” este derivat de la „Schmutz”, în germana medie „smuz”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "murdar",
+    "definition": "Acoperit de murdărie, care nu este curat.",
+    "pronunciation": "/murˈdar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „murdar“ ist aus dem Türkischen „murdar“ („unrein“) entlehnt, das seinerseits aus dem Persischen stammt.",
+        "targetText": "Românescul „murdar” este împrumutat din turcescul „murdar” („necurat”), la rândul lui de origine persană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sauber",
+      "targetText": "curat"
+    },
+    {
+      "sourceText": "Schmutz",
+      "targetText": "murdărie"
+    },
+    {
+      "sourceText": "waschen",
+      "targetText": "a spăla"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sauber",
+      "targetText": "curat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Schuhe sind schmutzig.",
+      "targetText": "Pantofii sunt murdari."
+    },
+    {
+      "sourceText": "Schmutzige Hände.",
+      "targetText": "Mâini murdare."
+    },
+    {
+      "sourceText": "Ein schmutziges Hemd.",
+      "targetText": "O cămașă murdară."
+    },
+    {
+      "sourceText": "Mach das nicht schmutzig!",
+      "targetText": "Nu murdări asta!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: murdar, murdară, murdari, murdare."
+    },
+    {
+      "lang": "de",
+      "text": "Ein türkisches Erbe aus der osmanischen Zeit – wie viele Alltagswörter im Rumänischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

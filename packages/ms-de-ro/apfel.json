@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-apfel",
+  "parent": "ms-ro-mar-128c4734@a4ac9be92ce94db69006b2c987d81482",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Apfel",
+    "definition": "Runde, meist rote oder grüne Baumfrucht.",
+    "pronunciation": "/ˈap͡fl̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Apfel“ geht auf althochdeutsch „apful“ zurück, ein altes westgermanisches Wort.",
+        "targetText": "„Apfel” provine din germana veche înaltă „apful”, cuvânt vechi vest-germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "măr",
+    "definition": "Fruct rotund de pom, de obicei roșu sau verde.",
+    "pronunciation": "/mər/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „măr“ stammt vom lateinischen „melum“ (klassisch „malum“, Apfel), das seinerseits aus dem Griechischen entlehnt war.",
+        "targetText": "Românescul „măr” provine din latinescul „melum” (clasic „malum”, măr), împrumutat la rândul lui din greacă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Obst",
+      "targetText": "fruct"
+    },
+    {
+      "sourceText": "Baum",
+      "targetText": "pom"
+    },
+    {
+      "sourceText": "Saft",
+      "targetText": "suc"
+    },
+    {
+      "sourceText": "Birne",
+      "targetText": "pară"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich esse einen Apfel.",
+      "targetText": "Mănânc un măr."
+    },
+    {
+      "sourceText": "Rote Äpfel.",
+      "targetText": "Mere roșii."
+    },
+    {
+      "sourceText": "Der Apfelbaum blüht.",
+      "targetText": "Mărul înflorește."
+    },
+    {
+      "sourceText": "Apfelsaft, bitte.",
+      "targetText": "Suc de mere, vă rog."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„măr“ bezeichnet zugleich Frucht und Baum – wie viele Obstwörter im Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „mere“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

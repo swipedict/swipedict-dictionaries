@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-ganz",
+  "parent": "ms-ro-intreg-ba731c88@3c4f2e2af422e1080e75c5645076d343",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ganz",
+    "definition": "Vollständig, ohne fehlenden Teil.",
+    "pronunciation": "/ɡant͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Ganz“ geht auf althochdeutsch „ganz“ („unversehrt“) zurück.",
+        "targetText": "„Ganz” provine din germana veche înaltă „ganz” („nevătămat”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întreg",
+    "definition": "Complet, fără nicio parte lipsă.",
+    "pronunciation": "/ɨnˈtreɡ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „întreg“ stammt vom lateinischen „integrum“ („unberührt, vollständig“) – dieselbe Wurzel wie in „integral“.",
+        "targetText": "Românescul „întreg” provine din latinescul „integrum” („neatins, complet”) – aceeași rădăcină ca în „integral”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "alle",
+      "targetText": "toți"
+    },
+    {
+      "sourceText": "voll",
+      "targetText": "plin"
+    },
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die ganze Stadt schläft.",
+      "targetText": "Întregul oraș doarme."
+    },
+    {
+      "sourceText": "Ein ganzes Jahr.",
+      "targetText": "Un an întreg."
+    },
+    {
+      "sourceText": "Das ganze Brot.",
+      "targetText": "Toată pâinea."
+    },
+    {
+      "sourceText": "Er hat es ganz gegessen.",
+      "targetText": "L-a mâncat în întregime."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Für „die ganze Stadt“ sagt man meist „tot orașul“ – „întreg“ klingt etwas gehobener."
+    },
+    {
+      "lang": "de",
+      "text": "Merke „integrum“: dieselbe Wurzel wie deutsch „integer“ und „Integral“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

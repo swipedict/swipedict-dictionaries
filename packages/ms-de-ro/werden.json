@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-werden",
+  "parent": "ms-ro-a-deveni-cc945219@8271cf61b99888f5deb3276a5661a39b",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "werden",
+    "definition": "In einen anderen Zustand übergehen; etwas zu sein beginnen.",
+    "pronunciation": "/ˈveːɐ̯dn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Werden“ geht auf althochdeutsch „werdan“ („sich wenden“) zurück und ist mit lateinisch „vertere“ (drehen) urverwandt.",
+        "targetText": "„Werden” provine din germana veche înaltă „werdan” („a se întoarce”), înrudit cu latinescul „vertere” („a întoarce”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a deveni",
+    "definition": "A trece într-o altă stare; a ajunge să fii ceva.",
+    "pronunciation": "/a de.veˈni/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „a deveni“ ist aus dem Französischen „devenir“ entlehnt; das lateinische Vorbild „devenire“ bedeutete „herabkommen, gelangen“.",
+        "targetText": "Românescul „a deveni” este împrumutat din franceză, din „devenir”; modelul latin „devenire” însemna „a ajunge la”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sein",
+      "targetText": "a fi"
+    },
+    {
+      "sourceText": "bleiben",
+      "targetText": "a rămâne"
+    },
+    {
+      "sourceText": "sich verwandeln",
+      "targetText": "a se transforma"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "bleiben",
+      "targetText": "a rămâne"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er wird Arzt.",
+      "targetText": "El devine medic."
+    },
+    {
+      "sourceText": "Es wird kalt.",
+      "targetText": "Devine frig."
+    },
+    {
+      "sourceText": "Sie ist berühmt geworden.",
+      "targetText": "Ea a devenit celebră."
+    },
+    {
+      "sourceText": "Was willst du werden?",
+      "targetText": "Ce vrei să devii?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Achtung: das deutsche Passiv- und Futur-„werden“ hat im Rumänischen kein Gegenstück – „a deveni“ heißt nur „zu etwas werden“."
+    },
+    {
+      "lang": "de",
+      "text": "Für „es wird kalt“ sagt man oft einfach „se face frig“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

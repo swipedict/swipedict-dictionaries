@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-hinten",
+  "parent": "ms-ro-in-spate-5d1c1602@771729bd8129436c32cf22ba6dc244d8",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hinten",
+    "definition": "An der hinteren Seite, am Ende von etwas.",
+    "pronunciation": "/ˈhɪntn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Hinten“ ist von „hinter“ abgeleitet, althochdeutsch „hintana“.",
+        "targetText": "„Hinten” este derivat de la „hinter”, în germana veche înaltă „hintana”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "în spate",
+    "definition": "În partea din spate, la capătul a ceva.",
+    "pronunciation": "/ɨn ˈspa.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung „în spate“ enthält „spate“, das auf lateinisch „spatha“ („Rücken, Schulterblatt“) zurückgeht.",
+        "targetText": "Construcția „în spate” conține „spate”, din latinescul „spatha” („spate, omoplat”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "vorne",
+      "targetText": "în față"
+    },
+    {
+      "sourceText": "Rücken",
+      "targetText": "spate"
+    },
+    {
+      "sourceText": "hinter",
+      "targetText": "după"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "vorne",
+      "targetText": "în față"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sie sitzt hinten.",
+      "targetText": "Ea stă în spate."
+    },
+    {
+      "sourceText": "Hinten im Garten.",
+      "targetText": "În spate în grădină."
+    },
+    {
+      "sourceText": "Hinter dem Haus.",
+      "targetText": "În spatele casei."
+    },
+    {
+      "sourceText": "Schau nach hinten!",
+      "targetText": "Uită-te în spate!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Mit Genitiv: „în spatele casei“ = hinter dem Haus."
+    },
+    {
+      "lang": "de",
+      "text": "„spate“ ist zugleich das Körperteil Rücken – wie im Lateinischen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

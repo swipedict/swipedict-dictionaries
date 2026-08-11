@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-erst",
+  "parent": "ms-ro-abia-5bc90228@98edde9959f85e4f7ac0adda39280bed",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "erst",
+    "definition": "Nicht früher als; gerade eben erst.",
+    "pronunciation": "/eːɐ̯st/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Erst“ ist der erstarrte Superlativ von „eher“, althochdeutsch „ērist“ („zuerst“).",
+        "targetText": "„Erst” este superlativul încremenit al lui „eher”, în germana veche înaltă „ērist” („primul”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "abia",
+    "definition": "Nu mai devreme de; chiar în acest moment.",
+    "pronunciation": "/aˈbi.a/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „abia“ geht auf lateinisch „ad vix“ zurück – „mit Mühe, kaum“.",
+        "targetText": "Românescul „abia” provine din latinescul „ad vix” – „cu greu, de-abia”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nur",
+      "targetText": "doar"
+    },
+    {
+      "sourceText": "gerade",
+      "targetText": "tocmai"
+    },
+    {
+      "sourceText": "kaum",
+      "targetText": "cu greu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schon",
+      "targetText": "deja"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er kommt erst um fünf.",
+      "targetText": "Vine abia la cinci."
+    },
+    {
+      "sourceText": "Ich bin erst angekommen.",
+      "targetText": "Abia am ajuns."
+    },
+    {
+      "sourceText": "Erst jetzt verstehe ich.",
+      "targetText": "Abia acum înțeleg."
+    },
+    {
+      "sourceText": "Sie ist erst zehn Jahre alt.",
+      "targetText": "Are abia zece ani."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„abia“ deckt „erst“ und „kaum“ ab – der Kontext entscheidet."
+    },
+    {
+      "lang": "de",
+      "text": "Man schreibt auch „de-abia“; die Bedeutung bleibt gleich."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

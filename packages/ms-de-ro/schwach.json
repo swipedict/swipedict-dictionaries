@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schwach",
+  "parent": "ms-ro-slab-c6478393@9d4d3916aae49fc8202b70e595ad6863",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:slavic",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schwach",
+    "definition": "Ohne Kraft oder Stärke; auch: mager.",
+    "pronunciation": "/ʃvax/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schwach“ geht auf althochdeutsch „swah“ („kraftlos“) zurück.",
+        "targetText": "„Schwach” provine din germana veche înaltă „swah” („fără putere”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "slab",
+    "definition": "Fără putere sau forță; de asemenea: slăbuț.",
+    "pronunciation": "/slab/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „slab“ ist ein slawisches Lehnwort aus „slabŭ“ („schwach“) und deckt auch die Bedeutung „mager“ ab.",
+        "targetText": "Românescul „slab” este un împrumut slav din „slabŭ” („slab”) și acoperă și sensul de „subțire, costeliv”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "stark",
+      "targetText": "puternic"
+    },
+    {
+      "sourceText": "dünn",
+      "targetText": "subțire"
+    },
+    {
+      "sourceText": "müde",
+      "targetText": "obosit"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stark",
+      "targetText": "puternic"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich fühle mich schwach.",
+      "targetText": "Mă simt slab."
+    },
+    {
+      "sourceText": "Ein schwaches Licht.",
+      "targetText": "O lumină slabă."
+    },
+    {
+      "sourceText": "Er ist sehr dünn.",
+      "targetText": "El este foarte slab."
+    },
+    {
+      "sourceText": "Schwacher Kaffee.",
+      "targetText": "Cafea slabă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„slab“ heißt sowohl „schwach“ als auch „mager“ – bei Personen meist „mager“."
+    },
+    {
+      "lang": "de",
+      "text": "„carne slabă“ ist mageres Fleisch, kein schwaches."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-etwas",
+  "parent": "ms-ro-ceva-1305f5aa@c4d82f90610c19bdb1025f1f906cdd56",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "etwas",
+    "definition": "Eine nicht näher bestimmte Sache.",
+    "pronunciation": "/ˈɛtvas/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Etwas“ entstand aus althochdeutsch „eddeswaz“, wörtlich „irgendetwas“.",
+        "targetText": "„Etwas” provine din germana veche înaltă „eddeswaz”, literal „ceva oarecare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ceva",
+    "definition": "Un lucru nedeterminat.",
+    "pronunciation": "/t͡ʃeˈva/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „ceva“ ist aus „ce“ (< lateinisch „quid“) und der unbestimmten Partikel „-va“ gebildet.",
+        "targetText": "Românescul „ceva” este format din „ce” (din latinescul „quid”) și particula nehotărâtă „-va”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "nichts",
+      "targetText": "nimic"
+    },
+    {
+      "sourceText": "jemand",
+      "targetText": "cineva"
+    },
+    {
+      "sourceText": "irgendwo",
+      "targetText": "undeva"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nichts",
+      "targetText": "nimic"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich möchte etwas essen.",
+      "targetText": "Vreau să mănânc ceva."
+    },
+    {
+      "sourceText": "Sagst du mir etwas?",
+      "targetText": "Îmi spui ceva?"
+    },
+    {
+      "sourceText": "Da ist etwas passiert.",
+      "targetText": "S-a întâmplat ceva."
+    },
+    {
+      "sourceText": "Etwas Neues?",
+      "targetText": "Ceva nou?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die Partikel „-va“ macht Fragewörter unbestimmt: ce → ceva, cine → cineva, unde → undeva."
+    },
+    {
+      "lang": "de",
+      "text": "Anders als deutsch „etwas“ steht „ceva“ nie als Mengenangabe – dafür nimmt man „puțin“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

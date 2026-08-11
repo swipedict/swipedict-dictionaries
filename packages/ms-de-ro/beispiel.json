@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-beispiel",
+  "parent": "ms-ro-exemplu-8dbca2ea@1806673f3885598749931826ccffcf8a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Beispiel",
+    "definition": "Einzelfall, der etwas Allgemeines veranschaulicht.",
+    "pronunciation": "/ˈbaɪ̯ʃpiːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Beispiel“ ist aus „bei“ und „Spiel“ (im alten Sinn „Erzählung“) zusammengesetzt.",
+        "targetText": "„Beispiel” este compus din „bei” și „Spiel” (în sensul vechi de „povestire”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "exemplu",
+    "definition": "Caz particular care ilustrează ceva general.",
+    "pronunciation": "/eɡˈzem.plu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „exemplu“ ist aus dem Französischen „exemple“ entlehnt; die lateinische Wurzel „exemplum“ heißt „Herausgenommenes“.",
+        "targetText": "Românescul „exemplu” este împrumutat din franceză, din „exemple”; rădăcina latină „exemplum” înseamnă „ceva luat drept model”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "erklären",
+      "targetText": "a explica"
+    },
+    {
+      "sourceText": "Modell",
+      "targetText": "model"
+    },
+    {
+      "sourceText": "Fall",
+      "targetText": "caz"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Zum Beispiel.",
+      "targetText": "De exemplu."
+    },
+    {
+      "sourceText": "Ein gutes Beispiel.",
+      "targetText": "Un exemplu bun."
+    },
+    {
+      "sourceText": "Gib mir ein Beispiel.",
+      "targetText": "Dă-mi un exemplu."
+    },
+    {
+      "sourceText": "Er ist ein Vorbild.",
+      "targetText": "Este un exemplu."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„de exemplu“ (oft abgekürzt „de ex.“) heißt „zum Beispiel“."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „exemple“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-du",
+  "parent": "ms-ro-tu-261b905f@face4e3b912985cfd962a72d91bf07cd",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "du",
+    "definition": "Das Personalpronomen der zweiten Person Singular; bezeichnet die angesprochene Person.",
+    "pronunciation": "/duː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Du“ geht auf althochdeutsch „dū“ zurück und gehört zu einer indogermanischen Wortfamilie mit lateinisch „tu“.",
+        "targetText": "„Du” provine din germana veche înaltă „dū” și face parte din aceeași familie indo-europeană ca latinescul „tu”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tu",
+    "definition": "Pronumele personal de persoana a doua singular; desemnează persoana căreia i se vorbește.",
+    "pronunciation": "/tu/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „tu“ setzt das lateinische „tu“ unverändert fort – eines der wenigen Wörter, das über zwei Jahrtausende lautlich gleich blieb.",
+        "targetText": "Românescul „tu” continuă neschimbat latinescul „tu” – unul dintre puținele cuvinte care și-au păstrat forma timp de două milenii."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ich",
+      "targetText": "eu"
+    },
+    {
+      "sourceText": "ihr",
+      "targetText": "voi"
+    },
+    {
+      "sourceText": "dein",
+      "targetText": "al tău"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "ich",
+      "targetText": "eu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Du bist mein Freund.",
+      "targetText": "Tu ești prietenul meu."
+    },
+    {
+      "sourceText": "Wo wohnst du?",
+      "targetText": "Unde locuiești tu?"
+    },
+    {
+      "sourceText": "Kannst du mir helfen?",
+      "targetText": "Poți tu să mă ajuți?"
+    },
+    {
+      "sourceText": "Das hast du gut gemacht.",
+      "targetText": "Tu ai făcut bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„tu“ ist wie im Deutschen die vertraute Anrede; höflich sagt man „dumneavoastră“."
+    },
+    {
+      "lang": "de",
+      "text": "Deutsch „du“ und rumänisch „tu“ sind urverwandt – die gleiche indogermanische Wurzel."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

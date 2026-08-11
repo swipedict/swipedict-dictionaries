@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-wasser",
+  "parent": "ms-ro-apa-8a05cee8@bcbad01bfa9b60cd4830abac1fc5f19a",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Wasser",
+    "definition": "Farb- und geruchlose Flüssigkeit, die man trinkt und die Flüsse, Seen und Meere bildet.",
+    "pronunciation": "/ˈvasɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Wasser“ geht auf althochdeutsch „wazzar“ zurück und ist urverwandt mit griechisch „hýdōr“ und englisch „water“.",
+        "targetText": "„Wasser” provine din germana veche înaltă „wazzar”, înrudit cu grecescul „hýdōr” și cu englezescul „water”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "apă",
+    "definition": "Lichid incolor și inodor pe care îl bem și care formează râurile, lacurile și mările.",
+    "pronunciation": "/ˈa.pə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „apă“ stammt vom lateinischen „aqua“; das lateinische -qu- wurde im Rumänischen regelmäßig zu -p-, vergleiche „patru“ < „quattuor“.",
+        "targetText": "Românescul „apă” provine din latinescul „aqua”; grupul latin -qu- a devenit regulat -p- în română, ca în „patru” < „quattuor”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Leitungswasser",
+      "targetText": "apă de la robinet"
+    },
+    {
+      "sourceText": "Mineralwasser",
+      "targetText": "apă minerală"
+    },
+    {
+      "sourceText": "trinken",
+      "targetText": "a bea"
+    },
+    {
+      "sourceText": "Durst",
+      "targetText": "sete"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Feuer",
+      "targetText": "foc"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trinke ein Glas Wasser.",
+      "targetText": "Eu beau un pahar cu apă."
+    },
+    {
+      "sourceText": "Das Wasser ist kalt.",
+      "targetText": "Apa este rece."
+    },
+    {
+      "sourceText": "Bringen Sie mir bitte Wasser.",
+      "targetText": "Aduceți-mi vă rog apă."
+    },
+    {
+      "sourceText": "Ohne Wasser gibt es kein Leben.",
+      "targetText": "Fără apă nu există viață."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„apă“ ist feminin: „apa rece“, nicht „apul“ – anders als das deutsche sächliche „das Wasser“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die Lautregel: lat. qu → rum. p. So wird aus „aqua“ „apă“ und aus „quattuor“ „patru“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

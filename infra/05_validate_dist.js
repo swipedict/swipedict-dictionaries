@@ -15,7 +15,7 @@ const PACKAGES_DIR = path.resolve(MONOREPO_ROOT, 'packages');
 
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
-let validateEntry, validateParentEntry, validateGlobalIndex;
+let validateEntry, validateParentEntry, validateGlobalIndex, validateTags;
 
 let globalStats = { totalErrors: 0, totalWarnings: 0, dictionariesChecked: 0, entriesChecked: 0, mediaLinksChecked: 0 };
 let mediaAvailable = false;
@@ -27,7 +27,12 @@ async function loadAndCompileSchemas() {
 
         const parentSchemaContent = await fs.readFile(path.join(SPEC_DIR, 'parent.schema.json'), 'utf-8');
         validateParentEntry = ajv.compile(JSON.parse(parentSchemaContent));
-        
+
+        // entry/parent schemas only pattern-match the tag strings; the controlled
+        // vocabulary lives in tagging.schema.json and has to be applied separately.
+        const taggingSchemaContent = await fs.readFile(path.join(SPEC_DIR, 'tagging.schema.json'), 'utf-8');
+        validateTags = ajv.compile(JSON.parse(taggingSchemaContent));
+
         const globalIndexSchema = {
             type: "object",
             properties: {
@@ -50,6 +55,14 @@ async function loadAndCompileSchemas() {
 function logSchemaErrors(errors, filePath) {
     console.error(`${LOG_PREFIX} ❌ SCHEMA validation failed for: ${path.relative(MONOREPO_ROOT, filePath)}`);
     errors.forEach(e => console.error(`  - Path: ${e.instancePath || '/'} | Message: ${e.message}`));
+    globalStats.totalErrors++;
+}
+
+function checkTags(data, filePath) {
+    if (validateTags(data.tags)) return;
+    console.error(`${LOG_PREFIX} ❌ TAG validation failed for: ${path.relative(MONOREPO_ROOT, filePath)}`);
+    console.error(`  - tags: ${JSON.stringify(data.tags)}`);
+    validateTags.errors.forEach(e => console.error(`  - Path: tags${e.instancePath || ''} | Message: ${e.message}`));
     globalStats.totalErrors++;
 }
 
@@ -82,6 +95,7 @@ async function processEntry(indexEntry, dictDistPath, validator) {
     if (!validator(detailData)) {
         logSchemaErrors(validator.errors, detailJsonPath);
     }
+    checkTags(detailData, detailJsonPath);
 
     if (detailData.media?.audio) {
         for (const audioEntry of detailData.media.audio) {
@@ -184,6 +198,7 @@ async function validatePackageSources() {
             if (!validator(data)) {
                 logSchemaErrors(validator.errors, filePath);
             }
+            checkTags(data, filePath);
         }
         console.log(`${LOG_PREFIX}   -> ${pkg}: ${checked} source entries validated.`);
     }

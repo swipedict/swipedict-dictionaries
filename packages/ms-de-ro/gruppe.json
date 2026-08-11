@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-gruppe",
+  "parent": "ms-ro-grup-3f23fd3d@274b55fcc4071eda2f4808b2a7d6da2c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Gruppe",
+    "definition": "Mehrere Personen oder Dinge, die zusammengehören.",
+    "pronunciation": "/ˈɡʁʊpə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Gruppe“ kam über französisch „groupe“ aus italienisch „gruppo“, ursprünglich „Knoten, Klumpen“.",
+        "targetText": "„Gruppe” a ajuns prin franceză („groupe”) din italianul „gruppo”, inițial „nod, boț”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "grup",
+    "definition": "Mai multe persoane sau lucruri care formează un tot.",
+    "pronunciation": "/ɡrup/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „grup“ ist aus dem Französischen „groupe“ entlehnt; das Wort geht letztlich auf ein germanisches „kruppa“ („Klumpen“) zurück.",
+        "targetText": "Românescul „grup” este împrumutat din franceză, din „groupe”; cuvântul provine în ultimă instanță dintr-un germanic „kruppa” („boț”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Team",
+      "targetText": "echipă"
+    },
+    {
+      "sourceText": "Menschen",
+      "targetText": "oameni"
+    },
+    {
+      "sourceText": "zusammen",
+      "targetText": "împreună"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Eine Gruppe von Touristen.",
+      "targetText": "Un grup de turiști."
+    },
+    {
+      "sourceText": "Wir arbeiten in Gruppen.",
+      "targetText": "Lucrăm în grupuri."
+    },
+    {
+      "sourceText": "Die ganze Gruppe kam.",
+      "targetText": "Tot grupul a venit."
+    },
+    {
+      "sourceText": "Eine kleine Gruppe.",
+      "targetText": "Un grup mic."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„grup“ ist sächlich: „un grup“, Plural „grupuri“."
+    },
+    {
+      "lang": "de",
+      "text": "Für Sportteams sagt man „echipă“, nicht „grup“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

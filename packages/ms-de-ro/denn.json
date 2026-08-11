@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-denn",
+  "parent": "ms-ro-caci-75073bf9@5fc2fb2b157b33ed99bdba0c75271f8c",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "denn",
+    "definition": "Konjunktion, die eine Begründung anschließt.",
+    "pronunciation": "/dɛn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Denn“ und „dann“ waren ursprünglich dasselbe Wort, althochdeutsch „danne“.",
+        "targetText": "„Denn” și „dann” erau inițial același cuvânt, în germana veche înaltă „danne”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "căci",
+    "definition": "Conjuncție care introduce o justificare.",
+    "pronunciation": "/kət͡ʃʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „căci“ ist aus „că“ (< lateinisch „quod“) und „ce“ (< lateinisch „quid“) zusammengewachsen.",
+        "targetText": "Românescul „căci” s-a format prin sudarea lui „că” (din latinescul „quod”) cu „ce” (din „quid”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "weil",
+      "targetText": "pentru că"
+    },
+    {
+      "sourceText": "da",
+      "targetText": "deoarece"
+    },
+    {
+      "sourceText": "also",
+      "targetText": "deci"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich bleibe, denn es regnet.",
+      "targetText": "Rămân, căci plouă."
+    },
+    {
+      "sourceText": "Er schwieg, denn er war müde.",
+      "targetText": "A tăcut, căci era obosit."
+    },
+    {
+      "sourceText": "Wir gehen, denn es ist spät.",
+      "targetText": "Plecăm, căci este târziu."
+    },
+    {
+      "sourceText": "Sie lacht, denn sie ist glücklich.",
+      "targetText": "Râde, căci este fericită."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„căci“ klingt gehoben; im Alltag sagt man „pentru că“."
+    },
+    {
+      "lang": "de",
+      "text": "Wie deutsch „denn“ steht „căci“ nur zwischen zwei Hauptsätzen, nie am Satzanfang."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

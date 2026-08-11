@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-telefon",
+  "parent": "ms-ro-telefon-9e438126@d33b0370599412bf23e7cede239bc94b",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:objects-clothing",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Telefon",
+    "definition": "Gerät, mit dem man über Entfernung sprechen kann.",
+    "pronunciation": "/teleˈfoːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Telefon“ ist eine Neubildung des 19. Jahrhunderts aus griechisch „tēle“ (fern) und „phōnḗ“ (Stimme).",
+        "targetText": "„Telefon” este o creație din secolul al XIX-lea, din grecescul „tēle” (departe) și „phōnḗ” (voce)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "telefon",
+    "definition": "Aparat cu care se poate vorbi la distanță.",
+    "pronunciation": "/te.leˈfon/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „telefon“ ist aus dem Französischen „téléphone“ entlehnt; die Bestandteile sind griechisch: „Fernstimme“.",
+        "targetText": "Românescul „telefon” este împrumutat din franceză, din „téléphone”; elementele sunt grecești: „voce de la distanță”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anrufen",
+      "targetText": "a suna"
+    },
+    {
+      "sourceText": "Handy",
+      "targetText": "telefon mobil"
+    },
+    {
+      "sourceText": "Nummer",
+      "targetText": "număr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Telefon klingelt.",
+      "targetText": "Telefonul sună."
+    },
+    {
+      "sourceText": "Ich rufe dich an.",
+      "targetText": "Te sun la telefon."
+    },
+    {
+      "sourceText": "Meine Telefonnummer.",
+      "targetText": "Numărul meu de telefon."
+    },
+    {
+      "sourceText": "Ein neues Handy.",
+      "targetText": "Un telefon mobil nou."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a suna“ heißt anrufen: „te sun mâine“ = ich rufe dich morgen an."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „telefoane“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-sprache",
+  "parent": "ms-ro-limba-5203d534@898c870bf2d86a0ffbad1b7c24cc1cbb",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Sprache",
+    "definition": "System aus Wörtern und Regeln, mit dem Menschen sich verständigen.",
+    "pronunciation": "/ˈʃpʁaːxə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sprache“ ist vom Verb „sprechen“ abgeleitet, althochdeutsch „sprāhha“.",
+        "targetText": "„Sprache” este derivat de la verbul „sprechen”, în germana veche înaltă „sprāhha”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "limbă",
+    "definition": "Sistem de cuvinte și reguli prin care oamenii comunică.",
+    "pronunciation": "/ˈlim.bə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „limbă“ stammt vom lateinischen „lingua“, das ebenfalls beides bedeutet: Zunge und Sprache.",
+        "targetText": "Românescul „limbă” provine din latinescul „lingua”, care avea deja ambele sensuri: organ și limbaj."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sprechen",
+      "targetText": "a vorbi"
+    },
+    {
+      "sourceText": "Wort",
+      "targetText": "cuvânt"
+    },
+    {
+      "sourceText": "lernen",
+      "targetText": "a învăța"
+    },
+    {
+      "sourceText": "Zunge",
+      "targetText": "limbă"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich lerne die rumänische Sprache.",
+      "targetText": "Eu învăț limba română."
+    },
+    {
+      "sourceText": "Wie viele Sprachen sprichst du?",
+      "targetText": "Câte limbi vorbești?"
+    },
+    {
+      "sourceText": "Deutsch ist eine schwere Sprache.",
+      "targetText": "Germana este o limbă grea."
+    },
+    {
+      "sourceText": "Zeig mir deine Zunge.",
+      "targetText": "Arată-mi limba."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Wie im Lateinischen heißt „limbă“ zugleich Zunge und Sprache – der Kontext entscheidet."
+    },
+    {
+      "lang": "de",
+      "text": "Für Sprachnamen nimmt man den bestimmten Artikel: „limba română“, „germana“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

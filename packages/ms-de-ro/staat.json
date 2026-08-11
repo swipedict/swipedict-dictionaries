@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-staat",
+  "parent": "ms-ro-stat-8476b489@96259a3cf8d6d70cdf76c3a602026df9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:people-society",
+    "register:formal",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Staat",
+    "definition": "Politisch organisierte Gemeinschaft mit Gebiet und Regierung.",
+    "pronunciation": "/ʃtaːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Staat“ wurde aus lateinisch „status“ („Zustand, Verfassung“) entlehnt, vermittelt über italienisch „stato“.",
+        "targetText": "„Staat” a fost împrumutat din latinescul „status” („stare, constituție”), prin italianul „stato”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "stat",
+    "definition": "Comunitate organizată politic, cu teritoriu și guvern.",
+    "pronunciation": "/stat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „stat“ geht auf lateinisch „status“ zurück – dasselbe Wort, das auch deutsch „Staat“ und „Status“ ergab.",
+        "targetText": "Românescul „stat” provine din latinescul „status” – același cuvânt care a dat și germanul „Staat” și „Status”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Regierung",
+      "targetText": "guvern"
+    },
+    {
+      "sourceText": "Land",
+      "targetText": "țară"
+    },
+    {
+      "sourceText": "Gesetz",
+      "targetText": "lege"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Der rumänische Staat.",
+      "targetText": "Statul român."
+    },
+    {
+      "sourceText": "Ein moderner Staat.",
+      "targetText": "Un stat modern."
+    },
+    {
+      "sourceText": "Die Rolle des Staates.",
+      "targetText": "Rolul statului."
+    },
+    {
+      "sourceText": "Mitgliedstaaten.",
+      "targetText": "State membre."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„țară“ ist das Land geografisch, „stat“ die politische Institution."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „state“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

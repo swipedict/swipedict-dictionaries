@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-farbe",
+  "parent": "ms-ro-culoare-86ab20c7@1cc91e7ce02d4ba25bf64a1829e0fadc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Farbe",
+    "definition": "Eigenschaft wie Rot, Blau oder Grün, die das Auge wahrnimmt.",
+    "pronunciation": "/ˈfaʁbə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Farbe“ geht auf althochdeutsch „farawa“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Farbe” provine din germana veche înaltă „farawa”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "culoare",
+    "definition": "Însușire ca roșu, albastru sau verde, percepută de ochi.",
+    "pronunciation": "/kuˈloa.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „culoare“ stammt vom lateinischen „color, coloris“ – dieselbe Wurzel wie in „kolorieren“.",
+        "targetText": "Românescul „culoare” provine din latinescul „color, coloris” – aceeași rădăcină ca în „a colora”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "rot",
+      "targetText": "roșu"
+    },
+    {
+      "sourceText": "blau",
+      "targetText": "albastru"
+    },
+    {
+      "sourceText": "malen",
+      "targetText": "a picta"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Welche Farbe magst du?",
+      "targetText": "Ce culoare îți place?"
+    },
+    {
+      "sourceText": "Die Farbe ist schön.",
+      "targetText": "Culoarea este frumoasă."
+    },
+    {
+      "sourceText": "Helle Farben.",
+      "targetText": "Culori deschise."
+    },
+    {
+      "sourceText": "Rot ist meine Lieblingsfarbe.",
+      "targetText": "Roșu este culoarea mea preferată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „culori“."
+    },
+    {
+      "lang": "de",
+      "text": "„Ce culoare are?“ ist die Standardfrage nach der Farbe."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ms-de-ro-anfang",
+  "parent": "ms-ro-inceput-c4845a0a@0e60904c51845b46b40cd31cc308aae1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Anfang",
+    "definition": "Der erste Punkt oder Abschnitt eines Vorgangs oder Zeitraums.",
+    "pronunciation": "/ˈanfaŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Anfang“ ist eine Zusammensetzung aus „an“ und „fangen“ (ursprünglich „ergreifen“) – der Anfang ist also das, was man zuerst ergreift.",
+        "targetText": "„Anfang” este un compus din „an” și „fangen” (inițial „a apuca”) – începutul este deci ceea ce apuci mai întâi."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "început",
+    "definition": "Primul punct sau prima parte a unui proces ori a unei perioade.",
+    "pronunciation": "/ɨn.t͡ʃeˈput/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „început“ ist das Partizip von „a începe“, das auf lateinisch „incipere“ („anfangen“) zurückgeht – wörtlich „das Angefangene“.",
+        "targetText": "Românescul „început” este participiul verbului „a începe”, din latinescul „incipere” („a începe”) – literal „ceea ce a fost început”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "anfangen",
+      "targetText": "a începe"
+    },
+    {
+      "sourceText": "zuerst",
+      "targetText": "mai întâi"
+    },
+    {
+      "sourceText": "Beginn",
+      "targetText": "debut"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ende",
+      "targetText": "sfârșit"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Am Anfang war es schwer.",
+      "targetText": "La început a fost greu."
+    },
+    {
+      "sourceText": "Das ist erst der Anfang.",
+      "targetText": "Acesta este doar începutul."
+    },
+    {
+      "sourceText": "Von Anfang an.",
+      "targetText": "De la început."
+    },
+    {
+      "sourceText": "Der Anfang des Films war langweilig.",
+      "targetText": "Începutul filmului a fost plictisitor."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„la început“ = „am Anfang“, „de la început“ = „von Anfang an“ – zwei Präpositionen, zwei Bedeutungen."
+    },
+    {
+      "lang": "de",
+      "text": "Viele rumänische Substantive sind erstarrte Partizipien, wie hier „început“ von „a începe“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

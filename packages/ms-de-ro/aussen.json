@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-aussen",
+  "parent": "ms-ro-afara-7008a0da@3626b27c0ad37c0b445a4b936d50ce80",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "außen",
+    "definition": "Außerhalb von etwas, im Freien.",
+    "pronunciation": "/ˈaʊ̯sn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Außen“ geht auf althochdeutsch „ūzana“ zurück, zur Präposition „aus“.",
+        "targetText": "„Außen” provine din germana veche înaltă „ūzana”, de la prepoziția „aus”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "afară",
+    "definition": "În exteriorul a ceva, în aer liber.",
+    "pronunciation": "/aˈfa.rə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „afară“ geht auf lateinisch „ad foras“ zurück – „vor die Tür“, von „foris“ (Tür).",
+        "targetText": "Românescul „afară” provine din latinescul „ad foras” – „la ușă, în exterior”, de la „foris” (ușă)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "innen",
+      "targetText": "înăuntru"
+    },
+    {
+      "sourceText": "draußen",
+      "targetText": "afară"
+    },
+    {
+      "sourceText": "Garten",
+      "targetText": "grădină"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "innen",
+      "targetText": "înăuntru"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Draußen ist es kalt.",
+      "targetText": "Afară este frig."
+    },
+    {
+      "sourceText": "Geh nach draußen!",
+      "targetText": "Ieși afară!"
+    },
+    {
+      "sourceText": "Wir essen draußen.",
+      "targetText": "Mâncăm afară."
+    },
+    {
+      "sourceText": "Außer mir war niemand da.",
+      "targetText": "În afară de mine nu era nimeni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„afară“ deckt „außen“ und „draußen“ ab – Rumänisch trennt das nicht."
+    },
+    {
+      "lang": "de",
+      "text": "„în afară de“ heißt „außer“: „în afară de tine“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-arbeit",
+  "parent": "ms-ro-munca-b7d96f91@3452df309e8dba7b813a05605ade4443",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Arbeit",
+    "definition": "Zielgerichtete körperliche oder geistige Tätigkeit, oft gegen Bezahlung.",
+    "pronunciation": "/ˈaʁbaɪ̯t/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Arbeit“ geht auf althochdeutsch „arabeit“ zurück und bedeutete ursprünglich „Mühsal, Plage“ – erst später wurde daraus die neutrale Tätigkeit.",
+        "targetText": "„Arbeit” provine din germana veche înaltă „arabeit”, care însemna la origine „trudă, chin”; abia mai târziu a devenit o activitate neutră."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "muncă",
+    "definition": "Activitate fizică sau intelectuală cu un scop, adesea remunerată.",
+    "pronunciation": "/ˈmun.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „muncă“ ist ein slawisches Lehnwort, von altkirchenslawisch „mǫka“ („Qual, Marter“). Die Bedeutungsentwicklung von „Qual“ zu „Arbeit“ verlief parallel zum deutschen „Arbeit“.",
+        "targetText": "Românescul „muncă” este un împrumut slav, din slavona veche „mǫka” („chin, caznă”). Evoluția de la „chin” la „muncă” este paralelă cu cea a germanului „Arbeit”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "arbeiten",
+      "targetText": "a lucra"
+    },
+    {
+      "sourceText": "Beruf",
+      "targetText": "profesie"
+    },
+    {
+      "sourceText": "Arbeitgeber",
+      "targetText": "angajator"
+    },
+    {
+      "sourceText": "Lohn",
+      "targetText": "salariu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Freizeit",
+      "targetText": "timp liber"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Die Arbeit macht mir Spaß.",
+      "targetText": "Munca îmi place."
+    },
+    {
+      "sourceText": "Ich gehe zur Arbeit.",
+      "targetText": "Eu merg la muncă."
+    },
+    {
+      "sourceText": "Das war harte Arbeit.",
+      "targetText": "A fost o muncă grea."
+    },
+    {
+      "sourceText": "Er sucht Arbeit.",
+      "targetText": "El caută de muncă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Ein schönes Paar: deutsch „Arbeit“ (< „Mühsal“) und rumänisch „muncă“ (< slawisch „Qual“) haben dieselbe Bedeutungsgeschichte."
+    },
+    {
+      "lang": "de",
+      "text": "Für die Stelle sagt man eher „serviciu“ oder „job“; „muncă“ ist die Tätigkeit selbst."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

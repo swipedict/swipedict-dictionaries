@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-dunkel",
+  "parent": "ms-ro-intunecat-7f4a9617@9ebc2109e45a46a82ee584e8e72653a1",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dunkel",
+    "definition": "Ohne oder mit wenig Licht.",
+    "pronunciation": "/ˈdʊŋkl̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dunkel“ geht auf althochdeutsch „tunkal“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Dunkel” provine din germana veche înaltă „tunkal”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întunecat",
+    "definition": "Fără lumină sau cu puțină lumină.",
+    "pronunciation": "/ɨn.tu.neˈkat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „întunecat“ ist das Partizip von „a întuneca“, gebildet zu „întuneric“ (< vulgärlateinisch „*intunicare“).",
+        "targetText": "Românescul „întunecat” este participiul verbului „a întuneca”, format de la „întuneric” (din latinescul popular „*intunicare”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hell",
+      "targetText": "luminos"
+    },
+    {
+      "sourceText": "Nacht",
+      "targetText": "noapte"
+    },
+    {
+      "sourceText": "Dunkelheit",
+      "targetText": "întuneric"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "hell",
+      "targetText": "luminos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es ist schon dunkel.",
+      "targetText": "Este deja întuneric."
+    },
+    {
+      "sourceText": "Ein dunkles Zimmer.",
+      "targetText": "O cameră întunecată."
+    },
+    {
+      "sourceText": "Dunkle Farben.",
+      "targetText": "Culori închise."
+    },
+    {
+      "sourceText": "Dunkles Brot.",
+      "targetText": "Pâine neagră."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Este întuneric“ (Substantiv) heißt „es ist dunkel“ – häufiger als das Adjektiv."
+    },
+    {
+      "lang": "de",
+      "text": "Bei Farben sagt man „închis“: „albastru închis“ = dunkelblau."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

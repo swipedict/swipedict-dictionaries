@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-moeglich",
+  "parent": "ms-ro-posibil-b30a5de6@59bd5ef39e7e73e71f3021120bef5a92",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "möglich",
+    "definition": "Was geschehen oder getan werden kann.",
+    "pronunciation": "/ˈmøːklɪç/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Möglich“ ist von „mögen“ (können) abgeleitet, mittelhochdeutsch „mügelich“.",
+        "targetText": "„Möglich” este derivat de la „mögen” (a putea), în germana medie „mügelich”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "posibil",
+    "definition": "Care se poate întâmpla sau realiza.",
+    "pronunciation": "/poˈsi.bil/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „posibil“ ist aus dem Französischen „possible“ entlehnt; die lateinische Wurzel „possibilis“ gehört zu „posse“ („können“).",
+        "targetText": "Românescul „posibil” este împrumutat din franceză, din „possible”; rădăcina latină „possibilis” vine de la „posse” („a putea”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "unmöglich",
+      "targetText": "imposibil"
+    },
+    {
+      "sourceText": "können",
+      "targetText": "a putea"
+    },
+    {
+      "sourceText": "vielleicht",
+      "targetText": "poate"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unmöglich",
+      "targetText": "imposibil"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ist das möglich?",
+      "targetText": "Este posibil?"
+    },
+    {
+      "sourceText": "So bald wie möglich.",
+      "targetText": "Cât mai curând posibil."
+    },
+    {
+      "sourceText": "Alles ist möglich.",
+      "targetText": "Totul este posibil."
+    },
+    {
+      "sourceText": "Eine mögliche Lösung.",
+      "targetText": "O soluție posibilă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„cât mai … posibil“ ist die feste Wendung für „so … wie möglich“."
+    },
+    {
+      "lang": "de",
+      "text": "Verwandt mit „a putea“ (können) über die lateinische Wurzel posse."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

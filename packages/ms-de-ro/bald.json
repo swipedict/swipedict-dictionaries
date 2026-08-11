@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-bald",
+  "parent": "ms-ro-curand-2526663a@a787f89d3b02aad0296113ea52bed34c",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "bald",
+    "definition": "In kurzer Zeit, nach nicht langer Zeit.",
+    "pronunciation": "/balt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Bald“ geht auf althochdeutsch „bald“ („kühn, schnell“) zurück – aus „kühn“ wurde „rasch“.",
+        "targetText": "„Bald” provine din germana veche înaltă „bald” („îndrăzneț, iute”); din „îndrăzneț” a rezultat „repede”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "curând",
+    "definition": "Peste puțin timp, într-un interval scurt.",
+    "pronunciation": "/kuˈrɨnd/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „curând“ geht auf lateinisch „currendo“ („laufend“) zurück – wörtlich „im Laufschritt“.",
+        "targetText": "Românescul „curând” provine din latinescul „currendo” („alergând”) – literal „în fugă”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sofort",
+      "targetText": "imediat"
+    },
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    },
+    {
+      "sourceText": "jetzt",
+      "targetText": "acum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Bis bald!",
+      "targetText": "Pe curând!"
+    },
+    {
+      "sourceText": "Er kommt bald.",
+      "targetText": "Vine curând."
+    },
+    {
+      "sourceText": "Bald ist Winter.",
+      "targetText": "Curând vine iarna."
+    },
+    {
+      "sourceText": "So bald wie möglich.",
+      "targetText": "Cât mai curând posibil."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Pe curând!“ ist die normale Verabschiedung für „Bis bald!“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die Herkunft: „currendo“ – im Laufen, also in Kürze."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

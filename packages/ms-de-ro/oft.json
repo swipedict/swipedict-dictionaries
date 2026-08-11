@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-oft",
+  "parent": "ms-ro-des-36a03e25@fe66a99e87563981f9ca5626a0752873",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "oft",
+    "definition": "Viele Male, in kurzen Abständen.",
+    "pronunciation": "/ɔft/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Oft“ geht auf althochdeutsch „ofto“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Oft” provine din germana veche înaltă „ofto”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "des",
+    "definition": "De multe ori, la intervale scurte.",
+    "pronunciation": "/des/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „des“ stammt vom lateinischen „densus“ („dicht“) – aus räumlicher Dichte wurde zeitliche Häufigkeit.",
+        "targetText": "Românescul „des” provine din latinescul „densus” („dens”); din densitatea spațială a rezultat frecvența în timp."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    },
+    {
+      "sourceText": "manchmal",
+      "targetText": "uneori"
+    },
+    {
+      "sourceText": "selten",
+      "targetText": "rar"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "selten",
+      "targetText": "rar"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich gehe oft ins Kino.",
+      "targetText": "Merg des la cinema."
+    },
+    {
+      "sourceText": "Das passiert oft.",
+      "targetText": "Se întâmplă des."
+    },
+    {
+      "sourceText": "Er ruft oft an.",
+      "targetText": "Sună des."
+    },
+    {
+      "sourceText": "Wir sehen uns oft.",
+      "targetText": "Ne vedem des."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Alternative: „adesea“ – etwas gehobener als „des“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die Bildlogik: „des“ kommt von „dicht“ – dicht aufeinanderfolgend."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

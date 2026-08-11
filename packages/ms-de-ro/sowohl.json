@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-sowohl",
+  "parent": "ms-ro-atat-cat-si-07abad19@cd600f3b09a769f019329ff97df6b10f",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:formal",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sowohl",
+    "definition": "Erster Teil der Doppelkonjunktion „sowohl … als auch“.",
+    "pronunciation": "/zoˈvoːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sowohl“ ist aus „so“ und „wohl“ zusammengesetzt und verstärkt die Aufzählung.",
+        "targetText": "„Sowohl” este compus din „so” și „wohl” și întărește enumerarea."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "atât … cât și",
+    "definition": "Prima parte a construcției corelative „atât … cât și”.",
+    "pronunciation": "/aˈtɨt kɨt ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Fügung verbindet „atât“ (< lateinisch „eccum tantum“) mit „cât“ (< lateinisch „quantum“) und „și“ (< „sic“).",
+        "targetText": "Construcția românească leagă „atât” (din latinescul „eccum tantum”) cu „cât” (din „quantum”) și „și” (din „sic”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "und",
+      "targetText": "și"
+    },
+    {
+      "sourceText": "auch",
+      "targetText": "de asemenea"
+    },
+    {
+      "sourceText": "entweder … oder",
+      "targetText": "fie … fie"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "entweder … oder",
+      "targetText": "fie … fie"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Sowohl er als auch sie kommen.",
+      "targetText": "Atât el, cât și ea vin."
+    },
+    {
+      "sourceText": "Sowohl heute als auch morgen.",
+      "targetText": "Atât astăzi, cât și mâine."
+    },
+    {
+      "sourceText": "Sowohl in Deutschland als auch in Rumänien.",
+      "targetText": "Atât în Germania, cât și în România."
+    },
+    {
+      "sourceText": "Er spricht sowohl Deutsch als auch Rumänisch.",
+      "targetText": "El vorbește atât germana, cât și româna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Komma vor „cât și“ ist im Rumänischen Pflicht."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die feste Reihenfolge: atât … cât și – wie deutsch sowohl … als auch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

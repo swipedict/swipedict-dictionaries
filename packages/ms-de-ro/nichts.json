@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-nichts",
+  "parent": "ms-ro-nimic-113545b5@78c5676cf1235c581e36c72c697950f8",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "nichts",
+    "definition": "Kein Ding, keine Sache; das Gegenteil von etwas.",
+    "pronunciation": "/nɪçts/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Nichts“ ist der erstarrte Genitiv von „nicht“, das aus „ni“ (nicht) und „wiht“ (Ding) entstand.",
+        "targetText": "„Nichts” este genitivul încremenit al lui „nicht”, provenit din „ni” (nu) și „wiht” (lucru)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "nimic",
+    "definition": "Niciun lucru; contrariul lui „ceva”.",
+    "pronunciation": "/niˈmik/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „nimic“ geht auf lateinisch „nec mica“ zurück – wörtlich „nicht ein Krümel“.",
+        "targetText": "Românescul „nimic” provine din latinescul „nec mica” – literal „nici o firimitură”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "niemand",
+      "targetText": "nimeni"
+    },
+    {
+      "sourceText": "nie",
+      "targetText": "niciodată"
+    },
+    {
+      "sourceText": "kein",
+      "targetText": "niciun"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "etwas",
+      "targetText": "ceva"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich verstehe nichts.",
+      "targetText": "Eu nu înțeleg nimic."
+    },
+    {
+      "sourceText": "Es gibt nichts zu essen.",
+      "targetText": "Nu este nimic de mâncare."
+    },
+    {
+      "sourceText": "Nichts ist unmöglich.",
+      "targetText": "Nimic nu este imposibil."
+    },
+    {
+      "sourceText": "Danke! – Nichts zu danken.",
+      "targetText": "Mulțumesc! – Nu ai pentru ce."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Auch hier doppelte Verneinung: „nu înțeleg nimic“ – wörtlich „ich verstehe nicht nichts“."
+    },
+    {
+      "lang": "de",
+      "text": "Schöne Merkhilfe: „nimic“ kommt von „nicht ein Krümel“ (lat. nec mica)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

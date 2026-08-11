@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-brot",
+  "parent": "ms-ro-paine-aee66ac4@9918b821d6bbe6be7d62566e563769a1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Brot",
+    "definition": "Gebackenes Grundnahrungsmittel aus Mehl, Wasser und Salz.",
+    "pronunciation": "/bʁoːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Brot“ geht auf althochdeutsch „brōt“ zurück, verwandt mit „brauen“ – ursprünglich das durch Gärung Gelockerte.",
+        "targetText": "„Brot” provine din germana veche înaltă „brōt”, înrudit cu „brauen” („a fermenta”) – inițial aluatul dospit."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "pâine",
+    "definition": "Aliment de bază copt din făină, apă și sare.",
+    "pronunciation": "/ˈpɨj.ne/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „pâine“ stammt vom lateinischen „panis“; das lateinische a wurde vor n zu â, wie auch in „câine“ < „canis“.",
+        "targetText": "Românescul „pâine” provine din latinescul „panis”; vocala a s-a închis la â înaintea lui n, ca în „câine” < „canis”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Bäckerei",
+      "targetText": "brutărie"
+    },
+    {
+      "sourceText": "Butter",
+      "targetText": "unt"
+    },
+    {
+      "sourceText": "Mehl",
+      "targetText": "făină"
+    },
+    {
+      "sourceText": "essen",
+      "targetText": "a mânca"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich kaufe Brot.",
+      "targetText": "Eu cumpăr pâine."
+    },
+    {
+      "sourceText": "Das Brot ist frisch.",
+      "targetText": "Pâinea este proaspătă."
+    },
+    {
+      "sourceText": "Brot mit Butter.",
+      "targetText": "Pâine cu unt."
+    },
+    {
+      "sourceText": "Wir essen Brot zum Frühstück.",
+      "targetText": "Mâncăm pâine la micul dejun."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Die Lautregel a → â vor n zeigt sich gleich dreifach: panis → pâine, canis → câine, manus → mână."
+    },
+    {
+      "lang": "de",
+      "text": "„pâine“ ist feminin: „pâinea proaspătă“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

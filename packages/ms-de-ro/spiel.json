@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-spiel",
+  "parent": "ms-ro-joc-be958246@f05a00bbfa64a96618868a4fe8e472a1",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Spiel",
+    "definition": "Tätigkeit zum Vergnügen, oft mit Regeln.",
+    "pronunciation": "/ʃpiːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Spiel“ geht auf althochdeutsch „spil“ zurück; die weitere Herkunft ist unklar.",
+        "targetText": "„Spiel” provine din germana veche înaltă „spil”; originea mai veche este neclară."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "joc",
+    "definition": "Activitate de plăcere, adesea cu reguli.",
+    "pronunciation": "/ʒok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „joc“ stammt vom lateinischen „jocus“ („Scherz, Spaß“) – dieselbe Wurzel wie in „Jokus“ und „Joker“.",
+        "targetText": "Românescul „joc” provine din latinescul „jocus” („glumă, distracție”) – aceeași rădăcină ca în „joker”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "spielen",
+      "targetText": "a juca"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "Sport",
+      "targetText": "sport"
+    },
+    {
+      "sourceText": "Karten",
+      "targetText": "cărți de joc"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Das Spiel beginnt.",
+      "targetText": "Jocul începe."
+    },
+    {
+      "sourceText": "Ein Spiel für Kinder.",
+      "targetText": "Un joc pentru copii."
+    },
+    {
+      "sourceText": "Wir spielen ein Spiel.",
+      "targetText": "Jucăm un joc."
+    },
+    {
+      "sourceText": "Ein Fußballspiel.",
+      "targetText": "Un joc de fotbal."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„joc“ heißt auch „Tanz“: „joc popular“ ist ein Volkstanz."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „jocuri“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

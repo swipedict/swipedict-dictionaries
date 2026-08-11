@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-hier",
+  "parent": "ms-ro-aici-2a6845b4@cdf6b3493cba2b862ae4eb4b4bacea8e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "hier",
+    "definition": "An diesem Ort, an der Stelle des Sprechers.",
+    "pronunciation": "/hiːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Hier“ geht auf althochdeutsch „hiar“ zurück, gebildet zum Demonstrativstamm „hi-“.",
+        "targetText": "„Hier” provine din germana veche înaltă „hiar”, format de la rădăcina demonstrativă „hi-”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aici",
+    "definition": "În acest loc, unde se află vorbitorul.",
+    "pronunciation": "/aˈit͡ʃʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „aici“ geht auf lateinisch „ad hicce“ zurück, eine verstärkte Form von „hic“ („hier“).",
+        "targetText": "Românescul „aici” provine din latinescul „ad hicce”, formă întărită a lui „hic” („aici”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dort",
+      "targetText": "acolo"
+    },
+    {
+      "sourceText": "dieser",
+      "targetText": "acesta"
+    },
+    {
+      "sourceText": "da",
+      "targetText": "aici"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dort",
+      "targetText": "acolo"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich wohne hier.",
+      "targetText": "Eu locuiesc aici."
+    },
+    {
+      "sourceText": "Komm hierher!",
+      "targetText": "Vino aici!"
+    },
+    {
+      "sourceText": "Hier ist es schön.",
+      "targetText": "Aici este frumos."
+    },
+    {
+      "sourceText": "Von hier bis dort.",
+      "targetText": "De aici până acolo."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Paar „aici/acolo“ entspricht genau „hier/dort“."
+    },
+    {
+      "lang": "de",
+      "text": "Für „hierher“ reicht „aici“: „vino aici“ – keine eigene Richtungsform nötig."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

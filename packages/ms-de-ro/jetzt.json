@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-jetzt",
+  "parent": "ms-ro-acum-d8eb9e4e@f882928fcac6a5c608e6e9fdb43bdaed",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jetzt",
+    "definition": "In diesem Augenblick, zum gegenwärtigen Zeitpunkt.",
+    "pronunciation": "/jɛt͡st/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Jetzt“ geht auf mittelhochdeutsch „iezuo“ zurück, aus „ie“ (je) und „zuo“ (zu).",
+        "targetText": "„Jetzt” provine din germana medie „iezuo”, din „ie” (vreodată) și „zuo” (la)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acum",
+    "definition": "În acest moment, în clipa de față.",
+    "pronunciation": "/aˈkum/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „acum“ geht auf lateinisch „eccum modo“ zurück – „siehe, gerade eben“.",
+        "targetText": "Românescul „acum” provine din latinescul „eccum modo” – „iată, chiar acum”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sofort",
+      "targetText": "imediat"
+    },
+    {
+      "sourceText": "heute",
+      "targetText": "astăzi"
+    },
+    {
+      "sourceText": "dann",
+      "targetText": "apoi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "damals",
+      "targetText": "atunci"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jetzt bin ich müde.",
+      "targetText": "Acum sunt obosit."
+    },
+    {
+      "sourceText": "Was machen wir jetzt?",
+      "targetText": "Ce facem acum?"
+    },
+    {
+      "sourceText": "Bis jetzt war alles gut.",
+      "targetText": "Până acum totul a fost bine."
+    },
+    {
+      "sourceText": "Jetzt oder nie.",
+      "targetText": "Acum ori niciodată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„până acum“ = „bis jetzt“, „de acum“ = „von jetzt an“ – zwei sehr häufige Wendungen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Element „eccum“ (siehe da) steckt auch in acesta, acela und acolo."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

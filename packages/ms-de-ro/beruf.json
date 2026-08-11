@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-beruf",
+  "parent": "ms-ro-profesie-22850a23@156add2dc57971c32f97d17f8f5082c5",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:work-education",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Beruf",
+    "definition": "Tätigkeit, die man erlernt hat und für Geld ausübt.",
+    "pronunciation": "/bəˈʁuːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Beruf“ gehört zu „berufen“ – ursprünglich die göttliche Berufung, später der weltliche Erwerb.",
+        "targetText": "„Beruf” este legat de „berufen” – inițial chemarea divină, apoi ocupația lumească."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "profesie",
+    "definition": "Ocupație învățată și practicată pentru bani.",
+    "pronunciation": "/pro.feˈsi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „profesie“ ist aus dem Französischen „profession“ entlehnt; die lateinische Wurzel „professio“ heißt „öffentliches Bekenntnis“.",
+        "targetText": "Românescul „profesie” este împrumutat din franceză, din „profession”; rădăcina latină „professio” înseamnă „declarație publică”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Arbeit",
+      "targetText": "muncă"
+    },
+    {
+      "sourceText": "Handwerk",
+      "targetText": "meserie"
+    },
+    {
+      "sourceText": "Job",
+      "targetText": "serviciu"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Was sind Sie von Beruf?",
+      "targetText": "Ce profesie aveți?"
+    },
+    {
+      "sourceText": "Ein schöner Beruf.",
+      "targetText": "O profesie frumoasă."
+    },
+    {
+      "sourceText": "Er wechselt den Beruf.",
+      "targetText": "Își schimbă profesia."
+    },
+    {
+      "sourceText": "Beruf und Familie.",
+      "targetText": "Profesia și familia."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Für handwerkliche Berufe sagt man eher „meserie“, für akademische „profesie“."
+    },
+    {
+      "lang": "de",
+      "text": "„serviciu“ ist die Arbeitsstelle, nicht der Beruf."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

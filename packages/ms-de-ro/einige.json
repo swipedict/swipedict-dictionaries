@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-einige",
+  "parent": "ms-ro-cativa-f0427f02@fe56a75c85ae660f5cda9afa467c48ae",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "einige",
+    "definition": "Eine unbestimmte, aber kleine Zahl von Personen oder Dingen.",
+    "pronunciation": "/ˈaɪ̯nɪɡə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Einige“ ist von „ein“ abgeleitet, althochdeutsch „einag“ („einzeln, vereinzelt“).",
+        "targetText": "„Einige” este derivat de la „ein”, în germana veche înaltă „einag” („izolat, răzleț”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "câțiva",
+    "definition": "Un număr nedeterminat, dar mic, de persoane sau lucruri.",
+    "pronunciation": "/kɨˈt͡si.va/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „câțiva“ ist aus „câți“ (< lateinisch „quanti“, wie viele) und der Partikel „-va“ zusammengesetzt.",
+        "targetText": "Românescul „câțiva” este format din „câți” (din latinescul „quanti”) și particula „-va”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "viele",
+      "targetText": "mulți"
+    },
+    {
+      "sourceText": "manche",
+      "targetText": "unii"
+    },
+    {
+      "sourceText": "ein paar",
+      "targetText": "câteva"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "alle",
+      "targetText": "toți"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Einige Freunde kommen.",
+      "targetText": "Câțiva prieteni vin."
+    },
+    {
+      "sourceText": "Ich brauche einige Minuten.",
+      "targetText": "Am nevoie de câteva minute."
+    },
+    {
+      "sourceText": "Einige sagen das.",
+      "targetText": "Unii spun asta."
+    },
+    {
+      "sourceText": "Nach einigen Tagen.",
+      "targetText": "După câteva zile."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Weibliche Form „câteva“: „câteva zile“, männlich „câțiva ani“."
+    },
+    {
+      "lang": "de",
+      "text": "„unii/unele“ ist die Alternative für „manche“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-am-meisten",
+  "parent": "ms-ro-cel-mai-mult-092317f4@6bdb942365eec10bad9803bce165d5cd",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "am meisten",
+    "definition": "In höchstem Maße; Superlativ zu „viel“.",
+    "pronunciation": "/am ˈmaɪ̯stn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Am meisten“ ist der Superlativ zu „viel“, gebildet mit „meist“ (althochdeutsch „meist“).",
+        "targetText": "„Am meisten” este superlativul lui „viel”, format cu „meist” (germana veche înaltă „meist”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "cel mai mult",
+    "definition": "În cea mai mare măsură; superlativul lui „mult”.",
+    "pronunciation": "/t͡ʃel maj mult/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Der rumänische Superlativ entsteht aus dem Artikel „cel“ (< lateinisch „ecce illum“) und dem Komparativ „mai mult“.",
+        "targetText": "Superlativul românesc se formează din articolul „cel” (din latinescul „ecce illum”) și comparativul „mai mult”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "mehr",
+      "targetText": "mai mult"
+    },
+    {
+      "sourceText": "am besten",
+      "targetText": "cel mai bine"
+    },
+    {
+      "sourceText": "am wenigsten",
+      "targetText": "cel mai puțin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "am wenigsten",
+      "targetText": "cel mai puțin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das gefällt mir am meisten.",
+      "targetText": "Asta îmi place cel mai mult."
+    },
+    {
+      "sourceText": "Er arbeitet am meisten.",
+      "targetText": "El muncește cel mai mult."
+    },
+    {
+      "sourceText": "Am meisten liebe ich Musik.",
+      "targetText": "Cel mai mult iubesc muzica."
+    },
+    {
+      "sourceText": "Wer hat am meisten?",
+      "targetText": "Cine are cel mai mult?"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Superlativ = „cel/cea/cei/cele“ + „mai“ + Adjektiv: „cel mai bun“, „cea mai frumoasă“."
+    },
+    {
+      "lang": "de",
+      "text": "Der Artikel richtet sich nach Geschlecht und Zahl des Bezugsworts."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

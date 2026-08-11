@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-aber",
+  "parent": "ms-ro-dar-5086b618@b5a12e49617b7af08f3a51758491af3e",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "aber",
+    "definition": "Konjunktion, die einen Gegensatz oder eine Einschränkung anschließt.",
+    "pronunciation": "/ˈaːbɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Aber“ geht auf althochdeutsch „abur“ zurück, ursprünglich „wieder, abermals“.",
+        "targetText": "„Aber” provine din germana veche înaltă „abur”, cu sensul inițial „din nou”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "dar",
+    "definition": "Conjuncție care introduce o opoziție sau o restricție.",
+    "pronunciation": "/dar/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „dar“ geht auf lateinisch „de ab re“ zurück; die Konjunktion ist nicht mit dem Substantiv „dar“ („Geschenk“) verwandt, das aus dem Slawischen stammt.",
+        "targetText": "Conjuncția „dar” provine din latinescul „de ab re”; nu are legătură cu substantivul „dar” („cadou”), care este de origine slavă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "jedoch",
+      "targetText": "însă"
+    },
+    {
+      "sourceText": "trotzdem",
+      "targetText": "totuși"
+    },
+    {
+      "sourceText": "sondern",
+      "targetText": "ci"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "und",
+      "targetText": "și"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich möchte, aber ich kann nicht.",
+      "targetText": "Aș vrea, dar nu pot."
+    },
+    {
+      "sourceText": "Es ist teuer, aber gut.",
+      "targetText": "Este scump, dar bun."
+    },
+    {
+      "sourceText": "Er kam, aber zu spät.",
+      "targetText": "A venit, dar prea târziu."
+    },
+    {
+      "sourceText": "Klein, aber schön.",
+      "targetText": "Mic, dar frumos."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„dar“ und „însă“ heißen beide „aber“; „însă“ klingt gehobener und steht oft nach dem ersten Wort."
+    },
+    {
+      "lang": "de",
+      "text": "Nicht verwechseln: „dar“ = aber (Konjunktion) und „dar“ = Geschenk (Substantiv) – zwei verschiedene Wörter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

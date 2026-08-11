@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-buch",
+  "parent": "ms-ro-carte-946d013c@db2b9db9f49d59ab17c9ef6975db354c",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:leisure-culture",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Buch",
+    "definition": "Gebundene Sammlung bedruckter Blätter zum Lesen.",
+    "pronunciation": "/buːx/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Buch“ geht auf althochdeutsch „buoh“ zurück; man vermutet einen Zusammenhang mit „Buche“, auf deren Holztafeln Runen geritzt wurden.",
+        "targetText": "„Buch” provine din germana veche înaltă „buoh”; se presupune o legătură cu „Buche” (fag), pe ale cărui tăblițe se scriau rune."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "carte",
+    "definition": "Ansamblu legat de foi tipărite, destinat citirii.",
+    "pronunciation": "/ˈkar.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „carte“ stammt vom lateinischen „charta“ („Papyrusblatt, Papier“), das seinerseits aus dem Griechischen entlehnt wurde.",
+        "targetText": "Românescul „carte” provine din latinescul „charta” („foaie de papirus, hârtie”), împrumutat la rândul lui din greacă."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "lesen",
+      "targetText": "a citi"
+    },
+    {
+      "sourceText": "Zeitung",
+      "targetText": "ziar"
+    },
+    {
+      "sourceText": "Bibliothek",
+      "targetText": "bibliotecă"
+    },
+    {
+      "sourceText": "Bücherregal",
+      "targetText": "raft de cărți"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich lese ein interessantes Buch.",
+      "targetText": "Eu citesc o carte interesantă."
+    },
+    {
+      "sourceText": "Das Buch liegt auf dem Tisch.",
+      "targetText": "Cartea este pe masă."
+    },
+    {
+      "sourceText": "Hast du das Buch gelesen?",
+      "targetText": "Ai citit cartea?"
+    },
+    {
+      "sourceText": "Sie schreibt ein Buch.",
+      "targetText": "Ea scrie o carte."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„carte“ ist feminin: „o carte bună“. Der Plural ist unregelmäßig: „cărți“."
+    },
+    {
+      "lang": "de",
+      "text": "Nicht verwechseln: „carte de identitate“ ist der Personalausweis, nicht ein Buch."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-frei",
+  "parent": "ms-ro-liber-9618fc20@d790318f19464477efa51daf927b423f",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:french",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "frei",
+    "definition": "Nicht gebunden, nicht besetzt oder nicht eingeschränkt.",
+    "pronunciation": "/fʁaɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Frei“ geht auf althochdeutsch „frī“ zurück, das ursprünglich „zur Sippe gehörig“ und damit „nicht unfrei“ bedeutete.",
+        "targetText": "„Frei” provine din germana veche înaltă „frī”, care însemna inițial „care aparține neamului”, deci „neaservit”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "liber",
+    "definition": "Care nu este legat, ocupat sau limitat.",
+    "pronunciation": "/ˈli.ber/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „liber“ wurde im 19. Jahrhundert aus dem Französischen „libre“ übernommen; die lateinische Quelle „liber“ war im Rumänischen nicht erbwörtlich erhalten geblieben.",
+        "targetText": "Românescul „liber” a fost împrumutat în secolul al XIX-lea din franceză („libre”); latinescul „liber” nu se păstrase pe cale moștenită în română."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Freiheit",
+      "targetText": "libertate"
+    },
+    {
+      "sourceText": "freiwillig",
+      "targetText": "voluntar"
+    },
+    {
+      "sourceText": "leer",
+      "targetText": "gol"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "besetzt",
+      "targetText": "ocupat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ist dieser Platz frei?",
+      "targetText": "Este liber acest loc?"
+    },
+    {
+      "sourceText": "Ich habe morgen frei.",
+      "targetText": "Mâine sunt liber."
+    },
+    {
+      "sourceText": "Der Eintritt ist frei.",
+      "targetText": "Intrarea este liberă."
+    },
+    {
+      "sourceText": "Sie ist ein freier Mensch.",
+      "targetText": "Ea este un om liber."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Este liber?“ fragt man nach einem freien Platz oder Taxi – genau wie „Ist frei?“ im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "„liber“ ist ein Neologismus aus dem Französischen; das Erbwort für „Freiheit“ gibt es nicht mehr."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

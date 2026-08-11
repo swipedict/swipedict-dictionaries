@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-feuer",
+  "parent": "ms-ro-foc-0f046887@70727ce71f934ec4262b534283742bbf",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Feuer",
+    "definition": "Sichtbare Flamme und Hitze, die beim Verbrennen entstehen.",
+    "pronunciation": "/ˈfɔɪ̯ɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Feuer“ geht auf althochdeutsch „fiur“ zurück und ist urverwandt mit griechisch „pŷr“, das man aus „Pyrotechnik“ kennt.",
+        "targetText": "„Feuer” provine din germana veche înaltă „fiur”, înrudit cu grecescul „pŷr”, cunoscut din „pirotehnie”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "foc",
+    "definition": "Flacără și căldură vizibile, produse de ardere.",
+    "pronunciation": "/fok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „foc“ stammt vom lateinischen „focus“, das ursprünglich „Herd, Feuerstelle“ bedeutete und in allen romanischen Sprachen das alte „ignis“ verdrängte.",
+        "targetText": "Românescul „foc” provine din latinescul „focus”, care însemna inițial „vatră”; în toate limbile romanice el a înlocuit vechiul „ignis”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "brennen",
+      "targetText": "a arde"
+    },
+    {
+      "sourceText": "Flamme",
+      "targetText": "flacără"
+    },
+    {
+      "sourceText": "Lagerfeuer",
+      "targetText": "foc de tabără"
+    },
+    {
+      "sourceText": "Rauch",
+      "targetText": "fum"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Wasser",
+      "targetText": "apă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Feuer brennt.",
+      "targetText": "Focul arde."
+    },
+    {
+      "sourceText": "Wir machen ein Feuer.",
+      "targetText": "Facem un foc."
+    },
+    {
+      "sourceText": "Haben Sie Feuer?",
+      "targetText": "Aveți un foc?"
+    },
+    {
+      "sourceText": "Das Haus stand in Flammen.",
+      "targetText": "Casa era în flăcări."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Deutsch „Fokus“ und rumänisch „foc“ sind dasselbe lateinische Wort – nur behielt das Rumänische die alte Bedeutung „Herdfeuer“."
+    },
+    {
+      "lang": "de",
+      "text": "„foc“ ist sächlich, Plural „focuri“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

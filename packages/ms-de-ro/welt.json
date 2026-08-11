@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-welt",
+  "parent": "ms-ro-lume-3e10ef5b@952a4fd18ae51e234b9275f16a60ca87",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Welt",
+    "definition": "Die Erde mit allem, was auf ihr existiert; auch der Bereich menschlichen Lebens.",
+    "pronunciation": "/vɛlt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Welt“ geht auf althochdeutsch „weralt“ zurück, zusammengesetzt aus „wer“ (Mann, Mensch) und „alt“ (Zeitalter) – also „Menschenzeitalter“.",
+        "targetText": "„Welt” provine din germana veche înaltă „weralt”, compus din „wer” (om) și „alt” (vârstă, epocă) – deci „epoca oamenilor”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "lume",
+    "definition": "Pământul cu tot ce există pe el; de asemenea, sfera vieții omenești.",
+    "pronunciation": "/ˈlu.me/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „lume“ stammt vom lateinischen „lumen“ („Licht“). Über die christlich-lateinische Wendung „ans Licht kommen“ = „geboren werden“ verschob sich die Bedeutung zu „Welt, Leute“.",
+        "targetText": "Românescul „lume” provine din latinescul „lumen” („lumină”). Prin expresia creștină „a veni pe lume”, sensul s-a deplasat de la „lumină” la „lume, oameni”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Erde",
+      "targetText": "pământ"
+    },
+    {
+      "sourceText": "Leute",
+      "targetText": "oameni"
+    },
+    {
+      "sourceText": "Land",
+      "targetText": "țară"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Die Welt ist groß.",
+      "targetText": "Lumea este mare."
+    },
+    {
+      "sourceText": "Er will die Welt sehen.",
+      "targetText": "El vrea să vadă lumea."
+    },
+    {
+      "sourceText": "Auf der ganzen Welt.",
+      "targetText": "În toată lumea."
+    },
+    {
+      "sourceText": "Viele Leute waren dort.",
+      "targetText": "Era multă lume acolo."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„lume“ heißt auch „Leute“: „multă lume“ = „viele Leute“ – im Deutschen zwei verschiedene Wörter."
+    },
+    {
+      "lang": "de",
+      "text": "Merkhilfe: „lume“ kommt von „Licht“ (lat. lumen) – die Welt ist das, was ans Licht kommt."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

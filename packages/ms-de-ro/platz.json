@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-platz",
+  "parent": "ms-ro-loc-10edef2e@31169385b1eb201f8f86a4dd0c4be1d3",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Platz",
+    "definition": "Stelle, an der etwas ist oder sein kann; auch freier Raum.",
+    "pronunciation": "/plat͡s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Platz“ kam über französisch „place“ aus lateinisch „platea“ („breite Straße“), das aus griechisch „plateia“ stammt.",
+        "targetText": "„Platz” a ajuns prin franceză („place”) din latinescul „platea” („stradă lată”), la origine grecescul „plateia”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "loc",
+    "definition": "Punct unde se află sau poate sta ceva; de asemenea, spațiu liber.",
+    "pronunciation": "/lok/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „loc“ stammt vom lateinischen „locus“ („Ort, Stelle“) – dieselbe Wurzel wie in „lokal“.",
+        "targetText": "Românescul „loc” provine din latinescul „locus” („loc, poziție”) – aceeași rădăcină ca în „local”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Ort",
+      "targetText": "loc"
+    },
+    {
+      "sourceText": "Raum",
+      "targetText": "spațiu"
+    },
+    {
+      "sourceText": "sitzen",
+      "targetText": "a sta jos"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ist hier noch Platz?",
+      "targetText": "Mai este loc aici?"
+    },
+    {
+      "sourceText": "Ein schöner Ort.",
+      "targetText": "Un loc frumos."
+    },
+    {
+      "sourceText": "Nimm Platz!",
+      "targetText": "Ia loc!"
+    },
+    {
+      "sourceText": "Kein Platz mehr.",
+      "targetText": "Nu mai este loc."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Ia loc!“ heißt „Nimm Platz!“ – eine sehr häufige Einladung."
+    },
+    {
+      "lang": "de",
+      "text": "„în loc de“ heißt „anstelle von“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-bad",
+  "parent": "ms-ro-baie-709904ba@7cadde6665bbcca42922744af22c67db",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:home-living",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Bad",
+    "definition": "Raum zum Waschen; auch das Baden selbst.",
+    "pronunciation": "/baːt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Bad“ geht auf althochdeutsch „bad“ zurück, verwandt mit „bähen“ (wärmen).",
+        "targetText": "„Bad” provine din germana veche înaltă „bad”, înrudit cu „bähen” („a încălzi”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "baie",
+    "definition": "Încăpere pentru spălat; de asemenea, acțiunea de a se scălda.",
+    "pronunciation": "/ˈba.je/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „baie“ geht auf lateinisch „balneum“ („Bad“) zurück, über eine volkstümliche Form „*bania“.",
+        "targetText": "Românescul „baie” provine din latinescul „balneum” („baie”), printr-o formă populară „*bania”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Dusche",
+      "targetText": "duș"
+    },
+    {
+      "sourceText": "waschen",
+      "targetText": "a spăla"
+    },
+    {
+      "sourceText": "Badewanne",
+      "targetText": "cadă de baie"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Wo ist das Bad?",
+      "targetText": "Unde este baia?"
+    },
+    {
+      "sourceText": "Ich nehme ein Bad.",
+      "targetText": "Fac o baie."
+    },
+    {
+      "sourceText": "Ein sauberes Badezimmer.",
+      "targetText": "O baie curată."
+    },
+    {
+      "sourceText": "Das Bad ist besetzt.",
+      "targetText": "Baia este ocupată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„a face baie“ heißt „baden“ – wörtlich „ein Bad machen“."
+    },
+    {
+      "lang": "de",
+      "text": "„baie“ bezeichnet auch das Bergwerk – ein ganz anderes Wort gleichen Klangs."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-unten",
+  "parent": "ms-ro-jos-1c1ffbb3@0082546ac2331ea026c31d90d9388e03",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "unten",
+    "definition": "An einer tiefer gelegenen Stelle.",
+    "pronunciation": "/ˈʊntn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Unten“ geht auf althochdeutsch „untana“ zurück, zur Präposition „unter“.",
+        "targetText": "„Unten” provine din germana veche înaltă „untana”, de la prepoziția „unter”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "jos",
+    "definition": "Într-un loc situat mai jos.",
+    "pronunciation": "/ʒos/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „jos“ geht auf lateinisch „deorsum“ („abwärts“) zurück.",
+        "targetText": "Românescul „jos” provine din latinescul „deorsum” („în jos”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oben",
+      "targetText": "sus"
+    },
+    {
+      "sourceText": "tief",
+      "targetText": "adânc"
+    },
+    {
+      "sourceText": "Boden",
+      "targetText": "pardoseală"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "oben",
+      "targetText": "sus"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Schlüssel liegt unten.",
+      "targetText": "Cheia este jos."
+    },
+    {
+      "sourceText": "Komm nach unten!",
+      "targetText": "Vino jos!"
+    },
+    {
+      "sourceText": "Unten im Keller.",
+      "targetText": "Jos în subsol."
+    },
+    {
+      "sourceText": "Setz dich hin!",
+      "targetText": "Stai jos!"
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Stai jos!“ heißt „Setz dich!“ – wörtlich „bleib unten“."
+    },
+    {
+      "lang": "de",
+      "text": "„în jos“ ist die Richtung: „mergem în jos“ = wir gehen hinunter."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

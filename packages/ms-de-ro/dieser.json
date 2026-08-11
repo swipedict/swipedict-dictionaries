@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-dieser",
+  "parent": "ms-ro-acesta-4b9ec6c4@29a795d48f98dc1406cdd9fc9f0120ae",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dieser",
+    "definition": "Hinweisendes Wort für etwas Nahes.",
+    "pronunciation": "/ˈdiːzɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dieser“ entstand aus althochdeutsch „dese“, einer Verstärkung des einfachen Demonstrativs „der“.",
+        "targetText": "„Dieser” provine din germana veche înaltă „dese”, o întărire a demonstrativului simplu „der”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acesta",
+    "definition": "Cuvânt demonstrativ pentru ceva apropiat.",
+    "pronunciation": "/aˈt͡ʃes.ta/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „acesta“ setzt sich aus lateinisch „eccum“ („siehe da“) und „iste“ („dieser“) zusammen.",
+        "targetText": "Românescul „acesta” este format din latinescul „eccum” („iată”) și „iste” („acesta”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "jener",
+      "targetText": "acela"
+    },
+    {
+      "sourceText": "hier",
+      "targetText": "aici"
+    },
+    {
+      "sourceText": "der",
+      "targetText": "cel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "jener",
+      "targetText": "acela"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Dieses Buch ist neu.",
+      "targetText": "Această carte este nouă."
+    },
+    {
+      "sourceText": "Dieser Mann ist mein Vater.",
+      "targetText": "Acest bărbat este tatăl meu."
+    },
+    {
+      "sourceText": "Das hier gefällt mir.",
+      "targetText": "Acesta îmi place."
+    },
+    {
+      "sourceText": "Diese Tage sind lang.",
+      "targetText": "Aceste zile sunt lungi."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Vor dem Substantiv heißt es „acest/această“, danach „acesta/aceasta“: „acest om“ oder „omul acesta“."
+    },
+    {
+      "lang": "de",
+      "text": "Umgangssprachlich kürzt man zu „ăsta, asta“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

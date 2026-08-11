@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-brief",
+  "parent": "ms-ro-scrisoare-91bc8188@bc58087f06bcc5401db5feb588d494fc",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:b2",
+    "etymology:latin",
+    "topic:work-education",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Brief",
+    "definition": "Schriftliche Mitteilung, die man verschickt.",
+    "pronunciation": "/bʁiːf/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Brief“ kam aus lateinisch „breve“ („kurzes Schreiben“) ins Deutsche – wörtlich „das Kurze“.",
+        "targetText": "„Brief” a intrat în germană din latinescul „breve” („scriere scurtă”) – literal „cel scurt”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "scrisoare",
+    "definition": "Comunicare scrisă care se trimite cuiva.",
+    "pronunciation": "/skri.soˈa.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „scrisoare“ ist von „a scrie“ (< lateinisch „scribere“) abgeleitet – wörtlich „das Geschriebene“.",
+        "targetText": "Românescul „scrisoare” este derivat de la „a scrie” (din latinescul „scribere”) – literal „ceea ce este scris”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "schreiben",
+      "targetText": "a scrie"
+    },
+    {
+      "sourceText": "Post",
+      "targetText": "poștă"
+    },
+    {
+      "sourceText": "E-Mail",
+      "targetText": "e-mail"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich schreibe einen Brief.",
+      "targetText": "Scriu o scrisoare."
+    },
+    {
+      "sourceText": "Der Brief ist angekommen.",
+      "targetText": "Scrisoarea a sosit."
+    },
+    {
+      "sourceText": "Ein langer Brief.",
+      "targetText": "O scrisoare lungă."
+    },
+    {
+      "sourceText": "Brief und Postkarte.",
+      "targetText": "Scrisoare și carte poștală."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Interessant: deutsch „Brief“ kommt von „kurz“, rumänisch „scrisoare“ von „schreiben“."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „scrisori“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

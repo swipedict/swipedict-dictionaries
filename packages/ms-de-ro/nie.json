@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-nie",
+  "parent": "ms-ro-niciodata-84981ea4@209ef209da6c5f564818f626c5b447cb",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "nie",
+    "definition": "Zu keiner Zeit.",
+    "pronunciation": "/niː/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Nie“ entstand aus althochdeutsch „nio“, aus „ni“ (nicht) und „io“ (je).",
+        "targetText": "„Nie” provine din germana veche înaltă „nio”, din „ni” (nu) și „io” (vreodată)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "niciodată",
+    "definition": "În niciun moment.",
+    "pronunciation": "/ni.t͡ʃi.oˈda.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „niciodată“ ist aus „nici“ (< lateinisch „neque“), „o“ und „dată“ (< lateinisch „data“) gebildet – „nicht ein einziges Mal“.",
+        "targetText": "Românescul „niciodată” este format din „nici” (din latinescul „neque”), „o” și „dată” (din „data”) – „nici măcar o dată”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    },
+    {
+      "sourceText": "selten",
+      "targetText": "rar"
+    },
+    {
+      "sourceText": "nichts",
+      "targetText": "nimic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich war nie in Rom.",
+      "targetText": "Nu am fost niciodată la Roma."
+    },
+    {
+      "sourceText": "Er lügt nie.",
+      "targetText": "El nu minte niciodată."
+    },
+    {
+      "sourceText": "Besser spät als nie.",
+      "targetText": "Mai bine mai târziu decât niciodată."
+    },
+    {
+      "sourceText": "Das vergesse ich nie.",
+      "targetText": "Nu voi uita niciodată."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Doppelte Verneinung: „nu am fost niciodată“ – das „nu“ bleibt stehen."
+    },
+    {
+      "lang": "de",
+      "text": "Wörtlich heißt es „nicht ein Mal“ – nici + o + dată."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

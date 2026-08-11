@@ -1,0 +1,101 @@
+{
+  "id": "ms-de-ro-stueck",
+  "parent": "ms-ro-bucata-6dd7822b@a0692c813879a6303c83cd5f594b68b8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Stück",
+    "definition": "Ein abgetrennter Teil eines Ganzen.",
+    "pronunciation": "/ʃtʏk/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Stück“ geht auf althochdeutsch „stucki“ zurück, verwandt mit „Stock“ – ursprünglich ein abgeschlagenes Teil.",
+        "targetText": "„Stück” provine din germana veche înaltă „stucki”, înrudit cu „Stock” – inițial o parte retezată."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "bucată",
+    "definition": "O parte desprinsă dintr-un întreg.",
+    "pronunciation": "/buˈka.tə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „bucată“ ist slawischen Ursprungs und geht auf eine Wurzel „bǫk-“ („Stück, Brocken“) zurück.",
+        "targetText": "Românescul „bucată” este de origine slavă și provine dintr-o rădăcină „bǫk-” („bucată, fragment”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Teil",
+      "targetText": "parte"
+    },
+    {
+      "sourceText": "Scheibe",
+      "targetText": "felie"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "întreg"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ganzes",
+      "targetText": "întreg"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ein Stück Brot.",
+      "targetText": "O bucată de pâine."
+    },
+    {
+      "sourceText": "Zwei Stück, bitte.",
+      "targetText": "Două bucăți, vă rog."
+    },
+    {
+      "sourceText": "Ein Stück Kuchen.",
+      "targetText": "O bucată de tort."
+    },
+    {
+      "sourceText": "Er hat es in Stücke zerbrochen.",
+      "targetText": "L-a rupt în bucăți."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „bucăți“. Beim Einkaufen zählt man damit Stückware: „trei bucăți“."
+    },
+    {
+      "lang": "de",
+      "text": "Von „bucată“ kommt auch „bucătărie“ (Küche) – der Ort, wo zerteilt wird."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-und",
+  "parent": "ms-ro-si-e8bd966e@2025f5baddcade18dcfd13cd1a2214d1",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "und",
+    "definition": "Nebenordnende Konjunktion, die Wörter, Satzteile oder Sätze verbindet.",
+    "pronunciation": "/ʊnt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Und“ geht auf althochdeutsch „unti“ zurück, dessen weitere Herkunft im Germanischen liegt.",
+        "targetText": "„Und” provine din germana veche înaltă „unti”, cu origini mai vechi în germanică."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "și",
+    "definition": "Conjuncție coordonatoare care leagă cuvinte, părți de propoziție sau propoziții.",
+    "pronunciation": "/ʃi/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „și“ stammt vom lateinischen „sic“ („so“) ab – aus „so“ wurde über die Bedeutung „ebenso, auch“ die reine Verbindung „und“.",
+        "targetText": "Românescul „și” provine din latinescul „sic” („astfel”); din sensul „la fel, de asemenea” s-a ajuns la simpla legătură „și”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "auch",
+      "targetText": "de asemenea"
+    },
+    {
+      "sourceText": "sowohl … als auch",
+      "targetText": "atât … cât și"
+    },
+    {
+      "sourceText": "oder",
+      "targetText": "sau"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "oder",
+      "targetText": "sau"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich trinke Kaffee und Tee.",
+      "targetText": "Eu beau cafea și ceai."
+    },
+    {
+      "sourceText": "Maria und Ion sind Freunde.",
+      "targetText": "Maria și Ion sunt prieteni."
+    },
+    {
+      "sourceText": "Er kam und ging sofort wieder.",
+      "targetText": "A venit și a plecat imediat."
+    },
+    {
+      "sourceText": "Zwei und drei ist fünf.",
+      "targetText": "Doi și trei fac cinci."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„și“ heißt auch „auch“: „și eu“ = „ich auch“ – ein Wort, zwei sehr häufige Funktionen."
+    },
+    {
+      "lang": "de",
+      "text": "Sprich „și“ wie deutsches „schi“, nicht wie „si“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

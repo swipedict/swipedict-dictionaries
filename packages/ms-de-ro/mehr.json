@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-mehr",
+  "parent": "ms-ro-mai-mult-5324fc85@683bdfb7395608c82ba995a8f10fe8b0",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "mehr",
+    "definition": "Eine größere Menge oder ein höherer Grad.",
+    "pronunciation": "/meːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Mehr“ ist der Komparativ zu „viel“, althochdeutsch „mēr“.",
+        "targetText": "„Mehr” este comparativul lui „viel”, în germana veche înaltă „mēr”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mai mult",
+    "definition": "O cantitate mai mare sau un grad mai înalt.",
+    "pronunciation": "/maj mult/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung verbindet die Komparativpartikel „mai“ (< lateinisch „magis“) mit „mult“ (< lateinisch „multus“).",
+        "targetText": "Construcția leagă particula de comparativ „mai” (din latinescul „magis”) cu „mult” (din „multus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "weniger",
+      "targetText": "mai puțin"
+    },
+    {
+      "sourceText": "viel",
+      "targetText": "mult"
+    },
+    {
+      "sourceText": "am meisten",
+      "targetText": "cel mai mult"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "weniger",
+      "targetText": "mai puțin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich brauche mehr Zeit.",
+      "targetText": "Am nevoie de mai mult timp."
+    },
+    {
+      "sourceText": "Mehr als genug.",
+      "targetText": "Mai mult decât suficient."
+    },
+    {
+      "sourceText": "Sprich lauter!",
+      "targetText": "Vorbește mai tare!"
+    },
+    {
+      "sourceText": "Immer mehr Menschen.",
+      "targetText": "Tot mai mulți oameni."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Jeder Komparativ wird mit „mai“ gebildet – es gibt keine Endung wie deutsch -er."
+    },
+    {
+      "lang": "de",
+      "text": "„tot mai …“ heißt „immer mehr …“: „tot mai bine“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-man",
+  "parent": "ms-ro-se-impersonal-23924809@608f188699c749d143104a9ec07d4c6b",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "man",
+    "definition": "Unbestimmtes Pronomen für Menschen allgemein, ohne bestimmte Person.",
+    "pronunciation": "/man/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Man“ ist die abgeschwächte Form des Substantivs „Mann“, althochdeutsch „man“ (Mensch).",
+        "targetText": "„Man” este forma slăbită a substantivului „Mann”, în germana veche înaltă „man” (om)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "se (impersonal)",
+    "definition": "Construcție impersonală care exprimă o acțiune fără subiect determinat.",
+    "pronunciation": "/se/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Rumänische hat kein eigenes Wort für „man“ und benutzt stattdessen das reflexive „se“ (< lateinisch „se“) mit dem Verb in der dritten Person.",
+        "targetText": "Româna nu are un cuvânt separat pentru „man” și folosește reflexivul „se” (din latinescul „se”) cu verbul la persoana a treia."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "sich",
+      "targetText": "se"
+    },
+    {
+      "sourceText": "jemand",
+      "targetText": "cineva"
+    },
+    {
+      "sourceText": "die Leute",
+      "targetText": "lumea"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Hier spricht man Rumänisch.",
+      "targetText": "Aici se vorbește română."
+    },
+    {
+      "sourceText": "Man sagt, es sei wahr.",
+      "targetText": "Se spune că este adevărat."
+    },
+    {
+      "sourceText": "Wie macht man das?",
+      "targetText": "Cum se face asta?"
+    },
+    {
+      "sourceText": "Das isst man mit der Hand.",
+      "targetText": "Asta se mănâncă cu mâna."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Deutsch „man“ hat kein rumänisches Pronomen – man baut den Satz reflexiv: „se vorbește“."
+    },
+    {
+      "lang": "de",
+      "text": "Alternative in der Umgangssprache: „lumea spune“ = die Leute sagen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

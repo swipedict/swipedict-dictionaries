@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schmal",
+  "parent": "ms-ro-ingust-9b53651f@e56969d41a5423e9d3fec62061c80f12",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schmal",
+    "definition": "Von geringer Ausdehnung von einer Seite zur anderen.",
+    "pronunciation": "/ʃmaːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schmal“ geht auf althochdeutsch „smal“ zurück, verwandt mit englisch „small“.",
+        "targetText": "„Schmal” provine din germana veche înaltă „smal”, înrudit cu englezescul „small”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "îngust",
+    "definition": "Care are o întindere mică dintr-o parte în alta.",
+    "pronunciation": "/ɨnˈɡust/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „îngust“ geht auf lateinisch „angustus“ („eng“) zurück – dieselbe Wurzel wie in „Angst“.",
+        "targetText": "Românescul „îngust” provine din latinescul „angustus” („strâmt”) – aceeași rădăcină ca în germanul „Angst”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "breit",
+      "targetText": "lat"
+    },
+    {
+      "sourceText": "eng",
+      "targetText": "strâmt"
+    },
+    {
+      "sourceText": "klein",
+      "targetText": "mic"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "breit",
+      "targetText": "lat"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Eine schmale Gasse.",
+      "targetText": "O stradă îngustă."
+    },
+    {
+      "sourceText": "Der Weg ist schmal.",
+      "targetText": "Drumul este îngust."
+    },
+    {
+      "sourceText": "Schmale Schultern.",
+      "targetText": "Umeri îngusti."
+    },
+    {
+      "sourceText": "Ein enges Zimmer.",
+      "targetText": "O cameră îngustă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: îngust, îngustă, îngusti, înguste."
+    },
+    {
+      "lang": "de",
+      "text": "Verwandt mit deutsch „Angst“ und „eng“ – alle aus der Wurzel angus- (eng)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

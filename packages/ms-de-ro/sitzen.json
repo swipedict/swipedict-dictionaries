@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-sitzen",
+  "parent": "ms-ro-a-sta-jos-e116b683@f8ec4c90f0a32bce313eaa0a56c2f10d",
+  "part_of_speech": "verb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:actions-verbs",
+    "register:neutral",
+    "property:state"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sitzen",
+    "definition": "Mit dem Gesäß auf einer Unterlage ruhen.",
+    "pronunciation": "/ˈzɪtsn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sitzen“ geht auf althochdeutsch „sizzen“ zurück und ist urverwandt mit lateinisch „sedere“.",
+        "targetText": "„Sitzen” provine din germana veche înaltă „sizzen”, înrudit din vechime cu latinescul „sedere”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "a sta jos",
+    "definition": "A se odihni așezat pe ceva, cu șezutul.",
+    "pronunciation": "/a sta ʒos/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Wendung „a sta jos“ verbindet „a sta“ (< lateinisch „stare“, stehen) mit „jos“ (< lateinisch „deorsum“, hinunter).",
+        "targetText": "Expresia „a sta jos” combină verbul „a sta” (din latinescul „stare”) cu adverbul „jos” (din latinescul „deorsum”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Stuhl",
+      "targetText": "scaun"
+    },
+    {
+      "sourceText": "sich setzen",
+      "targetText": "a se așeza"
+    },
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "stehen",
+      "targetText": "a sta în picioare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich sitze am Tisch.",
+      "targetText": "Eu stau jos la masă."
+    },
+    {
+      "sourceText": "Setz dich bitte!",
+      "targetText": "Stai jos, te rog!"
+    },
+    {
+      "sourceText": "Er saß auf dem Stuhl.",
+      "targetText": "El stătea jos pe scaun."
+    },
+    {
+      "sourceText": "Wir sitzen im Garten.",
+      "targetText": "Noi stăm jos în grădină."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Rumänisch unterscheidet nicht mit einem eigenen Verb: „a sta jos“ = sitzen, „a sta în picioare“ = stehen."
+    },
+    {
+      "lang": "de",
+      "text": "„Stai jos!“ ist die normale Aufforderung „Setz dich!“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

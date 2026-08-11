@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-dass",
+  "parent": "ms-ro-ca-96007b21@2b12adb88c89478fcc5f85555e8a2d5b",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dass",
+    "definition": "Konjunktion, die einen Nebensatz als Inhalt einleitet.",
+    "pronunciation": "/das/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dass“ ist aus dem Demonstrativpronomen „das“ entstanden, das den folgenden Satz ankündigte.",
+        "targetText": "„Dass” provine din pronumele demonstrativ „das”, care anunța propoziția următoare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "că",
+    "definition": "Conjuncție care introduce o propoziție subordonată completivă.",
+    "pronunciation": "/kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „că“ stammt vom lateinischen „quod“, das ebenfalls Inhaltssätze einleitete.",
+        "targetText": "Românescul „că” provine din latinescul „quod”, care introducea și el propoziții completive."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "damit",
+      "targetText": "ca să"
+    },
+    {
+      "sourceText": "ob",
+      "targetText": "dacă"
+    },
+    {
+      "sourceText": "weil",
+      "targetText": "pentru că"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich weiß, dass du kommst.",
+      "targetText": "Știu că vii."
+    },
+    {
+      "sourceText": "Er sagt, dass es regnet.",
+      "targetText": "El spune că plouă."
+    },
+    {
+      "sourceText": "Es ist schade, dass du gehst.",
+      "targetText": "Este păcat că pleci."
+    },
+    {
+      "sourceText": "Ich hoffe, dass alles gut wird.",
+      "targetText": "Sper că totul va fi bine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„că“ leitet Tatsachen ein, „să“ steht bei Wunsch und Absicht: „vreau să vii“."
+    },
+    {
+      "lang": "de",
+      "text": "Nach „a spune, a ști, a crede“ folgt fast immer „că“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ms-de-ro-teil",
+  "parent": "ms-ro-parte-23e98f9c@e7a91459dd9eca85299733673daeb309",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Teil",
+    "definition": "Ein Stück oder Abschnitt eines Ganzen.",
+    "pronunciation": "/taɪ̯l/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Teil“ geht auf althochdeutsch „teil“ zurück, ein gemeingermanisches Wort.",
+        "targetText": "„Teil” provine din germana veche înaltă „teil”, cuvânt comun germanic."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "parte",
+    "definition": "O bucată sau o secțiune dintr-un întreg.",
+    "pronunciation": "/ˈpar.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „parte“ stammt vom lateinischen „pars, partem“ – dieselbe Wurzel wie in „Partei“ und „Partitur“.",
+        "targetText": "Românescul „parte” provine din latinescul „pars, partem” – aceeași rădăcină ca în „partid” și „partitură”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Stück",
+      "targetText": "bucată"
+    },
+    {
+      "sourceText": "ganz",
+      "targetText": "întreg"
+    },
+    {
+      "sourceText": "teilen",
+      "targetText": "a împărți"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Ganzes",
+      "targetText": "întreg"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ein Teil des Hauses.",
+      "targetText": "O parte din casă."
+    },
+    {
+      "sourceText": "Der größte Teil.",
+      "targetText": "Cea mai mare parte."
+    },
+    {
+      "sourceText": "Auf der anderen Seite.",
+      "targetText": "Pe de altă parte."
+    },
+    {
+      "sourceText": "Ich nehme daran teil.",
+      "targetText": "Iau parte la asta."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„pe de o parte … pe de altă parte“ = „einerseits … andererseits“."
+    },
+    {
+      "lang": "de",
+      "text": "„a lua parte“ heißt „teilnehmen“ – wörtlich wie im Deutschen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

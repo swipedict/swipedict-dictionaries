@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-noch",
+  "parent": "ms-ro-inca-6034879c@f286f1dc1e2e78e9ca8cac31588272a9",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "noch",
+    "definition": "Bis zu diesem Zeitpunkt weiterhin; zusätzlich.",
+    "pronunciation": "/nɔx/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Noch“ geht auf althochdeutsch „noh“ zurück, zusammengesetzt aus „nu“ (jetzt) und einer verstärkenden Partikel.",
+        "targetText": "„Noch” provine din germana veche înaltă „noh”, compus din „nu” (acum) și o particulă de întărire."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "încă",
+    "definition": "Până în acest moment, în continuare; în plus.",
+    "pronunciation": "/ˈɨn.kə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „încă“ geht auf lateinisch „hanc hora“ („zu dieser Stunde“) zurück.",
+        "targetText": "Românescul „încă” provine din latinescul „hanc hora” („la această oră”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "schon",
+      "targetText": "deja"
+    },
+    {
+      "sourceText": "mehr",
+      "targetText": "mai mult"
+    },
+    {
+      "sourceText": "immer noch",
+      "targetText": "tot încă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "schon",
+      "targetText": "deja"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Er ist noch hier.",
+      "targetText": "El este încă aici."
+    },
+    {
+      "sourceText": "Noch ein Kaffee, bitte.",
+      "targetText": "Încă o cafea, vă rog."
+    },
+    {
+      "sourceText": "Ich bin noch nicht fertig.",
+      "targetText": "Nu sunt încă gata."
+    },
+    {
+      "sourceText": "Wir haben noch Zeit.",
+      "targetText": "Mai avem încă timp."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„încă un/o“ heißt „noch ein“: „încă o cafea“."
+    },
+    {
+      "lang": "de",
+      "text": "„încă nu“ = „noch nicht“ – die häufigste Verneinung dazu."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

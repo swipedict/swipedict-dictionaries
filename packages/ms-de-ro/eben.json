@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-eben",
+  "parent": "ms-ro-tocmai-2f8a4074@f870b12aaa9d6ee94928f0f7ce04069e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:slavic",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "eben",
+    "definition": "Gerade jetzt, genau in diesem Moment; auch bekräftigend.",
+    "pronunciation": "/ˈeːbn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Eben“ geht auf althochdeutsch „eban“ („gleich, flach“) zurück; aus „genau gleich“ wurde „gerade jetzt“.",
+        "targetText": "„Eben” provine din germana veche înaltă „eban” („egal, plat”); din „exact la fel” a rezultat „chiar acum”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "tocmai",
+    "definition": "Chiar acum, exact în acest moment; și cu valoare de întărire.",
+    "pronunciation": "/tokˈmaj/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „tocmai“ ist von „a tocmi“ abgeleitet, das auf slawisch „tŭkŭmiti“ („zurechtmachen, genau abmessen“) zurückgeht.",
+        "targetText": "Românescul „tocmai” este derivat de la „a tocmi”, din slavul „tŭkŭmiti” („a potrivi, a măsura exact”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "gerade",
+      "targetText": "chiar"
+    },
+    {
+      "sourceText": "jetzt",
+      "targetText": "acum"
+    },
+    {
+      "sourceText": "genau",
+      "targetText": "exact"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Er ist eben gegangen.",
+      "targetText": "Tocmai a plecat."
+    },
+    {
+      "sourceText": "Ich wollte eben anrufen.",
+      "targetText": "Tocmai voiam să sun."
+    },
+    {
+      "sourceText": "Das ist eben das Problem.",
+      "targetText": "Tocmai asta este problema."
+    },
+    {
+      "sourceText": "Eben deshalb.",
+      "targetText": "Tocmai de aceea."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„tocmai“ deckt beide deutschen Bedeutungen ab: zeitlich „gerade eben“ und verstärkend „eben deshalb“."
+    },
+    {
+      "lang": "de",
+      "text": "Trotz der Bedeutung ist es ein slawisches Lehnwort – kein lateinisches Erbwort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ms-de-ro-hoffnung",
+  "parent": "ms-ro-speranta-49e48ca8@210d80360c4f2d782c87ee5570be1a69",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:italian",
+    "topic:emotions-character",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Hoffnung",
+    "definition": "Erwartung, dass etwas Gutes geschieht.",
+    "pronunciation": "/ˈhɔfnʊŋ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Hoffnung“ ist von „hoffen“ abgeleitet, mittelniederdeutsch „hopen“ – ursprünglich „vor Erwartung hüpfen“.",
+        "targetText": "„Hoffnung” este derivat de la „hoffen”, în germana medie de jos „hopen” – inițial „a sălta de așteptare”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "speranță",
+    "definition": "Așteptarea ca ceva bun să se întâmple.",
+    "pronunciation": "/speˈran.t͡sə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „speranță“ ist aus dem Italienischen „speranza“ entlehnt; die lateinische Wurzel „sperare“ heißt „hoffen“.",
+        "targetText": "Românescul „speranță” este împrumutat din italianul „speranza”; rădăcina latină „sperare” înseamnă „a spera”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "hoffen",
+      "targetText": "a spera"
+    },
+    {
+      "sourceText": "Zukunft",
+      "targetText": "viitor"
+    },
+    {
+      "sourceText": "Glaube",
+      "targetText": "credință"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Verzweiflung",
+      "targetText": "disperare"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Es gibt Hoffnung.",
+      "targetText": "Există speranță."
+    },
+    {
+      "sourceText": "Die Hoffnung stirbt zuletzt.",
+      "targetText": "Speranța moare ultima."
+    },
+    {
+      "sourceText": "Ohne Hoffnung.",
+      "targetText": "Fără speranță."
+    },
+    {
+      "sourceText": "Ich hoffe es.",
+      "targetText": "Sper."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„Speranța moare ultima“ ist dasselbe Sprichwort wie im Deutschen."
+    },
+    {
+      "lang": "de",
+      "text": "Das Erbwort „a spera“ existiert daneben – aus lateinisch sperare."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

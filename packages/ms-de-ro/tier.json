@@ -1,0 +1,105 @@
+{
+  "id": "ms-de-ro-tier",
+  "parent": "ms-ro-animal-ff27fcdf@5c7d459926072519c4e5936cdfe1d684",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:animals",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Tier",
+    "definition": "Lebewesen, das sich bewegen kann und kein Mensch und keine Pflanze ist.",
+    "pronunciation": "/tiːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Tier“ geht auf althochdeutsch „tior“ zurück, das ursprünglich das wilde, atmende Lebewesen bezeichnete.",
+        "targetText": "„Tier” provine din germana veche înaltă „tior”, care desemna inițial vietatea sălbatică, care respiră."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "animal",
+    "definition": "Ființă vie care se poate mișca și care nu este nici om, nici plantă.",
+    "pronunciation": "/a.niˈmal/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „animal“ ist eine gelehrte Entlehnung aus dem Französischen „animal“; die Wurzel ist lateinisch „anima“ („Atem, Seele“) – das Tier ist das Beseelte.",
+        "targetText": "Românescul „animal” este un împrumut cult din franceză („animal”); rădăcina este latinescul „anima” („suflare, suflet”) – animalul este ființa însuflețită."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Hund",
+      "targetText": "câine"
+    },
+    {
+      "sourceText": "Katze",
+      "targetText": "pisică"
+    },
+    {
+      "sourceText": "Zoo",
+      "targetText": "grădină zoologică"
+    },
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plantă"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plantă"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Hund ist ein Tier.",
+      "targetText": "Câinele este un animal."
+    },
+    {
+      "sourceText": "Im Zoo gibt es viele Tiere.",
+      "targetText": "La grădina zoologică sunt multe animale."
+    },
+    {
+      "sourceText": "Wilde Tiere leben im Wald.",
+      "targetText": "Animalele sălbatice trăiesc în pădure."
+    },
+    {
+      "sourceText": "Sie liebt Tiere.",
+      "targetText": "Ea iubește animalele."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„animal“ ist im Rumänischen völlig neutral – anders als das abwertende deutsche „Tier“ für Menschen."
+    },
+    {
+      "lang": "de",
+      "text": "Plural: „animale“. Merke „anima“ = Atem: Tiere sind die atmenden Wesen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

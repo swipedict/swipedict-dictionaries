@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-duenn",
+  "parent": "ms-ro-subtire-183e0305@d5090e51e73ff4bb67c2ddb59887e3e7",
+  "part_of_speech": "adjective",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:body-health",
+    "register:neutral",
+    "property:quality"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "dünn",
+    "definition": "Von geringer Dicke.",
+    "pronunciation": "/dʏn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Dünn“ geht auf althochdeutsch „dunni“ zurück, urverwandt mit lateinisch „tenuis“.",
+        "targetText": "„Dünn” provine din germana veche înaltă „dunni”, înrudit cu latinescul „tenuis”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "subțire",
+    "definition": "Care are o grosime mică.",
+    "pronunciation": "/subˈt͡si.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „subțire“ geht auf lateinisch „subtilis“ zurück, das „fein gewebt“ bedeutete – daher auch deutsch „subtil“.",
+        "targetText": "Românescul „subțire” provine din latinescul „subtilis”, care însemna „țesut fin” – de aici și „subtil”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dick",
+      "targetText": "gros"
+    },
+    {
+      "sourceText": "schlank",
+      "targetText": "zvelt"
+    },
+    {
+      "sourceText": "fein",
+      "targetText": "fin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dick",
+      "targetText": "gros"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Papier ist dünn.",
+      "targetText": "Hârtia este subțire."
+    },
+    {
+      "sourceText": "Eine dünne Scheibe.",
+      "targetText": "O felie subțire."
+    },
+    {
+      "sourceText": "Er ist sehr dünn.",
+      "targetText": "El este foarte slab."
+    },
+    {
+      "sourceText": "Dünnes Eis.",
+      "targetText": "Gheață subțire."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Für Menschen sagt man „slab“ (mager), nicht „subțire“."
+    },
+    {
+      "lang": "de",
+      "text": "Merke die Verwandtschaft: subtilis → subțire und deutsch „subtil“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

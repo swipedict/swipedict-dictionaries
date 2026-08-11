@@ -1,0 +1,100 @@
+{
+  "id": "ms-de-ro-blume",
+  "parent": "ms-ro-floare-392c1f49@1074e2b1b274584ff061f9bafe4a163d",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:nature-environment",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Blume",
+    "definition": "Blühender Teil einer Pflanze, oft farbig und duftend.",
+    "pronunciation": "/ˈbluːmə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Blume“ geht auf althochdeutsch „bluoma“ zurück, zur Wurzel von „blühen“.",
+        "targetText": "„Blume” provine din germana veche înaltă „bluoma”, de la rădăcina lui „blühen” („a înflori”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "floare",
+    "definition": "Partea înflorită a unei plante, adesea colorată și parfumată.",
+    "pronunciation": "/ˈfloa.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „floare“ stammt vom lateinischen „flos, florem“ – dieselbe Wurzel wie in „Flora“ und „Floristik“.",
+        "targetText": "Românescul „floare” provine din latinescul „flos, florem” – aceeași rădăcină ca în „Flora” și „florărie”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Garten",
+      "targetText": "grădină"
+    },
+    {
+      "sourceText": "Pflanze",
+      "targetText": "plantă"
+    },
+    {
+      "sourceText": "blühen",
+      "targetText": "a înflori"
+    },
+    {
+      "sourceText": "Baum",
+      "targetText": "copac"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Eine schöne Blume.",
+      "targetText": "O floare frumoasă."
+    },
+    {
+      "sourceText": "Ich kaufe Blumen.",
+      "targetText": "Cumpăr flori."
+    },
+    {
+      "sourceText": "Die Blumen blühen.",
+      "targetText": "Florile înfloresc."
+    },
+    {
+      "sourceText": "Blumen für dich.",
+      "targetText": "Flori pentru tine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „flori“ – der Wechsel oa → o ist regelmäßig im Plural."
+    },
+    {
+      "lang": "de",
+      "text": "„a înflori“ (blühen) kommt vom selben Wort – wie im Deutschen Blume/blühen."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

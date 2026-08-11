@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-schon",
+  "parent": "ms-ro-deja-4ad3d8f9@792d912a4d23a69a2d1abb90cb0133d9",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "schon",
+    "definition": "Früher als erwartet; zu diesem Zeitpunkt bereits.",
+    "pronunciation": "/ʃoːn/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Schon“ geht auf althochdeutsch „scōno“ („schön, sorgfältig“) zurück; die zeitliche Bedeutung entwickelte sich erst später.",
+        "targetText": "„Schon” provine din germana veche înaltă „scōno” („frumos, cu grijă”); sensul temporal s-a dezvoltat mai târziu."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "deja",
+    "definition": "Mai devreme decât se aștepta; până în acest moment.",
+    "pronunciation": "/deˈʒa/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „deja“ ist aus dem Französischen „déjà“ entlehnt, das seinerseits aus „dès“ und „ja“ („schon jetzt“) entstand.",
+        "targetText": "Românescul „deja” este împrumutat din franceză, din „déjà”, format la rândul lui din „dès” și „ja”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "noch",
+      "targetText": "încă"
+    },
+    {
+      "sourceText": "bereits",
+      "targetText": "deja"
+    },
+    {
+      "sourceText": "immer",
+      "targetText": "întotdeauna"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "noch nicht",
+      "targetText": "încă nu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich habe schon gegessen.",
+      "targetText": "Am mâncat deja."
+    },
+    {
+      "sourceText": "Bist du schon da?",
+      "targetText": "Ai ajuns deja?"
+    },
+    {
+      "sourceText": "Es ist schon spät.",
+      "targetText": "Este deja târziu."
+    },
+    {
+      "sourceText": "Sie weiß es schon.",
+      "targetText": "Ea știe deja."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„deja“ steht meist nach dem Verb: „am mâncat deja“."
+    },
+    {
+      "lang": "de",
+      "text": "Verneint wird daraus „încă nu“ = „noch nicht“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

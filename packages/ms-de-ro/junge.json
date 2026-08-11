@@ -1,0 +1,101 @@
+{
+  "id": "ms-de-ro-junge",
+  "parent": "ms-ro-baiat-005e4038@adcbf1ef0de30a9182b7c6789b7823e8",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:unknown",
+    "topic:people-society",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Junge",
+    "definition": "Männliches Kind oder junger männlicher Mensch.",
+    "pronunciation": "/ˈjʊŋə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Junge“ ist eine Substantivierung von „jung“, althochdeutsch „jung“.",
+        "targetText": "„Junge” este substantivarea adjectivului „jung”, în germana veche înaltă „jung”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "băiat",
+    "definition": "Copil de sex masculin sau tânăr.",
+    "pronunciation": "/bəˈjat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Herkunft von „băiat“ ist ungeklärt; das Wort ist erst spät belegt und lässt sich weder auf das Lateinische noch sicher auf eine Nachbarsprache zurückführen.",
+        "targetText": "Originea cuvântului „băiat” este neclară; el este atestat târziu și nu poate fi explicat nici din latină, nici cu certitudine dintr-o limbă vecină."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Mädchen",
+      "targetText": "fată"
+    },
+    {
+      "sourceText": "Kind",
+      "targetText": "copil"
+    },
+    {
+      "sourceText": "Sohn",
+      "targetText": "fiu"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "Mädchen",
+      "targetText": "fată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Der Junge spielt draußen.",
+      "targetText": "Băiatul se joacă afară."
+    },
+    {
+      "sourceText": "Ein kleiner Junge.",
+      "targetText": "Un băiat mic."
+    },
+    {
+      "sourceText": "Zwei Jungen kommen.",
+      "targetText": "Doi băieți vin."
+    },
+    {
+      "sourceText": "Er ist ein guter Junge.",
+      "targetText": "Este un băiat bun."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „băieți“ – der Wechsel t → ți ist regelmäßig."
+    },
+    {
+      "lang": "de",
+      "text": "Eines der wenigen häufigen Wörter ohne geklärte Etymologie."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

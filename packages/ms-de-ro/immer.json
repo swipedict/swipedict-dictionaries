@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-immer",
+  "parent": "ms-ro-intotdeauna-fc0e78aa@c75c71c038257aa40ca5cefe33daf403",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "immer",
+    "definition": "Zu jeder Zeit, ohne Ausnahme.",
+    "pronunciation": "/ˈɪmɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Immer“ entstand aus althochdeutsch „io mēr“ – „je mehr, allezeit“.",
+        "targetText": "„Immer” provine din germana veche înaltă „io mēr” – „mereu, oricând”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "întotdeauna",
+    "definition": "În orice moment, fără excepție.",
+    "pronunciation": "/ɨn.to.deaˈu.na/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „întotdeauna“ ist eine Zusammensetzung aus „în“, „tot“ (< lateinisch „totus“), „de“ und „una“ (< lateinisch „una“).",
+        "targetText": "Românescul „întotdeauna” este un compus din „în”, „tot” (din latinescul „totus”), „de” și „una”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oft",
+      "targetText": "des"
+    },
+    {
+      "sourceText": "nie",
+      "targetText": "niciodată"
+    },
+    {
+      "sourceText": "manchmal",
+      "targetText": "uneori"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "nie",
+      "targetText": "niciodată"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich stehe immer früh auf.",
+      "targetText": "Mă trezesc întotdeauna devreme."
+    },
+    {
+      "sourceText": "Er ist immer freundlich.",
+      "targetText": "El este întotdeauna prietenos."
+    },
+    {
+      "sourceText": "Wie immer.",
+      "targetText": "Ca întotdeauna."
+    },
+    {
+      "sourceText": "Das war schon immer so.",
+      "targetText": "A fost întotdeauna așa."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Kürzere Alternative im Alltag: „mereu“ – gleiche Bedeutung, weniger Silben."
+    },
+    {
+      "lang": "de",
+      "text": "Das lange Wort zerlegt sich in „în-tot-de-a-una“ – „zu jeder einzelnen Zeit“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

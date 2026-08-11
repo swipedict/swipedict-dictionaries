@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-oben",
+  "parent": "ms-ro-sus-39a76e91@67e373b63bc08de5dc1cb627410341ec",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:places-geography",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "oben",
+    "definition": "An einer höher gelegenen Stelle.",
+    "pronunciation": "/ˈoːbn̩/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Oben“ geht auf althochdeutsch „obana“ zurück, zur Präposition „ob“ (über).",
+        "targetText": "„Oben” provine din germana veche înaltă „obana”, de la prepoziția „ob” (deasupra)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "sus",
+    "definition": "Într-un loc situat mai înalt.",
+    "pronunciation": "/sus/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „sus“ stammt vom lateinischen „susum“, einer Nebenform von „sursum“ („aufwärts“).",
+        "targetText": "Românescul „sus” provine din latinescul „susum”, variantă a lui „sursum” („în sus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "unten",
+      "targetText": "jos"
+    },
+    {
+      "sourceText": "hoch",
+      "targetText": "înalt"
+    },
+    {
+      "sourceText": "Treppe",
+      "targetText": "scară"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unten",
+      "targetText": "jos"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das Buch liegt oben.",
+      "targetText": "Cartea este sus."
+    },
+    {
+      "sourceText": "Geh nach oben!",
+      "targetText": "Du-te sus!"
+    },
+    {
+      "sourceText": "Oben im dritten Stock.",
+      "targetText": "Sus la etajul trei."
+    },
+    {
+      "sourceText": "Von oben sieht man alles.",
+      "targetText": "De sus se vede totul."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„sus“ und „jos“ sind das Grundpaar für oben/unten – kurz und sehr häufig."
+    },
+    {
+      "lang": "de",
+      "text": "„în sus“ heißt „nach oben“ als Richtung: „mâinile în sus“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

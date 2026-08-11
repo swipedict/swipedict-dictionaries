@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-ihr",
+  "parent": "ms-ro-al-vostru-069afda5@df261c90c65a157e1a0a35c3e7a280af",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:people-society",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "ihr",
+    "definition": "Possessivbegleiter der zweiten Person Plural: gehört euch.",
+    "pronunciation": "/iːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das Possessiv „euer/ihr“ geht auf althochdeutsch „iuwēr“ zurück, gebildet zum Pronomen „ihr“.",
+        "targetText": "Posesivul „euer/ihr” provine din germana veche înaltă „iuwēr”, format de la pronumele „ihr”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "al vostru",
+    "definition": "Pronume posesiv de persoana a doua plural: care vă aparține.",
+    "pronunciation": "/al ˈvos.tru/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „al vostru“ geht auf lateinisch „voster“ (klassisch „vester“) zurück, mit dem Possessivartikel „al“.",
+        "targetText": "Românescul „al vostru” provine din latinescul „voster” (clasic „vester”), precedat de articolul posesiv „al”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "unser",
+      "targetText": "al nostru"
+    },
+    {
+      "sourceText": "dein",
+      "targetText": "al tău"
+    },
+    {
+      "sourceText": "ihr",
+      "targetText": "voi"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "unser",
+      "targetText": "al nostru"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist euer Zimmer.",
+      "targetText": "Aceasta este camera voastră."
+    },
+    {
+      "sourceText": "Eure Freunde sind hier.",
+      "targetText": "Prietenii voștri sunt aici."
+    },
+    {
+      "sourceText": "Ist der Wagen eurer?",
+      "targetText": "Mașina este a voastră?"
+    },
+    {
+      "sourceText": "Euer Haus ist schön.",
+      "targetText": "Casa voastră este frumoasă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: al vostru, a voastră, ai voștri, ale voastre."
+    },
+    {
+      "lang": "de",
+      "text": "Nicht verwechseln mit „al lor“ = ihr (von ihnen, 3. Person Plural)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

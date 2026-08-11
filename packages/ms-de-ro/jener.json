@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-jener",
+  "parent": "ms-ro-acela-e800dc62@bb75064e2bfa0b217b10f482155cd4cc",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a2",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "jener",
+    "definition": "Hinweisendes Wort für etwas Entfernteres.",
+    "pronunciation": "/ˈjeːnɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Jener“ geht auf althochdeutsch „jenēr“ zurück, ein altes Fernedemonstrativ.",
+        "targetText": "„Jener” provine din germana veche înaltă „jenēr”, un vechi demonstrativ de depărtare."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "acela",
+    "definition": "Cuvânt demonstrativ pentru ceva mai îndepărtat.",
+    "pronunciation": "/aˈt͡ʃe.la/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „acela“ setzt sich aus lateinisch „eccum“ („siehe da“) und „ille“ („jener“) zusammen.",
+        "targetText": "Românescul „acela” este format din latinescul „eccum” („iată”) și „ille” („acela”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "dieser",
+      "targetText": "acesta"
+    },
+    {
+      "sourceText": "dort",
+      "targetText": "acolo"
+    },
+    {
+      "sourceText": "der",
+      "targetText": "cel"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "dieser",
+      "targetText": "acesta"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Jenes Haus dort ist alt.",
+      "targetText": "Acea casă de acolo este veche."
+    },
+    {
+      "sourceText": "Nicht dieser, sondern jener.",
+      "targetText": "Nu acesta, ci acela."
+    },
+    {
+      "sourceText": "In jenen Jahren war es anders.",
+      "targetText": "În acei ani era altfel."
+    },
+    {
+      "sourceText": "Jener Mann kennt mich.",
+      "targetText": "Acel bărbat mă cunoaște."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Das Paar acesta/acela entspricht genau dieser/jener – Nähe gegen Ferne."
+    },
+    {
+      "lang": "de",
+      "text": "Beide kommen von „eccum“ + einem lateinischen Demonstrativ: iste bzw. ille."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

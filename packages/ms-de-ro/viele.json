@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-viele",
+  "parent": "ms-ro-multi-d6e1ebeb@b8a624f41b821f3b4fc739d9511264c8",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "viele",
+    "definition": "Eine große Anzahl von Personen oder Dingen.",
+    "pronunciation": "/ˈfiːlə/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Viel“ geht auf althochdeutsch „filu“ zurück, urverwandt mit griechisch „polýs“.",
+        "targetText": "„Viel” provine din germana veche înaltă „filu”, înrudit cu grecescul „polýs”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "mulți",
+    "definition": "Un număr mare de persoane sau lucruri.",
+    "pronunciation": "/mult͡sʲ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „mulți“ stammt vom lateinischen „multus“ („viel“) – dieselbe Wurzel wie in „multi-“.",
+        "targetText": "Românescul „mulți” provine din latinescul „multus” („mult”) – aceeași rădăcină ca în „multi-”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "wenige",
+      "targetText": "puțini"
+    },
+    {
+      "sourceText": "alle",
+      "targetText": "toți"
+    },
+    {
+      "sourceText": "mehr",
+      "targetText": "mai mult"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "wenige",
+      "targetText": "puțini"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Viele Menschen waren da.",
+      "targetText": "Mulți oameni au fost acolo."
+    },
+    {
+      "sourceText": "Ich habe viele Fragen.",
+      "targetText": "Am multe întrebări."
+    },
+    {
+      "sourceText": "Viel Glück!",
+      "targetText": "Mult noroc!"
+    },
+    {
+      "sourceText": "Es gibt viele Möglichkeiten.",
+      "targetText": "Există multe posibilități."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Formen: mult, multă, mulți, multe – sie richten sich nach dem Substantiv."
+    },
+    {
+      "lang": "de",
+      "text": "„Mult noroc!“ und „Mulțumesc!“ enthalten dieselbe Wurzel „mult“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

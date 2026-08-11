@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-nudeln",
+  "parent": "ms-ro-paste-ad3a3897@d5c3e3b02aea8fd74125ee5bccff8bce",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:italian",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Nudeln",
+    "definition": "Teigwaren aus Mehl und Wasser, meist in Streifen oder Röhren.",
+    "pronunciation": "/ˈnuːdl̩n/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Nudel“ ist erst seit dem 17. Jahrhundert belegt; die Herkunft ist unsicher, vermutet wird ein Zusammenhang mit „Knödel“.",
+        "targetText": "„Nudel” este atestat abia din secolul al XVII-lea; originea este nesigură, poate legată de „Knödel”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "paste",
+    "definition": "Produse din făină și apă, în formă de fâșii sau tuburi.",
+    "pronunciation": "/ˈpas.te/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „paste“ ist aus dem Italienischen „pasta“ entlehnt; die lateinische Wurzel „pasta“ bedeutete „Teig“.",
+        "targetText": "Românescul „paste” este împrumutat din italianul „pasta”; rădăcina latină „pasta” însemna „aluat”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "feminine"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Reis",
+      "targetText": "orez"
+    },
+    {
+      "sourceText": "Soße",
+      "targetText": "sos"
+    },
+    {
+      "sourceText": "kochen",
+      "targetText": "a fierbe"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich esse gern Nudeln.",
+      "targetText": "Îmi plac pastele."
+    },
+    {
+      "sourceText": "Nudeln mit Tomatensoße.",
+      "targetText": "Paste cu sos de roșii."
+    },
+    {
+      "sourceText": "Die Nudeln sind fertig.",
+      "targetText": "Pastele sunt gata."
+    },
+    {
+      "sourceText": "Suppe mit Nudeln.",
+      "targetText": "Supă cu tăiței."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„paste“ steht meist im Plural, wie deutsch „Nudeln“."
+    },
+    {
+      "lang": "de",
+      "text": "Für Suppennudeln sagt man „tăiței“ – ein anderes Wort."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

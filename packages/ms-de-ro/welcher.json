@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-welcher",
+  "parent": "ms-ro-care-72d81ff1@69db5a9da5aac3b1e0eafd0dd8f8be00",
+  "part_of_speech": "pronoun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "welcher",
+    "definition": "Frage- und Relativwort zur Auswahl aus einer Menge.",
+    "pronunciation": "/ˈvɛlçɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Welcher“ geht auf althochdeutsch „hwelīh“ zurück, wörtlich „wie beschaffen“.",
+        "targetText": "„Welcher” provine din germana veche înaltă „hwelīh”, literal „de ce fel”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "care",
+    "definition": "Cuvânt interogativ și relativ, folosit pentru a alege dintr-un grup.",
+    "pronunciation": "/ˈka.re/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „care“ stammt vom lateinischen „qualis“ („wie beschaffen“) – dieselbe Bildung wie im Deutschen.",
+        "targetText": "Românescul „care” provine din latinescul „qualis” („de ce fel”) – aceeași formare ca în germană."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "wer",
+      "targetText": "cine"
+    },
+    {
+      "sourceText": "was",
+      "targetText": "ce"
+    },
+    {
+      "sourceText": "dieser",
+      "targetText": "acesta"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Welches Buch liest du?",
+      "targetText": "Care carte o citești?"
+    },
+    {
+      "sourceText": "Der Mann, der dort steht.",
+      "targetText": "Bărbatul care stă acolo."
+    },
+    {
+      "sourceText": "Welche Farbe magst du?",
+      "targetText": "Care culoare îți place?"
+    },
+    {
+      "sourceText": "Das Haus, das wir gekauft haben.",
+      "targetText": "Casa pe care am cumpărat-o."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„care“ ist zugleich Fragewort und Relativpronomen – ein Wort für deutsch „welcher“ und „der/die/das“."
+    },
+    {
+      "lang": "de",
+      "text": "Als Objekt braucht es „pe“: „omul pe care îl văd“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

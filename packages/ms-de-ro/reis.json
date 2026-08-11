@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-reis",
+  "parent": "ms-ro-orez-4f96b911@f6367f4a11088fc7773c80f7defcb258",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:greek",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Reis",
+    "definition": "Getreideart mit kleinen weißen Körnern, ein Grundnahrungsmittel.",
+    "pronunciation": "/ʁaɪ̯s/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Reis“ kam über italienisch „riso“ und lateinisch „oryza“ aus griechisch „óryza“ ins Deutsche.",
+        "targetText": "„Reis” a ajuns în germană prin italianul „riso” și latinescul „oryza”, din grecescul „óryza”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "masculine"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "orez",
+    "definition": "Cereală cu boabe mici și albe, aliment de bază.",
+    "pronunciation": "/oˈrez/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „orez“ stammt aus dem Neugriechischen „óryzi“ – dieselbe Wurzel wie deutsch „Reis“, aber auf direktem Weg übernommen.",
+        "targetText": "Românescul „orez” provine din neogrecescul „óryzi” – aceeași rădăcină ca germanul „Reis”, dar preluată direct."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Nudeln",
+      "targetText": "paste"
+    },
+    {
+      "sourceText": "kochen",
+      "targetText": "a fierbe"
+    },
+    {
+      "sourceText": "Gemüse",
+      "targetText": "legume"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich koche Reis.",
+      "targetText": "Fierb orez."
+    },
+    {
+      "sourceText": "Reis mit Gemüse.",
+      "targetText": "Orez cu legume."
+    },
+    {
+      "sourceText": "Der Reis ist fertig.",
+      "targetText": "Orezul este gata."
+    },
+    {
+      "sourceText": "Ein Teller Reis.",
+      "targetText": "O farfurie de orez."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„orez“ ist sächlich und wird meist nur im Singular gebraucht."
+    },
+    {
+      "lang": "de",
+      "text": "Deutsch und Rumänisch haben dasselbe griechische Wort – über verschiedene Wege."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

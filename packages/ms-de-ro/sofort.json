@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-sofort",
+  "parent": "ms-ro-imediat-afee237e@d96b19ca3b1775481014206e12c02b3b",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:french",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "sofort",
+    "definition": "Ohne jede Verzögerung, im selben Augenblick.",
+    "pronunciation": "/zoˈfɔʁt/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Sofort“ ist aus „so“ und „fort“ zusammengesetzt – „gleich weiter, ohne Pause“.",
+        "targetText": "„Sofort” este compus din „so” și „fort” – „îndată mai departe, fără pauză”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "imediat",
+    "definition": "Fără nicio întârziere, în aceeași clipă.",
+    "pronunciation": "/i.me.diˈat/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „imediat“ ist aus dem Französischen „immédiat“ entlehnt; die lateinische Wurzel „immediatus“ heißt „ohne etwas dazwischen“.",
+        "targetText": "Românescul „imediat” este împrumutat din franceză, din „immédiat”; rădăcina latină „immediatus” înseamnă „fără nimic la mijloc”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "bald",
+      "targetText": "curând"
+    },
+    {
+      "sourceText": "jetzt",
+      "targetText": "acum"
+    },
+    {
+      "sourceText": "schnell",
+      "targetText": "repede"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "später",
+      "targetText": "mai târziu"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich komme sofort.",
+      "targetText": "Vin imediat."
+    },
+    {
+      "sourceText": "Mach das sofort!",
+      "targetText": "Fă asta imediat!"
+    },
+    {
+      "sourceText": "Sie antwortete sofort.",
+      "targetText": "A răspuns imediat."
+    },
+    {
+      "sourceText": "Sofort nach dem Essen.",
+      "targetText": "Imediat după masă."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Alternative: „îndată“ – etwas gehobener, gleiche Bedeutung."
+    },
+    {
+      "lang": "de",
+      "text": "Wörtlich „ohne Zwischenraum“ – lateinisch in- + medius (Mitte)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

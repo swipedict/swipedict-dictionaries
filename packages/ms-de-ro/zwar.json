@@ -1,0 +1,94 @@
+{
+  "id": "ms-de-ro-zwar",
+  "parent": "ms-ro-ce-i-drept-b10c3b59@1a8028097ca3e38f4270ea3a4452c1bc",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zwar",
+    "definition": "Wort, das ein Zugeständnis einleitet, meist gefolgt von „aber“.",
+    "pronunciation": "/t͡svaːɐ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Zwar“ entstand aus mittelhochdeutsch „ze wāre“ – „in Wahrheit“.",
+        "targetText": "„Zwar” provine din germana medie „ze wāre” – „în adevăr”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ce-i drept",
+    "definition": "Expresie care introduce o concesie, urmată de obicei de „dar”.",
+    "pronunciation": "/t͡ʃej drept/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Wendung „ce-i drept“ besteht aus „ce“ (< lateinisch „quid“), „e“ (< „est“) und „drept“ (< lateinisch „directus“).",
+        "targetText": "Expresia „ce-i drept” este formată din „ce” (din latinescul „quid”), „e” (din „est”) și „drept” (din „directus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "aber",
+      "targetText": "dar"
+    },
+    {
+      "sourceText": "trotzdem",
+      "targetText": "totuși"
+    },
+    {
+      "sourceText": "allerdings",
+      "targetText": "într-adevăr"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Es ist zwar teuer, aber gut.",
+      "targetText": "Ce-i drept, este scump, dar bun."
+    },
+    {
+      "sourceText": "Ich habe zwar Zeit, aber keine Lust.",
+      "targetText": "Ce-i drept, am timp, dar nu am chef."
+    },
+    {
+      "sourceText": "Er ist zwar jung, aber klug.",
+      "targetText": "Ce-i drept, este tânăr, dar deștept."
+    },
+    {
+      "sourceText": "Zwar regnet es, doch wir gehen.",
+      "targetText": "Ce-i drept, plouă, dar mergem."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„ce-i drept“ steht meist am Satzanfang – wie deutsch „zwar“ leitet es das Zugeständnis ein."
+    },
+    {
+      "lang": "de",
+      "text": "Kürzere Alternative: „e drept că …“."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

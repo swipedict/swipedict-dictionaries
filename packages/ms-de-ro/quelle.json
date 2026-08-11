@@ -1,11 +1,11 @@
 {
   "id": "ms-de-ro-quelle",
-  "parent": "ms-ro-fiaza-93b2aca8@a1f5eb516e0043fc4568b0a33f8eeab9",
+  "parent": "ms-ro-izvor-8f3c21d5@83ce80a713feac9334bbc1d0c30a430f",
   "part_of_speech": "noun",
   "tags": [
     "level:b1",
     "etymology:slavic",
-    "topic:concepts-abstract",
+    "topic:nature-environment",
     "register:neutral",
     "property:concrete"
   ],
@@ -21,126 +21,81 @@
     "lang": "de",
     "headword": "Quelle",
     "genus": "feminine",
-    "definition": "etwas überreichen oder abliefern",
-    "pronunciation": "/ˈkvela/",
+    "pronunciation": "/ˈkvɛlə/",
+    "definition": "Stelle, an der Wasser aus der Erde tritt; übertragen auch der Ursprung oder Beleg für etwas.",
     "etymology": {
       "explanation": {
-        "sourceText": "Das Wort „Quelle“ stammt vom mittelhochdeutschen „quelle“ und hat seinen Ursprung im althochdeutschen „quella“, was „Sprudel“ oder „Ursprung“ bedeutet.",
-        "targetText": "Cuvântul german „Quelle“ provine din mijlocul germanului „quelle“, derivat din althochdeutsch „quella“, care înseamnă izvor sau origine."
+        "sourceText": "„Quelle“ geht auf althochdeutsch „quella“ zurück, zum Verb „quellen“ (hervorsprudeln) – die Stelle, an der Wasser hervortritt.",
+        "targetText": "Substantivul german „Quelle” provine din germana veche înaltă „quella”, de la verbul „quellen” („a țâșni”) – locul unde apa iese la suprafață."
       },
       "source": "Etymological Dictionaries, Linguistic Analysis"
-    },
-    "additional": "Eine Quelle kann sowohl einen geografischen Ursprung als auch eine Informationsquelle darstellen."
+    }
   },
   "target": {
     "lang": "ro",
-    "headword": "fiază",
-    "genus": "feminine",
-    "definition": "o sursă sau originea unui lucru; poate însemna și a preda sau a livra ceva",
-    "pronunciation": "/ˈfi.a.zə/",
+    "headword": "izvor",
+    "genus": "neuter",
+    "pronunciation": "/izˈvor/",
+    "definition": "Locul unde apa iese la suprafață din pământ; prin extindere, originea sau sursa a ceva.",
     "etymology": {
       "explanation": {
-        "sourceText": "Das rumänische Wort „fiază“ (auch „fiază“ oder „fiază“) ist veraltet und bedeutet Quelle oder Ursprung, abgeleitet aus dem Lateinischen.",
-        "targetText": "Cuvântul românesc „fiază“ este un termen vechi care înseamnă izvor sau sursă, provenind din latină."
+        "sourceText": "Das rumänische „izvor“ stammt aus altkirchenslawisch „izvorŭ“ (Quelle), gebildet aus „iz-“ (aus) und der Wurzel „vor-“ (fließen).",
+        "targetText": "Substantivul „izvor” provine din slavona veche „izvorŭ” („izvor, sursă”), format din „iz-” (din) și rădăcina „vor-” (a curge)."
       },
-      "source": "AI, DEX"
-    },
-    "additional": "„Fiază“ wird heute selten verwendet, aber kann in literarischen oder historischen Kontexten vorkommen."
-  },
-  "senses": [
-    {
-      "gloss": "Informationsquelle",
-      "explanation": {
-        "sourceText": "In ähnlich wie im Deutschen: für Informationsquellen.",
-        "targetText": "Similar cu germana, se referă la surse de informații."
-      },
-      "examples": [
-        {
-          "sourceText": "Diese Studie ist eine gute Quelle für Daten.",
-          "targetText": "Acest studiu este o bună fiază pentru date."
-        }
-      ]
-    },
-    {
-      "gloss": "Ursprung",
-      "explanation": {
-        "sourceText": "Verwendet für den Ursprung geografischer oder konzeptueller Ideen.",
-        "targetText": "Folosit pentru a desemna originea unor idei sau locuri."
-      },
-      "examples": [
-        {
-          "sourceText": "Die Quelle der Idee ist faszinierend.",
-          "targetText": "Fiaza ideii este fascinantă."
-        }
-      ]
+      "source": "Etymological Dictionaries, Linguistic Analysis"
     }
-  ],
+  },
+  "senses": [],
   "relatedWords": [
     {
-      "sourceText": "ablieferung",
-      "targetText": "predare"
+      "sourceText": "Wasser",
+      "targetText": "apă"
     },
     {
-      "sourceText": "lieferung",
-      "targetText": "livrare"
+      "sourceText": "Fluss",
+      "targetText": "râu"
     },
     {
-      "sourceText": "spende",
-      "targetText": "donație"
+      "sourceText": "Ursprung",
+      "targetText": "origine"
     },
     {
-      "sourceText": "übergabe",
-      "targetText": "predare"
+      "sourceText": "Quellenangabe",
+      "targetText": "indicarea sursei"
     }
   ],
   "antonyms": [
     {
-      "sourceText": "empfangen",
-      "targetText": "a primi"
+      "sourceText": "Mündung",
+      "targetText": "gură de vărsare"
     }
   ],
   "examples": [
     {
-      "sourceText": "Die Quelle des Flusses ist wunderschön.",
-      "targetText": "Fiaza râului este frumoasă."
+      "sourceText": "Die Quelle des Flusses liegt in den Bergen.",
+      "targetText": "Izvorul râului este în munți."
+    },
+    {
+      "sourceText": "Ich habe Wasser aus der Quelle getrunken.",
+      "targetText": "Am băut apă de la izvor."
+    },
+    {
+      "sourceText": "Das Buch ist eine Quelle von Informationen.",
+      "targetText": "Cartea este un izvor de informații."
     },
     {
       "sourceText": "Jeder Artikel muss die Quelle angeben.",
-      "targetText": "Fiecare articol trebuie să menționeze fiază."
-    },
-    {
-      "sourceText": "Wir müssen die Quelle des Problems finden.",
-      "targetText": "Trebuie să găsim fiază problemei."
-    },
-    {
-      "sourceText": "Die Lehrerin hat eine gute Quelle für Informationen.",
-      "targetText": "Învățătoarea are o bună fiază pentru informații."
-    },
-    {
-      "sourceText": "Die Quelle ist für das Projekt wichtig.",
-      "targetText": "Fiază este importantă pentru proiect."
-    },
-    {
-      "sourceText": "Wir sollten die Quelle der Neuigkeit überprüfen.",
-      "targetText": "Ar trebui să verificăm fiază știrii."
+      "targetText": "Fiecare articol trebuie să indice izvorul."
     }
   ],
   "learningTips": [
     {
       "lang": "de",
-      "text": "Das Wort „fiază“ klingt wie „Fluss“ und erinnert an eine Wasserquelle – so merkst du dir die Bedeutung."
+      "text": "Wie „Quelle“ hat auch „izvor“ beide Bedeutungen: die Wasserquelle und die Informationsquelle."
     },
     {
       "lang": "de",
-      "text": "Denke daran, dass „fiază“ auch für Informationsquellen steht – so kannst du es vielseitig nutzen."
-    },
-    {
-      "lang": "de",
-      "text": "Stelle dir eine Quelle als Ursprung von Wasser und Wissen vor – das hilft dir, „fiază“ zu behalten."
-    },
-    {
-      "lang": "de",
-      "text": "Verbinde „fiază“ mit dem Bild einer sprudelnden Quelle in der Natur."
+      "text": "Für die Quellenangabe in Texten sagt man im Rumänischen meist „sursă“ – „izvor“ klingt dort gehobener."
     }
   ],
   "media": {

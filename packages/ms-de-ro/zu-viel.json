@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-zu-viel",
+  "parent": "ms-ro-prea-mult-5f7bce40@0686769b9dc3ceb5f7e3ac21fc4c584e",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:slavic",
+    "topic:time-numbers",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "zu viel",
+    "definition": "Mehr als nötig oder erträglich.",
+    "pronunciation": "/t͡suː ˈfiːl/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die Fügung besteht aus der Gradpartikel „zu“ (althochdeutsch „zuo“) und „viel“ (althochdeutsch „filu“).",
+        "targetText": "Construcția este formată din particula „zu” (germana veche înaltă „zuo”) și „viel” („filu”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "prea mult",
+    "definition": "Mai mult decât este nevoie sau suportabil.",
+    "pronunciation": "/prea mult/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Die rumänische Fügung enthält „prea“, ein slawisches Lehnwort aus „prě-“ („über, allzu“), und „mult“ (< lateinisch „multus“).",
+        "targetText": "Construcția conține „prea”, împrumut slav din „prě-” („peste, prea”), și „mult” (din latinescul „multus”)."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "viel",
+      "targetText": "mult"
+    },
+    {
+      "sourceText": "genug",
+      "targetText": "destul"
+    },
+    {
+      "sourceText": "zu wenig",
+      "targetText": "prea puțin"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "zu wenig",
+      "targetText": "prea puțin"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Das ist zu viel.",
+      "targetText": "Este prea mult."
+    },
+    {
+      "sourceText": "Du arbeitest zu viel.",
+      "targetText": "Muncești prea mult."
+    },
+    {
+      "sourceText": "Zu viel Salz.",
+      "targetText": "Prea multă sare."
+    },
+    {
+      "sourceText": "Das ist mir zu teuer.",
+      "targetText": "Este prea scump pentru mine."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„prea“ entspricht genau dem deutschen Grad-„zu“: prea scump, prea mare, prea repede."
+    },
+    {
+      "lang": "de",
+      "text": "„prea“ ist slawisch, „mult“ lateinisch – ein gemischtes Paar in einer Wendung."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

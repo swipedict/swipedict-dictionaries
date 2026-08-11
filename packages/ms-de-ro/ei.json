@@ -1,0 +1,96 @@
+{
+  "id": "ms-de-ro-ei",
+  "parent": "ms-ro-ou-9cf17161@65cedf25dd4ef7df9ec6453f7cfdd9c9",
+  "part_of_speech": "noun",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:food-drink",
+    "register:neutral",
+    "property:concrete"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "Ei",
+    "definition": "Rundliches Erzeugnis von Vögeln, das gegessen wird.",
+    "pronunciation": "/aɪ̯/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Ei“ geht auf althochdeutsch „ei“ zurück, urverwandt mit lateinisch „ovum“.",
+        "targetText": "„Ei” provine din germana veche înaltă „ei”, înrudit din vechime cu latinescul „ovum”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "ou",
+    "definition": "Produs rotunjit al păsărilor, folosit ca aliment.",
+    "pronunciation": "/ow/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „ou“ stammt vom lateinischen „ovum“ – demselben Wort, mit dem auch das deutsche „Ei“ urverwandt ist.",
+        "targetText": "Românescul „ou” provine din latinescul „ovum” – același cuvânt cu care este înrudit și germanul „Ei”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    },
+    "genus": "neuter"
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "Huhn",
+      "targetText": "găină"
+    },
+    {
+      "sourceText": "Frühstück",
+      "targetText": "micul dejun"
+    },
+    {
+      "sourceText": "kochen",
+      "targetText": "a fierbe"
+    }
+  ],
+  "antonyms": [],
+  "examples": [
+    {
+      "sourceText": "Ich esse ein Ei.",
+      "targetText": "Mănânc un ou."
+    },
+    {
+      "sourceText": "Zwei gekochte Eier.",
+      "targetText": "Două ouă fierte."
+    },
+    {
+      "sourceText": "Rührei zum Frühstück.",
+      "targetText": "Ouă jumări la micul dejun."
+    },
+    {
+      "sourceText": "Das Ei ist frisch.",
+      "targetText": "Oul este proaspăt."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Plural: „ouă“ – eine der unregelmäßigsten Pluralformen des Rumänischen."
+    },
+    {
+      "lang": "de",
+      "text": "„ou“ und „Ei“ gehen auf dieselbe indogermanische Wurzel zurück."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-entweder",
+  "parent": "ms-ro-fie-fie-8cee2332@03836b7d438e3352dfa7ce2b81c19875",
+  "part_of_speech": "conjunction",
+  "tags": [
+    "level:b1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "entweder",
+    "definition": "Erster Teil der Doppelkonjunktion „entweder … oder“.",
+    "pronunciation": "/ɛntˈveːdɐ/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Entweder“ geht auf mittelhochdeutsch „eintweder“ zurück – „eines von beiden“.",
+        "targetText": "„Entweder” provine din germana medie „eintweder” – „unul dintre doi”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "fie … fie",
+    "definition": "Prima parte a construcției corelative „fie … fie”.",
+    "pronunciation": "/fi.e fi.e/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „fie“ ist der Konjunktiv von „a fi“ (< lateinisch „fieri“, werden) und heißt wörtlich „es sei“.",
+        "targetText": "Românescul „fie” este conjunctivul verbului „a fi” (din latinescul „fieri”) și înseamnă literal „să fie”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "oder",
+      "targetText": "sau"
+    },
+    {
+      "sourceText": "sowohl … als auch",
+      "targetText": "atât … cât și"
+    },
+    {
+      "sourceText": "ob … oder",
+      "targetText": "ori … ori"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "sowohl … als auch",
+      "targetText": "atât … cât și"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Entweder heute oder morgen.",
+      "targetText": "Fie astăzi, fie mâine."
+    },
+    {
+      "sourceText": "Entweder du oder ich.",
+      "targetText": "Fie tu, fie eu."
+    },
+    {
+      "sourceText": "Entweder Kaffee oder Tee.",
+      "targetText": "Fie cafea, fie ceai."
+    },
+    {
+      "sourceText": "Entweder er kommt oder er ruft an.",
+      "targetText": "Fie vine, fie sună."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "Gleichwertige Alternative: „ori … ori“ – etwas umgangssprachlicher als „fie … fie“."
+    },
+    {
+      "lang": "de",
+      "text": "„fie“ ist wörtlich „es sei“ – daher auch in „fie ce-o fi“ (komme, was wolle)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}

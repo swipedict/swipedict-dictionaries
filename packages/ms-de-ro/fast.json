@@ -1,0 +1,99 @@
+{
+  "id": "ms-de-ro-fast",
+  "parent": "ms-ro-aproape-7b5559ba@f3ba2eb1ca9482a7a1515f49f0c7a02f",
+  "part_of_speech": "adverb",
+  "tags": [
+    "level:a1",
+    "etymology:latin",
+    "topic:concepts-abstract",
+    "register:neutral",
+    "property:abstract"
+  ],
+  "sourceLanguage": "de",
+  "targetLanguage": "ro",
+  "metadata": {
+    "author": "mschwehl",
+    "source": "swipedict-de-ro",
+    "contentVersion": 1,
+    "schemaVersion": "1.0"
+  },
+  "source": {
+    "lang": "de",
+    "headword": "fast",
+    "definition": "Beinahe, nicht ganz vollständig.",
+    "pronunciation": "/fast/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "„Fast“ geht auf althochdeutsch „fasto“ („fest, sehr“) zurück; die Bedeutung „beinahe“ ist jünger.",
+        "targetText": "„Fast” provine din germana veche înaltă „fasto” („ferm, foarte”); sensul „aproape” este mai recent."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "target": {
+    "lang": "ro",
+    "headword": "aproape",
+    "definition": "Cât pe ce, nu chiar complet.",
+    "pronunciation": "/aˈproa.pe/",
+    "etymology": {
+      "explanation": {
+        "sourceText": "Das rumänische „aproape“ geht auf lateinisch „ad prope“ zurück – „nahe daran“.",
+        "targetText": "Românescul „aproape” provine din latinescul „ad prope” – „în apropiere”."
+      },
+      "source": "Etymological Dictionaries, Linguistic Analysis"
+    }
+  },
+  "senses": [],
+  "relatedWords": [
+    {
+      "sourceText": "ungefähr",
+      "targetText": "cam"
+    },
+    {
+      "sourceText": "nah",
+      "targetText": "aproape"
+    },
+    {
+      "sourceText": "beinahe",
+      "targetText": "aproape"
+    }
+  ],
+  "antonyms": [
+    {
+      "sourceText": "weit",
+      "targetText": "departe"
+    }
+  ],
+  "examples": [
+    {
+      "sourceText": "Ich bin fast fertig.",
+      "targetText": "Sunt aproape gata."
+    },
+    {
+      "sourceText": "Fast alle sind gekommen.",
+      "targetText": "Aproape toți au venit."
+    },
+    {
+      "sourceText": "Es ist fast zehn Uhr.",
+      "targetText": "Este aproape ora zece."
+    },
+    {
+      "sourceText": "Das Haus ist ganz nah.",
+      "targetText": "Casa este aproape."
+    }
+  ],
+  "learningTips": [
+    {
+      "lang": "de",
+      "text": "„aproape“ heißt zugleich „nah“ und „fast“ – der Kontext entscheidet."
+    },
+    {
+      "lang": "de",
+      "text": "Gegenteil im räumlichen Sinn: „departe“ (weit)."
+    }
+  ],
+  "media": {
+    "images": [],
+    "audio": []
+  }
+}
